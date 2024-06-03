@@ -1,0 +1,714 @@
+Hey everybody.
+So a couple of little housekeeping notes, reminders.
+I don't expect anyone to find...
+So I used to make videos in my house, and when I made videos in my house, the orientation
+was wide, and the camera was far away, and you can see all my hand gestures, and I'm Italian,
+so we kind of speak with our hands, though many other people do too.
+So back then, it was really good, and I liked making videos in my house.
+In fact, the story is more complicated than that in a way that I'm not at liberty to explain.
+But there are some mysteries about me.
+These days, I like to make videos when I'm outside, and right now I'm near where the
+owl nest is, and I'm seeing traces of owls, and I'm also near where the other day I stood
+on top of a yellow jacket nest like a complete idiot, but I like to make videos outside,
+and so what that means is you get the sort of, yes, I could turn the camera the other
+way, but it's much harder to carry comfortably that way, and even if I did that, you wouldn't
+see much of my hand gestures, so it wouldn't help a lot.
+So part of the thing that I'm here going to remind my viewers about is that you may feel
+perfectly comfortable not watching my videos, but just listening to them.
+Now I'm looking at the yellow jacket nest and the owl pellet that almost got me destroyed
+by them, which I secretly covet.
+I want to retrieve that owl pellet.
+I came back the other night kind of near darkness with my flashlight, but they were still too
+active for me to try to get that pellet with a stick, so I'm going to err on the side of
+caution as regards yellow jackets, and trust me, when I say, I encourage you to do the
+same.
+In any case, yeah, you don't really have to watch these videos, but you might enjoy listening
+to them, unless, for some reason, I mean, obviously, us humans, we are incredibly well
+adapted or developed to respond to human faces, so facial expressions are hugely important
+for us, and they are part of the penumbra of nonverbal signaling that is fundamentally
+important to human communication and that gets lost in texting, which is a habit that
+I generally abhor and am philosophically opposed to.
+I might even be morally and ethically opposed, but one of the things for those of you who
+know me that you will understand about my character and my choices is that I don't think
+we're going to get rid of our relationships with machines, and underneath that, we have
+an even more dangerous relationship, our relationship with language.
+We're not going to get rid of those relationships, at least barring some unforeseen, staggering
+catastrophe, which, you know, not entirely unforeseen, but barring some unusually significant
+catastrophe, we're going to keep having both language and machines, but particularly, we're
+going to have language.
+Because a little more of a question, there's stuff that could happen that could end our
+ability to create and sustain machinery, lots of different stuff, and some of that stuff
+might be coming, and we might, weirdly, it might be the result of our having invented
+machines, but essentially, in the present moment, we can't get rid of this relationship,
+so what we can do is we can learn to be more intelligent about it, and be more intelligent
+about both of these relationships involves understanding their risks and pitfalls in
+ways that are far more significant than anything we can generally learn in our culture, in
+our societies, and then selecting the behaviors that make us smarter, instead of what usually
+happens when we use machines, particularly when we use social media, is that most of
+the time, we get dumber every time we touch these things.
+Now, you could argue, well, Darren, where's the research on that?
+Show me the statistics, and that's one of the topics I hope to reflect on today, statistics.
+I've been working with computers since the 1980s, when they were first introduced to
+the common population, and I was a technician and programmer.
+I learned C and Pascal in the relatively, well, I learned C right about the time it
+was invented.
+I learned Pascal a little bit after that.
+I learned a little bit of assembly code for IBM 8088s way back in the day.
+That'll date me for those of you who know what that processor is.
+And I was never like, I wasn't a genius coder.
+My first coding project ever was on an Atari 800 donated to me very generously.
+I was so excited by this gift.
+And my friend, Martin Peters, who now I believe works for Google, and I used to hang out with
+these guys.
+Martin Peters, Andy Cogan, Ray Latham, Gregory Ward, Greg was the least geeky of us.
+Martin was an incredible math whiz, and he was so kind of, word I can't find at the moment.
+He was a wrestler, he was a big guy, boisterous, very funny, in the sense of being kind of
+awkward, loved these guys still to this day, they haven't spoken with any of them in forever.
+Ray went on to become a microbiologist, brilliant fucking choice, Andy met a woman and became
+extremely religious, which was the least likely thing conceivable if you had known Andy prior
+to that, and wrote a bunch of Bible software.
+I don't know what he's doing now.
+Martin Peters works at Google, and has for a good, I think, 20 years.
+But anyway, Martin gifted me with his Atari 800.
+And this kind of goes to the other, wow, it's weird, I didn't realize this.
+This goes to the other topic that I'm hoping to orbit and reflect on today, which is memory.
+So the two topics that I have in mind are memory and statistics.
+But computers, as you well know, probably, they depend for their operations on two crucial
+representations of biological assets or what I would refer to as biocognitive assets, though
+they could be thought of as biorelational.
+Those assets are memory and storage.
+In any case, my first program in basic on the Atari 800, back in the days when we had
+to save programs to cassette tapes, though there were very expensive disc drives available
+at that time.
+The first program I ever wrote by myself without instruction in anything, really, because I
+actually never went to high school.
+I'm a self-educated person, largely.
+So the formal word for that is an auto-deduct.
+It just means, I think, self-teaching.
+In any case, the first program I wrote was a Tic-Tac-Toe program that would beat you
+if it were possible.
+It turns out that Tic-Tac-Toe games have a dependency on the first move.
+And I discovered this when I was attempting to build this program.
+And essentially, I had to teach, not teach.
+That's the wrong word.
+See, this is the problem.
+We think we teach machines things.
+It is not so.
+All we do is fill them with numbers.
+That's not teaching, right?
+And the fact that software and algorithms can improve their response to certain kinds
+of problems that we pose them has nothing to do with learning.
+It's not learning.
+It's code.
+It's sheer.
+It's basically the manipulation of databases.
+That's all it is.
+It's the manipulation of databases.
+So I built a database in BASIC using arrays that would allow the computer, then, very
+primitive.
+What are those things?
+How much RAM do they have?
+So RAM is random access memory.
+ROM is read-only memory.
+And then we have, and those are usually chips, right?
+And now we have hard drives that are built out of memory that we call solid-state drives.
+That means instead of having a disk for storage, they use chips.
+They use what used to be RAM for storage.
+And RAM has all kinds of peculiar qualities when you start thinking about it in terms
+of engineering and physics and stuff.
+And all of these things, you know, they depend on electromagnetism primarily, right?
+So it isn't that there's ever a zero or a one inside a computer.
+What there are are charges.
+It's not my intention to talk a lot about computers, however, computers are technological
+representations of aspects, derivable aspects of biological assets familiar to our human
+experience, primarily the asset that is represented in computers is memory.
+Now everything that we do consciously, and even all the things we do unconsciously.
+So my capacity to speak and continue walking without having to think about walking, although
+a few days ago while following this device around, I stood on top of a yellow jacket
+nest.
+Thankfully, I wasn't stung.
+Got very lucky there.
+Because I wasn't paying enough attention to where I was walking, but I can walk without
+having to pay conscious attention to it.
+That doesn't mean memory is not involved.
+It doesn't even really mean consciousness isn't involved.
+What it means is the tiny fragment of consciousness that forms the consciousness of which we are
+aware and that we are aware with, like the part that is aware that we are aware, and
+the functions, the activities or behaviors that we engage with with that, those structure
+memory.
+Now what we refer to as evolution, which involves all of this astonishingly impossibly
+sophisticated ecological hyper structures, that can be understood as both memory in
+that it's alive right now and being instructed right now, moment to moment, but also as storage
+in that, now I want to be really clear about this, memory and storage are modest, extremely
+impoverished little derivations of features of biological relation.
+So it isn't that evolution is memory, it's that what we think of as memory is a representation
+of a tiny little fragment, you know, a little pie slice of the continuum of the astonishing
+array of forms and embodiments of meta-memory that organisms represent.
+And organisms themselves are a slice of something we don't have a word for because we've never
+well, most of us have never been anywhere near an experience of that, that of which
+organisms are a derivative continuum.
+But I assure you, there is such a thing and one way to think about it is time space, but
+and it's possible for humans to have access to that continuum, the continuum above organisms
+of which organisms are unique expressions and participating organs, yeah, organism, right?
+It's going to be a little traffic noise here for a minute.
+We can access this, but we don't have language about it because although we consider our
+societies to be advanced and they are in certain technological ways, they're unimaginably
+primitive, they're unexpectedly primitive in many other ways.
+So one way to think about ecologies is the anciently conserved embodiments and relationships
+of the history and future of life on earth.
+And when I'm walking through these gardens, that's the holophore, wow, that's the everything
+vehicle that I understand that emerges to my consciousness as what's going on.
+When I'm walking in the gardens, when I'm walking in nature, as opposed to the city,
+the city is more like a computer, the nature is more like a living being, a living meta mind,
+right? It's that continuum that minds emerge as expressions of, right?
+So it's the meta position of minds and intelligence.
+Today, as I was standing near a tree, a squirrel came around the tree and because I was standing
+so very still, it didn't immediately notice me.
+And by the way, one of the things you might notice if you observe animals carefully, but
+also insects, is that they will tend to track you with their right eye if they can, if it's
+relatively reasonable to do so, if they think you are a threat.
+And this turns out to be important. Lateralization in bilaterally symmetrical organisms, like
+nearly all of the animals and insects we know, is fundamental to our way of being in the
+world, to our nervous systems, and to our cognitive inclinations.
+You know, it's such a privilege just to be alive as a human being. Of all the forms in
+nature we might have experience of, the human form is unimaginably privileged in various
+ways. There are some ways in which it seems impoverished. For example, we don't have wings.
+And because we don't have wings, it's not likely that we think about the world and view
+the world and understand identity in the ways unique to beings that do have wings. And different
+kinds of beings have different relationships with wings. An eagle is a very different thing
+from a hummingbird is a very different thing from a bat.
+But we humans occupy a unique, apparently unique, niche in the evolution of life on
+Earth. And it's an astonishingly privileged niche. Unfortunately, it's so privileged that
+we are inclined to abuse it. And part of that inclination derives from our unique cognitive
+nature, the peculiar advancements of our corpus callosum. What we usually refer to as the
+hemispheres of the brain, which lie on the surface of the brain, and are both divided
+and bridged. I'm sorry, I said the corpus callosum? I got that wrong. Occasionally,
+I make mistakes in my videos and it's very embarrassing because you can't really go back
+and correct it. No, I mean the cerebellum, excuse me. It's the cerebellum, which is both
+divided and bridged by the corpus callosum. Or the cerebral hemispheres, right, is what
+I really mean. The cerebral hemispheres are divided and bridged by the corpus callosum.
+Sometimes I get so excited that my mouth is, it's almost like, like, like there's a race
+horse inside me, right? And it races ahead. It's so much faster than my mouth. And also,
+I want to slow down a little bit when I'm talking so that the experience of listening
+is more soothing and enjoyable. I think most of us have enough tension in our lives these
+days. So I'm going to try and slow down a little bit. But sometimes I'm so excited about
+the topic that my mind is racing ahead of my mouth. And my mouth is sort of racing ahead
+of my error-checking apparatus, although it's not apparatus, my error-checking behavior.
+And so there's all these little problems, right, that I have to contend with. In any
+case, I think of Earth in different ways for different purposes. But the ecologies I treasure
+them above all things. There's nothing as precious as the ecologies of Earth anywhere
+in time or space that I can understand. That I yet understand. To me, these are the fact
+that I live on a world teeming with life, intelligent life, all of it. Not intelligent
+in the sense of being formally, representationally cognitive the way humans are, intelligent
+in a far more astonishing way. Intelligent in the way that composes the symphony of symbiotic
+relationships we refer to as nature when we mean living beings. That kind of intelligence.
+And I think of the ecologies of Earth as what I will relate, what I will refer to as a biocognitive
+or a biorelational hyperstructure, which means a multi-dimensional, living, transformational
+meta-being. A being that is something that is more than a being that is the context from
+which beings emerge. In the same way that a limb, my hand is a unique instance of a limb.
+And organisms are unique instances of the biocognitive or biorelational hyperstructure
+that the ecologies of Earth comprise. And those things themselves, that thing itself is the
+limb of something even more astonishing that we don't have categories for. The closest category
+that we have to something like that is divinity or supernature. And the sun, interestingly enough
+around here, is the most easily distinguished, the most easily noticed or point-outable instance
+of that which by its activity is inclined to produce
+biorelational hyperstructures as a result of what it is and is doing.
+So no sun, no mines around here. And that means that if you go upscale, if you travel up the
+waterfall of origination away from Earth toward the nearest thing that is without which you don't
+get mines, you find the sun. And so in a way, all of the minds and memory and even our language
+and our relationships with it, they are expressions of the sun. They are because the sun is.
+Now long ago, our language that we speak in the United States, the language that
+the people who speak English speak is actually the simpler way of saying it.
+I don't know all of its roots. Some of the roots go back to Pi, which is proto-Indo-European.
+And some of the roots trace their origins to Greek and Latin. But our language is a bit of a
+conglomerate. We've adopted words and ideas from a variety of cultures over the evolution
+of human consciousness. One of my very favorite topics because I want to know
+what it was like to have a mind, say, 8,000 years ago or 20,000 years ago.
+And one of the most astonishing books, which for all of its errors, is still
+exceptionally profound. It's the first book that really introduced me to the topic of the
+evolution of human consciousness. It's a book by a man named Julian Jaynes. And hopefully I can
+remember the title. The evolution of consciousness in the breakdown of the bicameral mind.
+And one of the things that Julian kind of got right, even though he had parts of it backwards,
+was that there are sort of two competing, two conflicting aspects, right? The same way that,
+in a sense, one can imagine that the right half of my body, which is connected primarily to my
+left cerebral hemisphere, and the left half of my body, which is connected primarily to the right
+cerebral hemisphere, are in conflict. And it's actually that conflict and the negotiation of
+balance between them that allows for me to be intelligent in the sense that we mean,
+in the sense that we might use to indicate the capacity for insight.
+Also, the capacity for engineering, and the capacity for the recognition of value, or, you know,
+what is the way of saying more than value?
+Empathy, altruism, love,
+the capacity for love.
+And when I see the living things, the living beings, my intellect is overcome, you see.
+It is insufficient. It is not my intellect with which I love.
+It is not that within me capable of dominating
+and obliterating or representing
+the classes and categories and functions and behaviors and likenesses and
+catalogues of living beings. It is not.
+My love surpassed all of that.
+And though it was not my intention to speak about love,
+raspberries, not yet ripe, but one day soon.
+It was not my intention to speak about love.
+And yet, love and memory,
+these have a deep relation. However difficult it might be
+to circumscribe or explain or analogize it at the moment.
+Now, I have models that allow me to do that,
+and they're quite profound, and they don't come from me.
+They come from a place beyond me that I don't truly understand but have had experience of.
+They come from a being beyond being that I don't truly understand but have experience of.
+Or maybe it's not true that I don't understand it.
+Maybe perhaps it's true that I don't overstand it,
+which is what we really mean most of the time when humans use this word,
+understanding. That blue jay flew right past my face.
+Yes, hello.
+And that blue jay is one of the heroes
+of the biorelational hyper structure that is one of the most useful ways of thinking about Earth.
+And nature and organisms.
+But the Greeks and before them, others, whose progeny they became,
+understood that memory was fundamental to the nature of everything that we know
+and are familiar with as humans. Now,
+human consciousness had to evolve
+for many millions of lifetimes, and by that I don't mean millions of sequential lifetimes.
+I mean millions of simultaneous lifetimes over sequential lifetimes.
+We had to evolve quite significantly before it was possible for us to represent the idea of memory
+in consciousness. And this is one of the things that makes us so dangerous
+and so unique as animals, is that we have this capacity that I refer to as
+FRC, or Formally Representational Cognition Consciousness. We use language, we have concepts,
+we make maps, we explain things, we analogize them, we produce formulas, we are mathematical,
+we can build algorithms. And I don't believe though someone might someday
+make an argument that either appears to prove me wrong or actually succeeds.
+Although proofs are very complex things because they often depend on a pre-flattening of the
+context in which the proof is to be provided, right? So we have to throw a lot of stuff away
+from the context before we can arrive at a proof. And some of that stuff is incredibly essential
+that we remain aware of. So often when we produce proofs that provide insight, we at the same time
+become blind, right? A proof is extremely compelling. It's so compelling that you might
+lose track of what you had to throw away to get there. And that's a real problem for animals
+like us. And it's a problem that very few people have developed effective methods to relate with
+intelligence and awareness. But it's something that's crucial that we accomplish as human beings
+if we are to truly embody the intelligences that are well within our natural potential.
+This isn't to say that proofs aren't proofs. Many of the theories developed by human beings,
+particularly those that allow us to build otherwise inconceivable things like atomic weapons
+and supercomputers or quantum computers, are examples of the embodiments of principles
+first proven in theory. It's unlikely that Alan Turing was the first human being
+to have the idea of a computing machine. But he was one of the human beings who,
+he's the one that we associate the idea with.
+How ironic that he was persecuted and terrified by his
+heart, by love, because he loved men, instead of women.
+Memory.
+When we use our minds, now see that language right there,
+extremely untrustworthy. This is one of the problems with being an FRC, right,
+is that we have language and we are inclined to allow it to lead our intuitions.
+And even our intuitions can go awry because they can become confused by the profusion of
+representations natural, you know, that our minds naturally produce.
+When we could be said to engage in mentalistic behavior, I'll try that phrase,
+even that one's quite dangerous, but I'll try to walk carefully.
+Memory. We are structuring memory. And as we live our lives in the biosphere of earth,
+we are affecting and being affected by the extended biorelational continuum of life forms here.
+Our species is inclined to understand itself as distinct
+from the biosphere and the ecology, the ecologies of the biosphere, from the
+biorelational hyper structures that I would argue we arise as expressions of.
+I consider that to be impossible. We are no more distinct from,
+there are dimensions of unity within the biosphere that we have no language for,
+and that are largely invisible to us. But we are more connected in these dimensions
+to life on earth than my own hand is connected to my body. The problem is our minds cannot
+conceive of it, cannot conceive of this. And many of the races of people who were our progenitors,
+our ancestors, they had not yet proceeded so far down the tree of cognitive abstractions
+that they became blind to this truth of our human nature. Yes, I will dare to call it a truth.
+And so they left us traces in the artifacts, of course most of them didn't write.
+They left us traces in the artifacts and the constructions.
+Once they began to create artifacts and constructions that would survive over vast epochs of time,
+that we attempt to interpret. But we do not see these things with the minds of the ancients.
+And in fact, very few of us are capable of
+recovering to consciousness the layers of awareness we carry within us
+that are the endowments of our evolutionary ancestors. And yet,
+the nature of our humanity allows, not only allows for this, but I would argue demands it.
+We must. We ache to. We know there is a secret
+carried in the seed of our souls or our essence and that secret wants discovery.
+And I am lucky to have glimpsed it in my lifetime for so few human beings will glimpse it,
+though they will know the ache. They will recognize that of which I speak.
+Whether or not they've had a glimpse, they will know. These words will resonate with those who
+understand the direction in which I point. And it's it's not a direction humans have language
+about. Our categories, the categories of moderns, they're too abstract. We've come too far.
+We've come so far, we've become blind to things so fundamental that it would be
+that it would be unimaginable if we were to meet
+a group of humans from 50 or 100,000 years ago, they would be able to see and show us things
+within the living world. So astonishing that we would gladly dispose of all of our technologies
+to merely glimpse them. And I know this to be true,
+for I've been privy to such glimpses.
+And not as many might imagine as the result of the use of intoxicants.
+But as the result of adoration,
+of love so pure, it rises beyond the capacities of words or models to convey.
+Love for living beings, love for all the living beings in all their forms and kinds.
+And that felt sense. I trust more than all my intellect, however joyful my relation with it,
+however fierce my exposition. And that love is memory of a different kind. It's memory of communion.
+It's the memory of a single origin, not merely distant in history, present right here, right now.
+Obscured by the intensity
+of intellect and modeling and language and habits of thought and abstraction,
+derivation, distinguishing, relation, purposes that drive habits.
+So I am fascinated with the topic one might refer to as the developmental evolution of human
+consciousness. There may well have been a time, as Julian Janes argues quite convincingly,
+in his partially confused book,
+I can easily excuse the confusion for the brilliance therein hidden.
+There might have been a time when it was impossible for me to understand myself as a distinct self,
+when in fact the idea of myself did not exist. And what instead happened was I experienced the
+urgings of what could only be understood as gods within me. And I had nothing like the formally
+representational memory I now have. What I had instead was something so strange to us moderns
+that it's difficult to describe.
+I had a dreaming path in life
+and was driven by urges from within whose source I could not name.
+And this seeming speculation is quite profound and useful whether or not it is true.
+And it is common that we can come across such things.
+Truth is easily overvalued in a society that uses proofs to produce technologies.
+Perspective, insight, the chance of seeing a thing from seven different eyes,
+each one unique of purpose and derivation. This is a magic we mostly have lost,
+though it returns to us to some degree for most of us in dreaming.
+And our research seems to imply that dreaming is absolutely crucial to the formation and health
+of memory. And where dreaming is damaged, memory is damaged and learning becomes difficult,
+if not impossible. Now dreaming is one of the aspects of our experience that
+where we can directly seek out mysteries and we can, it's almost as if the old,
+the gulf between our modernity and our antiquity
+in the waters of dreaming this gulf can be bridged directly, experientially, personally.
+And that's profound and beautiful. And I encourage those who find my passions fascinating
+and want to forge their own quest to seek in dreaming, but not merely for lucid dreaming,
+also for its opposite, which we have no word for, because we can't say lucid waking,
+that's not what is meant. What we mean is the opposite of lucid dreaming in that the dreaming mind
+gently intrudes upon our waking consciousness
+in such a way that waking does not merely collapse into dreaming,
+much in the way that in lucid dreaming our consciousness intrudes upon our waking consciousness,
+right, intrudes upon the dreaming manifold in a way that doesn't cause it to collapse into waking.
+And for those of you who've been paying attention to my videos, you'll notice this
+theme in the background of a sort of a cloud-like state and the work of our waking mind to
+disambiguate that down to concrete deliverables, that is a bird, the bird is a bluejay,
+this is me walking, making a video, right. There's this cloud-like state of ambiguous
+meaning and identity and potential and our waking minds are trained, we've trained them
+to disambiguate, right, to cause that thing to collapse toward concrete deliverables.
+And that's a behavior
+that we do habitually using methods we've acquired from our personal history and culture,
+but those methods are the catalog of methods that we've been given.
+Well, imagine if you gave your children an alphabet of two letters.
+That's an analogy of the otherwise unimaginable impoverishment
+that I don't even know what to say, I'm so overwhelmed.
+That's an analogy of the impoverishment of methods
+that we acquire from our common cultures compared to those we've accessed to.
+And because there are no humans near us who
+produce and distribute better methods, we tend to stay with our little two to three-letter alphabet
+and as you can imagine that limits the kinds of words we can form.
+I mean with two letters there's literally only two, well let's see, there's four words you can form.
+Five, if we count, a few more if we count absences, right, but yeah, two letters, four words.
+We'll call them A and B, so we've got A, B, A, B, and B, A, right. And
+if we add dimensions associated with A and B above and below those
+so that we have the A perspective on A, B, A, B, and B, A, and then we have the B perspective on A,
+B, B, A, and so on. Then we get more methods, but in general our people suffer from a flattening
+of our relationship with FRC and we need help from people who have, who can and have actively
+unflattened that relationship. It's extremely difficult for us to do this by ourselves
+and the people who we revere as prodigies, some of them prodigies of being human,
+like Jane Goodall for example or Jacques Cousteau, some of them prodigies of specific disciplines
+like Touring or Einstein or Kurt Goodall, some of them prodigies of a nature of cognition itself
+like Alfred Korzybski or Alan Watts. And we might claim there are prodigies of spirituality,
+but I am skeptical of this for many reasons. There do however to be, there appears to be
+something like prodigies of insight or awakening and what I mean by that is prodigies of seeing
+through the mind, right? Prodigies of cutting through the mind and these might be people like
+Dogen or perhaps in modern times John Tarrant Roshi, one of my old teachers.
+And there are also perhaps prodigies of recovering the mind of the ancients within us,
+but these are very difficult to point to. Julian Janes is one of the only easy examples. Bruno
+Snell I think wrote a book called The Discovery of the Mind, if I remember correctly,
+it's very important because we don't realize that it is generally common for us to believe
+that a person who lived long ago essentially had the same kind of mind we have
+and they did not. And part of there's all kinds of reasons why they did not.
+The sun and the earth were younger and different. The ecologies were profuse and unspoiled.
+Our people grew up during a paradisical epoch of earth's biological development
+and the intelligences of the ancients partook of that unimaginable
+profusion of life and intelligence, not the kind that we have, not FRC,
+intelligence in relation, forms of relation that became forms of intelligence in the ways they
+structured memory. Now, most of what I've done today is hint toward things, toward perspectives and
+assets we contain and are unaware of largely. One of the astonishing things about biocognitive
+hyperstructures is there are layers of pace, there are layers of biorelational time,
+and some of the tiny ones are unimaginably fast and some of the huge ones are unimaginably slow.
+Well, unimaginably, they're difficult to imagine, perhaps they're not impossible.
+At the level of a virus, time is a very different thing from the level of a bacteria,
+from a bacteria, to a tiny insect, a very, very different thing, from an insect to an animal,
+a different thing, from a mouse to a cat, a different thing, from a cat to a horse,
+a different thing, from a horse to a human, a different thing. And each of these infolds
+many layers of biorelational temporality so that in a sense we can understand organisms as
+productive of time. I am want to say that organisms and ecologies are to
+time what stars are to light or energy.
+Our behavior structure memory and the contexts in which we emerge and interact
+instruct our behaviors. They encourage or inhibit, reveal or obscure
+the potentials we bring to human birth as part of our essential humanity.
+And so where those contexts are crude or mechanical, where they are domineering or enslaving,
+or rapacious, or cruel, or vicious, or impoverished, we become blind. We become,
+we adjust to survive within them. And by adjust, I mean we eject whole aspects of our potential
+for insight and intelligence and creativity and humanity. And that is a tragedy we must,
+I think, address together. First by recognition, then by understanding,
+then by bold and urgent union, then by action, with and for each other. And the history and
+future of life on earth. And when we act in concert with the purpose of underpinnings of the history
+and future of life on earth, we acquire allies we cannot otherwise conceive of.
+And in this direction lies hope for our species and for those people who will with great sobriety
+recognize this. Why do I say with great sobriety?
+Because we are also inclined to strange religions, to bizarre sort of seemingly beautiful
+deceptions. I heard some people talking about the findings of a man who claims to be a scientist.
+I've not seen his credentials. He cites some papers. His name is, what the hell is his name?
+I even remember it. Hopefully not. This is one time when I really, I'm kind of glad I can't
+remember the name. There's some video circulating about some guy with what seemed to be bold insights
+about COVID. But when he cites medical papers, he's lying through his teeth. He hasn't even read
+the papers. And he makes up things about them that have nothing to do with what's written in them.
+And what that means is whatever it is he's doing, it isn't science. And he sort of claims to be God's
+gift to medicine. But he inciting papers to support his claims, he profusely crafts falsehoods.
+And there's people in this thread saying, well, I go with spirit. I go with intuition.
+So they don't care that he's lying. They literally don't care. They just like what he's saying.
+And this is what I mean by strange religions.
+Science does not tell us the truth or identity of things. But a man or woman who uses it to lie
+and lies about the science itself is stealing authority, right? They're attempting to steal
+authority. And morally and ethically, that's repugnant. And this is why we should carefully vet
+people who claim to have authorized insight. Now, science, I'm going to depart the topics I've been
+orbiting here and hint hinting at, and I'm going to move toward
+the other part of the discussion that I wanted to have today, which is very delicate and relates
+with what I'm talking about. So this scientist, this supposed researcher, gosh, now I do wish
+I could remember his name. I'll add it to the comments on the video. He claims that he cites a
+paper claiming that it found that 42 viruses were found in people who had been thoroughly tested and
+shown to be healthy, uninfected people, thousands of them. And yet when we look in their blood,
+we find HIV, we find all these other viruses. And this is part of his really bizarre argument,
+which, you know, like many sort of conspiracy theorists, there's a half-truths involved. Yes,
+the world is filled with viruses. Yes, there are probably thousands of different kinds of viruses
+in our bodies. However, he's lying about the paper because the paper does not say anything about
+having any, it actually says the opposite of what he says. None of these people were tested
+for pre-existing conditions, whereas he claims that their blood was thoroughly, that they were
+thoroughly tested for pre-existing conditions before having had this analysis done on them,
+and that the analysis found, you know, all these viruses in their bodies, and yet they weren't
+having symptoms. Well, that's not what the analysis did or found. First of all, none of the people
+were tested for pre-existing conditions, so the cohort included people who had HIV or HPV or
+HSV or, you know, a number of other viruses. And what the goal was was to establish what the
+virome, what the human blood virome, might contain. And what that means is not which viruses are in
+your blood, it means if we survey your blood and we discover little chunks of viral DNA, we can
+determine, with a modest degree of confidence, to what you have somehow been exposed in your
+lifetime. That doesn't mean you got a virus. That doesn't mean a whole virus entered you. That means
+that somehow little pieces of viral DNA got into your bloodstream, and that could be by viral
+exposure. You might have had a disease or have a disease, but he makes the claim that the study
+found, you know, all these viruses in people. Actually, the study wasn't looking for viruses,
+it was looking for viral DNA. And it's very important to understand that when we test,
+there's different ways we can test blood for exposure. And one of the common ways of testing
+is to look for fragments of a specific virus's DNA or antibodies to a specific pathogen.
+This doesn't tell us necessarily that there are whole viruses in the blood. In fact, it tells us
+the opposite. The study did claim that it made some modest effort to look for whole viruses,
+but that effort was not part of the study. So, in essence, this guy is basically just boldly
+lying about the study, and he's lying about it in a way that he's using to support his pet theory
+that is nonsensical, which is that all of us have HIV and HSV, and we have all these diseases,
+and what actually is going on is just that our immune system isn't very good because of, you know,
+problems in the environment. Now, again, half truths, right? We are, our immune systems are
+sensitive to problems in the environment, not a joke. But I'm going to leave this topic here,
+because it's not my purpose to expose this person's abuse of scientific literature or
+authority. But when you see someone attempting to steal authority from science or religion,
+you should have a moment's pause and be skeptical, and, you know, a little bit of suspicion should
+arise in your mind, and you should say, hmm, why would they be doing that? Right? Why would they
+need to steal authority? Why can't they just demonstrate directly the factual basis of their
+ideas, at least statistically? And this is the topic I want to proceed upon briefly. I want to
+talk a little bit about statistics. Because in our modern circumstance, we, so look, scientific
+research forms a continuum between totally unreliable and very reliable. Einstein's theories
+of relativity have so far proven astonishingly reliable. The theory of there being an ether in
+the universe has mostly been disproven. Or, it's the other word, it'll come to me.
+In any case, one of the things that's going on these days is humans are using statistics
+to try to determine how threatening a phenomenon is or isn't. And there's lots, there's not really
+too many terrible problems. Well, different people would see this differently. One of the,
+Nassim Nicholas Taleb is aware of gaping holes in our relationships with statistics. He's not the
+only one. And he's kind of a pain in the butt for various reasons. Brilliant though he is.
+There are people whose headlights are so fucking bright that it blinds them.
+And he might be one of those people. And in some dimensions of my own life, I am one of those people.
+And that's how I know about that problem. Because I experience it with myself.
+In any case, there are lots of problems with how we use statistics. And it's very easy
+to write science papers that give the appearance of having correctly derived evidence
+when in fact they did no such thing. As a person who works directly in a scientific
+editing company with a neuroscientist, and I've been doing this now for 15 years,
+it's very, I've spent thousands of hours talking with him about how papers can be forged, flawed,
+and still get published, how they can fail in peer review to be properly disambiguated,
+how peer review can be manipulated. All of these things are true. It doesn't mean we can't trust
+science. It means that just the same way when you consider whether or not to eat a piece of food,
+you're going to do some disambiguation. You're going to kind of sniff it, maybe.
+You're going to watch the other people eating the food. You're going to intuitively have a sense
+of whether it's okay to eat this food or drink this drink or not. And we have to do the same
+thing with science. We can't just presume that because a paper is published that its claims are
+true, but unfortunately we're in a worse position than that because most of us can't read a science
+paper and determine whether its claims are true or not. We depend on others to do that and
+the vast majority of us don't even get that far. We depend on people in the media to tell us what
+science papers, you know, what research papers have discovered or not discovered, and those people in
+the media are mostly either unequipped or intentionally spinning the findings
+to produce a result that will get them more airplay. So as common people in the media environment,
+we are in an array of traps and it's a very dangerous array, particularly as it relates
+to statistics and science. And right now people are having little wars with each other
+on social media and in their lives and with their families over their preferred methods
+of thinking about topics, right? Like the person I said who posted this guy's video of this supposed
+scientist and said, you know, well, I don't really care if he's lying, I'm going with spirit or
+intuition, right? This is what I mean by religion. We have informational religions these days,
+we have statistical religions. Instead of having the capacity to together
+adeptly disambiguate information that we can derive from circumstances and testing and situations,
+we have actually pretty much the opposite of that. And this is one of the grave dangers of the kinds
+of minds our modernity equip us with, if you could call that equipping. It's almost a kind of
+crippling attachment. It's almost, I mean, one other way to say it would be the kinds of minds
+our modernity parasitizes us with. So what I want to say briefly, and I know this is
+a radical change of topic from the pay in to intelligence and bio relation I was singing a
+moment ago, but it's related because this is the shadow of, this is the dark side of memory,
+right? This is the dark side of structuring behavior with our minds and structuring memory
+with our behavior. We have this problem with statistics. First of all, what I want you to
+understand is there's a couple of sort of precursors I want to introduce. And the first is that
+statistics will never catch up to the situation they are modeling. And the second is they are
+models, which means vast dimensions of any situation are missing from statistics.
+Necessarily so. So if, for example, we ask a question, let's say the question is, here's one I
+remember. How many birds are killed by power transmission in the United States in a year?
+I don't remember the specific statistic, but I believe that it was in the vicinity,
+and I don't remember even which year this question was asked at the moment, but I believe it was in
+the vicinity of 9 million. So when you actually look at the study, what you find out is they
+looked only at bird corpses found nearby power lines that, you know, on autopsy showed
+electrocution. It should be obvious, even to the layperson, that those statistics are wildly
+incomplete because bird corpses are food, right? And they certainly didn't find all the birds that
+had been electrocuted. So there was some, essentially the study had a grasp on a pie slice
+of the phenomenon it was studying. And if you think carefully about statistics, you'll realize
+that this is always the case, with very, very few exceptions. If we have a really good grasp
+on the context, right? Like, how many rocks are in this bowl, okay? Oh, in that case,
+it's relatively easy. We can say, you know, there's nine rocks in the bowl. That's exactly
+how many rocks are in there. But if the context is complex and all like nature and biology are
+unimaginably complex, and this is one of the problems people are having, they think like, well,
+isn't it strange that the novel coronavirus is producing such bizarre, such a bizarre range
+of statistics and such a bizarre range of effects? Part of that is just the nature
+of how humans gather statistics. And part of it is that we're nowhere near catching up reasonably
+approaching the complexity of the phenomenon with which we're faced with this particular pathogen.
+And it's not my intention to talk a lot about the coronavirus. I want to talk more about statistics.
+So statistics are always going to have a partial grasp. And that grasp is going to skew
+in various ways for all kinds of reasons that involve both accidents and intention, right?
+Now, that doesn't mean we should dismiss statistics. Language itself does the same thing.
+You're going to stop using language, right? You're going to be like, well, you know,
+language leads us to confusion all the time, and maybe we should just stop doing that.
+I wish you luck with that. It's plausible. I mean, monks and nuns have occasionally accomplished it.
+I've had some experience with it myself,
+the cessation of speaking or reading or thinking in words.
+But we're going to continue to use and rely on statistics. And one of the things that's happening
+right now is that, well, there's sort of two, I mean, there's not merely two, but I'm going to,
+I'll go ahead and make a dichotomy admitting it first. There's sort of two primary
+expressions of our modern, which I mean in this moment, right? Very modern, up to date,
+today, yesterday, last month, activity with statistics, particularly around the pandemic,
+and things like causes of death and mask wearing and so on and so forth.
+One of those intentionally produces disinformation to create a weapon.
+It's very easy to create a weapon using statistics and to get people to attack
+each other or themselves with that weapon, particularly in this situation.
+So we have intentional bad actors. We have accidental bad actors who either don't produce
+the statistics properly or don't produce them accurately. And then we have, you know,
+what I'll call integral actors, actors who are proceeding with the best integrity they can.
+But even then, the statistics won't approach their subject very closely in general.
+And there's all kinds of reasons for that. But the main reasons are that the topic here is
+unimaginably complex and the sources of the statistics are radically varied
+and humans are involved and those humans have purposes in mind. So what does that mean? We
+can't trust statistics? No. It means that we need to be very careful about making firm claims
+of any kind at all, except those of which we can have relative certainty. For example,
+is the novel coronavirus real? Yes, it is. We can, you know, look at the coronavirus under
+electron microscopes. We can infect transgenic mice with the virus and they will demonstrate
+pathological damage to their organs and circulatory systems and brains and muscles and so on, bone,
+whatever. Cox postulate appears to have been properly satisfied here. Is it contagious? It's
+wildly contagious. Why doesn't everyone have it? Because each situation is locally unique in terms
+of inoculation, vulnerability, the virulence of the strains to which that place was exposed and
+the particularly unique
+characteristics of a given
+infector, a given vehicle of infection, like a person.
+Apparently some people are capable of spreading the virus much more effectively than others.
+Effective in the sense of, you know, infective. Infectively.
+Is it lethal? Well, many people who, there's a reasonable number of people who acquire the
+virus that are killed outright by the virus. There's some other population who are damaged,
+you know, experience organ damage and it's very early days. There's a lot more to learn. We just
+don't know. So what we have to do in a situation like this, where we know there's a threat,
+is we have to behave with best guess intelligence and people will have different perspectives
+and opinions on what that is. But most of those opinions, they should not be informed.
+Our opinions about epidemiology and virology, they should not be informed by politics.
+That's cross-contamination of knowledge spaces. So they need to be informed by the people
+who are best educated to understand and report on and provide reliable, you know, as
+as reliable statistics, they're as reliable as we can get. And we have to be able to disambiguate.
+We have to be able to distinguish between statistics that are as reliable as we can get
+and that are best guess evaluations of a threat that is certainly credible
+to make determinations about our behavior. Now, there are political aspects to the problem,
+but I'm going to leave those alone. I'm here to talk primarily about how statistics are confusing
+and that the fact that they're confusing doesn't mean we can dismiss them.
+Nor can we really go shopping in sort of social media for the statistics we like best.
+And this is another common thing that's going on. And by the way, all of this is related to the
+behavior of formerly representational cognitives and what they do, you know, what they're,
+what they, the purposes for which they employ mentalistic behavior
+and their predilections to fall victim to certain kinds of habits or
+contagiously virulent perspectives.
+And I'm sure that what I'm saying here is complicated because
+I've often argued that the word because most often begins a lie in English,
+and I think it's probably true. Like that's the word with that weird, that weird quality.
+Because part of what I'm telling you is both that we can trust and we must mistrust
+statistics. And if you say, well, Darren, you're telling me to do two things that are in conflict,
+I'm going to have to agree. But what I'm saying is the same thing that I would say about science
+papers, research papers, particularly in non-mechanical fields, like biology or epidemiology or virology,
+pathology. We have to get the best data we can and continue to realize that while the data and
+statistics are wildly incomplete, and as that process continues, we're going to undergo probably
+catastrophic restructuring of our perspective as we get a better understanding of the, you know,
+the whole, as we continue to include more and more information and complexity around the
+phenomenon we're studying. Here's an example. Originally, osteoblasts. Okay, osteoblasts,
+I think, assemble bone and osteoclasts, I think, tearbone down. And we thought originally
+and our research papers demonstrated this, that that was the correct way to think.
+That the assemblers of bone were sort of the intelligent cells and the destroyers of bone
+essentially just followed their instructions, the instructions laid down by the assemblers.
+Turned out that eventually we found out the opposite was true. It's the destroyers of bone,
+the cells that tear bone apart that lay down the signals for the builders.
+This was quite surprising. We wouldn't have, you know, that was contrary to initial scientific
+intuition. And we're going to see, you know, transformations like that in our understanding
+of any biological phenomenon that we're using statistics to understand. Not necessarily it's
+going to just flip over and invert, but we're going to make discoveries that were unexpected,
+unprecedented, unintuitive. Now everyone has their preferred perspectives, but what I'm trying to
+explain is that the fact that we can do research and can derive statistics does not mean the
+statistics are trustworthy, particularly when they're done by amateurs who have little understanding
+of the nature of statistics themselves, right? They're just pulling numbers from somewhere.
+They're not actually running statistical analyses. And there's a lot of that going on. There's a lot
+of sort of citizen analysts chiming in about the novel coronavirus. And by the way, when they do
+that, they are not acting like scientists. Okay, here's the thing that's really important to
+understand about science. Science is auto conflicting, which means that you don't set out to champion a
+theory, you form a theory and set out to defeat it. That's the opposite of what citizen analysts are
+doing. Citizen analysts are setting out to prove a pet theory and not conflicting with it at all,
+right? So that's the least trustworthy kind of statistics you could possibly produce in terms
+of scientific validity, right? So I just wanted to talk a little bit about this very complex
+topic, statistics, and particularly statistics about biological phenomenon. Most of what we have
+is extremely tentative. But when we have scientific research, at least we have the intention
+to defeat our pet perspective starting out. That's where validity comes from, right? It doesn't come
+from asserting something. It comes from attacking it from every angle you can possibly think of
+until all those angles have been exhausted. And then you've got something that's relatively
+trustworthy for the moment that may change in time. So I'm hoping that we can learn to understand
+that together about statistics in general and how we think about and relate with and produce graphs
+with and share these graphs on social media and, you know, attack other people's ideas and so on and
+so forth. Because what's going on right now is a nightmare of absolutely clumsy methodology
+that's grandstanding in public. And I mean, we live in a time and with a president
+where lying is celebrated, right? The more you lie, the better it is. Just like the woman in my news
+feed is like, I don't care if that doctor's lying. I like what he's saying. He's a scientist. You
+don't get to like, I mean, you can like what he's saying. I can't stop you. But kindly don't go around
+deceiving other people with your disease, you know? So you think he's cute or something. Good for you.
+Don't tell people his ideas are true when he's lying about science in an attempt to validate them.
+That's a really dangerous idea. And it's the kind of behavior that's become very common.
+And one of the reasons it's become common is that the single male human being,
+I mean, the idea that we would elect a single male human being to lead a nation is insane.
+But the single male human being, I guess, I'm going to credit him with that description,
+with calling him human, because it's only categorically true. But this guy, he's like,
+you know, lie hard, right? If at first your lie doesn't succeed, just lie harder. And the reason
+that can happen is that there are no consequences for lying as the president of the United States,
+which is insane. And just, it's unthinkable. But it's a fact. And so what that's going to mean
+is that all kinds of other people are going to adopt that behavior. It's authorized by the
+president of the United States, right? It's authorized by his public behavior. So we're
+in a very dangerous situation where lying is going, you know, in some ways, at least in many
+dimensions, is going to have fewer and fewer consequences. And public lying is just going
+to produce cults, little religions of, you know, idol worship, essentially, right?
+I think, you know, I like this guy. I like what he's saying. Even when what he's saying is
+blatant lies, right? So we have to be a little more careful, because we're talking, especially
+in terms of COVID, we're talking about something upon which
+the health of millions, the future health of millions of human beings and children
+depends. And we don't understand this phenomenon yet. For this reason,
+it is wise to err on the side of caution, not on the side of flagrant disregard of danger.
+And there are many, I've seen many examples of people who believe that their opinion is more
+important than the lives of other people. That's a degree of recklessness that certainly violates
+the principles of intelligence and humanity, of moral fortitude and ethical integrity.
+It borders, if not intrudes upon behavior we might reasonably call insane.
+But it's fairly popular at the moment, and that's not terribly surprising,
+as again, our president is the primary exponent of such behavior, and thereby authorizes it.
+That must cease. As American citizens, we have to put an end to that behavior forever. We need
+to make it impossible for that to ever happen again. This example must become the moment
+where, by education, we ascend beyond this kind of crisis, together, within for each other, forever.
+This noble corvid sitting on the stone, once upon a midnight dreary, while I pondered weak
+and weary over many a quaint and curious volume of forgotten lore.
+As I sat there, nearly napping, suddenly there came a tapping as if someone gently wrapping,
+wrapping at my chamber door.
+To spot the wind, I muttered. Only this, and nothing more.
+Thank you for joining me. I look forward to our next adventure.
