@@ -1,0 +1,1424 @@
+We're going to start posting each podcast episode that you see on YouTube a week earlier on Patreon.
+So feel free to join for early access to all episodes, plus we're going to start doing bonus podcast episodes every week.
+So if you want to join Patreon, it's patreon.com slash concrete videos.
+Next week's episode is already posted there, so feel free to go check it out.
+Hello world, our guest today is Rich Clark.
+Rich is an expert in cryptocurrency and Austrian economic theory.
+He's also an organizer of the Bitcoin Atlanta Meetup.
+In 2012, Rich became one of the three insurgent delegates from Georgia for Ron Paul at the Republican National Convention.
+This experience of seeing the sausage be made in politics made him lose faith in the idea that political action was a viable solution to advance human freedom.
+It was at this point, Rich began to focus on Bitcoin as a possible tool for human liberation.
+In the following seven years, Rich became an expert in economic philosophies and the landscape of the cryptocurrency world.
+This podcast really opened my eyes to how money works in this country and where we're headed economically.
+I hope you all enjoyed as much as I did. Without further ado, please welcome the wise and wonderful Rich Clark.
+Thank you for coming on the show and talking to us about cryptocurrency and Bitcoin.
+My extreme pleasure.
+The internet of money, is that what it's called?
+Something like that, yeah.
+So how did you get into this whole realm, this whole world of Bitcoin and cryptocurrency and doing what you do?
+You run an organization in Atlanta?
+So yeah, I run the Bitcoin Atlanta beat-up. It's the oldest cryptocurrency meet-up in the metro area and probably in Georgia.
+It was started by somebody else before me, but I've run it since about 2014, but it's been going since about 2013.
+So the way I got into it is a little bit of a long story, but if you want it, I can give it.
+I got time.
+So I was just kind of a normal guy. I went to school. I got a degree in physics, actually.
+Really?
+But I didn't really do much with it. I was in a rock band in college, so I was doing that.
+I was an audio engineer around the Southeast. I do festivals and lots of pickup gigs and sound for bands and stuff like that.
+And some bigger shows, too, but all around the Southeast. That's what I was kind of doing after college.
+And then one of the guys that ran Sam with, Michael Gasters, his name from Savannah, Georgia, he started talking about Ron Paul.
+He was running for president in 2007 for the 2008 presidential race.
+And so I started looking at Ron Paul. I watched a debate or something.
+Before that, politically, I just waffled around. I didn't know anything about political philosophy or anything like that.
+I didn't really teach that much in school.
+And so I watched one of the debates and I was like, this guy is really interesting.
+So he kind of took me down a long rabbit hole that led me to study what's called Austrian economic theory.
+Austrian economic theory?
+Austrian economic theory, yeah.
+So it's basically as close to the economic theory that underpins Bitcoin, basically.
+And so I got really into that. They talk a lot about sound money, like gold and silver being money, and the problems with our current monetary system,
+which we can go into later if you want.
+And so that's kind of how it started.
+And then it was just down the rabbit hole for that.
+And it leads you to all kinds of interesting places.
+And then in 2012, Ron Paul ran for president again.
+And so I volunteered for his campaign.
+And I became one of the insurgent delegates, I guess, to the Republican National Convention here in Tampa in 2012.
+I don't know if you remember that.
+No, I don't. I wasn't paying any attention to politics in 2012.
+You didn't miss him much.
+So yeah, I came down here for that.
+And it was an interesting experience, both leading up to doing that.
+It took a lot of maneuvering to become a delegate at all, because they didn't want anybody who wasn't supporting the candidate at the time,
+which was Romney, Mitt Romney, down there, voting for anybody other than Mitt Romney.
+So three of us managed to get in.
+Three Ron Paul supporters managed to get out of like 76 or something like that.
+So we go down.
+We voted for Ron Paul on the floor of the convention.
+And it was a fun big deal, I guess.
+But the whole thing, you kind of see how the sausage is made.
+When you see the inner guts of politics, and even when you're working on the local level,
+and then you work up to the state level, and then you go to the national convention,
+I kind of got disillusioned with political action as a way to kind of advance human freedom,
+which is what I was kind of all about.
+And so I was looking for alternatives, things that made sense that I could act on.
+And Bitcoin is the thing that I, very shortly thereafter, I knew I'd known about Bitcoin for a couple of years,
+but I was like, ah, what is this?
+I was a gold, I was a gold bug.
+So I was like, what is this, you know, internet scam money?
+I don't want anything to do with that.
+And, but around 2012, yeah, so August 2012, I started really looking into it, digging into it,
+and then I really hit the ground running early 2013.
+And I started, you know, mining Bitcoin and doing all kinds of other things.
+We can talk about that too later.
+You were mining it.
+So you had computers that were building blockchains and stuff?
+Something like that.
+Something like that.
+Something along the line.
+How loose understanding of it.
+Right.
+And really the rest is kind of history after that.
+So that's sort of the path, the arc of me getting into it.
+I really wanted to, I really wanted Bitcoin to change the world.
+And it may still, I'm very hopeful that, you know, I think it's, the technology is out there.
+And I think that it has a, it's definitely going to make an impact on the world in the future.
+Right.
+We were talking on the phone last and you were explaining to me sort of like the way
+our current, like the current currency that we have now differs from Bitcoin.
+When you're trying to explain to me the fundamentals of Bitcoin.
+Right.
+And you were trying to explain like the difference between how like inflation works
+and how like the original banks, they would take, take money and they would,
+they use that money to make money on loans, et cetera, et cetera.
+Can you usually like, can we just start from like the, like the ground?
+Right.
+And sort of like build up this sort of idea that you were explaining to me.
+Yeah, sure.
+So if you want to look into, not many people know really how our monetary system works
+today.
+So it's all magic.
+Yeah.
+And we know Buzzwords like the prime rate of, you know, the Fed since the prime rate
+and, and the Federal Reserve board chairmen as they go for Congress and talk every now
+and then.
+But nobody really knows how very few people know how, like how our monetary system came
+to be and what it is today.
+So basically, if you want to go way back, you know, if you want to talk about what is
+money.
+Let's get that mic a little bit closer to your mouth.
+You're kind of a quiet talker.
+So I want to make sure that we get that crispy audio, you know what I mean?
+So, so you have to, the first question you ask is what is money, right?
+Right.
+It's, and the definition is it's a medium of exchange.
+So it's, you know, in the early days of economic activity, you'd have barter, you know, so
+you want to, you know, you want, you have eggs, but you want some shoes.
+So you have, you got to find a shoe, Smith, a cobbler, whatever you call him to that wants
+eggs.
+And so he'll make you some shoes and you give some eggs and you're good to go.
+You make eggs, he makes shoes.
+But what if you can't find one that makes eggs, or that makes shoes, you know, that
+wants eggs.
+And so that's when this whole idea of like a common medium of exchange that people could
+buy things with came forth and zillions of things have been used as money over the eons.
+So cows, seashells, you know, you name it.
+Right.
+Of course, the most predominant one in sort of the modern era, well, the ancient world
+and the modern era was gold, gold and silver.
+And the reason is that, that gold became such good money weren't because somebody decreed,
+hey, this is good money, let's use it.
+It's because gold has some emergent qualities that the market discovered made it very good
+medium of exchange.
+And this sort of fundamental thing, there's emergent qualities that people talk about,
+like monetary theorists talk about are things like portability, how portable is it.
+So, you know, you can, you can use cows for trade, but if you want to trade your cows
+for something, you have to get them, you know, from here to there, it's not easy to move
+on.
+So portability, durability.
+So a cow also, you know, well, you know, they live for a while.
+They won't live for hundreds of years or whatever.
+And if they can get hurt and die and get sick, so they're not quite as durable, you know,
+very good like grain and rice and have been used as currency to and in the ancient world.
+Those also, you have a shelf life of a certain amount of time, so they're not as durable
+as something like gold, which gold is, you know, you can just sit in a vault for a thousand
+years and it'll still be there.
+So portability, durability, there's this divisibility.
+So another thing like a cow, like, you know, hey, I want to buy this thing from you.
+How much is it?
+You know, half a cow.
+So it's like, well, you can't sell you half a cow, right?
+So, but you can take a gold piece and you can cut it in half or give them, you know, and
+so divisibility is a big thing that makes, you know, something good money.
+There's something called fungibility, which we'll probably come back to later.
+It's kind of a weird word, but what it basically means is one is like the other.
+So if you take an ounce of gold, one ounce of gold, it's like any other ounce of gold,
+you know, whereas, you know, different cows can be worth widely huge difference of money,
+the amounts of money, because they can have different qualities that make them desirable.
+Age of them or whatever.
+Yeah, I mean, there's...
+Size.
+...readers that do all kinds of things, you know, different things and make different cows
+worth all kinds of different amounts of money for different purposes.
+So, but, you know, an ounce of gold, and it's another thing, uniformity of the money.
+So uniformity, fungibility, it's kind of the same thing, but yeah, one is like the other.
+So if you deposit an ounce of gold, you know, at a bank or something, then you're not going
+to get that exact ounce of gold back.
+You know, they're going to put it in the vault and then when you come say, hey, I want an ounce of gold,
+you're going to get, you know, a different ounce of gold, but it's the same value, so
+you don't care.
+You're like, okay, yeah, this one's like the other.
+So you have portability, fungibility, fungibility, let's see what was the other one.
+Divisibility, was that one?
+Divisibility, that's one.
+Yeah.
+So you can divide it up.
+Right.
+And then there's another one that they talk about which is kind of like intrinsic value.
+That's an interesting one with Bitcoin, but basically that means that one of the, like
+with the market money, like gold, it has some value.
+Like people use it for something like jewelry or in our modern world, you can use it for
+electronics.
+It has some like intrinsic value to it.
+And Bitcoin does have intrinsic value, but it's not in the sense that we traditionally
+would talk about.
+So going way back, that's why gold emerged as money.
+Oh, scarcity is another one.
+Scarcity, right?
+Yeah.
+And that's kind of like, it's kind of like you have to find a middle ground because some
+things are too scarce, like platinum and stuff like that.
+And so nobody can really get their hands on it, so it's not good money.
+And then if things are too plentiful, it doesn't have enough value to make large purchases.
+You have to get a wheelbarrow full of clam shells or corn or whatever.
+So gold has historically kind of hit that medium place where it's scarce enough, but
+it's not so scarce that people can't get it.
+So those are the big ones that make for sound money.
+So that's how gold kind of emerged as the standard money throughout the world, really.
+Basically from the biblical times till pretty recently.
+Now how is our money now, like currently, like how is the dollar bills that we buy
+stuff with, how is that related or tied at all to gold?
+Well, it's not.
+So at all.
+So the, and the path to that is pretty...
+But wasn't it supposed to be originally?
+It was originally.
+So back in the, I guess to go back to what we were kind of talking about with like the
+goldsmiths and whatnot, the origins of banking as we know it today started with, you know,
+you'd have gold and you'd want to own gold to buy things, but you'd have to store it
+and keep it safe.
+And sometimes that was a problem.
+And so what they would do is the goldsmiths who would make things out of gold, like jewelry
+stuff.
+They would have like 24 seven armed guards or something at their place and a vault or
+something to keep them safe.
+So people would say, okay, you know what?
+This guy is really good at keeping gold safe.
+So I'm going to see if he'll keep my gold safe for me and for a fee.
+And the goldsmiths are like, yeah, this sounds like a great idea.
+I already have the vault.
+It's got plenty of room.
+So I'll just add yours to it and yeah, you pay me a fee.
+And what they would get in return would be like a receipt basically that says, hey, you
+own this much gold at my vault and you can come in and claim it anytime like a monetary
+note.
+Yeah.
+So over time, what ended up happening is those notes instead of somebody saying, oh, I really
+want this.
+Let me run down to the goldsmith, get my gold and I'll be back and I'll pay you.
+Sort of ended up happening over a period of time as people would, they would allow you
+to sign your rights to the gold away.
+It's kind of like the precursor of what we'd know as like a checkbook today.
+You could sign the note, endorse the note and say, okay, I'm endorsing this over to this
+guy.
+And so if he comes to you and wants gold, he can get it.
+So then you pay him with the note instead of the gold.
+You pay whoever you're buying, whatever you buy back then.
+A horse.
+Yeah, some armor, a sword, I don't know.
+So you do that and then he could go reclaim it.
+And then eventually what happened is they were just bearer notes, meaning whoever's
+holding this, they don't need to sign anything.
+They just show up and they present it and they can redeem it.
+And so these started to circulate throughout the economy and there'd be different goldsmiths
+who had to have different notes, but basically they started, they acted as money because
+they were redeemable for gold, but they were more portable and easier to store because
+they were just paper.
+So the goldsmiths kind of figured out that only, you know, there's only, you know, once
+this became like a big part of their business, only like 15% or 10% of their patrons would
+come in on any given week or month to withdraw their gold.
+So they had all this gold that just kind of sat there.
+Why not make money with it?
+Well, it's sitting there.
+And so at first it started where they would have an agreement with the gold holder, like
+if somebody had a lot of gold there, they'd say, hey, how about we loan this gold out
+and we can earn interest?
+And then we'll split the interest, you know, and the guy would say, yeah, that sounds great.
+And so they'd do that.
+And but then eventually the banksters, even, you know, especially for like small depositors,
+they would cut out that portion of it.
+They would just say, okay, you can leave it here and maybe they don't have a fee for
+you leaving it there.
+Maybe they'll do it for free, but they're going to be loaning it out and making interest
+on it.
+So that's how, so they started in addition to their storage fees that were maybe in
+place of their storage fees, they'd start loaning the gold out.
+Or loaning the notes out for the gold.
+Or they weren't loaning the actual gold.
+So no, they would loan notes for the gold, right?
+So they'd leave the gold safe in the vault and they'd issue notes because the notes were
+circulating like currency.
+So that would allow them to make money on the reserves and their vaults.
+What then came next was a pretty brilliant idea, which is, hey, you know, again, nobody
+comes in for all of this at once.
+And who's to really know if we put more notes out there than we actually have gold in their
+vaults.
+Let's say if they had 100 ounces of gold in their vaults, maybe they'd give a loan and
+instead of, you know, so then they'd say they have 85% of their gold they're leaving.
+So 85 ounces of gold, they're leaving for loans.
+So say if they've already loaned out those 85 ounces of gold or the paper backing it,
+but somebody comes to them and they still, they want to loan too.
+And they say, well, you know what, nobody's going to notice if there's 10 more ounces
+of gold paper, you know, receipts floating out there.
+So I'm going to loan this guy these receipts and he'll pay me back interest.
+And so that would be, that's called fractional reserve banking.
+Fractional reserve banking.
+Fractional reserve banking.
+So basically the amount of notes you have out there, so liabilities, right, the amount
+of notes you have to repay outweighs what you actually have in the bank.
+As long as everybody doesn't show up at once, it's not a problem.
+And you can make money on the notes that have nothing backing them.
+And so this kind of became a pretty addictive sort of drug because you can literally just
+make money out of nothing, you can make interest on holdings you don't even have.
+So at first it started, you're using other people's money to make money, right, other
+people's deposits to make money, which was great.
+But then it just kind of went to this next level where you can, based on your reputation,
+you can, and your notes circulating the economy, you can just push them out there and people
+will still circulate them.
+And so, you know, bankers couldn't, having the past inflated, you know, they're double
+or triple the amount of notes they'd have on the bank.
+Based on the gold they would have in the bank.
+And what would happen is they, then you'd get what's called bank runs, which people
+may have heard of.
+Bank runs?
+Bank runs.
+So basically if the word gets out, that there's not, that they have, that they're a dishonest
+banker or whatever, and they've put out way more notes, way more paper than they have
+backing it, what are people going to do?
+They're going to go and they're going to be like, well, I'm not going to be, I'm not
+going to get left holding the bag if they don't have the gold, I'm going to go get mine
+right now.
+And they show up and they, they want the gold and then they, and then eventually they run
+out and then you still have a line out the door of people with their receipts and they
+collapse and fail, right?
+And which is kind of a good thing because it was a sort of free market way to keep these
+guys from going crazy with this whole scheme.
+So there's always this threat of bank runs.
+What we have now is like that system on crazy steroids, like, like, like bigger than Arnold
+was at his peak, you know?
+So the Federal Reserve, you know, during the history of the United States, like when the
+United States was formed as the Articles of Confederation, so it was just like separate
+states in like this loose confederation.
+And it was like that for about 10 years after the Revolutionary War.
+So each state kind of, you know, the history of how governments learned to, to issue paper
+currency and stuff is a little convoluted too, but the sort of moral of the story is
+that the states, there was hyperinflation in a lot of the states because when, and we
+can talk about that a little bit later, inflation and how it affects us.
+But what they kind of learned, the founders learned through experience was that really
+this whole government printing money thing didn't really work that well.
+So in the U.S. Constitution, it's actually in there that only gold and silver shall be
+money in the United States of America.
+And so that was, that was the case for, for a while.
+We had two central banks, one was called, I think the Bank of the United States.
+And it was founded in like 1800 or something like that.
+And then it's charter ran out.
+And then Andrew Jackson, there was a second bank in the United States that was chartered
+as well.
+And Andrew Jackson quashed that one.
+It's something he's kind of famous for, it's kind of a crazy story.
+And then we didn't really have a central bank until 1913, and actually I just went to a
+conference on Jekyll Island last week, which is an island off the coast of Georgia, it's
+a little barrier island, it's I think actually the smallest one.
+It used to be a retreat that J.P. Morgan owned in the 1800s, it was the Jekyll Island Club.
+And there's this book that everybody should read by a guy named G. A. Griffin called The
+Creature from Jekyll Island.
+And it's basically like the comprehensive history of the founding of our Federal Reserve.
+And it was founded, the reason it's called The Creature from Jekyll Island is that they
+got together, a cabal of guys, some senators and some big bankers got together on Jekyll
+Island in 1910.
+And they basically drafted what would become the Federal Reserve Act that created the Federal
+Reserve Bank, which is the Fed, we know it is the Fed.
+So that's why you guys did your conference there?
+Yeah.
+So there was a conference there, there was a conference there on the weekend, it's kind
+of a fun thing to go and if you go to the Jekyll Island Club, there's a Federal Reserve
+room and there's a plaque that says, in this room, the Federal Reserve was drafted, at
+the time though, it was a big secret because they didn't want anybody to know who was getting
+together and why and where because it would have gotten people suspicious.
+Bottom line is, with the creation of the Federal Reserve, it allowed the, with any
+central bank, England pretty much invented central banking, they had the Bank of England,
+it was like the first central bank and the Federal Reserve is pretty much a copycat of
+that and what it allows the government to do is this whole fractional reserve system
+the government has a certain amount of money and that the Federal Reserve will hold that
+money like the gold, literally gold.
+There's literally gold in the Federal Reserve?
+Well there's debate about that too, but there definitely has been in the past.
+So Fort Knox is where the Treasury supposedly holds a lot of its gold and then also the
+Federal Reserve Bank of New York I think has a big vault, there's supposed to be a lot
+of gold in there too.
+So you have this gold, before 1913 only gold and silver was money in the United States.
+So we had silver coins, so the quarter, the nickel, the dime, well not the nickel, the
+nickel is made of nickel, but the nickel, sorry the dime and the quarter, the half dollar,
+the dollar were all silver coins, pure silver, well like 90% silver I believe.
+And then we had what was called the Morgan Dollars which were these big gold pieces and
+these actually circulated as money.
+We also had bank notes that circulated and stuff like that too before the Federal Reserve
+but when the Federal Reserve was founded what we had is this ability of the government
+to, the way the government funds itself is with taxes up to that point and debt.
+So the government issues bonds, I'm sorry I know this is like, I feel like I'm feeding
+you with a water hose here, skipping over so much stuff, but the government makes money
+and raises money with bonds which is basically debt.
+People buy the bonds during the war, you've heard about World War II, buy your war bonds
+to help pay for the war and stuff like that.
+And so they'd sell them to private entities basically and so people would buy the bonds
+and they would yield a return, that was the way the government could raise money for projects
+like that.
+Well what the Federal Reserve can do is they can buy bonds as well.
+So they're like a bank but they're chartered by the Congress actually so they're like
+a hybrid sort of organization.
+So it's the private bank but it's chartered by Congress so they have special privileges
+and they can buy the government's debt and this is kind of getting to how it works today.
+But when they buy the government's debt, they issue the government dollars for that debt.
+But they literally just print the money for that debt to the government.
+So they say okay thank you government for, oh we'll buy a billion dollars in treasury
+bonds from you, sure, and they'll send the US Treasury a billion US dollars, a billion
+Federal Reserve notes, they're called Federal Reserve notes.
+Those Federal Reserve notes are, they literally just print them, well these days they don't
+even print them, it's just like a data entry.
+So kind of the brass tax is that when the government needs money, so let's just use
+like you want to know about today's money, when the government needs money for stimulus
+checks for people, they don't say okay how much taxes did we raise this year, can we
+afford this?
+How much money did they spend on the stimulus checks this year?
+Yeah, well it's like a trillion or two trillion dollars.
+So when they do that, they don't sit there and say okay how many, let's take from, we
+can't afford this, we're going to take from this entity, we're going to cut the FDA budget
+here, we got to make this happen though they don't do that.
+They don't look at the tax revenues, they don't care.
+All they do is they go to the Federal Reserve and they say hey, we need two trillion dollars.
+And the Federal Reserve says okay, well start printing your Treasury bills, your bonds,
+that we're going to buy and print two trillion of them, we'll buy two trillion dollars with
+the bonds and then we'll give you two trillion dollars and it literally just comes out of nowhere.
+So now the government just owes them two trillion dollars?
+Yes, in the future and they pay interest on that to the Federal Reserve.
+So basically there really is, and ever since 1971, I can talk about that in a second,
+there is no gold backing for the US dollar at all in the story, it's not backed by anything,
+it's backed by the faith and the military, essentially the United States of America
+is all that's back in the US dollar.
+How does that make sense? Backed by the military?
+Well, I mean, yeah, if you...
+How? Explain that.
+Well, all right, let me go back a little ways. So after World War II, there's a
+state of affairs in the world where the United States actually held something like 60% of the
+world's gold because we were this huge manufacturing powerhouse and we manufactured
+so much of the war materials and so so many countries were sending us their gold for safe
+keeping, one, but also mostly just for just commerce. And so the United States had this
+huge stock of gold and the kind of, I guess, world elites, if you will, didn't like this sort of
+imbalance. And so they all met at Bretton Woods, which is a place in New Jersey, I think,
+and they came up with this thing called the Bretton Woods Agreement.
+And what that said is that it made the US dollar, like essentially the world reserve currency,
+and the reason it was the world reserve currency is because it was...
+The US dollar would be redeemable for gold at $35 an ounce, it pegged gold at $35 an ounce
+for foreign countries. So foreign countries could come, if they had dollars, they could
+use their dollars and trade them from gold. So that caused a few things to happen.
+Foreign governments would start hoarding dollars and getting dollars because it was the one currency
+that was backed by gold still. And so this Bretton Woods kind of state of affairs, and by the way,
+US citizens weren't allowed to own gold at this time, so it was illegal.
+Weren't allowed to own gold. FDR in 1933 banned gold.
+Nobody could hold gold. They said that... What was the slogan? It was something like...
+They blamed people who hoarded gold for the economics, not the economy, not turning around.
+They're like, because they were... They would hoard it. They were saying, oh, they're hoarding it,
+so it's not getting out in the economy. Choking the economy, right? And so they said,
+you better give it up. So there was... You could have some tiny amount, like two ounces,
+or something like that, or something with gold, but the fines were crazy. It was like $10,000
+fine. And in 1933, I think that's like a quarter of a million dollars now. And then people got put
+in jail for it, too. Not very many, but some, if they were found to have been hoarding more gold.
+So US citizens weren't allowed to own gold, but US dollars were redeemable for gold
+for foreign countries. So these foreign countries, what they started doing is a lot of them started
+redeeming their gold in the 60s. They redeemed their dollars for gold. And so sure enough,
+the gold was flowing out of the US to these other countries at a rapid rate,
+essentially, because the US had produced a lot more... The US government had produced a lot more
+dollars than it had gold in the bank, just like the old bankers of old time, you know, the gold
+smiths did. There's more dollars in circulation than there were gold in the Fort Knox.
+So you're saying the US military is the only thing that's going to stop other countries
+from coming and taking all of our gold? Well, let me get to that. I haven't forgotten that original
+question. I'm just trying to get to where we're at. So in 1971, Richard Nixon, basically the outflow
+of gold was happening so fast that we were going to run out, essentially, if we kept exchanging
+the dollars for gold with the foreign countries. So Richard Nixon closed the gold window in 1971.
+It was an executive order, and he basically said, Brentwood's agreement is done,
+and the US dollar is no longer ready to move for gold. What they had done at that point,
+as Henry Kissinger, who is his, I think, Secretary of State, had worked out a bunch of deals with
+like the Saudi shakes and princes and whatever and kings, and in the Middle East,
+that basically we would industrialize their economies, and we would come in and because we
+figured out they had a ton of oil, and we'd go in and we'd build up their countries, build up
+their oil industries, but OPEC would only accept dollars for oil. So at the same time we closed
+the gold window. This deal, this deal was just happening and just happened where if you wanted
+oil, you had to pay for it in dollars. So one would think that if we were saying, okay,
+you can't get any more gold, people lose confidence in the dollar and like a dollar's value would
+collapse, but because they had this other system in the works, they would, it basically became
+like the petrodollar. So the countries could still hold dollars and be like, okay, but they
+are still useful because I still need these to buy oil, still have to buy, and that's how it is to
+this very day. So when I say it's backed by the US military, what I mean is there's,
+there've been several countries, like Iran is the one that pops out most of my mind,
+who have tried to set up, because Iran has a ton of oil, they've tried to set up like oil
+exchanges where they would accept something other than dollars, US dollars. So they'd set
+Euros or Chinese Yuan, something like that. And I think that has a lot to do with a lot of the
+tensions that we have with Iran is that they, I mean, there's other things too. We've caused
+a lot of problems over there in the past, but basically if anybody threatens this sort of
+dollar hegemony on oil, they will get a military response most likely of some kind.
+And so in that respect, the US military does sort of back the dollar, like the force of the US
+military, because if anybody truly threatens the sort of global World Reserve status of US dollar,
+like if any nation state does, they could receive retribution. But basically,
+that's what government is. It's government in general is the ability to force somebody to do
+something. In my opinion, it's the monopoly on the use of force basically is what a government is,
+certain jurisdiction, legal, like the legal monopoly on it. Of course, people use force
+all the time and commit crimes and stuff, but they can't legally do it. Okay, so how does Bitcoin
+solve this problem? And actually, before you do that, how do you explain to people,
+like dummies out there, like me, what Bitcoin is? Somebody has no clue. How do you explain it?
+Right. So Bitcoin is a new sort of evolution in monetary technology. And I guess the sort of
+like elevator pitch is it's an uncensurable, unconfiscatable, fixed supply monetary, easily
+transferable or transmittable monetary unit. Okay, so there's a lot of, like if you exist in the
+world we live in today, like there's capital controls that keep you from moving your capital from
+place to place. There's tons of middlemen, tons of middlemen. Yes, it also cuts out the middlemen.
+In the early days of Bitcoin, we had like an easy pitch and that was, hey, check it out, I can send
+you money between our phones because Bitcoin kind of had, that was sort of revolutionary in like
+2009. But now everybody does that with like Cash App and stuff. So that's not as cool. But
+what makes Bitcoin different in Bitcoin and cryptocurrencies different is that
+the, well, let me talk about what happens when the government or banks or whatever
+in, you know, basically issue the, do the fraction reserve scheme issue the money.
+What we see is, so like, I'm a realtor up in Atlanta is, you know, and I, so over the last six
+months we've seen housing prices go up like quite a bit. Are they still going up? They're starting
+to level off a little bit, but they're going up. And I think this is a phenomenon in a lot of places.
+Some would say, I mean, part of that is because there's low supply, you know, supply and demand
+is like kind of the whole market. A lot of people were kind of like not wanting to move because they
+COVID and stuff like that. So like there were fewer houses on the market than historically
+there would have been. And so that helps drive prices up. But also it is, it's, you know, the
+government gave all these loans to people like the PPP loans. They did the stimulus packages.
+There's people on unemployment making, you know, like reasonable amounts of money actually like
+$1,200 a week sometimes when it was kind of at its height. And you know, when you,
+this money is just injected into the economy, like it didn't come from tax revenues. It came from
+that sort of mechanism I was telling you about where the Federal Reserve buys the debt
+and just creates the money. But the economy is still the economy. It's still the same as it was
+the day before they sent these checks out. There's still the same amount of stuff. Yeah,
+still the same amount of houses. There's still the same amount of food. Still the same, you know,
+the economy hasn't grown overnight to, you know, to match whatever percentage increase
+there's the supply of money was. So what you end up having is you have these, you have more and
+more dollars chasing after the same amount of goods and services. And so what you see happening,
+like for instance real estate is you say, okay, my client really likes this house. Let's make an offer
+and call the listing agent. Oh, well, sorry, we already have 10 offers on this house. So
+if you want, if you want it, you know, you gotta pay more, you need to go over list price.
+So, okay, well, go over list price and we'll go over it and then we'll, hey, we'll put an
+escalation clause in, which basically says we'll go a thousand dollars more than the highest bidder,
+you know, like that. Yeah, to try and get the house. And so what happens is the price gets bit
+up, right? And part of that is because there's more of these dollars in the system and also,
+you know, interest rates are low, which is another kind of aspect of inflation. So
+all these dollars are chasing after the same amount assets we have is price inflation,
+which means the prices of everything goes up. And so when you magnify this effect over, you know,
+the Federal Reserve's been around for 107 years since 1913. When you magnify that out over 100
+years of this sort of gradual debasement of the money, the dollar's worth a fraction of 1% of
+what it was when the Federal Reserve was started. So you have to ask yourself, where did that money
+go? Like, where did that purchasing power go? Like, who got it? And the answer is it goes to the
+people who get the money first. So it's called the cantillion effect, if you want to Google it.
+Somebody say cantillon? Cantillion effect. Basically, the first person that gets that new
+money, they can go out and spend it in the world at the same prices as things were yesterday,
+before the market has had a chance to realize that, hey, there's all this new money in the world.
+So, you know, where are we going to? So they get to purchase it at sort of a lower price
+than everybody else. So like say a month later, if the money supply is increased by 10%, what that
+will mean is in a month or so, once the market's kind of worked this out, everything will cost 10%
+more. So the guy that bought that item for 10% less, with that money when he first got it,
+has essentially, you know, since the money was just made out of thin air for him,
+he stole 10% of the purchasing power of everybody in the economy by injecting that new
+currency into the economy. So with Bitcoin, one of the key
+sort of founding principles of Bitcoin is it has a fixed supply. So it's it's it's
+emitted gradually over time through a process called mining.
+But at some point, it tapers off to zero that are emitted. And the total amount that will
+ever exist is 21 million Bitcoins. But how? How is it possible? How can you cut it off?
+So at one point, miners won't be able to make any money on it? Well, the miners also make money
+on transaction fees. So when people want to make a transaction, they pay what's called a minor fee
+in Bitcoin. And the fee, it's just like a market. So if the Bitcoin network's kind of busy, the fees
+can go up. If it's not really that busy, it goes down. But the idea is that I think the last
+Bitcoins will be emitted in like 2130. And so once that happens, the hope is that there'll be so
+many people using Bitcoin, and there'll be so many transactions, and it will have scaled to meet
+the demands of the economy that the miners can exist easily off of those transactions.
+But the way that it's done is it's hard-coded into the Bitcoin code that the Bitcoin miners,
+which basically they are people who own a computer. In the early days, it was any computer.
+Now you get about these like $2,000 processors, right?
+Yeah, or something like that. So just a brief thing about mining and what it is,
+because it's a big part of how Bitcoin works.
+It's super complicated to understand.
+It's not super complicated, but it is somewhat technical. So the example I give is that
+if you imagine these computers every 10 minutes, well, on average 10 minutes,
+they're given a new cryptographic puzzle to solve. And I think of it like a needle in a haystack.
+So they start, they have to find the needle in this cryptographic haystack.
+It's basically like if you have an email password and somebody wants to figure it out,
+if they don't know you well enough to like social engineer you or something,
+they can try what's called brute forcing it, which is basically like, well,
+I'll try this word. That didn't work. Okay, I'll try that word.
+Okay, maybe if I tweak it a little bit here. And people can code computers to do this and
+brute force your passwords. And so it just takes a certain amount of time to do that.
+And then eventually they'll guess right. If you don't have any protections in case in place,
+you'll have access to your stuff. And so basically these computers are trying to brute force this
+puzzle. And it's like looking for a needle in a haystack. And so the first computer that finds
+the needle broadcasts, hey, I found it to the network. And then the rest of the network looks
+at the needle. And based on the last needle that was found, they can they can prove that
+that this needle is is the legitimate needle. It's the next it's the next block in the blockchain.
+They found they've solved the puzzle. And and then that minor gets a reward for finding that needle.
+And he also gets he gets a monetary reward. And he also gets the ability to write all the
+transactions that have happened in that last 10 minutes. So if people like, hey, I want to send
+you some Bitcoin and other guys says I want to send you some Bitcoin. Those transactions are all
+put out there. And and they and then the minor will who finds the needle will sweep up those
+transactions and then earn the fees off those transactions and then earn the fees off those
+transactions as well. And then he'll encode them into that that needle allows it's more like a
+key. It allows him to write to the Bitcoin blockchain. And that that that and then once he
+does that he gets a block reward, which is the the that's how Bitcoin is created. So it started
+off Bitcoin for that Bitcoin for that. It's to incentivize people to to participate in the
+network and validate the transactions. It started off at 50 Bitcoin. And then every four years,
+it's hard coded that it cuts in half. Who created the first 50 bitcoins?
+That was be the anonymous founder Nakamoto. Yes, a group of founders Satoshi.
+Satoshi Nakamoto, right? Nobody to this day really knows who he was. If it was a
+lone person acting or a group of individuals, where they come from, who, you know, there's
+people who have speculated certain things, people who have found
+like evidence to try and figure out where he may have lived or whatever, like,
+based on when he did his posts, people think that he probably lived in the east coast of the
+United States, stuff like that. But but or he could have just been clever. And every time he
+posted posted at a certain time, it would make him look like somewhere else, or it could have been
+multiple people. But yeah, what do you know? Where did he post stuff? It started off
+in a mailing list called the cypher, the cypher punks. Okay, right. Which was formed in like,
+I think the mid 90s. A bunch of nerds in California, San Francisco, started doing a little meetup
+at one of the guys headquarters. What was his name? Eric Hughes, I think. And Eric Hughes wrote
+the cypher punk manifesto, which you can look up. It's just like a paragraph. And then they had a
+mailing list. And these guys had been trying for, they were basically a bunch of guys that really
+can serve with privacy. And the cypher punk manifesto basically says that privacy is is key to
+free society in this modern era, like cryptographic privacy. And along with those kind of ideas also
+come a lot of guys who are interested in sound money. And they know about how the Federal Reserve
+works and how it basically robs savers of their money, you know, over the course of generations.
+And so they worked on this whole idea of cryptocurrency. And the nearest thing to it was
+hash cash, which I think was Nick Szabo's project. Hash cash was a way to protect you from email spam
+by basically make you do a little computational work. He invented proof of work, basically,
+which is what the mining algorithm sort of is for Bitcoin. Basically, he said you have to do a
+little computer computational work to send an email. That way, if somebody couldn't just send out
+a zillion emails as spam to somebody. Yeah, I think that was like 90, it was like 2000,
+something 2003 or four, he came out with that. And then Satoshi Makamoto just basically came
+out of the blue, like, I just started posting in this thing and and the dropped the white paper
+for Bitcoin. And this thing and everybody was kind of like, Well, this is really interesting.
+And what Nakamoto had done is he just basically he'd taken a lot of the stuff that the cypher
+punks had learned and figured out, and just kind of put them together nicely into this
+nice package and and coded it up and and launched it. And so he was the one that to answer your
+question, he or she, whatever, was the one that mined the first blocks of Bitcoin. And the first
+transaction mined the first blocks of is called the Genesis block. It's the birth of Genesis block
+of information. It was empty because there were no transactions, right? It didn't even exist,
+right? Nothing was there. Nothing was there. But it did remort him with 50 Bitcoins to his
+to his Bitcoin wallet that he could create it. So and he actually,
+I think he ran it as kind of a test net for a while. He did send some Bitcoin to Hal Finney,
+who's now dead. He was another cypher punk contributor. That was I think the first Bitcoin
+transaction where he sent, you know, he's like, Okay, download the software, the software creates
+what's known as a wallet file, and I'll send you some and it worked. But it's another kind of
+bread crumb is they think that Nakamoto may have worked in some kind of lab, where he had access
+to a bunch of computers, because he actually had a, you could actually had a whole bunch of computers
+that were mining in the beginning that he was testing with, like, it was something like 30 or
+40 computers. And they were all kind of the same. They all kind of did blocks at about the same time.
+So they took them about the same time to find the needle. So they figured they're probably
+about the same type of computer. But that's kind of a rabbit hole. Yeah, but that's that's who
+mined the first Bitcoins. Okay, I feel like I'm jumping around a lot. Yeah, no, no. It's super,
+it's super interesting. Now, there's also multiple different types of bit like there's Bitcoin,
+then there's things like Ethereum, right? How are these things different? Are these just people
+like, like finding opportunities and this whole Bitcoin craze to Bitcoin's an open source project.
+So that means that anybody can go read the code. It's not like some secret, you know, right? So
+like one of the first altcoins that I knew about was one called litecoin altcoin. That's the term.
+Okay, they're alternate versions of Bitcoin. Okay. And it literally was just an alternate
+version of Bitcoin. It was a word for word, basically copy paste of Bitcoin. The only thing
+that he changed in the code, a guy named Charlie Lee, the only thing that he changed was
+he changed the block time. And that so Bitcoin, the way that it works, that's so interesting,
+it took, have you ever heard of BitTorrent? Yeah. Yeah. So it's basically like a decentralized
+file sharing, right? Like you want to download a movie or something, right? So, so, so basically
+hundreds of people will have this movie on their computers, right? And,
+and, and then you say, Hey, I want to download that too. And so you get a little file and it,
+and then that it goes out and looks says, Okay, who has this? Okay, this guy has it, that guy has
+that guy has that guy has it. I'm going to download from him, him, him, you download a little bit
+from each peer, right? But there's no like the reason it works is because there's no
+and the reason it hasn't been taken down by the authorities is there's no central
+like BitTorrent company that you can sue, raid, fine, take down otherwise. Nobody owns BitTorrent?
+No, no, no, nobody owns Bitcoin. Okay. It's just a program that exists. It's just a decentralized
+protocol. Okay. And, and people can now there's, and there's, and it's open source. So a lot of
+people have developed different apps and stuff that work with BitTorrent and they talk to the
+network. But, but yeah, that's how what about websites like Pirate Bay or the websites thing is
+those are just repositories for the, for the, the key files that let you know that, that
+that they're like little tags that basically say, Okay, this movie, this is like say this,
+or let's say something legal, like a, like a, like a, like open, like a public domain book or
+something, you want to download it, it's in the public domain, there's, because there's plenty
+of legal content available, of course on BitTorrent as well. You'll download this, you'll say, Okay,
+I'm going to search something like the Pirate Bay and find a Moby Dick. Okay. I want to read it.
+I want to read it, get the eReader version of Moby Dick. And it'll come up and it'll show
+several files and it'll say, Okay, this, this file has 15 people that also have it. And this,
+or this file has one, this one's kind of dead. There's nobody that, like we know about it,
+but nobody out there is hosting it. And so you click on that file and all that file is, is just
+like meta, basically metadata about, about that file. And then you load that into your, your BitTorrent
+software. And then it goes out and looks for what else has it. But priority, Pirate Bay doesn't
+host anything, aside from just those, basically the metadata for those Torrent files. So the only
+thing you download from the Pirate Bay is like a tiny, like three kilobyte file.
+So it's like a portal to these other files that you can download.
+Right. It's basically like a, it's basically like you have your library cards and you're not
+anymore. When I was growing up, we had library, you know, you had the, the Dewey Decimal System,
+you know, you'd have your card catalogs. And then you'd say, Okay, I need to, the author's name
+starts with, you know, an L. So you open up the L drawer and you look, Oh, here it is. And then
+you go to the stacks and you find it. So all that Pirate Bay is, is just the card catalog.
+Okay, that makes sense. You're not actually downloading. So unlike Napster, so Napster
+actually hosted the stuff that Napster started, you know, Napster was like 1990, whatever, eight,
+nine. And they got, they were a company though, and they, they ran this file sharing thing and they
+got sued out of existence by the record companies and everybody. So, so Bitcoin, right, took this
+idea of a decentralized platform, like BitTorrent, where it's just one node connecting to another
+in like a spider web, but there's no central point of failure. Like all you have to do to
+run a Bitcoin node is just open up the software and bam, you're part of the network. So even if
+somebody wanted to take down the Bitcoin network, right, they would have to, they'd have to find
+every computer that's running it in the world and like smash that computer, they'd have to go into
+space, I think at this point, because I think there's Bitcoin nodes running in orbit and, and kill
+those. When you say node, do you mean those computers that are mining? It's just a computer,
+it doesn't even necessarily have to be mining anymore. In the beginning, all nodes were pretty
+much miners, but we'll get to the sort of, we can get to the, let's shelve that for a second,
+the arms race, the arms race and mining. That's kind of a fun thing to talk about. But
+anyhow, it's, it's an, it's a very durable network because it's, it has no central point
+of failure as a protocol. So it took that, so Satoshi Nakamoto took that idea, sort of bit
+torrent and decentralized networks. And then he also took this proof of work idea
+and then combined them with, in my opinion, what were some pretty sound economic principles
+and created what we know as, as, as Bitcoin. The proof of work algorithm, which is what
+does the mining that the needle in the haystack search is what, you know, it gets people to
+contribute something of value. And so, because the power in the computing, the computer you use
+is they cost money. And so a lot of people will say that, unlike gold, Bitcoin doesn't have any
+intrinsic value. It's not backed by anything. Technically, it's true that there's no ounce
+of gold or anything else in a vault for every Bitcoin in the world. But Bitcoin is backed by
+the hardware and the power like physically backed by the hardware and the expenditure of energy
+that it takes to run the network. And it's very high at this point.
+I was watching something with this guy who had this massive, massive warehouse or like a bunch
+of warehouses in Iceland that were just storing these computers, like racks and racks and racks
+of these computers. It must have been like tens of thousands of computers that were all
+mining the Bitcoin. So it's people like that who keep Bitcoin alive, right?
+Right. Yeah. Basically, well, they secure the network. And so most people don't know this,
+but Bitcoin is- And what kind of money does that guy make?
+It's the largest basically cryptographic network in the world. So it's the Bitcoin network is
+actually the biggest supercomputer in the world. That's pretty scary.
+Together. It's not scary because it only is good at doing one thing.
+Right. Right now. Yeah. It's only good at finding, you know, for the most part, the
+the way the hardware is built these days. It's really only good at one particular
+hashing algorithm, which is good for finding Bitcoin.
+So why isn't Bitcoin good for investing or like long term investing?
+It's only good because- Who said that?
+I was watching something earlier. I think it was, what's his name?
+Andreas Antonopoulos. He was saying that Bitcoin is not good for investing your money into.
+It's good for transact, like making transactions, but it's not good. It's not a good way to
+invest money and earn a return, something because it's so volatile.
+Maybe I didn't listen. Maybe I didn't hear that right.
+Okay. If you're getting in the world of like investing, you know, it's like not investment
+advice. Am I better to invest in the S&P 500 or invest all my money in Bitcoin?
+Well, the S&P 500 has been pretty volatile as well lately, but-
+Over the past 100 years, it's gone up.
+Right. That's a personal preference thing. So Andreas, kind of famously,
+a few years ago, he's always spent, he's received payment in Bitcoin for his speaking fees,
+and he spends it for everything. And so, I think he had some like family emergencies and stuff
+where he cashed in a lot of his Bitcoin earlier on before it like went parabolic the last time.
+And so he really didn't have a lot of Bitcoin that he held.
+And so that's his personal investment philosophy. He uses it as a medium of exchange and he kind of,
+I think, hedges against the volatility by going ahead and spending it more closely immediately.
+A guy named Roger Ver, who's a big name kind of in the Bitcoin world. He used to be called Bitcoin
+Jesus. Right. Yeah. He's a kind of a wacky guy. He owns Bitcoin.com. Right.
+He said he tweeted out something like to Andreas. This is like two or three years ago now. He tweeted
+out that if only Andreas had kept a few hundred dollars worth of Bitcoin and hold on to it,
+he would be a millionaire by now. And Andreas had responded somehow, but what ended up happening?
+Andreas has like a donation address, like a Bitcoin address that he just has posted on his Twitter.
+Somebody donated a million dollars to Andreas. Like he's like, no, now you're a millionaire.
+Holy shit. When was this 2017 or 16, 17, 18, something like that?
+What's the most Bitcoin has ever been worth?
+It was actually, I think the highest value was $19,666 is what I saw. Wow.
+So almost $20,000 and that was in December of 2017. December. What is it at right now?
+It is at $11,300. $11,300. Yeah. So it's about half. About half. That's not good.
+But well, it was even worse than that. I think it hit $3,000 something in 2018.
+Actually, no. In March, when the big crash happened, in the market, everything crashed.
+Yeah. Bitcoin went down to I think 4,000 something again. It was, it had been back
+up at like 10 or whatever, but it just, or eight or nine, but it came back just like the market
+then it came back and rebounded and it's back to where it was before the March crash. But yeah.
+That being said, when I started with Bitcoin, Bitcoin was $100 almost exactly.
+2012? 2013. I was going to start mining in 2012, fall 2012, but
+here I'll talk about the arms race a little with mining. It was a little rabbit hole.
+When Bitcoin, I told you earlier that Litecoin was, it was just a tweak of the Bitcoin network.
+It changed the block time. What that means is that the network targets
+for a new block to be found about every 10 minutes for Bitcoin. But it's not like a hard,
+it's not like a hard, it's not like, this happens every 10 minutes. It's a target.
+It's how fast the computers can do it, right? Exactly. So a lot of times what happens is a
+computer will get lucky and it'll find it in two minutes or something.
+And so over the course of two weeks, it checks to see if the average is 10 minutes.
+And if it's not, what it'll do is it'll either make the puzzle harder or easier,
+depending to make it 10 minutes. And pretty much all the time it's always been getting harder
+because computers are getting faster and faster and able to find it faster and faster.
+So the faster the computers are, the more complex they're encrypted?
+If you want to think about it this way, the bigger the haystack gets,
+right, for finding the needle in the haystack. So if you get a machine, if you imagine this
+machine that gets, it's kind of good at finding needles in the haystack. You can have a little
+small haystack. It'll take it 10 minutes and it'll find it. But if you have this industrial hay sorter
+machine that can just gobble that through that in two seconds and find the needle, then
+it just needs to make a bigger stack. So it started off, you could just mine Bitcoin on your
+laptop, like anybody could mine it. But then people figured out that if you used GPUs,
+graphic processing units and video cards, you could get pretty efficient performance.
+And it was like an order of magnitude better at solving the puzzle. And so then people who had
+CPU, you know, just doing it with their laptops, weren't really able to do it anymore because
+the GPUs were so good at it that the algorithm had to make it harder. So like if you had your
+little CPU, you know, it'd be like one guy looking at this giant haystack, you know,
+to go through and you wouldn't be able to. But if you had the GPU, it could power through it and
+do it in 10 minutes. And then what came out next was FPGAs, field programmable gate arrays,
+field programmable gate arrays. And those lasted a little while. They're basically just
+like highly adaptable programmable circuits, you can sort of specialize things for. So they're
+very good, like specialist chips, you can program the dual, they're used in all kinds of industries
+for all kinds of things. But then shortly after those came out, the ASICs came out,
+Application Specific Integrated Circuits. Basically, these are CPUs that are designed to do
+just one thing, and they're designed to do them really well, special built, custom built.
+And these are supposed to come out in like the fall of 2012. And there's this one company that
+was developing them or putting them out called Butterfly Labs. I almost hate to give them a
+plug because they ended up being huge scammers, but they're not around anymore. So it's not a big
+deal. But so in fall of 2012, when I was looking to get into mining, I was going to get some GPUs
+and build some computers and whatever. But these Butterfly Labs guys have built all these,
+or put out all these Google ads, like I don't know how much they paid on Google ads, but
+literally anytime I searched for anything, Bitcoin mining related, their ads were everywhere.
+And these ASICs were like an order of magnitude more efficient than the GPUs. So I'm like looking
+at all these profitability calculators, okay, if I buy this GPU, it'll pay for itself in like a year
+or something like that. And then you're looking, then this ad pops up and you're like, oh my god,
+if this thing comes out, it would pay for itself in like three days, you know, you pay $1,000 for
+it or $500 for it. And then it's so fast that in three days of mining Bitcoin, you would get
+$500 with the Bitcoin. But then they just, so I was like, well, I'm just, I'll just wait until
+they come out. And there's no point in getting my GPU gear ready. And so, but then they didn't come
+out, they didn't come out, they didn't come out. And then it was like 2013. They still hadn't come out.
+Or they, well, they still hadn't been delivered. They were out there. It turned out that what
+Butterfly Labs was doing is, yeah, of course, like if they have the heart, it's like the cantillion
+effect I was talking about with the person that has the money first. So they had these miners that
+could mine like ridiculously fast. First, like they were the first guys who were like, well, you
+know, they need to have a burning period, right? Where they're tested or something. So they would
+run them. They would, they would, they were running them at their facilities. And then
+that would cause the network hash rate to go up a lot. Like the, you know, because they were really
+powerful. So that meant that the haystack was getting bigger. And then once the haystack had
+gotten big enough, then they would send them to the customers that paid for them. So they would
+make a ton of money. Oh my God, what a scam. And ASIC companies still do. It's still that way that
+you need to be whatever the next generation ASIC is, the closer you are to the, like the hardware
+manufacturer, like, because literally if you order one, making a profit, it could like getting it next
+week versus the week after next could be the difference between you breaking even and making
+money or you never really recouping because of how fast they're advancing. Well, because of how
+it's not just the advancement. There's also, you know, if you manufacture a bunch of these,
+like, yeah, it says, you know, there's strength of numbers too. So the more you have looking,
+right? The more odds there are that somebody's going to get lucky and find it faster, you know,
+so, so they're mass producing these things too. But that's, that's why instead of getting in,
+in 2012, when Bitcoin was like $20 or $12 or something like that, I ended up getting in.
+Finally, I just, it was March, I think, or no, January, February, 2013, the price started going
+up. And I was like, man, I missed the boat. I should have started, I should have started
+mining. I should have just said, forget it and bought the computers and mine and,
+and I remember like a year later, after I'd been mining for a while, I remember I was looking at
+I was trying to like troubleshoot something. And I looked through this, I was looking through
+this forum and it was a post from like, yeah, mid-late 2012. And this guy was like, oh,
+guys, I'm only made, I've got this, this GPU, which is the exact GPU I had, because I was
+trying to troubleshoot that one GPU. He's like, oh, there's one, I'm only getting one Bitcoin
+a day. What am I doing wrong? One Bitcoin a day. Yeah. And, and, and at that time, that would have
+been a fantastic return because Bitcoin was a, when I was reading it, Bitcoin was like $200.
+And so that would have been like $200 a day off that one little GPU, if you, if you'd held
+any help. So Bitcoin right now is, you said at about $11,000. Yeah. That's right. How much,
+how could I mine enough to make one Bitcoin in a day? Well, the way I told you the block,
+there's the block reward. Yeah. Right. It rewards out now. For completing a block.
+So, so we've had every four years, it cuts in half. So it started at 50. Then four years after
+it started, it went to 12 and a half. And then just recently, it went to, sorry, say 25, I went
+to 25. And then it went, the third happening, it went to 12 and a half. And just recently,
+it went to 6.25. And this is how the 6.25, what? Bitcoins per block. Okay. Rewarded. It cuts
+itself in half every four years. And that's how it's going to go to zero in the future.
+Okay. I get it now. That's all right. This is the largest audience I've ever
+confused. Hopefully. Yeah. So what was the question? Oh, you earned my Bitcoin. Yeah.
+So now it's down to six and a half Bitcoin per block. But what people realized, and this happened
+really early in Bitcoin, like back even when the CPUs and GPUs were used to mine it.
+So if you were going to buy some hardware to mine Bitcoin, you could set it to mine Bitcoin
+called solo mining, where you're just playing with everybody else trying to find on the chain.
+And maybe you'd get lucky and you get 50 Bitcoin. But it would take, it's all about
+statistics and averages, not statistics, but how plausible it is you'll find.
+It's like playing blackjack or something. Well, yeah. So you could run your machine,
+you could get the 50 Bitcoins or the 25 Bitcoins or now the 6.25 Bitcoins,
+but it could take you like three years or something of mining. Or what people have done is
+they joined pools. So they pool their power, their mining power into this pool. And then the pool is
+much more because it has a huge amount of mining power. If you just have like one miner or something,
+you can hook up to this, you can link up with a pool and the pool has a huge amount of mining
+power. So they find a couple blocks a day. Oh, wow. Right. And then what they do is they divvy it up
+to all the, you know, depending on how much you contributed to the miners. I did in the past.
+Yeah. I always did pool mining. Why'd you stop? Because, well, I stopped mining seriously in 2000
+or 15 or 14. The prices of everything, you know, Bitcoin went up to $1,300 in 2013.
+And then it crashed back down to like 600 by the, by January 2014 or February or something like that.
+And then it actually eventually made its way back down to I think almost 200 or 250, something like
+that. And during that time, it was just not profitable to mine. Like he spent more in power and
+being a pain. Also, I had it at a friend's warehouse and he ended up,
+I ended up not being able to do it there anymore. So.
+Yeah. Isn't it scary? Like have to have, especially pooling, like if you're talking about pooling
+and joining other people's power grid and having to watch people with their processors that are
+mining Bitcoin, I mean, you got to be pretty scared. You know, that place has to be pretty secure.
+Well, no, no, the thing is you don't need to pool with people in a physical location. You pool
+with them wherever they are. So you can be alone in your dorm room and you can join a pool. And so
+they're all just basically what it'll do is it'll, so when you're, when you're searching for the
+needle in a haystack, you know, what they'll do is they'll say, okay, I've got this giant stack.
+All right. Here, you take this clump of hay, you take this clump of hay, you look through
+that clump of hay, you look at this clump of hay, you look through this clump of hay,
+and they can divvy that out over the internet. Right. So, but there are huge facilities that,
+like you talked about the one on Iceland, where, and there's a ton of them in China, where they,
+they just go through the, you know, they have these giant facilities. And so, yeah,
+security is probably, although really, if you break in there, all you're going to really be
+able to get is you're not going to be able to get at the Bitcoin, you know, like, it's just a bunch
+of hardware. But if someone wants to, they could just go fucking take a baseball bat and break
+all your computers and. Yeah, they could do that. So, yeah, pooling, so pooling allows small operators
+to get like a regular return, you know, instead of, you know, like if you, if you buy a piece of
+hardware to buy Bitcoin, and you hook it up as a solo miner, you'd be like, well, maybe I'll get
+6.25 Bitcoins, but it might take two years for me to find that, or you could say, I'm going to hook
+up to a pool where they're regularly finding blocks, and then they're going to divvy up,
+you know, depending on how many stacks of hay you looked at, they'll give you your proportionate
+share of that block plus a fee, you know, for them running the pool. So then you get, maybe you'll
+get the same amount, maybe you get 6.25 Bitcoin in two years over the, you know, over the course of
+you running it, but you're getting it in like a steady stream instead of just, oh, wow, I found a
+block all at once, you know. So when is this, when did you say it stops again? I think it's 2130.
+2130. But so today is, it's 2020 today, and we're already at 18 million, I think, of the 21.
+18 million Bitcoins of the 21. Yeah, so it's, it's, it's going to get a less and less amount,
+you know, as like, it's a really like winnowing down. It's probably going to be way earlier.
+Well, no, it'll be that, it'll be 2130. But by then, you know, what's funny is it's actually worked
+that the, the value is kept up with the havenings, you know. So like,
+at every havening, it's kind of like, basically the miner's profitability is cut in half overnight.
+But on the long run, the price has managed to keep up pretty well as far as, you know, so
+even in, you know, 2130 or whatever, when people are mining some fraction of, you know,
+like one Bitcoin every block, you know, it's like 0.05 Bitcoin per block or whatever it is,
+you know, that 0.05 Bitcoin maybe worth, how do they come with that number?
+Why that number though? I don't get it. 21.
+21 million? Yeah. You know, I think Stochi talked about it somewhere. There's a really cool book
+called The Book of Stochi. That's all of his writings. Everybody's been able to really find
+like so online and whatever, and they compiled them into a book called The Book of Stochi.
+And I think he may have talked about why he picked 21 million. I think it was just like
+an equation he did that basically, you know, because people think, you know, hey, what if the
+global economy is running on Bitcoin? Remember we talked about divisibility,
+being a fundamental thing of money? You know, there's more than 21 people in the world. So,
+you know, does that mean it's going to be too scarce? Like are people going to be...
+21 million people. Yeah, there's, you know, seven, eight billion. So that's not enough
+for everybody to have one Bitcoin. So, but Bitcoins are divisible by eight decimal points.
+So it's, so of the 21 million, it's that many times, you know, so the amount of units
+are going to be chopped up into is eight billions. Oh, oh, yeah, I want you, okay. Yeah, it may even
+be trillions. One Bitcoin you can divide eight times? No, you can divide it to the eighth decimal
+place. Eighth decimal place, okay. Yeah, so it's, it's real small. I've never done the math on it,
+but you could, so you can have a lot of Bitcoin units. So even if Bitcoin was worth like a million
+dollars, theoretically, the, the, the unit of Bitcoin is they've, they've called it the Satoshi.
+So like that's, that's like .0000001 Bitcoin is one Satoshi. So, okay. So I think I did the math
+once or even if Bitcoin was a million dollars, one Satoshi is still worth $5. So you could buy
+coffee with it. Wow. Right. So it could be that, so I think you just did some math like, okay,
+21 million is a good number. It's divisible, you know, it's, it's when you divide it up by, to the
+eight decimal place, it's plenty of currency to go around and be used around the world practically
+for, for things, but. And these, these apps that you use on your phone to buy stuff, did they do
+the math for you? Like, do they automatically? Like wallets? Like wallets? Yeah, like the wallets.
+Whatever. Yeah. However you transact on your phone. Yeah. Yeah. They'll, they, they usually keep up
+with some exchange rate or something. And so you can either enter US dollar amount or the Bitcoin
+amount, however you want to do it. Okay. So. Now, when we were talking about those alt coins,
+like Litecoin or Ethereum or whatever, what did the Winklevoss twins, the two Facebook twins,
+when they first got into Bitcoin, is that what they started doing was developing their own
+alt coin? Or did they just invest a bunch of money into Bitcoin and
+they, what they did is they, I don't know their thought processes when they got in exactly,
+but they saw, they saw it as something very promising. And so they, when they got their
+settlement from Facebook, you know, they had a fair amount of capital to play with. What they
+started doing is they started investing in early Bitcoin companies that were dealing with Bitcoin.
+So they were angel investors for a couple of companies, I think that, and then they bought
+a ton of it. And they bought it at like, I don't know how much, I don't know what their cost basis
+per coin was, but it's low. It was probably below $100 per coin. And they put millions and millions
+into it. So they're worth a lot of money. What were the companies doing that they were investing
+in the Bitcoin companies? The one I know about, I'm pretty sure about this. I'm not. It's called
+Libra or something. No, that was Facebook's. Oh yeah. Zuckerberg tried to make a competing one.
+That's, that's an interesting story too. That's, everything's a rabbit hole on crypto. So that's,
+that's why it's so hard to talk about. So the, the wink of us, I believe they invested in Bit
+Instant, which was, you could buy Bitcoin with credit card, you know, for the website.
+The founder, one of the founders of that named Charlie Shrem, he actually lives in this area.
+We should get him on. He lives around here. What's his name? Charlie Shrem. Charlie Shrem.
+But he ended up being kind of made example of, he actually went to jail for a couple years for
+some stuff involved, but Bit Instant basically ended up failing. But that didn't, the wink of us
+that still didn't keep them from owning, they own a ton of Bitcoin. I don't know what it is,
+how much it is, but they've definitely got billions of dollars and I think Bitcoin at this point.
+Is Charlie the guy who was running Silk Road? No. That was Ross Ulbricht. Ross Ulbricht. Allegedly.
+Allegedly. Okay. Is that the guy you were telling me about? Who? Yeah. We were talking about on the
+phone. I think so. Yeah. What's his story? So he was in like a library or something. Yes,
+that was crazy. So the Silk Road, there's been many versions after him. Yeah. Because I guess it's
+a popular idea, but basically. And that's why Bitcoin has such a bad rap to it, because people
+think about buying drugs or buying organs or buying whatever. Human trafficking. So basically,
+Ross and or people around Ross or a group of people built this thing in 2000,
+probably 11 or 10. Maybe 2010. No, no, it was probably 2011 or 12. They built this thing called
+the Silk Road. It ran on the dark web, right? Which is sort of an area of the internet that
+you can't really access unless you know how to get there. But it was basically eBay for,
+but you used Bitcoin. And you could list anything on there. So while one could easily sell shirts or
+chachkies or knitted sweaters, I'd say that there was a large amount of drug sales on the Silk Road.
+And it was brought to the attention of some political folks. I think the famous video was
+like Chuck Schumer, who is like looking at it. It was like a news story. And Chuck Schumer was like
+scrolling. He's like, Oh my God, you can buy anything on here. And that's when they exploded.
+Like that's when it became like, that was like huge advertising for them. And people were like,
+Oh wait, I can do what? Yeah. So yeah, he went on Silk Road and you could buy basically you'd
+pay for it with Bitcoin. And then it would get mailed to you. So just like eBay, except for
+anything. Anything. Basically, it was free market, right? And so Ross was kind of
+and there's no way of tracking you when you buy it with Bitcoin, right? There's no way anyone
+can find out it was you. Well, unless you're like an extreme hacker. No, it's that's part of the
+so Bitcoin is, there's a little tiny rabbit hole here. Bitcoin is what we call student anonymous.
+It's not anonymous. Okay. So basically, you have you have an address that you're given, right?
+Or that you that your wallet creates and it's just like a long string of characters, right?
+It's like, I don't know how many 36 digits long or something like that. And it just looks like
+gobbledygook. But that's your address. And so the way Bitcoin forms consensus, which is another
+big innovation of Bitcoin is the ledger, which so it's like, if you have your money in a bank,
+right? The bank has, you know, let's just imagine it's the olden days and they ascribe
+said, okay, you came by and you deposited $10 in the bank. And so they make an entry in their
+their little ledger says, okay, this account, this person's account plus $10. Then you come out next
+day and you withdraw five. Okay, this person's account minus $5. That's how, you know, all the
+banks in the world do it. There's some guy. And so if you come and you try to withdraw $15,
+but you only have 10 in, they say, Oh, no, you don't have enough. So we can't, we can't give you
+$15 because you only have 10 in there or five left, whatever. So the way that Bitcoin solves
+this sort of problem of seeing who owns what, which is a big problem that they saw this is
+the ledger for Bitcoin is public. So you can go and you can look on the Bitcoin blockchain.
+There's like websites called Block Explorers that basically will check all these transactions
+that the miners have written into the blockchain. And they'll, they can, if you put in an address,
+you can see all the transactions that have ever happened with that address.
+Really? But how do you know who had, who owns that address?
+Don't necessarily. But if you can map a person to an address, like if, like if I send you a
+Bitcoin address to pay me for something, right? Then you know, hey, that address belongs to Rich.
+And then you can, you can go to Block Explorers and you can see my entire history for that address.
+And then so the various authorities and or companies, organizations have actually gotten
+very good at this sort of blockchain analysis stuff. There's lots of tricks they can use.
+And so this is actually something that's, because remember the cypher punks were all about privacy.
+So at the time it was thought to be when Bitcoin came out, people said it's private,
+you know, and it was more or less, it's kind of anonymous. But with the tools that have come out
+now, that's actually becoming more of a problem where people can kind of figure out who's doing
+what on the blockchain through some complex analytics and stuff like that. There's, there's
+like actually, actually not too long ago, the IRS put out a job posting, basically asking for
+people who are experts in blockchain analysis. Really? Yeah, because they're very interested
+in stuff too, because if people are making money on Bitcoin, they want to know.
+We want you to pay tax on that shit, right? Exactly. Okay. So the original question though.
+Yeah, I want to hear about how this guy got, the guy who started Silk Road and how he got
+busted and what's going on with him. So he, I forget how I was tying all that in, but yeah,
+so basically he built this, he built like an eBay where you can buy anything you want.
+And people didn't like it. Well, no, people loved it. The government didn't like it.
+So the FBI started investigating and figured out, and actually part of the,
+I think one of the ways that they were able to track it to him is he had posted a Bitcoin address
+at some point in a forum to like, for somebody to send money to him. And he went by the handle of
+the Dread Pirate Roberts DPR. And, and so this, that was able to link, they were able to then
+link it to, link that address to one of the Silk Road addresses. And then to that username,
+and then just had to figure out who that username was. And a lot of people speculate that he may
+have not been like the only guy running, but he was just maybe an admin or something. He definitely
+was involved as far as we can tell. But he, so they figured out who he was. And yeah, they,
+they did a sting operation on him. And they did it in a public library. He would go to a public
+library to work. And so the big thing when you're dealing with somebody who's, you're trying to
+investigate or get their, you know, any incriminating evidence that may be on their computer, right?
+But he's a fairly knowledgeable crypto security guy. So like a lot of, if you're in a position like
+him where he may or may not be like favorable to the government under investigation or something,
+you might like have a thing where if you do a certain key press on your computer,
+it encrypts your whole computer or if you close your lid, you know, you, it's encrypted.
+It locked it so they can't get into it. So they set up this thing where this male and
+female FBI agent pretended to get into a fight at, in the library, like right, they were like
+right near him. And the fight was like escalated to a point where he felt like he needed to get
+involved. So what he did is he sat his laptop down open and stood up to go approach them or
+something. And that's the moment where they basically pounced and she, the dude moved to
+restrain him. And then the girl went and threw this thumb drive thing in his computer that would
+keep, keep it from shutting down and start downloading everything off of it.
+What?
+Yeah. They have these little, it's like a little, it's just like a little,
+it's like a thumb drive that just sucks everything out of the computer.
+Yeah, basically.
+And he didn't have any kind of fail.
+And it's also got like a mouse wiggler in it. So basically, like if the, so it won't let the
+laptop go idle. You just keep wiggling the mouse or something. So it keeps, and then they,
+so yeah, they got him and then they leveled all these crazy charges on him.
+The, to this day, when I talked to people at Ross Olberg, they're like, oh yeah,
+isn't that a guy that did murder for hire on the silk road?
+There was a murder for hire charge placed on him as this long list of charges.
+And one of them was murder for hire. And that's the one that made like all the headlines
+that he basically was trying to have somebody off and pay them in Bitcoin, you know, this thing.
+But, but before the trial even started, like that was completely dropped.
+Like there was, it was completely baseless. No, no basis in fact whatsoever.
+And, but it's enough to like, why did they come up with that? Why did they say that?
+To smear him.
+Really?
+Yeah, I think nobody like tried to try to pay somebody on silk road as like a hit man.
+There's the old saying that, you know, that a lie can go around the world twice before the
+truth gets its shoes on. You know, that's funny.
+So like, you know, the redaction of that or the fact that those charges are dropped isn't news.
+But the charges themselves are good news. You know what I mean? Like, like posting that this
+kid was doing murder for hire stuff, you know, makes sells newspapers, but like saying,
+oh, that was retracted like a year later or doesn't. But either way, they, what they got him for.
+Well, maybe they said that maybe they said that like somebody did like on silk road tried to
+hire a hit man to commit a murder on his platform. No, they said, so therefore he said that he
+did it himself. That was the, that was the implication was he did it himself.
+Okay. But do you know, do you know, do you know if that was something that happened on silk road?
+I don't think it did happen on silk road. No, it's not really like, I don't know how you would
+advertise like murder. I mean, would you just say, I don't know if you put up a posting like,
+hey, I'll kill people for you. I don't think enforcer or like, I don't think, I think they did
+have, I think they did have terms of service. I'm not an expert on it, but I think they did have
+terms of service. I'm pretty sure that would have been outside and they might have flagged it or
+something. Yeah, it's not a flagged it. Okay. So I don't, I don't think that actually was happening
+on silk road. And he definitely was not involved in it personally. So, but that, that kind of
+helped soil his reputation though. And then, I mean, basically he was made example of, I think,
+they hit him with like kingpin charges for, for all the drug stuff. It resulted in the arrests of
+a bunch of people who were actually dealing drugs, because they were able to tie them,
+tie their addresses to them personally through like chain analysis or something,
+and they made misstates, missteps somewhere along the way to, to compromise their identities
+on the blockchain. And they, so they were made several arrests on the
+of actual drug dealers. But to my knowledge, I don't think Ross ever dealt any drugs. He just
+ran the platform, you know, right? So what he made him, he hit like a middleman fee on
+transactions and he was also the escrow agent. So like now if you send money to somebody,
+you have PayPal, right? PayPal basically kind of holds the money until you transfer it and then
+make sure that you send the goods, right? So they would act as like an escrow agent so that the
+Bitcoin, they would hold the Bitcoin and then release it once it was delivered safely, you know,
+so actually they were holding a lot of Bitcoin when it was seized. So a lot of people who were
+using the platform lost a lot of Bitcoin to the government and they, they I guess were able to,
+I don't know if it was on his laptop or via his laptop, they were able to get access to other
+servers. But they, it was a lot of Bitcoin, it was like 600,000 Bitcoin or 60,000, something
+like that Bitcoin that was on there. It was millions of dollars and they sent it out in
+increments that I don't know what it is on the phone. But if you know, on a touchstone phone,
+you got the numbers that line up with the, or the letters that line up, like in the old days,
+if you wanted to text, you'd do like, you know, like two, let's see, like so I can't do it in my
+head, but like, you know, two, one, three would, would like spell a word. It's like each letter had
+three, each number had three letters attached to it. Like five, eight, eight upside down as boobs.
+No, like that, like, uh, if you, anyhow, it was, I think it was like, see, one is ABC, two is,
+um, on a, on a touchstone phone, two is, uh, three, so it was, yeah, I want to say it was,
+it was two, one, they sent it, they sent it out in increments that was two, one,
+three or four, two, one, four, and it was, it was the FBI. And like, if you typed it into a phone,
+it'd be FBI and they, so they sent it out of the wall, out of the Ross Ulberg wallet in those
+increments that made FBI. So it was like a hundred transactions of, of that amount to different
+wallets that the, and then the government auctioned them off a couple years later.
+Really? Yeah. Do you know what the current status of his, his cases?
+Yeah, it's pretty sad. So he got, uh, like I said, level, like he had kingpin charges put on him.
+So like, I can use a drug kingpin and he got a double life sentence. So he's in jail forever.
+They've appealed it. A double life sentence for running a website where people can sell drugs.
+I think he was like 20, like five or 26 when it was all happened. So yeah. So he's got a double
+life sentence. His mom, who's a great person, his name, her name's Lynn. Um, uh, if you got a free
+Ross.org, you can find a bunch of information about him and his case. She runs free Ross.org.
+She's spoken at my meetup before, um, a couple years ago and you know, she basically, I mean,
+she's his mom. So of course, but she talks about, they've done, they've appealed it all
+the way to the Supreme court and basically his only hope now is a presidential pardon.
+Really? It's always got left. Yeah. It's a presidential party. So there's,
+so free Ross.org. They're trying to do like petitions and stuff to
+How old was he when you went in? What's that? How old was he when he went into prison? He was in his 20s.
+I'm pretty sure he was like 25, 26, something like that. You know, a couple years out of college
+and you know, she says he was just an idealistic, idealistic kid. You know, he just wanted to
+create this marketplace to facilitate trade and whatever he wasn't like trying to be a
+drug king pan and ruin people's lives or anything like that or, um, but yeah, that's what you get
+for building certain websites is double life sentences. So it's pretty bad. So yeah. But
+there's more silk road, like there's more. Go ahead. What we're saying is anybody listening,
+go to free Ross.org and check out his story and what you can do to help. Yeah. Now aren't there
+other websites like silk road out there now? Like dark web to style websites where you can buy
+as soon as that silk road went down, somebody built another one. And that one, that one scammed
+everybody. Like, uh, the second one that was built, you know, once they got to a certain critical mass
+you know, because they were acting as an escrow agent as well. So instead of the FBI stealing all
+their money, uh, stealing all the users money, like the original silk road, this guy just,
+once he got to a certain amount of Bitcoin that he had, um, he just shut everything down and took
+the money and ran. But yeah, since then there have been tons, um, of people that makes different.
+I mean, it's just, it was a good idea or a popular idea. Got a lot of traction. So and you think
+about it, you know, if you, if you're into doing drugs, whatever, uh, it's a pretty safe way of
+acquiring. Like I know that there's, I mean, I had a friend of mine in college who he got
+like carjacked and beat up once just trying to get, um, some drugs from some neighborhood once.
+Oh, you mean like on the streets? Yeah, he went to the wrong neighborhood and they stole his car,
+had his guitar, his heavy guitar in the back seat. Yeah, stole his car and beat him up. God damn,
+dude. And, uh, he was just trying to buy some weed, I think. What? Where was he? It was in Augusta,
+Georgia. Okay. Yeah. So, um, so it's dangerous. I mean, it's, uh, for all parties involved,
+you know, just paying some money and getting into the mail. If it's just something you're, you know,
+it's just for your own recreational purposes and whatever. And you know, it's your body,
+you can screw it up however you want or, or become enlightened, however you look at it. Yeah. Right.
+They see the legalized drug, man. It makes everything so much better. All drugs.
+Yeah. I mean, the war on drugs has been pretty terrible for our country and the world. Like it's,
+it's definitely failed and, uh, it definitely needs to go. The biggest hoax ever.
+Well, and it's the biggest overreach. I mean, I've been, I've had my car searched, uh, at least two
+times, um, just based on, one was when I was a teenager and the cop was like, Hey, you know,
+can we start your car? And I was an idiot and I was like, Yeah, sure. I don't care. And, uh,
+I mean that, because I knew there was nothing in there, but my, this is my dad's car before it was
+mine. Oh, shit. He found something like pill bottles for my dad's prescription. What are these?
+And I was like, I don't know, man. Like, you know, it's just my dad had my name. He's the same name
+as mine. So my name on it. And I was like, I don't know, man. It was my dad. And it's like,
+still he was trying, you know, they're trying to find something. And then the second time was
+maybe five, six years ago. Yeah. And, uh, then I was smarter and I was like, no, you can't search
+my vehicle. And next thing I know, they had a dog there and they told me that the dog
+had alerted to my vehicle and then the dog was in my car. And I was like, yeah. Well,
+that's happened to me multiple times on the way to, uh, back and forth from Miami and the Keys.
+Really? Yeah. On Alligator Alley. There's a road that I don't know if you're very familiar with,
+like South Florida, but there's a, there's this long stretch of road that goes from the west
+coast of Florida to the east coast of Florida, like down low. And that's where a lot of the drug
+traffickers are notorious for traveling and smuggling shit. And I, when I was younger, I got
+pulled over almost every time that I drove down that road, get my car completely stripped,
+everything. Right. Even if you said no, but that's a wormhole too. That's a whole,
+I mean, that's a whole other rabbit hole. We could go down to the war on drugs, but
+like, I get in a lot of arguments about life, uh, about politics and, uh, um,
+you know, like the fairness of unfairness of our society in a lot of ways. Yeah. And really,
+I think that it's, I mean, a lot of it orbits right around that, this whole criminalization of
+drugs and what people want to do with their own bodies. Right. And, and the, uh,
+I mean, luckily we're in a time where like weed is becoming, you know, marijuana is becoming legal
+in most places, um, especially from bed. I mean, if it's even legal in Georgia for medical use,
+medical marijuana is legal as far as I know, CBD is legal in Georgia. Um, and we're not exactly
+known for being a progressive state. So, um, I mean, I think that, you know, putting people
+in prison for nonviolent things is, uh, I mean, even Trump, uh, did something a couple of years
+ago where he rolled out some forgiveness program for people with nonviolent, uh, people with nonviolent
+drug offenses and stuff like that. Cause I mean it ruins, I mean, you ruin people's lives. Actually
+funny enough, I was just that, uh, a diner before I came here and I was talking to this guy there
+and he's older now. He's probably in late fifties, but he said that he, um, he'd gone to jail for
+four years in the nineties for dealing cocaine. Really? Yeah. He's like, you know, it's part of
+my story now. It's fine. He's a successful guy now. You know, he came out and he's doing fine,
+but you know, it just, it drags so many people into it that really, you know, otherwise be
+productive members of society. Yeah. You get sucked into that system, that, that you did,
+that criminal justice system that it's just, it's, it's, it's slavery is what it is. I mean,
+it's literally just like modern day slavery. Yeah. Well, I don't know if they're out doing
+work in the fields, but I know, right, but they work for those prison that the people in those
+prisons, they, they do a shitload of work and they make, I forget what the number is, but they
+make those federal prisons get paid a certain amount of money per inmate per day. Right. It
+definitely feeds the bureaucracy. Right. And, uh, yeah. So there's a, I recommend a book. I
+forget the author's name, but he's from Florida. Uh, it's called a rest proof yourself. I would
+definitely read that. A rest proof yourself. Yeah. Interesting. Yeah. It's good book. It's
+unaudible. So you can listen to it while you're driving to the keys. Okay. Yeah. I haven't driven
+in a while, but that's a good one. I'll have to check that one out. I just read that recently.
+It's really good. Um, but it talks about, he calls it the, uh, electronic plantation,
+which is the, it's basically what he calls the NCIC, uh, national arrest records.
+Basically, even if you're arrested in this country now, it goes into the NCIC database.
+Um, even if everything's dropped, even if you get paid by the state, because it was all done
+improperly and you're, you're innocent, um, just having that arrest record can really screw up your
+life. Um, and he goes through all kinds of examples of how that is. Really? Yeah. You said he's in
+Florida? Yeah. He lives in Florida. I forget his name, but he wrote it like 10 years ago,
+but it's still an interesting book. So yeah, a rest proof yourself, but it just kind of goes into
+how corrupt and how instead of a, how arrest happy our nation is. And then with the, when you
+combine that with, uh, the drug, the war on drugs, um, where you can get people to go into jail for
+just having possession of something. I mean, it just, it's, it's, it's, if we could get rid
+of that one, if I could say, if I could snap my fingers and say there's one thing to get rid of
+in the, in this country, I think even ahead of, even ahead of like the, uh, the whole fiat money
+system, the federal reserve system where like our money is backed by nothing, I would probably just
+get rid of the war on drugs. I think that would help. There's a country, I can't remember, I can
+never remember exactly what country it is, but there's a country that actually made all like
+the hardcore drugs legal. And if you want, if you're a heroin addict, you can actually go
+into a clinic and have a conversation with, uh, a doctor who can like tell, like talks to you
+about what the effects of them are. And if you want to safely take your heroin, they'll give
+you a fucking syringe. And I think it's like Spain or something like that. It's not Spain. Maybe it
+is, I don't, I don't know. It's, it is some, yeah, I've, I've heard that same thing, but they've seen
+a huge drop in crime, like a massive, their crime rate is extremely low because of that.
+When you treat it like a, you know, a disease instead of making them a criminal, you know,
+you help a lot of things. I mean, a lot of people are just self-medicating themselves for
+pain and suffering and whatever, you know, and so like,
+Especially here, right? Especially in this country. A lot of people are unhappy.
+Yeah, I guess so. We got the opioid crisis or whatever. But, um,
+Yeah, I don't know, man. I think that's a, but like I was saying, the Silk Road, it just, they
+provided a safer way. I mean, it's happening anyway. I mean, people are going to go find this
+stuff. If they want it, they can find it. It's a safe way to do it. It's a safer way to do it,
+in my opinion. So, I mean, it's, it's, it's, it's to a degree charitable. And I've talked to people,
+I've had some conversations with people, not many, uh, that, that have used those types of things
+and both that, like on both sides of the transaction. And they were just like, yeah, man,
+it's just night and day. They liked it. Oh yeah. I mean, just because of the safety and the,
+and the ease of it. And yeah, so. So, what's the best way for me to start investing in Bitcoin?
+Do I use, do I use one of these altcoins, like Litecoin or Ethereum? Well, there's literally
+thousands and thousands of altcoins now. Right. And they're all just, so
+what's the difference between most of these altcoins and the original Bitcoin?
+They all have various, some of them, like Litecoin I told you about, they were just like,
+they even like, dubbed themselves when they came out, like Bitcoin is gold and will be silver.
+They had a faster block time. There's going to be more of them admitted in the end because of
+that faster block time, I'm pretty sure. And, um, but literally it was just a copy and paste of the
+code. There's no new functionality. Just trying to rebrand it and make money and it worked out.
+And it's still a fairly valuable coin, you know, despite what is so, so then there's a lot of other
+ones though that, um, the ad functionality of some kind. So there's a lot of experimentation
+happening. So Ethereum. Yeah, this kid Vitalik, right? He's getting flown. He's meeting with
+Vladimir Putin and the Kremlin and he's all over, like, what's so special about this kid?
+I think he's Canadian and he is, uh, but he's a Russian son of Russian immigrants.
+So he's a scary looking kid. He's funny. There's lots of really funny memes of him.
+I bet. I bet. He's a famous meme, uh, Vitalik laughing anyhow. I've met him, uh,
+in 2014 at a conference before Ethereum launched and, uh, he was just a kid that was writing for,
+uh, Bitcoin, was it Bitcoin magazine? Yeah, Bitcoin magazine. He was just doing some writing for them
+and he was super interested in Bitcoin. He was a programmer and, uh, I mean, at the time he,
+he couldn't have been over 20 years old and, um, and so yeah, he just, uh,
+I think he actually was trying to pitch some of his ideas to the Bitcoin, uh, sort of core
+developing team, the guys who kind of maintained Bitcoin. Um, but in the end he just ended up
+launching Ethereum and it's basically a smart contract. It's called a smart contracts platform.
+So, uh, it just adds a bunch of, that's what Ethereum is. Yeah. It adds a bunch of sort of
+a code layer on top of the currency. And actually he never really envisioned, according to him,
+he never envisioned Ethereum itself being like a currency. It's just, it's just the, the token that
+everything runs on, on his, on, on all these smart contracts. So smart contracts can do things like,
+uh, basically instead of Bitcoin where you just, okay, I want to send it to you. I want to send
+it to you now. Okay. Did you get it? Yes, I got it. Uh, Bitcoin can do some other things and it
+can actually do smart contracts too. It just hasn't really been built out. But instead of that,
+you can make a lot of more complicated, a lot more complicated, uh, things happen on Ethereum.
+Like, uh, you can make a smart contract that say if you put your coins in it, uh, it'll send them
+out to everybody in three weeks or something. It'll send them out to these four people or
+something like that. Or if, uh, if you want to have a job done or something, you could send it
+to a smart contract. And once you, you know, that way the guy doing the job knows that the funds
+are there and locked in the first smart contract. And then maybe once you guys both agree that
+everything's done to satisfaction, then the funds get dispersed to whoever needs them.
+And then there's lots of more complicated, uh, use cases. But one of the, one of the main ones
+that's happening right now, like as we speak, that's kind of a big deal. You asked me, where can you
+get Bitcoin? Okay. Where can you get this? That was your initial question. Um, so the answer to that
+a year ago, well, the answer to that now is still there's centralized exchanges.
+So there's, there's people who have set up services. Like the one I told you about earlier,
+a bit instant where you just buy Bitcoin with a credit card. One of the earliest ones, well,
+the earliest one, I think was one called MT Gox, um, which, uh, stands for magic, the gathering
+online exchange. Oh yeah. I heard of that one. Uh, it was a, it was a, it was basically eBay
+for, it was based in Japan for trading magic cards, which is like a, a fantasy card game. Yeah. So,
+you know, so they had this like marketplace kind of thing. And the owner of the guy that
+bought it was this French guy. Uh, I can't believe I forgot his name. Anyhow, he, uh,
+uh, he bought it and decided that he wanted to add like a Bitcoin market. Like, okay,
+he can buy Bitcoins here. And so he just put a thing up where they were selling Bitcoins
+because I guess he was mining them or whatever. And it became like a huge thing. And then they
+can ditched the, they kept, they were still called Mount Gox or MT Gox. They ditched the
+card trading thing altogether. It was gone. They just became a Bitcoin exchange.
+So you could wire them money. Uh, and then they would send you Bitcoin or ACH money to them.
+Um, and there were no restrictions pretty much whatsoever,
+but they went down in 2014 kind of epically. How do they go down? Um, I think it was a hack.
+It could have been an inside job. It's still under investigation. Oh,
+and then it was like millions and millions of dollars. Yeah, lots, lots of money. It was in
+having some time in early 2014. Uh, they, their website went down first. What happened first?
+They'd had a bunch of scares. First of all, like it wasn't very well run. Uh, so they'd have a
+bunch of, they'd had problems for like ever, uh, with scale, you know, scaling to meet this
+huge demand that was coming in and, and, and so they'd have problems. And they usually had fixed
+them and they had like a big lead in the whole current network network effect. Like they were
+the big name. And, uh, yeah, then one day, I think in like January, February,
+2013, they stopped doing Bitcoin withdrawals. So they suspended with Bitcoin withdrawals.
+And people were like, Whoa, what's going on with that? And then, um,
+their, uh, their website was still up so people could still log in and, and you could actually
+trade Bitcoin between users still. And so this one guy had this brilliant idea. It was really
+brilliant. He made it, he made another exchange. He called it Bitcoin builder.com. And so he was
+like, okay, if you send me your coins on Mt. Gox, I'll credit you on my website and you can exchange
+your Mt. Gox coins for real Bitcoin for people who want to deposit and buy. So it was a way for
+basically people to speculate on what I thought Mt. Gox would come online again or not, which I
+actually partook in and lost. I noticed people lost a lot of money doing that though. So yeah,
+it was, it was dumb of me. But so yeah, basically I went on and bought, I sent Bitcoin to this guy
+Bitcoin builder.com. And I bought, so if, if I had sent one Bitcoin in there or something,
+I could buy like four Gox coins, right? Cause everybody's, so if Mt. Gox just was like, okay,
+everything's fine. Bam, I would have had four Bitcoin basically that I could have withdrawn.
+But of course that's not what happened. They went down and one day their website went down and
+and it came out later that they were hacked and then there was another exchange implicated that
+went down a couple years later called BTC-E. They were a Russian exchange and they, the FBI took
+them down somehow. But they said they were implicated actually in the Mt. Gox hack. So I
+think Mt. Gox, that's still on like the people who have like bankruptcy claims against Mt. Gox
+because they filed bankruptcy. So anybody who had coins there could
+maybe get something back through the bankruptcy process. It's still ongoing as far as I know.
+What happened to all those coins that got stolen?
+They went out and got laundered through in various places. I think BTC-E was involved in that somehow.
+But again, you can kind of track them, like theoretically you can track them, but
+I'm not sure if, since it's all under investigation, I'm not sure if that has been made public. What
+happened to them? Yeah, because you would think it would all be trackable, right? You'd be able
+to figure out where everything went. Right. But I don't know. I'm sure there are people that
+have gone down that rabbit hole. I haven't particularly, but that brings me to a sort of
+another point though. There's a saying in crypto, since we're talking about exchanges and how to
+buy it. There's a lot of exchanges now in the U.S. It's not like the old days though, where you
+just send money and you get Bitcoin back. It's pretty heavily regulated now, which has its good
+things and its bad things. I'd say mostly bad, but they have to verify who you are. Follow all
+the sort of anti-Munday laundering, know your customer laws. The big ones are Coinbase and Gemini.
+Of those two, I kind of like Gemini better. Gemini, that's the Winklevoss. Yes. Winklevoss
+twins. Winklevoss twins, the Gemini twins. That's their exchange that they built. The thing is,
+when you hold, when a lot of people, and I know a lot of people who've been in Bitcoin for a long
+time, they still do this, they leave their coins on the exchange, like in the exchange wallet.
+Essentially, what you're doing then is you're holding your coins
+in somebody else's ledger, just like you have it in a bank. If you have your money in your bank,
+if that bank becomes insolvent or something, there's FDIC insurance, which is another rabbit hole,
+to insure you, but essentially that money is gone if somebody, if the bank becomes insolvent.
+If these exchanges, so when Mt. Gox became insolvent and went under and those coins got,
+I mean, it was game over for, I know people that lost hundreds of Bitcoins on Mt. Gox,
+and so it was, it's just gone, man. It sucks. It's a wild west, you know. And so
+whenever you're sending them to these exchanges, you're taking your Bitcoin, which is
+kept track of on the Bitcoin blockchain, so that means you have an account balance
+on the Bitcoin blockchain ledger. That's the one that I told you that's shared across all the
+computers and everything. There's, short of the entire internet shutting down, there's nothing
+that can really take, or you losing your access to those by losing, not taking care of your
+security well enough or losing your hard drive dies and you didn't have backups. Short of that,
+there's nobody can take that money from you, that does Bitcoin from you. Nobody can go and seize them
+easily unless they physically take your computer and force you to send them out, you know.
+But once you put them on a third-party exchange, it's just an entry on their bank ledger. They
+control the actual asset, the Bitcoin. You don't control it anymore, so if they go under, if they
+get hacked, whatever, your stuff's all at risk of that. And they're pretty big, you know, a lot of
+these exchanges, they're pretty big honeypots, you know. Hackers are always trying to get into
+exchange wallets. They've gotten very good at, the exchanges have gotten very good at
+securing the coins. How the hell do you pay taxes on your Bitcoin? If it's so volatile,
+the price goes up and down. What if you would have bought it at like $10,000, but in December,
+it's worth 30. The way the IRS handles it is if you, it's just like any other investment,
+so the same thing with stocks, like you can hold the stock and go up to 100 and then back down
+to what you bought it for, you know. They count it whenever you convert it back to US dollars.
+So that's the taxable event is when you convert it to US dollars, yeah. So you can hold Bitcoin,
+you can buy it at $100 and then it goes up to $1300 and it goes back down to $200. As long as you
+didn't sell at any point in there, there's no taxable event. Okay. So, but there's, and the
+crypto universe and taxation is a nightmare, frankly. I bet. Yeah, you'd have to get like
+a specialized accountant if you're doing anything crazy with crypto to deal with that. But if you're
+just, you know, buying the coins and holding them, stuff like that, it's pretty straightforward,
+just like buying anything else and holding it. Okay. What kind of stuff are you doing in Atlanta?
+What kind of, you do a lot of conferences and stuff? We do our normal Bitcoin meetup.
+Of course, we haven't done, we did our first one since COVID hit last month,
+but basically we just kind of are top, topical. We do something like, I think we're having none
+next week. We're going to talk about Fedcoin, which is a Federal Reserve is actually going to be
+rolling out some interesting stuff next year, probably that's kind of similar to its own version
+of Bitcoin. Interesting. Yeah. There's this law that got passed in March. Anyhow, we're going to
+talk about that. Usually it's something topical. We get together at this co-working space at an
+executive airport in Atlanta called Pichardy Cab Airport at the Globe Hub. And we usually have
+barbecue and stuff. And it's just more like a social club of people who are interested in
+Bitcoin and crypto. So that's what we do there in Atlanta. So it's bitcoinatlanta.org.
+And I do have a crypto consulting company called ClarkCrypto.com.
+Okay. What's it called? Clark Crypto. My last name is Clark. C-L-A-R-K.
+Actually, but if you type either one in, you can get there.
+Crypto Clark or Clark Crypto. You have both just in case they type it wrong.
+So it's ClarkCrypto.com. So I'll do consulting for anything as simple as, hey, can you help me buy
+some Bitcoin or help me navigate these exchanges or whatever all the way up to helping
+people? I know a lot of people in the business. So if I don't know the answer to your question,
+I can point you in the right direction. So legal consulting for like, if you want to launch like
+a token or something, can help you with the tokenomics and the legal aspects of that,
+of doing a launch. And securing your coins is a big thing I like to talk to people about
+because with great freedom, because you basically, Barack Obama actually
+gave us like the best line for Bitcoin. He said, if the cryptography can't be broken,
+it's just like people running around with Swiss bank accounts in their pockets,
+which is what you see like having a Bitcoin wallet is basically, is like, that's exactly
+bright. That's exactly what it is. So, but you have to be able to secure them properly.
+You don't want, you just want to do some best practices type of things. So help people with
+that. Also have a friend of mine who does wallet recovery, you know, if you screw something up
+and you think you've lost your bitcoins, he can help you recover them. But yeah, I,
+but there's a lot of great products coming out that are making it easier and easier to
+to store your coins effectively. This company Edge, they're, they don't pay me or anything.
+I just am a big fan of them. They have a wallet, they're out of California, the Edge wallet.
+And I've known their founder since 2014. And they, they kind of try and straddle that line of,
+you know, we want your grandma to be able to use this, but we also want to back it up and make
+it secure. So you can, and so I've done it where I've got a new phone or something and I just go
+on and install the app, enter my username and password and bam, it's all repopulated from
+their backups, but they don't actually keep anything on their servers. So even if, even if
+they got rated or something, all the, all the data they have, or if they got hacked, all the data
+they have on their wallets is all encrypted on your device. So if you forget your username and
+password. It's compartmentalized. Yeah. So, so they never get any raw data on their end,
+but yeah, if you remember your username and password, you can restore it on any device,
+stuff like that. So you can also buy cryptocurrency through their wallet too. Oh really? Okay.
+They have a, they have a service now. They just started a year or two ago.
+So, sweet. I got to get on that. Yeah. Well, I'll set you up with someone. I'll send you
+with someone after this. Hell yeah. Let's do it, man. But that's, that's what I'm up to. And
+I don't know. I feel like, I feel like we jumped around a lot. I hope somebody,
+you guys got something out of it. Yeah. Well, I definitely did. I definitely learned a lot. It's
+super fascinating subjects and there's tons, like you said, tons of rabbit holes you can,
+you can get lost down. Right. We should do it again. Yeah, we will try and do like a
+more linear regression through, through everything. But yeah, the moral of the story is
+the takeaways. Inflation is a giant hidden tax on the world. The governments of all,
+all the world governments use against their populace to basically, we don't even need a
+tax system anymore. They could just, they could just print the money and through inflation,
+do everything they wanted at this point. Someday it'll fall apart, but until it does,
+it's a game. God, Graham, can you imagine that day?
+I don't want to, but I mean. They, they don't want, I mean, they want to regulate it. The thing is,
+they're very smart and they've got a lot of, I mean, they've got a lot of levers they can pull
+to keep things going. But Bitcoin is like gold and silver, a hedge against inflation,
+which inflation is, you know, they say like death and taxes. Well, these days death and inflation
+are like, sure, sure thing. So because of the limited supply of Bitcoin, I think it's going to be a
+a sink for a lot of US dollars that are printed out of thin air. And I'm, you know,
+I'm a big anti, anti, anti war on drugs. I'm a big anti war guy though too. And so
+really the, this whole notion of like global war that we've, that we've like World War One,
+World War Two, and then this kind of whatever we have now, which is just like wars going on all
+the time, you know, the Middle East or whatever, they all couldn't be funded without this fiat
+money system where they can tax everybody stealthily, you know, through this hidden tax of inflation
+where gradually your savings are eroded and your and income never keeps up with it. Like I was
+talking to the Uber driver last night, your income, you know, he, there's all this new money in the
+economy and yeah, and but he gets paid the same. He's not making, you know, Uber still pays him
+the same rates pretty much, maybe even less, right? Because, you know, there's so many people
+driving Uber now unemployment and all that stuff. So the wage is never quite keep up with inflation.
+So even if like inflation is really like 4% a year every year, let's just say like,
+that's the inflation rate. Most employers give like 3%, right? But if you magnify that out over
+40 years, right? Where's that money go? That's a 40% reduction in your salary. Like, you know what I mean?
+Oh, yeah, right. One percent difference there. So inflation is 4%, but your salary only goes up
+3%. So it's a 1%. You take that over a 40 year career. That means that if you're working kind of the
+same job for 40 years, which a lot of people do on that 40th year when you retire, you're as far as
+like keeping up with your expenses. You're 40% less well off than when you started.
+God damn. That's dark.
+Yeah. But that's why everybody, that's why all households, you know, used to be in the 50s and
+60s. One dude could make money for his whole family and the wife could stay home with the kids or
+whatever. But now everybody's, you know, two income family. You have to have like a two income family
+to keep up. So sound money and Bitcoin are the answer to that. End the wars. If you want to end
+war and increase the living standard of more people in the world, buy Bitcoin.
+It'll solve your problems. Awesome, man. Well, thanks for coming down and doing this. I really
+appreciate it. And I hope you guys enjoyed. Thanks guys.

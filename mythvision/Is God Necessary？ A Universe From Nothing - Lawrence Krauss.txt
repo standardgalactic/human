@@ -1,0 +1,557 @@
+For those of you who don't know, I was a Christian for most of my life and asking whether God created
+the world and the universe and everything that we know that exists. If that was even a question,
+it wasn't. I just believed it. I was taught it. And it's kind of like rooting for your own football
+team or your own bias position because you were raised that way. That's kind of where I came
+from. I didn't even like Lawrence Krause to be honest as a Christian because he was poking against
+my sensitive, comfortable religion. Well, in this show, he joins me on MythVision Podcast and he
+shows us scientific reasons for why a universe coming out of nothing isn't crazy. It's not a
+miraculous thing and it doesn't require God. In fact, God would be an ad hoc proposition.
+Let me know what you guys think of this show and make sure you subscribe, like, check out the
+Patreon because this is being released early.
+We are MythVision. Welcome back to MythVision Podcast. Derek Lambert, your host. Guys,
+look who's on the screen. I mean, I got Professor Lawrence Krause. I want to start with a little
+poetic intro here. Since the dawn of man, our universe and its origins have remained a mystery,
+even though theologians and philosophers have drawn conclusions on its origins,
+but advancements in science could solve the mystery of the universe's origins and its demise.
+The religious have often used God of the gaps arguments to deduce something created us. Is it
+possible that we are now able to understand scientifically how all this came to be by natural
+means? And this is where we introduce today. We have theoretical physicist and cosmologist
+Lawrence Krause, who's the author of the book we're going to be poking into today called A Universe
+From Nothing, Why There Is Something Rather Than Nothing. Professor Krause is an advocate
+for public understanding of science, public policy based on sound empirical data,
+scientific skepticism, and science education. And he's an anti-theist. I used to not like him.
+This is a confession up front. When I was a Christian, I did not like him. But he seeks
+to reduce the influence of what he regards as superstition and religious dogma in popular
+culture. And I commend you for that. And thank you for joining me on MythVision.
+Well, it's nice to be with you virtually. I should say I've evolved from being an anti-theist
+to being an apotheist. Because I really don't care.
+Because God's irrelevant to everything I do. So that never enters into discussions and
+40-some odd years being a professor of physics and astronomy. I never heard the word
+while I was working in physics. And so it's not that I'm anti-God. It's just that God is irrelevant.
+Interesting. That's kind of the point of having you on the show today is to talk about this thing
+that you didn't really talk about often. But I think it'll be interesting too, obviously,
+to hear the science behind what you're going to say. I really appreciate you joining me. I want to
+give a thanks to Anthony Guthrie, my really good friend, for sending the donation to make this
+possible. You're the reason that the show is happening. So thank you, Anthony. And we're going
+to learn a lot today. So that's my small talk. And I saw a wonderful interview that I had to
+mimic some of the questions, but I feel like we're going to take this in a different direction.
+How do people respond to your book when you initially put this one out,
+the universe from nothing, why there's something rather than nothing? And when you first published
+it, do people love it, hate it? Is this because your research destroys the last bastion of God,
+as I've heard you say? Well, look, I mean, there were a lot of different reactions.
+But I was surprised at the popularity. It became a New York Times bestseller in the first week,
+actually. And that surprised me, what always hopes for those kind of things. But I was
+surprised that that happened. And I think the point is that people had been waiting for a long time
+for an argument. I don't know if Richard Dawkins said this or I did, but it is the last bastion
+of religion. I mean, for a long time, religious arguments said, well, the existence of life is
+evidence of God, but then evolution demonstrated the diversity of life could come by natural means.
+And so the last question that seemed hard to answer is how do you get this universe of 100
+billions galaxies, each containing 100 billion stars from nothing, clearly, you need some
+supernatural shenanigans. And the remarkable thing is you don't. And I think that's certainly
+worth celebrating. And the fact what I look, I don't write books, and I don't generally do
+arguments to try and argue against pseudoscience. I mean, I think it's important to do that. But I
+really try and get people excited about the real universe, because that's so much more
+interesting than the myth and superstition. And so I wrote that book to describe the amazing
+revolutions that have taken place in cosmology in the last 50 years,
+and to get people excited about those. But a corollary of that is that
+that we now have a plausible mechanism to understand how you could get a universe of 100
+billion galaxies, each containing 100 billion stars from nothing with no supernatural shenanigans.
+In fact, the really remarkable point is that if you asked,
+what would a universe created from nothing by physical laws, quantum mechanics, etc.
+that lasted four billion years look like? And the answer is it would look
+virtually identical to the universe in which we live. Now that doesn't prove it,
+but it certainly makes it plausible. And that's remarkable. And it's remarkable for a variety
+of reasons, because 30 or 40 years ago, we couldn't even ask that question. It would have seemed like
+a non scientific question. And the answer is now we have a whole series of steps in cosmology
+discoveries that have changed the way we think about the universe, as well as theoretical arguments
+that make it plausible. And I think that's remarkable.
+Well said. Yeah, there's a bunch that we're going to be talking about today that's probably going
+to be over your head. It was over my head. Your book was something else I have to admit,
+like I could keep up to like with you up to a certain point that I was like,
+I need a visual on this. I'm like, you know, well, you know, it's a short but I think
+science books should be short. And it's a short book. I wanted to do it in the minimal amount
+of space to take people through one to puzzle through. But it is complicated stuff. And it's,
+it's, you know, it's at the forefront of physics. It actually began. I think you told me beforehand
+that not only did you not like me, but you didn't like Richard Dawkins. Yeah, he was tough. And
+the book began really what happened was Richard asked me to give a talk at a convention. I think
+it was the atheist convention. And I think 2009, I can't remember what year, maybe 2008.
+And he asked me to do this, you know, and I had a few days notice and I, and I just sort of
+almost put, well, I put together this lecture and it was kind of last minute and I put it
+together on the fly. And I, and I may have even called the lecture University of nothing, but it,
+it seemed it created a huge stir. And there were like several million people that watched it
+afterwards. It was where I made up. I mean, most of the jokes I do are, are invented on this for
+the moment. But I was talking to that crowd. And that's when I, I was talking about how every
+Adam inside your body comes from a star. And I uttered these words, which are now I see now
+see on mugs and other things where I said, you know, so for, you know, forget Jesus, the stars
+died so you could be born. Oh, that was so good. I've seen that. Yeah. Yeah. And it was just off
+the cuff. But, but in any case, so that was popular enough that I thought, well, maybe this
+will resonate with people. Of course, there were the, there were the groups that immediately,
+well, you know, the haters take more time often. I mean, some haters do immediately,
+but they take more time to develop their arguments. And there were, I did, I did,
+I made a joke in the in the early part of the book, just for a joke. But of course, it alienated
+a variety of theologians and philosophers. Because I said theologians and philosophers won't like my
+my definitions of nothing, maybe, but they're experts at nothing.
+And anyway, so that that got their hackles up. And of course, what you read
+are ridiculous arguments for people who've actually not read the book, but argue that I
+don't when I'm talking about is not really nothing. But of course, they never define
+what their real new nothing is, which is the main point. I mean, the Bible doesn't really define
+the void, right? Generally, the void of the Bible is this infinite, you know, vast empty space,
+right, the void. And that's one kind of nothing. But I'm actually pretty careful in my book to
+talk about different kinds of nothing. But there are people who say, well, he's not talking about
+a universal, he's talking about a quantum vacuum. And most of them don't even know,
+they know what those two, they know how to say those two words, but they don't know what quantum
+or vacuum it means. I honestly don't either. Well, no, you know, it's a complicated subject.
+And the point is, I'm not even saying that. I'm talking about the universe, everything we see
+that we exist now, space, time and everything within it, in our universe did not exist. Now,
+if one has the laws of quantum mechanics, you can pop a whole space time into existence,
+where there was none before. So the question, of course, that's begged is, well, did anything
+else exist where there are other universes? And that, you know, that's a metaphysical question.
+And to some extent, one you can address in science, but it's irrelevant. The point is that
+our universe didn't exist and that came into existence. Now, any semantic babbling that these
+people come up with arguing about a quantum vacuum means they haven't understood the central point
+that there literally was no space, no time, no stuff, you know, that are literally everything
+that we see did not exist. And I don't care if anything else existed, because that's not the
+question. The question is, can you get our universe from nothing? And it literally is nothing. Now,
+it is true that in order to, there are a few things I should qualify. First of all, we don't have a
+full theory of quantum gravity. So we can't calculate the mechanism by which our universe
+could have evolved from nothing. It's just by extrapolating what we now know.
+In empty space, quantum mechanics and special relativity tell you that particles can burp in
+and out of existence all the time and do and are doing it all the time. Then if gravity is a quantum
+theory, which there's no reason to suggest it isn't, quantum mechanics looks like it's fundamental
+universe, then space and time, which are the variables of quantum of gravity, become quantum
+mechanical objects. And if they're quantum mechanical objects, and space and times can
+pop in and out of existence. That's all we need to know to make it to make it plausible.
+So if I may, and this is interesting, because I wrote this down, but this is down on my notes
+a little, and we were already getting into the deep water. And I'm like, whoa, I love this,
+by the way, thank you for this. One of the things that I was thinking about with Richard Dawkins
+being a biology expert on this and AO biogenesis, if you will, like the fact that
+different elements combined under the right circumstances in some way, we believe that
+this is how life began. How it happened in the correct environment and exactly how that's the
+complex part, we aren't really able to exactly reenact. But does that translate somewhat into
+what you're saying here about the universe is that there's something here we know we have
+the components, we have the idea, we just can't like, we don't, oh, there's a picture of it.
+Look, it just happened and we don't have the evidence of it actually taking place.
+We don't have the full theory, but Richard made more of an analogy. It's kind of pompous to me
+to suggest that this argument was the same as Darwin's argument. But this was profound, but
+well, and he spent years validating the data. But the idea is very similar. When Darwin came up
+with the idea of evolution and came up with all sorts of evidence from looking at fossils and
+looking at existing species, he didn't know about DNA. He didn't know the mechanism of genetic
+replication and mutation. He didn't know any of that. He just said, look, it's plausible. If I
+look at these things and I can demonstrate that there's real good evidence for evolution of diversity,
+I don't know the mechanism of that evolution. And in some sense, it's the same. All the evidence
+points to a universe from nothing, although we don't know the specific evidence by which it came
+into being. And by the way, and that's important about evolution too. Evolution, natural selection
+explains the diversity of life from a common ancestor, but it doesn't explain the origin of
+the common ancestor that we still haven't don't have a full theory of. We have lots of arguments
+suggesting it's plausible. And all the time people are arguing for ways that you natural
+mechanisms on earth deep in deep ocean or in layers of various crystal layers that you could
+develop a separate replicating object with a membrane and etc. But we don't have those exact
+steps yet. I suspect in the next 25 years we will, but we don't have that. But there's no evidence
+to suggest it's impossible. And in fact, every bit of evidence to suggest it's likely. And in that
+sense, the beginning of life and the beginning of the universe are on the same footing in the
+sense that we have a plausible mechanism, but we don't know the details yet.
+This is fascinating. I mean, I never thought I'd even be asking these questions. I was like,
+God did it and that's enough for me. That's the argument for people who want to stop thinking.
+Basically, it's just if you want to, if it seems so puzzling, just say God did it and then you
+stop thinking. And the point is that that's too often been the history of many ideas is that people
+say, well, look, I can't possibly understand how that could happen. I have no idea how that
+can happen. So therefore, God did it. It's like the people who say, I see something in the sky and
+I don't know what it is. So it must be aliens. I mean, there's lots of other possible explanations.
+And in that case, the aliens are the last least likely possibility. And I would argue in the case
+of God, generally, God is the least likely possibility. And of course, that argument,
+as you know, is subject to the is called the God of the gaps argument, which is to put God when we
+don't understand something. Because the problem with that is every time we understand something,
+the gap becomes smaller and smaller. And they shift God. And I think my argument in some sense
+closes that gap more or less completely. I mean, it doesn't. There are these questions about was
+was there anything before did time exist before was is it infinite in the past and for the future?
+These are interesting, potentially interesting philosophical questions. And to some extent,
+sometimes physical questions right now, they're metaphysical. But and you know, you can bury
+God in in in that realm. But but the point is, if you're doing that, that's fine. But it, you know,
+it just makes God more relevant. It literally, as I was not being facetious at the beginning
+of the program, when I said that it's never discussed, you don't need God to understand
+anything that we can see in our universe. That doesn't make the essence of God impossible. It
+just means it's redundant. It's an idea that unnecessary. And so, yeah, if it makes you feel
+good, fine, but you don't. But God doesn't add anything to our understanding of anything.
+Professor Krauss, I have a hard time, because I don't know the science as you do,
+trying to figure out how when we talk about quantum mechanics and things popping in and
+out of existence, and we could see that that happens, like, we know it happens. We can't see
+it happen directly. We can infer that it happens. But anyway, my question is this is like, when I
+look at material matter, right, I live in such an equilibrium. I'm just everything's good. Life's
+great. Like, how come everything goes just just the way I like it? Sunrise is the sunset. You know,
+my question is where does all this like Bill O'Reilly sunrises, sunsets, no one understands it.
+I mean, yeah. Anyway, start going. Well, how does material how do how do I guess I have a very,
+very limited understanding on the science here? Sure. But how can nothing in the way you're
+defining this produce actual material mass objects of earths and planets and stuff like that? You
+don't mean it? Well, it's a subtle idea that, in fact, the point is that, yeah, virtual particles
+and antiparticles are popping in and out of existence all the time, but they have to disappear.
+Because they violate the if they were if you could measure them, they'd violate what's called
+the conservation of energy. If you have nothing, and then you have particles, you appear to violate
+the conservation energy. The great thing about gravity is when you include gravity into the
+into the works, you can have positive energy and negative energy, gravitational potential
+energy, if you wish is negative. And the reason for that is that if I have an object out at infinity,
+actually, it's Carl Sagan here. Anyway, if I have an object out of at infinity at rest,
+it's reasonable to say it has zero energy, right? But then if it falls towards a planet,
+it loses energy, right? It loses potential energy and falls towards a planet. And therefore,
+its energy, its gravitational energy here is less than it was there. And if it was zero there,
+it's it's negative here. And once you'll offer negative energy as well as positive energy,
+then you see you could actually create a system where you create two particles say
+particle, antiparticle pair. And yeah, their rest mass has energy, but there's a gravitational
+attraction. So potential energy, the gravitational attraction is so negative that it overcomes the
+positive energy of the mass. And the total system has zero total energy. And then it can come in
+those those particles can persist, they can exist in real life because that they're popping into
+existence doesn't violate any rules of conservation of energy. And so literally, the vacuum can burp
+particles eventually if there's if there's sufficient, I say gravitational forces, and that
+happens near a black hole, for example, particles, antiparticle pairs pop out into existence near
+the source of a black hole, and the antiparticle can fall in say, and lose enough energy that the
+particle can be radiated. And that's what we call Hawking radiation and black holes radiate.
+And so the point is because it because of the negative energy that's allowed by gravity,
+you can create it's it's it's like a friend of mine, an eminent physicist named Alan Gooth once
+said you it's sort of the ultimate free lunch. Because of the fact that gravity can involve
+not just negative energy, but also negative pressure, you can have a phenomenon which was
+first described by Gooth, it's called inflation, where you can have a small universe inflate and
+become very large, and dump a lot at the end of that dump a lot of energy into space. And all of
+that is is due to the negative energy negative pressure of expanding space. And he called it
+the ultimate free lunch, because apparently, you start with almost nothing, and you end up
+with the universe with lots of energy. And that idea was very influential to me when I talk when
+when I was talking about the whole universe creating for nothing. It's really just that
+gravity adds a new complexity to the mix, and allows for phenomena which are not
+which are not intuitive in any sense, because we don't see you know, the all all objects that we
+see mass is a gravitation attractive, it's got positive energy, we're used to gravity always
+pulling, you know, and never pushing, and sucking and never blowing, depending on how you're going
+to think of it. And and but it turns out, once you allow for general relativity, exotic configurations
+of mass and energy can exist, that have strange properties, and change all the rules. And that's
+just the way it is in physics, we discover the universe is stranger than we thought it was,
+and the rules change. And some people don't like that, they say, no, no, you're not allowed to
+change the rules. But actually, discovering the rules are different is what we call learning.
+It's something theologians don't know about, it's called learning. And theology has never
+learned anything. There's no contribution to knowledge in the knowledge base of humanity
+from theology in the last five hundred years. And I say that, not in a biased sense, I've
+asked theologians, I've been with theologians, and I challenge them, I say give me one contribution
+to knowledge that theology has made since the scientific revolutions in the last 500 years.
+And they all say the same thing. What do you mean by knowledge? And and and I and I would
+submit that if you asked a physicist or a chemist or a biologist or a psychologist or
+what contributions to knowledge they made, their fields are made, they wouldn't say what do you
+mean by knowledge, they'd give you an example. And I think they're driven to that because
+they don't have examples. And and that's that's that's really important. The fact that religion
+has all the answers before you even ask the questions means you can't possibly add to
+knowledge because they don't you know, the answer is always God did it. And that's not an answer
+to knowledge. It's interesting to like I recently interviewed. Well, let me mention this. Do you
+know Tim mentioned? Yeah, he's a friend of mine. Yeah, I know Tim. Did you interview Tim? No, not
+yet. I'd love to. I plan on trying. He's hilarious. I'm going to have him on my podcast. So there
+you go. Anyway, well, you'll probably beat me to the punch. So no, but I'd love to definitely
+interview him. I loved his Thank You God video. And he's talking about the mom who's she had
+cataracts and that he's like it couldn't be misdiagnosis. It couldn't be all these other things.
+I thought that was man that he really is brilliant. He's he's great. Tim mentioned I'm a huge fan of
+his and and I'm fortunate to know him. Yeah, that's awesome. So I interviewed Professor Mark
+Psalms, who's actually a guy who wrote a book called The Hidden Spring, trying to find out where
+consciousness comes from. And I don't think he means that in a philosophical way. He means this in a
+neuroscience way of trying to understand we still don't know the answer. It's a big open question.
+It is. But he talks about homeostasis and how it works within us. And there seems to be this like
+there's this certain place where pleasure and pain where we're in between it and we survive
+this way. I wonder if the universe has somewhat of a form of a homeostasis existence with a
+zero energy here. It's like you mentioned, if I'm not mistaken, in previous interviews,
+it's zero energy. But there's maybe you can describe this mathematics, there's like a 30
+percent something of the total the total energy of the universe, we think it all as we measure,
+it seems to be precisely zero. And energy is not well defined in general relativity,
+I should say that. But class, the classical Newtonian energy appears to be zero. But that
+doesn't mean there's nothing that has energy in it. It says there's a balance of things. But
+and so the universe as we measured is spatially flat, which is another way of saying it has zero
+total classical energy. The university measured spatially flat, that's not meaning doesn't mean
+it's like a piece of paper. That's a two dimensional flat universe, you get that all the time.
+Yeah, a three dimensional flat universe is just one that the university always thought you live
+in where the x y and z axes are perpendicular to each other and this and point in the same
+direction in all of space. In a curved universe, the x y z axes can point here in one place. And
+then when you're over here, they go back to get over here, they point in a different direction.
+That's because space is curved. But a flat universe everywhere you go, they point in the same
+direction. That's it's the universe we always thought we lived in. But we can measure that we
+can measure looking for curvature of space and a large scales appears it's not curved.
+And and so the universe is flat. But but in order to make it flat, gravitation, you have to have a
+certain amount of energy. And we used to think that there was enough matter to make the universe
+flat. And I was when I was first studying dark matter when I was a young researcher and assistant
+professor. And I one of my big research areas was to look at this dark matter, which is when we
+look at our galaxy and all galaxies, most of the mass of those galaxies can't be attributed by stars
+and as we attributed to stars, or even hot gas, it's it's something that's invisible, it doesn't
+shine. And we call that dark matter. And it's true. And they are dominated by dark matter. And we can
+measure that amount of material by measuring the gravitational attraction of things and
+the way light bends and all sorts of ways. We're convinced that that there's probably five to 10
+times more stuff out there than meets the eye. And it's probably in fact, the strong arguments
+that suggests it's a new type of elementary particle, which is why I got involved in the game
+as an elementary particle physicist with, you know, proposing dark matter particles and experiments
+to look for it, etc. So we thought, Okay, well, that's it, there's enough dark matter to make the
+universe flat. But then it became clear and clear, the more we measure that there wasn't enough
+dark matter, there's only 30% of the amount of stuff needed to make the universe flat.
+And in fact, in 1995, a colleague of mine from the University of Chicago, and I wrote a paper
+saying it doesn't work. There's not enough dark matter to make the universe flat. And there's
+all these different tests you can do and looking at all the observations, the only way you can have
+a flat universe is if 70% of the energy in the universe resided in empty space, if empty space
+itself had energy. Now, at the time we proposed that, we didn't believe it. My own feeling was it
+meant that some of the observations were wrong, and it was a way to demonstrate that the observations
+were wrong. But in fact, it turned out to be exactly right. 70% of the energy of the universe
+resides in empty space. And the way you could test that is if you put the energy in empty space,
+its gravitation, your appulsive, if you put energy in empty space, it blows, it doesn't suck. And
+that causes the expansion of the universe to speed up faster and faster and faster.
+And in 2008 and 2009, two sets of astronomers were measuring the expansion rate. The universe
+had discovered it was speeding up. And the amount by which it was speeding up was precisely the
+amount we said was necessary to be in empty space. And they won the Nobel Prize for that discovery.
+It's also interesting you note that the way to test this, they go deep in the earth to try and
+keep radiation from coming through, correct? Oh, that's for dark matter. Yeah. So dark energy,
+you measure by looking at the expansion of the universe, the energy in space. Dark matter,
+we think it's a new type of elementary particle that doesn't really interact strongly, doesn't
+interact with light. And how can you detect it? Well, if it's out there, it's also in this room,
+it's also in your studio, it's going right through your body as we have our discussion.
+It does interact so weakly, most of it goes right through the earth without knowing the earth was
+there. But some of it will interact. And the point is, it interacts so weakly that if you
+put a dark matter detector here where I'm sitting, there's so many cosmic rays that
+they would overwhelm the signal. But if you put the detectors deep underground,
+where they're shielded by miles of rock, then the cosmic ray particles get stopped and the dark
+matter particles will make it all the way through. And every now and then, one of them might bounce
+and be detected. It's not been detected yet, but we're building larger and larger dark matter
+detectors to look for. And I'm part of an experimental collaboration that's trying to do just that.
+Oh my goodness. So you mentioned the expansion of the universe, right? I came from the theologian
+side, the kind that hasn't contributed in the last 500 years. I'm trying to contribute now, but
+you know, I have to say, we had what we call eschatology, and it was, Jesus is going to fly
+back on a horse, or who knows, whatever picture you have on a cloud. And yeah, every religion
+has a strange eschatology, the end. But you have a real concrete vision. And is it a doomsday vision?
+Yeah, well, I've written about the future of the universe. And the answer is it's not going to,
+it's pretty bad in the long run. It's not going to end well, at least in terms of what people,
+you know, what you might think it would be. And I, as I think I told you beforehand, I wrote a
+bunch of papers on the long term future of the universe and discovered I was doing eschatology
+at the time I'd never heard of the word. And the point is that ultimately, because the expansion
+of the universe is speeding up, it's carrying away distant galaxies with it, space is literally
+carrying those distant galaxies away with it. And eventually, they'll be moving away from us
+faster than light, it's allowed in general relativity, it turns out, because they're not
+moving through space faster than light, that's not allowed. But space can do whatever the hell it
+wants. And it's, it can, it can expand away from us faster than light. And the, and eventually,
+they'll become invisible. And we calculated that in about two trillion years, all the galaxies outside
+of our own galaxy that or the galaxies that are bound to our galaxy, will have disappeared. And
+astronomers, there'll still be stars around. So we're strong life forms that evolve around stars
+in, in, in what will then be a massive galaxy, because it won't be our Milky Way, because our
+Milky Way would have collided with Andromeda and a bunch of other galaxies would be a big galaxy.
+Any civilizations that develop around those stars will develop astronomy and build telescopes and
+look out. And they'll, they'll actually think they live in the universe we thought we lived in 100
+years ago, because they won't, in 1925, we thought there was one galaxy in the universe, our Milky
+Way galaxy, and the rest of it was empty space, static and eternal. And those astronomers will
+look out and see nothing outside of their galaxy, all evidence of the rest of the expansion of the
+universe and the rest of the universe will have disappeared. But then if you wait a longer time,
+those stars will die out, actually probably merge to form black holes. And then the black holes will
+evaporate. And the little to be nothing, the universe will be cold, dark and empty. And that's
+the future of the universe. It's cold, dark and empty. So it may be gun with a bang, but it'll end
+with a whimper. And that's the future. And the interesting thing is actually, since you mentioned
+eschatology, it's an amusing story that I haven't told very often. I was invited to a meeting at the
+Vatican of all places. I don't know how many, maybe almost 20, almost 20 years ago, at the
+Pontifical Academy in the Vatican to discuss the few basically the future of the universe as seen by
+physicists, biologists and theologians. And it was held in the Pontifical Academy where I'm
+where Galileo was kind of excommunicated. And it was quite a fancy thing to be in.
+And I stayed in the Vatican in one of the hotels in the Vatican itself right next to the big St.
+Peter's. And it wasn't a man. Unfortunately, it was the day that I was there during the election.
+It was in 2000, I can remember now, because I was watching TV in my little room in the Vatican
+when Al Gore won the election. And then I went to bed and then I woke up to catch a plane and
+discovered that apparently he hadn't won. And it was very just, it was weird. But anyway. But the
+thing that that's an aside, the thing that was interesting at that meeting is was a total failure.
+Because we talked past one another. Because for the theologians, the far future was the
+resurrection and they were thinking thousands of years or who knows. But for the physicists,
+the far future is trillions of years in the future. Because we know that there's no evidence
+the universe is going to collapse and eight times go shorter than that. And so we just had nothing
+to say with one another, which was my first evidence that really, we did have nothing to say
+with another. And as I told the theologians there, and I was quite blunt about it. I said the difference
+between my lecturing to you and you lecturing to me is that you have to listen to me and I don't
+have to listen to you. The reason being, if you want to be a sensible quote unquote theologian,
+you have to know what the evidence of reality is and you have to try and work your myths around
+that reality. But as a physicist, I don't have to know anything about your myths. So so so literally,
+they had to try and the reason they had the meeting it was, you know, the Vatican has a
+Pontifical Academy, which is scientists who advise and the point is they need to know what the
+current science is so they can manipulate their stories to be consistent with the science.
+You know, they eventually had to decide retroactively that indeed the earth wasn't the
+center of the universe or even our solar system. It's a hard way to swallow. They got they got
+they got burned with Galileo. And so they've tried to keep up with the science ever since. So
+they have to listen to the scientists. But the scientists don't have to listen to the theologians
+because they have nothing to add. So it was interesting that when I when I was at this meeting,
+which was literally an eschatology meeting at the Vatican, we had nothing to say to one another.
+It's interesting. Do you feel the same way about philosophers often? I mean, it sounds like they're
+in the same vein. A lot of times it's word fluff and it's it's dual non dualism or something that
+is esoteric explanation for reality or this is all consciousness. You said on a previous interview
+that because the person mentioned, oh, we're going to talk about reality, you know, we're
+back in reality and you're like, no, physics is reality. Can you explain this of what you mean
+and how that differs? Well, I don't mean physics. I mean, nature. I mean, the world as we
+empirically measure it, there is nothing else, right? I mean, not no knowledge comes by revelation.
+It all comes from empirical evidence and you're seeing how the world works. And that's it.
+And and and that's the basis of all knowledge. When you say philosophers, I mean, the point is,
+it depends on the philosophy we're talking to, right? There's some who just there's some who
+just babble words, semantics, but you know, lots of philosophers who try and the philosophy is really
+we all do philosophy. But philosophy is a rigorous philosophy is a method by
+analysis and critical analysis and logical analysis to probe interesting questions. And
+in fields of science, where those questions are not well defined, like say consciousness,
+philosophy can be quite important because it can frame the important questions. And I, you know,
+they're philosophers like Dan Dennett, who's really heavily involved in, you know, relating to
+neuroscience. And that was true early on in physics, when the questions were ill defined. And
+then the philosophy was, it was called natural philosophy after all. And it was an important
+for setting the stage to the kind of questions that would be relevant to driving the field.
+But once the field began to mature more, the important questions to physicists
+are not the ones that philosophers ask. And in order to ask the important questions, you have to
+have a lot of intellectual baggage, you have to know where in order to know what the next
+interesting thing is, you have to know all the stuff that we now know. So it becomes
+physicists who are asking the questions. And philosophy really hasn't has no impact on physics
+nowadays. That doesn't mean it's unimportant. It just has no impact. Right. There are philosophers
+of science and they do serious work, but it doesn't and it may be laudable work, but it doesn't
+impact on the on the development of physics itself. That was what I was going to ask is,
+I guess, what do in the vein of this, what does physics do that philosophy cannot do?
+And I mean, when it comes to, well, when it comes to physical questions, absolutely nothing,
+it can do a lot more and it does a lot more. And that's why physics has progressed. And,
+you know, the philosophy of science really hasn't done much. But, but when it when it comes to
+non physical questions like consciousness, which maybe ultimately is a physics question, but,
+but it's so complicated, it's going to be studied by neuroscientists.
+Physics doesn't have much to say at this point. Some people think it does. My friend,
+Roger Penrose thinks somehow physics is related to consciousness. I think he's wrong.
+But, but, you know, we'll, we'll, we'll find that out. But, but right now,
+what physics doesn't do is, is, is produce interesting questions about consciousness
+that philosophers can at least frame. So there's some room left for them. Let me put it that way.
+This is really interesting because I was interviewing Professor Mark, Mark Psalms in
+his book, and he seems to have somewhat of a quantum mechanic angle of trying to explain,
+I think, and I look some of his stuff went over my head in his book. So it's really,
+really fascinating. So I, I really appreciate you going into this and explaining. So this
+is the next question I'd like to pose to you if you don't mind. Sure.
+What alternate explanation are there scientifically for the existence of the universe?
+Like, I know there's more than one that could potentially make sense. Like,
+for example, some people say that the universe's origin, you know, the Big Bang is actually the
+end of a previous, right? It's a theory or a hypothesis, if you will, but we don't have evidence
+prior to that because we can't empirically observe or test in any way. It's metaphysical.
+But are there any other metaphysical explanations to you that are just as plausible that don't
+require more ones than that? That's very implausible based on everything we know. But the point is that,
+as I said, t equals zero is an open question right now. And so was there a time before the
+universe? Well, Stephen Hawking would say, and I would tend to agree that it might be a bad question,
+because if space began, so did time, and there literally may be no time before the Big Bang.
+So you can't even ask the question, what was before? It's not a good question.
+That's frustrating. But that's just the way it is. But that may not be the case. You're right,
+it could have been, it could have been an infinite cycle of collapse and expansion. There's no evidence
+for it. There's no good theory. There are people who promote that idea, but it's really not generally,
+most physicists think it's ugly and not well, well defined. But you know, the best, the best
+What convinces you the most, the best metaphysical argument for a universe is,
+is comes from inflation is that, is that
+so a, and it's for the origin of a multiverse, it's not really for the origins of our universe,
+but I'll explain it. So early on, you have, let's say you have a Big Bang and early on,
+the energy of space begins to dominate over everything else on the universe began against
+to expand very, very fast. And then there are local pockets where there's like a, like a seed
+forms, like a, like a raindrop where you decouple from that background expansion. And a local
+hot Big Bang develops, all that energy of empty space gets dumped into matter and radiation.
+And it's the beginning of what essentially is the beginning of a Big Bang. Okay, our Big Bang.
+But that means our universe sort of formed, but that means more, that means there's much more
+space outside of our universe, which is still expanding exponentially fast. And there could
+be other universes forming now, and other universes collapsing now. And it could be,
+it could be infinite in time, that process could have gone on infinitely. And there could be an
+infinite number of universes and, and, and they're all way beyond the region we'll ever be able to
+see because they're expanding exponent in this space, it's expanding exponentially fast. So the
+universes are being dragged apart faster than you'll ever be able to measure. And so most of us
+think that it's most likely that we live in what's called a multiverse, which is namely our
+universe is not all there is, there's other potential universes in which even the laws of
+physics could be different. Because what I didn't get to say early on is that the one presumption
+that it's simple to make that were that well, the one presumption that makes it easiest to
+understand a universe from nothing is to assume that quantum mechanics, you know, in some sense
+pre exist our universe that the laws of physics were fixed. And our universe arose. And but people
+say, Well, if you have the laws, then that's nothing. And my answer to that as well, you don't
+necessarily need the laws, it could be that the laws come into existence when the universe comes
+into existence. And the other universes come in can come into existence with different laws of
+physics. And, and that we don't know that's that's really metaphysics, but it's certainly a possibility.
+But it's quite possible that in these other universes in the multiverse,
+there are other laws of physics that particles have different have different masses that they're
+different forces, all of that is possible. And I think that's the best metaphors, sort of metaphysical
+picture of, of, of, of our, of, if you want, our, our universe's origin. But, but we don't, but
+anything, anything we say about t equals zero at the exact beginning is pure speculation. It's,
+it's, it's metaphysics, you can call that philosophy if you want. But we don't have any evidence to,
+to sort of refute it. And therefore, right now, it's, you know, it's fine to talk about, but it's
+just talk. How does this differ from string theory? Well, string theory purports to be a theory of
+quantum gravity. So, and a theory of space and time in string theory requires, at this point,
+apparently more than four dimensions, maybe 10 or 11, although it's not really well defined.
+And it's the whole theory isn't well defined. But if it's a theory, if it is ultimately a
+theory of quantum gravity, and it could be, then it could explain specifically how, how the mechanism
+by which space, if you want to call that comes into existence, but it's right now, it's a very
+poorly, it's, it's very, I was going to say poorly understood is a better way than poorly defined,
+poorly understood idea. It's really got a lot of features that make it attractive to physicists,
+but it hasn't yet explained anything about our universe or the origin of our universe. It has
+the potential to do that. And maybe one day I will, but there's no evidence that it has yet.
+This is fascinating. I have to ask a good question for my friend, Dr. Joshua Bowen,
+and he gets this a lot. So we're going to pose it to you. And this is a theoretical physicist
+we're talking to. So you're one of the leading guys out there. We often hear people who argue for
+the existence of God through presuppositional apologetics. I'm sure you've engaged with people
+like this. They pose questions like this, if you remove God from your worldview, what takes his
+place? What is the, and then this is really the pose to you. And I'd like you to give your honest
+like response on you. I was going to say that real quick, real quick, I just want to finish this.
+What is the foundation? The ultimate fundamental, non-dependent source of existence that institutes
+and secures all possibilities and impossibilities. How would you address a question like this?
+Well, the point is, you don't need such a thing. Why do you need such a thing? There's no, when
+you don't need a, you don't need a purposeful source, things can just come into existence.
+Right. As I often say, the lights, I've got studio lights on here and the photons are being
+emitted by the atoms in the light bulbs didn't exist before they were emitted, right? They
+didn't exist. They didn't need some God to say, okay, come on out now. And it was just laws of
+nature. And so the nature can have, you know, laws without any, anyone, the presumption that you
+require some intelligent entity to create that is just a human anachronism. You don't really need,
+so the point is what replaces God? The answer is you don't need anything to replace God.
+There's no need for God in the equation anywhere. And in fact, actually, when I think about it,
+I did Steven called the Colbert report years ago. And, and it was when the universe of nothing
+first came out, we had fun. And he said, so, so you say God literally is nothing is not that
+there's no thing that's God. And I say, yeah, and he said, well, if God is nothing, can't the
+universe come from him? It was his joke. And you know, and I think, okay, if that makes you happy,
+fine. That is so good. That was a really clever statement. He's very clever. Yeah, it is funny,
+though. You're right. And I think it is. And I'm actually interviewing Dr. Michael Shermer come
+Monday, we're going to be hanging out on his believing brain book. And that one blew my mind
+because all the mechanisms for why we believe are really discussed throughout his book. And
+we'll be going into that. I'll be mentioning you, of course, on the show. I promise I'll tell him
+not to say anything bad, you know, I'm not just using a good friend. Say hi. Yeah, I know y'all
+are close friends. So there's someone out there. This is how I always like to end things. We're
+going to ask etology this show and hopefully on a good bang here. And you're talking to someone
+who is wanting to be more scientific minded. They're struggling with the emotions that you
+understand the psychological. I'll use the word damage, but I'll say the psychological baggage
+that comes with these superstitions that we have your goals to get people to think more empirically
+and to start observing the facts. What would be your encouragement to the person right now who's
+afraid to let go of this concept of God, kind of like when you're a kid, you have an invisible friend
+or it's like a mommy and daddy, you know, they're praising in church, their hands are high, like
+pick me up daddy. That's really what they're doing psychologically. What would you say to the
+person who wants to take what you're saying, but they're afraid, they're afraid of the repercussions
+and hell and sure, sure. The first thing I would say is that we already use the language incorrectly.
+We talk about a loss of faith as if losing faith is a loss. And in fact, it's not it can be a great
+game because if you give up this notion that you that you possibly that's impossible understand
+reality and begin to ask questions about nature, you gain a lot, you don't lose anything. And
+the real thing I'd say is that the real universe is so fascinating, you don't need the fairy tales.
+It's awe inspiring to look out at a Hubble Space Telescope picture and and realize the
+amazing universe and to think how fortunate we are to have evolved in such a universe for a short
+time to have a consciousness where we can ask such questions. So instead of being being worried,
+you should you'd enjoy your brief moment in the sun. Enjoy the fact that that we're here as a
+cosmic accident does not make life purposeless. It means we make our own purpose and it makes
+every instant we're alive more precious. Enjoy and exploit the brain you've been given and experience
+the universe in its totality. Learn about it. Enjoy it. It's fascinating. It's it's wonderful.
+It's pleasing and and and enjoy the experience of being human. The opportunity to love others,
+to get to know other people, to communicate, to look out. Isn't it amazing that we here on this
+remote planet in the middle of nowhere can look out with our telescopes and have developed ideas
+that allow us to understand the evolution of the universe back to almost the beginning.
+Celebrate existence and really celebrating existence is what is what reality is all about
+and you don't need you don't need fairy tales to do that. Wow. Well said. I couldn't have said it
+better myself. Ladies and gentlemen, make sure you guys go and check out where's that right here.
+Get his get his books. He's got his books on Amazon. I have the link down in the description.
+I really ask you guys to go check out his material. The book that I was reading was a universe from
+nothing right here. And beside it is hold on. Okay, so let me go back. Let me go back. And beside it
+is beside it is my new book. So this one that just came out a few months ago of physics climate
+change. Oh, wow. I think he accidentally backed out, ladies and gentlemen. Let's see what happened
+here. Here he is. He literally popped in and out of existence just now. We have evidence. We have
+evidence now. I was in that quantum vacuum a while for a while. I wonder how painful it was.
+Seriously, get the books. I'm actually going to check this one out next because I know some
+climate change deniers. And yeah, I need to read this because I'm interested in hearing what an
+actual scientist has to say about it. Plus, you have other stuff. The greatest story ever told
+that sounds so interesting to me because theology is all about stories and we're a narrative type
+creature. So get his works and check out his website. He also has a podcast. If you guys aren't
+aware of it, make sure you go check out his podcast, the latest book. Here's the website.
+I'm sure sign up and get his weekly or how does it work? You give emails out and stuff to notify
+people? We generally announce when it's out. Yeah. The podcast for our Patreon subscribers,
+they get a notice right away when there's ever a new one. But same for the YouTube subscribers
+because it's a video podcast that comes out eventually on YouTube. We have usually one
+new podcast a month because it requires a fair amount of production. But we also have a lot of
+things in between. I do some physics ones and stuff. And we have some fascinating guests.
+This last month was a filmmaker, Werner Herzog, for example, was a film filmmaker.
+Next month will be a Nobel Prize winning physicist. And so we jump back and forth
+between science and culture. And we've had people from Ricky Gervais on too.
+Oh, I saw that. I saw that clip. He's a funny guy. So how much is it to join your Patreon?
+Um, the it's $5 a month. Well, actually, there's still a $2 a month option. But if you want to
+have, we also do a Q&A once a month, a live Q&A with me. And if you want to do that, it's $5 a
+month. But you can just get the videos for just $2 a month, which is pretty, pretty coffee. Not
+man, I buy a Starbucks every day. Not even a coffee. Two months is a coffee. Yeah. You're right.
+You're right. Well, thank you so much, man. Let's do this again. I hope we can do this to promote
+what you're doing. I appreciate all the information. Please, I'd like to have you back.
+Thanks. It was fun. Okay, you take care. Ladies and gentlemen, we are MythVision.

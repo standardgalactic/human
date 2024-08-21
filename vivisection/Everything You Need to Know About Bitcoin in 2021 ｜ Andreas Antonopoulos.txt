@@ -1,0 +1,1293 @@
+We're gonna start posting each podcast episode
+that you see on YouTube a week earlier on Patreon.
+So feel free to join for early access to all episodes,
+plus we're gonna start doing bonus podcast episodes
+every week.
+So if you wanna join Patreon, it's patreon.com
+slash concrete videos.
+Next week's episode is already posted there,
+so feel free to go check it out.
+Hello world.
+Andreas Antonopoulos is probably the most qualified
+human being on this planet to speak about Bitcoin.
+He is a best-selling author, speaker, educator,
+and highly sought after expert in Bitcoin
+and open blockchain technologies.
+He's known for making complex subjects easy to understand
+and highlighting both the positive and negative impacts
+these technologies have on our global societies.
+He's very good at explaining a very complex topic like this
+to a dummy like myself, which I really can appreciate.
+So without further ado, please welcome
+the amazing Andreas Antonopoulos.
+Let's do this. Great. Let's do it.
+Andreas Antonopoulos, did I get it right?
+That's correct.
+Thank you so much for joining me, man.
+I've heard a lot about you.
+A lot of people have told me about you.
+I have a very loose familiarity with Bitcoin
+and cryptocurrencies in general.
+I just had a guy on here two weeks ago
+who from the Atlanta area, Rich Clark,
+who sort of gave me a breakdown of it.
+I watched a documentary, but all that being said,
+I still don't believe I fully understand it.
+I mean, yes. That's absolutely understandable.
+So I'm thankful to have you on here.
+So hopefully maybe you can clear up
+some of that misunderstanding I have.
+Let's see. I'll do my best.
+I appreciate that.
+So what would you say it is that you do in the crypto world?
+And what is your significance to the world of cryptocurrency
+and Bitcoin and blockchain and all of that?
+I'm the explainer.
+Okay.
+It's as simple as that.
+I tried to take these complex topics
+and explain them in simple terms.
+The majority of my career in technology,
+I have been focusing on education
+and trying to explain complex topics
+in easy to understand terms.
+And I'm a computer scientist by training.
+So I'm a technical expert,
+but I tried to speak the language of the non-technical expert.
+And that's what I do for Bitcoin
+and for open blockchains in general.
+I believe it came out in 2008, Bitcoin did.
+Is that right?
+The paper was released October 2008, October 31st,
+and the actual network started live January 3rd, 2009.
+Okay. So when this first came out,
+where were you and what made you decide to jump into this?
+So I missed the first two and a half years approximately
+of Bitcoin's life.
+I was interested in digital currencies
+and the application of cryptography
+to things like that since the early 1990s.
+But when Bitcoin came out,
+I didn't really pay attention to it.
+So I didn't hear about it.
+I seem to remember hearing about this sometime in 2011
+and I dismissed it out of hands
+because what I read was about a gambling site.
+I wasn't particularly interested in gambling.
+So I made assumptions and ignored it.
+And then in 2012, I heard about it again.
+And this time, the article that I was reading
+had a link to the scientific white paper
+written by the inventor of Bitcoin, Satoshi Nakamoto.
+And I read that white paper
+and completely derailed my life, my career
+and very, very derailed the next four months of my life
+as I devoured everything I could find about Bitcoin,
+all of the information I could find.
+And I spent 16, 18 hours a day reading, writing and coding
+and not eating or sleeping much.
+So that was a pretty good derailment.
+Well, first of all, where did you find this
+so-called white paper by Satoshi Nakamoto?
+So you can find it on the website bitcoin.org.
+And in PDF format as it was published October, 2008,
+the article I was reading was on a geek news site
+called slash.org, it's an old style geek news media site.
+And it was about Bitcoin,
+but one of the links in the article was about,
+was directly to the white paper.
+And so when I read this, keep in mind,
+I was primed to get it.
+I'd worked for two decades in information security
+and distributed systems and network protocols.
+And as I started reading, I was like,
+okay, this is not what I thought it was.
+This is not just a system of money.
+This is not just some kind of token thing.
+This is not a company.
+This is a very sophisticated,
+elegantly designed distributed system.
+And it seems to have solved one of the main problems
+in this field, which is how do you make it decentralized
+and prevent people from cheating?
+And that just blew my mind
+because I knew that a lot of people
+were working on that problem.
+So I was primed and it pushed all my buttons
+and I had that epiphany moment.
+As far as like, I like to use the term elevator pitch.
+If someone asks you, what is Bitcoin?
+Do you have like a boiled down one sentence
+summary of what it is, your own version?
+In its simplest form,
+Bitcoin is the money of the internet.
+Once you understand that,
+the next step is to understand that it's more than that.
+It's the internet of money.
+And then it's even more than that as you keep digging.
+It's not a company.
+It's not an organization.
+It's a software system that runs
+in thousands of different computers simultaneously
+where no one has direct control over it.
+It's a collaborative open system.
+And it provides a currency and a system of payment
+that exists entirely online.
+Is there, do you see anything happening in the near future
+that's gonna sort of tip the scale
+and make this sort of like a widely known thing
+that everybody uses?
+I think it's important to understand
+that it's already being used in some places
+and under some circumstances and for some applications
+because this is a technology
+that solves very specific problems
+that not that many people have yet.
+And it offers a number of opportunities
+and as it matures, that space expands.
+Whether or not the financial institutions
+start using it or not,
+that's a bit like asking which phone company
+will start supporting faxes over the internet.
+That's not the point.
+You know, which horse carriage manufacturer
+will start using automobiles
+to do rides around Central Park?
+This is a system that allows us
+to not have financial institutions.
+It de-institutionalizes finance.
+Just like the internet, de-institutionalize news
+or media or entertainment.
+So it's like, which record company is going to use
+the internet as its main distribution?
+Well, kind of all of them, but that's irrelevant
+because the whole point is that you don't need
+the record company when you have the internet.
+And in the same way, you don't need the financial institution
+to engage in the acts of finance.
+Finance becomes an application
+just like media distribution becomes an application.
+There is no TV station company
+supporting what you're doing right now
+because a TV station is no longer an institution.
+It's an app you run on your desktop.
+So if you think of Bitcoin as that,
+as an app you run on your desktop that makes you the banker
+and then the question, when will bankers use this?
+Doesn't really make sense because they won't.
+In fact, this kills banking,
+at least traditional consumer banking,
+retail banking of the type of a checking account,
+a savings account, sending money from one friend to another.
+There's no need to do that any more
+than there's a need to print out a newspaper
+and distribute it in the era of the internet.
+So as for broad adoption,
+well, at the moment in the Western developed world,
+Bitcoin doesn't really solve a problem for someone.
+US dollars work, visa cards work, and most people,
+and that's about 85% of the population
+have access to these tools.
+The issue is there's 15% of the population,
+some 60 million people in fact,
+here in the US who have no access to banking.
+And as you go around the world,
+that percentage increases further and further.
+There are some countries where 75% of the population
+have no access to any form of financial service.
+And then the really interesting thing is what happens
+if for them it's not about access to banking,
+it's simply about putting an app on a very simple smartphone
+and suddenly that person, no matter where they are,
+has the same level of access to financial services
+as a licensed broker-dealer on Wall Street.
+And that's where things get really interesting.
+It opens up the entire space of finance, democratize it,
+and makes it available to anyone with access
+to a basic computing device and some basic data services,
+anywhere on the planet, without vetting,
+without authorization, without middlemen,
+without any kind of controls and restrictions.
+And that really changes
+the way we see finance around the world.
+So I guess my question is,
+what is the incentive for basically
+like an average everyday blue collar person
+who has a nine to five job or is self-employed,
+makes a decent amount of money,
+maybe invests in the stock market a little bit,
+what is the main incentive for somebody like that
+to get into Bitcoin or start investing into Bitcoin?
+Well, if they're in the US
+and they have access to financial services,
+then really investment is correctly the only area
+that might have some interest to them.
+What is the answer you said, sorry?
+Investment might be the only area
+that they have interest in.
+You know, if you think of someone
+who doesn't have access to those things,
+simply the ability to send money across borders
+to protect their wealth from inflation,
+those are other questions.
+But let's take a blue collar worker in Pennsylvania
+who has access to a simple tracking account,
+maybe even has a 401k.
+So the real question is, what can they do with this?
+The main thing they can do
+is have an alternative form of investment
+that does not behave like the other investments
+in their portfolio.
+So right now, all of their investments
+are all US dollar denominated in the American stock market
+and they're all responding to the same kind of signals.
+So they're all very traditional
+and they're all responding to the same signals,
+which nowadays is basically how much stimulus
+is the Federal Reserve doing?
+Lots, great.
+Not so much, not so good.
+And it doesn't really matter which company you pick,
+which stock you pick, which bond you pick,
+the entire economy is going to the song
+of the Federal Reserve.
+That's not a very robust system.
+It's a pretty fragile system
+and it leads to these boom and bust cycles.
+And the US dollar loses value slowly,
+but through inflation, it loses value all of the time.
+So the thing about Bitcoin that's different
+is that while it is very volatile,
+it's not directly connected to these other things.
+So it behaves on its own tune.
+And so from that perspective, what I suggest is,
+if someone's interested in investing in Bitcoin,
+they treat it like adding cayenne pepper to their stew.
+A pinch will make it a bit spicy and interesting.
+Put the whole pot of pepper into your stew
+and you've ruined the stew.
+I hear a lot of people who are like,
+I'm gonna take all of my 401K and stick it into Bitcoin.
+Well, that's probably not a smart first move.
+I would start small and maybe see how that goes
+and as you gain experience.
+But I'm not primarily interested in Bitcoin
+for its investment potential.
+As an investment, it's a new technology.
+It's got some interesting characteristics.
+What's really interesting is about opening the world
+of finance to six billion people who have never had access.
+And connecting the world without barriers,
+without gatekeepers, without geopolitical games,
+without are you approved, vetted, documented
+and politically correct enough to have access
+to this system, that is interesting.
+That is world changing.
+I love the way you describe banks as being like Ponzi schemes
+or you say the banking system is very similar
+to the structure of a Ponzi scheme.
+Can you explain that?
+Well, I mean, part of the reason that I have difficulty
+explaining Bitcoin is because most people really don't have
+an in-depth understanding of how money works
+and how the world of finance works.
+So if you actually understand how commercial banking works,
+how dollars are created, who creates them,
+how they're distributed, et cetera,
+the system is tilted in favor of those who have
+banking licenses and access to the centers of investment
+in such a way that they can make enormous amounts
+of money taking very little risk.
+And they can engage in all kinds of fraud and corruption
+and never get punished more than a percentage fine,
+which they just wrap into the cost of doing business.
+And it's a system that's very easy to manipulate
+from the inside.
+So it creates a very fragile system that generates income
+inequality and absurd conditions of wealth in some areas
+and kind of ridiculous poverty trap for many, many people.
+Those are not bugs of the system.
+Those are the natural outcomes of a system
+that is designed and architected in that way.
+You will always get those outcomes
+because of the way the system is architected.
+Those who are closest to the sources of money
+can gain an enormous advantage simply by
+the features of the system.
+So there's a mechanism called fractional reserve banking,
+which means that for every dollar of deposits
+that is entered into circulation and held by the banks,
+the banks can issue $9 worth of loans out of thin air.
+So they take the $1 that you deposit
+and they issue another $9 for a total of 10
+of money that doesn't exist, that they've created
+out of thin air, which they lend to you
+at interest rates that far, far exceed the interest rates
+that they pay on money and make money on that.
+Now, if they were also taking enormous risks
+with those loans, maybe that might be a smart system,
+but as we've seen again and again,
+anytime they get into any kind of systemic travel,
+they just get bailed out with another bucket full of money
+or a river of money or an ocean of money.
+And so this is a system that will continuously
+transfer value from savers, investors and the poor
+in the form of inflation and fees
+to those who are at the center of the investment system.
+It's a corporate welfare mechanism, basically.
+The biggest welfare queens on this planet
+were $2,000 suits and work on Wall Street.
+Do you think there's any chance of, I mean,
+I see, especially the U.S. government
+trying to either A, ban Bitcoin
+or B, try to create their own Bitcoin
+and make Bitcoin like illegal or something?
+Every government on the planet is gonna try
+and do both of those things to some extent or other.
+Some will do it in a very ham-fisted and short-sighted way.
+They'll try to go for an outright ban.
+Of course, the problem they face is this.
+There is no place in which Bitcoin exists.
+It exists everywhere on every computer
+that ever has participated in the Bitcoin system.
+So who exactly do you go after?
+It's not owned or controlled by any corporation
+or individual.
+There is no center to it.
+It's a decentralized thing.
+It's like saying, let's ban the web.
+Okay, which part of it?
+All of it at the same time?
+How?
+And ultimately, what Bitcoin does
+at its very fundamental basis is it uses mathematics
+to secure the distribution of money as communication,
+which means that as long as you can express transactions,
+money, in any communication medium, you can transmit it.
+I can take a Bitcoin transaction.
+I can convert it into emoji.
+I can post it on Twitter
+and I've just transmitted a transaction.
+How do you know it's a transaction?
+You don't.
+It just looks like a bunch of emoji.
+My recipient does.
+They'll make sure to get that to the right place
+so that it works the transaction.
+I can take a transaction.
+I can embed it in the color variations
+of a photo of six kittens
+and post that on a Craigslist ad.
+Now the other person can take it.
+So bottom line, money is communication.
+How do you ban money when money is communication?
+Well, the only way you can do that
+is by either banning all communication,
+which is impossible,
+or imposing enormously strict penalties or fines
+to people who dare touch this system of money.
+And then you run into some other problems.
+In countries where the rule of law matters,
+banning private individuals
+from engaging in legitimate commercial transactions
+for legal purposes kind of doesn't make sense.
+And if you try to do it,
+you're gonna get a lot of pushback
+and have to justify why you're doing it.
+In places where the rule of law doesn't matter,
+you can do that in a very ham-fisted approach
+and then everybody up and down the line
+is going to ignore you, get bribed, probably in Bitcoin,
+turn a blind eye and the game continues
+because governments have never effectively banned anything,
+really, they try, but saying it's in the law
+and actually making it happen on the ground,
+two different things,
+especially when what you're talking about
+is for many people the difference between
+feeding their family next month or not,
+how much risk are they willing to take?
+And so you get into this weird situation
+where what you're really talking about
+is banning legitimate commercial interactions
+between voluntary consenting adults in open markets.
+You can't really do that in democratic countries
+without cracking down on everything.
+So more likely, sophisticated governments
+are going to try indirect approaches.
+The first and obvious one is propaganda.
+Bitcoin is only used by terrorist criminals,
+pedophiles and pornographers, as I'm sure you've heard.
+The problem with that narrative, of course,
+is every now and then you meet a hairdresser
+or a dentist who uses Bitcoin
+and they don't look like a terrorist pornographer.
+So that point, hmm, that creates some cognitive dissonance.
+Then you find out that refugees in Venezuela
+are using it to fight the regime
+and escape from a dictatorship,
+more cognitive dissonance, et cetera, et cetera.
+So propaganda has been the first measure.
+Every time they say, money laundering happens through Bitcoin,
+and actually it happens through Deutsche Bank
+and Goldman Sachs.
+But as you've said in your reports,
+where you keep catching them and doing nothing about it,
+these propaganda techniques are largely failing
+to stop Bitcoin.
+Another approach is to make a tangle of taxation around it
+or to make it very difficult to acquire
+or exchange from national currency
+or to national currency.
+Of course, the problem with that is
+if you cut off the on-ramps and the off-ramps,
+people just stay in the economy.
+Okay, you stopped me from converting dollars into Bitcoin.
+So what I do is I ask to get paid in Bitcoin
+and I pay other people in Bitcoin
+directly without converting it back to dollars.
+So now you've encouraged me to stay in the economy.
+It's kind of like if you build a wall on the southern border,
+the migrant workers who used to leave every season
+because they could come back the next season,
+instead stay because they don't know
+if they could come back anymore.
+Right, right.
+There's this finicky thing called unintended consequences
+and Bitcoin is a whole bundle of unintended consequences.
+So anyway, I think the more likely thing is
+governments will try to compete by building things
+that they pretend are kind of like Bitcoin,
+forms of digital currency that are managed by the Federal Reserve
+or the central banks.
+In the industry, we call these CBDCs,
+which stands for central bank digital currencies.
+They're basically a neutered, half-assed attempt
+to copy Bitcoin that has none of the characteristics of Bitcoin.
+It's not open, it's not borderless,
+it's not censorship-resistant,
+it's not surveillance-proof,
+it's not neutral to transactions,
+you can't join it without being vetted, et cetera.
+So it's taken away all of the interesting things.
+It's kind of like AOL and CompuServe tried to do
+with the internet.
+It's like, oh, you like the internet?
+Well, here's our version.
+It's proper and curated and safe and boring.
+And so we're gonna see that this is an ongoing battle.
+But basically what they're trying to do
+is stand in the way of the use of mathematics
+and advanced technology by consenting adults
+to do commercial transactions
+with all of the economic incentives
+to bypass all of these controls.
+That's not gonna work.
+So what would the world look like in your view
+without the banking systems we have now?
+I mean, everybody is so used to this,
+is what we've always had,
+is money backed by gold and a dollar, $2, $3.
+No one's ever thought of things in terms of value
+in any other way.
+How would the country or the world look
+without banks and only Bitcoin?
+What would be the biggest differences?
+Well, so money has gone through five major revolutions
+since the beginning.
+If you start with early debt records
+from the Sumerians to shells and feathers and beads
+to precious metal nuggets
+and then pressed into coins and then paper money
+and certificates of deposit
+and then eventually kind of plastic credit card stuff.
+Surprisingly, a lot of people in 2020
+think that money is backed by gold.
+I just heard you say that our money is not backed by gold,
+hasn't been backed by gold since 1971.
+In fact, really since the early 1900s.
+There is no gold backing any of the national currencies anymore.
+Isn't it backed by oil now?
+Well, indirectly, the US dollar is backed by oil
+only because there's this kind of deal with the Saudis.
+We bomb your enemies and protect your dictatorship
+and in return, you only sell oil to other countries
+if they pay with dollars.
+But that's just a dollar, all the other countries.
+And in general, money is backed by economic use.
+If there's an economy that uses this currency,
+then that creates the expectation
+that if you have a unit of the currency,
+then tomorrow you can use it to buy something useful like eggs.
+That basis is the basis of money, its utility.
+I expect this will still be useful tomorrow
+because it was useful today and useful yesterday.
+That illusion doesn't always work.
+Countries run into problems when that illusion is broken
+because the money doesn't actually buy as many eggs as you wanted.
+Huge inflation, crisis, collapse of government, et cetera.
+But for the most part, that's what money is backed by.
+Basically a social agreement and habit.
+So can it change again?
+Well, first of all, I don't think we're going to see a world
+where magically everything's going to get replaced by Bitcoin.
+Some Bitcoiners do, I don't see that.
+I think what we're going to see is a world where we had 194 currencies
+each identified by a flag or a queen,
+to a world where there are thousands of currencies,
+90% of them existing only in digital form,
+freely exchangeable and usable on the internet,
+a kind of mess, a kind of messy democratization of finance
+where everybody can kind of choose to use whatever's convenient at the moment.
+And with software, we're going to hide a lot of the nasty details
+so that maybe your software changes from one money to another
+without you really noticing so that it's not as confusing.
+I think that's the world we're going into.
+And the reason I think that is because I've seen that happen with the internet
+and with previous technologies, like there used to be for TV stations, right?
+Now, there's tens of thousands of TV stations,
+but we don't really call them TV stations
+because it's really just independent programming whenever you want it.
+There used to be major newspapers.
+Now, they're still there, but they're not as important anymore.
+There used to be only one airline per country had it flag on the tail,
+just like the currency is today.
+Now, if you told someone the only airline that can fly out to France is Air France,
+they'd be like, no, that's ridiculous.
+Why would you do that?
+So the idea that the only money you could use in France is the French money
+is also ridiculous.
+We just haven't quite seen that yet.
+The world is going to get more complicated, more nuanced.
+But that also means more democratic, more open,
+more accessible to a lot more people,
+because governments have abused their ability to control money
+consistently, as they do with many powers.
+So in the end, that happens at the expense of people
+who end up having to jump through all of these hoops
+simply to gain access to the main engine of economic activity
+and to essentially feed their family, protect their future.
+If you create opportunities for that to happen without the interference
+through private means, through online systems that are open to everyone anywhere,
+that creates a very interesting future,
+an initially very messy and confusing future,
+but ultimately, in my opinion, one that has much more choice.
+Another confusing thing to me is that there's also the original Bitcoin,
+which that the guy Satoshi Nakamoto created with that white paper.
+But then since then, there's been like dozens of other alternate coins
+that people have invented.
+Yes.
+So is that do you kind of relate that to being like
+someone having like a YouTube or a Hulu or Amazon Prime
+that creating their own little like spin offs of television?
+Yes, exactly.
+I mean, but they're using they're using the exact same
+program that Satoshi Nakamoto came up with, right?
+Just like changing it a little bit.
+Only some of them, especially the early ones,
+really modified the recipe very, very only only a tiny bit.
+And and and then other people tried to improve and modify.
+You know, when you design a piece of software that is has
+financial implications like this, every decision you make is a series of trade offs.
+And some people disagree with the trade offs.
+It's like, OK, Satoshi Nakamoto chose to make it very secure
+at the expense of making it very not so fast.
+What about if we make it more fast, but less secure?
+And some people like, yeah, that's a great idea. OK.
+So now there's another one.
+It's more fast, but less secure.
+If that's what you need, great.
+And every shade in between on every axis of specialization, you can imagine.
+So think of it as first, it was the Ford Model T.
+It was black, one color, one chassis, one function.
+You want a truck? It's still a Ford Model T.
+You want something to run around town?
+It's still a Ford Model T. You want it bigger?
+Sorry, you want it red? No.
+Now, you know, the difference between a Ferrari and an agricultural tractor
+that is designed to haul logs through a forest
+is so vast that you might not even recognize them both as being effectively
+the same kind of automotive vehicle.
+And they've made different choices into how they treat the various trade offs.
+And so you might say, well, the Ferrari is great.
+Not if I want a whole log through a forest.
+It would be useless.
+It wouldn't get very far.
+And my agricultural tractor wouldn't go really, really fast around the Formula One track.
+So it really depends on what you're trying to do.
+And there is no one fits all purposes
+because the purposes are so varied
+and because you can't predict what the purposes are going to be.
+So this has led to, as we see in many early technologies,
+is first you have a prototype that establishes,
+OK, this is a viable concept, the Ford Model T.
+And then people tweak it in a thousand varieties
+and you get this explosion of variety, differentiation.
+Everybody tries to make a slightly different thing.
+And initially, they're all mostly copies of that,
+but eventually they become quite differentiated.
+So that's what's happening with this.
+The interesting thing is that
+once Bitcoin opened the door,
+anybody can create a currency.
+And not only can they create a currency,
+but using this recipe, they can create a currency
+that is, from day one, instantaneously,
+entirely global, unforgeable, quite secure, verifiable,
+runs on lightweight software and a myriad of devices.
+And at first has no value, but people might start using it.
+So then that begs the question,
+how many currencies will we have?
+And the answer is a bit like how many YouTube stars will we have?
+How many podcasts will we have?
+Well, I mean, we're all copying
+the same one idea of I have a TV channel or I have a show.
+Why? So in the end, you could have
+everybody in the world creating their own currency,
+just like everybody in the world could create their own podcast.
+And the vast majority would be crap.
+So for the most part, everyone would just use the most popular currency.
+There is a particular statistic distribution
+that arises out of these phenomena called the Pareto distribution,
+power law or long tail.
+We see this with also known as the 80-20 rule.
+So 20 percent of the music artists are 80 percent of the market.
+20 percent of the YouTube channel are 80 percent of the views.
+You have a handful, five or so, who dominate the market.
+They have the majority, more than 50 percent of all of the clicks.
+And but then what you have is a very, very long tail
+that goes off into infinity of these tiny, tiny little
+YouTube stars, channels, music artists, books,
+whatever the category is, that have one reader or one viewer.
+But but there's an infinity of them, right?
+That's what I predict is going to happen in currencies.
+And in fact, we are beginning to see that distribution emerge.
+And it's an it's a natural outcome when you have something
+that is socially distributed like money is
+and where there will be some affinities, some popular ones
+or some ones that are just better.
+But there's nothing stopping everybody and their uncle
+from doing one. What is the
+what is the incentive for me to create my own currency?
+Because I get a small percentage of each transaction.
+Well, there's all kinds of things.
+But yes, of course, if you were
+conniving, what you could do is you create your own currency
+and then allocate a whole bunch of it to yourself before you give it to everybody else.
+That's called a pre-mine in cryptocurrency.
+And then if anybody else gets interested in and they buy it
+and trade it and give it some value, the many more units
+that you have already allocated to yourself acquire value.
+It's a bit like starting a company and selling shares to it,
+which, by the way, also violates a whole bunch of US laws
+if you do it in that way.
+So there's been a lot of these kinds of pyramid,
+schemey, Ponzi, schemey scams that people are doing
+because it's a very easy way to, if you're good at branding,
+at marketing, at shilling, at promoting these things,
+you can go out and persuade them that what you just built is the next Bitcoin.
+In fact, that's what they all say.
+And then if anybody pays attention, you can make serious amounts of money.
+Don't do this.
+It's both unethical and illegal, but people do anyway.
+So you should be skeptical.
+The really interesting thing is that, in a way,
+this is a form of human expression that is as old as time,
+because the idea that anyone can create money seems surprising
+when you're used to national money,
+but it's much less surprising if you walk into a kindergarten
+with the perspective of a sociologist or an anthropologist
+and you watch kids turn rubber bands and colored wooden blocks
+into currency that they use to establish social hierarchy,
+bonds, affinity, approval, association, and friendship.
+Social beings use the language of value
+to establish and reinforce social ties.
+So not just humans, in fact,
+you can teach primates to do this,
+and they will not only readily adopt money,
+but they will very, very quickly evolve various uses from it,
+not perhaps the best uses.
+An experiment that was done with primates teaching them
+how to exchange tokens for bananas
+resulted not only in broad adoption in the entire primate space
+that was being studied,
+but very quickly resulted in the invention of armed robbery.
+Beat the other monkey, take his tokens, you have bananas,
+and prostitution.
+Sell tokens for...
+Give tokens for sex.
+That was so funny. I was just talking to somebody.
+Somebody actually just told me about this last weekend.
+That's amazing that you just brought it up.
+Yes, but what this shows is it doesn't show us anything about money
+other than this, and I think this is a very interesting and important point.
+Ultimately, money doesn't have value.
+Money is a language.
+It is a language that we use to communicate value to each other,
+and it is therefore an artifact of civilization.
+It is an artifact of a social species
+engaging in acts of society, in acts of civilization.
+As we build larger societies,
+the ways that we express value to each other become complex.
+You can no longer exchange favors, or here's five chickens,
+give me a haircut, I appreciate that you gave me some eggs last week,
+so why don't I help you fix your fence?
+Keeping track of all of the relationships,
+debts, numbers, and opportunities,
+and the exchange rates of different types of favors becomes cumbersome.
+What humans do is they abstract this in linguistic terms by inventing money,
+and we invent tokens that can be used to express that value.
+The tokens themselves don't have any value.
+They just have to have certain characteristics.
+They have to be rare.
+If you can find them everywhere around you, then you get inflation very quickly.
+They have to be unforgible,
+because otherwise people will just start creating them to increase their social status.
+They have to be easily transportable, in most cases,
+although there are some interesting exceptions in history of the giant
+race stones, as they're known.
+They have to be instantly recognizable and with a universal unit of measure.
+Now, if you think about all of these characteristics,
+we've done this with physical things,
+and these physical things always have some disadvantages.
+Some of the trade-offs we have to make involve getting a government in the game
+so they can produce them in a way that is scarce and unforgible and trusted by everyone.
+But once you realize that as long as it has those characteristics that can work as money,
+then you realize that software can do this very effectively.
+And that's basically what Bitcoin is.
+It's the recognition that money is language,
+a language we use to express value,
+and languages encoded digitally become communication media on the internet.
+And with software, we can manage the fundamental properties
+that ensure that this is good money rather than kind of useless money.
+We make sure that you can't just make more of it at a whim,
+that you can easily recognize it, that you can't forge it,
+that you can verify that it's real, that you can transport it easily,
+and that it keeps its value over time,
+that you can divide it into smaller bits if you only need a bit of it,
+but also bunch it together into bigger bits.
+All of these characteristics have been engineered into a software system.
+And turns out, because we can tweak these parameters in software,
+we can make money that is better than any type of money that has ever existed.
+And that's where things get interesting because add to that
+that it is open and available for anyone to use without authorization.
+And the world changes.
+You said it has to be scarce.
+Who determines how many Bitcoins there are allowed to be?
+And how is it scarce?
+That's a great question.
+And in fact, the very concept of digital scarcity was a complete oxymoron
+until the invention of Sudoshina Komodo.
+So the way Bitcoin is produced is by a set of rules
+that are enforced by everyone who participates at every step of the way.
+And so as new Bitcoin enters into circulation,
+it enters into circulation primarily as a reward
+for those who are ensuring that the rules are followed
+by doing certain security things.
+We call those miners.
+But effectively, what they do is they verify that every transaction is correct.
+It's properly signed by the person who wanted to do the transaction.
+They check that the money isn't being spent twice.
+They check that the person who is spending it actually has that money.
+They check that it was spent at the right time and various other conditions.
+In return for doing this work, they get rewarded.
+But they also have to put down kind of like a bond, a guarantee, by spending energy.
+If they do it wrong, they've already put down the energy,
+but they don't get any reward.
+So they end up losing.
+If they do it right, they've put down the energy, but they get reward.
+So they make a small profit.
+And this keeps everything aligned.
+We don't need to know who they are or why they're doing this
+because they're incentivized to do this.
+So basically, we buy security with energy.
+The end result is that no one's in charge.
+And the rules that everyone agrees on, which are written in software,
+get enforced by everyone.
+The miners check us.
+We check the miners.
+When I'm running the Bitcoin software, I'm checking everybody.
+And everybody's checking all of my transactions.
+If we think that one of the transactions is wrong, our software will flag it and reject it.
+And then it doesn't go anywhere on the network.
+One of those rules is how much new Bitcoin enters circulation.
+And that was set at a fixed amount every 10 minutes back in 2009.
+And then every four years, it gets cut in half in a grand event that's called the halving.
+Three of those have happened.
+The last one happened in July.
+And it was when the amount was cut to six and a quarter Bitcoin per block, per 10 minutes.
+In four years, it's going to get cut to three and an eighth.
+Then four years after that, it's going to be 1.7, et cetera, et cetera.
+And it keeps decreasing until eventually, 100 years into the future,
+the last block that has Bitcoin as a reward in it is issued.
+And it only has the smallest unit, which is the Satoshi.
+If you do the math, 50 every 10 minutes for four years, then 25 every 10 minutes for four years,
+then 12 and a half, and you keep going down that route, you end up with a number that is 21 million.
+In fact, it's a few bobs short.
+It's 20,999,999,999.999,997, something like that.
+Can you break down a Bitcoin into like millions of bits?
+A single Bitcoin can be broken down into 100 million subunits called Satoshis
+and named after the owner.
+So 21 million Bitcoin is 2.1 quadrillion Satoshis,
+which all get issued by the year 2140.
+And after that, the network continues to operate based on transaction fees,
+which pay the miners to do security, but there's no more Bitcoin issued.
+Now, interestingly enough, before 2009, scarcity in a digital thing was an oxymoron.
+After 2009, a digital scarcity is now the most scarce thing that has ever existed,
+because we talk about other things being rare, diamonds, which aren't rare, gold, whatever.
+Gold is rare on this planet as far as we know.
+No, that's a scam cartel marketing plan by the De Beers Consortium that's organized,
+persuading you that they're rare.
+Yes, they artificially inflate the price.
+They're not.
+Interesting side story.
+They're not actually rare.
+They're at least 10 times more plentiful than the price would suggest,
+and they very, very carefully control the supply to keep them from having their price dump.
+Gold is somewhat more rare.
+We know that because we keep trying to extract it at great price.
+But then again, there could be an asteroid flying around the solar system on a thousand-year orbit
+that's going to come by the Earth pretty soon that's made of 100 trillion tons of gold,
+because gold is made in stars.
+So we don't know how much is out there.
+Well, we do know how much is out there.
+Infinite amounts, right?
+So any physical substance is only rare in a certain context.
+You can say, okay, water is rare in the Sahara, but not in the Great Lakes region.
+It's really interesting when you think of a digitally created artificial scarcity
+that is more rare than anything that's ever been done because the constraints are mathematical.
+So we can say that the rules of Bitcoin, which make Bitcoin what it is,
+say you cannot make more than 21 million.
+Those rules cannot be broken without breaking the system
+and creating something that isn't Bitcoin, which people would ignore.
+And based on those rules, we know exactly how much is going to be issued
+right now and in the next 10 minutes and all day today.
+And so that gives us a degree of certainty that has never existed.
+It's a fascinating design idea.
+It's a fascinating invention.
+And it has some really interesting implications for economists
+who have never seen anything like this.
+It's a very abstract idea in terms of thinking of money.
+It's not anything like you have to completely restructure
+your understanding of money and how money works.
+Yes, revolutionary, not evolutionary.
+Absolutely.
+So every 10 minutes at the current, at the moment,
+it's what, four Bitcoin or six Bitcoins?
+Six and a quarter.
+Yeah.
+Every 10 minutes, all of the transactions of the past 10 minutes
+or whatever else is waiting to be included in a block to be verified
+gets bundled in a block.
+A block is just like a bucket that we put all of the transactions
+and batch them so they can be recorded on the global system.
+So every 10 minutes, a new batch of transaction is recorded
+and the first transaction in that batch is one that creates
+this new Bitcoin and issues it to the miner who completed the verification.
+All the miners around the world are there.
+They have like CPUs or computer towers or something
+that are processing all this information
+from everyone around the world that's making transactions
+and they're bundled into one block of information.
+That's correct.
+And the block inside it has a special number called the proof of work.
+And in order to find the special number that fits the puzzle,
+there's a mathematical puzzle involved,
+you have to spend a lot of energy.
+And the only reason you spend that energy
+is as a demonstration of your commitments
+that you've done the security correctly,
+that you've done the verification correctly.
+The energy isn't necessary to do the verification
+and it doesn't matter how many transactions you're verifying,
+that doesn't cost anything to verify them.
+The reason we spend the energy is as a show of commitment.
+It's the table stakes, quite literally,
+to participate in the mining process.
+And because only one miner wins each round of 10 minutes
+and because they have to spend all of this energy,
+if they went and did that and messed up the security verification,
+they would end up losing a lot of money.
+And that's just a system of incentives.
+The only purpose of that is to incentivize people to do security
+without having to know who they are or check their work
+or chase them around or take them to court.
+It's just a mathematical system of rewards.
+So how many people are doing this around the world right now?
+How many miners are there?
+We don't know.
+Which is really interesting, again.
+It's one of those fascinating things about Bitcoin.
+We don't know, we don't know who they are,
+we don't know how many they are,
+we don't know where they are,
+and we don't know why they're doing this.
+But we do know why, because it's profitable.
+People can say, yes, I'm a miner and I have this warehouse.
+Here, come bring your TV crews, let's do a tour.
+And we can calculate, by reference,
+how much computing is being used
+and how much energy is being used to do these calculations
+because the numbers are in the blocks.
+But we don't know how many different companies,
+individuals are doing this.
+It's hundreds, thousands.
+And anyone can join or leave this system any time they want.
+And new people join with new computers
+that are faster and more efficient all the time.
+And all these miners keep Bitcoin alive.
+It makes Bitcoin what it is today.
+They are among those who keep Bitcoin alive,
+but I'm not a miner,
+but I keep a copy of the Bitcoin blockchain on my computers.
+Several copies, in fact.
+And my computers are also verifying all of the transactions,
+including verifying the work of the miners.
+If the miners all disappeared overnight,
+the blocks would stop being issued,
+but I would still have a copy of it to be able to verify it.
+Interestingly enough,
+and here's another really incredible invention
+that happened here.
+Sidojina Komodo designed a system whereby,
+if more miners join the game,
+what happens, practically speaking,
+is that as more miners are trying to find this proof
+for each block, they produce blocks faster than 10 minutes.
+And so every two weeks,
+the entire global system recalculates
+how difficult it should be to find this proof.
+If blocks have been produced faster than 10 minutes,
+then it gets more difficult.
+If blocks have been produced slower than 10 minutes,
+then it gets easier.
+So the game dynamically adjusts.
+Think of this as you've got a bingo board, right?
+Or a Sudoku puzzle.
+And there's a bunch of people,
+there's 20 people in the room and they're playing.
+Well, you run a game every 10 minutes on average.
+Now, if you double the number of people playing in the bingo hole,
+you'd probably be running games faster
+because someone would make a bingo somewhere in the room
+twice as likely, because you have more bingo cards out there.
+So what you do is,
+when the number of people playing in the room doubles,
+you make the bingo sheet twice as large.
+Well, now it's going to go back to
+the same amount of time on average to find one.
+If half your bingo player is left,
+it would get slower for a while,
+and then after two weeks, you'd reset it,
+make it half as big,
+and then it would go back to the same time.
+So the 10-minute heartbeat is what stays stable.
+And the number of miners determine how difficult it's going to be.
+And if more of them join,
+it gets more difficult so that we stay at 10 minutes.
+And if some of them leave, it gets easier,
+so we stay at 10 minutes.
+And that way, that algorithm has grown from one miner,
+so Dershina Komodo, on a laptop,
+doing blocks by themselves,
+to today, an industrial infrastructure
+that produces $100 billion worth of computer systems a year
+and electricity use is doing the mining.
+And over time, through all of these adjustments every two weeks,
+they're still producing blocks at exactly the same rate.
+And that's all done by the algorithm or the software
+that Satoshi Komodo created?
+Yeah, it's basically market economics
+implemented in a software algorithm.
+Supply, demand.
+The demand is for a block every 10 minutes,
+and depending on the supply,
+we change the difficulty price to adjust.
+So it'll forever be 10 minutes?
+Yes. Unless we change the rules,
+but in order to change the rules,
+you have to have everybody change the rules
+simultaneously and agree to change the rules.
+Meaning every user of Bitcoin?
+That's everybody who's verifying the rules,
+which is every user who's running the software has to agree.
+Otherwise, if they see a block that doesn't have
+the necessary preconditions to be the correct difficulty,
+the correct timing, the correct amount of reward,
+they will say,
+this isn't valid according to my rules, rejected.
+And this is the other fascinating thing,
+which is that this runs a radical democracy
+where every participant in the system
+is deciding whether to accept or not
+the results of the computation every block
+and every transaction in it.
+Based on a set of rules, and in order to change the rules,
+you have to have like a constitutional supermajority.
+Everyone has to agree to change the rules,
+which means that it takes quite a bit of effort
+and coordination to change the rules,
+which means that you get a very high degree of confidence
+that the rules are not going to change arbitrarily.
+What Bitcoin is doing today,
+I'm confident it's going to do tomorrow.
+Why? Because it's very difficult to change the rules.
+Now, remember when I said earlier on
+one of the reasons or the main reason why money has value
+is because I'm confident that the dollar I have in my hands
+today will be able to buy me something
+more or less of equivalent value tomorrow.
+That confidence that it will remain useful,
+that it will remain running, that it will still mean something.
+Well, so Bitcoin does that with an algorithm.
+It makes it so difficult to change the rules
+that it can build a long-term expectation of continuity.
+And every day that goes by,
+people say, oh, Bitcoin's dead or it's dying.
+It's going to die.
+This time, watch my words, it really is going to die.
+And then you wake up the next morning and it's not dead.
+And that becomes a narrative.
+I thought this thing was dead in 2013.
+I thought this thing was dead when they arrested the CEO.
+There is no CEO.
+I thought this thing was dead when X happened.
+There's a website for that.
+It's called isBitcoinDead.com.
+And you go there and it just displays the word no.
+Wow, that just says no in big letters?
+It just says no.
+It's a bit of a silly meme.
+But actually what it tells you is about the narrative
+that provides stability and robustness in this system,
+which is that no matter how many times you've heard
+that this thing is dead, you then get up six months later
+and your idiot friend who can't stop talking about this thing
+reminds you that it's not yet dead.
+And that can confound people's expectations
+because very, very serious economists,
+very, very serious bankers,
+very, very serious government ministers
+have told them repeatedly that this thing is dead
+or will die imminently.
+What do you use, Bit, like every day?
+I'm sure you have a lot of people paying you
+for various things you do for speaking or whatever it is you do.
+Yes.
+Does everybody pay you in exclusively Bitcoin?
+No. I take US dollars.
+I take Euro.
+I take EN.
+I take Bitcoin.
+I take Ether.
+I take a bunch of other digital currencies as well.
+I get paid in things that have value
+and I want to receive at the moment.
+And I also pay some of my employees in US dollars,
+some of my employees in Euros,
+and some of my employees, quite a few, in Bitcoin.
+Why?
+Because it's a hell of a lot easier for both me and them.
+So if I want to run payroll on a Friday,
+all of my US dollar employees are not going to get paid
+until the following Wednesday.
+That's as fast as the banking system will work.
+Three to five days.
+Business days, not days.
+One day our grandchildren will ask grandpa,
+what's a business day?
+And then we'll tell them stories of when it took three to five days
+to send a payment.
+And they'll laugh at us.
+So with Bitcoin, I have sold my car at 11 p.m. on a Saturday
+while the banks are closed,
+with absolute certainty that I'm going to get paid
+by someone who wasn't even there.
+They were buying it for their brother from another state.
+Can't do that with banks.
+I pay contractors all around the world.
+For example, in the Philippines, I have someone who works for me.
+And they get paid an hour after I run payroll,
+whereas all of my US employees who get paid in US dollars
+have to wait another three days, plus the weekend.
+But they get paid right away because they get paid in Bitcoin.
+So cross-border transactions become very, very easy.
+Online transactions and e-commerce becomes very easy.
+There's a lot of interesting use cases.
+For example, if I get paid in Bitcoin,
+nobody's going to do a charge back.
+They can't.
+That doesn't exist.
+So once I have that, if I'm a merchant
+and I'm getting paid through PayPal,
+I just had the other day someone reverse a charge.
+They bought a t-shirt, paid with PayPal,
+and they reversed the charge.
+The charge happened on August 29th.
+I got paid on August 29th,
+but I didn't really because they just reversed it on November 15th.
+So it wasn't really my money because PayPal can do that,
+as can all of the banks.
+So if you're a merchant, when do you actually get paid?
+Well, maybe in 60 days it's final.
+I've had people try to reverse things 18 months
+after the payment has been made.
+With Bitcoin, 10 minutes, one confirmation, done.
+No refunds.
+No refunds or anything like that.
+I can get people refunds.
+I do, in fact.
+But it's solely up to you, right?
+But it's solely up to me.
+There is no intermediary.
+It's exactly as if you paid me in cash.
+In fact, that's why it is digital cash.
+And it has many of the advantages,
+except for the fact that I can send it
+at the speed of light all across the planet.
+So it stays.
+So I have the guy Rich, who I just did a podcast with last week.
+Basically, he installed this edge wallet thing on my phone.
+And he sent me, I think, like five bucks worth of Bitcoin.
+This was like maybe a month ago.
+And it's like...
+This was a month ago.
+About a month ago.
+So it's like .00044 now.
+And it's like $7.
+It's worth like $7 US now.
+Yeah, Bitcoin's done a bit of one of those price things, again,
+as it tends to do.
+It could have gone the other way, I'm afraid to sell you.
+So that $7 or .00044 Bitcoin I have in my edge wallet on my phone,
+that's literally inside my phone.
+So that money is basically like cash in my phone.
+It's not stored anywhere else.
+It's on my phone or elsewhere else.
+Well, yes.
+The keys that control it are on your phone and nowhere else,
+which those keys, which are digital keys, they're basically numbers,
+allow you to prove to the entire Bitcoin network that you own that money
+and to do a transaction with it.
+The Bitcoin itself is on the blockchain, was always on the blockchain,
+never left the blockchain.
+Rich, was it?
+Yeah, Rich.
+Rich didn't send you Bitcoin.
+Rich recorded a transaction on the blockchain,
+the transfer ownership from his keys to your keys.
+And your wallet saw that this transfer of ownership had happened,
+but the Bitcoin didn't actually move.
+All it did was an entry was recorded on the ledger,
+which is interesting because what that means is that Bitcoin doesn't exist in a place.
+It exists in every place where someone has a copy of the Bitcoin blockchain.
+And what exists in your phone is kind of like the 77-digit PIN number
+that allows you to unlock that particular chunk of 0.0044 Bitcoin
+and prove to the world that you have the correct control over that.
+You can present that.
+It's the PIN number, that's the value.
+Yes.
+Okay.
+That's what's on your smartphone and hopefully also backed up
+in a number of different places.
+You have an edge wallet, they do the backup for you, so yes.
+Oh, they back it up for you so if your phone gets stolen or something, it's your safe.
+You can use your password to recover that backup.
+They can't and you can recover it.
+Okay.
+Well, I think we're running low on time.
+I appreciate you doing this, man.
+I really do.
+Yeah, and I think it's important to say it's okay to feel bewildered by all of this.
+To not understand it, to find that the more you dig, the more questions you have and the more
+it seems confusing and intricate and detailed it is.
+What I want to point out is that for those of us who are kind of my age,
+this is the experience we had with the internet, right?
+It's like we watched all of these TV shows where people were going,
+so what is the internet?
+Is that the www?
+Or is that the at hotmail.com?
+I was like, no, no, no, that's email.
+Yeah, but email is the, no, I don't get it.
+Exactly what it's like.
+Yes.
+And if I was to try and explain to someone non-technical how routing works on the internet,
+or how TCPIP works, or how SSL works, or how a browser works, then we're really,
+or how complex infrastructure like Netflix works, then we're going into...
+The important thing is that you don't actually need to understand how TCPIP routing
+works or how the protocol works or how SSL works in order to watch something on Netflix.
+And so what we need to separate here is the engineering from the use.
+Like most technologies that humans build nowadays, we're building on top of layers
+of technological evolution that go back millennia.
+As a result, the little bit we add on top is on this enormous complex foundation.
+And sometimes the bit we add is in itself intricate and complex.
+And most people have no idea how it works, whether it's the watch on my wrist,
+the car I drive, the TV I'm looking at right now.
+Most people who are not experts don't really need to know these things.
+But it's important to understand that just because the technology is complex internally,
+doesn't mean that it's difficult to use. That's only the early days.
+So understanding why Bitcoin works is not the same as explaining how to use it.
+And I think for your viewers who are like, okay, this kind of sounds interesting,
+but also very complex and why should I care, I think the real answer is
+when the internet first came out, you could ignore it. Now you can't.
+And it enriches your life if you become adept at using this technology,
+whether you are in it or not. The same thing applies with these technologies.
+They are fundamental and revolutionary re-imaginings of how we do money,
+finance, banking, international relations, and a whole bunch of other things.
+And so learning among the first, how to do the basics, how to use it, back it up,
+send it, receive it, and be able to recognize the main things, what does an address look like.
+Okay, so if I wanted to send some to my friend, how would I do that?
+Just like, what is a browser? How do I open it? And then what do I type?
+I taught my dad in his 80s how to do these things because that allowed us to connect.
+There is value in learning these skills even if you're not going to do much else with them.
+And so when people ask, so what do I do next? Do I invest? Do I buy this Bitcoin thing?
+I say start with learn and then continue with earn. Learn the skills like anything else because
+you don't have to get the price right or if you don't get it right, the knowledge is still yours
+and you don't have to time it and you can make mistakes and it doesn't matter.
+Then earn. Rather than think about buying or investing in Bitcoin, see if you could do something
+that someone's going to pay you for with Bitcoin, maybe sell something at a garage sale. A lot of
+the times no one will, but someone might bite and then you got an interesting experience.
+And then maybe start thinking about invest, because then you can start using and playing
+with this. It's a lot easier to demonstrate and experience than it is to explain and understand.
+Right. It's just one of those things you have to do.
+Yes, exactly. I can talk to you about how I balance on my unicycle and it looks
+fantastical from the outside. But in fact, that will not teach you how to ride a unicycle,
+not only that, but I can't actually explain it that well. Most people who use it can't.
+You don't have to understand how the light bulb works. You just have to be willing to flip the
+switch. Yeah, exactly. That is the case. And there are some places in the world where this
+understanding pays very significant dividends. Those are places that are mostly dealing with
+crises of confidence, crises of politics, crises of government, or just straight up war, famine,
+problems like that, where if you have a mechanism to sidestep the traditional financial system,
+get money from abroad, transfer it across the border without getting robbed, and things like
+that, that's a game changer. That's a life-saving skill. I'll give you a simple example. If you're
+a refugee and you're trying to escape Venezuela or Syria or whatever, along the road, everything
+you own will be stolen from you. This is the experience of every refugee on the planet.
+And you will arrive with nothing. Well, accept. You can actually store Bitcoin on what is known
+as a mnemonic, which is 12 randomly generated words. This is what wallets use as backups.
+I can use a wallet. I can install it. I can generate 12 words. And that is basically control of all
+of the Bitcoin I'll ever use with that wallet. All I have to do is memorize them. Memorize 12
+words in sequence, and then throw away your phone or get stolen at the first opportunity,
+cross 17 international borders, land in another country with destitutes with nothing,
+find a phone, install a wallet, type in the 12 words, and all your Bitcoins waiting for you.
+Wow. And the fact that you can do that
+shows you how and why this may be something that, and it's kind of like almost miraculous in some
+ways, but at the same time, it's just like so alien to the way money works today,
+that it can actually be a game changer and a lifesaver under some circumstances. So,
+back to your original question. Why would a blue-collar worker in Pennsylvania want to invest in
+Bitcoin? Today, not that many reasons. It's more of a curiosity, a plaything that might be some
+very interesting applications in the future. But if you live in a place where a dictator is making
+your money unusable or stealing it from you or making you run for your life, this is a technology
+that can literally provide an exit and a safe haven for you. Well, cool, man. I thanks again for
+doing this. Where can the people listening and or watching it find more of your work? So, I have a
+big collection of free videos where I discuss not only kind of the how, but more importantly,
+the why, the social, political implications of this technology, why it matters for humanity,
+why it's interesting, why I'm enthusiastic, why I'm excited about this. You can find that on
+YouTube. My username, A. Antonov, which I use broadly. If you could put that in the show notes,
+I'm sure people can find it easily. Beyond that, my website, I've written six books on the subject,
+three technical books. The third one is in progress now for software engineers and three books called
+The Internet of Money, volume one, two, and three, which are my ideas on where this technology is
+going and why it matters. And people can find those everywhere. And I have some cool workshops
+on my website where you can take, for example, a free introduction to Bitcoin and open blockchains
+workshop where we run through some of the practical things. What does it look like? How does it work?
+And so they can find that on my website, Antonov.com.
+Awesome. Thanks again for your time, man. I really appreciate it, Andres.

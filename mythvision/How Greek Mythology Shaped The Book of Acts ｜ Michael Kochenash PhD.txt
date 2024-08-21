@@ -1,0 +1,261 @@
+Today we're going to look at how Greek mythology shaped the book of Acts, dealing with a particular
+name Aeneid, and wait till you see how this connection works out in the narrative of Acts,
+but the bigger question I have in this whole process is, is how reliable, historical is this
+really? It's so narrative-like, and by the end of the show, you should ask yourself that question.
+Is this reliable history or is this wonderful historical fiction? And I say the latter.
+We are MythVision. Welcome back to MythVision Podcast. Today I have my guest, Dr. Michael
+Koshnosh. Welcome back to MythVision. Thank you. And for those of you who do not know who Dr. Koshnosh
+is, I want you to know he is a PhD from Claremont University. He worked with Dennis
+McDonald, one of his teachers actually, is a Radbound Excellence Initiative Fellow at Radbound
+University in Netherlands, specializing in New Testament early Christianity. He has published
+a book, Roman Self-Representation and the Luke and Kingdom of God. It is available in the website
+in the description is koshnosh.wixite.com. You'll see the link down below. With that being said,
+what do you have for us today? So today I'll be talking about a narrative in the book of Acts
+where Peter Heels, a man named Aeneas, and I'll describe how the name Aeneas functions from a
+literary critical perspective by relating it to cultural associations with the name Aeneas
+in the ancient Mediterranean world. In short, the name Aeneas was intimately connected with the
+city of Rome, and so I'll ultimately argue that the entire Aeneas episode in Acts 9 can be understood
+as a literary signpost indicating that Rome is the geographic destination of the narrative.
+When scholars discuss Aeneas's name and they typically don't, they often dismiss it as insignificant.
+For example, in a footnote in his Hermenea commentary on Acts, Richard Pervo simply says,
+names are usually secondary details. Aeneas is attested for Palestinian Jews from the second
+century BCE to the fourth century CE, citing the essay by Margaret Williams that appears in the
+book of Acts in his ancient Palestinian setting. Although Pervo does accurately report the range
+of attestation presented by Williams, his phrasing is misleading. In fact, Williams is able to muster
+only one attestation each for the second century BCE and the first century CE, and both of these
+come from Josephus. The only inscriptional evidence and as it should happen, the only other
+attestation she provides is one occurrence of the name in the fourth century CE. Ken Doudin's
+entry on the name Aeneas in the Dictionary of Deities and Demons in the Bible, however,
+does acknowledge the cultural significance of Aeneas's name before he then dismisses it.
+He writes, it may seem curious that so elevated a name should be assigned to the
+Cripple in Acts 933-34, but Greek culture was unlikely to have taken cognizance of a Latin text
+such as Virgil's, referring to the Aeneid, of which Aeneas is the protagonist. He then ironically
+concludes, it is best regarded as a solid, traditional name dignified by its bearer in
+Homeric epic. He then notes that there are very few occurrences of the name Aeneas after the
+time of Christ, according to the lexicon of Greek personal names, but he discounts this
+observation as probably a sampling error. And there are two problems with Doudin's assessment.
+First, as I've already hinted, and as I will explain later, the heroic nature of Aeneas's
+name was well known among Greeks who didn't know Latin long before Virgil's epic. And second,
+his evaluation is also disadvantaged by a lack of data, having access only to the first volume of
+the lexicon of Greek personal names when the first edition of the Dictionary of Deities and Demons was
+published. Six additional volumes are now available, and as of 2017, when I published this article,
+three more were forthcoming, but the data was accessible at that point through the editors,
+and that's how I got access to it. The newer editions of the lexicon of Greek personal names
+confirm the so-called sampling error of the first volume, that is, that Aeneas was not a popular
+name in the first and second centuries of the common era in the Roman Mediterranean world.
+Moreover, according to the lexicon data, Aeneas was never a popular name in Syria and Palestine.
+There exist six attestations of the name Aeneas in Palestine, one of which is Axe,
+and one in Syria within the entire chronological purview of the lexicon project,
+which is from the emergence of written Greek until the sixth century of the common era.
+So it apparently was a very uncommon name in these regions in terms of real-life people
+being named Aeneas as far as we can tell. Given how rare Aeneas was as a personal name,
+we have good reason to explore the cultural freight that it carried in the Roman Mediterranean world
+and to consider whether such capital might account for why his name appears in Axe.
+For the next few minutes, I will talk about the antiquity and ubiquity of Aeneas's connection
+to the city of Rome, and then I'll describe a literary analysis of the Aeneas narrative in Axe
+that assumes the cultural competence necessary to recognize this association of Aeneas with Rome.
+So first, a bit about the famous Aeneas in antiquity. Aeneas was a hero in the Trojan War
+on the Trojan side. He was Hector's cousin if that helps you place him. His escape from
+the Greek destruction of Troy was apparently narrated by Arctinus and the now lost Iliu Persus.
+In Homer's Iliid, Aeneas is saved from Aphrodite and once by Poseidon. According to Homer, Aeneas
+was saved by the gods because of his future prophesied by Poseidon as a king of the Trojans
+in the future, and this is a topic that is elaborated in one of the Homeric hymns to Aphrodite.
+The connection of Aeneas with Rome was most commonly invoked beginning in the third century BCE
+within the political context of the Roman Republic's relations with Greek cities,
+and I'll give three examples. In the Pyrrhic War, Pyrrhus, the ruler of Epirus, appropriated the
+legacy of Achilles and thereby identifying the enemy Romans as Homer's Trojans by default,
+and yet by 275 the new Trojans actually won. I should note here that witnesses such as the
+Greek historian Timaeus suggest that this identification, that is of the Romans with Aeneas,
+had already been well established. In the First Punic War, the city of Segesta created an alliance
+with Rome on the basis of their common descent, common claim of a descent from Aeneas, and then
+third, the Romans made a symbolic move toward the end of the Henolic War, further suggesting that
+Romans as a group began to identify themselves as corporate descendants of Aeneas. With victory
+all but assured, the Romans moved the cult of Magna Mater, a protective deity of the Trojans
+from Mount Aida, which is the traditional birthplace of Aeneas, to the Palatine in Rome,
+and this transfer took place in 205 BCE. All three of these examples presuppose the legend
+of Aeneas' travel to Italy. The appropriation of Aeneas' legacy and of Trojan identity
+reappeared during the reign of Julius Caesar, who was consul from 60 to 44 BCE. Caesar is said to
+have so emphasized his descent from Venus, Aeneas' mother, that descendant of Aeneas could be used
+as a substitute for his name. Toward the end of his life, he added a claim of descent from Aeneas
+specifically to that of descent from Venus, so making explicit what was already implicit.
+With the formation of the second triumvirate after Julius' death, the Roman state was governed by
+Octavian, Mark Antony, and Marcus Amelius Lepidus. Although Octavian associated himself primarily
+with Apollo, he also began advertising his descent from Aeneas during this period.
+As Augustus, he not only expanded this propaganda to include public monuments in Rome,
+he also promoted his genealogy throughout the empire in at least two other ways,
+first by depicting Aeneas carrying his father out of Troy on the reverse of coins that featured
+his own likeness on the obverse on the other side, and two by commissioning several court poets to
+disseminate his descent from Aeneas. Two literary figures who were active during Augustus' reign
+merit special attention in this context. Virgil, on the one hand, for composing the iconic and
+authoritative version of Aeneas' legend, and Dionysius of Halacharnassus for his inability to
+deny Aeneas' connection to Rome. So in the Aeneid, Virgil narrates the sea voyages of Aeneas
+and a remnant of Trojans across the Mediterranean Sea, so from the destruction of Troy, and their
+subsequent war with the Latins in Italy. Virgil explicitly identifies Augustus as the descendant
+of Aeneas and as the heir to the promise of an eternal empire. Virgil's epic poem experienced
+immense popularity soon after it was published in 19 BCE, following the poet's premature death.
+Around the same time, Greek historian Dionysius of Halacharnassus
+wrote about the history of Rome, emphasizing its Greek origins whenever possible. If he thought
+doing so would be credible, he certainly would have omitted any role played by Aeneas, a Trojan,
+in the foundation of Rome. But instead, he resorts to claiming that Aeneas' ancestor,
+who gave rise to the Trojan people, was actually from a southern Greek peninsula and then only
+migrated to the Troad after his homeland was flooded. Virgil says this ancestor was actually
+from central Italy, so it's contested. But the point is Virgil and Dionysius both demonstrate
+that by the end of the first century before the common era, the association of Aeneas with Rome
+had become culturally undeniable. Greek speakers in the provinces of the Roman Empire
+also attest to the ubiquity of Aeneas' association with Rome. For example, book 11 of the Jewish
+collection of sibling oracles, probably written early in the first century of the common era,
+not only demonstrates an awareness of Aeneas' escape from Troy and the tradition that he
+established Rome, but he also praises the bard, quote, by whose noble mind the whole world will
+be educated, meaning Virgil. After describing the fall of Troy at the hands of a wooden deceit,
+meaning the Trojan horse, and the death of Agamemnon at the hands of a deceitful woman,
+meaning Clytemnestra, his wife, the symbol describes Aeneas. Although she cryptically
+avoids Aeneas' name, there is no doubt that Aeneas is the subject of this section.
+And the symbol is significant for the present discussion of acts in that the
+symbol not only associates Aeneas with Rome, she also explicitly claims that Aeneas himself
+founded Rome, the mighty city of the Latins. And though the oracle is written in Greek,
+the writer demonstrates an acquaintance with the Aeneid, which is written in Latin,
+by describing Virgil immediately following the section on Aeneas.
+Roman claims of descent from Aeneas did not cease along with the Julian dynasty.
+For example, Statius, a court poet for Domitian, writing toward the end of the first century of
+the common era, attempted Virgil's strategy by portraying Domitian as a direct descendant of
+Aeneas and as the true heir of Aeneas' eternal empire. Hadrian similarly identified Trajan as
+the descendant of Aeneas. And so it's within this literary and political context that I conclude
+it would have been highly unlikely for ancient readers to hear the name Aeneas and not think
+of Rome, at least on some level. I liken the ancient cognitive association of Aeneas and Rome
+with the 21st century association of Michael Jordan and basketball. On some level, if you
+hear Michael Jordan, you're thinking of basketball one way or another. So let's talk about Aeneas
+in acts. Accounting for the cultural freight carried by the name Aeneas and its placement
+within the acts narrative can influence how readers understand the macro structure of acts
+and its relation to that of Luke. The structural considerations that I'll describe reveal how
+reading Aeneas as a literary signpost for Rome coheres with the macro structure of acts.
+And Luke's gospel in the book of acts actually share remarkably similar macro structures.
+After the preliminary matter of Luke's gospel, that is the first three chapters,
+there are three main sections, entry in and around Galilee. And Luke marks the transition to the
+gospel's second section in a very conspicuous manner that is Jesus's journey to Jerusalem.
+In Luke 9.51, the narrator explains, but when the day drew near for him to be taken up,
+he himself said his face to go to Jerusalem. He then repeats this idea two verses later.
+And these verses set the tone for all of Luke's second section. Although Jesus does not travel
+directly to Jerusalem, his circuitous meanderings never lose sight of that goal. The final section
+of Luke's gospel commences with Jesus's entry into Jerusalem and narrates his activity there,
+namely his teachings in the temple, his trial, passion, resurrection and ascension.
+A careful investigation of acts reveals a macro structure that is remarkably similar to that
+of Luke's gospel. Commentators often read the structure of acts in relation to the commission
+of the resurrected Jesus to his disciples in Acts 1.8, where Jesus says, you will be my witnesses
+in Jerusalem and all Judea and Samaria and to the end of the earth. The first three
+reference, Jerusalem, Judea, Samaria, these are straightforward enough. But the final one is
+ambiguous, the end of the earth. It appears to have two primary meanings. First, it refers literally
+to the broad horizon of the known world and its inhabitants, for example, as symbolized by Ethiopia.
+And second, it refers to Rome, the center of the Mediterranean world and perhaps a symbol
+of its entirety. The narrative which follows the introduction of acts thus exhibits the following
+structure related both to geography and to ethnic and religious identities. As in Luke's gospel,
+the text can be divided into three sections. In the first section, the narrative is concerned
+primarily with Jesus's followers mission to Jews. Geographically, the narrative begins where Luke's
+left off in Jerusalem. Their mission extends to Jews in the rest of Judea and Samaria,
+even to Jews from the ends of the earth, meaning the Pentecost narrative where Jews from all over
+are gathered in Jerusalem, and also the narrative of the Ethiopian eunuch. The second section
+narrates the beginning and progressive expansion of the Gentile mission, as well as the realization
+of Rome as the city of destiny and acts. The Gentile mission explicitly begins with the account of
+Peter and Cornelius, which is prefaced by a pair of miracle narratives featuring Peter with Aeneas
+and then Peter with Tabitha. The subsequent progressive realization of the inclusion of
+Gentiles is highlighted by the Jerusalem Council in Acts 15 and Paul's experience of opposition
+from some Jews and the redirection of his ministry of his mission to include Gentiles.
+At the same time, the geographic goal of the Book of Acts becomes explicit in this second section.
+Paul must see Rome. The third and final section of Acts, bearing some resemblance to the final
+section of Luke's gospel, recounts Paul's trials in Jerusalem and Caesarea and his sea voyage to Rome.
+Although the narrative foregrounds these activities, the two trajectories that began in the Peter
+narratives in Acts 932-1118 continue. That's the Peter with Aeneas and Tabitha and Cornelius.
+For instance, Paul concludes his defense before a crowd in Jerusalem by relating the word spoken
+to him by the risen Jesus. Where Jesus says, Go, I will send you far away, just a geographic,
+to the Gentiles, the ethnic and religious. Paul's speech to the Jews in Rome is thus a fitting capstone
+to Luke's foundation narrative where he says, Let it be known to you then that the salvation of
+God has been sent to Gentiles. And again, he's saying this in Rome. The two miracle stories
+featuring Aeneas and Tabitha in Acts 9 thus occupy a critical place within the narrative of Acts,
+not to mention the whole of Luke's two-volume work. It functions as the narrative's gateway
+to the Gentile mission and to Rome itself. The narratives of Peter healing Aeneas
+and raising Tabitha from the dead in Joppa bridge the gap between Luke's summary statement in Acts
+931, which I will quote in a minute, and the Cornelius narrative in which a Roman soldier
+becomes the first Gentile to gain inclusion into the kingdom of God and Luke or Acts.
+I argue that this bridge is constructed using two metonomies, Aeneas and Joppa. And by metonymy,
+I mean a word that is used as a stand-in for a larger conceptual structure or system of which it
+is a part. The first major section of Acts concludes with the notice that the church throughout Judea,
+Galilee and Samaria had peace and was built up. Of all of the so-called success summaries in the
+book of Acts 931 is remarkable for the way in which it evokes Jesus's commission in Acts 1-8.
+The disciples are to be Jesus's witnesses in Jerusalem and all Judea and Samaria
+into the end of the earth. For the reader who recalls Jesus's commission,
+the summary of Acts 931 might prompt a question. What about the end of the earth?
+The audience resumes the Acts narrative and immediately encounters Peter,
+healing a man who had been paralyzed for eight years named Aeneas. In this way,
+the narrative can be understood as answering that reader's question. In the book of Acts,
+as far as the movement of Jesus's followers is concerned, Rome will represent the end of the
+earth. And that the narrative does in fact end in Rome confirms the credibility of reading Aeneas's
+name as a metonym for the imperial capital. The inclusion of Cornelius, a Roman soldier from
+Italy in Acts 10-11 reinforces the Aeneas-Rome trajectory, forming a piece of a narrative
+thread spanning from Acts 932 through Paul's travels to Roman cities in Philippi, Corinth,
+Ephesus, all the way to his arrival in Rome. The narrative of Peter raising Tabitha from the dead
+can be read as initiating a second literary trajectory that of Gentile inclusion via the
+repeated mention of Joppa. It may also reinforce the earlier Acts Aeneas-Rome trajectory.
+Luke repeats the name Joppa four times in the Tabitha narrative. It's only 162 words
+and six more times within the Cornelius narrative that follows. But why does Acts identify Joppa
+with what is uncharacteristic frequency? According to one rhetorical handbook,
+reiteration of the same word makes a deep impression upon the hearer and inflicts a major wound upon
+the opposition as if a weapon should repeatedly pierce the same part of the body. The wound
+inflicted by the narrative can be identified in this case by attending to the cultural and
+literary freight carried by the name Joppa. I suggest that this repetition evokes the logic
+of the Jonah narrative, preparing the audience for the characterization of Peter in the Cornelius
+narrative as a Jonah figure and for the inclusion of Gentiles more generally. Two themes of Jonah's
+mission are particularly relevant to these stories. Jonah's commission to preach to Gentiles
+and his reluctance to actually do it. Jonah was in the port city, Joppa, excuse me, was the port
+city to which Jonah fled in order to avoid preaching to Ninevites. In Acts 936-43, the narrative
+inflicts, as some rhetorical handbooks might say, a Joppa-shaped wound on the readers,
+situating Peter in Joppa and evoking the thought world of Jonah. It comes as no surprise then that
+Peter is characterized as a reluctant missionary to Gentiles in Acts 10. Peter is still in Joppa
+when Cornelius sends for him, and before the emissaries arrive, Peter has a vision about clean
+and unclean animals in which he refuses to eat the unclean animals three times, which is a metaphor,
+as readers learn, for Gentile inclusion. Luke's Peter is remarkably more obedient than Jonah,
+however, whereas Jonah left Joppa on a ship to avoid preaching to Gentiles after his vision,
+Peter abandons his reluctance in Joppa and initiates a Gentile mission. The Tabitha narrative
+thus commences a second literary thread that of Gentile inclusion that likewise stretches all
+the way to the end of Acts. It may be worth noting that by evoking the thought world of Jonah,
+the Tabitha story can be read as reinforcing the narrative thread established in the preceding
+passage, the destination of Rome. The entire Jonah story revolves around the so-called prophet's
+mission to preach to Gentiles in the city of Nineveh, and Nineveh, of course, was the capital
+of the Assyrian Empire during whose reign the Jonah story is set. So in addition to the idea of
+ministry to Gentiles, a reference to Jonah can evoke the narrative's imperial logic, movement to
+the capital of the empire to preach to Gentiles. In the Acts narrative, that capital is Rome.
+The final two chapters of Acts bring the narrative threads initiated in the Aeneas and Tabitha
+stories to a close. Scholars have long noted the parallels that Acts 27 shares with other
+ancient narratives, particularly Homer's Odyssey and the Book of Jonah. In Acts 27, it is Paul who
+plays the role of Jonah, getting caught in a dramatic storm while voyaging across the Mediterranean,
+nevertheless, whereas Jonah embarked on a Mediterranean ship in order to avoid preaching
+to Gentiles in the capital of the Assyrian Empire. Paul, in Roman custody, sails across the Mediterranean
+sea precisely in order to preach to Gentiles in the capital of the Roman Empire. While the presence
+of Homeric vocabulary here is practically undeniable, Paul see voyages to Rome, which begin in Troas in
+Acts 16 and end in Rome in Acts 28. Recall yet another cultural figure, Aeneas. Aeneas traveled
+from Troy to Italy in order to establish the foundations of the Roman Empire. Paul travels
+from Troas to Rome with a mission to proclaim the kingdom of God as a witness to Jesus.
+In Acts 28, Paul arrives in Rome. Although under house arrest, he is able to meet with the local
+Jewish leaders. After the Roman Jews offer a predictably, that is, according to narrative
+informed expectations, a predictably mixed reception of Paul's message, Paul proclaims,
+let it be known to you then that this salvation of God has been sent to Gentiles. They will listen.
+Then the book of Acts ends with Paul in Rome, welcoming all who come to him, underscoring
+the permanence of the inclusion of Gentiles within his ministry. Thus conclude both literary threads
+initiated in the Aeneas and Tabitha stories. So that's my argument. The Acts narrative's tandem
+of healing miracles about Aeneas and Tabitha signals the agenda for the remainder of Acts.
+After providing a satisfying closure to the Jewish mission within Judea and Samaria in Acts 931,
+Acts narrates the healing of a man named Aeneas and the resuscitation of a woman in Chapa.
+The story of Aeneas suggests that the narrative will find its ultimate goal in the city of Rome.
+The story of Tabitha, situated in Chapa, suggests that the mission will continue by expanding,
+even if the missionary is at first reluctant, to include Gentiles, while also recalling
+the idea of ministry in the imperial capital. And in any case, that is how Greek mythology
+shapes the book of Acts. Wow, that was amazing. I'm absolutely impressed by that. You made Acts
+look easy and simplified things in a way that it makes me want to reread it and get back into this.
+I really hope people will go get a copy of your book as well. The link is down in the description.
+There are so many things I'd love to just highlight and go into with you, but maybe in the future we
+can do an episode where we can have Q&A and dive into this kind of material. But I'm impressed.
+I'm impressed. I love the connections to Jonah. I love the connections to the Roman idea of Aeneas,
+the reluctance of Peter. I've been pointing out some of these things, but I never knew the Roman
+connection. Never really grabbed that. So thank you. Oh yeah. Thank you for having me on. Would you
+like to say any final words for everybody? No. So this is based on a paper that was published in
+2017 and I've sent the link. It's posted on my academia site, so I'll have Derek post a link
+to it there if you want to read the entire thing. Just a little longer than that, but that's most
+of it there. Thank you so much, Dr. Koshnash. And ladies and gentlemen, we are Mythfishing.
