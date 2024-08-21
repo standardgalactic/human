@@ -1,0 +1,1028 @@
+Nathan Crock ladies and gentlemen we are live on the podcast with the genius himself
+greetings all the way from what planet you come from today Zorbon Zorbon how far
+as it's beyond human comprehension well thank you for blessing us with your
+with your knowledge and your presence today it's an honor I really enjoy chatting
+with you guys I'm looking forward to whatever we end up discussing today it's
+always fun we first discussed doing the podcast again I think we wanted to talk
+about the basics of reasoning and forming arguments because these are things
+that are relevant to pretty much anybody whether you're negotiating a business
+deal or you're arguing with your grandma yeah what elements go into it we
+probably should start a little deeper than that let's do it yeah let's get real
+deep all right so whenever you talk about forming an argument you're
+essentially trying to convey some sort of a truth or some sort of a fact but
+the problem is is that humans are subject to different stimuli that combine to
+give them their own internal opinion of what quote-unquote truth is right and
+so it started way back in you know Greek Aristotle Plato basically they have
+these the three main things that influence people and what they decide is
+gonna be true is their instincts and their their primal sort of you know
+evolutionary inclination survival sex food shelter right safety and then
+they're persuaded by emotions they feel certain things and they determine their
+emotions to be connected with their human experience and what's more real than
+my experience that I'm having right now I experience it therefore it's real right
+and then there's rationality and reason and logic so traditionally ever since
+the old days back with the Plato Aristotle and Socrates etc reasoning at
+the top level it was considered the way to go and if you didn't use logic and
+rationality you were you were base you were beneath everybody else you were
+not a fully-functioned human if you will you know people have been a little more
+relaxed about that over the years thankfully but the majority of the
+field of philosophy is sort of built on that premise right so just learning how
+to form and construct arguments within this logical rational framework and the
+reason that I said it's important that we go a little bit deeper is because if
+we start just at the rationality and the reason in the logic we're not gonna get
+very far because most people don't reason like that nowadays that's the
+academic way of doing it that's what people in in and academic intellectual
+circles you know their discussions and their debates are unlike anything you
+have at Thanksgiving or New Year's Eve when you and your your grandma are just
+you feel like your argument is more valid when you say it more loudly right so so
+that's sort of the the foundation and then why is understanding that so
+important to somebody like you like why how did you get so interested in
+understanding this and become such an expert in it first off I'm an expert in
+machine learning and artificial intelligence so I wouldn't I wouldn't
+dare say I'm an expert in these things is I have found to be a very interesting
+hobby and any sort of an intellectual person or an academic person I think has
+a responsibility to understand what it is that they consider to be true or
+truth if there is any such thing which hopefully we might talk about so this is
+important to know when you're in science basically at least at least right so very
+minimum I would think most scientists should have a healthy respect and
+understanding for the foundations of the scientific reason and how it fits into
+the fundamentals of just logic and the epistemology you know metaphysics these
+things the branches of philosophy that study the nature of reality the nature
+of knowledge and how how we can go about even acquiring it I mean at the end of
+the day like let me ask you this okay prove to me that your soda there exists
+it's sitting here I can feel it and I'm drinking it okay so philosophically you
+might say well when you say you're feeling it what does that actually mean
+so just just grab with the touch I can I can reach out I could grab with my hand
+and I can touch it and I feel the sensation of the the chug chug koozie
+around the icy cold LaCroix okay alright so what you're trying to say then is
+that there's a physical object there because you perceive yourself as sensing
+it right but as we know everything is composed of atoms and atoms are almost
+completely empty space and they have electrical charges around them so what's
+actually happening is you're feeling like you're feeling it but there's no
+contact between matter there's just a repulsion of electric charges so you're
+not actually feeling it you're feeling the result of something having been there
+but you're not explicitly feeling it right and then you can go into the same
+argument for vision well I can see it no you're seeing the result of something
+having been there a photon bounced off of it and then came and hit your retina and
+your retina interpreted the wave length of the photon as its color and
+everything so you're not actually seeing it you're just seeing the result of
+something having been there okay okay all right so now this all goes down into a
+rabbit hole of materialism versus immaterialism and we don't need to
+know all those all those details all we need to know is is the surface level of
+it in general right so but what it really comes down to is physicists and
+engineers they they acknowledge that this is a thing and then they go so I
+don't need to prove that it's actually there I can just measure the result of
+it having been there and I can do things with it and I can predictably get some
+outcome when I interfere with whatever is there I can't tell you that something
+is there or what it is but I know the result of it there I can measure and
+sense it etc right right so this is what you're confronted with when you're
+supposed to be an intellectual person trying to find truth right okay at the
+fundamental level if you want to even prove something exists not as trivial as
+as we immediately think it as we take our intuitions for granted and upon
+introspection and reflection we find that these things that seem so obvious at
+first are are much more complicated than we initially gave them credit for which
+is in my opinion exciting okay so where do we go from here right so sure well
+I mean you got my head spinning Nathan all right cool so all right so this is
+important so now we basically have a respect now for the importance of
+trying to understand how individuals determine what is allegedly true right
+okay and the reason this is important is because if you and I are sitting at the
+dinner table and you know the whole family is over there and then you got
+your girlfriend over here and you want to show off to your girlfriend how smart
+you are by dropping some intellectual little logic bombs and trying to argue
+with this other person and persuade them if you are not aware of the mechanism
+that your fellow interlocutor is using and their ability to reason then you are
+not going to be reasoning or convincing them within their framework right if you
+recall from the last time we had a discussion I was saying that if I'm
+going to be saying words I have a responsibility to communicate in a
+language and a modality that you understand right otherwise why am I
+even talking the same thing can be said about you trying to quote unquote
+persuade or share knowledge with somebody right if you don't understand the
+way with which they determine truth then how can you give them evidence that
+something is true that you want to convince them of right right so for
+example if you're a purely emotional person and I come and I give you the
+super compelling a logical argument that's infallible and just beautiful
+beautiful you're gonna go I don't care I don't like it because because because I
+can just feel like I don't like it right yeah it's the same kind of the same
+when some people when they think of something or some people they have a
+stronger sense of touch or smell or vision so like when someone's trying to
+describe something you know an idea they have like oh I see it happening this way
+or no I feel this way about it yeah that sort of similar to what you're talking
+about how people absorb information how people process different types of
+information yeah so that's one piece of you're basically talking about the
+sensory experience itself right and a lot of people I think in particular
+George Berkeley that you might have okay so let's start with this I got an idea so
+René Descartes right so he gave the whole Kogito ergo sum I think therefore I am he
+was the quintessential skeptic who began the whole materialism versus
+immaterialism thing and he's basically saying I can't actually prove anything
+exists I can't show that this that this thing is real I get really uncomfortable
+when I try and find logical arguments about things that are based off of facts
+that I can't actually establish so he basically gave the analogy like look I
+got a bucket of apples and I know that in here there's some rotten apples so
+what I'm gonna do is I'm gonna dump all the apples out and then pick each one up
+and inspect it and only put the good ones back in okay and the idea was is he was
+getting rid of false facts about the world but he had to systematically
+interrogate and inspect every single little element that he believed in okay
+right and so when he did that he was like well where can I start what do I do
+and so he basically decided that the only thing he can be certain of is true is
+that he's thinking therefore that is his that was his starting place I think
+therefore I am and then from that he then built this whole logical argument about
+about how things are true and there's lots of problems with them for example
+okay but then a little bit later on uh George Berkeley I believe he said you
+know I'm not so sure that this I think therefore I am is sufficient enough right
+what I really can depend on is is what I see and what I feel and what I touch my
+senses my ability to perceive reality and so his was what was it
+essayist paracopeia or something which is basically uh to be is to be perceived
+mm like that one if a tree falls in the woods and nobody's around to hear it did
+it make a sound right so it doesn't exist unless it was perceived and so that's
+a really problematic way to go about things because then you you should be
+afraid to go to sleep at night because as soon as you're no longer perceiving
+your consciousness then you just cease to exist right so that's obviously not
+true but then he went and he fixed that by saying well god is the all seeing all
+perceiving thing that keeps us existing and okay so that was his whole approach
+right and so these things started building on each other one after the other
+and the idea is always at the fundamental level what is true like how if you
+believe something you have a responsibility to ask yourself why you believe it
+of course right and so how do you justify or convince yourself to believe whatever it is
+that you believe if someone else jumped over the river and and landed on the grass if I jump over
+the river and I clear the water I'm gonna land on the grass that's a really simple example
+but here's the problem with that right so basically you're saying I've seen um a white swan today
+and then tomorrow I see another white swan and the next day I see 10 white swans and all I see
+is white swan so then I draw the conclusion that there must be white swans and that's all that
+there is right okay yeah but there are not only white swans there are black swans or for example
+you know you said this person jumped over the river and landed on grass so you're gonna do that
+well so you basically had a sample size of one and then you just drew a conclusion that that's
+going to be truth okay well what about if I'm walking through the ghetto over here and I get robbed
+by a black guy okay does that mean that every black guy is now going to rob me you see how that's
+that's a very dangerous line of reasoning to go to follow to its conclusion right right so that's
+that can be the source of some of these saucy you know discrimination and racial topics is our
+inability to actually compute these statistics that what seemed obvious to you a moment ago
+has now been demonstrated to lead to a rather troubling conclusion right okay okay what someone
+thinks is true has to rely on premises very good right yes what we would consider evidence premises
+are mostly used when you're trying to construct an argument all right and so that's that's good but
+the premises themselves are often assumed to be true they are held without proof so could that
+also be a could a premise also be a bias that uh or no no bias is it has a slightly different
+definition okay though under many circumstances you can sort of interpret them that way it's your
+prior your bias your disposition to something a priori before before experiencing it or before
+being presented with with new data okay yeah so a premise a premise can be completely falsified
+because of a bias yeah it's great so now okay so first we talked about basically the foundation
+of how people decide what's true or not now you're trying to talk about how we form arguments well
+right yes you basically there's there's many types of arguments and the most obvious one to start
+with that's really clear for a lot of people is the the deductive arguments right so um
+all this is the classic one from all textbooks all humans are mortal
+Danny is a human therefore Danny is mortal right all right so that would be a deductive argument
+where the two premises are all humans are mortal and Danny is a human right and so those two premises
+imply that the conclusion is true right right right right but I could say something like
+all humans have tails Danny is a human therefore Danny has a tail right so I laid out two premises
+into conclusion the argument itself is valid right because everything's logical one implies the other
+but the conclusion's false because you clearly don't have a tail and the reason that it's false
+is because one of the premises wasn't true okay you see what I mean yeah so this is why I can get
+kind of hairy so when I'm here at the dinner table and I'm trying to say oh well you know all the
+unions they're doing this and then the darn republicans doing this and then they draw some sort of a
+conclusion about how conservatism is ruining the world or something yeah they're based on all of these
+premises which are super loaded and you could have an entire evening just discussing a few of
+these premises and trying to iron out like all the idiosyncrasies that give them veracity right
+right well what's interesting to me is the uh all the different understanding all the different
+types of biases people can have when you're a little kid and you grow up and your parents always
+told you something was one way and when they come into an argument they assume that that premise
+or something is some way specifically because that's all they know it's almost impossible to
+have a constructive argument or a discussion with them when their premises there's no way
+you can convince them that they're completely wrong all right so you're touching on what I
+would consider to be one of the most important parts that I was hoping to eventually get to
+it so we start with understanding that everybody has a different reason for forming their own
+truths and then you say well once you have this mechanism for reasoning then there's this approach
+this technique for forming arguments and then the question finally becomes why right so if I'm
+gonna have a discussion with somebody else and the question is why are you and I even discussing
+in the first place right and the answer to this we're gonna get back to what you just said okay
+so if we're discussing something usually in a very heated and insulting way with many four letter
+words which happens far too often it's because there's something that's important to both of us
+and our alleged solutions to this thing differ donald trump needs to be impeached donald trump is
+doing a great job in fixing america right so here we are we now disagree although i'm being
+hypothetical right right it's uh academically rigorous and respectful to try and consider
+the other person's perspective as best as possible before you start trying to tear it down right so
+yeah so here we are and we disagree with each other okay so the question is are you trying to
+convince me of your perspective is that is that what we're doing right now right i want you to
+i want you to agree with me right okay and i'm gonna do the same thing right but not not everyone
+some people just want to fight that's true there are those people watching the world burn can feel
+good joker for example right um let's assume that we have the sociopaths out of the room and they
+don't just okay watch the world burn okay but yes that's true so then the question the the logical
+conclusion from this is you are this person that you just said who has a firmly held belief in
+intuition that they uh found from their parents or from some experience in being raised i too was
+raised in a different environment different statistics i was exposed to different data and i
+have an equally firmly held belief but different than yours right i'm trying to convince you of
+mine and you're trying to convince me of yours right what do you think is going to happen
+it's gonna get ugly we're just gonna we're not even gonna communicate we're just gonna
+yell arguments at one another and i'm not interested in your perspective my job is to
+convince you of my perspective right but you're not interested in my perspective you just want
+to convince me of your perspective so you see how this is doomed to fail like from the onset right
+so when you go into a discussion with somebody and you have the idea that i want to win this
+discussion you've already failed that's that's not what discussions are for true intellectually
+responsible what they're called interlocutors people who are you know the interlocutor interlocutors
+yes these are people who engage in philosophical debate they're not interested in winning winning
+isn't a thing they are interested in finding a deeper truth about the world so if i come to you
+and i give you this awesome argument that i'm super convinced is great and then you go
+hmm it turns out that you made some fallacious conclusion in your third you know inductive
+argument or something i should be grateful for that yeah a lot of people go into those those
+looking for looking for a fight rather than looking for an opportunity like they're looking for
+you should look at it as an opportunity to share your ideas or to learn from them
+but a lot of people look at it as going into a conflict or going into a battle they do and i
+would say it's even more than looking at looking at it as an opportunity to share because that's
+that's the selfish perspective again i want to tell you what i'm thinking right more precisely it
+should be i am excited to have the opportunity to refine my ideas only if i am willing to admit
+that my ideas sharpen your blade yeah only if i'm willing to to to uh let go of my convictions
+only if i'm willing to admit that i'm wrong does holding on to the idea even mean anything for
+example if i'm talking with a historical case it could be saucy for some but particularly religious
+people who hold their convictions unfalsifiably and they're unwilling to relent and i usually
+ask a simple question that lets me know their disposition i say um what what would you need
+to experience or be presented with to change your mind to stop believing right and then as soon as
+they go nothing then you know that they've forfeited their faculty of logic and reason and they're not
+okay they're they're basically just holding their conviction unfalsifiably right right you just
+agree to disagree oftentimes that's that's sort of the best you can do in those cases because
+all right so so the idea for me though is that when i go into a discussion well i want to finish
+that conclusion right so this person holds their conviction and their idea just unfalsifiably like
+they're never gonna let this thing go right that conviction is equally as meaningful as me saying
+i believe i have unicorns in my stomach right right and the reason is is because neither of us
+are willing to let it go which means it isn't really worth it isn't worth any it has no meaning
+like there's no substance behind it only when i have a conviction that i'm willing to let go
+that i've tried to prove wrong over and over and over again and throughout the past three years i
+had been like consistently trying to prove my ideas wrong and i just can't prove them wrong
+then it starts to mean something and that is the spirit of the scientific method right people
+like the old-fashioned psychologist Freud he was doing what was called pseudoscience right so
+essentially he would basically look at things from the past and justify them with things from
+the future he could make every girl's problem turn into a source of penis envy or every man was in
+love with his mom right and he would just use some psychological uh and conversational magic to
+basically justify everything right that is not how science works science is exactly the opposite
+actually rather than justifying past observations with my current perspective for opinion i'm gonna
+make a prediction about the future that tries to disprove my current uh held belief my current
+theorem okay so for example if i let this go what's gonna happen it's gonna drop and smash on the
+table right exactly right and the reason that you believe that is because people have been trying to
+disprove that since newton and nobody has been able to disprove it right therefore we have a justified
+our belief that it is going to fall has been justified because nobody's been able to disprove
+it right but when you go into an argument again and you have this firmly held belief that you're
+not willing to let go that belief doesn't really have much substance because you haven't spent
+years actually honing it and sharpening it and proving that it's true not only that but you've
+stopped growing you're you're if you are not willing to adapt your ideas and you expand and try and
+find something more consistent with reality than you're stunted right right the other person who's
+really interested in if you prove the other person wrong and they go oh thanks that was great
+they just grew and became better and they now have a deeper truth about the world and you're
+stuck just being believing in whatever you believe for no reason because you're not willing to admit
+that it could be wrong and refine your ideas right all right so here we go i'm gonna argue on the
+opposite side of discrimination and try to convince you that it's okay all right so i'm gonna take the
+hard side first so all right let's say that uh rosy and bob they own a cake shop okay and a group
+of people come in and they ask rosy and bob to make them a cake about some um uh Nazi extremist
+celebration that they're about to have when they bring all the white supremacists together okay
+and rosy and bob say no i don't want to do that i disagree with that you and many might say well
+good they should not do that because they shouldn't support that kind of a thing right fine but then
+again the very next day um some two men might come in and ask rosy and bob to bake a cake about
+homosexuality for their wedding right and at the same time rosy and bob go no i don't want to
+bake you that cake because i disagree in it i disagree with that so what's happened is in
+that second analogy you might have gotten a little more upset about they're like well that's not right
+they shouldn't have done that right well she did is you condoned discrimination the first time
+and then you said it's not okay to discriminate the second time so clearly it's not as obvious
+as saying discrimination is just wrong there are clearly certain circumstances with which
+discrimination is okay and it's not as obvious as we think well i mean it's a free country and
+they own their own private business and they're allowed to make their own rules within their
+own private business as long as they don't break the law is that right right but what if their
+rules are imposing on the freedoms of others well they're free to go down the street and
+go to another cake store and get another cake made but what if the entire community feels the
+same way that those people do because of their collective beliefs and now there's a subsection
+of the of the society that has been ostracized because nobody's giving them the opportunity
+do you have any moral or ethical obligation to do something to help or is that just tough luck
+i really i really there's nothing i could argue i don't i can't put myself in the
+in the shoes of those people god damn it nathan this is hard i think that's really kind of the
+important part here is that people take for granted their convictions and they argue from a very
+limited understanding of the depths and the complexities of these things that they think
+are so much more simple than they actually are discriminations clearly wrong clearly not
+i mean not it's not clearly blatantly wrong it may be wrong sometimes and it may be justified
+other times right so if for example what um if you see a lion walking down the street
+and i say or behind me for example wherever there wherever one may be and then um you say
+oh i'm gonna go pet it and i go no no don't go pet it it's gonna bite it's gonna bite you and you
+look don't generalize not all lions bite okay what you just did is you made a statistical
+generalization right which was based off of facts and observations that you've made yeah
+so one might say that under certain circumstances statistical generalizations can be useful and
+beneficial and other times they may be detrimental and troublesome and so the real uh
+responsibility that i think people have is identifying what that threshold is where is it
+suddenly not okay anymore and the beautiful thing about this is that line is different
+for absolutely everyone and that's okay and that's really important that we understand that
+because everybody has their own intrinsic subjective value system that we talked about
+earlier is based off of one of these three things and everybody's just different there's
+there's no truth behind which one of those are better right it's just fundamentally subjective
+and so i think it's really important you know as we talk about these things that the viewers
+are seeing that maybe these things that i held uh very strongly and firmly aren't quite as obvious
+as i thought they were before all right here let's let's let's keep trying a few more
+so do you think that everybody should be paid the same generally no i mean depend if somebody
+is better at something or if something's been doing something for a longer amount of time they
+should make more money but what if a certain part of the society has been disenfranchised for so long
+that they don't really have an opportunity to acquire the skills necessary to be competitive
+to then actually get that pay what do you do then all right well this is just a simple
+intellectual experiment to demonstrate how the things that we think are our solutions are clearly
+not right so this was presented at some economics conference and i remember this argument and i was
+pretty compelled okay all right but essentially people like okay well we should force everyone to
+pay uh all races the same for the same kind of a job right so they you have to make sure that
+they make at least the same right that seems super fair it seems super fair right at the high level
+but the reality is is that there's racist people out there right right so making the racist people
+pay everybody equally doesn't make their racism go away and then you go oh well what it should do
+is at least just fix the symptoms of it and it turns out that it does makes it worse probably
+and here's why here's the analogy that they gave which might be kind of crass depending on how you
+look at it but i found it relatively and insightful um let's say you go to the grocery store and
+t-bone steak is 12 a pound and chuck steak is two dollars a pound which one are you gonna buy
+personally i'm gonna buy the t-bone okay t-bones 50 a pound and chuck steak is five
+dollars a pound which one are you gonna buy still the t-bone no it's a hundred dollars a
+pound fine i'll take the five dollar chuck steak and of course you all right so the point is is
+that there was some point at which the chuck steak became reasonable to you now let's assume
+that for whatever reason you go there and the chuck steak is a hundred dollars a pound and
+the t-bone is a hundred dollars a pound which one are you gonna buy definitely the t-bone okay so this
+is a crass analogy of course but there are people who perceive the difference between race to be the
+equivalent to a t-bone versus a chuck steak and if you force everybody to pay them all the same then
+these people who are already racist they're like well i mean if i have to pay them exactly the
+same thing that i would have had to pay a white person then i'm just gonna hire all white people
+right makes sense so clearly the the rule or the law that they have to pay everyone the same
+in and of itself is insufficient you also need to then enforce that they have to actually hire
+that many people as well to combat that racist tendency that might actually happen
+so the thing that you think you know everybody gets paid the same that's fair well it has really
+unintended consequences when you you know take some time to really analyze what what takes place
+yeah all right and so these things in my opinion just demonstrate further how once you're convinced
+of your ideas you're already wrong and just stop being super convinced in your ideas because
+there are so many things that you don't really understand and i think if everybody had more
+humility and more openness to other people's perspectives and more interest and being and
+more interest in learning the truth than in being right then these things would solve themselves
+because we talked about earlier when you and i are here and i want to be right and you want to be
+right we're just gonna have a shouting match all day and we're not gonna get anywhere
+right but if we're both more interested in finding truth than we are in convincing one or the other
+of our emotional perspectives then we'll actually make progress and we'll be able to find some sort
+of a common ground which is the only way that two people with differing views are going to find a
+solution that appeases both sides that's sort of a solution intrinsically requires compromise
+because clearly this person wants this thing and they want this thing and you can't have both of
+these things at the same time so the only way to get any sort of a solution is something that gets
+a little bit of both and misses something of others but nobody's willing to make compromises
+because this is america and we're all entitled in the american dream and we should all get our way
+right one thing that sticks out to me and that when you make that point is the article that you
+sent me can we talk about that sure so the article you sent me uh was basically about a bunch of
+the democratic presidential candidates correct me if i'm wrong um and the the person writing the
+article was saying that those people their policies were center in the united states of the political
+landscape of the liberal conservative and then center right right right yeah i mean the general
+argument was exactly that like america's polarized but these three people should be considered
+centrists and the reason ours because and who were the people you remember it was bernie sanders aoc
+and warren i think okay okay and they say these people their ideas and and political positions
+are centrists because they are consistent with most americans okay so that's a terrible argument
+because right right right i can already see how that's yeah right so i mean that's a reminiscent
+of geocentrism right so the earth is the center of the universe and you just define that to be
+the center because that's where you are that's where we are sure i mean if you have liberals
+over here and conservatives over here and then you get a nice bell there's a whole bunch of liberals
+and then there's you know a few conservatives and then a whole bunch of uh a few centrists and then
+a whole bunch of conservatives yeah this bell might be larger than this one over here but the
+center's still in the middle you can't just redefine the center to suddenly be where you are that's
+not how that works right right but the problem is that people were just like reposting this all over
+because they didn't really care whether it was true or not they just liked the idea that their
+idea it made them feel good yeah everyone likes to feel good and what did you think about my argument
+to that or not my argument but basically you said that there was two bells right there was a huge bell
+on the conservative side and a huge bell on the liberal side and then it dipped down in the middle
+in the center and i thought that it could technically be just one big arc right because there's less
+people on the there's less people on the very far left and the extreme far you know on the
+extreme of each side there's less people yes um so i thought that it could be possible that maybe
+the center is the highest point of the arc because maybe some of those policies do collide and there
+there is some overlap there okay so two things one is i would entertain that discussion we can have
+it but the premise from that person was that the american population is polarized okay polarization
+almost necessitates that there's a dip in the middle where you've been polarized right there's
+binaries one and then the other so the majority of americans have differing opinions right so that
+was their premise and okay i see and as of right now i mean nobody knows exactly what that bell
+looks like but i would or what that distribution looks like but i would suspect that if it's not
+really small like i used in my naive example i would expect to see a dip in the middle okay i do
+believe that social media and the ability for people to reaffirm their convictions with less
+and less information and to be more and more certain about their ideas that are less and less
+found in reality is just enforcing people to be more and more polarized and less open to the other
+perspectives right now what exactly that looks like i don't know maybe you could come up like a bell
+and there's just like a little dip in the middle you know i don't know but um yes i agree with
+obviously the idea that there's few people at the extremes but even if the bell did look like that
+right which to assume it's just a nice simple happy gaussian right um if aoc and warren and
+bernie sanders are extreme liberals as they say that still doesn't define the center to be over
+there the center right still in the middle right yeah it's funny about when you when you talk about
+social media it seems like do you think social media has made it more polarized in the country
+because of like the facebook ai only putting people on the left in their own echo chamber
+and people on the right in their own echo chamber yeah it's a double edged sword right because you
+know the the advertising engine the ai engine is essentially just trying to present you with
+things that you want basically that that's all its goal is things that you're going to click on
+things that you like yeah that's true it yeah i never never thought about it because the facebook
+basically is just a giant advertising machine so yeah you want to they well the funny thing is
+is they know what everybody wants they they know who you are down to your sperm count basically so
+they can target you with whatever they want yeah it's interesting that i don't know it was quite
+that well but uh it's it's true that they know probably more than we would be comfortable with
+but it's not like it's not like um if you went and uh looked at uh jeep or something and then you
+go to facebook and then suddenly you get advertisements for jeeps or something it's like oh my gosh it's
+like reading my mind and i don't understand what's going that's not what's going on it's just simply
+observing your behavior and things that you might or might not like and then just trying to present
+things to you that are consistent with the things that you normally do right you know it isn't it
+isn't super super terrifying in that regard in fact i personally kind of appreciate it i i hate
+really boring obnoxious ads that have not like tampons or something like that that's not me bro like
+you know we got this thing going on that i'm not a part of that and another thing with social media
+is that um is communication people on social media like if you ever go to the comment section
+anywhere youtube facebook super respectful twitter they're really respectful i love that and they're
+and they're very vulnerable they're not ten foot tall and bulletproof yeah they all want to find
+truth and they don't want to convince you of their ideas exactly encouraging
+so how is that going to fuck with people in the long run when when exactly this problem we have
+now right so when people like if you read the comments on on most youtube videos it's just
+it's a cesspool of of people of spewing hatred basically and those people could never do that
+in reality they could never walk down the street or go to publics and talk to somebody like that
+and when the line gets blurred between reality and technology what's going to happen with communication
+so as you know i am a big fan of communication i really appreciate all of those things but we
+have to sort of put this into the big perspective right so our ability to communicate and interact
+with others has been finally honed over hundreds and thousands of years in earth on this planet
+and subjected to the environment and the climate and the animals and this situation that we're in
+right so for example um you know maybe i'm young and i'm growing up and i'm like experimenting with
+social interactions and i walk up and i go dany you're fat and then and then you go and you make
+like a sad face and then i'm like oh that doesn't feel good inside i don't i don't like that i just
+made you feel that way right and then you start learning and under hopefully if you're a well
+functioning human and you start like learning what you know what works what's good what doesn't
+work in society and you sort of you get the feedback from the person that you're communicating right
+that's how communication evolved right and the problem is is that um with technology advancing
+at the rate that it is our ability to communicate sort of biologically and evolution evolutionarily
+if you will um it hasn't been able to keep up with the rate that technology has been increasing
+so we're all communicating at this new level at this paradigm that we weren't we weren't uh
+developed if you will or we didn't we weren't uh we didn't come about to be able to harness or access
+to its full potential and yeah it's got a lot of problems and you're speaking about one particular
+one which in my opinion is one of the worst ones but yeah you just we need to take this individual
+responsibility to be more interested in truth than just feeling good and finding our own ideas
+and hearing more about our own ideas we need to say rather than just finding things that reaffirm
+my idea i'm gonna consistently try and prove my ideas wrong so that i know they're more true
+like the more you can't prove your ideas wrong the better they are that's hard to do that's hard
+it's not easy to do that it's not an easy way to think it's not at all so how do you convince
+people to think that way lead by example i mean um i you know it was kind of my hope when i was just
+thinking about this that maybe for whatever reason we'd stumble upon something that we disagreed about
+and then through just an open respectful discourse one of us might be able to find a deeper truth
+and then just sort of admit it and then be like wow that was awesome all right education oh
+shit all right i just cursed on the internet oh man we're live too i can't take that back
+so what what what do you think about what's your stance on education if i want to grow up
+my kid i'm about to have a kid any any minute now and he's gonna grow up and
+my let's go back my parents always force it down my throat that i had to go to college
+and figure out what i wanted to do with my life and that's how i would
+develop a career and make money and live the american dream because they shoved it down my
+throat so hard it it made me rebel and not want to do it for some instinctual some weird reason
+i always wanted to do the opposite of what they what they told me or whatever they thought was
+true with it what they thought was right i always want to do the opposite so i don't know if that's
+true with everybody but it made me not want to go to college um long story short i did end up going
+to like a community college for a year and a half and i dropped out so if you think college is the
+right thing my first argument would be look at some of the most successful happiest people on the
+planet and they didn't go to college they were self-taught in what they did and not not all but
+but a lot you're talking about entrepreneurs they were self-taught extremely passionate about what
+they did whether it was art whether it was business um whether it was doing shit like this like
+podcasts or or making movies um they just found their own way and forged their own path to doing
+what they wanted to do whether it be sneaking into the industry and working for free or like
+Spielberg's sneaking onto a movie set and just pretended like he worked there pretend like he's
+been there the whole time and just keep doing it and keep learning and keep meeting new people
+and working his way up to being one of the most successful people in that field all right
+let's pause dan is a lot a lot wrong with your arguments there okay so firstly you started off
+with a description about your family and the things that your family were telling you about
+education which is that might be relevant right it is completely irrelevant to an argument about
+education although i care about your family i'm interested to know what's important to you but
+as someone trying to share logical arguments if you're trying to say something towards four
+or against education that wasn't a relevant point but an interesting precursor if you will
+secondly um your argument about the well-being of of humans and their livelihood with or without
+education still isn't actually an argument for or against education in and of itself wait wait
+say that say that one more time so the livelihood of a human being in their happiness being independent
+of education isn't really an argument either for or against education in and of itself i mean
+what you what you might be having an argument more about is sort of the structure of society or the
+the societal society's perspective on education perhaps it seems like what you have more of an
+issue with rather than education in and of itself okay or do you have problem with the institution
+of education where maybe the ideology behind what college should be isn't what's actually happening
+i also have a problem with that great so we could have an argument aimed at some of those points
+perhaps um well what are we having an argument i'm i i i education you brought it up in general
+education i think i think the problem is is it lines the bank's money with pocket for people
+going into debt to get student loans to waste four years of their lives just to come out of
+college and not be able to get a job and what they supposedly spent four years doing and that's what i
+see with a majority of the people i'm around and meet every day um that's one part of it with the
+institution i think it's fucked um for more for lack of a better term um that's the academic term
+yeah that's the academic term um so i guess we got to get back to what is what is the actual argument
+right your contention is with the institution itself you think that education has an objective
+and it is not accomplishing it and if i think about it i kind of use that i kind of do use that
+examples of people who have achieved massive success without college as kind of a
+a reinforcing premise to that a couple of things to just keep in mind although i don't know your
+experience people frequently do that all the time to like well look at bill gates right exactly yeah
+i clearly don't need to go to high school or college right right so the problem there is
+you have a sample size of one okay and there's hundreds and millions of people right and so you
+can't draw a conclusion about everybody on average with a sample size of one okay okay so that's just
+not that's not good statistics in general right um secondly i would say to you i'm not sure how many
+of these people that you've been looking at about their livelihood and happiness and well-being but
+just make sure that you're also doing some quick statistical analysis behind you're not doing what's
+called um um this is one of the biases that you were talking about uh confirmation bias confirmation
+where you're just looking for things that reaffirm your own ideas already because be honest with
+yourself how many people out there are actually miserable without education i'm not saying that
+there are some or are not some i'm just saying make sure that you weigh both sides of this coming
+to your conclusion right and then the second uh part is essentially about the institution itself
+so yeah i completely agree with you i hate it it's it's a pain in the ass um however however
+so it's totally true that the institution has been sort of flipped around to where people
+have to pay too much for skills that they're that aren't very useful but there's there's
+more to it than just that it isn't only a fault of the education it's actually a fault of the
+society right in my opinion as an as an educator who's taught classes and universities and been
+in front of people the students come into the classroom with this with this position
+that it's my responsibility that they learn right and so they just sort of like sit there
+and they're like okay cram knowledge in my cram knowledge in my brain i don't want to be here
+but this is where i'm supposed to be so now make it worth my time and the problem is is that that
+entitled perspective yeah it's just not at all how knowledge works you you can't learn something by
+just osmosis right you learn by doing right you need to actually go home and do homework you need
+to do the problems my job is not to make you learn my job is to facilitate your journey through
+learning and advise you and guide you to not make the pit falls in the mistakes that other people
+but it's an individual journey you have an individual responsibility to want to learn you
+got to be hungry for knowledge you got to read these books you got to be interested in figuring
+these problems out and if you're not then don't go to college it's not it's not the people's
+responsibility to motivate you that's not what college is for colleges and a place for education
+not a motivational institution okay and why are these entitled kids there well because that's
+that's the american culture right so if you think like a really parents told them they gave them an
+ultimatum you have to go to college but it's not their fault entirely right look at the structure
+of america over the years that was how it worked right before the advent of the internet if you
+went up to a job and you said you should hire me they're gonna go why and you go because here's
+a piece of paper that says that i did these things for four years which means that i am
+certified to do these things for you right right but nowadays with the advent of the internet
+just a danie jones can just start making youtube videos and showing his skills without any sort of
+education and people like i don't care what your education is you can clearly already do what i
+want you you can already do what i need you to do so you're you're hired same thing with coding
+and programming right google hires people straight out of high school they don't care if you have an
+education if you can do it then they need you to do it that's how the industry works right
+college is essentially like an institution for higher learning it is the pursuit of advancing
+the frontier of humans human knowledge that's what it was initially designed to be it was like an
+academic institution where people came together to just philosophize about the things that just
+make humans break into the future teleportation these big dreaming things right and it slowly
+turned into like this job factory where you can't get a job without a piece of paper and then the
+parents from you know the 50s 60s 70s that was what they were raised with and what they thought so
+then they start pounding that down the throats of their children but suddenly the society and the
+culture has been changing such that these things aren't really useful anymore a because technologies
+change things and two because the culture of the students themselves is changing such that
+the standards in the universities have to keep dropping or else all the students will just
+keep failing because they're not really trying as much anymore and in general there are some
+really great students and i have a i'm encouraged by a lot of them and they're they make teaching
+worth it for me completely yeah um but yeah so there's there's a lot of problems there but it's
+it's deep right so your initial qualm if i recall was essentially that the institution itself is
+making the american uh economic situation just worse basically the next generation of people
+are going to come out with debt and no skills that are marketable or valuable right right exactly
+and then somebody wants to like point fingers and say whose fault is it or we can say how can we
+fix it we make education free so they're not in debt well that's not going to help if there's
+somewhat getting any value from the education because the standards are too low or you know
+there's all kinds of possible explanations or solutions each with pros and cons and those pros
+and cons are determined by your internal value system and everybody's got different ones right so
+what do you think about free education or making like a universal education like a certain like a
+like a certain whether it's a certain level you can get for free in the country that's a good one
+that's that is one which i am probably most uncertain on right because most of what i i
+believe that i know from reading observation and and the studies that i've learned from economics
+is people value what they pay for and that value makes other people want to make it more valuable
+by increasing its quality and this is just a virtuous circle where the things that people
+pay for get better and improved because people want money so that they can live and do their things
+that they want so they make things more valuable that people are willing to pay more for and so
+on and so forth right so the quality of education um can be influenced very strongly by how much
+resources or utility goes into the system itself right but then again we have a sort of a cultural
+responsibility to ensure that people get educated and what if you don't have a lot of money right
+so then what do we do about them well you say oh too bad maybe you might say that well the problem
+with that is now what are they gonna do they're just gonna become a drain on society and doing
+food stamps and being homeless and then you're gonna complain about homeless people and people
+taking food stamps but they're only that way because they couldn't get access to education
+because you know see you see what I mean so it's it's not again it's not as simple as people
+think it is right and if you want to learn anything you can go on the internet I mean
+to an extent and learn it more than to an extent it's baffling man I mean I learned how to I
+fucking put his shoulder back into place this weekend by looking up a youtube video dude the
+so my advisor and I you know we we talk about this frequently we believe I became a doctor this
+weekend dude sorry to interrupt no you pretty much can like there's an entire neuroscience
+course from duke university from this awesome professor something white and he's just got
+hours and hours of videos of him just like cutting open brains and explaining to you just
+everything you need to know about the human brain basically the entire first year of medical school
+you can just sit at home and just watch for the hell of it right I mean hey are you kidding me
+like all right so anyone who wants it can get it yeah exactly why aren't more people getting
+Danny why aren't more people getting it Danny it's a good question because you have to have
+that piece of paper to be if you want to go operate on somebody you have to have that
+how many years do you need to do that to be a neurosurgeon yeah that's true for neurosurgery
+in particular though we that's a separate argument because I personally would be pretty happy that
+whoever's cutting my brain open has jumped through their hoops and you too baby I got I got this
+but what about uh you know fixing phones for example right how do you get certified to do
+that don't you don't do you can you I don't know that's a question for Rafa all right he teaches
+he fixes phones and he makes youtube videos on how to do it and people can watch well where did
+you learn how to do it yeah super good right and then he just makes the video so other people see
+that he can do it right and then he reads resources and learns more about it well I mean you do
+require skills that aren't necessarily trivial or easy to obtain to do it right you got to learn
+some basics in programming basic hardware some basic soldering stuff yeah see so plus you got
+expensive equipment and two you got to pay for right no okay yeah and here's the thing internet
+go find a course on Coursera or edX or Udemy or any one of Julie or whatever any one of the million
+websites that give you free courses and find one about mobile phones and I promise you I don't
+promise you but I bet you probabilistically speaking five bucks that you'll find one email me if you
+can't find it five bucks so seriously I mean it's it's out there so the question is that you said
+why aren't more people doing it and it's the same reason that they're not trying in the classroom
+when I'm up there like doing a song and dance just trying to get them excited doing backflips off
+of desks like hey love mathematics check out this integral how cool is this and I want to go to the
+club on Thursday and see that cute boy yeah that's fine but can you just learn some math first
+but another thing about another thing about um the internet and technology and learning is like
+just like like these podcasts have blown up and there's a podcast about every single niche
+so you can find this and literally find dozens and dozens of episodes of hour-long conversations
+like this about anything and it's become hard to navigate to because I mean a lot of stuff's free
+like this is free obviously people need to pay to watch this but there's a lot of people online
+who who quote themselves as gurus in certain fields or certain uh subjects and they will pay you
+and they'll they'll charge you for their content so it's become harder to navigate to find the
+kind of content that you can trust to learn from that's super true because it's flawed yeah as they
+say half of knowledge is knowing where to find it yeah oh I like that half of knowledge is knowing
+where to find it I'll tell you I can't tell you how often when I'm doing my research at my desk
+I flip around and I've got a bookshelf full of dozens of textbooks like stupid textbooks that
+I've worked through over the years and I don't remember exactly the formula for whatever the
+Lagrange interpolation or whatever thing that I need off of the top of my head but I know where
+it's at and I know how it works and I know what it's used for so when I'm doing research and then
+suddenly I'm like oh I need to to do this to find that oh well if I can interpolate through these
+points okay how do I do this oh my numerical analysis book I get it I flip it out I find it
+program up the algorithm and I'm done and I can move on right okay but the point there is as you
+were saying is there's so many textbooks out there you can go on Amazon there's just hundreds
+thousands millions of books which ones should you use and maybe that is an argument for some
+form of a formal education just to meet the people who can guide you in enough but see that's not
+really formal education that's just mentorship which is something that I strongly agree with and
+even at Newside the company that we have in Newside Labs most of the people who come in
+to Newside Labs they're interns and they don't even have these are some of like the best students
+at FSU you know I take only the best of the best like straight A students I ask them like hard math
+questions or interview questions before they even come in and they still don't know anything even
+remotely close to get started with machine learning because it requires demanding a knowledge of
+probability theory mathematics programming data engineering and back-end cloud server side stuff
+where do you get that in a university setting you don't you take biology and chemistry and you
+know mathematics right so the question is where do you acquire the useful skills right and so for
+me this internship opportunity was for me to get these students in here who have potential who work
+hard who want to learn and then I know where they can find the resources because I've done it and I
+do it and so while they're there working with me I go okay well you're trying to solve this problem
+I'll solve this work through this tutorial and then come back and I'm gonna and grill you to make
+sure that you've learned this and then once you know you know we'll work on it together to demonstrate
+they've got the hard work rather than the students who come in and go teach me to learn I want to
+know that I want to know that they are hungry for knowledge that they're gonna read and learn what I
+tell them to read and learn that is how that mentorship educate apprenticeship like education
+cycle should be structured in in my opinion because that's what works for us and they find it very
+valuable and you only take interns from the college like students of the college's interns or could
+you take anybody I'll walk in there and want to be your intern would you do I'll take anybody yeah I
+mean I have I have basic criteria I asked like a couple of questions I mean honestly the main
+criteria that I have for people that I accept is I just need to know that they want to learn
+they have an open mind and they're creative everything else I can more or less teach you I
+can give you the resources necessary to do it and as long as you're working hard on your own
+reading and going through the material we'll get where we need to go but the thing that you need
+is the desire to find that truth just like when it comes to arguing and discussing yeah if I'm
+more interested in you giving me the knowledge or me just telling you what I think rather than
+just like a genuine intellectual honesty like let's just find out what the truth is your feelings my
+feelings who cares bro let's just learn it right yeah once we get there we'll start making some
+progress so yeah my fiance now we're just talking on the way here actually she was she watched some
+movie about gender issues right about the transgender this guy wanted to be a woman and
+then he went got the surgery and it was like how it works and going through this whole thing
+and then she now we're just like going back and forth about the pros and the cons and
+whether it's good whether it's bad and how people think about it and then in the end we ended up
+sort of agreeing that the only way it's going to get better is when people are just more interested
+in understanding how things work rather than just sort of espousing their ideas and we're like well
+you know we can either fix that problem like fix racism or just fix its symptoms and we're like
+well you can't just fix racism so let's fix the symptoms and it's exactly what you're saying right
+now you're like well yeah we're trying to fix the symptoms but the the real source of the problem
+is the fact that people just aren't interested in finding the truth and so you say how do we fix it
+and what she and I said in that moment was this podcast just talking about it just making people
+just making people aware of it and she was really excited that I was coming here to talk about this
+stuff because hopefully some people are gonna watch this and then you know what maybe maybe
+that's true and yeah maybe they'll do a little more reading and try and find some resources to
+deepen their knowledge about the things that they actually think just question what it is that you
+believe and why you believe it you know make sure you can prove to yourself beyond a shadow of a doubt
+that you believe it keep trying to prove it wrong always and then if you prove it wrong be willing
+to let it go right and then find something that's new and more consistent with reality do you think
+there uh do you think there is any kind of solution to something like racism so people come over I
+have a dog his name is hero he's Nikita and he's awesome and he's he's what he's awesome Nikita oh Akita
+Akita Akita let's have a dog yeah it's a Japanese it's an American he's a Japanese dog well Japanese
+mixed with Mastiff and German Shepherd and he's everybody loves him I take him to the park I take
+him to get is he was voted like pet of the month in Tallahassee he's like a little samurai soldier
+badass dude he's just awesome and people frequently ask me you know uh how did you train him so well
+etc why how was he so well behaved and obviously some of it I was just lucky because he has just
+a disposition that's amenable and easy to to train but one in particular question is when they come
+over and I like a big open layout and I have company and I'm entertaining guests maybe I'm cooking or
+something or I drop like chicken on the floor yeah and he's just like sleeping in the kitchen
+or in in the living room just like totally oblivious like how did you teach him not to beg
+and they're just like blowing away like it's just so nice not having him sitting there just like
+begging all the time how'd you teach him that and I go I never taught him not to beg I never taught
+him to beg right like what am I talking about well the issue is is that when I'm sitting down the
+kitchen and my dog is like walking by and I see this like all he'd like that well I just want to
+make him happy you know come your spot and then you just like give him a little treat right there
+and this dog's like oh so when you're in here you doing this then that means I can get food this
+this is a thing okay and now every time you're in there cooking they're like oh they're in is this
+food thing gonna happen again maybe if I just sit here I'll get some food and then you see me
+like oh look at those eyes and then you give him a treat and and now he just keeps coming back and
+suddenly he's like this is a thing like I come here and I get this food I love this thing let's do
+this thing more and so your this relates in my opinion to the idea of racism because how do you
+fix racism well you never teach it in the first place that's how you fix it okay you just it's
+it should be a thing that in the ideal dream world there should be no black history month white
+history month because all you're doing is reminding them of a thing that we should never hit even be
+discussed in the first place like it shouldn't even be an intellectual consideration in the ideal
+world like the idea that they could ever even be unequal should just be preposterous you're just
+like well I don't understand how that it was ever a thing and just reminding them to think about it
+is giving the option the unnecessary option for one or two crazy people to take it off and make
+unnecessary things happen so right and it's become so bad that there's people that are
+for example white who hate other white people because of the you know like like antifa like the
+far far far left people when you think everybody else is so racist and you have to fix the problem
+so you have to go to this you know extreme level to wear a mask and march on the street and beat
+the shit out of people because they're white and you're also white I think the where I see that
+for example is like let's just imagine we've got a meter here of equality if we will and it's sort
+of swinging back and forth for whatever reason and let's say it's sitting over here in the middle
+would be this nice happy equality and we're sitting way over here where things are pretty much
+unequal right and everybody's like most people we got to do something about this this just isn't
+the way things should be so how do we make it better should be should be yeah I have an interesting
+little quote that I'm learning to adopt more and I it is my quote is there is no should there is only
+could hmm yeah so um but so here we are and here's this arrow and so people are saying it should
+be closer to the middle is what a lot of people say and the problem in my opinion is that people
+justify anything that moves the arrow in the opposite direction as being okay
+but there are clearly examples where it goes well past the equality and all the way to the other side
+right and so they misunderstand that I mean I can give an obvious extreme example you know so one
+of the things we talked about last time was when you're trying to understand new ideas push them to
+zero and push them to infinity to see when they break so you understand the constraints of your
+idea because nothing is perfect so what's this idea well let's say gender inequality okay well
+you know a good way to make sure that women are treated better well I don't just get rid of all the
+men okay right and it's a clearly obnoxious example but it just demonstrates how maybe the needle's
+too far over here and yes what this thing would do is move it towards equality because there would
+be no more men women would just be optimal it moved in the opposite direction but it went so far
+that there were just no more men right so that I think is sort of the source of this like antifa
+thing you see that happening a lot where people feel very and I've spoken with a lot of these people
+and have you yeah and it's sad man people that are associate with antifa not antifa in particular
+excuse me I just meant the these people who are who see the arrow going in the other direction like
+no matter how far it goes it's justified okay they're not like intentionally evil or malicious
+or anything they just feel really violated just oppressed they just feel really unjustly treated
+and they they just want they want to find happiness they want to find contentment they want to belong
+they want to feel like they have opportunities to thrive and succeed okay and so those feelings
+they're neither right nor wrong they're just a thing that we all have and they should be respected
+because everybody has those in fact I would die for their right to have them because I enjoy the
+privilege of having them myself and I think we should all be able to have them right so
+and so when you see sort of where it's coming from it's hard to sort of argue against it when
+you're there and you're feeling it you know we talk about those three things the emotional
+arguments are very persuasive you know we're humans these things sway us strongly and so you see
+you know here's this here's this little gauge and anything that moves it in the other direction
+you know seems pretty justified and it's hard to find that line between where it's okay to do this
+but now we've gone too far let's pass a law that makes us have to hire all the same people that's
+fine let's pass a law that says we have to pay them more than that we paid other people to
+justify and give them reparations for past treatment or something maybe we're going a little too far
+because now they need a little swing in the opposite direction and then we might get the
+reverse problem which may or may not be justified depending on who you ask right so it gets it's
+pretty hairy yeah that's that's fucking almost impossible to navigate depending on depending
+on the issue that you're talking about my solution once again is always the same thing man like if
+we are just more interested in finding the truth of these things and rather than being right and
+convincing others of our own ideas you know these antifa people wouldn't need to go fight and be
+revolutionaries if the people they were fighting were interested in hearing their ideas and cared
+about what they cared about and wanted to try and find some equal ground where everybody was happy
+there was this mutual respect this mutual understanding yeah it's an ideal world like a little utopia
+thing but i don't think it's as outlandish as it seems all it takes is just everyone takes a little
+individual responsibility over time over a couple of generations and then suddenly you find that our
+culture and community is just much more intrinsically tolerant that's what education should be for
+we just teach people to be tolerant i agree and it's easy to be tolerant when you've been subjected
+to many different things which is why oftentimes the university crowd are particularly more liberal
+because they go to a university where there's all kinds of races and genders and they're young
+enough to still be impressionable and so they're not firm in their convictions and suddenly now
+they're surrounded by all different kinds of people and everyone is nice all their friends are nice
+and it's just simply different so right you're raised in this environment and so you're just
+intrinsically tolerant because that's just the way it was and so thinking seeing anything otherwise
+is just baffling right yeah why would this why would i know these people these people are great
+people why do you hate these people right yeah the scary thing also about things like antifa is that
+it's just kind of it's like instigating the same thing on the complete other end of the spectrum
+you know what i mean it's almost like come on bring it on you know what i mean like like those
+people just the fact that they exist and what they're doing almost kind of like inspires that to
+happen on the far opposite end and that's terrifying what would you do about it danie i don't know
+what i would do nathan i'm just a i'm just a dummy who asks questions chain what would you do about
+this about what antifa i don't even know what antifa good for you man like i'm yeah i envy that
+yeah honestly yeah just work he just ate he just ate like how many milligrams was that cookie you ate
+it's like 20 30 is that a lot no no i like cookies yeah fall had some
+just talking yeah i have also to talk a i what can we talk about a i all right so
+all right listen everybody machine learning is not artificial intelligence we are nowhere close
+to artificial intelligence these things that you see that are very impressive that can do
+allegedly human level things better than humans are just glorified calculators guess guess what else
+they can do better than humans multiply numbers together we've never been scared of our calculators
+there's no reason to be a scared of machine learning because the algorithm that's able to
+identify certain scribbles and pixels as being a letter isn't going to suddenly
+walk outside and learn to play basketball and then feel subjected or subject they feel like
+oppressed by your government or how you treated them and then turn around and do your taxes for
+you right so that's not going to happen artificial intelligence is at least the general AI as we
+like to call it our human level artificial intelligence we are so far away from that that's
+not going to be happening anytime soon how far away is that yeah yeah sorry so to be precise
+what what it really means is we have no idea how to even do it so theoretically it could be
+next year if some you know landmark paper and some crazy guy in a garage comes out with some
+things that some new ideas that we've never thought of right the could be as soon as that
+what i mean though is that there's no like slowly building body of knowledge that we've been observing
+over time or we can now make a reasonable prediction about the future like we're getting
+better and better at this we have no idea it seems like there's one just like one
+missing piece to it because it's like we're building the brain like google's the brain
+google is like collective consciousness of everybody on the earth right like all the
+questions that people ask all these podcasts all this information input that's going into this
+google brain it's almost like there's just one little button that needs to be pushed to turn
+into a fucking not at all man and here's why it's right is because you have all of this data there
+right nobody knows what the hell to do with it right so with all of this data what they do is
+they go okay let's write this algorithm that you know how to make money with it they know how to
+do that very well they say let's let's take all this data and all these videos and let's pass
+them through this neural network so that we can identify the collection of pixels that resemble
+a cat okay that's not artificial intelligence that's just object recognition right all right
+or you know there are some research avenues which are a bit more promising than others like
+reinforcement learning which is this idea that rather than just giving some clear objective
+function and then training some network to do this one task really well what you do is you
+basically say here go do this thing and I'm going to reward you when you do it well or discourage
+you when you don't do it well whatever it is and it'll learn what it should do based on the rewards
+that you give it over time and the reinforcements that you give it over time that's the field of
+reinforcement learning but even that you know that's been around for a while but even that isn't
+doing particularly well so for example there's a lot of really interesting things that have
+happened so let's say that you create a spider robot and you give it a reinforcement learning
+algorithm that says I want you to um eat humans that's an undesirable one but terrifying one
+yeah thankfully these spiders were just in a simulation on a computer so they weren't real
+oh so yeah maybe we can give them that I thought you were talking about like an actual one
+like giant metal spider or something that'd be pretty gnarly yeah yeah so these are these are
+little simulated robots in like a little simulation environment you basically say I want you to travel
+as far as you can by minimizing the amount of time that your little feet hit the ground
+what do you think it's going to learn to do like what sort of behavior does it learn to do
+well what it learned to do was to flip over on its back and like walk on its little elbows
+it minimized the time it achieved zero time wow right so this is the another one so you can say
+for example there's a robotic arm and they wanted to teach it to like stack blocks so they basically
+said okay I'm going to reward you so when you pick up this block I'm going to reward you by how far
+away the bottom of this block is from the ground and so it can learn to like maybe just stack things
+that was like like this fundamental idea if we just give it this this notion so what did it learn to
+do it just learned to flip all the blocks over because the bottom of the blocks were a the the
+width of the block away and then you add all of those up for all the blocks that's a pretty big
+number right right right right wow right so this is the idea that even reinforcement learning like
+when you give it an objective or you give it this like esoteric goal that you'd like to reinforce
+it for you have no idea what it's going to learn to do and oftentimes these things are
+relatively creative you know so you might call this like creativity well creativity then is just
+some local minimum some objective cost function that achieves an unexpected result you know that's
+that's really all it is but that's fine so be it what is creativity can you teach an AI or a robot
+creativity well that that's essentially what it is right so if you give it an objective here's
+this cost function and you constrain its ability to solve this problem and it still solves it right
+that's basically creativity that is creativity which is flipping over on your elbows and walking
+around or flipping these blocks over it's like a way that we wouldn't have thought about solving this
+problem holy shit but that's not impressive because it didn't demonstrate any like superior
+intelligence to be clever about this all it did is just found a local minimum some which is what
+it would have done anyways if you didn't constrain it so much literally all it's doing is just finding
+a minima all right so what do I mean by that you know what I'm saying what I mean by that
+here's the cost function and if you're over here it costs more and if you're over here it costs
+more and so you want to find the set of parameters that bring you down here yeah yeah okay so that's
+that's basically what that means and everything in machine learning is just minimizing cost functions
+and it's just really big computers really big data sets and you're just minimizing a cost function
+to do really cool things but it's not intelligence it's not artificial intelligence it's just a
+calculator it's a really big fancy super expensive calculator right for now for now and what would
+turn that calculator into a giant killing machine that would threaten humanity like what would it
+take like how far away is a threat like that like legitimately everyone everyone has a different
+opinion on it like Elon Musk always says that you know it's a huge threat we need to start putting
+regulations in place now for companies like Boston what is it called Boston Robotics or uh yeah you
+know companies like that like he's like super terrified he makes it seem like it's we're right
+on the horizon of something like that as the other people who don't yeah all right so whether
+his concerns are justified or not in as much as like assume ai does exist perhaps what he's
+saying is pretty reasonable right you know we do want to make sure that if we're gonna do this thing
+we do it wisely we do it intelligently we understand the problem we consider it enough
+into the future and its consequences and everything to regulate it in a reasonable way
+but he doesn't do research in the field and he's he doesn't this isn't his thing we're nowhere near
+as close to it as he says or thinks we are right okay so um and this isn't I mean you can trust me
+if you want or you can just go read all the research papers that have been published at like
+the past three leading conferences and machine learning and they're all doing the same thing
+I got 0.1 percent more improvement in this MNIST dataset or I just did a super big jumbo buy
+GAN network I connected three generative adversarial networks and it's not it's not artificial
+intelligence it's mostly just pushing forward incrementally in like a little rabbit hole of
+optimization that isn't what true artificial intelligence is really about okay right so
+basically you're saying how far away are we from it well what I would say to that is
+if we're following the route that we are going it's nowhere in the foreseeable future right
+because this isn't the way that we're going to get to these things in general we need to break
+through like a completely new approach to how to go about solving this what kind of approach would
+that be in your that's my research and that's what I'm interested in right so that's what I work on
+so the way that I describe it is as follows right so artificial neural networks currently
+machine learning the thing that everybody calls AI is you have a big box call it your neural
+network okay who cares how it works and you have this cost function this objective this thing you're
+trying to tell it to do label cats better so basically a goal a goal right and so all you do is
+you give it a thing this thing that you'd like it to behave on and then you measure how well it
+behaved and then you say okay well you didn't do that well so what I'm going to do is I'm going to
+update all of the the I'm going to update the neural network such that the next time I present
+the same thing to you you do this job better okay that's machine learning in a nutshell okay okay
+the problem it's getting better every time yes but what you do is you say here's an objective
+here's this thing and get better at doing this over time this that's machine learning in a nutshell
+the problem is this is top down okay so what this means is that we have defined this objective
+function for the neural network and then we're trying to get it to learn to do this task that
+we want it to do that's not how intelligence came about right our intelligence is self-organizing
+and emergent we our intelligence is bottom up we have a bunch of little neurons that are just
+randomly presented with some stimulus from the environment photons waves pressure waves coming
+and bending the little hairs in our ears electromagnetic fields etc and it comes into our
+nervous system and our neurons at the bottom level just slowly start adapting to process and
+identify this input right and so they're sort of self-organizing in the sense that the updates
+that they have at this level are local and then over time as you keep presenting more and more
+information these things start combining hierarchically until what we call intelligence this
+sort of behavior which a couple of things that we classify as being intelligent emerges as a
+property so machine learning is top down I understand we need to be doing bottom up
+and the reason that's really difficult is because we have to let go of being in control
+right so because for what we like to do say here's an objective function do this one thing well
+and the neural network learns to do it and that's fine that's not intelligence which is why we're
+never going to get towards like AI with this what we need to do is say let's get thousands and millions
+of neurons and give them these small little rules and connect them together in some way that allows
+them to adapt and then just present it with information and then it's going to self organize
+into a way that it processes the information that's useful and behaves in a way that allows it to
+survive and do things that we don't really know what it's going to do we have to let go of that
+objective behavior that we're always seeking in science so we're always going to be objective
+about things but I don't think that I mean this is a new why would the human race ever want to do
+that well because we want to understand ourselves at the potential cost of destroying ourselves
+like aren't obviously people are afraid of if we create something bigger more advanced than we are
+we'll just become pets yeah here's the thing I mean that's the thought process right I mean
+that that's what you have to be okay with that if something like that were to happen but that's
+one of infinitely many possible futures what if it comes to be benevolent and loves everyone and
+wants to make our lives better or what if maybe it does subjugate us but saves us from global
+warming and starvation I mean so for example people don't really like the owning of animals
+and they say oh well you shouldn't own animals or pets let them live out in the wild maybe that's
+the case but if their argument is because they're happier out there that's not as obvious anymore
+I mean my dog is pretty happy I treat him well we exercise all the time he loves people he gets
+scratches he would never receive anywhere near that much just fulfillment out in nature right
+is that good or is it bad I don't know maybe he didn't have the opportunity and we shouldn't
+have taken it away from him I don't know that's an argument I'm but if it comes to pure happiness
+he's pretty happy so what if these AI come about and they're super intelligent and they treat us
+like little pets and they just keep us in little palaces where we have infinite food and happiness
+and we can just explore and read books and just play music and have sex and just be be merry I don't
+know are you really against that maybe they're they're we're just pets and they're like oh look
+at they're having sex that's cute wow I've never heard of it I've never heard of it described that
+way but here's the thing is what I just proposed is just as plausible as whatever sort of future
+that we imagine right the problem is that they're all equally possible because we have no idea what
+would happen people tend to jump towards the immediately scary things because we have an
+inclination to do that right but we have no evidence to suggest it is by definition beyond
+our ability to understand like how would we dare presume how it would think if it's beyond us in
+our intelligence yeah I mean you know what I mean it's like it's purely speculation at that point
+why immediately jump to the one scary thing out of the infinitely many possible explanations
+why is that the only one that everyone's obsessed with yeah I don't like horror movies my problem
+with horror movies is that they're scary why do people like scary things dude they just they just
+do it's a it's a I don't know anime is awesome too anime is awesome I love anime do you watch
+Trigun yet no I haven't I need to this interview is over what time is it how long we've been on
+this motherfucking interview how long has this been going or fall hour 36 hour 36 hours flying
+through it and that's almost like two hours and something I think that's a good one I don't
+feel satisfied did we cover I think we covered a lot of really really good shit would you get that uh
+that microchip Elon wants to put in your brain god no he has here's the thing man oh the neural
+link listen man go and read the research coming out of that place like look at the papers and the
+things that they're publishing he's like talking about doing human experiments they are so far away
+from being remotely capable of doing what he says that it's capable of doing it's basically a
+publicity stunt there's no research to suggest and here's the thing really okay there's always
+hypothetical scenarios and you can say this is a theoretical approach of how this might be solved
+etc etc but here's the thing right Elon Musk is one person he's hired a couple a couple dozen pretty
+smart um neuroscientist and researchers there's hundreds and thousands of them all over the globe
+all trying to do the same thing so the question is why is it that suddenly he and his guys are
+going to come up with an approach that all of the other people around the whole globe is saying
+isn't really possible right now we know the state of the art we know the technology we're really far
+from being able to do this why is it that we should suddenly believe that just he and his small
+team of people who've put out a few papers that have demonstrated you know maybe some interesting
+ideas but nothing even remotely close to putting a chip in our brain that's going to be able to
+interface with our thoughts and do the things that he's promising right hasn't tried it on anybody
+no i mean they just recently said that he's gonna try human trials
+soon on medical patient or patient patients that need it for medical reasons right i didn't read
+the full article i just read it and then i immediately went to look at the research because
+i was like well he's gonna do this research must have been coming along and i find research like
+this uh go to google scholar i mean that's the best scholar start from okay yeah that's a great
+place to start from um and then usually you go to their websites and then they'll have like blogs
+or have the research section like you go to open ai and then they have their research you go to google
+ai and then they have their whole research section okay and even in uh newside we're actually working
+on a new website right now labs dot newside dot ai where we will start exposing um some of our
+research internally we'll make some blog post sharing some of the things that we've been doing
+okay so that's how you can go to the company and oftentimes they expose their research because
+so why why do you think he he's doing this big publicity stunt about neuro link and being able
+to just to so i mean obviously the the goal of it is just to be able to seamlessly connect with any
+kind of like cellular like like your your phone or your computer with just thinking about it right
+like thinking about sending a text and you can do it or what if you can do it yeah okay so a
+couple things great question firstly um i'm not saying that it is a publicity stunt i'm saying
+that it probably would be given the fact that i am pretty sure that we're not really close to
+being capable of doing these things okay that being said i would never want to discourage somebody
+from trying right so there's a difference between sort of being realistic and then just being oppressive
+and just being a you know a party pooper right so and for all i know maybe he believes that they
+can and he just and maybe it's his sheer believing in the way makes the way mentality that allows
+him to bring these companies about because he just simply believes in the impossible enough
+that he brings people together and makes these crazy things happen and maybe it will and that'd
+be great and exciting however uh statistically speaking at least as far as the technology
+that we're aware and people trying to do these things in the past that's not probable um so and
+what if he does do it yeah if you prove that it worked would you get one would i get one
+yeah that's a that's an interesting question they gotta drill a hole in your skull yeah no i wouldn't
+yeah not yet because that's um it's way too early in the prototype but there'd be mistakes
+and accidents and what you're interfacing with uh i would wait until it became much more well
+established i'd research it much more thoroughly and i could see danny get one i think elon should
+be the first one to do it i like that yeah i mean police officers have to get maced before they can
+mace other people it's only fair yeah right yeah that is only fair he should be the first one to
+do it did you imagine him on on one of those narrow links and it actually worked what is it what
+does it worked means i'm not really even sure elon musk is is running around a fucking you know
+inventing things on ten times the level he is right now you know that'd be crazy you think elon musk
+invents these things he doesn't invent them but he's a huge teams of of researchers and and um
+um people like yourself machine learning experts and uh and scientists and people that are doing
+that i mean he has a whole army of people like that that are trying to i think he just from what
+his interview say he just comes up with simple ideas and then has them execute it like the the
+tunnel idea like he said i hated la traffic all right dig tunnels a couple of things firstly the
+tunnel idea it's not a very good one all right so that's just not really or maybe it's a good idea
+but it is not working in that company the whole like boring thing why why because it was nothing
+that he remotely promised it's like basically a car on a on a it's a train it's a train tunnel
+it's what it is it's it's and i'm not even a very good one right but your car is supposed to sit on
+like a skateboard right and it shoots your car through a tunnel under underneath the city yeah
+that's what he promised isn't it no he feels like this hyper rails hyper loop thing and he had
+no that's different the hyper loop's different right i think the hyper loop is completely different
+than the boat than the than the tunnels well here's the idea in my mind that's kind of ill on
+musk right he's like audio these ideas and they sort of just he says these things and gets money
+and then it sort of like formulates into a thing and then he's really good at getting money right
+yeah so but here's the thing right you just said he comes up with these ideas the simple ideas and
+then gets people together to do it well right good ideas are a dime a dozen like everybody could
+just sit back and just smoke a joint drink a beer be like wouldn't it be cool if we all had chips in
+our brains that let us interface with computers that'd be pretty neat i mean everybody's thought
+of that that isn't an impressive thing what's impressive is the ability to actually carry it
+out having the wherewithal the intelligence the resources the discipline to actually do the
+hard work for years and years and years and carry it out that in my opinion is what deserves respect
+not the people who come up with the ideas but the people who actually make it happen but i mean
+there's also you know the guys like him who who innovate it and make it all happen and bring
+everyone together and organize it all into one place and bring in the money you bring in the
+experts and go on a fucking giant podcast and let everyone know about it so now you have all
+this attention surrounding you and i agree with that you can make it happen i agree with that
+my initial my initial calm was when you said he goes around inventing things right right that was
+when you like watch his podcast he i mean he's like yeah did you watch it yeah what'd you think
+about it i wasn't impressed i i felt like he was a little conceded in almost almost in a uh like
+a trying to convince people away he's like yeah i've got all these ideas it's like constant
+explosions in my brain it's very very it's very hard to explain yeah it's like people don't people
+who are smart don't talk like that like to think about the really intelligent impressive people
+that you've respected they usually don't like tell you how smart they are and try to like
+convince you with these weird descriptions you know yeah i mean wow that was a fucking solid
+hour and 45 minutes nathan i always enjoyed chatting with you guys man that was really cool
+i learned i don't i learned a shitload yeah i feel like i attended a whole class today we
+did good and it's free and everyone can learn if they want they don't have to pay not a dime
+there you go cool man well thanks again and uh hopefully if we'll get you on here again soon
+and enjoy your trip to europe i'm gonna have a blast blast this is gonna be great we're gonna
+climb mount tayday dude it's gonna be great mount what mount tayday it's the highest peak in spain
+really yeah i'm excited damn i brought a i brought a laser pointer for the stars and we're just gonna
+like point out the stars i'm gonna pretend like i know like constellations and try and impress people
+really look look at all these stars over here i could tell them about it but that's like constant
+explosions in my brain it's too difficult for you to understand nathan musk everybody thanks man my
+pleasure cheers

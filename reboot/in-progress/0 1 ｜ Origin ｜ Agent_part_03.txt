@@ -1,0 +1,22 @@
+And I was thinking about zero and one.
+I was thinking about fundamental dichotomies yes and no.
+Although yes is a by itself if you just say yes.
+It's just kind of an app, you know, floating affirmation.
+And if you just say no it's the same it's a floating negation.
+Because without context the tokens don't inherit meaningful character.
+All of our words are like this.
+All of our languages like this.
+It's almost like saying without equations numbers don't have any implicit meaning other than their order in a system.
+So I was thinking about fundamental dichotomies and trying to wrap my mind in a new way around this similar problem of the set of all sets that contain themselves.
+These are sort of philosophical issues in set theory and I'm sure they've been resolved and other people can speak to them vastly more insightfully than me.
+On the one hand we have the set of all sets that include themselves and there's no apparent superficial paradox there.
+But if we go to the negative of that set of all sets that don't include themselves as members now we have a problem.
+And here's why. The superset has to include itself.
+On the positive no standout terrifying issues that I can see maybe theorists have.
+And I'd love to hear about them if so.
+In fact I'd love to hear anything about this from anyone who knows something about it.
+I'm just an amateur armchair adventurer trying to understand strange things.
+But yeah the set of all sets that don't include themselves as members must include itself.
+See the problem with that one recursion there?
+So when we talk about sets that have a relationship with including themselves or not we can be, it's possible for us to be speaking about recursion.
+And base recursion in math is deceptively simplistic in comparison to its origins in nature.

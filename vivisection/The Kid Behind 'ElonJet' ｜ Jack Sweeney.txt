@@ -1,0 +1,380 @@
+Hello. How old are you? 19. You're 19. How the hell is a 19-year-old learn to like do
+all this coding and all this crazy shit tracking jets and all that? How did you get interested
+in this? I had a little bit of coding experience from like school and like you know you could
+like just start looking stuff up and aviation related. I knew about like those flight tracking
+websites and my dad works in the aviation industry and so like I just started during COVID I had a
+lot of free time and I was just looking stuff up and I knew Elon had a jet so I could track him
+and I just started figuring it all out. But what gave you the idea like maybe I should
+track Elon's jet and post it on Twitter? Well I knew he had one and people like knew it was his
+plane but on those like major websites you can't track his plane because there's these rules like
+about that certain planes have to be blocked and like I was like you know I'm interested in like
+Tesla and SpaceX and him on Twitter so I was like why not share it to Twitter? How did you get into
+aviation? Are you you know how to fly planes? No. I just find planes interesting and my dad
+works in aviation. Oh really? Do you ever you live in Orlando so you don't live far from Cape
+Canaveral? Do you ever go over there? Oh yeah yeah for the launches. You do? Have you ever met Elon
+in person? No. What do you think he'd say to you if you actually met him? How do you think that would
+go down? I don't know. I mean he was intrigued like the first like you know he never really got mad
+he just blocked me after the news came out that like he offered me five thousand to take it down.
+He blocked you? Yeah. On all of his Twitter accounts? Yeah. Why do you think you did that?
+Because like all the news came out that he offered the five grand to take it down.
+Oh because you posted the screenshots and stuff? Yeah. Wow. So can you walk me through the process
+of how you actually have so it's a bot you created that posts these tweets whenever his plane takes
+off and is heading somewhere can you explain like the process like technically how does that work?
+So like all planes have transponders and they're like transmitting their like telemetry which is
+like their altitude and their identifier and their speed and the location and there's like different
+well one person can get like can get like a receiver for like a hundred dollars and you
+can receive like all the planes and with like a hundred miles but companies and organizations
+found that if people in different groups around the world they get those they can create a world
+map so I get that data from one company called ADSB exchange and then my program reads that data and
+it looks for the certain planes that I programmed it so for landing and take off and then it'll
+tweet those to the certain Twitter accounts. What is it called ADSB? Exchange. Exchange. It's like
+flight aware and all those but they don't block anything. Is that one of those things that came
+out after 9-11? I mean I think that's why it came out but yeah pretty much because like
+air traffic controllers still like they only use radar really and it's kind of better than that
+because it uses less power and it's just there's easier to acquire signal from the planes and
+there's more data about the planes rather than just radar. What were you thinking when you
+decided to start posting these things and then it's and then Elon met like how did that go about
+when Elon DM'd you or how did he contact you? How did he go about contacting you? Like the first
+message was can you can you take this down it's a security risk. That's it just like 1 a.m. yeah.
+And what did you do you read it and then what were you thinking when you read it you just
+instantly responded to him or what? No I think I I think I didn't open it because I saw a notification
+and it was like so late I was like I just said to my roommate I was like oh my
+yeah. You just told him that Elon just DM'd you but you didn't want to open it because you
+weren't you didn't know what you were going to say? Yeah. So what did you eventually respond to him with?
+Um yeah I think I was like in a jokingly matter yeah I can but uh can you like increase it to 50 or
+whatever or well the whoa that was further down um I can't. You said he said it's a security risk
+and you don't remember what your first response was? No I can't remember but he went on a while
+and he was asking like how it worked and he didn't even know about like ADSB and like he thought I
+was just looking at certain types of planes taking off and he was like no I can just identify it by
+your your planes identifier. By what like the little license thing on the plane? Yeah so like
+the registration number yeah his is uh November 628 Tango Sierra and then that links to like a
+code of the transponder and it doesn't it's always the same. So everyone can track these things?
+Yeah. That's pretty wild I didn't even know that and and then he was uh he was saying how uh after
+that he was like air traffic control is so primitive. He said that to you? Yeah and he said
+what should I do and I told him about this other blocking program which he has now so like the code
+on his plane he can change every 60 days but I just have to find it every 60 days. So you told him
+how he can evade your bot tracker yeah and he's now using that yeah but I mean it's still it's not
+full proof. Right dude that's pretty wild and what did he say so you said can you increase it to 50
+can you add a zero to that make it 50,000? What would you say? He said uh thinking about it and
+then it went on for a while and uh and then you sold them out. A couple messages like yeah there's
+a reporter talking to me about uh something else that was going on in the Tesla community I just
+was talking to them about it and then started spreading everywhere. Really? Yeah. When at what
+point did all these news stations start reaching out to you? When the first article came out and
+then it started going everywhere all over the news and yeah. When did you first create this?
+June 2020. June of 2020 and it and back in December 2020 he actually flew to Hawaii
+and someone quote tweeted my Elon jet tweet and then he responded oh I'm just meeting Larry Ellison
+in Hawaii. Larry Ellison. Which is like uh the CEO of Java or the founder of job wait
+is that right oracle oracle oracle yeah I don't even know what is oracle they make Java oh okay
+and he was like I'm just meeting with them for some advice but he was people were saying he was
+like on vacation and stuff but like back then he didn't seem mad right and I was tracking him
+right and you think that he just blocked you on all of your Twitter accounts because you sold
+out sold him out that he was offering you money yeah and then like you think about like three or
+four weeks ago he unblocked Elon jet probably because like he didn't want to see him like he was
+anti like free speech for like his whole Twitter stuff recently. He only but that he unblocked
+Jack Sweeney your personal account no interesting man what do you think what do you think about
+the whole do you think maybe if you didn't show everybody the screenshots of the DMs maybe you
+could actually made that 50 grand I don't think so because no at some point like before he said
+it didn't feel right to pay to take it down so like that was even before the news came out
+so he didn't feel like it even before then yeah yeah I mean it is funny how he's you know such a
+big free speech advocate now that he's buying Twitter and and he really wants when it when it
+comes to affecting him personally it's obviously he wants that shit taken down yeah it makes
+does it make you wonder like maybe he's buying fucking Twitter to take you out some people say I
+mean it's it'd be crazy but like I don't know maybe there's always a chance yeah who knows yeah I
+always wonder dude I mean a lot of people talk about you know Elon you know he's obviously the
+smartest guy in the fucking world he's done more than anybody he's like a genius when it comes to
+some of the things that he's done and accomplished but you know is it's like is he doing this all
+for just the better you know to better human beings and the better our our evolution as a
+species or is this all just a personal thing to him and he's just like playing it off like he's
+trying to better humanity I mean I think he's trying to do better like you know he wants to
+go to Mars and stuff yeah he's like Teslas and all that did you see the um that documentary on
+Netflix about him starting starting SpaceX isn't that on Disney plus it might be on Disney plus
+I saw it on Netflix I think it just came out recently where it shows like there was two on
+Netflix too that were like the new astronaut uh the spaceflight or whatever I feel I mean I felt
+like my initial thoughts on that was like before I watched that documentary I thought like wow this
+guy is just you know some super genius who wants to go to Mars but then after watching the documentary
+I realized no this guy I mean I this guy is just a fucking entrepreneur who saw a opportunity to
+make a ton of money because they ended the NASA program yeah so without him right now we would
+have still not been going on our own rockets to the space station right but uh Boeing or ULA is
+supposed to be doing it too right now but they're always behind they're like supposed to be doing
+what SpaceX is doing too because Boeing and who ULA who I don't even know either launch alliance
+okay yeah so basically the Boeing and ULA are nowhere near SpaceX well they're having problems
+they launched it once and then it didn't it had like a timer issue and it didn't reach the space
+station oh really wow I mean it's insane how much money he spent you know with the first three rockets
+that blew up and then running out of money and then trying to borrow money to get the last one to go
+and it working I mean the store is fucking mind blowing are you uh are you then um recently
+this morning he was saying stuff about his twitter acquisition Elon he was tweeting yeah what did he
+say this morning he said that uh it's on hold yeah because of like statistics on the bots or spam it's
+only like three percent of users five yeah he said less they said less than five percent yeah
+but what you're doing is a bot see now I don't know if he's talking about like bad bots that he
+wants to get rid of or good bots what kind of bots would he be talking about like here's my crypto
+giveaway here's $5,000 or like under him there's like fake Elon Musk and they're like here's my reward
+to you for being a follower like those are spam bots spam bots yeah okay but are those automatic
+are those like actual humans typing things under fake accounts and like posting them I think a lot
+of those are automated are they really yeah see I don't know like twitter introduced like good bots
+and the automated labels like now I have the automated label on elan jet oh yeah yeah yeah
+twitter knows there's good bots okay so there but there are there are bots that could be a thing but
+does he does he did he make a statement that he wants to get rid of all bots in general see I
+don't know he's never really said he had that TED talk and he was like you know we need to get rid of
+the spam and the bots I don't think it would be a smart move for him to buy twitter and then
+axe you yeah no and there's other bots besides like elan jet that people use on twitter that are good
+like what um I can't think of one right now but like hold up there's one where like you can do
+like I think it's called explain this bot it's like an AI that if you tag it it'll like reply back
+with like a message of what it thinks the tweet above is there's all kinds like cool really
+what are you are you doing anything every day like are you constantly trying to like improve
+this kind of like bot technology that you're doing or find new jets yeah there's always like
+fixes I'm doing like just the other day there was an issue with the map that was being created I fixed
+that but otherwise it's automated what other jets are you tracking
+um the basis one jet basis uh bill gates and then there's I have quite a few celebrity ones
+there's a celebrity account um air force one you can track air force one yeah when they have it on
+which is most of the time really what who else has tried to reach out to you about that about
+oh mark Cuban mark Cuban yeah what did he say to you oh he wanted to take him down which I took
+it down and it was like like he just messaged me that like where well it's been going on for a long
+time but like um it's what you mean he reached out to you a long time yeah and you guys have been
+going back and forth ever since I took it down explain that story how did that start
+like how he messaged me yeah I don't remember how it started but he messaged me
+and what do you say he's pretty much the same thing as Elon just in a different way
+how much money do you offer you none come on man you got you offer me come on we know
+we know nobody cares about his account it's got like a thousand followers mark Cuban
+no the the tracking account of his oh his tracking account got you so it's like he said
+it could come out to a maths game or whatever oh did he yeah then he was like oh you get business
+advice which like I don't really need but whatever I mean who would want business advice from mark
+Cuban yeah so basically he just reached out it was like hey can you take it down and I'll give you
+just some tickets to him I mean I asked for stuff but like he didn't want to give anything yeah
+anybody else no one else has reached out asking you to take it down
+well I mean the Russian oligarch things there's like some lawyers that we're trying to say that
+their jets weren't related to that person but I think they're trying to just hide like they were
+saying that just to hide they were saying that their jets weren't related to that oligarch yeah
+yeah okay yeah just in hopes that I would take it off
+how but okay so maybe you already explained this and I missed it but how do you attach
+a certain oligarch to a certain jet so like it's who it's registered to but what if they don't own
+it a lot of people don't own those jets right well yeah in that case you don't know but these are
+like registered to their companies whatever it's like Elon Musk is registered to Falcon landing
+which is a subsidiary of SpaceX and he's like every even before I started tracking it people
+knew it was his plane so he has a a sub company under SpaceX that owns planes yeah so he has two
+other planes too that like those charter the employees around the SpaceX sites oh okay and
+like I requested the you can request like all the registration documents from the FAA and like
+like it's I got the document and it shows like where Elon Musk signed and everything really yeah
+that's pretty wild dude yeah what um were you tracking weren't you tracking uh Putin's plane
+yeah I mean it it's technically his it's like all the russian state VIP planes so there's
+a chance he's on one of them but yeah it just so there's like a there's like a whole bunch of planes
+whatever that it's a chance kind of like air uh air force one they have the two air force one planes
+which are uh vc-25 there's two of them yeah he's usually the only one that flies on those but he
+also might fly in the other uh 757 planes they have so you don't know which one they're on
+but I just track have them all on that account now what is that can you explain what the ASB
+can you go into more detail on like how that ASB technology works yeah like how did you get a hold
+of that technology so like ADSB oh ADSB yeah yeah so that's what the transponders put out on the plane
+and it's like mandated pretty much across the world now yeah and so it's like it's basically like a
+radio signal like you're receiving your car like FM or AM and like so there's equipment that people
+receive around the world that and then that basically gets combined into one big text file
+and I can receive that file from the companies and then my program can look at that it's like
+it'll be one row in the file where it's like the identifier the speed the altitude the
+longitude and latitude for the location and all that then my program I can tell what to do with
+that okay so your program just like picks out a certain line in their code yeah and then you have
+like a fire of the plane that I want and that and that depending on what that line of code says
+that like automatically fires off a tweet holy shit that's that's ADSB what is this colorful picture
+can you close that little ad that hey dude add on the bottom
+yeah right there a click close on the left oh on the very left I'm sorry top left of the ad
+of the ad box yeah right there sorry I know it's far away so those are all the planes that
+ADSB is tracking currently that's live this is all the fucking dude that's insane how many planes
+are in the sky at one time on top of each other yeah but I mean they're pretty far away it's just that
+you're from zoomed out oh yeah and they're all at different altitudes yeah so the color is altitude
+oh the color you see the bar on the bottom yeah the orange is the lowest the pink is the
+or the purple it's the highest oh okay dude that's pretty wild to see how many freaking planes are
+now is that worldwide or is that only nationwide it's pretty much worldwide wherever there's signal
+from receivers and then there's some people that have satellite dishes and they're receiving
+some stuff from satellites for stuff across the ocean wow look at that dude that's so insane
+when did that when did they start doing this do you know um so I mean like I don't know when
+ADSB first came out but like it all started when the Raspberry Pi came out that miniature computer
+and then people were hooking up those uh SDR receivers they were tuning it to the ADSB frequency
+then it like started with like Flight Aware and Flight Radar 24 and then a couple years about
+go ADSB exchange came out which was not blocking anybody and all those like companies like Flight
+Aware and Flight Radar 24 they have to block stuff because they're also getting data from the FAA
+and they are they have a contract where it says if you're getting data from us you have to block
+these planes that people want blocked so like anybody that owns a plane can tell FAA they don't
+want to show up and they're on the thing called uh LADD limiting aircraft data displayed
+yeah don't you feel like you you could have got like buddy you could I mean you would
+Elon hit you up you could like became buddies with him you could have been like yo Elon let me
+come hang out with you for the day let me come work for you let me uh let me be a programmer at
+SpaceX or Tesla or something like that don't you like I mean didn't you think about that before
+you thought like you kind of had two opportunities you could say no I'm going Elon Jettered or Bust
+or I could you know play the the Elon card and try to become buddy buddy with him
+yeah I mean I don't I don't know if he like wants that with like he he knows hundreds of thousands
+yeah but you got him by the balls yeah you had him by the balls you know you could have you could
+have you could have potentially at least I don't know would you ever want to work for Elon that's
+I mean does that yeah I'd be pretty cool like SpaceX or Tesla wouldn't that be sick yeah
+yeah but maybe you should maybe we should send him a dm from the uh Elon jet account well I
+got a new proposal from you oh because you're not following you or what yeah it still won't let me
+like it'll show the old messages but it's like unavailable to send to send in you're kind of
+like the uh the julian assange of jet of uh private jets uh what is what is the um wasn't
+there some sort of like online community that was sort of like going after you yeah like the
+elon community the tax is it called like elon tax community I heard there's something called
+elon tax oh yeah they're they're being crazy well what's the story with those guys wanting me to take
+it down for like I can't remember what but they were like messaging me all the time they're just
+being nuts you don't remember what they were saying no that was there's been so much news and
+all that yeah hundreds of people contacting me I'm like I don't need to do any deals or anything
+like if I'm gonna do a deal it's gonna be with elon you know yeah well who's contacting you every
+day what kind of people well I mean like news mostly just like local news yeah pretty much
+are you doing every single local no no no you got any big like like companies come like trying
+to sponsor you to do or to hire you or to recruit you or anything like that not anything big
+nothing big no nothing that you're uh that you like want to take and run with
+no so what the hell do you do every day besides I mean obviously you do the interviews and stuff
+yeah um well I have a part time with uber jets uber jets yeah what do you do for them uh software
+stuff oh really yeah that's pretty cool so uber it's like obviously it's uber for jets I didn't
+even know they had that actually I thought I knew it's not the same company though it's a different
+company yeah okay and what kind of what kind of software or engineering and coding are you doing
+with them uh all kinds of stuff tracking and like how their system works with like how they're
+setting up uh flights for customers yeah yeah what what are the uh people at your school think about
+you do they all do they all like they don't know it's me but like they know how they not know they
+don't know like unless I tell them like they know the story but they don't know me really yeah like
+they don't they don't see you on tv every fucking day no that's crazy what about what about your
+teachers no nobody nobody knows so nobody what do you what kind of classes are you in what are you
+going to school for what are you trying to do like what are you before this all happened like what was
+your goal so i you're an it yeah and what like what do you what before this thing blew up and went
+nuclear and was all over the news like what did you think like jack sweeney what do I want to
+do when I graduate college like what's my kind of software and aviation software so this is exactly
+yeah what you wanted to do yeah what is your what does your uh parents say to you what do they say
+to you about all this I think it's pretty cool I guess yeah that's what they say that's pretty cool
+jack you know you're famous now what do they give you any advice um
+I don't know you don't know um it's just all it's just crazy from where it blew up from you know
+it's just like two years ago and then it it slowly was growing and it was just like a 10,000 and then
+80 how many followers does elon jet have right now like 460,000 I think 460,000 yeah
+and how is it growing like significantly every day or is it starting to slow down now or what
+um it blew up again when elon said he was buying twitter oh did it really people make there's people
+writing articles bloomberg and all that and they mention they mention you yeah it's like a potential
+reason that he might be buying twitter yeah they're like um like I I just put out a tweet like oh no
+as a joke then there's like articles on it kid who's tracking uh or teen who's tracking uh elon
+musk reacts to his twitter bid oh no oh that's hilarious man yeah what a crazy what a crazy
+situation what a crazy like thing that you found yourself in yeah ended up I mean it's just did
+you ever expect it to turn into such a media frenzy like this or was it just like I didn't
+expect it to keep going like because I did the russian thing and that blew up too who do you
+want to track next I don't know whoever whoever people want me to because like I saw people
+were requesting the rush rush on ukraine stuff for a while for me and like it just I just kept
+getting requests for it after they knew about me from elon jet and then I did it and then it started
+blowing up and the account grew to like 400 000 too that one the oligarch one yeah really yeah
+so you just read you read all the tweets all the responses and you see like everything but you
+know some of them and I saw a lot of those yeah where the hell is bill gates flying to
+I don't know I don't really pay attention you don't even pay attention you just published
+Seattle probably yeah of course and same thing with Bezos same thing with Bezos yeah
+both of them have two planes oh the funny thing about gates is his tail numbers are like
+uh 18 or 884 WM and 994 WM and that's like or it's 887 WM and so it's William Melinda for the WM
+and they're like divorced now and the dates are like when they were married and engaged or something
+so the numbers are like 18 or 1997 or 1994 something like that's wild it needs to change them now let
+me ask you this can you go back and track previous flight logs oh yeah yeah have you ever thought
+about Epstein's plane oh well there wasn't ADSB back then and like this web's uh ADSB exchange
+only had history to like a year ago they only started logging oh fuck man if you could attract
+Jeffrey Epstein's oh and uh Elon's N628TS 628 is his birthday and T for Tesla and S for SpaceX
+so these guys just pick whatever the hell they want for their for their tail number yeah
+that's pretty fucking wild man that's really cool what do you want to do like what is your
+like what do you want to do next you have any do you want to evolve this into something else or
+do you want more of a website so I'm like limited to twitter yeah like what is ground control like
+how did you come up with that like what do you want to put a name under it and like a good website
+for now it's a definitely a cool name it's a sick name so you want to like have a website or like a
+brand that tracks all these jets it does on the web or do you want to do more of like providing
+software or coding like aviation coding products for probably a website just a website that tracks
+shit yeah so like I need like Elon on the website so it's like it shows it live or whatever like you
+know ADSB exchange it just shows all the planes nobody knows what it is nobody knows like what
+planes they are right they just see all these planes all these planes and you want to be able
+to have like the same thing but like see who's in each plane but that could be like dangerous
+couldn't it I mean I guess like couldn't these guys get like whacked or something or someone like
+it's like a enclosed field at the airport they're at the FBO and so like even for Elon there's a
+head of team that's there like preparing like a head before he even gets there what's that mean
+like before he gets there there's a team with a car like a security team yeah oh I see what you're
+saying yeah and nobody's gonna like shoot down the plane that's just crazy some crazy person might
+you never know dude okay there's like if people wanted to do it they wouldn't need me they could
+figure it out yeah yeah I guess I see what you're saying people if anyone really wanted to do
+something that bad they could go they could go find this technology on their own I mean like
+people like that they're out in the open in like New York like going to the Met Gala and they're on
+the streets exiting if there was like a sighting people could do something too yeah yeah now as
+you say your dad was a pilot or he's just in aviation he's in aviation he is and he's he
+do this like the same kind of thing uh no it's different more mechanic related more okay so he
+like works on planes and stuff more like maintenance control so okay yeah he like he's on the computer
+telling what other he talks to the pilots and all that and to the actual mechanics on what they should
+do this I mean with his background in aviation and all this stuff does it was he at all like dude
+maybe I had the maybe this is a little risky like oh no no no no not at all but it like gave me the
+interest because I knew about the planes and I knew about like the tracking websites because of him
+yeah so you were you were just in you were in the right place at the right time with the right
+family history the right interests yeah to be the first person to do some crazy shit like this yeah
+that's pretty sick yeah man you gotta hit up Elon again yeah if I could you gotta figure out how to
+do it all the funny thing that's uh happened recently is he flew to uh Vancouver for a Ted talk
+and you know there's people that of course work at the airport oh that recent interview that he just
+did yeah okay Ted talk um his plane was there in Vancouver and there's people that worked at the
+airport and they took a picture and they're like Tesla fans or whatever and they tweeted at me and
+I retweeted it and then like Elon's team came to whoever the owner was of whoever worked there
+and they contacted the person that worked there and they're like you got to take this down or
+whatever you can't take pictures and you're like they're threatening to fire him the person told me
+the guy that took a picture of his plane yeah really yeah I mean usually in those contracts
+anyway when you when you work at like an FBO at an airport you're not supposed to take pictures
+anyway oh yeah yeah especially yeah if you're an employee I see what I see how that could be an
+issue but it just shows that they're like watching my account yeah he's got a team watching your
+account right now didn't you say something about like some of the people around him were trying
+to reach out to you to try to convince you to do something so it wasn't him oh yeah yeah so
+there was like uh like big people in the twitter community of like Elon and Tesla and SpaceX
+and they like kept asking me to like take it down even after after he blocked me they kept asking
+me and I felt it was kind of suspicious people DMing you yeah that like I knew who they were but
+so your idea is that he basically contacted these people and said hey convince this guy to take it
+down so he doesn't can't like like sell me out and make it look like I'm trying to do this because
+I'm trying to push this whole freedom of speech thing and I'm trying to buy Twitter and I'm trying
+to look like a good guy now I don't want to look like a guy who's like you know worried about his
+own his own image I mean it was like people it's like probably like a million subscribers or a
+million no I wouldn't say a million followers but they had a big growth and they were like Twitter
+are Tesla people on Twitter have you ever thought about like expanding this stuff this kind of thing
+out outside of Twitter to other platforms like I mean I put it on Facebook and Instagram and
+oh do you really telegram yeah what if you did like a live thing on YouTube would you do that
+like a live YouTube video tracker yeah stream on like a YouTube channel yeah I could do that
+that would be sick yeah you should definitely do that I feel like people like like a website
+though because then it's like more interactive yeah but everyone's always on social media websites
+there they're there already and it's and it's like uh it's easier to spread it because like it's way
+easier to spread it I mean me personally I don't really like going to personal websites like if I
+if somebody if somebody I'm interested in or that it's somebody that's doing something cool if they
+have a website I'm more likely to like watch a YouTube video about them or you know check out
+their Instagram profile that I'm to go to their website that's just me personally yeah but
+um but yeah it's dope that you're doing it on on all those other platforms I think a live
+a live YouTube video would be pretty sick yeah just gotta have a place to stream it 24 now can
+you actually show like a live animation of where the things fly yeah can you really yeah from that
+website yeah do you have merch yeah I do yeah I do do you really yeah what's your website called
+again groundcontrol.com yeah but it's like short version of it it's just not the full words so
+how do you spell it GRND
+wait CRNT
+just google it Jordan you'll find it yeah it's on we gotta pull it up on here I want to see what
+your merch looks like it's uh Elon like Elon jet stuff and it's like I know how high Elon is you
+know he smoked a pot on uh Joe Rogan's podcast yeah I have that picture on there do you really
+yeah on the shirts yeah it's on it's on the or you can put elonjet.net and it'll read direct to it
+okay yeah we gotta get on this
+Elon jet now do you are you gonna are you piping in like the oligarch jets and all that stuff
+into the same website and then you could click store on the top just double click the top bar
+yeah there you go just click store fly exclusive oh you got an ad running on there okay monetizing
+that's good scroll down that's freaking sick
+are a lot of people buying these shirts oh back when the news came out there was like
+some articles that I was making merch then see like everything I did that hoodie I love that hoodie
+yeah so the um the articles and the the newscasters that were interviewing you they were talking
+about your merch as well yeah pumping it up ground control ground control.net
+that's sick man yeah
+super sick so are you are you doing uh other podcasts too or is it only made like news
+stages like tv channels um there was one from my local town that someone went to my high school
+that they have kind of like a small one on tiktok the wet slap the wet slap yeah that's his podcast
+yeah and that's that's the only other like like big podcast that you've done yeah Tim Dillon was
+talking to me Tim Dillon was talking to you on twitter uh yeah what did he say I think he wanted
+me to come on why don't you do it yeah I think I will yeah I think you should dude that'd be
+freaking sick yeah he's a funny motherfucker he's really really popular yeah what what did he ask you
+um I think he thought the whole thing was funny and everything but he was on his uh tour
+yeah so he was busy at the time okay yeah I mean he comes up I think he comes to Florida quite a bit
+are you into uh he's really big into like crypto and nfts and shit are you into that as well
+I mean a little bit not crazy amount do you own any nfts um no no but I have crypto I was mining
+you're oh you were mining yeah really for a while how long were you mining um a couple months
+probably like six months mining ethereum with gpu's or um I think just I was using nice hash just
+it was easy but what kind of computers were you using to mine uh I had two gpu's you had two two
+gpu's 27 units and 80 okay yeah and uh when did you start doing it back in like October oh October
+of last year okay yeah that's a hard gimmick there that's a hard gig to do because uh you know all
+the competition with it right now and they say that ethereum's moving to like a ethereum 2.0 where
+you're not be able to mine anymore yeah so all the gpu's are becoming worthless yeah but before
+it's like impossible I tried doing it too you still can't buy them really they're expensive it's crazy
+still wow yeah because they were sold out everywhere you tried to buy one and it was impossible you go
+to the best buy you can't get them whenever they would drop there'd be a liner on the building like
+twice yeah weird well brother I appreciate you coming and doing this man yeah thank you anything
+else we didn't we didn't talk about that we should talk about anything we missed they think good I
+don't think so no tell uh tell people again where they can uh follow your accounts on twitter yeah you
+can find elon jet on twitter at elon jet and then my personal is jack sweeney but with a x instead
+of an a and elon jets on instagram and everywhere else and ground control dot net yeah elon jet
+dot net oh oh elon jet dot net and then it'll redirect it's harder to spell okay yeah well cool
+dude yeah it's awesome that you're in Orlando we should get you back here again in the future
+see what when we see what uh transpires from all this stuff all right bro thanks again goodbye everybody

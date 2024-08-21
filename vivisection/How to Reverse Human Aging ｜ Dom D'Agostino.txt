@@ -1,0 +1,2733 @@
+Hello world, today's guest is episode two, part two
+with Dom Dagestino.
+Dom is a research scientist
+for the Institute of Human and Machine Cognition.
+And the primary focus of Dom's laboratory
+is developing and testing metabolic-based therapies,
+including ketogenic diets, ketone supplements,
+and metabolic-based drugs.
+Dom's research has also been supported
+and funded by the Office of Naval Research
+and the Department of Defense.
+Please welcome Dom Dagestino.
+Welcome.
+Thank you for coming on the show again, man.
+I really appreciate it.
+You've been on here before,
+but for the new listeners and viewers,
+why don't you let them know what you do?
+Yeah, appreciate being on.
+Thanks, Danny.
+Absolutely.
+Yeah, I was trained, my formal education is neuroscience.
+Well, it was nutrition as an undergrad,
+and then I gravitated to neuroscience and physiology,
+where I studied the neural control of autonomic regulation,
+so the brainstem mechanisms of how and why we breathe,
+and there was oxygen and CO2 chemoreceptor regions.
+Sort of.
+Just a little closer.
+Just a little bit, push the mic a little closer.
+Closer, yeah.
+And so my research on the neural mechanisms of respiration
+led me to diving physiology.
+So I was an avid diver during my PhD,
+and that led to opportunities
+to do my postdoctoral fellowship in diving physiology,
+specifically funded by the Department of Defense,
+Office of Naval Research,
+where I did work on looking at oxygen toxicity seizures,
+which limits Navy SEAL diving,
+and I spent quite a few years developing hyperbaric technologies
+and testing these technologies in biological systems
+to understand how hyperbaric oxygen works
+and how the benefits,
+but I was actually really focused on the negative consequences
+of being exposed to very high levels of oxygen.
+And then that topic led me to the ketogenic diet
+because ketones are neuroprotective,
+and then the ketogenic diet was actually used
+as an anti-seizure, anti-convulsant therapy,
+and oxygen toxicity seizures,
+which limits hyperbaric oxygen.
+You can't go above, for example,
+three atmospheres of oxygen with hyperbaric
+because you have an oxygen toxicity seizure,
+and also for military diving, it's a limitation.
+So I was very excited at this point in time
+when I discovered the ketogenic diet,
+which I studied nutrition as an undergrad,
+but never knew the ketogenic diet
+was actually developed for epilepsy and for seizure disorders.
+So it gave me the opportunity back about 15 years ago
+to steer my research away from drug research
+into studying the neuroprotective effects
+of this high-fat diet,
+which it was not a very good career move
+if you're going into academia
+and that your whole part of being in academia
+is to pull in federal dollars to advance your research program
+and putting a lot of time and effort
+into studying a high-fat ketogenic diet.
+There was no funding for this,
+but I knew it worked, and I knew there was good science
+that could be done to support this approach.
+And then that springboarded my sort of path to where I am now.
+And you're at USF, right, currently?
+Yeah, University of South Florida,
+specifically the Morsani College of Medicine,
+and I also have an affiliation
+with the Institute for Human and Machine Cognition, or IHMC,
+and so I work in different capacities
+through those two institutes.
+One of the things I wanted to talk to you about
+was you said a lot of your studies are in hyperbaric,
+and is that specifically hyperbaric oxygen therapy?
+Yeah, well, yeah, hyperbaric oxygen
+like at a fundamental basic science level.
+We do, I originally started,
+the first project that I had was pretty esoteric,
+is developing hyperbaric atomic force microscopy,
+and atomic force microscopy will give you
+like the scanning resolution of electron microscopy,
+but you can image living tissue with it and cells.
+So we were using this technology,
+and then part of, I spent a number of years
+putting a hyperbaric microscope inside of a customized,
+an atomic force microscope inside a customized
+hyperbaric chamber, and then using it
+on a variety of different cell types.
+So the question is, the question that,
+the military was funding us for is like,
+essentially what happens to cells inside the cell
+when you hit it with a high concentration of oxygen?
+We never knew the answer to this
+because no one had a hyperbaric microscope, right?
+So I started my research on looking at cells,
+looking at mitochondria,
+looking at free radical production in cells,
+mitochondrial function, and things like that,
+with muscle cells, brain cells, cancer cells,
+human dermal fibroblast cells,
+and doing a lot of research there.
+And then later, I was able to get more funding
+and expand hyperbaric oxygen research into animal models,
+where we were looking at not only seizures,
+but also looking at cancer.
+And we published a number of studies
+on using hyperbaric oxygen as a means
+to further augment different cancer,
+anti-cancer protocols.
+And that would be with nutritional ketosis
+and other things we're working on in the lab.
+So, and then a couple years after doing animal research,
+we got funding as a subcontract working at Duke,
+at Duke, they have an amazing environmental research facility
+that NASA uses and military uses,
+where we have subjects on a ketogenic diet
+that are being put inside a hyperbaric chamber.
+And they use, we're getting tons of data from them,
+blood data, blood gases, they go in on a standard diet,
+and then they go in on a ketogenic diet
+with ketone supplementation.
+And then we look at their cognitive function,
+their reaction time, they play a video game simulator,
+they're exercising, like it's like probably
+the craziest setup you can think about,
+and we push them to the edge of a seizure
+by giving them a very big dose of hyperbaric oxygen,
+and we monitor their brain activity through EEG.
+And then we essentially decompress
+like right before they're gonna get hit by a seizure.
+So we have sort of ways to predict it.
+So there's that, so we moved from cells to mitochondria,
+to cells, to animal studies,
+and then to human clinical trials,
+which is a registered clinical trial
+on clinicaltrials.gov.
+And then I myself and my wife were involved
+with an undersea mission
+where we lived in a hyperbaric environment.
+For me, it was 10 days, and my wife was nine days,
+and that's the NASA Extreme Environment Mission Operations,
+which is a hyperbaric mission where you live in saturation.
+And if you live in saturation more than 24 hours,
+you become an aquanaut.
+So both of us have became aquanauts.
+Just from our research background, our diving background,
+we were selected for that mission,
+where we get to train with astronauts.
+It's part of the astronaut training program.
+Oh, wow.
+So we get to work with,
+and my crew member, or my commander, Dr. Shell Lingren,
+and Samantha Christopher Reddy,
+who's an European Space Agency astronaut,
+they were just selected to go up in April, I think, to ISS.
+So they were both Nemo aquanauts with us.
+So yeah, the hyperbaric stuff has been very interesting.
+We went from cells to mitochondria, tissues, animals,
+different types of animal models,
+to human clinical trials,
+to being research subjects ourselves,
+where we're doing research on human subjects,
+where we are the subject in a hyperbaric environment.
+So I don't really talk about it that much.
+Hyperbaric research is a big part of what we do,
+and people know me as the keto guy,
+or a ketogenic diet guy,
+but that's very much interconnected with the hyperbaric world
+because ketosis is neuroprotective
+and has anti-seizure effects.
+One of the reasons I want to talk to you about that
+is because a really close friend of mine
+just bought a hyperbaric chamber for himself.
+Like, it's one of those consumer hyperbaric chambers
+that the ball player is using and stuff.
+And it's supposed to come in this week.
+And he had to get an actual prescription written to buy it.
+And it made me curious.
+I'm like, are there any negative effects
+to using these hyperbaric chambers?
+And like, do you have to regulate yourself,
+or is it okay to just get in this?
+Because I plan on using his hyperbaric chamber.
+Is it okay just to use it whenever you want,
+or is there risks involved?
+Well, I would highly recommend
+getting hyperbaric medicine guidebook, which tells you,
+so the oxygen is a drug.
+And if right now we are breathing 20% oxygen,
+so roughly speaking, 20.6%.
+So, and the rest of it's nitrogen.
+So most of our breath is actually nitrogen
+that we're breathing in.
+A little bit of CO2, a little bit of argon, some gas.
+So if this room was filled with oxygen, 100% oxygen,
+and we were kept in here,
+and you came back three days later, we'd be dead.
+So, and that's not even a hyperbaric pressure, right?
+So if you replaced this room with oxygen, yeah, we would die.
+We would get something called pulmonary oxygen toxicity.
+Our lungs would just start blowing up
+because it's producing oxygen free radicals.
+And we would have edema,
+and we would die a very painful death.
+So you have to understand oxygen's very powerful drug
+and at hyperbaric pressures,
+which means we are at one atmosphere of oxygen now
+when you increase the barometric pressure to two atmospheres
+and then go to three atmospheres.
+That's, every atmosphere is 10 meter of seawater,
+or 33 feet.
+So if you were to dive down to 10 meters or 33 feet,
+that would be two atmospheres.
+Another 10 meters, 66 feet, it would be three atmospheres.
+At that hyperbaric pressure, what happens is the oxygen,
+your hemoglobin's already saturated, right?
+Because, but because of the increased barometric pressure,
+the partial pressure of oxygen would increase
+and you actually get more oxygen into the plasma
+independent of hemoglobin.
+And that would cause the partial pressure of oxygen
+in your tissues and your brain to skyrocket.
+And that produces oxidative stress
+and that would kill you if you sustained it
+for a long period of time.
+So which happens in different military dives
+and things like that.
+So you have to adjust the ratio of nitrogen to oxygen,
+in some cases helium and other breathing gases.
+So getting back to, you know, you have a hyperbaric chamber.
+So my question would be, is it a hard shell chamber?
+Because a hard shell chamber, soft shell, okay.
+So a soft shell chamber would really only go
+to about 1.3 atmospheres.
+So what that means is it can only basically take you
+to a quarter of an atmosphere higher than we're at now.
+So it's probably made out of a polymer, like a Kevlar,
+even bigger, different ones.
+So the chances of you hurting yourself, you know,
+are far less likely, but if you just-
+I'm gonna pull up the receipt for it, you keep going.
+Okay, yeah, if you were to stay in that hyperbaric chamber
+for a protracted period of time,
+then you could potentially, you know, damage your lungs.
+You're not going to get oxygen toxicity seizures
+or CNS oxygen toxicity, which is it called,
+because you need to be essentially at a higher pressure,
+which would involve a hard shell chamber.
+So a lot of the work that we do, I mean,
+we have chambers that go to like 60, 70 atmospheres.
+We have, you know, a lot of what we do is,
+is within the military diving operations
+of about five atmospheres and above.
+But yeah, there's, you know,
+I study the negative effects of hyperbaric oxygen
+and that by looking at the various mechanistic things
+that hyperbaric oxygen does, like, you know,
+enhances wound healing, it decreases inflammation,
+it activates stem cells.
+Most of the people who email me are people
+who are using hyperbaric oxygen to enhance
+their athletic performance, to speed recovery.
+They use it as a, like a new tropic.
+So oxygen as a drug to increase, you know,
+growth factors in the brain, like BDNF and,
+and, you know, research was done to demonstrate,
+and I think this research was done by a colleague
+of mine, Dr. Steve Thaum,
+when he was at University of Pennsylvania at the time.
+He showed that hyperbaric oxygen
+can increase stem cell production
+and then the release of stem cells.
+So there are various drugs that people take
+to increase stem cell production
+or you could use autologous stem cells,
+you know, and inject them into yourself.
+Or you could undergo hyperbaric oxygen therapy
+and actually get your body to coax,
+your body to generating more stem cells.
+So that can aid, that stem cells tend to get
+into circulation and then they hone in on areas
+that are damaged or inflamed
+and then it augments recovery.
+From there.
+So it could be internal things as well as external wounds.
+Basically, what are you saying?
+When you say wound healing,
+what do you define as like a wound, like a?
+Yeah, so there's about 14 different FDA approved
+applications for hyperbaric oxygen
+and the big one is probably wound healing.
+So if a facility around here, if you just search,
+you know, where hyperbaric chambers around here,
+they're using it for mostly diabetic wounds
+for people who are overweight
+and they have a wound like on their foot
+and that because many people are overweight
+or they have diabetes that impairs blood flow to the area
+where a diabetic wound becomes resistant to healing.
+And when you give hyperbaric oxygen,
+it hyper oxygenates the wound and reverses hypoxia.
+So it facilitates the, you know, the,
+it increases the partial pressure of oxygen
+at the wound site.
+And by doing so, it increases energy within the wound.
+So energy production could be down by 90%
+like an ischemic wound, but when you hit it with oxygen,
+then you're stimulating ATP production,
+which is like our energy currency and stimulating metabolism
+and the wound can then heal.
+And then it has, so it's used mostly for wound healing,
+gangrene, there are anaerobic bacteria that grow
+in situations where there's not a lot of oxygen
+and you can get an infection
+and gas gangrene can kill you.
+And the only thing that we know that can kill
+this anaerobic bug is hyperbaric oxygen.
+It's also used for decompression sickness
+if you're diving, like even in recreational diving
+and you stay down too long and you pop up to the surface,
+the nitrogen's still in your system
+and the bubbles are gonna wanna come out.
+So it's called the bends underwater if you come up too fast.
+But decompression sickness will kill you.
+You can get an air embolism in your lung or your brain.
+So if someone pops up to the surface too quick
+because they have some kind of emergency
+or something that person needs to go inside
+a hyperbaric chamber and be slowly decompressed.
+So the chambers around here,
+90% of them are used for wound healing
+and then also for diving for reversing
+decompression sickness and carbon monoxide poisoning.
+If you have carbon monoxide poisoning,
+a way to save a life is the only way to do it
+is really with hyperbaric oxygen.
+So these are some of the applications.
+And there are many including for cancer,
+for like wound healing, if you have radiation,
+if you're being treated with radiation
+that cause radiation necrosis and hyperbaric oxygen
+can reverse and heal that tissue
+that has been radiated by radiation.
+So that becomes a way where patients
+can conceivably, if they've had radiation therapy,
+they could get a prescription for hyperbaric oxygen.
+And the prescription, you mentioned a prescription,
+that's usually for levels of oxygen
+that are above 1.4 atmospheres,
+like two or 2.5 or even three atmospheres.
+Really?
+Yeah, cause that would require a hard shell chamber.
+Yeah, this is called a respiro.
+Respiro, and you know the-
+This thing right here.
+The working pressure of the chamber.
+Oh yeah, that is a soft shell chamber.
+Yeah, so yeah, I mean, if you're gonna get that
+and have it installed in your house,
+there's certain regulations you need to follow.
+And you might have to have a hyperbaric tech come out
+and set it up because you don't wanna mess around
+with oxygen.
+If you were to get a hard shell chamber,
+then that's a whole nother set of regulations
+and guidelines that you have to follow.
+But most of our research had been done
+within the pressure ranges that would require
+a hard shell chamber.
+But I do believe that there's a lot of benefit
+that you can get from these soft shell chambers.
+And it's quite a bit safer too.
+Yeah, that's the one that LeBron uses, I know.
+I've seen videos of him using that one, yeah.
+Yeah, so he's using it to augment his recovery.
+Like in between, when he has done the playoffs,
+and they have a game every other day,
+and he's spending 40 minutes a game
+sprinting up and back and forth on a full court,
+it's, I think he uses that on his off day
+to kind of like speed up his recovery.
+Cause I'm sure there's a lot of wear and tear
+on your muscles and joints and stuff.
+Yeah, so I communicate with a number of NFL guys,
+even I think around here, Vinnie Testiverty's around here.
+And I remember he came to one of my talks actually
+at the College of Medicine at USF,
+and he was pretty cool to talk with.
+I think he has his own hyperbaric chamber.
+Yeah, I communicate with quite a few NHL, NFL guys,
+you know, military guys that are using it
+to speed recovery.
+And LeBron James, I think he's on a keto diet too,
+or low carb diet, I think.
+Really?
+Yeah.
+Well, I mean, like low sugar, low,
+I mean, a lot of these guys, I haven't personally,
+but I've communicated with people who, you know,
+have coached him in some ways.
+Yeah, I've heard things about him.
+I've heard people talk about,
+people who are close to him talk about what his diet is,
+and I've seen videos of him talking about,
+when they're in the playoffs towards the end of the season,
+when it's coming down to the line,
+that he really, really goes out and he cuts out carbs,
+eats a lot of steaks, a lot of high fat stuff,
+and completely cuts out sugar 100%, as well as the oxygen.
+So I don't know, I know he spends,
+he's known for spending more money on his body
+than any other athlete.
+He claims that he spends over a million dollars a year
+on his body specifically, whatever that means.
+That's easy, I mean, because there's,
+I mean, there's a lot of drugs and stuff too,
+I guess you could take to enhance performance,
+but these guys have to, I don't know how they get tested,
+but for supplements, it has to be NSF certified to be used.
+Yeah, there's a lot of things that you could do.
+A lot of it's untested and, you know,
+not really a lot of science to back it up,
+but that's really just because
+there's not a whole lot of funding to go into
+evaluating various technologies
+for enhancing athletic performance.
+Many of these things are, you know,
+hyperbaric oxygen has been,
+all the funding goes to wound healing.
+Like, you know, managing ischemic wounds
+is a multi-billion dollar healthcare problem right now.
+I mean, it's been, and we don't have anything
+to basically speed wounds.
+I had a PhD student that worked under me
+that looked at ischemic wounds,
+and one of the biggest things
+that enhanced the wound healing process
+was the ketogenic diet and ketone supplements.
+So all the wound healing, you know,
+technologies and patents out there
+are about putting things onto wound
+to augment wound healing,
+but when we change our metabolic physiology,
+we are lowering blood glucose,
+lowering insulin, reducing inflammation.
+So that speeds, greatly enhances blood flow
+by like 20 to 30 to even 40%.
+And then the ketogenic diet
+or even exogenous ketones
+increases something called adenosine.
+Adenosine's a vasodilator,
+so we get more blood flow to the region,
+and that blood that's flowing into the region
+has ketones, and ketones are metabolic substrates
+that can reactivate cells,
+and they have anti-inflammatory effects,
+but when you increase circulation
+and you have ketones in circulation
+and you're reducing glucose,
+which could be pro-inflammatory,
+when glucose is low, ketones are elevated, right?
+If you're on a ketogenic diet
+or you take a ketone supplement.
+So those ketones can then kind of aid in that,
+enhancing the metabolic state of the wound,
+which is really the definition
+of impaired wound healing is that there's low energy,
+state, low blood flow.
+And yeah, we're sitting on some papers now,
+I need to get out,
+but she did her PhD dissertation on that.
+And when that's coupled with hyperbaric oxygen,
+when you couple ketone supplementation
+of the ketogenic diet with hyperbaric oxygen,
+that's greatly enhancing the wound healing process.
+And one could extend that when we work out,
+we are basically, you know,
+you're trying to enhance wound healing,
+you know, your body is banged up,
+you know, tissue is damaged,
+and then you have tissue remodeling,
+that's part of the adaptive process to training,
+when we train a muscle, we break it down,
+and the adaptive process training
+is skeletal muscle protein synthesis, remodeling,
+and then the faster we can do that,
+the faster we can get back into the game.
+And you talked about like the stem cell production
+and stem cell release,
+especially when it comes to,
+I can understand how it can help heal people
+that are affected by radiation and chemotherapy
+when it comes to cancer.
+Could it be used as a replacement for chemotherapy
+or radiation to any extent?
+I know it's obviously scientifically not there yet,
+but do you think that's a possibility?
+Well, there's a couple things to like, you know,
+to answer that question.
+When people do undergo chemo and radiation,
+sometimes their blood counts drop, like a certain,
+their hematocrit drops, and white blood cells drop.
+So, and stem cells can drop too,
+and hyperbaric oxygen could be a way to augment that.
+If we have, the Israelis showed that with hyperbaric oxygen,
+that it can actually increase HIF1-alpha,
+which is counterintuitive,
+because HIF1-alpha is hypoxia-inducable factor alpha.
+When we undergo hyperbaric oxygen,
+and then we come out of the chamber,
+our body senses relative hypoxia,
+just because of the relative changes,
+and that can stimulate HIF1-alpha,
+and then maybe actually increase our red blood cell count.
+So, some athletes may do hyperbaric oxygen
+to actually increase their red blood cell count.
+So, that's a little bit peripheral to the conversation.
+And what does that do?
+To increase your red blood cell count, what does that mean?
+Yeah, oh, that means like you have more red blood cells,
+so you have greater oxygen carrying capacity.
+And so, athletes, especially like cyclists,
+and elite-level cyclists,
+one of the go-to drugs in that world is erythropoietin,
+or EPO, and then EPO will increase your red blood cell count.
+That increases something called your hematocrit,
+and ultimately, that's giving your body an advantage
+because you can carry more oxygen.
+So, hyperbaric oxygen may be able to do that,
+and it's nice that you're augmenting your own physiology
+to increase the production of those cells.
+But your question with cancer in that,
+so we know radiation and chemotherapy work
+in killing cancer cells
+by augmenting reactive oxygen species,
+or oxygen-free radicals, right?
+We know about free radicals.
+So, with radiation, if you apply radiation to a tumor,
+the radiation nixed the DNA,
+and that's one way to kill it,
+but most of the radiation damage
+is actually a result of increasing oxygen-free radicals, right?
+So, that's how radiation primarily works.
+Chemotherapeutic agents that kill cancer cells,
+kill cancer cells by increasing oxidative stress
+in the cancer cells.
+But it does it, both of these modalities are,
+chemotherapy and radiation
+are very potent carcinogenic agents.
+So, we are using a potent carcinogenic modality
+to kill cancer cells, right?
+And it's doing it primarily through augmenting
+something called oxidative stress or oxygen-free radicals.
+So, hyperbaric oxygen is a way to naturally,
+by increasing the partial pressure of oxygen in our body
+and reversing tumor hypoxia.
+As a tumor grows, it outstrips its ability
+to supply oxygen because the blood vessels
+can't keep up to the expanding biomass of the tumor.
+So, the core of the tumor often becomes hypoxic.
+And when you put someone inside a hyperbaric chamber,
+that does a number of things.
+It reverses the tissue hypoxia inside the tumor.
+So, the low oxygen in the tumor is reversed
+with high oxygen, hyperoxia.
+And when you hyperoxygenate a tumor tissue,
+that causes a massive burst in oxygen-free radicals
+for a number of reasons.
+The oxygen can get in the tumor
+because the oxygen is not being carried by red blood cells,
+which get caught in the little blood vessels.
+The oxygen is actually dissolved into the plasma,
+independent of hemoglobin.
+So, this is very important because the pressure component
+of hyperbaric oxygen,
+which means the increase in barometric pressure
+literally pushes the oxygen into the plasma.
+And then it could get into the little nooks and crannies,
+if you will, of the tumor.
+And the tumor goes from a tissue PO2
+of like two or three millimeters of mercury
+to like 150 to like 2,000 millimeters of mercury,
+which is very, very high.
+And when all that oxygen is inside the tumor,
+because the tumor is like a bunch of screwed up cells
+that are also degrading, you have a lot of heme,
+like heme proteins are being degraded,
+and you have a lot of free iron.
+And oxygen in the presence of free iron
+in that environment drives something called
+the Fenton reaction.
+And then you have a massive burst of oxygen-free radicals,
+and it's driving different pathways
+that kick on cell death within the tumor.
+Now, this can happen in normal healthy tissue,
+but it's greatly augmented in cancer tissue
+because the cancer tissue's relative state is low oxygen.
+And when you reverse the tumor hypoxia
+and hyperoxygenate it,
+you get a correspondingly higher burst
+of oxygen-free radicals.
+It's because the relative change is gonna be higher, right?
+And then the oxygen-free radicals feed into a pathway
+because of the free iron that contribute
+to more reactive intermediates like the hydroxyl radical,
+and these things can help to essentially kill the cancer
+from the inside out.
+An important thing to note is that hyperbaric oxygen
+may further enhance the cancer-killing effects
+of radiation and chemotherapy when they're done together.
+So, yeah, I believe that hyperbaric oxygen
+should be used for many different tumor types,
+and I think it has a lot of potential.
+I mean, in our lab, we coupled it with the ketogenic diet
+and saw that we could extend survival
+in mouse models of metastatic cancer,
+and that motivated us and many others to study this.
+When it hyperoxygenates these tumors
+and you explained how the oxygen-free radicals explode,
+what does that physically do to the tumor itself?
+The tumor will shrink, will it die?
+Like what happens to the actual tumor or the cancer tissue?
+Yeah, so if we're talking about a solid tumor
+and then you apply hyperbaric oxygen, for example,
+two to three atmospheres of oxygen for 60 minutes,
+three times a week, something like that,
+so that's a pretty big dose.
+What is happening to the tumor is that it's,
+the tumor, like I mentioned,
+especially a growing tumor mass becomes hypoxic,
+and then when you're in the chamber
+and experiencing a high level of oxygen,
+and if you were to put an electrode
+inside the tumor and measure the oxygen,
+the level of oxygen would go up like 2,000 times.
+So when that oxygen gets super high in the tumor,
+it's stimulating the production of these free radicals,
+which then kick on a number of different pathways
+that can essentially rupture the mitochondria,
+start spitting out oxygen, that creates oxidative stress,
+and then you oxidize membrane lipids,
+you oxidize proteins, you oxidize nucleic acids.
+This creates a lot of stress to the cell,
+and then cells literally start blowing up, rupturing.
+So when I was, some of the early studies that I did
+was actually developing hyperbaric atomic force microscopy,
+and then later I made it a laser scanning
+confocal microscopy unit to this microscope,
+and it's inside the chamber,
+and we were looking at different cell types,
+and one of the cell types were glialblastoma cell types,
+which is a type of brain cancer,
+and this particular cell type was U87 glialblastoma multi-forming.
+So it's not super important,
+but it was derived from a patient,
+I think a 44-year-old patient or whatever.
+So I had the cell line preserved, we plated the cells,
+we put it inside the hyperbaric chamber,
+and we were looking at them,
+and then we hit the cells with hyperbaric oxygen,
+and I noticed that the mitochondria
+started pumping out tons of superoxide.
+I had to die to measure that,
+and then I would see the mitochondria disappear,
+they were blowing up underneath the microscope,
+and as we were monitoring the fluorescent signal,
+which is the increase in the brightness of the cells
+corresponded to the production of oxygen free radicals,
+as the cells became brighter,
+I saw the mitochondria disappearing.
+That means that they were blowing up, they were rupturing,
+and then I started to see cells dying
+at a far faster rate than any other cell that I looked at,
+including smooth muscle cells, fibroblasts,
+rat neurons, and different cell types.
+So I thought this was very interesting,
+and that was done maybe in 2007 and eight,
+and then a couple years passed,
+and I realized that this was an important observation,
+and no one made the observation ever
+because no one had a microscope
+inside a hyperbaric chamber.
+So I reached out to different people
+at the Moffitt Cancer Center,
+and then experts who studied cancer,
+and they said, what you're observing
+in these cancer cells is probably due
+to something called the Warburg effect.
+So Otto Warburg really was noted for,
+he got the Nobel Prize for his work on the mitochondria
+and mitochondrial respiration,
+and he had a theory on cancer
+that cancer was a metabolic disease,
+and that impaired mitochondrial activity,
+or what we call cellular respiration,
+impaired respiration would lead
+to compensatory compensation, glycolytic compensation.
+So the cells, as the mitochondria became defective,
+there would be an up-regulation in glucose consumption
+and glucose energy pathway called glycolysis.
+So his whole theory kind of was hinged
+upon damaged respiration, so damaged mitochondria.
+And when I was recording from these cancer cells,
+I noticed that they had a lot of mitochondria,
+and there was no doubt that their mitochondria
+were working in some capacity,
+but I also noticed that when I increased the level of oxygen,
+the mitochondria had a rate of free radical production
+that was many, many fold higher than normal healthy cells,
+meaning that when we produce energy,
+when our mitochondria produce energy,
+and about 80 to 90% of our energy
+comes from mitochondrial oxidative phosphorylation,
+a consequence of that energy production
+is the formation of an oxygen free radical called superoxide,
+and then that can go to hydrogen peroxide
+and ultimately potentially hydrogen hydroxyl radical
+to more reactive intermediates.
+So that superoxide is always being produced,
+and it's like the exhaust on a car.
+It's like the toxic thing that's being produced,
+but oxygen free radicals are also signaling molecules,
+so there's a signaling function
+in addition to being a toxic free radical,
+so eliminating them completely is probably not a good idea.
+There's a balance, like a redox balance.
+So with the tumor tissue is putting out proportionately
+far more oxygen free radicals
+in response to the oxygen that I'm giving it.
+So giving tons of antioxidants are really not gonna work
+because the mitochondria are already defective, right?
+So what I was witnessing is that
+I was witnessing damage respiration and the mitochondria.
+When we talk about respiration,
+we're talking about mitochondrial ATP production.
+It's like instead of respiring because they use oxygen.
+So with cancer cells, you have damaged mitochondria,
+and we call that their way of making energy
+is called cellular respiration
+or oxidative phosphorylation.
+And when you give the substrate for energy production,
+which includes oxygen to the mitochondria,
+they produce proportionately more oxygen free radicals
+and they're essentially killing themselves
+from the inside out
+when you expose cancer cells to high pressure oxygen.
+This is what we saw,
+this is what I saw underneath the microscope.
+So it made sense to me that this was happening
+because of the Warburg effect,
+which means cancer cells have rates of sugar consumption
+that are like 100 to 200 times higher.
+And they're using sugar as a fuel for two different reasons.
+One is because the mitochondria are defective
+and there's impaired mitochondrial ATP production.
+Another reason cancer cells use glycolysis to get energy
+is that it feeds into a pathway of biosynthesis.
+So it's necessary for biosynthetic pathways
+to generate the expanding biomass of the tumor.
+Using glucose in cancer cells,
+the cancer cells can also divert it to,
+it can increase the pentose phosphate pathway,
+which is a way that the cancer cells
+can actually increase their antioxidant capacity
+through this path.
+So there's a number of different reasons,
+but the important thing to know is that
+cancer cells have defective mitochondria
+and because cancer cells have defective mitochondria,
+we can exploit that defect with hyperbaric oxygen
+by using that as a tool to further increase
+oxidative stress and selectively in cancer cells.
+When we hit our body with hyperbaric oxygen,
+when we go inside a hyperbaric chamber,
+we have an increase in oxidative stress
+all through our body,
+but our normal healthy tissues have the adaptive response
+that we can increase our endogenous antioxidant enzyme.
+So our tissues actually end up stronger
+because like exercise,
+when we exercise and do a super hard workout
+and if we were to take our blood or take our tissue sample,
+you would see a lot of bad things going on.
+So that's actually the stress of exercise, right?
+So the adaptive response that comes after that
+makes our tissues stronger
+and it up regulates a number of pathways.
+I mean, if you're training and lifting weights,
+you have skeletal muscle remodeling
+through protein synthesis
+and an up regulation of enzymes and things.
+So cancer cells really can't do that
+because when you hit cancer cells really hard
+with a high level of oxygen,
+it can actually trigger cellular apoptosis and necrosis,
+which you can start killing off cancer cells.
+They simply do not have the capacity to deal
+with the massive burst of oxygen free radicals
+that accompany a big hit of hyperbaric oxygen.
+Same thing applies with a chemotherapeutic agent.
+So chemotherapeutic agents,
+they're not selectively augmenting oxidative stress.
+Radiation can be targeted to the tumor,
+but it has a lot of off target effects
+and then you get a lot of damage.
+Plus that radiation, the chemo is also creating
+more mutations in the tumor that could cause the tumor
+to mutate in a way to become more aggressive.
+So where it's hyperbaric oxygen,
+it is a more gentle approach
+to increase oxygenation in the body
+and then you have selective hyper oxygenation
+and far greater oxidative stress in the tumor tissue
+for a number of different reasons that I went through.
+But the tumor environment is a really good environment
+to apply hyperbaric oxygen
+because you have a lot of dead cells and a lot of free heme
+and that creates a lot of iron.
+So when you apply oxygen,
+it's almost like throwing gasoline on the fire
+and then you can to kill tumors.
+So it all sounds really nice in theory
+and it works really well in cell model systems
+and animal model systems.
+High oxygen, no sugar.
+High oxygen and no sugar.
+Yeah, when you couple high oxygen with very low sugar
+or glucose, right, like a ketogenic diet,
+by restricting sugar that actually can restrict
+something called the pentose phosphate pathway
+and by restricting cellular antioxidants like glutathione,
+you basically impair the cancer cells ability
+to protect itself while you're hitting it
+with high levels of oxygen.
+So in theory, I mean, this is all textbook stuff
+that we know there's not a whole lot of motivation,
+though, from federal centers,
+organizations that fund cancer research
+to really further study hyperbaric oxygen.
+We just know that when you put certain patients
+and you give them hyperbaric oxygen, they do much better.
+But we're basically using hyperbaric oxygen
+in the current scenario to reverse radiation necrosis.
+So patients that are receiving radiation,
+they get really bad wounds,
+you give them hyperbaric oxygen and boom,
+they recover really fast, their wounds heal up
+and then the cancer, you know,
+they have much better prognosis.
+Why do you think that is?
+Why is so much of the clinical budget
+or clinical research trial budget
+dedicated to, why isn't it dedicated
+to things like hyperbaric oxygen or diet,
+such as a ketogenic diet, restricting sugar and glucose,
+when clearly there's tons of research and science
+to back that, one of the things that I sent you
+in the email was, one of the things that came across
+was like 75%, I think 70 to 90% of US clinical research
+funding is dedicated to drugs and medical devices,
+I think it was.
+Yeah, yeah.
+Well, the National Institutes of Health
+is a major funder of research, right?
+And I think at least $50 billion, I think,
+per year to clinical research
+and that could be drugs.
+And I know a small minority, not even 1% of that
+is going into nutrition research and with cancer.
+Which is insane.
+Yeah, and with cancer, you have a number of different,
+you know, things that are being funded,
+it's over, for 2022, it's gonna be over $200 billion
+in funding and pretty much no funding goes
+into cancer prevention, right?
+So there's so much that we could be doing now
+to prevent cancer from being a problem in the first place.
+So we could prevent a lot of cancer
+through lifestyle interventions,
+like really, really, really move the needle,
+like it's a huge lever to pull.
+So with, you know, there's not a whole lot of incentive
+for funding nutrition, not a whole lot of incentive
+for funding hyperbaric oxygen.
+And I think that's part of the reason.
+And it's just easier to prescribe a drug, you know,
+and treat someone with the drug.
+And drugs do hold a lot of promise,
+we do drug research for our lab.
+Yeah, well, you're big into pharmacology,
+are you, at least you used to me?
+I'm in a pharmacology department.
+Right, right.
+I mean, we've looked at things like people,
+you might be familiar with like metformin,
+for example, metformin's a type two diabetes drug.
+And when we give it to cells, cancer cells in culture,
+more cells die, when we give it to animals
+that have, you know, metastatic cancer,
+different tumors, they live a little bit longer.
+But it's not as much as if we apply
+a well-formulated ketogenic diet.
+You know, we've used something called dichloroacetate.
+You know, my colleagues do drug research
+with a variety of different drugs.
+And when you compare, you know,
+research and preclinical animal models
+and with the ketogenic diet
+and what the ketogenic diet can do
+in extending life and reducing tumor,
+it's really remarkable.
+So, and some drugs actually work much, much better
+in the context of a ketogenic diet.
+So there's certain metabolic drugs like
+PI3 kinase inhibitors, for example, developed by Luke Cantley.
+I believe that they're largely mostly efficacious
+in the context of a ketogenic diet because,
+well, this particular drug,
+there's a counter-regulatory effect
+which causes an increasing insulin.
+And when you couple the drug with the ketogenic diet,
+that suppresses the hormone insulin
+and then that actually makes the drug work.
+So a lot of the effects of the ketogenic diet
+is not just simply due by reducing sugar,
+but it has a major hormonal effect on the body,
+including insulin, the hormone insulin,
+and then insulin signaling in general, you know,
+we're talking about AMP kinase and mTOR
+and all these can go down that route if you want to,
+but it's hitting many downstream pathways
+that the pharmaceutical companies are scrambling
+to develop drugs for, you know, these pathways
+like mTOR specifically.
+So the ketogenic diet does that naturally.
+It does it in a way that it's not only hitting one pathway,
+that it's hitting many different pathways
+in synergistically, if you will.
+So by lowering glucose, lowering insulin
+and insulin related signaling and also elevating ketones
+and then ketones by themselves have anti-cancer effects,
+anti-inflammatory effects and neuroprotective effects.
+So if you put a brain tumor patient onto standard of care,
+which includes chemo and radiation
+and you put them on a ketogenic diet,
+the ketogenic diet is putting metabolic stress on the tumor
+and making the tumor selectively vulnerable
+to those treatment modalities, including radiation and chemo.
+It helps you kill more tumor.
+Whereas the healthy tissues are benefiting
+from the elevated ketones because the ketones
+are actually protecting the healthy tissues
+from the inflammatory effects of radiation,
+the reactive oxygen species, so they are neuroprotective.
+I mean, we know that sort of from a lot of the research
+that we've done, right?
+Because we hit cells, we hit animals, we hit humans
+with very high levels of oxygen
+and it basically causes a massive burst of oxygen
+free radicals similar to radiation.
+But we are applying, we are doing it in the context
+of elevated ketones.
+And we typically do that with like an exogenous ketone,
+like a ketone ester or a ketone salt formulation.
+So we deliver that.
+Yes, yes.
+The keto start product is the product that I use
+on a routine basis and there are more powerful forms
+of ketones in terms of esters,
+but I probably wouldn't want to take them on a daily basis.
+But under the context of certain extreme environments,
+you can deliver ketones in a dose dependent manner
+to be neuroprotective and also to improve
+performance resilience.
+So there's a breakdown of performance
+under certain environments.
+And we think that with the correct formulation of ketones
+or different energy intermediates,
+we can preserve that performance in extreme environments.
+What did you say the number was again
+for clinical research in the US?
+How many billion?
+Yeah, I think, well, I'm just talking about the NIH.
+Just the NIH.
+Yeah, I mean, you have Department of Defense, NIH,
+many different organizations, foundations
+and things like that, American Cancer Society.
+So for NIH, they have about 50 billion, 50 billion.
+50 billion, and that's not a whole whole.
+When you think about cancer research in general,
+just from all the different organizations,
+about two, this year it's gonna be about $200 billion.
+But the budget for nutrition is like less than 1% of that.
+Less than 1% of that.
+And the United States is, what are we talking about here?
+The number 68th in the world in healthy life expectancy.
+Yeah, I didn't know it was that low,
+but yeah, it's pretty low.
+And I'd like to just go back to nutrition.
+When I talk about the NIH-funded nutrition,
+they're really looking at growth and development
+and preventing nutritional deficiencies.
+And maybe there's a big push now for NIH
+to understand personalized diets,
+like how certain diets affect different populations.
+But it's not in the research that I'm talking about.
+It's not developing healthy eating to prevent or delay cancer
+or to increase your outcome, to improve your outcome
+if you have cancer.
+There's just not a lot of research in that area.
+Although I'd like to say that the National Cancer Institute
+is because there's so much pressure
+and because there's an acknowledgement that cancer
+is in part a metabolic disease
+and probably in part a genetic disease too.
+There's a dynamic interplay between the two.
+The National Cancer Institute,
+they recognize that nutrition is a big lever to pull.
+And there's a lot of research funding going into this idea
+of using nutrition to improve certain drug therapies, right?
+So the drug therapies are still the main,
+treatment and nutrition is just really brought in
+to enhance the effects of certain drugs.
+So that's so backwards.
+Well, I kind of understand, so from the perspective,
+if you have a particular tumor type
+that you know could be responsive.
+And then for example, a treatment has limited efficacy
+and it could be a chemotherapeutic drug,
+could be radiation, could be immune-based therapy.
+Let's bring the ketogenic diet in or nutrition therapies
+to make that standard of care, which is not working work.
+So it's thought to be unethical to use nutrition
+as a standalone therapy.
+So most of, 10 years ago when I realized
+that the ketogenic diet had the potential
+to be an anti-cancer therapy for cancer,
+I went to clinicaltrials.gov and I saw maybe two
+or three different clinical trials.
+If you go to clinicaltrials.gov right now,
+clinicaltrials.gov and type in ketogenic diet,
+you're gonna see dozens, if not probably well over 30,
+maybe 40 clinical trials with the ketogenic diet.
+So that's like an explosion of ketogenic diet research.
+And the majority of them are,
+very few of them are standalone therapies.
+Most of them are using the ketogenic diet
+to augment immune therapy,
+to augment a metabolic drug
+or to augment standard of care.
+These therapies are what really generate the revenue
+for cancer treatment centers.
+You're not gonna get, a ketogenic diet
+is not going to generate revenue for,
+so that's kind of, you know.
+But oxygen therapy could, right?
+Oxygen therapy could, yeah, yeah.
+This is like all the rich people,
+you can afford those things, they're so expensive.
+Hyperbaric oxygen chambers for your house.
+But you know, they do have the centers
+where you can go and rent one by the hour or whatever.
+Wound healing centers.
+Wound healing centers, right?
+Yeah, they're really big.
+And so, I think cancer centers should be leveraging
+wound healing centers and sending people
+into multi-place chambers when they're undergoing
+their chemotherapy.
+There's a lot that we don't know.
+So every person's response, almost like to diet,
+your individual response to hyperbaric oxygen may vary
+and the dose may be different between different people, right?
+So the dose, the timing, the frequency, the duration,
+all these things need to be taken into account
+when, if we're talking about using
+hyperbaric oxygen as a treatment.
+So, and these are a lot of unknowns.
+And I suspect that's a big reason.
+In the world of wound healing,
+it's just five days a week, two atmospheres,
+60 minutes or whatever.
+It's just like this cookie cutter approach.
+But when you're dealing with a cancer patient
+who may have impaired immune system,
+who may have, if they're really old,
+maybe you're pushing oxidative stress too high,
+like in their body and they need.
+So with our protocol, that's actually why
+I did not do five days a week.
+That's why we did Monday, Wednesday, Friday.
+It was kind of convenient and fit in with a week.
+But the idea was to come in with a big hit of oxygen,
+really stress out the cancer cells,
+and have one day for the body to naturally adapt
+and up-regulate its own antioxidant systems.
+And then come in on Wednesday and hit it again.
+And then a day of recovery and Friday,
+come in and hit it again.
+And this seemed to work really good right out of the gate.
+So we were just like, well, let's just stick with this.
+And then we did try lower levels of oxygen.
+So we went from like 2.5 atmospheres of oxygen,
+because a lot of people kept asking me,
+they have access to a soft chamber, but not a hard chamber.
+So we went and did a mini pilot study
+with just 1.5 atmospheres of oxygen.
+And we saw trends for improved survival,
+but it was not statistically significant.
+So when people ask me, does lower levels of oxygen,
+I have cancer and I want to use a soft chamber.
+I have to say, there was no effect.
+We didn't see an effect.
+There was trends, but it was not statistically significant
+with the-
+Really?
+It was not with like eight animals or 10 animals
+or something like that.
+So I had a hunch that if I was to get more funding
+and then we could boost the animals to 20 or 30 animals
+per group that we would get the power
+to get statistical significance.
+But when people ask me if lower levels of oxygen would work,
+I have to say, well, we didn't show an effect,
+statistically significant effect.
+So I advocate for using a higher level of oxygen
+to get to two atmospheres.
+Two atmospheres, unless, you know,
+if someone has like a cancer in the lung
+or maybe if they have a brain cancer,
+then you could be more susceptible
+to oxygen toxicity seizures.
+So it's good to start low, you know,
+and do a couple of sessions low and then work up.
+So the great thing about hyperbaric oxygen therapy
+unlike standard care therapy like chemo and radiation,
+you come out of the other side with standard of care,
+you come out of the other side like a broken individual.
+I mean, you're hit by a truck.
+Yeah, your whole body, it is.
+It's like patients say it's like
+they got ran over by a truck, they ran a marathon,
+and then a truck ran them over at the end.
+I mean, they're really in bad shape.
+Whereas with hyperbaric oxygen,
+it's like actually enhancing your own body's resilience.
+Like it's improving stem cells,
+it's like augmenting, you know,
+your immune system in ways to reduce inflammation,
+it's improving your overall health.
+That can't be said for any standard of care chemo,
+immune or radiation protocol.
+Everything's, you know, it's just gonna bang you up.
+So we are very motivated to develop
+a comprehensive non-toxic metabolic approach
+to treating cancer.
+So that includes like nutrition
+and hyperbaric oxygen, of course, supplementation,
+but also exercise.
+We have not done a whole lot with exercise,
+but we notice that exercise can move metabolic markers
+in the direction that would improve outcomes.
+So we're gonna set up experiments to do exercise.
+What about like anti-aging and longevity?
+Like what sort of effects can, like for example,
+my friend who just bought this oxygen tank,
+he wants to use it like an hour a day.
+And every other day, he has these people come to his house
+and give him, I think like 500 milligrams of NAD.
+And he also takes tons of supplements.
+I mean, every other day, 500 milligrams of NAD.
+Plus he wants to do the hyperbaric oxygen
+and all this stuff.
+Like what sort of studies has you seen?
+It's just like, as far as like maintaining a healthy,
+active lifestyle for like athletes using this kind of stuff.
+How does that benefit, even for like lifting
+and exercise and stuff like that?
+Yeah, I probably get a couple emails every week,
+not every day.
+At one point it was like every day
+about the longevity effects.
+Cause the Israelis published studies
+showing that you can increase your telomeres, right?
+So, which is a marker for longevity and aging.
+So there was quite a bit of work done, as I mentioned,
+when you're exposed to hyperbaric oxygen,
+it augments your endogenous antioxidant system.
+So that includes like enzymes like glutathione,
+superoxide, dismutase.
+These are things that your body produces
+to protect you from the environment,
+from oxidative stress.
+And oxidative stress basically causes us to age.
+So like rust oxidizes, so it ages.
+So our bodies oxidize from the inside out.
+Hyperbaric oxygen may be a way to delay that,
+but I'm skeptical of it.
+The NAD question is like an interesting one.
+So I have been using a supplement
+that's NMN and also Resveratrol.
+So-
+Is that the Verso stuff?
+Yeah, Verso.
+I got some of that too.
+Oh, do you?
+Yeah.
+Yeah, I know the owners of the company very well.
+I was actually, I guess I could say this,
+I served on federal study sections and everything
+where we evaluated the effects of NMN,
+nicotinamide riboside,
+and nicotinamide mononucleotide.
+So, and I was always very skeptical
+and gave like a lukewarm review
+to many of these grants that were,
+because I was not convinced that you could take it orally
+and that it would end up in the cells of the brain,
+that the gut would essentially render it inactive.
+So your friend, I think, mentioned you did an NAD drip,
+right?
+Yeah, he does them every other day.
+Yeah, 500 milligrams.
+Yeah, that's a pretty, that'll get it done, 500 milligrams.
+So that will probably get into cells.
+So that's probably offering a benefit,
+but I am convinced that the Verso product, for one thing,
+and we're just friends with them,
+no affiliation or anything.
+So that's a product that I use
+that if when I bumped up the dose
+to doubling the recommended dose,
+which, and then I had a stint with COVID
+and I actually bumped it up to 12 capsules a day.
+And I think I remember-
+12 capsules of that stuff?
+12 capsules, yeah.
+Oh my God.
+So, but I'm convinced that I bounced back really fast
+once I started to do that,
+because I had not been taking it actually,
+and we could talk about COVID a little bit,
+but I had, we were traveling
+and you're supposed to keep it refrigerated
+and I didn't bring it with me
+and then we got back from traveling.
+And then my wife and I came down with COVID
+and I noticed at when it peaked
+when my fever was highest,
+then I started taking it
+and then I started improving pretty rapidly after that.
+But I've talked to enough people
+to convince me that a large dose of NMN,
+the Versa product or other products,
+although I think Versa is probably superior
+to most out there.
+And then the IV, I've talked to quite a few people
+who are getting NAD drips
+and they're claiming, you know,
+it's pretty effective
+as far as increasing their energy
+and it's a subtle increase in energy.
+It's not like a caffeine hit or anything.
+And I noticed it when I was tracking my exercise activity,
+in particular, I swim pretty much every day
+and it gave me a second wind and swimming
+when I bumped up the dose to,
+which was like double what they're recommending on the bottle.
+In the beginning, I didn't notice anything,
+but my wife noticed something,
+which was curious to me
+because she never notices anything, anything she does.
+So she was telling me that it works
+and she stopped taking it
+and then she felt a decrease,
+like she went back to normal,
+then she started taking it again
+and this is, my wife doesn't BS anything.
+So it's like, so I got a little bit curious.
+So then I took it and didn't really notice anything,
+but then I doubled the dose
+and I obsessively track everything.
+So I tracked my laps
+and how I feel subjectively and objectively,
+you know, I timed myself
+and how I feel subjectively too.
+And then I definitely noticed
+after two or three days of doubling the dose
+that I got like the second wind.
+And that was very interesting to me.
+During the exercise.
+During the exercise.
+Yeah, yeah, I didn't notice it.
+Lifting weights didn't make me stronger or anything,
+but I noticed during aerobic physical activity
+in the context of pushing my body harder.
+So once the activity started to get hard
+when I usually give up or fail
+or have a performance decrement,
+that's when it was like working.
+That's when I subjectively felt it was working.
+And then that actually aligns really well
+with a number of people that I'm communicating with,
+athletes and scientists and actually the data too.
+When you, you know, push mice or rats to a certain point,
+it gives them that extra little boost.
+And the same thing I could say with like exogenous ketones.
+Like I take exogenous ketones during the day,
+it gives me a little like new tropic boost
+to have more, you know, brain energy.
+And I don't really recognize the benefits
+when I'm lifting weights,
+although it may help with the recovery
+and adaptive processes.
+When I put myself in a situation aerobically,
+if I'm, you know, pushing beyond that typical limit,
+that's when I noticed that, you know,
+two, three, maybe 4% boost.
+I know that you were talking about
+how you fasted for seven days
+and you dead lifted like an insane amount of weight.
+I talked, I told you last time,
+after I did a, the first time I did a five to six day fast
+on the fifth day, I was able to do pull-ups.
+Like three times the amount of pull-ups
+I'd normally am allowed to do.
+Like my body lets me do with very, very, very little work.
+Like it wasn't nearly as hard as it normally is,
+which is very strange.
+And then also I played basketball for two hours
+and I didn't have the fatigue or like the,
+the side stitch cramp that you get
+when you're, you know, overexerting yourself.
+Like just that alone was enough to convince me that,
+you know, whatever it was that I was getting
+from that extended fast, whether it be the ketones,
+I thought it must have been the ketones,
+you know, my, the fuel not was not glycogen.
+You know, that's what convinced me,
+which that's what introduced me to you.
+That's what it convinced me to try the ketogenic diet
+and then eventually low carbs.
+And, you know, since then I haven't been able
+to maintain a strict ketogenic diet.
+I've cut out a lot of carbs in my life.
+I used to eat pasta probably two days a week.
+Now I haven't eaten, I don't eat,
+I just replace that with like high fat, low carb meals.
+I don't know, is there, do you think there's a benefit
+to if somebody is not necessarily following
+a strict ketogenic diet, ketogenic diet every day?
+Say somebody eats a couple plates of pasta a week.
+Replacing those couple of plates of pasta every week
+over a period of a couple years
+with a high fat, low carb meal.
+So it's not gonna necessarily put them in ketosis,
+but it's gonna cut out the amount of carbs
+they're consuming over a long period of time.
+Do you think there's any benefits to that?
+Yeah, absolutely.
+So it's a spectrum, right?
+So your metabolism is a spectrum
+and the output would be your respiratory quotient,
+which is your O2 consumption, CO2 production.
+It comes out as an equation in expired air.
+So as we reduce carbohydrates and when we reduce sugar
+and we add more fat in, we start to oxidize more fat.
+Our bodies are, we're omnivores, we are great
+in that we burn what we feed our bodies.
+And if we can adapt our metabolism over time
+to be more metabolically flexible, which means,
+and we should do this, we should eat,
+we should vary our macronutrient ratios
+and things like that.
+But if we simply titrate the carbohydrates down,
+typical US carbohydrate consumption anywhere from two,
+300, maybe athletes, 400 grams of carbs a day,
+if we back that down to like, maybe start 200
+and then go 100 and then drop it,
+then we're shifting our metabolism to burn more fat
+and less glucose, right?
+And when in regards to low-carbon ketogenic diets,
+the more you do it, the easier it gets
+and the more benefits you derive from it
+because you're getting more adaptive effects from it.
+So a scenario would be that if you go on a ketogenic diet
+and follow it for a couple of months,
+or we did this with rats where we put them
+on a ketogenic diet and then we take them off
+the ketogenic diet and put them back on the ketogenic diet.
+Again, they make ketones much faster
+once we switch back to a ketogenic diet.
+So we call that a metabolic switch.
+You can hop in and out quickly.
+Yeah, so this metabolic switch,
+we noticed though that older rats
+don't have that robust metabolic switch as much,
+but if we do intermittent fasting is a way to increase that.
+So there are different approaches you could take
+to get your body.
+I think your listeners really want to be more fat adapted
+like coax their body into burning more fat,
+either dietary fat or fat on their body, obviously.
+So one way to do that would be
+to simply restrict the carbohydrates.
+It does not need to be ketogenic.
+You don't have to like be in a state of super low glucose,
+low insulin to be making ketones.
+So that has benefits and can be therapeutic
+for many different things, right?
+But it doesn't, you could be burning your body fat
+at a much higher rate just by reducing carbohydrates
+from, and it's relatively speaking, right?
+So if you're eating 200 grams of carbs
+and you just drop it down to like 50 to 100 grams of carbs,
+you're gonna be burning like twice as much fat, like literally.
+So your body is going to tap into its fat reserves
+and your dietary fat will be higher too.
+If you shift, you know, if you drop carbs,
+you gotta replace it with something.
+You could do protein and fat.
+So the more we do that, there's adaptive processes
+that happen in our liver, at the level of the muscle,
+and even our brain, we start transporting ketones
+across the blood-brain barrier,
+and then our brain starts using ketones for fuel.
+And not only using ketones for fuel,
+but the brain adapts to using lower levels of glucose,
+which means, and you see this with people with diabetes,
+right?
+So if someone's like diabetic
+and they wear a continuous glucose monitor
+and their glucose level is like stays at 150,
+and then through a dietary intervention
+or even like a drug intervention,
+you drop that down to like 90,
+that's still relatively high glucose.
+That should be a lot, but the relative changes,
+that they will perceive that as hypoglycemia
+because their brain is used to 150 milligrams
+per deciliter of glucose, right?
+But when you go on a ketogenic diet
+or you do intermittent fasting,
+that trains your brain for lack of a better term.
+I could talk mechanistically what's going on,
+but the brain adapts to using to being comfortable
+at a lower level of glucose.
+So I've been in situations where I'm fasting
+or on a ketogenic diet, or even if I take exogenous ketones,
+that tends to lower my glucose too.
+Where my glucose is like 52, sometimes, you know,
+as low as 48, and that's when I feel most lucid
+and have the most brain energy.
+Because there's various transporters associated
+with getting glucose across membranes,
+and that could be the blood-brain barrier.
+And then you have the cellular membrane,
+which is the membrane on the neuron,
+you know, getting it across there.
+And there's a variety of different transporters
+with ketones, it's called the monocarboxylgacetransporter.
+And these things get up-regulated,
+which means like you have a neuron,
+and it's got like 100 little transporters,
+but you go on a ketogenic diet or start fasting,
+and then it ramps up production of these proteins,
+which are, transporters are protein,
+they get embedded in the membranes,
+and then it allows your body to transport more
+of this energy across the membrane,
+and then even into the mitochondria,
+where there's also transporters.
+So this adaptive process does not happen overnight,
+but the more you adhere to intermittent fasting protocols,
+carbohydrate restriction, or ketogenic diet,
+then you up-regulate ketogenesis enzymes,
+which are enzymes that make ketones.
+So you're making more of this alternative fuel.
+You are augmenting the production of ketolytic enzymes,
+which are enzymes within the mitochondria in the cell
+that actually allow us to generate energy from ketones.
+And then you're also increasing
+the production of the transporters.
+So you have, so we can get more of this fuel across.
+So there's a lot of adaptive things.
+And you talked about, you know, when you're fasting,
+you did more chin-ups and everything.
+I think a lot of things are going on there
+in that you're relieving your body
+of the burden of digestion, right?
+Digesting, you know, your organs.
+That actually uses a lot of energy.
+So when you're fasting, you know, all that extra energy
+and blood can actually go to your muscles
+and go to your brain.
+And when we fast about 24 to 36 hours
+into fasting, we have about a 30% increase
+in brain blood flow.
+And this is kind of like a mystery,
+but people are studying this.
+And I think it has to be attributed to
+then your gastrointestinal system, your liver,
+your kidneys, your organs take up a massive amount
+of energy and blood.
+And then because you're not digesting food or anything,
+that frees up a lot of it.
+Your liver actually shrinks, you know,
+you have less glycogen and less metabolic activity
+in the liver.
+So you have more blood in circulation available
+to your muscles.
+And the inflammatory state of your body goes down.
+So your inflammatory markers, your cytokines
+and your chemokines go down.
+And when that happens, the skeletal muscle,
+the actual contractile apparatus of the skeletal muscle,
+the calcium signaling, even at the level
+of the sarcoplasmic reticulum and the neuromuscular junction,
+you have a better activation
+of muscle contraction from the brain
+to the motor neurons, to the neuromuscular junction,
+to the release of calcium in there.
+So you have a stronger, more efficient contraction
+when your body is in the state of lower inflammation.
+You know, you reduce the burden of having to digest food.
+And, and then you have ketones too, that are in the mix.
+So your body becomes a more efficient machine.
+So this probably, you know, your strength will probably
+go up in like pulling exercise,
+maybe in deadlifts, probably not things like bench press
+or, you know, which certain exercises,
+you have the advantage of maybe holding extra weight
+because you simply have, if you expand the cells,
+you know, with like creatin and carbs
+and you're holding extra glycogen,
+then you essentially have more cellular leverage
+to move more weight.
+So, so for example, my nutrition, fasting,
+regimens are different depending on
+like what type of workout I'm going into, you know?
+So that's, that needs to be taken into account.
+Yeah, that's another thing I wanted to ask you about.
+Obviously, you know, you, I'm sure you spend a lot of time
+during your day sitting at a computer doing research.
+Way too much.
+I do the same thing.
+12 hours a day.
+So it, when I try my hardest, I can go on,
+I can go on a month long stint of being pretty damn close
+to being in ketosis.
+But there's some, it's so hard.
+I have so many like questions.
+I'm trying to like form it into, keep it organized.
+When, what is your specific regimen
+when it comes to like your everyday?
+I know you have different workout routines
+that you're going into, but for someone like you,
+you're a big guy, you work out a lot,
+but you also spend a lot of time sitting down.
+Like what, and sitting at it as working,
+not being, not being active.
+It's different for people like you
+or people like myself than it is for somebody
+who works like construction
+or is on their feet running around all day.
+For someone who spends a lot of time at the desk,
+like what is your regimen, for example?
+Like what, like how often do you typically eat?
+What does that look like?
+And then what type of supplements are you taking?
+Yeah, I'll give a question.
+Well, I, I think sitting can be like really toxic
+if you're sitting all day.
+So I actually built a stand up desk at home
+and then working a lot at home with COVID,
+but I also teach and like last week
+I had to teach all week and I'm standing behind a podium.
+So that's better than sitting at my desk.
+And my students actually bought me a stand up desk
+for my office.
+So yeah, so that was when I got tenure,
+they bought me that.
+So it kind of gifted them.
+So I do probably more than 80% of the time
+if I am at the desk, I'm standing
+and moving around from conference calls
+like I walk around and do that.
+So depending, my nutrition will vary depending
+upon if I want to lose weight,
+maintain weight or gain weight, right?
+And also varies depending upon my routine.
+I'm talking just to my routine will depend upon
+the type of workout that I'm doing too.
+Last week, I guess for an example,
+I hosted Thomas DeLauer,
+who's got a massive YouTube page,
+check him out, it's like three million followers.
+And I knew he was coming and I knew he was going to,
+my typical routine is through, in academia,
+you have very long hours.
+So even when I was a PhD student,
+it was like get in there, warm up,
+lift really heavy and get out.
+And then I was able to build a lot of muscle
+just doing that and a lot of strength and size.
+Dorian Yates and Mike Menser popularized
+an approach called the heavy duty approach.
+And it was just like I followed them
+and would learn to warm up
+and do two or three major compound movements
+and maybe one or two accessory movements sets really and be out.
+So I still revert back to that today.
+Although last week was really challenging
+and it was really pushing me.
+I do a lot of work outside.
+We have a farm.
+So I'm always moving hay bales and shoveling poop
+and just cutting logs and stuff like that.
+So that has kept me in shape and...
+You're a real man.
+Yeah, I enjoy that.
+That's part of like my routine actually.
+And so yesterday I spent a good time fixing fences
+and cutting logs and everything.
+That's awesome.
+So yeah, last week was kind of fun
+because I was put through a workout that I typically don't.
+It was like maybe an hour and a half of training.
+And we did a wide variety of high volume
+from weighted dips to chins.
+And then we did shoulder exercises
+and all these accessory movements I typically don't do.
+And it was like freezing cold
+but Thomas DeLauer was like an animal.
+He had like no sleep.
+He came in and slept three hours
+but he does intermittent fasting, ketogenic diets.
+And he's a pretty big dude, like pretty heavily muscled.
+And then we did our workout which went well.
+I was able to keep up with him and even deadlifts.
+You know, I'm pretty strong on that exercise.
+But we went from that to training outside
+where I had a thousand pound hay bale.
+And the idea was to roll it across the farm
+across the cowbridge onto the other property.
+So we had, we took turns rolling this thing
+across the pasture.
+And that, it's like pushing the sled but even harder
+because you know, it's wet, it's like, you know
+this thing, it's hard to push up hills.
+I mean, it totally spent, you know
+totally drained every amount of ATP I had.
+And I really felt in that context
+and we talked about it after
+and we actually, you know, developed some interview content
+around this idea of that would have been a good scenario
+or a good point in time to add carbohydrates
+because I typically don't train that way.
+If I was ketogenic, I could probably train my body
+to do an hour, an hour, half workout.
+But because my workouts are usually 30 minutes
+if I extend it to an hour, an hour and a half
+not having carbohydrates would be detrimental, I think.
+But I feel like I could get a sufficient amount of stimulus
+within a 30 minute workout to grow muscle
+and to grow strength and just going beyond that
+is just like a waste of time
+because I'm not like a professional athlete
+or anything like that.
+Although if I was going to be, you know
+a bodybuilder, a competitive powerlifter, a football player
+I would be doing two or three hour workouts
+and I would probably introduce some carbohydrates
+in and around my workout, but not much.
+A little bit goes a long way.
+But, you know, and I would probably add them
+intra-workout about halfway through.
+So, but for me, I really, I probably spend about an hour.
+Like carbohydrate supplements?
+Yeah, like a little bit of, you know
+simple sugars in the form of glucose polymers
+or, you know, I will, I should just have like dark chocolate.
+I'll have some dark chocolate if I want a little bit of carbs
+and sometimes I get into routines where like I just
+cutting, I'm just like moving logs all day
+and just like, it's like eight hours of deadlifting.
+You know?
+Yeah.
+If I'm doing some fence work or something like that
+and just doing a lot of heavy farm work
+and then I will titrate some carbs in and I feel it.
+I mean, but I like to keep my body hungry for carbs
+and in the process of doing that,
+you're adapting your physiology to be able to perform
+and preserve that performance in a low carb state.
+And I think there's a lot of advantages to that.
+So your glucose is low, your insulin is low
+and that allows you to tap into your fat reserves
+more efficiently.
+So we have an endless amount of fat.
+Even a lean person has, you know,
+20 to 30,000 calories of fat on their body,
+even a lean person.
+So we can always tap into that.
+Whereas, you know, if we cut carbs completely out
+within like 24, 36 hours,
+we're going to deplete our liver glycogen.
+But if we are fat adapted and we have good metabolic
+flexibility, that means that,
+and a good way to assess this is if you stop eating
+and you fast and if the fast is extremely painful
+and you get a headache and you just can't perform,
+then you're not fat adapted.
+So one way to get your body more fat adapted
+is simply the first way to do it is to simply eat
+within a 12 hour window and fast in 12 hours.
+So start there and then you can push it
+to like a 16 hour fast and eight hours of eating.
+Some people go to like 20 hours of fasting,
+four hours of eating.
+If I did that, I would lose way too much weight
+and size and strength.
+So what I do personally is just,
+I do intermittent fasting, a 16, eight protocol
+just twice a week, if that.
+And that's actually enough.
+So 16 hours of not eating.
+16 hours fasting, 16 hours of just skipping breakfast.
+Like last week, I like lecture twice.
+It's like I would finish my lectures for the day
+around two or three o'clock in the afternoon
+and then that would be my first meal.
+So, and sometimes during the day,
+I might have some ketone supplements
+or I might have like black coffee or something like that.
+And sometimes I put MCT in it, sometimes I don't.
+But basically the most important thing is to keep insulin
+and glucose low and that pushes your body
+to be more fat adapted.
+And when we get fat adapted and we go in a situation,
+if we don't have any carbs or if we go
+into a fasting situation,
+the body is completely immune to the energy crisis.
+So your body knows what to do, quickly liberates fat for fuel.
+And I think a lot of things are going on there.
+It's like you're increasing something called glucagon.
+You're stimulating your sympathetic nervous system,
+your catecholamines and that's basically hits a hormone
+called hormone sensitive lipase.
+And so basically it just like it opens the floodgates
+for fat to go out of your cell and to be used as energy.
+And some of that fat goes to the liver
+and through ketogenesis generates ketones
+and then ketones can largely replace glucose
+as an energy source, which you were experiencing
+when you were fasting for five to seven days.
+You did, yeah.
+I did, I quit on the sixth day.
+I wanted to go seven, but I couldn't.
+Yeah, well at that point in time,
+like the majority of your brain energy
+was coming from ketones.
+Like if you fasted that long.
+So it takes a while to get to that.
+For me, so and we calculate this
+through something called the glucose ketone index.
+So you can measure glucose
+and in milligrams per deciliter or a millimolar.
+So in millimolar we're about like four to five millimolar
+is normal, but when you fast, you don't go to zero
+because we always produce glucose
+through gluconeogenic amino acids
+and the glycerol backbone of triglycerides
+becomes glucose and everything.
+So our glucose goes down, but stays like low
+and stable at about three millimolar.
+And after about three days of fasting,
+on the first day, if you're eating a standard diet,
+your ketones are like zero, right?
+So, but after about three days of fasting,
+you're up to about three millimolar ketones.
+So we call that a glucose ketone index of one, right?
+So the level of glucose in your blood
+is fairly equivalent to the level of ketone in your blood
+and your brain will use whatever fuels available.
+So you have the transporters for both.
+So you're using about 50% glucose and 50% ketones.
+At three millimolars.
+At three millimolars.
+That's for me and for, I've tracked many different people,
+especially athletes at about the third day,
+they have a glucose ketone index of about one,
+which means you get, your brain's like a hybrid engine.
+It can use glucose or ketones or it could use both, right?
+So in that particular state is very therapeutic.
+So a glucose ketone index of one
+is tremendously neuroprotective.
+It's tremendously anti-seizure.
+Organizations like Johns Hopkins and Mayo Clinic,
+when they have kids that come in
+and put them on a ketogenic diet,
+if they can get their glucose ketone index to one,
+then that has remarkable seizure control
+above and beyond any anti-convulsant that we know of.
+That's really amazing to me.
+And that's what actually motivated me
+to spend my career studying this.
+But when you were experiencing it,
+you probably felt lighter.
+You probably felt everything was kind of like smooth.
+My mental acuity, I was so much sharper
+when I was thinking and talking.
+I could do things like this so much better.
+No fatigue, no mental fatigue at all.
+Yeah, yeah, I typically like this morning
+I had steak and eggs for breakfast,
+but because I was like so active over the weekend,
+it was just like my energy levels were down.
+But typically, so as I'm transitioning more
+throughout the day into a more fasted state,
+I can feel my body and my brain becoming more awake.
+So typically my normal day is kind of like,
+I don't do intermittent fasting every day.
+I'll eat a small keto breakfast
+and then fast throughout the day
+and then have a pretty large meal
+and then maybe some activity
+and then like a snack at night.
+That's what I typically do.
+Sometimes I'll eat those keto bricks.
+Oh yeah.
+Like a little bit of those keto bricks.
+I know Robert very well.
+Just the coffee, I don't know.
+Everything I eat that's keto
+is just from your Instagram page.
+So I just copy pretty much everything I see you do.
+Yeah, shout out to Robert at Keto Brick.
+It's like one of the,
+so a lot of people send me keto supplements
+and keto products and maybe only 10,
+not even 20%, maybe 10% like actually are truly keto.
+So a keto brick is something that is like,
+it's a thousand calorie brick
+that has the macronutrient ratios that are truly keto,
+which means you eat it
+and then you are truly sustaining the being in,
+like you could use it clinically.
+Like the product could be used like in a clinical setting.
+Oh wow.
+To manage like it's that legit.
+Okay.
+Yeah, I mean it fills you up.
+It fills you up.
+I can only eat like a quarter of one maybe at most
+and one sitting with coffee.
+Perfect for like backpacking,
+like hikers, like hunting, something like that.
+Yeah, I mean, yeah, I eat a couple of week.
+Do you?
+I gotta reorder them actually, yeah.
+It's the hardest thing for me
+as far as like maintaining this nutritional state
+is I can fast all day long.
+Often I'll go a couple of times,
+maybe one time a month, I'll do a 24 hours
+and then I'll spend a couple days like strict keto.
+But other than that, like when I'm just like coasting,
+I can easily, I intermittent fast most days
+of Monday through Friday.
+I try to do that at least.
+But then when I get home,
+I'll eat chips or I'll eat a cookie.
+Is it true that that's can be worse
+if you're in a ketogenic state from either fasting
+or from diet and then you splurge
+and eat some chips and cookies?
+Is that worse than just eating,
+just keeping a carbs in your diet throughout the day?
+Yeah, so I mean, I'm looking at you,
+looking at like your metabolic phenotype,
+you're probably digesting and assimilating that.
+The only way, I'm kind of against,
+processed food in general.
+I try to eliminate it, although,
+I don't, my wife is pretty liberal in whatever she eats.
+I mean, you know.
+I watch the same way.
+Cookies, candies, things like that.
+And she can maintain her blood glucose and insulin
+and within a pretty tight parameters, right?
+So the majority of people can't.
+Majority of people have hyperinsulinemia,
+insulin resistance and they don't,
+they should not be eating these things.
+It's adding more kind of fuel to the fire.
+These are hyper-palatable foods
+that reinforce a dopaminergic pathway,
+among other things associated
+with the control of eating behavior,
+which is very complex.
+So it's reinforcing, the more you eat the foods,
+reinforcing that eating behavior of that kind of food,
+that's hyper-palatable.
+Typically high carb, high fat, high sugar,
+or high salt content too.
+So for you, I mean, you may need the calories to maintain it.
+And for me, at the end of the day,
+sometimes I have to have like a cup
+or two cups of sour cream
+and I put some protein powder in it
+and some stevia or whatever just to get my calorie.
+Yeah, I'll do sour cream, some wild blueberries,
+and it's stevia and dark chocolate powder,
+and just to get my calories,
+because I was so busy during the day,
+I just didn't have my calorie needs, I'll lose weight.
+But I think the only way to really know
+if this is harming your body is to do blood work.
+And so I'm wearing, I talked about a continuous
+glucose monitor, I have a Dexcom G6 on the back
+and sometimes I use the Abbott Precision,
+or the Abbott Libre device.
+And I use that with an app called Levels Health.
+And Levels Health app is really a tool
+that we are using in a registered clinical trial
+as a behavioral tool to more or less prevent
+what you just told me you're doing,
+which is like kind of going throughout the day.
+If I go throughout the day, by the end of the day,
+I'm more hungry than if I had eaten a meal earlier
+so that's kind of why I realized
+that intermittent fasting was leading
+to more erratic eating behavior at night.
+And I am like, I get the munchies at night,
+so simply eating a well-formulated ketogenic meal
+earlier in the day knocks my appetite down by like 30%.
+It doesn't go away, but I definitely am less ravenous
+at night time.
+And being low-carbon being keto actually helps
+with controlling your appetite,
+so your appetite's not controlling you.
+But what it allows me to do is that,
+I can look at, and my phone's kind of off right now,
+but I could just show you, oh, I need to access,
+I don't want to turn it on
+because it'll blow up over to ever.
+But I can, oh, you've probably seen my Instagram
+where I show my glycemic response,
+where I can see my glucose response,
+in response to a pop tart versus a tasty pastry,
+which is made by legendary foods,
+which is like tastes just as good or better
+than a pop tart, right?
+They have like different variety,
+like blueberry and cinnamon and dutch.
+And then they have, and I'll eat a regular pop tart,
+they are two different things
+that actually are just as enjoyable to eat,
+but the pop tart actually shoots my glucose
+to like 220 milligrams per deciliter,
+which is like a glycemic hit.
+And these spikes and glucose can be pro-inflammatory,
+they can trigger an insulin response,
+quickly kick you out of ketosis
+and basically put you in the fat storing mode.
+Whereas when I ate a tasty pastry,
+it was almost like a flat line
+on the continuous glucose monitor,
+which means I don't have a big bolus of glucose hitting.
+Tasty pastry.
+Yeah, tasty pastry by legendary foods.
+So, you know, if I, if I'm, if you have to say,
+if it point the finger towards me
+of eating one processed food, it would be tasty pastry,
+but it's in no way equivalent to a pop tart.
+And I think most importantly,
+from a metabolic physiology point of view,
+I mean, it's super friendly to your metabolism
+in regards to glycemic variability.
+So I advocate for, if you can't understand something
+unless you monitor it, right?
+If you want to manage something, yeah, you have to,
+you have to measure if you,
+if you want to effectively manage something.
+So I'm a big advocate for people
+just knowing what your baseline is.
+So by a glucose monitor,
+you can get at any CBS Walgreens, Walmart,
+prick your finger, measure your fasting blood glucose.
+If you're over like 126 and you measure that again
+and you're over it twice, you're type two diabetic
+and many people are borderline prediabetic.
+So at the very least get, you know, blood work,
+like once a year, ideally three or four times a year.
+And, you know, you want to measure your insulin to,
+but glucose is like the most important biomarker for health.
+And one way to track glucose continuously
+without having to prick your finger all the time
+is actually to get a continuous glucose monitor.
+And-
+Is it like go in you?
+Yeah, there's an applicator
+and you put it on the back part of your arm here.
+And I mean, you could put it on your stomach and stuff too,
+but I like to be consistent and put it just on the,
+just the meaty part back in the tricep.
+And that's basically like a dashboard
+to your metabolic physiology, your glucose, right?
+So-
+You get those at CBS?
+So the continuous glucose monitors are prescription items
+that are primarily used for type one diabetics
+and also in type two diabetics.
+There's a company called Levels Health
+that you sign up and you go through
+an online application process and fill out a quick form.
+It might take five to 10 minutes.
+And then there's a third party that fulfills a prescription
+and then they just send you the kit to your house.
+And you get a couple of devices and you get a transmitter.
+And then you have access to the app.
+So that's where the technology comes in
+in that within the app, I, for example,
+I ate a tasty pastry and then I ate a pop tart
+and then I had on two different days
+and I had a very informative glycemic trace
+over the course of several hours
+and actually gives you a metabolic score.
+And then I can go into the app and then do compare
+and I could just go the day before.
+Basically, I take a picture of it
+and I write tasty pastry and I take a picture of the pop tart
+which is right pop tart, you know, the next day
+and I go into the app and I compare these two
+and it shows me it overlays the glycemic response
+from pop tart and the metabolic score, the rate of rise,
+you know, the peak rate and the area under the curve
+and all that stuff is calculated.
+And it compares that the tasty pastry to the pop tart
+and it shows, you know, you have two dramatic,
+two very dramatic difference between, you know,
+two things that are just as enjoyable to eating
+but two different metabolic responses.
+So I'm a big advocate for measuring glycemic responses
+to food because I thought, I thought, you know,
+whole grained oats oatmeal would have a nice flat response
+but it shot me to like 200.
+And I thought, yeah, I thought like, you know,
+eating an orange would not be too,
+if I ate a large orange, it would shoot me up
+at most 50, 60 points.
+So even blueberries, if I eat blueberries
+without protein and fat, I get like a,
+probably a 20, 30 milligram per deciliter spike.
+So I learned, I learned a lot of things
+using continuous glucose monitor.
+One is that if I eat fiber before a meal,
+fat or fiber before eating a carbohydrate
+or a large amount of protein, that fiber and fat will,
+so eating a salad with like a lot of olive oil
+and a mixed greens, and then I eat a steak
+or a lot of protein after that,
+the protein could spike me up a little bit
+or even if I eat carbohydrates,
+eating that fat and fiber first
+will block that glycemic response.
+So not only like the peak glycemic response
+but meaning the area under the curve.
+So, which means the total glycemic load
+is reduced simply by eating fiber.
+So what that tells me is that I have
+an appropriate insulin response
+and the insulin is doing its job more efficiently
+and taking that glucose and putting it into the muscle
+or into a liver or wherever it needs to be.
+Whereas if I was to drink, you know,
+24 ounces of Gatorade, that glucose is hitting the system
+and the body is going to dump a massive amount of insulin
+and typically what's gonna happen is that,
+you know, the insulin gets released,
+it's going to stimulate de novo lipogenesis,
+you're gonna like, you know, glucose transporters
+will be overwhelmed, so you're gonna get a big spike up
+and then you're gonna get this post-prandial dip
+in your glucose where you're going to be super hungry
+and ravenous, you know, after the insulin gets,
+you're gonna get, it's gonna spike up,
+you're gonna dump insulin, insulin gets released
+and then you're gonna get super hungry
+and this is the vicious cycle,
+the majority of population is on right now.
+So they're eating carbohydrates, they're eating chips,
+they're eating things between meals
+and they spike their glucose up
+and then two or three hours later,
+they get a post-prandial dip
+and then the brain senses hypoglycemia
+and that hypoglycemia is a trigger
+for you to go eat more carbohydrates and get your glucose up
+and a lot of people don't know that
+and they would not know that
+because they're not using continuous glucose monitor.
+So, I mean, I've been wearing it for years
+and it's not something you necessarily have to wear for years
+but if you just wear it for four weeks,
+it is so insightful and full of actionable information,
+you can change your dietary patterns
+to really optimize your glycemia throughout the day
+and that will give you so much more energy,
+it'll give you, you can perform better,
+you can recover better from exercise,
+you can think better.
+So it's a very cost-effective tool.
+It might be a little bit pricey to buy up front
+but you can, it's like two or $300, I think.
+But you just, I think if you just use it for four weeks,
+that you get so much information out of that,
+that it's actually pretty cheap.
+Yeah, so don't fast all day
+and come home and eat a giant bowl of Captain Crunch.
+No, no, no.
+I did, there's like, there's Catalina Crunch
+I've tried some of those keto cereals,
+they're actually not bad.
+Yeah, so I think it was Magic Spoon I tried maybe.
+I tried my, yep, that tested okay.
+So I tested a lot of things,
+so I wear a continuous glucose monitor to vet out
+which truly low carb, it was keto
+and Magic Spoon was like pretty okay, it was surprisingly.
+Although it's got like Chick-Ree-Roo and Inulin in it
+and that gave me gas, but and then Catalina Crunch,
+it's like two thumbs up on the taste, pretty good.
+But if I eat it dry out of the box,
+it was definitely shooting my glucose up,
+not way less than like Captain Crunch,
+but when I used like a high fat almond milk
+or coconut milk or if I put it in sour cream
+and put cinnamon and ate it as a snack,
+then it was like no spike.
+So just, you know, coupling that with fats.
+With fats, yeah, it didn't spike me.
+One of the interesting things which I emailed you about
+was when I did, I believe it was last,
+about almost a year ago today,
+I did a five day fast, at the very end of the five day fast,
+I did a blood test on myself,
+came back, my LDLs were through the roof.
+Yeah.
+Remember I set you some screenshots of it
+and you said, there was a,
+you sent me something back where,
+I said a lot of athletic or active people
+who are on ketogenic diets see that heighten cholesterol.
+Yeah, that's, and there's a term that has been developed
+for that called lean mass hyper responders.
+So a lot of elite level athletes that are,
+and they don't only have to be elite level,
+that are following a low carb approach
+and getting their bodies to basically run off fat
+and ketones, when we look at their lipid profile,
+and I forget where your triglycerides were,
+but in the typical-
+I didn't get, they didn't test my triglycerides,
+I have it right here.
+Well, typically what we see with athletic folks
+that are following more of a high fat dietary pattern
+is that their triglycerides will,
+oh, is that ZRT?
+Yeah, exactly.
+Oh, okay.
+Yeah.
+Oh, your HSCRPs low, insulins low,
+hemoglobin A1C is very low, HDL.
+I don't know what any of those mean.
+Your high density lipoprotein is a little low.
+33 is kind of low.
+Relatively speaking,
+I like to keep, I like to have my HDL in the 60 range,
+but your hemoglobin A1C low, your HSCRP,
+which is your inflammatory marker, is 0.1.
+It's probably gonna fasten.
+Yeah, you can't get much better than that.
+And then your insulins, yeah, 3.9, so that's pretty good.
+The other ones are kind of cut off,
+but I don't see your LDL here.
+Oh, wait, let me see.
+Yeah, it wasn't, it didn't have LDL, but it had,
+what is the HSCRP?
+That's high sensitivity C-reactive protein.
+And it's a marker, I like it.
+Some people, I think it's very good
+marker of systemic inflammation.
+And I basically see that people with high HSCRP
+really have, you know, bad metabolic health.
+And as their metabolic health improves,
+high sensitivity C-reactive protein goes down,
+so systemic inflammation goes down over time.
+And that's also people who have HSCRP,
+if it's high, you're more likely to get cancer,
+you're more likely to get, you know.
+If it's high, okay.
+Yeah, people who have cancer, I tend to see high HSCRP.
+So it's super good and important to have low levels
+of systemic inflammation.
+And that's, that was very indicative
+of what you just showed me.
+So that, so even, so if you have those numbers
+and your LDL is high, my personal opinion,
+I would not be too concerned with that.
+So your-
+Is LDL really bad?
+Is that like, I heard that some people claim
+that that's a myth that LDL is really not bad.
+It's very complicated and it's a nuanced discussion.
+Right.
+That's probably above and beyond here.
+But my short answer is that if you're,
+if your glycemia levels are good,
+insulin levels good, inflammation's down,
+ideally you want your HDL a little bit higher than that,
+but still kind of okay.
+And your triglycerides are low too.
+Having a high HDL, I would not be concerned,
+especially, you know,
+if your blood pressure is good and you're healthy.
+So we do not know what an elevated LDL means
+in the context of a low carb diet
+or in the context of this extended fast.
+So I don't think my, every doctor will tell you
+that's bad and you need to do something about it
+and you should probably be on a statin.
+But the science has not,
+the science has not, doesn't have any data really
+on what healthy LDL levels should be
+in the context of like a fast like you did
+or in the context of a protracted
+or extended like low carb diet.
+Like we just don't have that data yet.
+But if your other,
+if your triglycerides were elevated
+and your HDL were elevated, I would be concerned.
+Or if your hemoglobin A1C was like 6.5,
+but you were like 4.1, that's like super low.
+So what that tells me-
+Are those all considered triglycerides?
+So your triglycerides were not,
+your triglycerides should have been tested,
+but I didn't see them on there.
+But basically just by looking at your insulin
+and your glucose and your other markers,
+what that tells me is that your body
+was in a very high fat oxidation state.
+Your glucose was low.
+And in the context of an elevated fat metabolism,
+you're going to need more lipoprotein.
+You're going to need more.
+And that's LDL is not cholesterol,
+but it carries cholesterol.
+So low density lipoprotein carries not only cholesterol,
+it carries phospholipids, it carries triglycerides,
+it carries other fats.
+So we need more of that protein
+when we are preferentially using more fat for fuel
+because that's a transport system for fat,
+for phospholipids, for other molecules.
+So we need more carrying molecules in circulation.
+And yeah, if all your other biomarkers are okay,
+I would not be too concerned.
+Although, to follow up, the only way
+to really get insight into that is to do
+what's called an NMR lipid profile,
+which basically measures like your LDLP,
+your APOB, your LLP, little A, these are things,
+again, kind of beyond the discussion here.
+But if your LDL is persistently elevated
+across a couple blood draws,
+and your triglycerides are a little bit high too,
+and your HDL is a little bit low,
+so HDL high is good, HDL low is bad.
+You may want to adjust your diet a little bit.
+Which I've done.
+Yeah, but I wouldn't, I mean, those numbers are great,
+especially like after a fast.
+I would expect that, and it's also pretty similar to mine.
+I didn't see what your other, what your...
+I was trying to find it,
+but it's taking me forever to get it on the laptop.
+Going back to, I want to talk about more about the NMR,
+and what was it, the Verso product is NMR
+and Resveratrol, which produces naturally NAD, right?
+Well, it hits the certuans, yeah,
+which is kind of like, and P-P-A-R.
+So essentially what it does is it's elevating NAD.
+So as we age, so I'm taking Verso,
+so my NAD levels may be a little bit higher.
+So if I was not taking Verso product,
+my level of NAD would probably be half
+of what it was when I was like 17 or 18 years old.
+So as we age, we have a correspondingly
+progressive decrease in NAD levels,
+which is sort of like this energy intermediate
+that's really important for cellular energy production,
+you know, signaling molecules.
+So the NMN or nicotinamide riboside
+or nicotinamide mononucleotide,
+which is found in the Verso product with Resveratrol
+is hitting CERT1 receptor and associated pathways,
+which is really helping the body.
+The way I think about it is it's coupling
+mitochondrial activity and mitochondrial health
+with the nucleus.
+So there's crosstalk between the mitochondria,
+which are the energy producing organelles of the cell
+and the nucleus.
+And there's like this retrograde response
+where there's crosstalk.
+And essentially, and there's a lot of activity
+that's driven by NAD, cellular respiration.
+So the NAD supplement is sort of restoring
+the cofactors necessary to make ATP,
+but I think about it mostly from a signaling perspective
+as coupling the mitochondria to the nucleus
+and producing an appropriate response
+in regards to generating the bioelectric
+or the bioenergetic state of the cell.
+So that's the couple.
+And my criticism of NMN and NR was that
+when you take it orally, it's not getting into the cells.
+But I think the data is to the point now,
+especially if you take a large enough dose
+that it is getting to the cells.
+And the dosage that we need,
+the human studies really are not there yet.
+And I was a little bit hesitant taking it,
+although anecdotally, if I take a large dose, I do feel it.
+And I've not taken IV NAD yet,
+but the feedback from people that I respect
+suggest that it's pretty effective.
+Yeah, my friend who I was telling you about
+who's been doing it every other day,
+he's in his late fifties,
+and he says he doesn't really notice much of a difference.
+But the first time I did it, I felt like I could jump
+over the moon.
+I had like an insane energy boost
+that I've never experienced.
+After that, it wasn't so bad.
+One time I did it, I felt like I was gonna throw up
+for four hours afterwards.
+I know when you're doing it,
+it's extremely stressful and painful on your body.
+You feel like you have the flu while you're doing it.
+But after, I think it was the third time I did it afterwards,
+I felt like I was sick for a couple hours,
+which was really weird.
+I didn't have the energy spike.
+I don't know if that had to do with the needle placement,
+if they messed it up when they put the needle in my vein
+or what, but um...
+Was there anything else in the drip?
+Like a scorbic acid, like vitamin C,
+or like a Myers cocktail.
+Myers cocktail, yep.
+They did the NAD.
+So you were experiencing that sort of like coldness
+that you feel in the cringe sometimes.
+There's different effects you may feel.
+Also, you have to acknowledge that a scorbic acid
+is a glucose antagonist, which is vitamin C.
+So vitamin C and glucose use the same transporter.
+So when you get a big dose of vitamin C,
+a big dose IV would be anywhere from 20 grams.
+So some clinics use like 100 grams of IV vitamin C.
+Your body goes into a most reactive hypoglycemia
+because the same channel,
+the glucose transporters that transport glucose
+also transport vitamin C and you're blocking that.
+And so there's a wide variety of effects you could feel
+depending upon if you went into it fasted
+or if you had a meal or something.
+And it probably had the pee like crazy too,
+like right after.
+Oh yeah, the first time I did it, I did it fasted.
+I felt great.
+The time I got sick, I ate an egg McMuffin before.
+Okay, yeah, yeah.
+So that could factor into that.
+Yeah, you're probably dumping a lot of insulin too
+and maybe you have like an effect after that.
+So I think there's good science emerging from NAD.
+I'm of the opinion, let's try to increase NAD levels
+naturally and sustain it naturally.
+So ketogenic diets, there are some people in the field
+of basic science research and clinical research
+to that field that the therapeutic effects
+of the ketogenic diet on the brain and on the body
+are due to a boost in NAD, NAD to NADH ratio.
+So there's a whole field of people kind of studying
+that fasting will increase NAD levels
+and exercise increase NAD levels.
+So if you do a low carb ketogenic diet
+with intermittent fasting and exercise,
+you're basically doing like everything you could do
+to boost your NAD levels.
+So I don't think you have to do the IV route.
+I think you can get the benefits
+and it's much easier, right?
+You can take a supplement like Verso.
+Cheaper.
+Yeah, yeah, and...
+And it's interesting that it helped you with COVID too.
+You know, I didn't expect,
+I think it was from like an energetic point of view.
+Like I came down, I had very mild symptoms
+for about two or three days
+and then I got a fever about 103.7
+and I remember I was working all day during this,
+having to do interviews and stuff with the school.
+And although it was virtual,
+I wasn't like spreading my germs around,
+but it was that day that actually got back
+on with the Verso product again.
+And I was mega dosing.
+I was taking 12 capsules.
+And I turned the corner real quick.
+Like the next day I woke up, I like sprung out of bed.
+I was ready, you know, right at work.
+I was just like, I had a lot of energy,
+but I could still feel that my immune system
+was in a hyper immune surveillance point of view.
+My glands were very swollen,
+but throughout the course of the day,
+by the end of the day, my glands had went down
+and I was just left with like, you know,
+this tickle in the back of your throat.
+So for me, I don't know what version I had.
+I suspect I might have had the Delta variant,
+but maybe I had the Omicron.
+It started as just like razor blades in my throat.
+And then, and then I had the fever
+right around that time or whatever,
+but it was really bad for two days
+and then just kind of lingered for a week or two after.
+Whereas my wife, we obviously got the same thing
+because it happened like the early symptoms
+started at the exact same time
+and we both had the same fever within, you know, one or two.
+But her symptoms were muscle pain and bone pain.
+And actually, your symptoms were a little bit less in mind,
+but we both recovered pretty quick.
+And you're vaccinated?
+You don't want to talk about that?
+Well, you know, I am because of the work I do
+and, you know, I chose to get vaccinated.
+So I'll say that, but I am in touch
+with a number of people who I was within a circle,
+like a family circle and friends and everything.
+They all got the same variant that I got
+because we all got sick around the same time.
+Oh, you were all together, okay.
+Yeah, and I'm not, I mean, my wife is part
+of this bigger group.
+And it was kind of interesting in that
+it did not seem to make a difference, vaccinated or not,
+you know.
+Between you and your wife?
+Her symptoms were less than yours.
+Yeah, her symptoms were,
+well, I'm not going to say if she's vaccinated or not,
+but I'll say that we were amongst her,
+she included a number of different people.
+And actually the people that were not vaccinated
+probably had a little or no symptoms.
+A couple of them, you know, didn't get infected at all.
+We had a big family get-togethers and stuff
+and we traveled back and then got on the phone
+and it was like realized everybody was sick.
+So I got a head count of like who's sick,
+what are their symptoms?
+And I went through everything.
+And there was a couple people among family and friends
+that were unvaccinated and they didn't even get it,
+but all their family members got it.
+So I think the bottom line is that I don't think that,
+the whole point of vaccines was to decrease the length
+of the, you know, the pandemic.
+And I don't think that happened, right?
+I mean, just look at the scenario.
+Right, no, now you have to get your fourth, fifth one.
+Yeah, yeah.
+And whether that, I don't think the protracted nature
+of the pandemic is due to the unvaccinated.
+I think we can reliably say that at this point in time.
+So, but I mean, I think there is something to the idea,
+especially if you're older and metabolic health,
+if you have type two diabetes, if you're obese,
+if you're older, I'm all for getting vaccinated,
+then it becomes questionable if you are younger,
+if you're kids, like, you know, that's a whole nother.
+I don't even choose to weigh in on that
+because it's so polarized that, you know,
+but I have my own opinions, but I do feel that, you know,
+I encouraged, you know, my family members who are,
+you know, older in their 70s and 80s and stuff
+that might be good to get vaccinated,
+but who knows at this point in time?
+I just don't think it, it definitely didn't help me
+as far as, I felt like I had no protection, you know,
+after being vaccinated.
+What did you think of all the supplements
+that Joe Rogan said he took when he got,
+because they were shitting all over him,
+all over the news and everything,
+saying that, you know, he was taking all this ridiculous stuff,
+like deworm, horse dewormer and all that stuff,
+but, you know, he took a lot of stuff.
+Yeah, well, he took monoclonal antibodies too.
+And NAD, right.
+Oh yeah, yeah, monoclonal antibodies.
+I think he might have taken NAD.
+So, I'm of the opinion, so I take, you know, I take zinc,
+I take quercidin, I actually have prescription
+vitamin D that I had on hand that I, that I took for that.
+And prescription vitamin D.
+Yeah, it's actually prescription vitamin D2.
+So, I'll take D2 and D3, quercidin, zinc, vitamin C,
+a couple other things here and there, like,
+I mean, for lifting, I take creatine monohydrate,
+acetyl-L-carnitine, I think is really good.
+If you're on a ketogenic diet,
+your body gets depleted in carnitine
+because carnitine transports
+is a part of the fatty acid transporter.
+So, we tend to deplete it
+just because we're burning so much fat.
+So, I do that, and then I took a lysine,
+which an amino acid kind of can boost your immune system,
+and then exogenous ketones.
+So, I think all of that and omega-3 fatty acids,
+I think are good too.
+So, that's, you know, I tell people,
+I don't really take supplements,
+but I guess I just mentioned quite a few things I take.
+A lot of vitamins.
+But it's all, you know, I wake up in the morning
+and I set all the powders out.
+I buy pretty much everything, like bulk powders,
+a lot of things, except, you know,
+of course vitamin D is not, or zinc.
+And then I scoop it on, just take it in the morning,
+and then I'll put another in a shaker bottle,
+some of the powders, and I'll drink that like midday
+or before dinner or something.
+But I do think that there's a case for supplements.
+Ivermectin's a little bit,
+I think there is some, it needs to be studied more.
+I mean, we have cows, we have animals,
+we have tons of it on the farm.
+I didn't dig into my veterinary stash of Ivermectin.
+It's funny that it's in the heartworm stuff
+that you give dogs, right?
+If you read the ingredients, it's actually in there.
+Yep, yep, it's in, you know, right down there.
+Tractor supply, I think they were like sold out of it.
+I do think there's a case to be made.
+I think we just need to study it a little bit further, right?
+As, you know, hydroxyquinone,
+and like the quinine derivative is too,
+I think we need to look at them.
+Well, it's funny, the crazy weird thing about it
+is the vaccine's supposed to be for prevention,
+and this other stuff that people are talking about
+is for treatment, like treatment of it.
+Like once you already have it,
+what's the best way to treat it?
+Yep.
+You know, and people at the hospitals say,
+wait until you need to be on it,
+until you can't breathe, and then you show up.
+Yeah, so my hunch is that in the very early case,
+maybe for, as a prophylactic measure,
+ivermectin could potentially be useful
+for some people who are at high risk.
+This is what, this is just kind of,
+I'm just speculating here,
+and also potentially good to have on hand
+at the first sign of maybe getting it, so ivermectin.
+But I think the science is,
+just needs to catch up and support that.
+There's some science,
+but it's just not the large clinical trials that we need,
+and the reason for that not being funded
+is sort of beyond the scope of this interview.
+Every time I think I have it,
+or I think I'm getting something,
+or I feel something in my throat,
+I just stop eating for 24 hours.
+That's what I just do.
+Or I go in the sauna,
+and if the sauna helps, maybe that's stupid,
+but I go in the, I sit in the sauna, and I stop eating.
+Yeah, it's actually, that's two good points.
+So when you stop eating,
+then your body has less to deal with, right?
+So when we're eating, that's a big hit to our immune system,
+because half of our immune system,
+more than half is in our gut.
+So a lot of our immune cells and immune system function
+is dealing with the food that we're eating to neutralize.
+Because every time we eat, if we eat a salad,
+if we eat a meal,
+there's a lot of toxic things that need to be neutralized.
+This is part of digestion,
+and not having to deal with that liberates,
+the immune system is kind of like,
+a bunch of little soldiers, right?
+So it liberates a much bigger army for immune surveillance,
+and we can deal with viruses that are attacking us.
+And the sauna is kind of interesting,
+because we know heat will kill COVID,
+heat kills a lot of different viruses.
+So if you get into a sauna, one thing that we did,
+I kind of, I finally, we have an old spa jacuzzi thing
+at our house, it's a big concrete old thing,
+and I fired it up after a couple of years,
+I finally got a heater for it,
+and I tinkered with it so I can push it beyond
+what it's supposed to, right?
+So I can go to basically where it's boiling.
+So I get it under certain conditions.
+I can get it above what's considered like the safe limit,
+and I did, I heated it up to as much as possible,
+and got in that thing,
+and I think that really helped me recover.
+I think that's why we produce a fever, high,
+just boosting your body temperature a couple of degrees
+makes you, it has an antiviral effect,
+it could decrease viral shedding,
+if we're in the process of viral replication,
+it can knock that down.
+And so I think that was smart to do what you're doing,
+going into the sauna, and not,
+you don't want to be pushing your body really hard
+with exercise, because that could compromise
+your immune system, and actually feed the fire,
+but fasting and sauna are two good approaches.
+Are sauna, have you done, is there any studies
+that show the benefits of sauna combined
+with like ketogenic diet, and cult evenly,
+people going into the sauna,
+and then going in really cold water?
+Like I'll do this sometimes, I'll get in the sauna,
+and I'll come right out, and I'll jump in my pool,
+like right now it's 65 in my pool,
+or no, I'm sorry, 55 in my pool.
+Yeah, yeah, same here, I actually turned off
+our pool heater, and then I'll use the sauna,
+and jump in, and now after, yeah, so that's pretty cool.
+We had ice, you know, we're in Florida now,
+but yeah, we had ice over, we had like half inch of ice
+over our cow watering stations and stuff, so.
+It's ridiculous.
+Yeah, I'm a big advocate of that, you know,
+cold therapy, sauna, so you're asking about ketogenic diet.
+I think the ketogenic diet will enhance
+the adaptive responses associated with sauna,
+and I think like a lot of scenarios,
+so we study the ketogenic diet,
+and then therapeutic ketosis induced
+with exogenous ketones, we study that too
+in the context of extreme environments,
+and have seen that the body is much more resilient
+and adaptable when it's in a state of ketosis,
+and the reasons for that are reasons, you know,
+that we are investigating, but I could probably come up
+with speculation as to why that's happening,
+but we're still researching that.
+Cool, well Dom, thank you for doing this, that's two hours.
+Wow.
+Where can the people listening and watching
+find more of your work, your website,
+everything that you're doing?
+Yeah, well thanks for having me on,
+give me this platform to speak,
+ketonutrition.org, so ketonutrition.org.
+We have a blog there, we're pretty active on that,
+we posted a blog this morning on bipolar disorder,
+actually in ketosis, so we are very interested
+in actually advancing areas of science that are underfunded,
+and one area is actually metabolic psychiatry,
+so we are going to kind of have a meeting,
+a separate meeting at the metabolic health summit.
+So if people are interested in attending an event
+where they have access to scientists, clinicians,
+and entrepreneurs scrambling to the space,
+and influencers too will be there,
+in Santa Barbara in the first week in May,
+encourage you to go to metabolic health summit,
+so we bring everybody together to talk about
+many of the different topics that we're discussing today,
+and I know Verso will be there too, actually.
+Got to order some more of that stuff.
+Yeah, so ketonutrition.org, go to metabolicsummit.com
+and get more information about speakers.
+We have speakers from Harvard and Yale and Stanford
+speaking on many topics that we hit today,
+including basically we break it up into brain health
+and cancer, and then we have metabolic optimization,
+and then we have quite a few entrepreneurs
+who'll be speaking on the space
+about the different technologies emerging
+that are helping this community,
+whether it be ketone supplements or wearable devices.
+There's gonna be a lot of interest
+in attendees there for that.
+Awesome, well thanks again, Dom.
+I very much appreciate it,
+and I'll link the stuff in the show notes below.
+Appreciate it, thanks Danny.
+Goodbye world.

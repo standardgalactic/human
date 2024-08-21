@@ -1,0 +1,1742 @@
+Yeah, you can sing for us. Are you a singer? I used, I mean, in high school. In high school
+you were a singer. In college. You know, just in the choir. But, you know, just like everybody.
+Everybody likes to sing it as long as nobody's listening, right? Yeah, that's for sure. Yeah,
+people like music. Like to hum along in the shower, right? What's your favorite kind of
+music? I don't have, I'm not very specific. Like it's more about like emotional, the emotional
+palette that it's playing with. It's different genres of music have the different emotional
+palette. Exactly. I'm interested. It depends what kind of mood you're in. Right, which kind of
+palette I like. But I particularly like sort of glorious music. Glorious music. Vangelis.
+Right, like sort of like epic orchestras. Like as if there was like grand big things. Yes,
+like a big battle scene in a movie, the kind of music you would see behind that. Like an epic.
+Brian Eno, for example. I don't even know what that means. He's a musician. Sorry. Oh,
+he's a guy. Oh, of course. Right. But I'm just saying I could play you some. Oh, yeah. Are you
+a musician? Do you play any instruments? No, I mean, I played a recorder a long time ago by that
+time. Oh, okay. Like in college, I would relax by going into like stairwells in the university
+and playing my recorder in the stairwell. And I really got into, well, somebody,
+somebody told me I was doing that near their class and they said they were hearing this
+music from the like air ducts in the classroom that couldn't figure out where I was coming from.
+Interesting. That's very interesting. Okay, well, let's officially get this thing going.
+Mr. Robin Hansen. It's great to meet you. First of all, nice to meet you, sir.
+For our listeners and our viewers, can you give me a brief description of who you are,
+your background and your areas of interest? That's going to be hard because I've just been
+all over the place. I know you really have. But if you could give me some sort of a synopsis.
+So long ago, I started out in engineering in college. I switched to physics, got an undergraduate
+degree in physics, and then I decided I wanted to understand what the hell science was. So I went
+off to University of Chicago to study philosophy of science. But then I kind of answered the
+questions for myself and switched back to physics. And then I saw cool things happening in Silicon
+Valley and heard about AI and hypertext. And so I left school with two masters in physics and
+philosophy of science to go off to Silicon Valley, where I did AI research and Bayesian statistics
+as a job. And on the side, did hypertext publishing and a bunch of other stuff
+for nine years. And then I went back to school to get my PhD at the age of 34 with two kids,
+age zero and two. Wow. In a four years in your route program, because they guarantee, you know,
+they basically everybody gets kicked out after four years. That was good. And I got my degree in
+PhD in social science from Caltech. And then I went on the market and did better in political
+science than I did in econ, but I didn't get a job. I got a postdoc in health policy for
+two years at Berkeley. And then I went on the market again and got my current job
+as a professor of economics at George Mason University. And since I got tenure in 2006,
+I allowed myself to spread out a bit more. And I started a blog called Overcoming Bias.
+And I've since written two books, one, a futurist book called The Age of M, Work, Love and Life,
+When Robots Rule the Earth, and then a psychology book called The Elephant in the Brain, Hidden
+Motives in Everyday Life. And I'm still pretty much all across the map. I've done a lot of
+different things. The thing I'm most famous for is the idea of prediction markets, which I was
+working on when I was that computer researcher back before I went back to school. And that's why
+I picked Caltech because they did experimental econ. And I thought that would help in these
+institution ideas. And I have a wide range of big institution ideas I'm into too. But as you know,
+recently, I went back to my astrophysics work and did this grabby alien stuff, picking up on
+the great filter stuff I did while I was a postdoc doing health policy at Berkeley
+back in that long ago. And so I think most intellectuals are just naturally broad. And in
+fact, that's probably one of the main failure modes when people want to become an academic
+is they don't focus enough. And I was at risk of failing in that way by not focusing enough because
+the academic world really wants you to be the best at one thing and stick with it for the rest of
+your life. And doing a lot of different things, it doesn't reward so much. So I slipped by, I managed
+to sneak by being a little too broad. The future of Humanity Institute at Oxford. You're a researcher
+there. I have an affiliation there. When they were starting up long time ago, they wanted to collect
+prestigious affiliation so they could credit everything who there was listed associated with
+them for what they did every year. And so I was happy to be included in that when they first got
+started when they were small. And now they are big and don't need me anymore for that purpose. But
+I'm happy to still be affiliated. So the purpose of that was to look at the big picture questions
+about humanity, right? Absolutely. And what to you, what are the fundamental big picture questions
+about humanity? Well, there's where we came from and where we're going. So the future of
+humanity, of course, focused on that future. But I think the first job, as always, is diagnosis
+before you do prognosis. So the first thing you need to do is just have a foggiest idea of what
+might happen when and how. And then you can start to think about how could we move it a little.
+So I think people start way too quick to say, what do I want the future to be like?
+And sort of map out their ideal case. And actually, it's pretty hard to actually just
+figure out what's likely to happen if you do nothing. And you're probably not going to be able
+to do a lot. So figure out what's likely to happen if you do nothing and then maybe nudge it a bit.
+So people thinking about the future, they of course think about things like global warming,
+they think about population and fertility, they think about future of innovation, technology,
+like space travel, energy, but innovation of social institutions too. I've been especially
+interested in the forms of governance, ways that you can interact with the economy.
+And people are usually focused on the future in our era, mediated by technology. That is,
+people imagine particular new technologies coming and then they think about how that
+will affect the future. So that's been true for a while. And so obviously, artificial
+intelligence is one kind of technology. I mean, since I did AI research for nine years,
+that was especially salient for me. Obviously, people think about future energy sources,
+they think about space travel, they think about environmental impacts.
+But there's just a lot more to think about really, if you get creative about it. So
+I always thought that there was a neglect of the intersection of social science and tech
+in thinking about the future. So most futurists that you hear about are tech people. They know
+about some kind of a tech, and they want to tell you where they think that tech is going,
+and then what social implications that will have. And like myself, when I was a physics
+student a long time ago, they were probably taught that social science doesn't exist. Most
+tech people are told that basically, that hard sciences like physics or computer science or
+chemistry or even biology, those are real sciences and people really know stuff there. But
+over in those social sciences, that's all fluff and made up and there isn't really anything there.
+So when tech people go to try to figure out the social implications of the technologies
+they're imagining, they kind of wing it with their intuitions. They don't really use expert
+social science. Whereas the social scientists who do understand social science, when they think
+about the future, they tend to be skeptical about all those tech projections. They look
+at the world around them and they figure the technology of the future couldn't possibly be
+that different from the technology they see around them and science fiction-y projections
+would must just be fantasy. So they don't really take seriously the tech and therefore they don't
+really project what future tech might be and then what the social implications are. So there's
+this missing intersection. On the one hand, we have tech people who can envision future technologies
+and on the other hand, we have social scientists who can project social changes as a result of
+whatever perturbations come, including technologies, but they don't put it together much. And that's
+one of the things I've tried to do. So my highest, most meta-level principle is to look for important
+neglected things. So that's neglected there, right? You find a way that people are neglecting
+something that's important and then you can have it all to yourself. So what is the future of humanity
+and artificial intelligence if we look into the near future and the distant future? There's a lot
+of people who have very dystopian views of how this might look. What are your views on this?
+Are they dark or dystopian or are they optimistic?
+So first of all, in terms of ordinary artificial intelligence of the sort that most people see
+and have seen for a long time of the sort that I did as a researcher, I see that as
+accumulating gradually, improving steadily and having a long road still to go. So
+that sort of process looks like it will give you plenty of warning before you have bigger problems
+to deal with. So we're a long way away from machines being able to do most everything humans do,
+perhaps even centuries. And as they start to become more capable, then they will basically
+take up a larger fraction of world income. The key signature of AI getting more capable is you pay
+it more money instead of people. So because most income goes to pay people today, you can be pretty
+sure that people are the main valuable thing today. But later on, with time, we will pay more and more
+for the machines and the software because they'll be doing the important things and then eventually
+they'll do most things. But there's a long way to go before that and that process will be pretty
+gradual. That is, I don't foresee a sudden change where all of a sudden people humans were doing
+half the jobs yesterday and next week they're doing almost nothing. The timeline isn't necessarily
+linear in a sense that the growth of technology becomes exponential. What we did in the last
+100 years compared to the next 100 years will be extremely sped up. Well, I actually think
+you should think in terms of a log normal distribution over task difficulty, which is a
+mouthful, I guess. So the idea is the difficulty of tasks in automating varies enormously.
+So they are spread across a very wide spectrum in terms of how difficult tasks are to automate.
+So as you know Moore's law for a while, computers got twice as cheap every two years.
+Right. But we didn't see an exponential displacement of humans from jobs,
+even as technology was increasing exponentially. That is, we've seen a relatively linear, steady
+displacement of jobs, even though technology is increasing exponentially. And a way to
+understand that is to imagine there's a distribution for each job of how hard it is,
+how much computing power does it take to automate that job? And think of it in terms of many,
+many orders of magnitudes, right? So if it was a number like some jobs take one and some takes
+ten and ten take a hundred and a thousand and a million and a billion, and that jobs are spread
+really far across this really wide range of difficulty. So the very first machines
+automated some very simple jobs that people were doing. And then over time, as computers have gotten
+better and cheaper, we've been able to automate more jobs by moving up that
+spectrum. Like first it was the jobs that only had a difficulty of one, and then the
+jobs have ten, and then the jobs that have a hundred. But the idea is the range is really wide.
+Like there's jobs up at a trillion and a job is at a quadrillion, right? And so that's why
+even as technology has been improving exponentially, the fraction of jobs that the machines do has
+not been increasing exponentially because the difficulty of job is just really widely spread.
+And at the moment, we are, you know, automating a new set of jobs that we couldn't automate
+10 years ago. But we have just a little still really long way to go. And so that would be my
+picture for the ordinary kind of AI that we've seen so far. Now my book, The Age of M, is about a
+somewhat different kind of AI. And that different kind of AI has more of a threshold effect where
+nothing happens until something happens and then a lot suddenly happens.
+And that's the idea of a brain emulation. So you have a brain in your head and it has a whole
+bunch of cells of different types, which are connected to each other with little wires. And
+there's a system by which when signals come into your eyes or your hand, it goes to the brain and
+they go, signals go through the cells and each cell takes signals in and sends signals out.
+And we could, in principle, copy that whole system in your brain and make a computer model of a
+brain like yours that has, you know, a substitute for each cell and a model of how each cell works
+that takes signals in and sends signals out, that sends it to the other cells, just like in your
+brain. And if we could make a brain emulation of your brain, then it would behave just like you
+in the same situation. And that would be powerful human level artificial intelligence.
+We are a long way from being able to do that. But we will sometime in the next few centuries
+be able to do that. And we might, I think, be able to do that before we can do other kinds
+of human level artificial intelligence. And this kind of AI has a threshold. That is,
+when we make this emulation of your brain, say we get it wrong, like this cell models are off
+or the connections are off. If it's wrong enough, it just won't work. It'll just be mush. It'll just
+be a mess. But once we pass a threshold of the model being close enough to you, then it'll
+basically work. And so that's this threshold where brain emulations before a certain point,
+they're just not really valuable at all. And then after a certain point, they're really valuable.
+And then that would have more of a sudden transition into this world where brain emulations were
+cheap and common. And that's what my book is all about is what that world looks like.
+Have you ever seen the movie or the show Westworld?
+Yes, of course. Yes.
+Yeah, that is almost exactly what Westworld is about, right? It's about a park. Can you explain?
+Right. So the, I mean, initially, it was a movie long ago when I was a kid.
+It was also a movie long ago, yeah.
+Right. And so the idea is this amusement park where there are robots to entertain the guests.
+And they don't really specify how the robots are designed. So in fact, in the TV show Westworld,
+they also have brain emulations later in the show as a different thing. And so the
+robots in Westworld are not brain emulation robots, but they are AI that are as very
+effectively similar to humans. So they present them as very human-like AI.
+Right. Even though they're apparently not designed that way.
+Right. And of course, it's crazy stupid like a lot of fiction is if you could actually make
+those robots as they made them in that show, you wouldn't mainly use them in an amusement park.
+You'd use them everywhere in the economy. I mean, so the key thing is human workers
+are get more than half of world income. So if you could have a substitute for human workers,
+you can make trillions of dollars basically replacing human workers with it. So the idea
+that you would just use that in an amusement park and nowhere else is kind of crazy.
+Well, the idea, the main incentive for Westworld, correct me if I'm wrong, I may be misinterpreting
+it. That's been a while, but I believe the main incentive of it was to longevity, right, to live
+forever, to be able to learn enough from these real humans that we're interacting with them,
+to be able to copy them, to copy their minds. So when their biological body dies, they can
+take that copy and put it in a cyborg or a social robot. There were three main lines of business
+that I recall from Westworld TV show. The first main line of business was these entertainment
+of the amusement park. Right. Okay. A second line of business was they were trying to make
+uploads and I believe they showed that as failing, that is, they just didn't work.
+And then the third secret line of business that they reveal later on is that they are
+watching the visitors to the park very closely and therefore learning to predict human behavior.
+And somehow the idea is that that was much more valuable than just having human-level robots.
+So somehow, because somehow you could market to them, right? You could send them advertisements
+and predict what they do. And so in the later seasons, they have these big spherical computers
+that are predicting the world. What will everybody will do, right? As if that was
+some enormously economically valuable thing compared to the robots, which that seems crazy,
+because people predicting future behavior, the moment that doesn't command much
+income in the world, there's not a lot of demand for that. There is some, but it's not that big.
+But people working, there's a huge demand for that. The world is full of people working and
+if you can substitute for people working, you can make trillions. I don't think you can make
+trillions just because you can predict what TV show somebody will watch next or which
+way they will turn on the street. There's just not that much money there, but it sets up this
+dystopian thing, oh my God, they can predict what I'll do. I just feel dehumanized now, right?
+So the show went for this emotional threat of you feeling threatened by the fact that a machine
+can predict you as the emotional anchor of the show, as opposed to these machines can take your
+jobs. Pardon this brief interruption, but I want to take a minute to talk about this incredible
+supplement that I've been using for over a year now after it was recommended to me by nutritional
+scientist Dr. Dominic D'Agostino on this podcast. I take Dom's advice when it comes to anything
+related to nutrition, diet, and longevity, because as we get older, these things become
+more and more important. That is why I started using Verso. Verso is a company that is dedicated
+to translating scientific breakthroughs into products that hold the potential to increase
+longevity. I take CellBeing, this one right here, which contains nicotinamide mononucleotide,
+or NMN-based supplement, paired with naturally derived, micronized, trans-resveratrol, and TMG.
+These two chemicals are actually precursors to what's called nicotinamide-idonine
+dinonucleotide, which is commonly known as NAD. And NAD is essentially the precursor to energy,
+cell repair, and longevity. If you've ever tried fasting or even intermittent fasting,
+and you've gotten that feeling of super high energy or mental clarity, it's because your body
+is activating these genes called sirtuins, which are actually longevity genes. The downside is,
+as we age, NAD declines. When I found out I could naturally increase my body's activation of sirtuins
+and naturally activate my body's production of NAD, I was sold. And it is so much more affordable
+than doing NAD IV drips. Head on over to ver.so and use the coupon code CONCRETE at checkout to
+save 15% on your entire order. That's K-O-N-C-R-E-T-E at checkout. And get 15% off your entire order,
+or you can just go to ver.so slash K-O-N-C-R-E-T-E. It's linked below. Back to the show.
+Right. It's more of an advertising type thing, right? They can make money with advertising to you
+or sell you something. Which is tiny compared to work. Right. Like, advertising is like
+2% or 3% of GDP, right? Whereas work is like 70% of GDP. Oh, wow. Okay.
+Right. So, if you could take over the advertising industry, you could take over the work industry,
+take over the work industry. Right. Do you imagine those little pearls they call them? Do you imagine
+is that like a realistic physical form of what a brain might be uploaded to?
+I mean, that's just to have a dramatic physical thing to look at. I mean, obviously, almost all
+computers these days have wires by which they transfer files by wires from one computer to
+another. If sometimes when they want to send a file physically, they have them on tape and they
+mail them. But I mean, the fact that they have these little shiny silver balls doesn't make
+much sense. But that's not forgivable because that's also not terribly wrong. I mean,
+you could do it that way, just not that you would. It seems like we're at least beginning
+one of the first steps towards that with, for example, the Neuralink that Elon Musk is producing
+that directly interfaces with the brain. I mean, it's essentially like a super evolved version of
+the iPhone, you know, but it's in your, it's actually attached to your brain. You would think
+about things and be able to communicate without speech. In principle, it would just have a higher
+bandwidth. Right. Exactly. Your brain could talk to a machine and back before with a higher bandwidth.
+So I mean, obviously bandwidth is valuable. The key question is for what? What is exactly the value
+of high bandwidth? So, well, I mean, your brain was designed for high bandwidth through your eyes,
+say in ears, right? So your brain really wasn't designed to take high bandwidth input in through
+other channels. That is your brain, you know, has a whole system there for what it's where it
+expects to get input and then has a whole system for processing that input. So it's not obvious
+that we can actually usefully give your brain a lot of input other than through the input channels
+it was designed to take. Interesting. Yeah, because I always think about it. The first thing
+that I think about when I think of things like Neuralink is being able to like the advantages
+that you would have over other human beings, like being able to, for example, download a book into
+your brain and know it in 30 seconds or, you know, the advantages you have in the economic world if
+you have that technology. That would be hard. So the brain emulation scenario is a scenario where,
+you know, you equivalently have Neuralink, you know, easy because they're just on computers
+anyway, so it would be easy to send information in. But it's not clear you could just, you know,
+download a book and they would know it because that requires that you restructure the brain. So,
+Oh, how so? Well, you know, so if you if you imagine like having files on your computer,
+you could download a movie and then the movies on the computer and if you hit play, you play the
+movie software, right? But if you have a large, say a library, right, a large library full of books,
+and now you want all those books to reflect some new insight in math, right? You don't just like
+put the math book somewhere in the library, right? All the other books don't update on the math book
+sitting in the library, you'll have to get all the other books to change in response to this new
+thing, you know, so that they've integrated into the rest of the books, right? So taking any large
+library and getting it to reflect some new math insight would be hard, would be time consuming,
+you'd have to go find all the books that actually are related to that,
+understand them and rewrite those chapters in order to reflect the new insight that you were
+trying to get in. Right, that makes that makes perfect sense. So one of the most memorable
+quotes from that movie to me, which I've talked about on this podcast many times. And I think
+about a lot, which I'm fascinated here, your opinion on it was when Ford, the man who developed
+the theme park with the AIs, he said that human intellect is like peacock feathers, it's an
+elaborate display to attract a mate, all of the best of Mozart, all the best of Shakespeare,
+the best of Michelangelo, even the Empire State Building, just an elaborate mating ritual.
+And maybe that all the things that humanity has accomplished doesn't even matter,
+because it was done so for the basis of reasons, even the peacock can barely fly,
+it lives in the dirt and it picks insects out of the muck.
+What are your thoughts on that quote?
+I do expect that peacock feather kind of drives, we're an important drive in human mind evolution,
+but it's also clear that human minds are spectacularly capable compared to most other animal minds.
+It's clear that human civilization together with human minds has been able to accomplish
+amazing things. Now, it could be it's only accomplishing them with 10% of the brain and
+the rest of the 90% is peacock feathers, but still something in there is amazingly
+capable compared to all the other animals. That's just obvious. So then you might want to
+understand which parts are which, try to disentangle the fundamentally more useful parts from the
+others, but certainly something in there is useful. But the brain is huge, so it could well not be
+most of it. Well, it goes back to the main one of the main or the main theory of your book,
+the elephant in the brain, right, where there's explain what that book is and what the basic
+idea of it is. So the idea is that you are wrong about why you do many things, right?
+That is, if I asked you why you do most of the things you do, you'll give me a reason. And it
+turns out most of those reasons are wrong. That is, it's the reason you have in your head. It's
+the reason you can sort of explain and justify and to some degree, your behavior is driven by that
+thing, but not mostly. So, but most of the things you are doing, instead, the motives you have are
+reasonable motives to have, they just don't look as nice as the motives you'd like to point to.
+So, for example, you go to school not to learn the material, because you don't actually learn much
+material. You go to school to show off, to show that you are capable, and also to sort of learn
+sort of modern workplace habits. You go to the doctor not to get well, but to show that you
+care about people and to let them they show they care about you. You vote not to help the nation
+do better, but to show your allegiance to your political tribe.
+Each of these things is a useful function for a social animal. It's just not the function you
+claim. Now, some of these functions are more zero sum or have waste, at least. So, many of these
+functions that you don't like to admit that you're not really aware of are showing off.
+And showing off is often wasteful. Like, going all those years to school just to show off how
+smart and conscientious and conformist you are is a lot of waste. But it's not all waste.
+It is important for people to be able to judge who's how capable and to sort them into different
+kinds of tasks and roles based on knowing about their features. And, you know,
+large social worlds, we do need to show and judge loyalty. And a lot of these signals are
+to show and judge loyalty. So, like the peacock feathers are just showing that you can put up
+with the feathers. That is, you have enough, you know, other capabilities that if a predator comes
+after you, you can usually survive even though you're carrying around this big wasteful set of
+feathers. But those feathers aren't really useful for much else. But many of the capabilities that
+humans have acquired that we show off are actually more useful for other things. Now,
+maybe evolution just got lucky and didn't realize how useful they would be. But clearly,
+something in the human brain, the capacity the human brain has allowed us to do enormous
+things compared to most animals. So, acquiring wealth would be an example of something that
+would be impressive and it also has many other rights. Right, exactly. Sure. Or language. So,
+for example, most people use a larger vocabulary than they really need to. Because they show off
+how much they know to do a larger vocabulary. And I noticed I use the word vocabulary instead of
+just saying, you know, many words. So, I was showing off that I had a bigger vocabulary. But
+words are useful. So, you are learning things like that. Many, you know, ancient societies,
+people who are rich, what they show off by getting things from far away. Strange, you know,
+things that local people wouldn't have that they would have an unusual thing. And that encouraged
+trade and long distance travel interactions. War has actually been one of the largest drivers
+of innovation over the last 10,000 years. War is terribly destructive. Nevertheless,
+the drive to improve war technology has in fact, you know, driven a lot of technological improvements.
+Right. So, the key thing is once you open some new territory of learning and expanding,
+even if you're wasting most of your effort there, the remaining effort can just produce huge returns.
+Yeah, one of the most absurd examples I've thought of when it comes to the idea of the
+elephant in the brain is Elon Musk. You know, you think of him as this just crazy flamboyant,
+you know, the richest man in the world. And he also builds rockets and wants to make
+our species interplanetary. Or does he? Or does he just want money and women?
+I'm not sure I care. I'm not sure I care. Right. Because at the same time,
+whether that is his drive or not, the things that he's accomplishing are valuable and
+very important to us. I mean, I think if you're going to pick one person on the planet today
+that you want to be really impressed with what they've accomplished, it would have to be him.
+That's true. So, you know, I have to give hats off. I mean,
+and he's going on to accomplish more things, no doubt many of them will fail. But
+but yes, we humanity is on a tear and we have a bright future ahead of us if we so choose,
+even if we are now wasting enormous fractions of our civilization on peacock feathers.
+And in some sense, that makes the prospects even brighter. If we could cut the waste,
+we could get even more. Simulation theory. How far do you go into simulation theory
+in your books? And what are your estimations of the probability of simulation theory?
+So many decades ago, the idea that we might be living with simulation was a common theme on
+some of the mailing lists I was on. And then at one point, one of the people who was on the
+mailing list went off and wrote a philosophy paper based on that, a Nick Bostrom. And then
+that got more attention. And then at the time, that inspired me to write a paper on how to live
+in a simulation, because that was neglected. So there are many of these topics where, again,
+people want to mainly focus on the technology itself, when it might happen, is it possible?
+And they rarely, they neglect the social implications. So I thought, let's just think
+about the social implications of a simulation. If you were living in one, how should you live
+your life differently? And so I do have that paper on that. But the key idea here is that
+in the future, things like brain emulations will be possible. And therefore, it will be
+possible to create creatures who are in a world that looks completely real to them,
+but is in some sense not. It's fake. So like in the movie The Matrix or things like that,
+it'll be possible to make such creatures. And some of those creatures would be set in a world
+like the past of that world. Just like today, when we make movies, some of our movies are set
+in our past and some of our games are set in our past or something like that. And so if there was
+a creature set in some fictional world who doesn't know they're in a fictional world,
+and if that fictional world is in the past of that civilization, then if you are sitting here in your
+world, you could ask, how do I know I'm not that creature? Exactly. I could be, in principle,
+in fact, that future creature who thinks they're in this current day, but is actually in the future
+in a simulated world made to look like they're past. So the relative chances that I am a simulation
+like that really comes down to a numbers game. Like how many people are there here today, really?
+And how many people would there be in the future simulating my time now? And that's, you have to
+come up with estimates of those relative numbers in order to guess, could I be in a simulation? So
+if you think there are relatively few people in the future who would be simulations of the past,
+then you think it's not very likely that I'm in a simulation. But if you think there's enormous
+numbers of them in the future, then you would have to think, well, then it's pretty likely, right?
+Now, we should first notice like, if you were simulating the past, you're not going to
+equally randomly select from the past to simulate. So when we do movies or we do games,
+right? We do Caesar all the time or Napoleon all the time. And all the other people, not so often,
+right? So that means your chance of being in a simulation does depend on how
+photogenic your life is, in the sense, is your life the sort of life somebody might want to
+simulate? So would be an interesting player, right? Or are you a famous person? Did you have a big
+impact on the future, right? So we'll often pick famous people in the past who we see as having
+had a big historical impact as the people we simulate in our past when we do novels or games
+or things like that. So then that would modify your estimate for yourself. If you are a random
+person, that's different than if your life seems to be a specially good story, especially story
+that the future might. So Elon Musk himself should assign a higher probability than the
+rest of us to living in a simulation because it would be more likely somebody would simulate
+his life compared to ours. Right. Okay. But let's set that aside and let's just think about an
+ordinary average person today and ask what's the chance they're living in a simulation?
+Well, I'd say we're going to basically do an integral where we multiply two numbers. So basically
+there's all these different years in the future. And each year in the future, we'll have a certain
+size economy, which has some amount of past simulations that are happening in that economy.
+Right. So in each future year, there's some percentage of that economy that they spend
+doing these past simulations. Right. So we could count that now in terms of our how many
+historical novels do we have or historical games or something. Right. And we could also have
+which past they're interested in, you see. So as the future, as we get farther in the future,
+we expect the future to get bigger, the economy get bigger. And then even if there's just a
+constant fraction of that future economy that's spent thinking about the past, that amount gets
+bigger. Right. Right. So the farther we go into the future, the more past simulations we expect
+to be happening at that moment and that just in future time. Okay. But we expect those simulations
+to be spread out across their past according to how interested they are in their past.
+That is which pasts are they interested in. Right. And so now when we're thinking about the
+future, we're asking, you know, it's an integral over the future. For each future year, one number
+one number is how big is that economy and, you know, what fraction of it is devoted to
+historical simulations. And the other is how large a fraction of that would we count because
+we are competing with all the other dates at which they could be trying to make simulations.
+Wow. That's complex. Right. But there's a simple answer. Okay. Which is that if
+interest in the past fades faster than the world grows, then most of the simulations of you will
+be in the relatively near future. So say if, you know, interest in the future doubled at the moment,
+sorry, the future economy say grows by a factor of two every 15 years at the moment. But if interest
+in the fact falls by a factor of two every 10 years, then as you can see, even though the
+future gets much bigger, it's even less interested in you. Right. Simulating your date. Right. So
+because they'll be much more interested in simulating things nearer their own date in terms of their
+history. So to all the final bottom line is what we want to ask is how fast does interest in the
+past or decline with time compared to the rate at which the population or the economy grows in time.
+And there's something called Google N grams. And you can just type in a year like 1900 into
+Google N grams, and it will show you how the interest in that year rose with time up until
+that year and fell with time after that year. Really? And you can just pick all sorts of dates
+and see that. And so you can see how fast does interest in the past fall away as you move away
+from that year. And in fact, it falls away faster than the economy or the population grows.
+But there are certain years that are way more interesting than others. Certain times in history,
+like the ancient Egyptians, when the pyramids were built, or World War II, but we're just
+trying to do the overall average first. Okay. Okay. So the overall average seems to be that
+our interest in the past fades faster. And that also is roughly true. That is,
+say, in the last 10,000 years, the world population doubled roughly every thousand years up until
+recently. But I think it seems to me obvious that interest in the past falls faster than a factor
+of two every thousand years. So, right. Okay. I mean, so if you look at most historical simulations,
+you know, a thousand years ago, you know, almost all the simulations, the percentage of historical
+simulations that are past the year 1000, probably well over 90%. Right. And you go back another
+thousand years and it falls even faster. And, you know, the fraction of historical simulations
+that are of 1000 BC, almost nothing. Right. Look on Netflix or some other thing. Find me a historical
+story that took place more than 3000 years ago. Right. It's just almost nothing. But
+3000 years ago is only a factor of eight reduced population because it goes to a factor of two
+every thing. So, according to the, if it were proportional to the population, then one eighth,
+say, of historical simulations should be more than 3000 years ago. Right. But far fewer. I see.
+So, here's the bottom line, right? We should only expect the future to simulate us when it's
+relatively soon. But actually, we can't do simulations yet. It'll be a while till we can do
+simulations of the past. It'll be a while before we can create creatures who are in a simulation
+that don't know they're in the past. We're not able to do that yet. Right. And so, by the time
+they can do it, it'll be far enough in the future. They'll be hardly interested in us at all. Right.
+And then they'll only be able to do a few at first. And as they get able to do more,
+they get even less interested in us. Right. Why would they be interested in this? We're just too
+far in the past. We're too far in the past. Unless we are somehow special. So, some people
+have claimed that we are in the special era, that the future will be unusually interested in us,
+especially because we are different. Why would they be interested in us right now?
+Well, many people are attracted or tied to this idea that this is a pivotal moment in history.
+And that's what motivates them to do a lot of things they do because this is the moment that
+matters. And of course, it's a bit of arrogance and self-sufficiency. It sounds like something that
+every every... Obviously, it could be true in principle. I don't actually think it is that true.
+I mean, some important things are happening now, but important things happen a century ago and
+a century before that. What would be the social implication of everybody being aware that they
+are in a simulation? Of human beings being aware that we're in a simulation. What would change?
+What would be the social implications? Well, you have to ask, what's the purpose of the simulation?
+So, clearly, somebody who made a simulation could have told people in a simulation that
+were in a simulation, right? If they had wanted to do that. Okay. So, clearly, they didn't want to do
+that, right? Right. So, if people in a simulation figure out they're in a simulation against the
+wishes of the people who set up the simulation, the question is, what can the people who set up
+the simulation do in response? And they have enormous powers to deal with that. So, I don't
+think they're actually going to suffer that problem. So, they wouldn't let us allow us to
+figure it out. If they don't want to, it doesn't seem like they want to. Unless they want to do
+a simulation of a world that finds out and see what they do, but that's going to be a kind of
+unusual special thing to simulate. No doubt they do that sometimes, but not very often.
+Right. So, one of the main things you can do in a simulation is you can sort of have noise and
+error in how you do the simulation. And then if something happens that wasn't supposed to happen,
+you just back it up and you do it again, right? So, simulations don't have to just run forward.
+They can back up. So, that's just the nature of the way we do computer simulations,
+all sorts of systems today. So, that means if there's anything you don't want to have happen in
+a simulation, it's relatively easy to prevent it. That is, if you see the thing go wrong and then
+you stop, you back it up and you take that, you know, you change something and then you roll it
+back forward and you keep doing that until you get the thing you want it. Right. Right. That makes
+sense. So, you know, if you're in a simulation, you are very much at their mercy and you will not
+know things. They don't want you to know. What if they did want us? What if they did decide to let
+us know we were in a simulation? Well, then we're in a simulation where they want to find out what
+happens when they let us know. And of course, they will try that different variations on that and
+then, you know, they will see the different variations. Wow. That's fascinating. And people
+like Elon Musk, people who have more interesting lives, who have made a greater impact on history,
+those are people that are more inclined to believe. Well, they should be more inclined to believe.
+For them, it is in fact true that they are more likely to be living in simulation. Right.
+The great filter. What inspires you to write this paper on the great filter? I believe you
+collaborated on it with a few people. Is that right? And then what is the basic idea of the
+great filter? So, the great filter is something I did over 20 years ago, 25 years ago, almost now.
+And 1996, right? It started. And that was about just reframing the great,
+what they say, Fermi's question, where is everybody? So, we look up in the universe and
+looks empty and dead. And we look at our future. We see this prospect for us to be lively and
+invisible. And there's a bit of a conflict here. We don't see around us the things we
+expect to be in the future. So, I reframed that question, just asked a different way. And I said,
+well, big visible things of the sort that we hope to become soon, they will have to appear
+by going down a path. They start with simple dead matter early in the universe. And then they're
+on a planet, say, and life appears and life goes through stages and eventually it gets to our stage
+and eventually goes from our stage on to this big visible stage. And going down that path,
+it must be very hard to go from the beginning and get all the way to the end by this point in
+the history of the universe because almost nothing has done it. So, that would be to say,
+there's a filter on that path. Things start in at one end of a pipe and almost nothing comes out
+the other end of the pipe. Because, look, this whole universe started on the pipe. Every piece of
+rock anywhere could have started down this path to evolve life and spread. But we're the only thing
+we can see that's farther down the pack and we don't see anything that's farther beyond where
+we hope to be. So, that's the claim that to get all the way to where we hope to be is very hard.
+There's a very large filter between that final destination and the initial stage of simple
+dead matter. And when you say filter, what specifically are you referring to? What would
+a filter be? What's an example of a filter? So, you know, you could have a planet where
+it never evolved even life in the first place, right? And then it failed to pass that first step.
+And then you could have some place with simple life but didn't become more complicated life,
+like with sexual reproduction, say, or photosynthesis or, you know, a whole bunch of
+multicellular things, right? So, on earth, life went through a bunch of stages. And we could say,
+each stage when it made a key change, it passed through a filter step. It succeeded in accomplishing
+something that maybe most planets never do. And that's the great filter is the difficulty of
+going all the way down this path to the place where we are now and then on forward. So, the fact
+the universe looks dead and empty says that filter is big. And it also raises a question,
+how far along the filter are we? Because we're not all the way. And so, clearly, it's a huge
+filter. And even if just a small fraction is ahead of us, that says bad news about our future.
+A small fraction is ahead of us. What do you mean by that?
+So, it could be, say, the total filter is maybe 10 to the 24, for example. Like, only one planet
+out of 10 to the 24 ever reaches advanced life that becomes visible in the universe.
+Well, it could be that we've gone through 10 to the 22 of it so far. And we only have 10 to the
+two left. But that would still mean we only have a 1% chance of getting from here to that final
+destination. That is 99% chance we won't, probably by dying, which is kind of scary.
+Yes. What are the chances that we already made it through the great filter?
+Well, that's, again, about how much of it we have passed. So,
+you could look at, you know, our history and try to guess which things were hard. But the
+problem is, actually, the timing doesn't tell you much. So, it turns out that if we were very
+lucky on Earth to get as far as we did, then even if the different steps before us were had
+different difficulties, the timing would be roughly equally spaced. And therefore, we do see
+roughly equally spaced timing between major transitions. And so, that actually doesn't
+tell us much about how hard those steps were. If we were to find other life out there in the
+universe that had gone independently down this path, that would be big information about how
+hard the steps were. So, if we found some other life out there, say, that was just primitive life,
+that didn't share an origin with us, well, that would be big news about how hard that first step
+was. And it would suggest it's easier than we might have feared. So, paradoxically, any evidence
+we see of independent life out there in the universe that's gone anywhere along the path
+to where we are is bad news about our future. If we discover any sort of life out there,
+that's bad news for us, because it would suggest that maybe these earlier steps aren't as hard as
+we thought, and therefore, the later steps we still have to go are harder than we thought.
+So, that's all the great filter stuff. You were talking about the work I did with some other
+people. That's in the last two and a half years. And that's what we call grabby aliens.
+And that's basically giving numerical estimates for the great filter,
+right, telling you just how big it is. And therefore, saying more specifically,
+the distribution of aliens in space time. And we claim that we kind of have the answer to that.
+So, what are grabby aliens? So, there's two kinds of aliens in the universe, the kinds you can see
+and the kinds you can't. So, we just postulate there are some kinds of aliens that would just be
+pretty obvious. That is, they started somewhere, but then they expanded and kept expanding. And
+in the volume they expanded to do, they changed things. They did stuff. We don't know exactly
+what they'll do, but just like humans and life on Earth has changed stuff for it,
+ever it goes, they would change stuff. And if they do that to a big enough volume,
+they would be noticeable. And so, we can think about what our data says about the obvious ones
+in a much easier way than we can about the other kind, the quiet ones.
+So, we can come back to the quiet ones, but we're first going to focus on the big obvious ones.
+And the key point is, we don't actually see them, right? They would be big and obvious,
+and we don't see them. But if we think carefully, we can figure out a lot about what that implies,
+might not realize that it says a lot, that we can't see them.
+So, what we have is a three-parameter model of where aliens are in space-time,
+and each of the parameters can be fit to data. And then, you kind of need to believe this model
+to explain why we're so early in time, which is one of the key data points, our current date.
+And so, you know, I'm happy to walk through if you want, each of these parameters.
+Austin, you should be able to pull up some sort of graphics that represent this concept and
+this study. Yeah, let's go through that. We are here at 14 billion years into the history of the
+universe. That sounds late. 14 billion years seems like a long time, but it's actually pretty early.
+The average star will last for five trillion years. Now, the peak of star formation in the
+history of the universe is like a four billion years after the initial. So, we're well past the
+peak of star formation, but most stars will last for trillions of years. And so, we are early in
+terms of when most stars will exist. And we have a simple theory of when advanced life should appear
+that says that the most likely time for advanced life to appear would be
+much later in the history of these stars. So, I've told you about how life on Earth had to go
+through a number of difficult steps. Yes. And that Earth is probably lucky in having gone
+through all of those steps in an unusually short time. That is, most planets out there never get
+to our point before that planet ends. Right. Certainly by now in history of the universe.
+So, that suggests that it's just hard to do each of these steps. And perhaps each of the steps just
+has a crazy long expected time, but that our planet got lucky. So, an analogy is cancer.
+In your body, you have many billions of cells. And to produce cancer, a cell needs to go
+undergo like six different mutations in that same cell in the entire history of your life.
+Now, these mutations are so unlikely that most of your cells never have any of these mutations.
+And only a few have a couple of them. But by the end of your life, typically one of them
+will get all six mutations. And that's analogous to all these planets in the universe who need
+to go through a bunch of steps to produce advanced life. And most of them never even get to the first
+step. And hardly any of them get to four steps. And maybe our life got through all six steps to
+get to where we are before the deadline of life closing on planet Earth. So, that's like a cell
+in your body getting cancer before the deadline of your lifespan ending. In other words, planet Earth
+has developed malignant cancer. Right. Although this cancer is great. Depends on how you look at it.
+Sure. But I'm going to take that stand. This life is great. But so, what we know is that the
+chance of you getting cancer as a function of time goes as a power law in time, where the power is
+the number of these mutations that have to happen. So, typically around six. So, you are far more
+likely to get cancer near the end of your life than the beginning. It's not constant in time. The
+chance just increases dramatically toward the end of your life. It goes as this power law
+of the power of sixth of time. Because there's roughly six mutations. Okay. So, similarly for
+planets, if advanced life like us is going to appear on a planet like Earth, it's not
+equally likely to appear at any moment in the history of that planet. It's far more likely
+to happen near the end of that planet's life. And it actually seems like there's roughly six
+hard steps that need to happen on a planet like Earth for us to produce life at our level as well.
+So, that means over time, the chance of advanced life increases with time.
+Right. Now, but longer lived planets, they've got a lot more time for all these hard steps to
+go in. And so, the actual chance of life appearing on a longer lived planet also increases by this
+power of six. So, we are a planet with, say, five billion years of life and say the typical planet
+out there will have five trillion years of life. That's a factor of a thousand more. And if there's
+six of these steps, the chance that life would appear on one of those planets till the end of
+its life compared to what our planet, the end of our life, is a thousand to the power of six,
+or ten to the eighteen. That is, it's crazy unlikely for life to appear on a planet like ours
+so early in the universe compared to on a longer lived planet later in the universe.
+So, there's something wrong with this analysis because our analysis is saying we are just crazy
+early. Sorry, pull that thing just a little bit closer to you. You can adjust. You can pull it
+like this. Pull it closer. There you go. So, we're just crazy early compared to when we should
+expect life to appear. But the key assumption we made in this analysis is the universe would
+just sit empty and wait until we appeared. And that's the assumption we're saying is wrong.
+So, what's actually happening is life is popping up and appearing in various places in the universe,
+advanced life, and then sometime it becomes grabby, it becomes visible, and when it becomes
+grabby, it expands at some speed, and then these civilizations appearing at different
+time expand, and then they're expanding waves eventually meet each other. And then that point,
+the universe is full of grabby aliens. And then it's too late after that for a life like us to
+appear. So, there's a deadline in the history of the universe. First, the universe starts out empty,
+and then advanced life starts to appear, and then it expands, and then fills everything up,
+and then too late, you can't appear anymore. And that's the explanation for why we are here
+so early in the history universe. We are now at a period where the universe is filling up with
+aliens, and in a billion years or two, it'll be all full. And we couldn't appear five trillion
+years in the future because it will have long since been full then. So, we are just extremely
+early compared to other solar systems and other. We're extremely early compared to when we would
+have appeared had the universe just waited empty for us. The universe is not waiting empty for us
+is the key point. There's a deadline, and that's why we're appearing so early.
+So, that's the first thing to say is this is why you need to believe in this theory
+is that we are crazy early otherwise. You have to believe there are aliens out there,
+and they are filling up the universe right now. And in fact, right now, roughly half the volume
+of the universe is full of it. Alien civilizations that we can't see. And in another few billion
+years, it'll just all be full. And we have we may well soon join them, i.e. going out and expanding
+and becoming a gravity alien civilization. So, this model of aliens appearing has three key
+parameters. The there's the first we're going to assume they just appear at random places in space
+on the large scale of the universe. The universe is pretty similar. They just appear in a random
+galaxy, say, and then they expand at some speed after they appear. So, that's one of the parameters.
+How fast do they expand? And then the other two parameters are when they appear in time.
+So, I told you there's a power law that is the number of hard steps makes them appear later
+in time more rapidly according to a power law. So, a power law has two parameters and has the power
+and has a constant. And so, these are the three parameters that we can fit to data.
+So, the power comes from the history of life on earth. That is, the timing of when life appeared
+on earth and how much time we seem to have left from now include and other data we have suggests
+there's roughly six hard steps on earth, therefore a power of six, roughly somewhere between three
+and 12 or something, but roughly a power of six. The constant of the power law comes from our current
+date because we are a random sample of when an advanced civilization appears. That is, we're not
+advanced enough to become grabby yet, but if we do so, it'll be within a million years or so.
+So, million years. Which is relatively short time on the scale of 14 billion years. So,
+relatively short time from now, we will either become grabby or not, but that makes our data
+random sample from when these things happen. So, that gives us the constant in front of the power
+law. So, we have the constant in front of the power law, we have the power of the power law,
+and all we need is the speed of expansion and then we've got the whole model.
+So, how can we get the speed of expansion? Well, if you run this model and simulate it, you find
+that when civilizations are born and they look in the universe, we ask, can they see other
+civilizations in the universe? And what we find is, if they expand slowly when they're born and
+they look out, they see lots of other civilizations. Huge, you know, spherical volumes in the sky,
+much bigger than the full moon, full of aliens. Spherical volumes in the sky. Well, because
+they start at some point and they expand spherically away from there. Okay. And so, you would look in
+the sky and you basically see vast spheres of alien civilizations. If everybody grew slowly,
+that's what the typical civilization would see. Okay. But if they grow very fast, most of them
+won't see any others when they're born because they don't see them until they're almost there.
+Because there's a selection effect, you couldn't appear within the volume of a different alien
+civilization because they would preclude you. That is, if they had born and using the volume,
+you would no longer be able to evolve there, at least if they so chose. So, the fact that we
+don't see any aliens in our sky is the evidence that they must be expanding in a very fast speed,
+say roughly half the speed of light, or even faster, which is extremely fast.
+Explains why we wouldn't see them coming until they're actually here.
+Until they're nearly here, but it might, I mean, it might be millions of years before
+they're here that you can see them, but still, at a typical birth date, you won't see them yet.
+Right. Okay. And now, what is this, what is this model? Explain, Austin, is this, there's no video?
+There's a video farther down. There you go. Yeah, that's the video.
+The following is a simulation of the gravity aliens model of alien civilizations. Civilizations
+are born and then expand outward at a constant speed. A spherical region of space is shown.
+By the time we get to 13.8 billion years, this fear will be. So, this is, you know, a random place
+in space. Civilizations appear, they grow, and then they meet each other and then eventually
+the volume is full. And so, the upper right hand corner, you can see the date of the simulation.
+So, we're past our current date now. Okay. And it's showing that the universe is expanding
+and counts how many of them. We're just going to see the same thing again, but now we can see
+through the volumes, maybe see what's going on. So, you can see up on the upper right,
+we're four today at the moment, the universe is expanding. You show how many civilizations there
+are. There's roughly, you know, four times 10 to the eight galaxies in this volume. So, it's a very
+large region of space and then it's all full. So, that's the idea. Okay. So, it's a relatively
+simple model. Things just appear at random times and then they expand at a certain same speed.
+But the time at which they appear goes as this power law. That's the key thing here, right?
+Right. At the beginning, hardly anything was happening and later till the end, everything
+was just going fast. Everything goes crazy. Right. Okay. Now, what makes a civilization
+grabby? So, the definition of grabby is that it expands and changes the appearance of the volume
+it's in so that you wouldn't, you would notice it. That's the key idea. Now, we could ask,
+why would that happen? And, you know, in some sense, you could just imagine it's like life on
+Earth. Just once there's some competition of different parts trying to colonize things,
+eventually it all gets colonized. We will, in our future, perhaps face a choice to become
+grabby or not. And that may illuminate better the issues involved. So, if you just imagine
+technology is arbitrarily getting improved, then eventually people could leave here and go places
+and eventually they would then, you know, compete to grab things and when they grab things, they'd
+use them in some way and then they would change them. And that would just be a naturally way
+that they could become grabby. Of course, they have to be capable enough to actually
+do interstellar travel, which we are not yet. But, you know, within a million years,
+it seems like we would. Yeah. So, the simplest argument for being grabby is just to say,
+if technology and abilities just keep improving, then eventually there'll be a point when
+interstellar travel is possible and then it would be done and then people would move in
+different directions and then they'd land somewhere and they'd colonize that and grow there and
+expand out. So, just in the way, you know, life expands across the Earth when it's possible,
+then it would, life would expand through the universe. Now, of course, you know,
+there's that prerequisite, you have to be advanced enough to be able to do interstellar
+travel and then you have to not be dead at that point. Right. That's important.
+And you have to allow it. So, I actually think it's not clear what fraction of them will allow.
+I think there may be, in fact, most civilizations don't allow it. That's a plausible
+possibility. But even so, the universe is big enough that some of them will,
+and so the grabby aliens will. So, the key idea is you start out as a quiet civilization
+and then eventually have the choice to become loud. And there's this key question of the ratio
+between the quiet and the loud. What fraction of quiet eventually give rise to allow?
+And that fraction matters for two different things. One is our future.
+If, say, only one in a thousand quiet become loud, then until we know otherwise, that's the
+best estimate for our choice was that only one in a thousand chance we would become loud.
+And the ratio also matters for SETI, the search for extraterrestrial intelligence.
+This statistical model I was just telling you about, we can fit each of these parameters to
+data. And I didn't tell you the actual final numbers, which are roughly, loud alien civilizations
+appear roughly once per million galaxies. And right now is sort of the middle of the distribution
+of when they appear. And if we start to expand at the speed, half the speed of light, like the
+rest of them are, then we would meet them in roughly a billion years. So that's the answers.
+But those are the statistics for the loud ones. But if there are a ratio of quiet to loud, then
+the higher that ratio is, the closer is the nearest quiet one. Because we know the loud,
+the nearest loud one is like once per million galaxies away. But if, say, there was a million
+to one ratio of quiet to loud, well, now the nearest quiet one might be in our galaxy.
+Whereas if it's only a 10 to one ratio, you see the nearest one is one in 100,000 galaxies away,
+which is a long way away. Yes. It seems like if we were to become that advanced and be able to
+achieve interstellar transportation, it seems like we would be, based on what we are like now,
+we would become a loud civilization, because that's just human nature now. We expand,
+we influence, we grab things and the way economics are involved. But there are contrary forces at
+play. And so that's worth thinking through. So as you know, the world is pretty integrated at the
+moment. It's, once upon a time, empires were separated across the globe and didn't interact very
+much. Distances were too far to communicate or travel. But as we've made travel and communication
+easier, the world has become more integrated over the last century. Right. That integration has made
+an integrated economy we trade across the globe and integrated society, people meet and interact
+across the globe and create communities across the globe. And the size of nation and empires
+has also been increasing over centuries. That is, we now have things like the European Union,
+large coordination of nations on large scales. Now, for a long time, people have thought,
+doesn't that mean we'll have a world government soon? Won't we merge these into an even larger
+unit? And people have been concerned about that and wary of that. And so far we haven't.
+But what they haven't noticed is that we have created something like a world mob or world community,
+which we did not have a century ago. So if you look at many different areas of regulation,
+say nuclear power or medical ethics or organ sales or electromagnetic spectrum or
+plane safety or things like that, it turns out that the world does it pretty similar everywhere.
+So we have a world community that talks to each other about these things,
+and people want to be respected in those world communities. And there's some conformity pressures
+in those world communities. And those conformity pressures basically induce a pretty high level
+of convergence of regulation all around the world. It was especially dramatic in COVID,
+if you recall at the beginning of COVID. At the very beginning, the usual health experts had
+their usual recommendations, which were against mass and against travel restrictions. And then
+elites around the world talked about the subject a lot and came to a different conclusion. And then
+the whole world did it the different way. That is almost everywhere, people follow the new
+consensus about how to treat COVID, which was different than what the elite consensus had been
+a few months before, because we just have this large world community where people talk a lot,
+and then they feel some social pressures to go along with what everybody else thinks
+in the way that most communities do. But now we have a world level community. We have world level
+communities on many kinds of topics, especially with regulation and other sorts of business
+practices, where we have a whole world where we do things together in that way. And I think a lot
+of people like that. That is, instead of having a world in great at war, first world people like
+that, right? Instead of a world at war and in conflict around the world, we have a world where
+we have a lot more peace because we talk things out and decide together rather than fighting
+and competing them out. And that has been going on for the last century, and I think we have to
+predict that will continue. And so the obvious prediction is that we will have even stronger
+world communities that limit variation even more in the future. We may have a stronger world
+government. We may not, but we will have the stronger world community, and we will correctly
+credit it and maybe incorrectly also for many advances like dealing with global warming or
+dealing with inequality or dealing with overfishing. That is, these world communities have been trying
+to tackle those sorts of problems, and they have often had success. So I think over the coming
+centuries, we will have a more strongly integrated world community that likes the fact that they
+can talk together and decide what to do and in fact prevent destructive competition that they
+don't like, i.e., making the regulations everywhere in the world the same, including preventing war.
+And that's the near-term future that we should expect given recent trends. But now project that
+forward and imagine the point in time a few centuries from now when interstellar travel becomes
+possible. And imagine the choice to allow that. People will know that as soon as they allow an
+interstellar colony to leave Earth and go off to another star, that will be the end of this era
+when we could all talk and decide together and exert enough social pressure to make sure we
+all do it together the same way. Once you send those colonies out, they are beyond your control
+to regulate. You cannot stop their competition and you cannot stop their evolution. They will
+evolve and become strange things. So one of the things I think over the next few centuries people
+will like is that they will prevent evolution. They will prevent our descendants from changing
+to become strange, descendant creatures. Wait, wait, wait, wait. Explain that again,
+that last part. Why would they want to stop evolution? Why would they want to stop us from
+evolving? So you're saying they would want to stop us from becoming different? Yes.
+So I mean, as a futurist, there have been many conversations over the last few decades about
+the possibility of, say, genetic engineering or other sorts of changes to people, including
+artificial intelligence. And a consistent theme is a fear, even horror, of the changes that might
+happen and the ways that our descendants might be weird. People have been pretty against allowing
+substantial genetic engineering to make our descendants genetically different. They are wary
+of allowing AI descendants to be mentally different. And they are often just wary of, say,
+population competition. That is, people have often been worried about overpopulation.
+And one of the fears they've had is that even if most places limit their population,
+the few places that don't eventually dominate the population. And so people have wanted to
+and talked about having regulation of fertility to prevent overpopulation,
+which is competition by population size. So all of these themes together are showing
+awareness of allowing evolution, of allowing our descendants to become different from us.
+That is, we are human in a certain way and we like being human and we are wary that our descendants
+might just not be very human. They could have very different mental styles that are in conflict
+with ours. And that scares people. But when we have this world community, they will just stop
+those things that they don't like. Just like today, we have basically stopped nuclear power
+of the sort that scared people. So are you saying if we did become a well-integrated world community
+or if there was one world governance somehow that we would decide not to become interplanetary
+or interstellar? The key choice at that point would be to continue to have a unified world
+community. Now, by world, I mean the whole solar system. So within a few centuries,
+they would be spread across the solar system, but still the solar system small enough to allow
+this centralization and coordination. Our solar system. So if we had communities on Mars,
+all these plants, we would still be able to control it within the sun.
+Anything in the solar system, you can throw a rock and smash it if this behaves.
+Wow. So the solar system is still small enough to be within the reach of central
+control. So if we continue to enjoy this world community by which where we have reduced war
+and conflict and harmful competition and things we are scared of, like genetic engineering or
+nuclear power or whatever, by having this global community that agrees on what things to stop.
+And then at one point, we have the choice to send out an interstellar colony and we know the
+consequences of that. That will be a hard choice, I predict. That is, the consequence of allowing
+interstellar colony is that we no longer regulate behavior out there. We'd be just letting go.
+They would allow to do whatever they want. They would allow to change however they want,
+to adopt technologies however they want, and then they could come back here and test us.
+Contest us. Contest here. Control here, right? Whatever they develop out there,
+whatever advances they produce out there, they can come back here.
+Wow. And the question is, would we then allow that? So I can see it going either way,
+but the point is, I can see it going either way. Right. It's not a crazy thing for people to want
+to do to enjoy to continue their community that they understand, unlike versus allowing
+strange evolution and competition and perhaps fierce unchecked competition.
+Right. So the idea of panspermia is that a rock came here a long time ago containing
+genetic material from somewhere else in the universe and then we derived from that.
+I've heard you explain, even in more depth, the idea that when the universe was created,
+the same life forms or biology that was on one rock expanded into everywhere.
+So that the idea is, if there are aliens out there that are expanding or not,
+that they all came from the same source. So the motivation here is that the simple
+grabby aliens model we just described, again, has the nearest aliens being a million galaxies away,
+right? Once per million galaxies. So it has almost no prospect of any aliens nearby under
+that simple model. But you might ask, well, but couldn't there be aliens closer than that?
+Might that not make sense? And you could ask me, try to come up with a story where that makes sense.
+And then I realize I can, as the simple model has things appearing independently, randomly,
+and independently. But what if they appear in a correlated way? What if clumps appear together?
+That would then allow the nearest aliens to us to be much closer. Even if on average,
+aliens appear only once per million galaxies, if we're here and they're correlated, then they
+could be here too. So the question is, what sort of correlation process could there be that would
+make aliens appear together in clumps rather than appear independently around the universe?
+And panspermia is a process that could create that correlation. That's why panspermia is
+interesting in this context, is it will allow there to be aliens much closer
+than they would otherwise be. So the panspermia story would be that life appeared somewhere
+on another planet, not Earth. And then that actually allows life to have had a much longer
+time to evolve. So if you actually look at the earliest life we can see on Earth, it looks
+really complicated, making it hard to believe that evolution could have produced that complexity
+in such a short time. So postulating on Eden, another planet before Earth, gives a much longer
+time scale for much simpler life to have slowly gotten more complicated on Eden. And then maybe the
+life we see on the beginning of Earth is like halfway down the whole path. So it jumped to another
+place to evolve? Right. So it wouldn't do it on purpose, of course. But as you know,
+rocks are falling from the sky all the time. And when rocks hit the ground, they often knock
+rocks from the ground back up into the sky. Right. And inside those rocks is often life.
+So that's the obvious route by which life could move around in the universe is in rocks. Now,
+at the beginning of our solar system, when the solar system started was born in a nursery,
+where say a thousand other stars were all being born in the same place at the same time.
+And at the beginning of our solar system, there were lots of rocks flying back and forth.
+You know, enormous numbers of rocks flying back and forth in that early solar system. So
+if a rock came from outside that nursery into that nursery, it would have plenty of opportunity
+not only to land places, but to get smashed and knocked around and spread around. So
+it would be plausible that life that seeded earth at that early point of time
+in our stellar nursery would have also seeded many other planets in that nursery at the same time.
+So now we would have the scenario life appeared on some Eden many billions of years ago,
+maybe lasted five billion years there. Then a rock, you know, hit that flu, maybe that rock
+drifted for millions of years, actually. And then eventually landed in our stellar nursery,
+where it seeded not just earth, but many other planets. And then that makes the correlation. So
+these stellar nursery only lasts for, you know, a few million years, and then it drifts apart.
+These planets that were all born together drift away and they basically form a ring around the
+galaxy. And we can actually find them in the sky. That is, they all have the same mixture of
+chemicals because the stellar nursery was an integrated mixture of chemicals. So they just
+all have the same proportion of chemicals that you can see in a stellar spectrum. So we can
+actually find them in the sky, find our stellar siblings, and they could find us. So if life started
+on a whole bunch of planets that was seeded in this nursery, then over the last four billion years,
+they would have all been trying to advance and evolve. And if the advancement of life from
+that stage wasn't terribly hard, then it might be that other planets also went a long way down that
+path. And that one of them might have reached our level before us. And then there could be aliens
+nearby. This would be the best explanation for like the modern UFOs that we see today, right?
+Right. If you're trying to, if you're trying to ask how could UFOs be aliens, how could that make any
+sense at all, then this is the best story I can come up with. Because remember, otherwise, if they're,
+you know, once per million galaxies, they're just crazy far away and, you know, they would just be
+very unlikely for them to be anywhere near here. This puts them close. Now, but we can go farther
+in trying to come up with a scenario to explain say UFOs by thinking more about the scenario I
+just described. So if another alien civilization appeared as a panspermia sibling, there's another
+thing that we know about it, which is that it did not get grabby, right? Because otherwise,
+our galaxy would be full of them, right? So we also know the timing would be they would have
+appeared, say roughly 100 million years ago would be sort of a random time, not not in the last
+thousand years at all 100 million years would be roughly when they would have appeared. So
+the scenario would be they appeared 100 million years ago somewhere in our galaxy. And then
+in that 100 million years, they did not colonize the galaxy, they did not expand
+and things. So they must be one of these civilizations that chose not to expand,
+they chose to prevent it and succeeded at that. So you have to realize that's actually a pretty
+impressive achievement. There are big civilization and if any one part of them ever left with an
+interstellar colony, that's the end, the era of this unified thing ends and competition returns. So
+for 100 million years, they managed to stop that.
+Right. Now, couldn't an explanation for if there are aliens here, if these UFOs are aliens,
+couldn't they just be sort of like hall monitors or security guards, making sure that we could
+just list a large number of logical possibilities, but it seems more useful to walk through what we
+do know about them and then collect those implications because we can draw some conclusions
+from the things we do know to limit the space of theories. So one thing we know is
+they did not colonize the universe. Therefore, they had a rule that they successfully enforced
+for 100 million years against that in their civilization. So that's the thing we know about
+them, right? We know how old they are and we know they've chosen not to allow expansion.
+And then we know that they could find us, that they could easily see where their
+Pennsylvania siblings were and they could look at them in telescopes and track them.
+So they could have been tracking us all that time. And we know that they would know that
+we threatened to break their rule. They've had this rule against expansion and we don't
+have them been told about the rule. And if they did nothing, we might well break their rule.
+And then the thing they were trying to prevent would happen, right?
+The universe gets colonized nearby by something else. So that creates a plausible motive for
+them to be here. Right. So I mean, the Keith question is like, if they've had this rule
+against expansion, that's probably a rule against a lot of travel too, right? They probably prevented
+people from traveling very far from their home. It would be a risk because every traveler becomes
+a risk to create this interstellar explosion, right? So now we have a reason why they would
+want to be here and take a chance, an unusual chance to actually allow someone to come here
+because this is a high priority. Like we are at risk of breaking their rule, a rule they've
+kept successful for 100 million years. And a rule that's obviously very important to them because
+they've paid large costs to keep it, right? So already we can see that we have a reason why
+they would be here and why they wouldn't be everywhere else, those are the key things we're
+trying to explain. And another thing we conclude is they didn't just kill us.
+That would have been really possible, right? So they must feel some affiliation,
+some reluctance to just kill us. So they have some other plan to prevent us from
+expanding other than just killing us. Right. Which goes against, well, didn't Stephen Hawking have a
+famous quote on this subject about another civilization coming here? He said if it did come
+here, it would be the end of us. They would use farm us or they would consume us or something like
+that. Are you aware of- Right, right. But it's certainly, if you just took random past, you know,
+connect places when humans met each other in the past as your data set, you might well say
+those don't usually go well. Right. Which is fine. But we know more things here, you see.
+So we aren't just making an analogy to a random past earth thing. We are drawing step by step
+conclusions from the things we know. That is, you know, we know that they would be a
+panspermia sibling. Therefore, they would be, even though they're near here,
+the nearest other alien could be a million galaxies away. Right. So they're near here,
+but hardly anything else is. Right. So it's not a galaxy populated, full of alien civilizations.
+It's just them and us and maybe one other or something like that. That would be all there is.
+Do you- How deep do you- I know you're a very science-based, analytical, cold, calculated
+person when it comes to this stuff. But how much attention do you pay to the stories of
+interactions with other beings that are accounted for? I mean, there's books and
+movies and documentaries about this kind of stuff. How much, like UFOs and nukes being around nuclear
+weapons, shutting them down. There's a famous story of a UFO landing in Africa in front of a
+school and communicating with children telepathically about the environment and the dangers of
+technology. What do you make of those stories? And how much credibility do you give them?
+So this entire topic is in disrepute in general among elites, elite academics and elites of all
+sorts. So if I'm going to venture into this subject, I want to do it very carefully so that my
+thoughts won't be wasted. If I am sloppy about this, then I will be tainted with the same disrepute
+that everybody else has been who touches the subject. So I'm very eager to be methodical
+and careful here in exactly how I do this. So that means I want to sort of logically lay out
+the space of possibilities and then lay out sort of the general inference task and then place myself
+somewhere in that set of tasks and say which things I'm doing, which things I'm not. I'm not
+kind of presenting myself an expert on all the tasks that are relevant when thinking about this
+topic, but I will venture into some of them and say for some of them, I have relevant expertise
+and I will speak to those. Okay, so first of all, we just say, look, there are things people
+think they see, right? And they have to have some explanation and we can categorize the kind of
+explanations they could be, right? So for example, they could be aliens, sure, or they could be just
+some other hidden earth organization who has capabilities beyond what they've advertised.
+Or it could all just be mistakes and delusions, drunk drunkards and blowhards and, you know,
+people trying to get attention, right? Or there could be some organized hoax behind it all.
+Somebody's like planning and purposely may having people lie and putting things up there
+that look like things and just trying on purpose to just think of something, right? Right. Those are
+the four main categories of explanation, right? And we're interested in judging which is the truth.
+So in general, what we want is what's called a Bayesian analysis here. That is, for each of
+these categories of explanation, we want what's called a likelihood and we want a prior. A prior
+is what's the chance of that scenario, ignoring all this evidence, just a prior, what would be the
+chance you would think of something like this happening. And the likelihood is given that this
+theory was true. How likely is it that you'd see the sort of things you'd see? That's, and then you
+basically, once you have a likelihood and a prior for each of these, then you multiply those two and
+you do a weighted average and you get your posterior, I see which theory you believe. So
+that's our task. We need likelihoods and we need priors. Okay. So I am more of an expert on the
+priors. That is, the likelihoods have to involve looking at these cases in particular, in some
+detail, right? Because we're talking about how likely is it that these theories would account for
+the particular things people see. Whereas the prior is just about what kind of things could have
+happened in the universe, what kind of things do ever happen. You know, that's, and so my expertise
+as someone who's done physics and astrophysics and economics, et cetera, puts me, I can speak to
+the prior at least, at least for some of these, and less so to the likelihoods. Now I'll just say,
+I've looked at enough, you know, UFO reports to say it's more compelling than the data I can find
+for fairies and ghosts. I go look up online, what's the best evidence for fairies and ghosts?
+They don't impress me very much by comparison. Okay. I can also say in the past, there were
+things that were equally similarly disreputed to UFOs that in fact, turn out to be true.
+So once asteroids, people thought rocks falling from the sky was crazy.
+Ball lightning is something people thought was pretty crazy, except they made it in the lab and
+they decided it must be true, even though the actual like evidence of it outside the lab still
+looks pretty weak, but they made it in the lab. So they figured, okay, I guess that must be true.
+And then there were these very high level lightning, pink lightning, that looks kind of
+like an octopus that people said they saw a long time, the first pilot said they saw and people
+thought that was crazy. And then a couple of decades ago, NASA took pictures, they said, oh,
+like, okay, I guess it's real. So that would be my context is to say, like, just because this
+is in disrepute doesn't mean it couldn't be because we've often thought things were crazy and then
+changed our mind about them. So and that, you know, the actual evidence I can see, I think,
+again, it's better than ghosts and fairies. Okay. Okay. But how much better is what you need an
+expert to go into those details for? But what I do want to say is the prior is high enough
+that you should be taking the data seriously. So think about a murder trial. Okay. Okay.
+In a murder trial, they claim a murdered B, right? Now, if the prior on that was crazy low,
+you would just say, no, that's crazy. I'm not even going to think about that, right?
+So how low is the prior in a murder trial? Well, let's say roughly on average, one out of a thousand
+people's killed. And they might have 1000 other people nearby who could plausibly be the one who
+did it. Okay. So I'd say the priors roughly one in a million for any given murder accusation. Okay.
+So a one in a million priors, something that evidence can typically overcome. That's not
+so crazy unlikely. It's not like one in a quadrillion prior, or you'd say, you know, go away, that's
+silly. It's high enough that you got to take it seriously. So my rough guess for the UFOs is
+aliens priors roughly one in a thousand. Now, that's quite a bit stronger than typical murder
+trial, which means you've got to look at the evidence. You can't just dismiss it just like
+you would in a murder trial. Now, if you have an accusation to murder trial, you don't stop there.
+You don't just say, okay, you accused, and so they're guilty, right? You have to look at the
+evidence, right? Yeah. And so similarly here, just because this is in the realm of high enough
+plausible prior probability that it could be true, doesn't make it true. It just means you've got to
+look at the evidence. So I could walk through my calculation for one in a thousand prior,
+but I might also just mention one of the other categories I think hasn't even higher prior,
+which is the hoax category that is the US government and other governments have at times
+organized big hoaxes of capabilities of the sort. And I would give that a 1% chance.
+That's still like 99% chance. No, right? But I'd still say that's the sort of thing that
+does happen at times. And so you got to take that seriously as well as a possible explanation.
+And then again, it comes down to looking at the data, like how plausible is it that, you know,
+they could pull it off for the particular things we see. I'm not very impressed with these delusion,
+you know, mistakes theory. That seems to me, it's just harder to account for all these stories
+as all delusions and mistakes. Something more systematic would seem to be going on, I would
+judge, but again, there's several other candidates. What do you think the probability is that
+there are private organizations, aerospace organizations, companies that hold information,
+knowledge or technology that they are withholding from the public or academia that could explain
+some of these anti-gravity sightings? I mean, if you combine a theory of saying
+there really are aliens, and then some people really got that technology, now you're basically
+combining the two of these theory categories, right? If you just want to say there are advanced
+organizations out there that have advanced technology, they didn't get it from aliens,
+they just made it up themselves, then it's hard to understand how they could be much more advanced
+than everybody else, because we know a lot about technology and how it advances in the world and
+how it happens by diffusion and people hearing of other things, so we just almost never see
+enormous advances by some sides compared to others, right? It's usually within a range of the kinds
+of things we expect, so the kinds of abilities reported for UFOs do seem to me substantially
+beyond the sort of things you might expect at least for several decades ago. Now, more recently,
+there's this technology whereby you might say, send a laser to some place in space in the sky
+in the atmosphere and say, heat it up, and then make a little plasma there, and then be able to
+draw that, and then basically, like on TV screen, draw an image in space and then move it around,
+you could move an image that you drew around very quickly, so that seems to be an ability that's
+near feasible now that could explain UFOs, but that wouldn't explain UFOs seen in 1960 or something.
+Right. That would have to only be explaining very recent UFOs, because that's a very recent
+capability that apparently people have now, is the ability to draw. Like a laser pointer.
+Right, basically, but except it doesn't go against a wall, it stops at a place in space
+and draws something there. That's exactly how some of these pilots have been describing
+the things that they've been seeing, like Commander Fravor and Ryan Gray.
+So from very recent observations, that becomes a more plausible story,
+but not for more ancient observations. Aerospace organizations similar to
+Lockheed Martin containing some sort of technology that could explain this stuff would have to be
+directly, it would have to be because they discovered some sort of alien technology,
+it wouldn't be something that was just created here on Earth.
+If it was far more advanced than the stuff that everybody else has.
+Which it is, right? I mean, I don't know.
+If it's true, if it is true, it is clearly way more advanced than the kind of propulsion that we
+have. So I didn't finish describing the most plausible scenario. So there's another thing
+we know about UFOs that you would need to explain to explain UFOs as aliens.
+It's a crucial thing many people have noted, which is
+they could have either been completely invisible or completely visible. Those were,
+I mean, 100 million, you know, year more advanced civilization than ours.
+They could have just been completely dark orbiting and seeing everything without
+being at all visible, or they could have just shown up on the White House law,
+as they say, and just been completely visible. So apparently they are not doing either of those
+things. So we need an explanation for why they're doing this weird thing of hanging
+out at the edge of visibility to sort of make themselves be somewhat visible,
+but not more visible. That's weird. So, you know, if I weren't trying to explain that part,
+I might give a higher prior to UFOs as aliens, but I need to explain that part too.
+Because again, the other weird thing about aliens is like,
+why aren't they in the rest of the universe, right? Why didn't they take over the galaxy?
+Why are they only here and nowhere else? That's the first thing to explain. And so we
+postulated for that, that they have this rule against expansion. And then that's why they're here.
+But then we also need to explain why are they hanging out at the edge of visibility,
+not making themselves aware to everybody. Right. But also not completely hiding.
+Exactly. Right. Why be partially visible? What's the point? Right. Because they clearly
+could have chosen anything else if they wanted. So we want to explain that and we want to do that
+in the context of what we know of their motives to be here, right? They're here to convince us
+not to expand without killing us, right? Because they could have killed us. Those are the other
+things we know. So they somehow are going to use this method of hanging out the edge of our visibility
+to convince us not to expand and not kill us. That's the purpose of this. So how does that work?
+So the thing I notice is that humans have domesticated other animals primarily by
+being the top of their pecking order. If we make dogs do what we want,
+it's because we are the top dog. Okay. We go into a pack of animals and we convince them
+we are in their status hierarchy and we are at the top. And that's how they do what we say.
+That's how we domesticate other animals. And it's how we domesticate ourselves.
+That is, all through history, emperors have convinced people to obey the emperor because
+they showed they were the top person in the society. They had a big crown and a big palace
+and a big army. Right. And they displayed themselves as the top of the pecking order
+to convince others to go along, right? So the hypothesis is that's what the aliens want to do
+here. They want to be the top of our pecking order. How do they do that? They show that they are
+better than us. They show very impressive abilities, but not violent confrontation with us. They are
+not hurting us, but they are better than us. Just like you can't really make a bunch of
+dogs obey you if you kill half of them. Right. Okay. You have to be in their tribe, but they're not
+being physically threatening. Right. Not threatening, but better. Better. Clearly better. Right.
+And we should be smart enough to figure out why they're here and what their agenda is.
+They don't even have to say anything. They just have to show themselves as very impressive,
+better creatures nearby. Now, you might think, well, yeah, but why don't they
+show a little more? What's the harm in that? Why would it be a problem if they were to
+give us a little more detail? And then you realize, well, think of how much humans have hated other
+humans for pretty minor differences between human civilizations. Right. Right. Right. Humans are
+pretty similar to each other. Nevertheless, we find these reasons to hate each other based on
+what to an alien must seem like a pretty minor difference. Right. So they would know that. They
+would know that if they showed us details of their lives and history, something about it
+could really put us off. Right. Maybe they eat babies. They don't think that's a problem,
+but we hate eating babies. Maybe they have tentacles. We hate tentacles. Who knows, right?
+Point is they don't want to take that chance. So they're just going to not ever show us much
+detail about us, about them, but just clearly show they exist and that they are much more
+capable than us and that they're peaceful. That's it. That's all they have to do. And
+that's a very simple strategy they could have approved from the beginning. So remember another
+constraint in this whole process is they're scared of any expedition getting out of control
+and, you know, ending their era of no interstellar colonization. Right. So when they authorize this
+one expedition, not only do they only authorize it, but they have to ask, how are we going to
+keep control of it? How do we limit its behavior? How do we make sure it only does the thing we
+want it to do? So they have, they would want to pick a very clear strategy, a simple strategy,
+that they could authorize it to do and only do not be creative and come up with a bunch of
+new ideas when it got here. I don't, that's taking too many chances, right? They want to say, let's
+have a plan. They're going to go there, execute the plan. That's all they're going to be authorized
+to do. That's all they're going to be capable of doing, hopefully. And then we are taking the
+minimal risk with this expedition out there to, to, you know, go convince these people not to
+expand. Right. And so you have to think what would be a plan they could think of ahead of time
+without knowing much about us. Like they can't wait till I get here and like learn a lot and then
+make a plan based on that. Cause that would give too much discretion to the local team.
+They say, from a distance, what can we know that will make a plan that they could execute?
+It seems, it's interesting though, like if you look just in the last 150 to 60 years,
+how the stigma of the subject has become less and less.
+It's still pretty high. It's, it's, but now that the government is talking about it,
+the New York Times is talking about it. It's still pretty high. That mean, if you
+talk to other intellectuals, I think you'll find Dr. Professors of various sorts, right?
+Astrophysicists, you know, let's talk to just all sorts of prestigious people. I still think
+you think the stigma is still pretty high. Where does it go? If it keeps going on this trajectory
+of less and less stigma, more people entertaining this conversation that you and I are having
+right now and the world, everyone in every, a larger percentage of human beings on earth
+being aware of this idea and being understanding it. How does that affect us?
+If say the US government's new willing to flirt with the idea produced more concrete evidence
+that then persuaded other people that would make a big switch. But if all they do is
+just release the sort of thing they've released so far and they don't release anything more that's
+more persuasive, I don't think it'll tip the balance for a long time. I mean,
+it's basically just going to be the slow accumulation of more and more solid evidence that
+tips the balance because people are just not that willing to accept this. So that's, but
+it'll just take a long time. But of course, that's fine from the under this theory. That's fine
+for the aliens. They're not in a rush. We're no, we're nowhere near threatening to do a
+learner's telecolonization yet. And what would human beings do if they did discover it? Like,
+if a small group of human beings discovered this somehow? Well, I mean, many people claim
+they already have, right? Yeah, exactly. Small groups discover it, but they can't convince the
+rest of people yet. Well, would they even want to convince them? Some do, some don't. Where would
+they want to just find some economic benefit for it and try to find some leverage of competition
+between nations or between it's hard to see much benefit here. I mean, the whole point is like,
+look, they're not like handing out Christmas goodies or something. Yeah, but like, they're
+just off in the distance being impressive. Right. But I'm saying like, if we did, if, if we did find
+evidence of this, like, like the story of Bob Lazar is the most famous one of, I'm, I'm, I'm
+sure, yeah, where he just claims he worked on back engineering these anti-gravity crafts and the
+government had, has been, has been working on it for decades, but we haven't been able to figure
+it out. And we want to use this as sort of leverage against other nations for weapons and war.
+So again, there's this vast space of possibilities, but I have to sort of stay
+anchored on the possibilities that make sense. Right, I understand. That I can make sense of.
+So in the simple theory, the, the aliens are just here to impress us and like convince us they exist
+and that we should do what they say. Under that simple theory, they don't have any particular
+reason to hand out goodies to some people or to like reveal their technology to us.
+Yeah, it seems kind of crazy that they would just accidentally crash their vehicle and leave it
+behind. I mean, again, a hundred million years more advanced, it's like, and so we can be able to
+capture. And similarly, I got to say ab, abductions still don't make that much sense in this story.
+Right. What they need to do is just be visibly impressive. Why they would need to pick some
+people up and like study them on a personal experience. Yeah, there would be no need for that.
+Again, a hundred million more advanced, they could study us just fine from orbit. They don't
+need, they wouldn't need to physically pick us up and poke us with needles. No, exactly. No,
+that would be crazy. That they would, a very primitive civilization would need to do that sort
+of thing. Really? So if they had a hundred million technology to, to traverse. So let's light years
+to get here. They would, let's talk about what we can roughly guess about very advanced civilizations,
+actually. So the first thing we should be able to guess about very advanced civilizations is they
+are just artificial. Like they are made in factories. They're designed, you know, they can swap their
+parts out, you know, just like we make artificial cars instead of growing horses. Right. Right.
+They are just artificial creatures that that and they're, their minds are even artificially
+designed. Like, and, you know, there's a new product line that comes out from some source and
+they're all the same in the product line. And then they have some, they just, the modern economy
+where you make things in factories and you have firms that make them at scale and distribute them,
+that's the kind of way they're made and the kind of way they run everything basically. So
+they aren't, you know, made, they don't reproduce with cell mitosis or whatever, the way
+they found a much more effective way. Surely that's how they would be. So
+they've long since become artificial. So they've long since like been able to be
+any physical form they want to. It's not like they have a certain shape body that they have to fit
+into a craft or something. Right. They can, they can move into any kind of body they want to make.
+Right. Just like on a construction side, we make different kinds of trucks and different kinds of
+shovels or whatever. It's not like the nature of a construction worker to have a certain kind of
+shovel. It's like you have a bunch of different things for whatever purpose you want to make them.
+Right. So there's not going to be the size of the aliens, right? Or, or even their lifespan or
+how many eyes they have. None of that makes sense. They are artificial creatures who can
+have as many eyes as they want to in any given circumstance. And they can add eyes and take
+them away just fine. Right. Just like we can add a headlight to a car. So that's one thing,
+I think we can say robustly about aliens is that they are artificial.
+The other thing we might want to say depends on how much they've controlled their competition.
+So, you know, they prevent interstellar colonization and they probably prevent
+some other kinds of evolution. But how much evolution do they prevent? How,
+how restrictive are they about their evolution? So I think we can imagine two extremes.
+One extreme is they are minimally restrictive. Like they prevent people from leaving their
+solar system, but most everything else inside their solar system, they just allow a relatively
+free evolution and competition. Right. All they do is just prevent stuff from leaving.
+Right. Under that scenario, we should expect evolutions to continue. And then we can ask,
+what do we expect evolution to produce in the long run for various creatures of creatures?
+Uh, the opposite extreme is where they have a very restrictive,
+very centrally controlling society that has prevented most competition and evolution.
+Under that other extreme, their technology may have stagnated at some point when they could no
+longer, you know, innovate more because they were being so restrictive. And even worse,
+their society might have come to rot. Rotting is a feature that we see consistently in large
+complicated systems that humans have built and have even observed. And rotting is the sort of
+thing that central control risks. And it becomes a big issue for a long-term civilization that
+has maintained central control for a long time. I think most people don't know enough about rotting.
+Can you give me an example of rotting in today's in our world? Awesome. Hold on. Awesome. Can you
+turn the air down? It's getting hot in here. Sorry. Don't pause while he does that or?
+Yeah, we can keep going. It's okay.
+Unless you want to take a bathroom. Fine. Okay. So most large software systems are
+these not tiny systems rot. Think of the Apple operating system or Google operating system
+or the system that runs any large bank or anything like that. Large software systems over time become
+harder to usefully change to become more fragile. And eventually they are thrown away and replaced
+with brand new systems. This is the consistent software practice at enormous cost. If you think
+of any big company, most large companies have a big software system somewhere in their process
+that they developed and it's a big part of their value that they have compared to their
+competitors. And all of these large software systems rot with time and are typically just
+thrown away entirely and started over from scratch. This is because they're overlooked
+because they're so large and complex. They are looked at carefully, but still the key thing is
+the process of changing them makes them rot. So if you have a large software system and nothing
+changes, then you never have to change anything. It can just keep going. But typically you're trying
+to add features, the environment it's in changes, maybe the kind of hardware it connects to changes.
+And so slowly over time, things are changing and you need to adapt it to those changes.
+Customers may change, customer preferences,
+customer desires, firmware updates, all sorts of changes. But the key thing is you have a big
+complicated things and stuff is changing. So you constantly have to adapt the system to deal
+with these changes. And the key thing that happens is you have dependencies between different parts
+of the system. So if you don't have any dependencies, then you'll just change one part of the system
+and you don't have to change anything else. But when you have dependencies, when you change one
+part, you also have to change the other parts that are connected to it in a matching way.
+Otherwise it's broken. And the problem is when you take a system with two parts that are connected
+to each other, and that you change both parts to manage something, you tend to make those things
+more fragile, that it's become harder to change in the future. This is sort of tied to what we
+were talking about in the beginning of downloading books to the human brain. Right, exactly. So in
+fact, the human brain rots too. Not just the cells rot, your mind rots in the sense that you start
+out with what's called fluid intelligence, and you end up with what's called crystallized intelligence.
+Crystallized intelligence means you know many specific things, but you can't learn new general
+skills very easily, not compared to when you were young and had fluid intelligence. So your mind
+over your lifetime becomes harder to usefully change. Old dogs in fact find it hard to learn
+new tricks. That's actually true about brain. So human minds rot with time just like software does
+and plausibly even large rule systems like legal systems or systems of organizations they rot with
+time. Corporations rot, that is most corporations eventually die and are replaced by new ones,
+even when they try to prevent that, it consistently happens. The only solution we've ever had as a
+robust solution to rotting is dying and replacement. So human bodies rot and are replaced with new
+organisms, our minds rot and die are replaced, our software has to be replaced, our firms have to be
+replaced. And all at great expense, we make enormous investments in things that slowly rot and then
+have to be thrown away. Now, but so far like that's been the nature of history, but now we are starting
+to create global structures that we don't want to replace at a global level, like these global
+communities and these global habits of regulation. And so now we're entering a new era, what happens
+when the world as a whole coordinates on say how we regulate nuclear energy and nobody is allowed
+to do it different. And then that system rocks with time, what will happen then? Will we be willing
+to throw it out at some later point? Or will we just deal with it slowly getting less efficient?
+Because like systems that rot typically can function just at a lower efficiency, like the old
+software was working, it just got harder and harder to change. But you could just change it less and
+gain fewer advantages from changing if you insist on sticking with it. The reason why we throw it
+away is because the new thing will be cheaper and easier to change and we want to change things.
+Yeah, but don't we just install like now we have these firmware updates for everything,
+for all these systems are constantly being updated and that's part of the rot.
+The firmware updates are part of the rot? Yes, absolutely. They are changes that are trying to
+make other things fit each other. Okay. The reason why you have the firmware update is because
+something changed and this is the strategy to do that. But in the process, what is becoming
+crystallized or hardened or becoming, I don't know. So the key idea is that it's harder to
+usefully change. So like the bits of the software don't disappear, right? They stay there, but still
+it gets harder to change them. Okay. I mean, I don't know, think of the Marvel Universe or something,
+right? The Marvel Universe is rotting in some sense that like they keep making new assumptions
+and new characters, but they are limited in how many new things they can do because it has
+to be consistent with all the old things they've done. I understand. Slowly over time, they will
+be more limited what they can do in the Marvel Universe. Right. I mean, it may still be a fun
+universe, but it would be, you know, but eventually it will be thrown away and replaced with other
+universes, right? So what is this rot? I forgot what this was in context to. So first, it's a rot
+that say the aliens would suffer if they had a central government that limited their changes.
+And it's a rot that we may suffer in our future if we, you know, have a strong central government
+or global mob that makes us all do everything together the same. But it's a very difficult
+choice because, you know, the alternative is competition and therefore conflict. And
+what do we do? Right. So say, think of nuclear power. You know, apparently we could have had
+a vastly more powerful nuclear power industry than we did now. We were scared and we over-regulated,
+but now we kind of over-regulated everywhere similar ways, similar degrees.
+What if some place wants to not be so heavy-regulated nuclear power? Are other people going to be
+scared of that? Will they allow it? Or will they just insist that everybody keep on with
+the current program to prevent the things they're worried about? And that'll be true for lots of
+different ways we're organized. So the key thing to notice is up until recently, the world has
+competition at the highest level. Empires competed, species competed, right? The fundamental thing
+that happened was empires rose and fell. And empires fell in substantial part because they
+rotted. But humanity could go on because humanity wasn't tied to any one empire.
+We were the thing that lasted past the empires. But once humanity becomes tied to an empire,
+and then the empire starts to rot, then what happens then? And that would be like a world
+civilization, right, with being tied to. With where we agree together to do things the same way and
+collect more and more rules about such things. And that begins to rot. What happened? The question
+is what happens then? Yes. Are we willing to allow competition enough to drastically replace
+big parts of such things? Or do we just slowly get less competent and less capable?
+You've mentioned in the past that you plan on doing something with your body after your physical
+being passes away. Right. So I am a cryonics customer. Cryonics, yes. I'm holding this
+neck tag here up if you're not watching. And basically, it says that if there's a medical
+emergency, they should call this number. And the plan is then to freeze my brain and liquid nitrogen.
+And once it's frozen, it won't change basically for centuries if they keep it frozen. And then
+that would give me a chance to come back as a brain emulation later, if the world I describe in the
+age of M comes to pass. So that's a chance I have at immortality. I'd say another thing we can know
+about advanced civilizations is they are immortal. But immortality doesn't necessarily mean what you
+think it does. The civilizations are immortal. And entities within them are, in principle,
+immortal. That is, immortality is just another robust feature of advanced civilizations.
+Meaning their consciousness is immortal. It's capable of being immortal. That's the key distinction.
+Being immortal. Today, houses and cars are immortal in the sense that if you keep
+maintaining them and repairing them, they can go on indefinitely. But we don't always choose
+to keep repairing and maintaining them. That is, they over time become more expensive to maintain.
+And the value goes down because new things are more competitive or more capable compared to them.
+So that will also happen for our descendants who are immortal or aliens who are immortal.
+That is, in principle, they could last forever, but it will cost to keep them going and their value
+may decline because new things are just more capable than they are. So that would be an
+issue for me wanting to be immortal. That is, they could bring me back in the future,
+but will they? And even if they do, how long would they keep me? And so that's an issue I
+describe in my book, The Age of M, about a world where everything is in principle immortal,
+but it's still a matter of choice. Right. Right. What would be the incentive to bring you back?
+Or to keep me back if I had been brought back temporarily. Right. This kind of is the same
+thing as why would aliens abduct human beings and poke them, prod them to try to study them.
+What's the point? Right. Because it's so out of date.
+Now, I do expect that because there are so few of us cryonics customers,
+like only maybe 200 people have been frozen so far. That's it. Maybe, you know,
+3,000 people are signed up for it. Wow. Even though it's had free national publicity for many,
+for a half century. So if it, unfortunately, if it continues that very few people do this,
+then the few of us who are available later on would be celebrities of sorts. And so
+they would almost surely bring back the few of us. However, if what I prefer is like a large
+fraction of the earth's population were crying as customers, well, now it's much more of a question.
+How many of those billions would be brought back? If you're relying on the generosity of the future
+to help your future self out, you may be taking a needlessly large chance, you know,
+what we often do is protect ourselves in the future. That is, when you retire, you often retire on
+the basis of assets you've saved yourself rather than throwing yourself on the mercy of your grandchildren
+or something to help you when you retire. Right. So similarly, I might think, well,
+the best thing would be for cryonics patients to pay for their own revival to set aside assets
+that are available later to cover their own case. And this is not done? It is often done.
+Oh, it is often done. Yes. Oh, wow. What type of people typically do
+this cryonics brain freezing? Do you have any friends that do it?
+Well, yes, but it's a very small fraction. As I told you, there's only like 200 people have been
+frozen so far and maybe 3,000 people have signed up or something so far. It's a very tiny fraction.
+So basically, first of all, contrarians, right? Yeah, obviously. You have to be willing to sort
+of put up with the social pressure that disapproves and do it anyway. What is the process like? So
+they actually take your brain out of your skull and they put it in like a bag or they freeze it
+in carbonite? Like, what does this look like? So the usual approach today, there's the option of
+whole body where they would freeze your whole body or there's their head only where they would just
+freeze your head and not freeze the body. With all of this? Yeah, with everything. So I mean,
+the key thing is they're just trying to get you cold fast without too much damage happening while
+they get you cold. So then the main thing is just they basically pumped antifreeze through your
+blood veins. Okay. Right. And so they don't want to rip off any skin or anything. They just want to
+pump you as fast as they can with antifreeze. So the least amount of damage. Right, with the
+least amount of damage so that you get cold as fast as possible. And then they just want to preserve
+you in that state where again, so the usual approach is through liquid nitrogen. Now,
+there is an alternative technological approach that seems feasible, which is sometimes called
+plastination basically, where they would fill your body with plastic in essence and sort of freeze
+the chemical reactions that way, not just by being cold, but by just basically putting stuff in
+between stuff that prevents the reactions. And then that could in principle be preserved at
+room temperature, which would make it easier to preserve these things. But the problem is that
+that's a whole separate technology that would have to be developed. There's just too few customers
+here to justify having separate technologies. Many of the customers today would not like the
+plastic approach because they're hoping that their current bodies will be revived. I'm skeptical
+about that. But again, the key problem is just not enough customers here. And I mean, honestly,
+I think this is a terrible shame in the sense that it seems to me that most people today don't need
+to die. That is the main risk about Chronix is that these organizations can't last because they
+don't have enough customers. So if they had lots of customers, this would just be much cheaper
+and more reliable. So if millions of people use this stuff, then the price would come way down
+and the chance of you not surviving would go way down. What is the name of the company that does
+this? Is there are several? There are several. There are several. Okay. My my my supplier is called
+Alcor, but Alcor. Okay. There's also Cryonix Institute, which is an alternative and several
+others. But again, the key thing is they just hardly have any customers. What is the price of
+doing this? I'm sure it ranges. A few tens of thousands of dollars up depending on how much
+you want and which firm you go with. Right. Basically, it's quite accessible via life insurance
+for most people, the first world people. Right. Wow. So an interesting comparison that often
+strikes me is there are some people who, when they die, have their ashes thrown into space.
+Into space. Yes. Some people are turned into ashes and have their ashes thrown into space.
+And beautiful. That costs a similar amount. And a similar number of people do it.
+That's pretty wild. It is. So and that causes a lot less marital problems.
+So Cryonix customers do actually have a lot of problems where their family and friends or
+spouses are upset that they are going to use Cryonix. Interesting. And people are not upset
+about ashes into space. Isn't that weird? It's a similar amount of money. But I mean,
+so obviously one would seem to have a chance of working ashes into space is not going to bring
+you back. But it's in fact the fact that you think it might work that bothers people.
+That is, it's like betrayal and abandonment. Like you're willing to leave them to go to
+this future world without them. Right. Right. That bothers people. Whereas ashes into space
+doesn't. So that's one of the main obstacles to Cryonix is often people who are inclined in
+that direction, face resistance from family and friends who not only find it weird, but find it
+like it's somewhat emotionally threatening in the sense that you're willing to leave them.
+You know, somewhere else. Yeah. No, it's I mean, the idea of wanting to preserve your body
+after you die to be saved for potentially thousands of years to be brought back by a
+future civilization. It's it goes back to something that you've talked about before,
+of wanting to create more descendants of yourself or more versions of yourself to last
+into the future. How how does that idea relate to us compared to potential alien civilizations?
+The main way in the past, our ancestors have influenced the future is via descendants.
+Right. Even in the last 10,000 years with a lot of cultural evolution, still I'd say
+the main way most people have influenced the future is via descendants.
+That's because biological and cultural evolution have just been powerful forces in the world.
+So the question is for any one person, how how do they want to be involved with that process?
+That is, do you want to influence the future? And if so, how do you expect to do that?
+You know, if you imagine a corporation or something, right, it has a large structure
+that plans and then it creates future version of itself more in many ways through planning than
+through sort of random variation and selection, right? So sometimes firms have spin off firms and
+then new firms are based on that. But firms influence their future selves more through
+planning in some way. That's right. They decide to make a division and they decide to build a
+factory and they decide to promote somebody and things like that, right? So there's there's a
+sense in which we we influence the future, at least in short terms, often through planning.
+And then you might think of that sort of the main alternative to
+evolution as a way to influence the future, right? And that's very popular in the sense
+that when people think about how do we want to influence the future, they often think in terms
+of plans. They say global warming, how are we going to solve global warming? Let's come up with a
+plan and implement it or something, right? Or war, how are we going to stop war? Let's come up with
+the plan and implement it, right? So I would see, you know, planning versus sort of some sort of
+competitive adaptation as the two main forces that we know about for influencing the future.
+And up until recently, planning only ever had much impact on pretty short timescales. You could
+plan your short your lifetime near in the near future, right? You could plan a town, plan a firm,
+but over longer timescales, it was evolution and adaptation that had most of the impact on change.
+If those are the only two processes, I guess aliens would have to choose between them too,
+right? Right. And, you know, planning has become ascendant, right? In recent centuries, we are
+doing more planning that's in the past, we didn't even have large firms, right? Most people were
+small art artisans working on small scale firms are a new thing, large government agencies, those
+are a new thing, large longer term projects, building huge dams, things like that, those are
+all relatively new things. So planning is a sentence, right? More of the world today is
+structured by plans than was true in the past, but still even so at the larger scale of our society,
+most of it isn't planned, right? New firms arise, old ones go away, you know, new technologies
+arise, mostly not through long term planning, right? But planning is growing. And I think
+that tempts people to think, what if we could do everything with planning and then we wouldn't
+need competition? And that's, I think, what's happening with these world mobs or world government.
+I think that's sort of the key choice when we're thinking about which future we're going with,
+the quieter, the loud aliens, really, that is in some sense, the quiet aliens are likely the ones
+that liked planning, liked collective decision making, liked having a world community that
+decided things together and chose consciously what to do and controlled things consciously.
+And the loud aliens are the ones who allowed competition, allowed evolution and allowed
+adaptation and all the conflict and strangeness that would produce.
+Right. So the loud aliens are the ones that cared more about
+descendants. Or they failed at the other approach. I mean, or they just failed at the other
+approach, right? They could have wanted to do the other one and just failed at it, right? Remember,
+just, it just takes one colonist, whoever leaves through the entire history of civilization and
+goes off to another star. That's all it takes in the era of the central control. So it's a high bar.
+Right. So quite likely they never intended for it. It was the outcome they, you know,
+happened because they failed to achieve the other one.
+You talked about how humans today are becoming more and more like foragers because we are the way
+societies are structured in the last few centuries compared to, and this is something that you've
+written extensively about, how are we more like foragers? Foragers are the way humans live for
+a million years before, say, 10,000 years ago, roughly. And we lived in small groups and these
+small groups were governed sort of informally by collective decision making where we sat around
+the campfire and decided things together and then people didn't like it, they could leave.
+And that's how we did things for a million years. And we had a lot of cultural flexibility that
+allowed us to enter a lot of different regimes. Some of us became Eskimos and some of us lived
+in the rainforest, et cetera. But we still mostly had the similar social structure of these small
+bands who lived collectively and then basically, you know, they had a lot of things that are
+different from us. They were relatively promiscuous. They didn't so much have a marriage. They shared
+a lot of food, made decisions collectively. They had a lot of leisure time. They had a lot of
+art and travel. And then at some point, farming became possible, including herding and farming.
+And farming just requires a very different social organization and sort of attitudes
+toward life in the world. Farmers lived in higher densities, for example, maybe communities of
+1,000 instead of communities of 30. They had to plant seed and save for the future and they had
+to have self-control. They had property instead of sharing everything. They were living close enough
+to each other. They could have war and trade. They needed to manage self-control for war and
+they needed to deal with inequality because they had these large groups that would produce inequality.
+And farmers were just very different than foragers. And you might think it just couldn't happen that
+foragers could become farmers, but humans had enough cultural plasticity that we could change over
+maybe 50,000 years, slowly changed to become farmers. And farmers then accept more slavery,
+inequality, marriage, property, war, trade, working harder, less nutritious, less travel,
+all sorts of ways in which farmers were just different than foragers. But that's the way the
+farming world lasted for 10,000 years under this new economic thing, which was much more productive
+in the sense that people could just live much more densely, much more people per square mile living
+as farmers than they could as foragers. So farmers won in that sense of just displacing foragers.
+And then in the last few centuries, we've gotten rich. We found ways to generate wealth faster
+than we grow the population. So the wealth per person has gone up. And in that time period,
+as we've gotten rich, the cultural pressures that turned foragers into farmers have weakened.
+That is a lot of what made foragers into farmers was cultural pressures that was mediated by the
+threat of poverty. That is, so if you take, so foragers were pretty promiscuous. Okay,
+they didn't really marry. They stayed with the partner for a couple of years and switched. Okay.
+Farmers were supposed to be monogamous, right, for a lifetime. And so if you take, say, a young
+farming woman who was tempted to be promiscuous, what makes her not? Well, she is told over and
+over again at great expense and clearly if you break our rules about promiscuity,
+you and your child may starve. And we can show you examples of people to whom that's happened.
+And that tended to be persuasive. Farming young women and men learned enough self-control
+to follow the farming norms that were different than the forging norms,
+because they would die otherwise. And they had substantial threats that were powerful.
+But when you get rich and somebody says, you know, if you don't follow the rules, then we're
+going to disapprove of you and you say, yeah, but I'm rich, I can afford this. Then that doesn't
+work so well. So in the last few centuries, as we've gotten rich, we have been felt less inclined
+to go along with the forager norms and rules. We've looked inside ourselves and said, yeah,
+but what do I feel like? And we've done those things. And we continue to move in that direction of
+doing those things that we feel like doing because we can, we're rich enough that we can't. So today,
+a young woman is told, hey, if you have a child out of wedlock, then you and your kids may have
+problems. They go, okay, but I've seen other women, they have kids and they seem to do okay.
+I think I'll do okay. So, you know, don't bother me.
+And so we've been moving back to forager values outside of work. Now work is different in the
+sense that work is the goose that lays the golden egg. It's the reason we are rich. So in fact,
+at work, we are hyper farmers. We put up with domination and ranking and stuff at work that
+most farmers can put up with and certainly not most foragers. So we are schizoid in the sense
+at work. What do you mean by that last part? We put up with more dominance and ranking. So
+at work, most people at work in the modern workplaces are told what to do all the time and
+they're told they're doing it wrong. And they're shown they are worse than somebody else who's
+shown to be higher than them, even if they don't agree with that people. And most farmers would
+never put up with that. Most farmers were relatively independent farm, you know, farmers or
+cobbler or fisher or whatever. They worked in small groups as relative equals. And they didn't
+have a boss telling them what to do all the time. And after an initial apprenticeship,
+they were in charge of how they did things and they could just do it that way for the rest of
+life because things hardly changed. And so, and even that, so most foragers, again, are very
+egalitarian. They're hyper egalitarian. They just, they refuse to do, they won't tolerate any sort
+of implication that anybody's better than anybody else. They're really sensitive to that and they
+were really squashed that very fast. Is this also because there are way less people?
+And it's not, that's not central to it. It's more just the norm that nobody should stand up. So
+compare it to chimpanzees. In a chimpanzee group, there's a dominant set of chimps who rule over
+the group and are unequal. Okay. And humans didn't want that to happen. So humans are
+consciously and purposely preventing themselves from having a dominant group like chimps do
+and making sure everybody is treated equally. But that means they're constantly wary of somebody
+thinking, I'm the big chimp and I'm going to, I'm going to take over here. And so they have to be
+wary for that and stomp it as soon as they can because foragers are very egalitarian and they
+enforce that vigorously. And so part of that is nobody tells anybody what to do in part of the
+forager groups. And even children are not told much what to do. In fact, children are basically,
+you know, raised in a forager group by children get bored and then they follow an adult around them
+and maybe the adults will show them what they're doing if they're nice. And that's how children
+learn to do what adults do. And so farmers have more ranking because farmers have classes, right?
+There's the king and those lords and maybe slaves, but it's usually only a limited range of classes
+and most people interact mainly within their class. So most farmers still have a relatively
+egalitarian world where most of the people are at their level and nobody's giving orders.
+And that's how most of the farmer life is. And so at work, but we put up with a lot of
+domination and ranking at work. And it seems like school is a big part of why that's possible.
+School seems to make the modern worker in a way that non-school doesn't.
+So we've, we have many stories from around the world when modern, you know, companies would go
+into some local area and try to put up a factory or some modern workplace and try to get the locals
+trained to work in the modern workplace. And that often failed badly because the locals would just
+not do what they're told, even if they're offered large wages and would be fired if they wouldn't
+do what they're told, they just won't do what they're told. So like one classic example was
+in India and England at the same time, they had the same factory for, you know, spinning, making
+clothes or whatever, you know, making textiles. And in England, the factory was six times as productive
+than the Indian factory because an Indian worker would, you know, have a machine and they would
+sit next to the machine, they would tend that machine. And the English worker would have six
+machines and sit next to them and tend them. If you told the Indian worker to tend six machines,
+he'd say, no, that's not what I'm going to do. I refuse. And quite consistently across a wide range
+of stories that I've heard is just hard to get local people to do what they're told in a workplace,
+hard to get them to show up on time and especially hard them to just tell them that they're doing
+it wrong. That is, workers just are typically very proud of they think however they do it is right
+and they don't want this foreigner person telling the wrong. And especially commonly,
+like I'm told this story, someone I knew worked like near a United States Indian reservation
+and basically people off the reservation coming into a workplace, they would have this sense of
+status in their work from their reservation and they insisted that all their work tasks in a job
+reflected that relative status. They would not want to do a task that was lower status than somebody
+else they thought was lower status than them in the workplace. And so, I mean, for example,
+I understand when the United States goes into Arab countries and tries to train militaries,
+say in other parts of the world, what they often have, if they have a room full of people with
+training and some of them are higher than others in the room, then they can't do anything in the
+room that would ever make a higher person look lower than somebody else in the room in terms of
+their ability on any task. Okay. Right. And so they either have to only train people all at the same
+level or train them in a way that they never actually do anything because they might look
+worse. And this is just a very common sort of thing. People around the world are just very
+sensitive to the status they think is due to them and then the task on the job might threaten that
+status and make them look worse than somebody else who's supposedly lower status. But the key
+thing is that school changes this because the main thing that happens at school is every day
+you are ranked and rated many times in a way that most adults wouldn't put up with. Like,
+on most jobs, most people get an annual evaluation, right? And that's a big sensitive thing. You're
+not ranked every damn day constantly, but students in school are ranked every day. And in fact, we
+know that that level of frequency of rating and ranking of students makes them learn slower. That's
+actually a thing we know. We know they would learn faster if they weren't rated it so often.
+But we do rate them so often. Plaza because that's the product. That's what we're trying to do,
+trying to produce kids who will accept a modern workplace. Why are we trying to do that though?
+Because that's actually more productive. That is because it makes us rich.
+That's the thing makes us rich. We get rich because modern workplaces require a high degree of
+organization, a high degree of specialization, and they change fast. And so people have to be
+told what to do and told how to change it. And that's the goose that lays the golden egg. That's
+how we are more, more agreeable or people that are more willing to take orders, right? We want to
+produce people like that because it makes us more rich. And it makes us more productive.
+Wow. At the beginning of the Industrial Revolution, people saw this and they were terrified
+many people. So you can see like famous movies and novels around, say, you know, the year 1900
+as people were seeing the Industrial Revolution spreading and they were seeing
+this degree of regimentation and structure in workplaces. And they were terrified that that
+would spread to everything. And that was plausible in the sense that they could see that in a factory
+or a shipyard or one of these very structured modern workplaces, people did not have much
+discretion about how they did things or what to do. They were told exactly what to do and how to
+do it and when. And that seemed inhuman compared to prior workplace habits. And then they thought
+that'll spread to everything. And so people wrote science fiction novels in the late 1800s,
+describing what would happen if everything were regimented that way. What if society told you
+who to marry and where to live, what to eat for breakfast and what clothes to wear all the time
+always. Right. And that was this terrifying vision of the future that people were imagining
+because they were seeing how regimented work was and they were thinking that will happen to
+everything. Right. And it could have happened to everything if we hadn't gotten rich.
+But as we got rich, we could spend our extra wealth on not having that happen outside of work.
+So, you know, in a modern world, living in a big dormitory with a big cafeteria
+where you all wear the same clothes is much cheaper to supply. So like I visited a commune
+and there are communes out there that are living very poorly because they're basically supplying
+their own food and clothes and stuff. But they can do it by having just a high degree of regimentation
+and structure where people live in communal housing and have communal food and clothes.
+And that is much cheaper than the way we do things. But as we got rich, we decided instead
+of living in big communal housing and things, we would have personalized housing and personalized
+kitchens and personalized clothes because in fact, that's what we've spent most of our wealth on in
+the last century. So a century ago, people were looking at exactly variety, individual variety.
+That's what we've spent most of our wealth on. We could have say vastly more food. We could say
+maybe work two hours a week or something with all this technology we have. We don't need to work
+very much if only we would be willing to accept very standardized communal food and clothes and
+housing, etc. But we weren't. We chose we'd rather work a lot more and have a lot of personal
+individual variety. That is what you're explaining when you're saying we're becoming more like
+foragers. The individuality is individual as part of the forager trend, I think. But so a whole
+bunch of trends are explained by this forager. So we say over the last century, we have less slavery,
+less religion, less war, less marriage, more promiscuity, more leisure, more travel, more art,
+less overt domination of all sorts at workplaces and all sorts of contexts.
+These are all trends that are explained by this moving back to forager styles outside of work.
+And many people have painted science fiction futures where this trend continues. And they
+love this idea like Star Trek is partially like this or the cultural novels where basically in
+the future people work less, even less than they do now. They have even more variety. They have even
+more promiscuity. They have even less religion. They have even less war. So where does that go?
+Even less fertility? Where does that end up? Oh, less fertility is part of that.
+Yes, fertility is also for foragers had lower fertility than farmers. Why is that?
+And why would our fertility be declining? So I have a more detailed theory,
+but the first thing to notice is in fact foragers are lower fertility than farmers. So farmers are
+often in a situation where they can have a lot of kids and they do, whereas foragers are usually in
+a relatively stable environment where they control their fertility in order to make sure that they
+can stay in that stable environment. So farmers have had just more variety in the size of their
+environment where they go into a new area and they can just make a lot of farms, etc. And they can
+just expand a lot, whereas foragers haven't had that same ability. But it is basically also just
+true that foragers just tended to have lower fertility. Farmers might space verse once a year
+and foragers might space them every three or four years or something. But I have another theory that
+also can try to explain this lower fertility, because this is a central fact about our civilization
+today. That is, if you want to complain about our civilization, it's like one of the biggest
+things to complain about. You can say, well, any, any decent civilization wouldn't do this
+in terms of it was hoping to survive and reproduce, right? It would, it would just,
+why would it have such a lower fertility? So I do think there's a serious puzzle to be explained
+in why we have low fertility. And I do have a favorite theory, but it's not just the forager
+theory. Actually, it's a variation. But I mean, I do have to admit the forager correlation does
+at least predict the sign of the effect. Okay, well, please expand on it. Okay. But so the idea is
+that over the last 10,000 years, we lived in these larger groups, which often had things like kings
+and queens, right? King and queen of a thousand people isn't quite the same thing. But still,
+you had somebody at the top of a hierarchy who had much better long-term success for having
+grandchildren say. So over the last 10,000 years, and the prior 50,000 say as people were adapting
+to this, we evolved to ask, should I take a shot at being king or queen? That's a new strategy
+option that didn't exist before foragers didn't really have kings or queens. But now that we have
+king or queens, you might ask, well, should I go for that? So I could go for that, or I could have
+my kids go for that, right? Should I try to raise kids in a such a way as they might be king? But
+only certain people would have that option, only people that was in their lineage. No. So well,
+the question is, what are the conditions for having a shot at being king or queen? So evolution,
+cultural evolution and biological evolution had to find a way to code that. That is,
+you know, there's a lot of different variety of civil groups, they have different practices,
+everything. What would be a robust indicator that you had a good shot at being king or queen?
+And the hypothesis is relative wealth would be a good indicator. That is, in almost all societies,
+if you were higher status, you would have more wealth. So you're seeing that you had more wealth
+than others would be an indication that you had a shot at being king or queen. You lived in a
+bigger place, you had more food, more clothing, more leisure, just all sorts of indications of
+wealth would be a robust indicator that you had a better shot than most of being king or queen.
+So first let's ask, what would you do if you had a shot at being a king or queen? So in most
+societies, there's an elite culture, and then there's signs of being a member of the elite
+culture. And what you're trying to do is acquire those signs that show that you deserve to be a
+member of the elite culture. So you might do embroidery or poetry or learn to do balls or
+different societies have different things, but almost all of them will have a set of cultural
+practices that elites have or rich elites have that others don't that mark you as a valid member of
+elites such that you are a valid candidate for being king or queen, right? So now the story is
+if I or my child has a shot at being king or queen, then I want to invest in them in developing
+these cultural markers. I want to teach them poetry, to dance, to embroider, to sing, play the
+piano, whatever it is that in any one society is a marker of the elites, maybe read more fiction,
+know how to, etc. But it will take time to invest in that, right? And so the idea is that if I have
+a shot at being king or queen, a better south than most for me or my child, then for me or my child,
+I want to invest more in these cultural markers. And the key point is that will come at the cost
+of fertility. That is, it'll take time away from other things and that if I want to invest more
+in each child, I can't have as many children, right? Okay. So the idea is if I had a shot at
+being king or queen, I would have fewer children or they would have fewer children because they
+have a better shot at being king or queen. And if they do, then that will more than compensate
+for the current fertility loss because king or queen will have lots and lots of grandkids.
+So now the question was, you know, what would be the indicator that said I did have a shot?
+The indicator would be relative wealth. That would work. So that's the simple story, but that
+story doesn't work yet because in fact, over the last few centuries, we haven't had an increase in
+relative wealth. We had an increase in absolute wealth. So the strategy I've just described says
+look around yourself at your relative wealth to the people around you. And if you have a high
+relative wealth, then you have a shot at being king or queen, then you should lower your fertility
+now and invest more in the signs of cultural markers that would make you an elite qualified
+to be king or queen. But the story doesn't work yet. So I have to add one last mistake to my story.
+I have to say, well, up until the last few centuries, the average wealth never changed.
+Societies pretty much always had the same average wealth, which was pretty near subsistence.
+People varied within a society about their relative wealth compared to the average,
+but the average almost never changed. So this heuristic look at my relative wealth was perfectly
+fine as a heuristic look at my absolute wealth because my absolute wealth always told me my
+relative wealth until the last few centuries. So why bother to do this relative thing? Just
+look at absolute. So the story is evolution culturally and biologically encoded in us this habit of
+looking at our absolute wealth as an indicator of whether we had a shot at being king or queen.
+And if we did, we would lower our fertility in order to invest in the cultural markers of
+eliteness such that we would then be a valid candidate for king or queen.
+And then the problem is in the last few centuries, all of a sudden absolute wealth did vary.
+We got rich consistently the whole world, not just temporarily, but persistently.
+And that threw off this heuristic. So now everybody thinks they have a shot at king or queen and
+everybody's cutting back their fertility to collect cultural markers of eliteness so that
+they can all be king or queen, which is not working very well because they can't all be king
+or queen. What is happening, it seems like right now in society, especially with young people,
+is that people are investing more and more in their education or their careers, people my age
+in particular, they are especially, you know, young men and women, they are putting way more value
+into their finances, their education, their careers. And I would say these are markers of
+eliteness. That is the things they're collecting instead of kids are markers of status in our
+society. Right. And this is part of the reason that fertility is going down because we are,
+we have less value on producing more children and more value on gaining eliteness for ourselves.
+And my explanation is that's executing this strategy of trying to have your kids or you be
+king or queen. Right. So by the time you do have kids, you have developed this wealth or you have
+accumulated enough. You can train them to have high cultural markers so that they have a shot
+of being king or queen, except neither, none of you have a shot of being king or queen
+anymore. I mean, in the past, you would have, but now you don't. So why, why did we, how did
+we end up here? How did it get like this? So the key idea is that evolution evolves strategies
+that are heuristic and that use the cues available in a crude way. Right. So evolution can't look
+at the world you're actually in and tell you exactly what to do in your world. Right. It can only
+find markers of the world you're in and then find correlates between things you should do when those
+markers exist. That's how evolution tells you what to do. It can't look at more detail. Right.
+So it evolves this connection between the cues you see and the behaviors you should do to respond
+through. And the way it encodes those is going to be opportunistic. It's going to be based on what
+happens to be stable or not. So, so for example, imagine there was things like water except they
+weren't water. Okay. Right. So imagine there's something like water that tastes like water,
+isn't water or something else that smells like water that isn't water. Right. Now in our world,
+everything that smells and tastes like water is water. It's not a problem. Right. So in our
+world, evolution could have taught you when you're thirsty to get water based on the taste or the
+smell, either one, it would work fine or just the way it flops when it, when it moves or something.
+Right. When evolution wants you to go get water, it has a whole bunch of cues to work with that
+all, all go together in our world. So it doesn't that much matter. Right. So, you know, maybe you
+queued off the smell of water and then that smells good and now I'm going to drink water. Right.
+So now imagine a world where, okay, there's a thing that smells like water that isn't water,
+that isn't really, isn't actually healthy for you. Right. Well, now if you appeared in that world
+all of a sudden, where you had been trained in the prior world, then you would start drinking
+the stuff that smells like water and, and that would hurt you because it's not actually water.
+Right. But, you know, that's because you moved into a new world. Right. You moved from a world where
+all the different cues about water all went together. So you didn't actually need to use them
+all. You could just pick any one of them and you moved into a world where all of a sudden it
+makes a difference and now you'd be making a mistake. So the key idea is evolution has this
+general task of figuring out what cues in the environment should trigger what behavior,
+but it's only going to bother to like look at the actual variation in the world you're around,
+not all possible variation in order to figure out what to get you to do.
+So the story is that for our ancestors for a million years our ancestors lived in societies
+whose average wealth never varied. So there was no point in evolution coding you with this way
+of checking your relative wealth to other people. It was much simpler to have you just
+check your absolute wealth. Right. That was the perfectly fine cue up until recently to decide
+whether you had a shot at being king or queen. But all of a sudden the world changes and now this
+heuristic that worked fine in the old world doesn't work so well in the new one and that's
+why fertility is declining. We're just executing a heuristic that is misfiring because it's in
+a new world. And there's projections that show birth rate where it's going and I think Elon Musk is
+one of the most vocal people about this. So which is why he's having the question is like
+how will this problem get fixed? And you might think okay eventually say evolution would fix it,
+but now we have to ask well how exactly would evolution fix it? So I think the key question
+is how much cultural conformity pressures are involved here? That is you know so for example
+we've seen societies like you know the Mormon say or Orthodox Jews who have an unusual culture
+that promotes fertility. Right. But nevertheless their fertility has also been falling at a similar
+rate just at a delayed time. And even those societies apparently aren't failing to resist
+the larger cultural pressure to adopt the larger cultural attitudes toward fertility.
+Right. So that is your attitude toward fertility is a combination of like your genetic unique
+attitude toward fertility plus the cultural attitude toward fertility around you that you're
+being taught. Right. So biology can only fix this when that if that cultural that biological
+attitude got so strong as to overwhelm this cultural attitude. And that doesn't seem to
+be true of most people today that most people are pretty culturally influenced by the people around
+some people might have more of a biological inclination toward fertility, but they all seem
+to be pretty influenced culturally by the people around them. So either over I mean so if you think
+about I think I did the numbers like in 1500 years humanity would go extinct if the population
+went down by half every two generations or something like that. So that's kind of the
+timescale we have to work with. Wow. So the question is well first of all can biology create
+humans who resist cultural pressures enough over that timescale, which I'm doubtful for
+more likely scenarios can culture create a new culture that resists outside cultural influence
+over that timescale. And that seems more positive because we have seen cultures that are somewhat
+insular in the past. Right. Cultures that train people in that culture to follow that culture
+and to ignore outside cultures. Say forget all of them. They're evil. They're wrong. Just listen
+to us. Right. So then the the wind scenario seems to me is that we end up with a especially
+insular fertile culture. That is a culture arises, which has a strong value of fertility
+and insularity. That is it teaches people to not listen to outsiders and to stay away from outsiders
+and to just listen to people in the culture. This has to be more insular, as I said,
+than the Mormons are now because they are failing. They are in fact have, you know,
+responding enough to the outside cultural influence that they are on track to all with
+everybody else. So this new insular culture is going to have to be pretty damn insular.
+And that's going to cause a lot of costs. Right. That is, you know, that insular cultures have
+caused wars and a lot of things and, you know, especially they're going to limit innovation.
+Right. This insularity is probably going to resist other things from the outside culture,
+not just fertility attitudes. So it's going to resist technology, maybe all sorts of things
+that might resist. Right. And so and who knows what it'll be. But unless we can like engineer,
+it'll be kind of random. Right. Which insular culture appears that manages to to persist.
+And of course, it'll have to not only arise as an insular fertile culture, but also resist the
+outside's world trying to crush it. Right. Because the outside will may be very offended
+by their insular fertile culture. I'm less, I'm less assured of biology solving the problem
+than culture. That is, I'm less assured that like some humans will just evolve a biological
+inclination to just want to have a lot of kids regardless of cultural pressures.
+Or we can start genetically making our own kids in test tubes.
+I'm not sure. I don't think that helps. That is, it's about again, how much you invest in each
+child, right? Getting pretty far. It's about how much you invest in each child,
+not so much about how mechanically you make the child in the first place, right? Most of the cost
+of raising children isn't the first year or the pregnancy. The cost is all that time it takes to
+raise the child to be a elite, cultured child. And the time it takes to put into them and to
+teach them things. Right. So if you'd have to imagine a future where people are willing to like
+hand all that off to robots or something, right? Well, people are selfish too. Like,
+I feel like right now people are, they're not, they're inclined to produce more kids,
+but it's the time they're willing to spend on the kids because you're taking time away from
+yourself and putting it right towards this other human. And you have to have enough faith and
+enough belief that you're going to. Right. So you have to imagine something like, you know,
+where the kids, the elite kids send their kids off to boarding school or something, right?
+Where now the elites aren't spending the time and the boarding school does. Now you have to
+imagine a very efficient, cheap boarding school, right? Right. So somehow it's going to be able
+to raise these elite kids at a low cost to the parents so that they're willing to have a lot of
+them. Right. That's, that seems a tough game. I would more predict the insular fertile culture
+at winter. And the faster than that. Well, Rob, we've hit three hours. Thank you for doing this,
+man. It's been fun. Thanks for letting me spout and ramble. And I'm going to have to watch this
+over again so I can understand it better. But it's been quite educational. I appreciate it very much.
+Where can people watching and listening find more of your work, find your books,
+find you on the internet, et cetera? Well, I have a website, hansson.gmu.edu.
+On Twitter at Robin Hansen. I have these two books, The Age of M and The Elephant in the Brain.
+And just Google my name. Of course, we'll find it a lot. Or even videos on YouTube.
+Google my name. Well, thank you very much again. It's been a pleasure. I very much enjoyed it.

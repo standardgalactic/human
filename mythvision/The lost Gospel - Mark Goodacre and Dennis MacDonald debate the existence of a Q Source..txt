@@ -1,0 +1,948 @@
+We are MythVision.
+Welcome to MythVision Podcast.
+Today you're joining for a discussion forward slash, if you will, debate with Dr. Mark
+Goodacre and Dr. Dennis R. McDonald.
+To queue or not to queue?
+That is the synoptic question and often we have what they call the synoptic problem.
+We're going to be discussing this problem today and how scholars handle this.
+There are various views.
+I'm going to jump right in and right now I'm going to show you guys our guest.
+We have Dr. Dennis R. McDonald earned his undergraduate degree from Bob Jones University,
+a master of divinity from a Cormac Theological Seminary and a theology in Denver, Colorado.
+From 1980 to 1998, since 1998 to 2015, he was the John Wesley Professor of the New Testament
+at the Claremont School of Theology and Professor of Religion at the Claremont Graduate University.
+He also was the director of the Institute for Antiquity and Christianity at Claremont.
+To list a few books, he has Homeric epics in the Gospel of Mark, does the New Testament
+imitate Mark, the Gospels and Homer, mythologizing Jesus, the Dionysian Gospel, Luke and Virgil,
+I'm not giving you guys subtitles, it would go on forever, Christianizing Homer, the Two
+Shipwreck Gospels, the Legend and the Apostle, and from the earliest Gospel Q plus in the
+Gospel of Mark.
+We'll go ahead and start with our good friend here, Dr. Mark Goodacre.
+He is the Francis Hill Professor of Religious Studies at Duke University, right down the
+street from where I live, North Carolina, USA.
+He earned his master's in philosophy at the University of Oxford.
+His research interests include the Gospels, the Apocryphal New Testament and the Historical
+Jesus.
+Goodacre is the author of four books, including The Case Against Q, Studies in Mark and Priority,
+and The Synoptic Problem, and Thomas in the Gospels, The Case for Thomas' Familiarity
+with the Synoptics, which is going to be something we have to talk about in the future.
+He's well known for creating web resources on New Testament and Christian origins, including
+his podcast, The New Testament Podcast.
+Goodacre has acted as a consultant for several TV and radio programs, including The Passion,
+BBC, HBO, 2008, and Finding Jesus, CNN 2015 through 2017.
+Goodacre is currently working on a book on John's knowledge of the Synoptic Gospels.
+Have you completed that book?
+It needs a little bit more work.
+Well, welcome, gentlemen, to the show, and obviously, thank you for taking up the opportunity
+to debate a question.
+I don't think there's going to be another Q video like this out there, so with that
+being said, I guess go ahead and start us off, Dr. McDonald.
+We're going to let tenure in terms of age be the guy who starts us here, and I'm interested
+in hearing what you guys present about the Q Gospel.
+Thank you, Derek.
+Derek and Mark encouraged me to begin with an anecdote.
+I talked to a friend that I was going to have this interview with Mark Goodacre, and
+he said, you must be a fool.
+And I said, why is that?
+He said, how are you going to compete with someone who's younger, better looking, has
+a magnetic smile and an English accent?
+And I think he's right.
+You know, I'm a fool to be here, but I really am glad to be here and to talk about the synoptic
+problem.
+So here we go.
+My primary interest in the synoptic Gospels pertains to its imitations of classical Greek
+poetry, especially the Homeric epics, as I have argued in several publications, some
+of which Derek listed.
+In my opinion, the synoptic problem will remain to some extent at least unsolved until such
+literary imitations become more widely recognized.
+But imitations of Greek poetry, even if acknowledged, can explain only synoptic
+characterizations, type scenes, and motifs.
+Once one removes these narrative features, one finds, especially in Matthew and Luke,
+a wealth of teachings, parables, and legal controversies that require a different explanation.
+The discussion between Mark Goerekker and me today pertains primarily to these so-called
+sayings traditions, whether it points to a lost gospel or not.
+To my knowledge, no one in his camp, which I will call the far hypothesis, though it's
+called by other things as well, has either in neither endorsed nor dismissed synoptic
+mimesis of Greek poetry.
+It would appear that they're content to largely ignore it.
+But mimesis criticism actually supports a major commitment to the far hypothesis in
+so far as it leaves no doubt that Mark is the earliest of all surviving gospels.
+On the other hand, it demonstrates that Luke must have received some of his materials,
+not from Mark or Matthew, but from a lost gospel, as we shall see.
+Now let me say something about what seems to be the dominant solution to the synoptic
+problem, one that's different from Mark and myself, not the gospel of Mark, Mark Goerekker
+and myself.
+That is the two-document hypothesis.
+And I'm going to be fair, but very brief.
+At the heart of the two-DH, or the two-document hypothesis, are three fundamental commitments.
+First, Mark and Priority, with which I concur.
+Two, Matthew and Luke redacted Mark independently, neither was aware of the other.
+Therefore, Matthew and Luke overlaps when they do not both rely on Mark issue from a
+lost gospel, ergo Q from Kvella in German source.
+Three, Mark was ignorant of Q, as reconstructed by comparing Matthew and Luke.
+Now here's how they go about reconstructing Q, and the most successful and popular of
+these reconstructions is what appears in the so-called critical edition of Q.
+First, one eliminates from Matthew and Luke everything that could be attributable to Mark.
+So you wash Mark out of Matthew and Luke.
+Second, you compare Matthew and Luke overlaps that remain for alternating primitivity and
+attributing early wording and sequencing to the lost gospel, on the notion that sometimes
+Mark is more primitive and other times Luke is.
+And then, you assess content only in Matthew or Luke, the so-called zonderboot, special
+material, for content that's congruent with Q.
+Now that's very simply put.
+Actually, the execution of these criteria on the synopsis can be very sophisticated
+and detailed.
+And I, for one, appreciate that hard work, though as you'll see, I also differ from the
+conclusions and especially the flawed methodology that is used to reconstruct Q.
+So that's what I would say is an overview of the two-document hypothesis.
+Mark, do you want to jump in here?
+I'm quite happy listening to you all day, Dennis.
+I was very much enjoying that very, very lucid way of setting up the issues.
+Fantastic.
+And probably one of the most important things I can say for viewers is that I think the
+agreement, this is not a good way to start a debate, by the way, but I'm sorry, I'm going
+to do it anyway, but I suspect the agreement between me and Dennis is far, far greater
+than the disagreement.
+So I'm sorry, Derek, if that's a disappointing admission.
+So it's just the absolutely fundamental thing here.
+Absolutely fundamental thing is mark and priority.
+Dennis and I agree, like the majority of scholars, that Matthew and Luke both had a copy of something
+that resembles our Gospel of Mark.
+Not exactly the same, but it must have been along those lines.
+This is so fundamental to so much good historical scholarship on the Gospels.
+And I've referred to it in writing before as one of the crown jewels in biblical studies
+scholarship.
+It's just one of those things which has enabled historians to get a whole fresh light on
+historical Jesus, on the development of early Christianity.
+So that really fundamental thing we're agreed on.
+And I think one other thing that I'd want to sort of really underline really strongly,
+because this often gets missed, is that we are both strongly committed to a literary
+solution to this problem.
+That doesn't mean that there was only text.
+Obviously, these people talk to people as well, but a literary solution is absolutely clear.
+And the reason why I want to underline that and underline our agreement on that is that
+occasionally you'll hear people saying, oh, you know, you've got four Gospels.
+There were kind of four people there.
+And, you know, if I if I saw a traffic accident, I might, you know, have something similar
+and something's different.
+But it's just I hate to say that's just so ignorant.
+That is just so ignorant because what you have in the Synoptic Gospels, Matthew, Mark
+and Luke is fundamental, similar literary phenomena.
+And when I say similar, I mean, we're talking sometimes about entire paragraphs that are
+practically identical between Matthew and Mark, Mark and Luke, Matthew and Luke and
+all three.
+And I mean, it's so similar.
+So I think, if anything, that's probably the most important thing that I'd want to underline
+as as things that we are fighting the same battle on, which is this is a literary problem.
+And just to reiterate, that doesn't mean that there are not oral sources around and memory
+and different things.
+Obviously, all those things would have factored in most of those things are lost to us anyway,
+but it's a fundamental literary phenomenon and the importance of Mark and priority.
+Then after that, I suppose we start disagreeing when we get to the specifics of how Matthew
+and Luke agree.
+Well, let me play nice and say that there are two other places where I think we strongly
+agree.
+And I'm going to anticipate your book on the fourth gospel and the synoptics.
+And I am absolutely convinced that probably at several different layers of its composition,
+the Gospel of John knows the synoptics and knows more than one of them.
+And it's almost risible to say that it's independent.
+So I would agree with that.
+I also think your your work and that of others to show that the Gospel of Thomas, though
+it probably retains some independent Jesus tradition knows the synoptics and it knows
+more than one of them.
+So I do think that we over we agree on more with each other than than we would disagree,
+but we do disagree on some things.
+So we can end it.
+So we can end it.
+That Derek van, right?
+I was just going to say the debate is over, ladies and gentlemen.
+I appreciate you guys watching the show and you saw now pick who won.
+Now I'm just kidding.
+Yeah, I'm glad you guys came on agreements because it's important you find those areas.
+So when people are viewing like me, because I'm going to be I'm a student on every person
+I ever interview, I'm literally a student.
+I'm not a master at any of this stuff.
+And I'm going to be looking for where you disagree and why I hopefully touch on weeds,
+but don't get lost in the weeds as much as possible.
+Because people like me will get lost literally and not be able to keep track of some of the
+things, but we do need to get into some stuff.
+So I don't want us to get too lost with that being said, maybe we can start on.
+Well, Dr. McDonald, I'll allow you to steer the vote on this because I suspect we're going
+to start getting into where we need to focus on why you guys don't agree and what you view
+things differently.
+How do you view things differently?
+Well, I think we need to divide things into methodology on the one hand and evidence on
+the other.
+And I think Mark would agree with me that ultimately the answers are in the weeds.
+But the weeds do not make for good viewing on a podcast on this kind of YouTube channel.
+So I do have some examples that we can use, but they illustrate the methodology.
+So I think what I'd like to do is to try it out, what the Q plus papious hypothesis is.
+And in order to do that, I apologize for having written something out just to be clear and to be
+concise.
+The Q plus papious hypothesis derives its name from its advocacy of the existence of a lost
+gospel that is half again as long as the critical edition of Q and also the theories
+reliance on papious is exposition.
+That is his five volume work written around 110 significantly before the composition of Luke
+and John.
+Papious often appeals to information from an informant, the elder John, likely the same elder
+who wrote one, two and three John, two citations are relevant to Mark and Matthew.
+Here's what he says, not about Mark Goodacre, but about the gospel of Mark.
+And by the way, what I'm going to read to you now is the earliest known external reference to a
+synoptic gospel.
+Mark became Peter's translator.
+Whatever Peter recalled of what was said or done by the Lord, Mark wrote down accurately, though
+not in proper toxis, not in proper sequence for Mark himself, neither heard the Lord nor followed
+him.
+But as I said, he later followed Peter, who used to craft teachings for the needs of the
+occasion, not as though he were crafting a sequential arrangement.
+Syntaxon, the toxis is in there, of the logia about the Lord.
+So Mark was not in error by thus writing a few things as he remembered them, for he made it his
+one purpose to omit nothing that he had heard or falsely to present anything pertaining to them.
+Mark's toxis or sequence of logia, that is, pericope, accordingly need not be authoritative in
+so far as he merely translated into Greek a few things that he recalled of what Peter had
+remembered and taught without regard for proper sequence.
+Obviously, John had compared Mark's few things with the longer work or works that present logia in a
+different sequence.
+Few scholars today would concur that Mark relied on Peter's memoirs, and I have argued that most of
+his narratives derived instead from imitating Greek poetry, especially Homer.
+But Papias also says one very important but enigmatic sentence about Matthew.
+Matthew, according to Papias, John the Elder's talk, Matthew said in order the logia in the
+Hebrew language, but each translated it translated them, that is, these logia, as he was able.
+The expression as he was able intimates that each translator mishandled Matthew's Hebrew
+original and accurate taxes.
+John and Papias thus had a synoptic problem already by the year 110.
+Their three Greek Gospels contain similar logia, but in incompatible sequences.
+Insofar as the taxis of paralogia and Mark and canonical Matthew are basically identical, the
+deviating sequence, in my view, likely appeared in the lost Greek Matthew.
+The importance of this passage should be obvious.
+Before the writing of the Gospel of Luke, the Elder John and Papias knew three Greek collections of
+logia about Jesus, presumably Mark and Matthew, perhaps as we know them today, but also one that
+is lost that resembled Matthew more than Mark, but with content in a different sequence, potentially
+something resembling what scholars have been calling Q.
+In other words, whether or not one holds to the existence of a lost Gospel in forming the
+synoptics, this reading of Papias modestly supports the two-document hypothesis against the far
+hypothesis.
+Insofar as it requires admission that a lost Gospel similar to Matthew existed prior to Luke.
+But of course, it does not show that it was the Q document that was known.
+That was the other Matthew.
+More important to me, actually, is what Papias has in common with Luke acts.
+And this may come as a surprise to most people, maybe even to Mark.
+I think Luke is later than Papias and knows Papias.
+And because Papias was so concerned about Matthew, Luke had to have known Matthew.
+And this, I think, is the major problem with the two-document hypothesis.
+It has glossed over far too much evidence, not just minor agreements.
+By the way, a lot of the minor agreements are major agreements and need to be taken more
+seriously than they have been.
+Papias is, thus, more important in problematizing the two-document hypothesis than the far
+hypothesis.
+To tidy up his synoptic atoxia that is a disorder, Papias set out to restore the
+toxis of Matthew's lost Hebrew collection in a synthesis of his own to supplement it
+with other traditions and commentary.
+He says, I will not hesitate to set in order again, also for you, whatever I learned well
+and remembered well from the elders with interpretations to confirm their reliability.
+For I would not take joy as many would in those who had much to say, but in those who
+taught the truth, not in those who remembered the commandments of others, but those who
+remembered the commandments given by the Lord of for faith and derived from the truth
+itself.
+Now, the similarities between Papias's preface and the preface to Luke are
+extraordinary because Luke modeled his after the exposition in my view.
+Since many have attempted to set in order an exposition of the matters that have come
+to fruition among us, many have.
+And according to Papias, he had three, one Mark and two Matthews, as though who became
+from the beginning firsthand observers, that is like Peter and Matthew, according to
+Papias, and assistance of the word, like translators and Paul Mark's transcription handed
+on to us their expositions.
+It seemed good to me too, having followed them all thoroughly to write an exposition
+precisely in sequence for you, most excellent theophilus, so that you may recognize the
+uncertainty of sayings about which you have been instructed.
+The parallel and quotation, the parallels are even more striking in Greek, nowhere in
+ancient prologues, nowhere does one find a compelling constellation of exposition,
+lexemes and Luke's.
+And I have these listed out in Greek.
+Most of your viewers will not appreciate the list, but it's six different expressions
+that the two have in common in Greek.
+Moreover, both books are addressed to a U, C, but my argument for Papias to Luke is not
+merely lexical, but also is topical.
+Both authors set out to correct the toxace of earlier gospels, at least one of which was
+Mark. Insofar as Papias was obsessed with rearranging narratives about Jesus in his three
+Greek sources to Matthew's original order, and insofar as Luke seems to have known Papias,
+he obviously must have known Matthew as well.
+In my view, this is the decisive blow to the two document hypothesis as it's maintained.
+The comparison of the accounts of the death of Judas in the exposition and the acts of the
+apostle delivers the coup de grace.
+Papias's account disagrees with the account in Matthew and Luke agrees with Papias, but
+shows awareness as well of Matthew's account.
+In other words, Matthew informed Papias's account and Papias and Matthew influenced Luke's
+account. The arguments for this evolution of stories is compelling, but too complex for
+this discussion. In sum, Papias attests to the existence of a lost gospel that resembled
+Matthew, but with sayings in a different sequence.
+This could confirm the existence of Q in agreement with the two document hypothesis.
+On the other hand, if Luke knew Papias, he must also have known Matthew in agreement with the
+far hypothesis. The Q plus Papias hypothesis offers a compromise that advocates both the
+two document hypothesis in some of its regards, and the Q plus Papias hypothesis offers a
+compromise that advocates of the two document hypothesis and the far hypothesis both won't
+like. So, Mark, I do want to talk about how the two shipwreck gospels in this hypothesis go about
+reconstructing the lost gospel, but you may want to say something now about Papias.
+Thank you. Thank you very much, Dennis.
+So I don't have a nice prepared screen.
+I mean, I could read a bit from the book, maybe, but no, to be fair, I don't discuss
+Papias much there. Maybe if I could just say one quick thing, because I'm interested in the
+interaction between us. But one quick thing I would want to say is that I like very much the
+stress on mimesis, imitation. And one of the things that I often say when I'm presenting this
+whole synoptic issue is it's fascinating just how similar Matthew's gospel and Luke's gospel are.
+In antiquity, you would struggle to find two books so similar. And to me is one of the great
+anomalies of scholarship that we take these two really similar books that the like of which
+Indiana really, really similar books. And we say, Oh, this guy didn't know this guy. There's no way
+that Luke got, you know, his idea from Matthew. And to me, that's one of the most fundamental
+issues in this. And I think I like your quotation of the preface of Luke, Dennis, because one of
+the things the preface of Luke tells us is Luke is dissatisfied with his sources in some way.
+You know, I mean, he does this whole thing says, Well, you know, I've investigated everything
+carefully from the beginning, and now you're going to get the truth. And you don't write that way.
+If all you're going to do is just copy out your source material. So Luke, I agree with you, Dennis,
+Luke is critical of his source material. It's just that in my way of looking at it is that emphasis
+on order that you have in Luke's preface really shows itself when you start noticing if Luke
+used Matthew, he really has worked reworked the order. I think he doesn't like Matthew's order.
+I think that's one of the key things that Luke's trying to do. And I think one of the fascinating
+things that you're seeing is, you know, we agreed about Mark and priority. One of the things I think
+Luke is doing is he has known Mark's gospel, I think, for much longer than he's known Matthew.
+And he's kind of got it into his bloodstream, into his thinking. He knows the thing really well.
+And I think when he reads Matthew's gospel, he can see what Matthew's gospel is, what Matthew's
+gospel is, is a revision of Mark. And I think Luke sees that and he thinks, do you know what?
+I could revise Mark too. And I think he thinks he could do it better. Not only because he has some
+sort of better ideas about the order, but also because he likes a lot of the new stuff in Matthew.
+And he says, well, I can use that. I can use that. I like the Beatitudes. I like the Lord's
+Prayer, I like the Parable of the Lost Sheep. So those go into, but he doesn't want to restructure
+Mark in the way that Matthew does. So I agree with lots of what you say there, Dennis. And
+just one last thing. I like the point you made about minor agreements. And you said a lot of the
+minor agreements are quite major. The chapter I wrote about this in my case against Q actually
+is called Major and Minor Agreements. Because one of the things that I think scholars have done is
+they basically, scholars are very good at categorizing things. I like to put everything
+into little boxes. And sometimes when they put things into little boxes, they do it to stop you
+from looking at it. But like magicians sometimes, it's like a kind of sleight of hand thing. If
+you can take all the best evidence that Luke knew Matthew, and I think there's lots of it,
+there are thousands of these agreements between Matthew and Luke against Mark. If you can take
+the best evidence and put it in a little box and label that box minor, then he gives every
+single student an excuse not to look in that box. And I think that's a fundamental mistake,
+because it might be that that box has got the key stuff in. I think it has. Because if you want to
+argue that Luke knows Matthew's gospel as I do, then the best evidence for that is where does
+Luke agree with Matthew? So we don't want to shunt that off, you know, into the corner somewhere.
+We want to embrace it. Well, I agree entirely. In fact, even though Goulder does not use the
+word mimesis, as I recall, he certainly, especially in his brilliant treatment of the
+infancy narratives in Matthew, uses imitation and not what I would call anal redaction,
+which is so uncreative and, you know, you know, literal. And we need to have a much more robust
+understanding of gospel intertextuality than the one that Alon and Huck Riven are promoting
+in their synopsis. By the way, I'm producing a new, what I call two mimetic synopsis
+that include the my reconstruction of Q. But for me, more significantly, my translations of
+parallels from Greek poetry is a way of having a much more robust and wide open understanding
+of gospel intertextuality. So I, but you might want to respond to my comment about Goulder,
+but Goulder had a much more creative understanding of gospel intertextuality
+than someone like Franz Nairink. Yeah, I mean, for viewers not familiar, this is Michael Goulder.
+It was actually pronounced Goulder as in shoulder. Michael Goulder, I think one of the great
+scholars of that time on the Gospels and sadly quite underrated during his lifetime.
+And he did see the evangelists as being creative authors. He felt that they were people who weren't
+just kind of village style scribes that were just barely cobbling their way through things,
+you know, kind of a little bit muddled, what was spliced a bit of Mark in here and was spliced
+a bit of Q in there. You know, he thought that these were actual authors with creative minds
+who had agendas doesn't mean that their works are perfect literary art, you know, the gospel
+are not, you know, they're not Homer, but they are, I think, products of brilliant authors with
+their own agendas. And yes, I think that Goulder was absolutely right that when Luke starts writing
+his gospel and the first things he does, he says, okay, we've got these birth narratives in Matthew's
+gospel, adding a birth narrative at the beginning of Mark's account. Great idea. I'm going to do
+the same, but I think I can do it better. And the thing about that is most of history has agreed
+with Luke on that because, you know, I didn't because of the pandemic, I didn't get back to the
+UK this holiday season. But usually I do. And that sometimes means I'll get to a Christmas
+Carol service. And do you know what, when you see people reenacting the nativity, which one do
+they enact is always Luke, the only bit they like out of Matthew's is the three wise men,
+because that's them bringing presents. And then we can go, oh, we can all give each other
+the presents at Christmas, you know, but otherwise we like Luke, we like the shepherds, we like the
+angels, we like the Annunciation to Mary, we like the fact that Luke focuses on Mary rather than
+Joseph, you know, so we, we're all in a way fans of Luke's project, which is why I think New Testament
+scholars are so strange when they say, oh my goodness, what's going on? Luke couldn't possibly
+have known Matthew's birth narrative. But why couldn't he? I mean, so, so yeah, absolutely.
+Yeah, it was about something we've agreed about something, Dennis, I'm getting really,
+getting really uneasy here. Okay, actually, the first thing I'm going to mention now,
+you'll agree with too, unfortunately, but I'll get to something you disagree with rather soon.
+I want to talk about my book, Two Shipwreck Gospels, The Law Glory of Jesus or Q plus in
+Papius's Exposition of Logia about the Lord. My solution to the synoptic problem begins with
+two fundamental commitments. The first, Mark, I think you'll agree with the chronological sequence
+of synoptic writings begins with Mark, goes to Matthew, and finally Luke. And I think that's just
+got to be as fundamental as Mark and priority, that we get that sequence right.
+Two, sometimes later gospels contain earlier material, that is, in many cases, Matthew preserves
+a saying found also in Mark, but with more primitive wording. In some cases, Luke preserves
+a saying found also in Mark or Matthew, but with more primitive wording. I call this phenomenon
+reversed priority. So whereas the two document hypothesis uses alternating priority,
+I insist on reverse priority. And to identify it, I use three collaborating criteria.
+The first is independence likely is more primitive than narrative contextualization.
+When a one version of a saying stands on its own, it generally takes priority to want to
+simulate it into a narrative context. Sometimes sayings generate narrative, in my view. Second,
+difficulty or ambiguity to him is earlier than improvement. Later texts tend to solve problems
+rather than create them and to enhance Jesus' stature rather than diminish it, for example.
+Third, atypicalities versus typicalities. When one version of a saying displays characteristics
+typical of an author's style or theology, and there is a parallel version that lacks such
+editorial traits, the one that shows fewer of them likely is earlier. Now, Mark, you'll see
+similarities in these criteria for those that are used often for New Testament textual criticism,
+moving to improvement, assessing a manuscript's typicality or whatever.
+Two shipwreck gospels first supplies these criteria to Mark and Matthew, ignoring Luke,
+to show that even if Luke knew Matthew, which I think he did, one could make a case that Matthew
+had a second source, not just oral tradition, that contained content more primitive than Mark,
+and now is lost. Matthew's reverse priority is most apparent in his 18 doublets and six non-doublets.
+In each case, the non-Markan version is more primitive. Now, this is very important to me,
+but it's hard to understand, so I want to very briefly try to help viewers understand what's
+at stake. Matthew redacts Mark. In 16 times, he has content that resembles his imitations,
+his redaction of Mark, and in every case, apparently, the non-Markan version is more primitive.
+Non-doublets refer to places where Matthew has been redacting Mark. We get to a certain point,
+and he stops redacting Mark, but that content appears elsewhere in the Gospel, not with Mark
+and wording, but with wording that's more primitive. Now, scholars routinely attribute these more
+primitive non-Markan doublets and non-doublets to Matthew's knowledge of alternating sayings from
+oral tradition, but the logia isolated from Matthew's reverse priority to Mark repeatedly
+imitate Deuteronomy to portray Jesus as the promised prophet like Moses, and you can see this,
+of course, in Matthew already, still, where there's this concern about Jesus as the new Matthew
+and the new Torah. But in my reconstruction of these primitive non-Markan materials,
+we find John the Baptist in the wilderness preaching repentance like Moses in the first
+verse of Deuteronomy. John insists that he's not a prophet like Moses, someone stronger than he is
+coming. Jesus is tempted in the wilderness for 40 days like Moses on Mount Sinai and in response
+to the devil, he cites Deuteronomy three times. He overturns the mosaic permission of for a man
+to divorce his wife. He violates Torah by eating with tax collectors and sitters, by defending,
+gleaning, and healing on the Sabbath, and eating with unwashed hands. In the last logian, Jesus
+promises his twelve disciples, serones in his kingdom, from which to judge the twelve tribes of
+the house of Israel, much as Moses said, authorized to judge for each of the twelve tribes at the end
+of Deuteronomy. The consistency of this theme in these materials, including verbatim citations
+from Deuteronomy, points not to Matthew's awareness of oral tradition, but to a document in addition
+and earlier than Mark. Then my book applies the same materials to the Gospel of Luke to identify
+reverse priority to not just Matthew, but also reverse priority to Mark. And there again we have
+about, I think, 14 doublets and eight non-doublets.
+So basically that's my attempt to reconstruct the lost Gospel. Dr. McDonald, I think this is
+really important because there's a lot of layers you added to this in terms of what we're going to
+discuss, and I definitely think it's important. Can we pause where you're at and get Dr. Goodacre
+to maybe respond? Because some of these I think he's going to disagree with, and I'd like to see
+some interaction here for the sake of the audience as well, so they could see both of you guys kind
+of discuss some of this stuff. Because there's a lot already you mentioned there that could really
+be talked about. And some of those things, I guess I want to ask a few basic things if that's okay
+to you, Dr. Goodacre, and then we can get... I just want to read one final paragraph, but I agree.
+I want to get right to Mark's comments. Yes. Both dominating solutions to the synoptic problem
+proposed that Luke had only two sources, although that I know has been, is not entirely fair.
+According to the two-document hypothesis, the two were Mark and Q. According to
+some versions of the far hypothesis, they were Mark and Matthew.
+But already, Papius knew of three lost gospels, and Luke speaks of many previous attempts to
+write an exposition. Two measly sources do not constitute many. The Q plus Papius hypothesis,
+however, insists that Luke's many included Mark, Matthew, a lost gospel resembling Matthew,
+which I would call Q plus, or the Logo of Jesus, and Papius's exposition. In other words,
+four makes many, two does not make many. And then I'm done. Okay.
+That's a great point. Quick questions, just real quick ones. And then I want to discuss,
+this is the heart, right? We're right at the beating heart of the differences between you
+and Dr. McDonald. First question I have for you, Dr. Goodacre, that I think is important,
+and then I want to allow you guys free conversation. I don't want to intrude because
+you guys are going to get far further, much further than I will be able to bring you guys to
+in this debate. Dr. Goodacre, do you agree, and this is a side note, on Dr. McDonald's view of
+the Homeric connections mimetically to Mark? Yes or no? You don't have to go into too much,
+you know. I think it's really intriguing and exciting. And actually, the nice thing about
+Dennis's work on Homer and the Gospel of Mark is that you can accept that or reject it
+on a range of different explanations of gospel relations. And I think one of the things it's
+helped us to do is sometimes we, in sort of 21st century scholarship, we insist that you can only
+bring out any parallels if they're parallels within Second Temple Judaism. We are so obsessed now
+with that. So that we sort of pictured the evangelists as being, I mean, this was a corrective to
+earlier scholarship where basically they really thought, no, no, we don't want any kind of Second
+Temple Jewish stuff. So I think one of the things that's very helpful about Dennis's work is it
+helps us to think about the entire Greco-Roman literary context that everybody in this period
+was moving in. So that's something I'm very grateful for. Well said. He didn't say yes, he agreed.
+I do appreciate the compliment and that was wonderful. Let's see, what about his views on
+Papias as a source? You know, in the far hypothesis, what it sounded like to me is Dr. McDonald is
+suggesting, technically, we have another gospel to Matthews. And the second Matthew that we don't
+know of is technically his Q source. But I don't know if that's already bringing into some of the
+weeds that he's brought up. I mean, I agree that we need to take Papias seriously. And one of the
+things that's fascinating about Papias is that the quotations we have for people that don't know
+Papias, we don't actually have his stuff. So we're dependent on some quotations that turn up in
+Eusebius from a couple of hundred years later. And what is really interesting about Eusebius's
+quotations is he's got this big chunky bit on Mark, which Professor McDonald quoted. But then
+when it gets to Matthew, it's just like this sentence or so. And that does suggest to me that we are
+in an era where Mark's gospel is still regarded as really, really important and pivotal. Because as
+you move later into the second and third centuries, Mark is getting marginalized all the time. So that
+I find really interesting. But I do want to say on the back of that, that I don't doubt the existence
+of or the possibility of this existence of other sources, other literary sources, possibly even
+other lost gospels. Where I'm skeptical is I'm skeptical of our ability as scholars to reconstruct
+them. This is where I'm uncertain. You see, the thing is, everywhere you look in New Testament
+criticism, scholars are busy trying to reconstruct sources. And I always find that work interesting,
+but I'm just skeptical. I'm not skeptical about the existence of those texts in antiquity. I'm
+skeptical about my colleague's ability to, you know, tease them out. Because I think one of the
+problems is we're all in a sense frustrated archaeologists. We like the idea that an archaeologist
+can go and dig in the dirt and they can pull some artifact out and then say, look what I've found.
+We want to do that when we're looking at our texts. But the thing is, however hard,
+I've got my Greek New Testament here, however hard I dig around in there, I am not going to be able to
+pull out an ancient source precisely in the same way an archaeologist can pull something out of the
+ground. So, you know, that's where my worry is. I just think that I don't think that literary
+remains are like archaeological sites. So that's where I'm kind of skeptical. And especially,
+given that we actually do have something that appropriates to Matthew's gospel, something
+that, you know, something that we haven't got in Matthew's original autograph or Luke's or anything
+like that. But we've got lots of early witnesses to that stuff. And then when we look at Matthew and
+Luke alongside one another, it's just so much easier to draw a direct line, it seems to me,
+rather than to do this kind of independent, you know, kind of thing that there must have been
+something else that was out there that we can't, you know, that we've no longer got access to.
+So to be technical here, you're, where I see a lot of issues is trying to draw off of a source
+that is technically prior to Mark, as if there's some prior to Mark that Mark's using this gospel
+as a lost source. Who knows if there was a floating source simultaneously to these, but
+that Mark in priority, when you say that, you mean that it was the initial gospel, so to speak.
+Whereas what Dr. Goodick or Dr. Price, I always interviewed Dr. Price, Dr. McDonald is suggesting
+that there was actually a gospel source being used by Mark that might have been a primitive
+gospel that was, if you will, the priority. And then Mark became, I think, more well known.
+So you guys are in a little bit of a disagreement on that issue. I like what you said about being
+skeptic. Can we really get a fossil out of this? And you're not so sure, you know, you might get a
+fossil that you want to see or suspect on certain evidence and methodology and how you're approaching
+the topic. Let me ask one more thing, and then I'll shut up, because he touched on a lot of
+good things I had to make notes on, primitive priority. So if he is correct in saying Luke's
+using older, it sounds like Luke is saying things that sound older than Matthew or Mark.
+Right there, that would be the door's opening to say, well, where is he getting that older
+phrase from if Mark or Luke or Mark and Matthew don't sound older? What do you have to say about
+that and his methodology on coming to those conclusions? Yeah, I mean, this is, I think it's
+a mirage. So one of the reasons why Luke sometimes looks more primitive is that Luke's just got a
+much bigger vocabulary. He's a huge vocabulary. So whereas, you know, Matthew will say, talk about
+moving mountains, Luke will talk about moving a sycamore tree, right? Or when Matthew will talk
+about the birds of the air, consider the birds of the air, Luke says, birds, ravens, consider the
+ravens of the air. This is all the way through Luke. And this isn't just in the so-called cumatill.
+This isn't the way he edits Mark as well. When he's when he's editing Mark, he introduces
+more unusual expressions into Mark than he takes over. So you can look more primitive
+if you're just coming up with a phrase just sort of once. So that's one of the reasons why Luke
+often looks more primitive. And it's also that Matthew's got a very clear, predictable style.
+So it's very easy to spot. But Luke's style is often so much more subtle. And I think it's easy
+to mistake subtlety for primitivity. And another thing that is that sometimes they're just extremely
+good arguments for Luke's redaction of Matthew that have been ignored. So one of them, the absolute
+classic, this is the text one, this is not me just pulling some random thing out. The textbook
+example is the first beatitude in Luke 6 verse 20. In Matthew 5 3, blessed are the poor in spirit.
+In Luke 6 20, blessed are the poor. Everybody, every single Q scholar practically without fail
+says Q had blessed are the poor. And Matthew spiritualized it added in spirit. So I argued in
+my book, what would you expect Luke to do if he had Matthew? What you'd expect him to do is write
+blessed are the poor because we have an earlier sermon in Luke begins in Luke 4 16. What does he
+do? Jesus says that the spirit of the Lord has anointed me to preach good news to the poor.
+I mean, that's the previous sermon in Luke. And so I point this out and people go, oh,
+yeah, I suppose I suppose it could be that, you know, but then I still think Matthew spiritualized
+it. So I say, well, look, look, look, even earlier in Luke, look at the Magnificat Mary song, where
+what she talks about is this massive eschatological reversal where the poor will become rich and
+the rich will become poor and the humble will be raised up. That's the beatitude. You look later
+in Luke, you look at the story of the rich man in Nazareth, where the rich man is the one who goes
+to Hades and the poor man is the one who is exalted just as Luke has in 620. So sometimes I
+think it's just a case that there are really good arguments for Luke and secondary nurse
+that are overlooked in part because I think of our secularizing gospel, but lots of us
+are secular types. So we kind of prefer something that says blessed are the poor to something that
+says blessed are the poor in spirit, because we don't really know what poor in spirit means. So
+I think that would be my in a nutshell kind of answer. I think mainly greater Luke and
+primitivity is a sort of mirage. It's not really that.
+Okay, Dr. McDonald, I know you want to respond to that. And I would love to have you respond to
+that. And then I'd like to have Dr. Goodacre, if you don't mind to take over in terms of leading
+the discussion so that you and him can have an open back and forth. And I don't want to have
+to coerce the conversation, so to speak. I'd allow you guys to freely, you know,
+even get into the weeds like this specific example. I'd like to hear you guys read in
+differences and stuff or other examples and go from there.
+Well, I'm going to respond to two different pieces of Mark's response to you, Derek.
+The first is to say that I share his skepticism about the ability to reconstruct the lost gospel
+Q. I've done my best to do so. But I would be the first to say that my reconstruction of Q
+is not a xerographic copy of the the lost gospel. It's built on explicit criteria.
+I trust that I applied the criteria fairly and consistently. And that I think I've unearthed
+not the absissima wereba of the Q document, but the absissima wokes, if I could put it that way,
+the an authentic voice that is distinctive, that underlies the the gospels of all three
+synoptic gospels. But I share your skepticism. In fact, the reason that I developed the Q plus
+papias hypothesis is, you know, I was director of the Institute for Antiquity and Christianity
+here at Claremont, which is the center of Q scholarship. John Kloppenborg is a friend of mine.
+I'm a colleague. I was a colleague of James Robinson. So now I'm, of course, persona non grata
+to that crowd. But I tried to make this the critical edition of Q work for me with those
+criteria and it failed and it failed not only in the ways I've talked about, but there are other
+just lots of examples where the methodology fell apart and I just couldn't go go there.
+So it's one thing to be skeptical. It's another to say, then should we abandon the project or
+should we try another project? And so I've decided on another project. And I think your
+skepticism is more thorough going, but I think it's legitimate. And to some extent, I share it.
+The I do disagree with you about the Beatitudes. I don't want to go there. But what I would,
+and by the way, I do agree with you that some of Luke and creativity is overlooked
+in an overly literal way of understanding intertextuality. So that Luke has taken liberties
+with Matthew that we often have not seen and factored into an assessment of whether
+we actually have inverted priority of Luke against Matthew. I grant you that.
+I don't think, though, that your solution answers the places where Luke has more consistent
+sequencing than Matthew. It's not just a matter of his clever language. And I agree with that. It's
+not just a matter of nemesis versus redaction. It's also an issue of arrangement. And of
+course, arrangement was a big deal for Luke and Papias. And it's a big one for me. The example
+I wanted to give everybody was an issue related to sequencing. So that's, I don't want to get into
+it now. I don't think we have the time. It would be right in the weeds that we don't want to go into.
+But so my answer would I share your skepticism about the ability to reconstruct the document.
+I don't think my document is a copy. I would never call it a critical edition of Q, for example,
+which is a rather preposterous pretension on the part of the international Q community, in my view.
+I agree that Luke and creativity needs to be taken seriously in assessing the relationship
+between Luke and Matthew. I don't think it's just a matter of literary competence. I think there are
+issues of sequencing and real primitivity going on. So I think I'll just leave my comments there.
+Time to put the boxing gloves on, guys. Dr. Hennig.
+Yeah, I'm always, I'm always amused by this concept of getting into the weeds as being
+a bad thing. I mean, the, I mean, I have a couple of us due to the weeds. I mean,
+one of them is, is that if I see weeds in, in, on my lawn, I want to pull them out and throw them away.
+But, but if it's the other attitudes, I want to understand them. And I think that
+to go back to archaeological metaphors again, I use a phrase in my Thomas book, which I picked
+up from a grad student of mine, Ken Olson, diagnostic shards, because when an archaeologist
+gets a pot out of the ground, gets a bit of a pot, like a lot of the pot isn't going to actually
+help you data, you know, you might get just a bit that turns out to be a bit of the side of the pot.
+But if you get like maybe a bit of a handle and a bit of the top, you, that can be a diagnostic
+shard because it can help you say, oh, Roman era pottery. And then you know, you're in a Roman era tomb
+rather than say Byzantine era tomb or something like that. And my feeling is that sometimes when
+you do look at the details in the synoptics, some of them are like those diagnostic shards in
+archaeology, because there's just stuff in Luke that shouldn't be there. If he hasn't got Matthew's
+Gospel, and if he's not dependent on, on Matthew, I mean, I mentioned a minute ago, the first sermon
+in Luke, the, which is like the rejection at Nazareth, which, which Luke brings forward from
+where it is in, in Mark chapter six, in Mark, you've got the rejection at Nazareth in chapter
+six, he doesn't call it Nazareth, he calls it Jesus's home place, his home country, whatever. But
+Luke brings this forward and you think, well, why did he bring it forward? And then you look at
+Matthew's Gospel, Matthew 413, he mentions Jesus leaving Nazareth and not only that,
+he spells it. This is really the weeds. He spells it Nazarar and Luke spells it Nazarar in Luke 416
+as well. And you think, you think, well, that's pretty striking, isn't it? So suddenly we have
+this agreement. It's a tiny agreement. But it's, it's, but sometimes, you know, minor agreements
+make major contributions to the debate. And I just think it's the accumulation of things like that.
+They just make me say on time and time again, I think Luke's working with Matthew. And it's,
+I mean, and you're, if I may sort of like turn it back to you, Dennis, one of the difficulties I
+think for me about your position is that you're happy to admit that Luke knows Matthew. But then
+you have to imagine that Luke's put Matthew, I don't know, where is Matthew? Is it sort of in the,
+in the closet somewhere? Is it certainly on the floor? It's not, it's not, you know,
+it's not on his lap, is it? Or, I mean, so where's Luke left Matthew? Why is, why is Luke so busy
+with Q plus when he's got this lovely Gospel, which became extremely popular in the second and
+third centuries? But, but Luke, he's kind of, he's left it out the back somewhere, hasn't he?
+Well, we're going to get in the weeds and I think that's good. Okay.
+You're familiar with Darren Backer's book on Gospel composition and so I think it's important,
+especially how many different visual accesses an ancient author can have to sources. So in some
+cases, it's visual access, both of us agree with that. In some cases, it's freer, and it's not so
+buchstablich, and you'd agree with that. Some cases, it may in fact be by memory. So that my
+assessment, let's say of Luke, is that sometimes he has an actual text in front of him. I think
+that's the case usually with Mark. I also think sometimes he may have Matthew's text in front
+of him, but may only have remembered that Matthew had an alternative version or whatever. I'm not
+sure of the technology of it, honestly. But here's something that I find fascinating and I'm
+perfectly willing to back down from, but I find to be quite interesting. In my view, the parallels
+between Papias and Luke appear primarily in the preface and in the Acts of the Apostles,
+that is, the bookends of Luke's project. Inside of that, his imitations of Matthew, in my view,
+occur next after Papias, after the introduction, you get the infancy narrative. And then before you
+get to the Acts of the Apostles, you get to the resurrection stories that have occasionally their
+own echoes between Luke and Matthew. Then you get to, so we're building a chiasm. The next
+material that we find is the Markan material from John the Baptist until about the first
+passion prediction. And then we have the Luke and travel narrative, which is a big section in the
+middle where we don't have very many parallels to Mark and even to Matthew. And then we pick up the
+Markan narrative again at about 1854 and carry the Markan pattern up until we get to the resurrection
+story. In other words, I just find it fascinating that in terms of technology, he has Papias first
+and last. Then he has Matthew second and second to last. Then he has the Markan narratives between
+the Methane sandwiches. And he finds this then big travel section that has, according to the
+two-document hypothesis and my own two, most of the Q material, or at least the special Lukean
+material tends to be in that central section. So I still, I think your question is right on target
+Mark. And I think this is one of the unknown, the places where the synoptic scholars have to
+continue to work. That is, what is the technology of composition? When does an author have a text in
+front of them? Can authors have more than one text in front of them? Because sometimes they also
+have a biblical text in front of them. And in my view, sometimes a poetic Greek text in front of them.
+Do they remember these things? Darren Barker talks about strategic readings of a text
+before composition. So you saturate it the same way the ancient rhetoricians would talk about a
+cow retching cud after it's already had it in the stomach. So I do think that these questions are
+important. I don't know that they're answerable. And so my attitude would be to be really flexible
+on the technology of composition. How many texts are available? Do people remember it?
+Or in some cases, the parallels in fact may come from oral tradition, but we just can't
+monitor it. If I may, I'll pitch in on the technology issue. I think it's actually
+fascinating to ask the media question, how the heck is Luke doing this, whatever the hypothesis was.
+And I mean, the book that you mentioned, Robert Darren Barker's ancient compositional practices
+and the synoptic problem, really, really important contribution to the debate.
+But one thing that I'm actually going to hope at some point going to write on this
+is I think that one thing that's been missed in the debate is how ancient authors generally
+worked. And they generally, when they talk about writing, they don't mean when we say writing,
+so I've got a pen in my hand at the moment. When we say writing, we mean both composition
+and physically scribing. But somebody like Cicero, when he says writing, what he means is
+he means composing and somebody else is doing the scribing. And I think Luke's like that. I think
+Luke's like Cicero. I think that Luke has got his own, I call him, I call his scribe, Paul had
+described, called Tirtius, who comes in Romans 16. So I like to imagine that Tirtius's nephew,
+Quartus, is the person who actually writes down Luke's Gospel. Now, if you've got another someone
+else, and this is the norm in antiquity, this isn't just like some wacky idea I've come up with,
+this is the norm, everybody is dictating, authors are dictating antiquity. Now, if Luke is dictating,
+we can get rid from our mind of all of these ideas of Luke being in a tangle because he's got
+Matthew here and Mark here, and then a pen here and a sponge here and something to scrape the thing
+with here. What he's got is he's got the scroll in his hands. So he can actually, when he needs to,
+actually open the scroll and read from it directly out loud. And I think that's what's
+going on sometimes in this really, really high verbatim passages where Luke seems to be almost
+like reading out. And I think like when you get something like the sign of Jonah in Matthew and
+Luke, it's so similar. Or John the Baptist's preaching, which you mentioned down. I mean,
+it's so similar in Matthew and Luke. I think Luke's reading it out of Matthew. But I appreciate the
+mention of memory as well. Memory is so important. And memory of manuscript is important. This is
+just a theory, I can't prove this, but I think that Luke has Mark's Gospel almost by heart. And we
+know that you can memorize Mark's Gospel because plenty of people have done it. You can go on YouTube
+and you can watch Tom Boomer Shine performing bits of Mark in Greek from memory. So I think
+that's what's going on in Luke. And I think it's a kind of a melding of these things. There's no
+one explanation that meets them all. But I think the idea that Luke technically, technologically
+couldn't have done what he's supposed to have done on the basis of his knowledge of Matthew,
+I think is not right at all. I think it's quite easy to imagine him doing that thing by memory
+and dictation and just consulting the text in front of him. I want to jump in on the question
+of genre and literary. Oh, I know there was another issue I wanted to raise. Sorry.
+Richard Carrier and I had a debate recently. And he denies, of course, that Jesus existed.
+You and I agree that he must have existed. But one of the things that, and I don't think I'm
+putting things in your mouth, that one of the issues that the viewers had was if there's no
+cue document, then the earliest manifestation we have of Jesus as with some of these sayings
+is not until about 180, 185, whenever we date Matthew. And so many people argued that how could
+I know? No, not 180. Sorry to interrupt, but not 180. You mean 80? 80. No, no, 80. Yeah, 80 or 85.
+Yeah. I thought there's a radical new dating going on. So the one advantage of the cue hypothesis,
+I would date the cue document around 60. We get 25 years headstart on Matthew with some of that.
+And so that's one reason I'm interested in the cue document. But let me come back to this issue
+of technology and the gospel genre. I think there is so much confusion about the gospel genre.
+And it comes in part because of my interest in Greek poetry and mimesis. But it also comes out
+of my own study of Greek rhetoricians. And I've spent quite a bit of time dealing with quintilian
+and other choruses and so on in the rhetorical letters. And one of the things that they,
+especially quintilian says, is if you want to know how to write a poem, you read poetry.
+It's not that you have poetry as a, that you can list out the genre requirements for poetry.
+It's that you're familiar with that text. And I think that Luke is writing a gospel,
+not because he has an idea of what a gospel should be, but because he has literary models that
+already have done what he wants to do and he's rewriting it. So a lot of this verbiage, and I'm
+thinking about Burrage and others here, about what constitutes a gospel genre, I think is
+bad thinking. I don't think it's generic. I think it's genetic that you have gospels because they're
+rewriting each other. And you can see that they're rewriting each other, even when they have such
+different genres, such as the Gospel of Thomas, for example. So I think this discussion of technologies
+of writing and so on needs to take rhetorical traditions pretty seriously. And I think we
+don't know enough about how compositions work in antiquity to be able to simply use a simple
+source redaction model for explaining intertextuality. Dr. Goodacre? Yeah, I don't disagree. Don't
+disagree with anything there. Let me ask you something then. Let's go back to the technology
+sandwich analogy, the chiastic structure that Dr. McDonald brought up about papias. I want to ask
+you and get your comments. Do you think Luke's using papias? No, absolutely not. No. Okay, so
+there's a disagreement. Okay, cool. Oh, yeah. So punches were thrown. Yeah, I think in terms of
+dating, I am pretty sure that Luke knows Josephus. Well, I'm absolutely sure Luke knows Josephus. That
+means that Luke has to post a 90. Steve Mason makes such a good argument for that. I agree. But also,
+oh, good. But also, I think Ignatius knows Luke. Now, Ignatius is really difficult to date.
+But Ignatius is Smyrnians. It really looks like he is quoting bits of Luke, and I could make a
+case for that. But that actually means that your window for Luke's Gospel is somewhere between
+the late 90s and 120, 130, the absolute latest, because then we get to Gospel of Thomas, which
+I argue my book also knows Luke. So I suspect that papias either did talk about Luke, and we
+haven't got it. You know, you see this doesn't quote it, maybe because it's not significantly
+interesting enough, or he just or papias could be a near contemporary and Luke is relatively
+recent. You have a similar phenomenon in the Gospel of Thomas, where in the Gospel of Thomas 13,
+you have reference to Peter, who was already by this stage in papias seen as the source of Mark,
+and you have a reference to Matthew. And so this sort of Mark Matthew thing, Peter Matthew thing,
+is a kind of an early second century way of thinking about these things.
+So, but I mean, that would be my speculation. But no, I don't think that papias, I don't think
+Luke knew papias. And the I do agree with Professor McDonald that they're fascinating
+similarities between Luke's preface and the way that papias speaks, and especially the stress
+on order. And I think that might be influenced by Luke, I can't prove that, but it might be
+influenced by Luke's preface, you know, Luke's the first one we know of to complain about order.
+And then after that, for the next like 1900 years, everyone's worried about order. But Luke,
+I think, is first and then papias, and then everybody else is going, oh, my goodness,
+why is Luke got this bit here? And, you know, and then you get to John's Gospel,
+oh, my goodness, the cleansing of the temples at the beginning of the Gospel. Why is that there?
+You know, so as soon as you have competing canonical text, you're always going to have
+that problem of order. When would you date papias's exposition, Mark?
+I don't know. I'm waiting for there's a there's a book in press at the moment by Stephen Carlson
+in Catholic University, really looking forward to seeing what he says. So I'm going to reserve
+judgment in case I say something rash that I'll have to repent. Well, I'm going to say something
+rash, and then I may have to repent because I'm looking forward to that document too. But Ulrich
+Kirtner and Norelli are the two that I use, and they date papias around 110. And I would date Luke
+around 115, which does allow them for a relative chronology that would favor. Right. But to be
+honest, the relative dating is in flux both for Luke acts and for papias. So one has to make the
+argument in terms of literary direction, and not solely on as a matter of relative chronology.
+I agree with you. Okay, to the sandwich of the chiastic structure that we're talking about in Luke.
+Something came to mind and I thought to myself, okay, Luke is definitely using higher vocabulary.
+He has a, I guess you'd say a stronger vocabulary to come up with a better imagination. Plus,
+these are authors, they're creative in their own way, they could be using their own,
+their own imagination while creating these texts and possibly influenced by like you talk about Dr.
+McDonald, other works that might even be like the Dionysian narratives or other such potential Greek
+narratives that may play a role. But I wanted to ask in the sandwich, in the middle, when we get
+past papias, if we assume that that's accurate, that's papias, we get past Matthew and we assume
+that everything there is connecting from using Matthew as a source, we get past or into the
+mark area. That's where the gray area started to come up in that little chiastic thing that I was
+thinking, I was trying to read your mind, Mark, and wonder what you were thinking. Well, that's
+where you're saying Q plays some type of role in a way in that middle area where Mark is at in Luke.
+Whereas you would say, no, this is the only sources needed technically,
+wise that we have is Matthew and Mark. I guess my question to you, and maybe you can expound on
+that and just give some ideas and then Dr. McDonald can piggyback is the way I see it is as either
+tech source or oral tradition is usually like the cop out for explaining why something's there.
+Tech source obviously would be far and not saying that there may not have been a oral tradition,
+but that's like reconstructing Q, so to speak, supposing something's there that we don't know
+for a fact or don't have evidence of. Can you elaborate some into Luke, into the heart of
+where we're at here and what you're saying and how you disagree with Mark? I mean, on
+sure. I mean, on chiasm, I'm a chiasm skeptic. I am too, as a matter of fact. I am.
+I just don't. You see, the thing is, it's one of those things where they're self
+deconstructing in the sense that for every chiasm structure that you find, you will find
+another person pushing equally hard for a different chiasm structure, which basically kind of is
+self-refuting. And I long ago, before I decided to write my doctoral thesis on the work of Michael
+Golder, one of the things I was thinking about doing is writing them on chiasm and I'd come up
+with a method for attempting to refute the existence of scholarly reconstructions of chiasm.
+But everyone I pitched it to said, well, we don't believe in those chiasm anyway.
+So anyway, I abandoned doing that. I do want to, on the oral tradition point, I think that's
+right. I think, for me, there are two things involved in the oral tradition issue. One is,
+of course, people talk to one another. That's really what oral tradition means. We know that
+there was oral tradition. If you read Paul's letters, you know that he's talking to people,
+other Christians are talking to each other. The difficulty with the appeal to oral tradition
+is it's often used in scholarship to try and, you know, as a kind of get out of jail free card.
+And one thing I would say about oral tradition in the Gospels is that there are only two places
+that I can think of where you've got an explicit tradition that is mentioned already. One is in
+Matthew 28, when there's said to be a tradition about the disciples stealing Jesus's body.
+And Matthew thinks that this tradition is unreliable. So that's one vote against oral
+tradition from the author of Matthew. The other one is the end of John's Gospel,
+when there's a tradition that goes around that the beloved disciple will never die.
+And then the author of this book says, well, no, no, that's not really what Jesus said either. So
+the two times you actually get oral tradition coming up in the Gospels, they're quickly
+followed by the evangelists going, oh, no, but we don't like oral tradition. So actually,
+the evangelists, what they really liked was it is written, not only when it comes to
+Old Testament texts and so on, but also when it comes, I think, to prior Christian sources.
+Dr. McDonald, I tell you what, I would like to hear
+for our audience that's watched so far, we've heard mostly agreement in this entire debate.
+Let me ask Dr. Goodacre follow up on this real quick, Dr. McDonald, because I'd like to have
+you comment on this. Dr. Goodacre, from your perception, and based on what you've heard so far,
+what are your problems? Like, can you tackle what you think are the heart of the issues and
+really like lay them out and then maybe make a comment and we can have Dr. McDonald bounce back
+on that? Sure. I think I suppose the key thing for me would be Occam's razor. Occam was a medieval
+philosopher who said that sometimes Occam is misrepresented as saying the simplest hypothesis
+the best, but that's not actually what he said because that would be a ludicrous thing to say
+because simple hypotheses are frequently wrong. But what he did say is you shouldn't multiply
+entities beyond what's necessary. So my key point would be that if you can make good sense of Luke's
+Gospel on the basis of him having used Matthew and Mark, then there isn't any need to go to
+QQ plus Proto Luke specialist special that you just look at the documents you've got in front of
+you. And so I think that's the fundamental thing for me. Luke makes such good sense as a reworking
+of Matthew in the light of his frequent preference for Mark. So I think if I wanted to get to the
+number bit, that's the one for me is that's the really key thing is our good friend William of
+Occam. Dr. McDonald. You know my screen is frozen. So I'd be happy to respond and I'm not
+falling asleep or checking out. But I think Mark has identified exactly where the primary
+disagreement would be. And what I would say is Occam's razor isn't sufficient to explain all of
+the places where I think Luke is more primitive than Matthew. And you mentioned the Beatitudes,
+but there are many other examples that people have given. And by the way, you and other members,
+advocates of the far hypothesis have spent a lot of time worrying about them and writing about them.
+So I'm bringing no coals. I'm bringing coals to Newcastle if I could use an English expression.
+But the Beelzebulk controversy, the Lord's Prayer Prohibition of Divorce,
+Judgement on Jerusalem, Hating One's Family. Then I would add the issues of sequencing. I just
+don't think you can get a free pass on all of the places where Luke differs from Matthew and
+Matthew, but Luke seems to be more primitive. The other is I'd be fascinated in knowing what
+you do with methane doublets, especially, but also leucan doublets and non-doublets.
+Because the nice thing about having a second source is it allows to see how doubling up works.
+But Occam's razor is not very good at explaining doublets and non-doublets, in my opinion.
+So I think, Derek, you were right in asking us where the big difference agreement is. And I think
+that's where it is. Whether literary creativity on the part of Luke is sufficient to explain
+the deviations from Matthew, or whether it requires another document, and I would add
+the issue of doublets and non-doublets to it. So I think that is the major point of disagreement.
+Dr. Goodacre, I'd like to hear your thoughts on this.
+Sure. I mean, the doublets one is interesting. Of course, Luke does have a second source in my
+view, which is Matthew. So the question then is, is Matthew, because there's methane doublets as
+well, is Matthew capable of creating doublets on his own? Yeah, of course he is. And not just doublets,
+but triplets and quadruplets, because what happens with many ancient authors, is there's going to be
+a particular kind of saying that they like and they reuse. So go to the Gospel of Thomas. He really,
+really likes saying that he finds in the synoptics, let the one who has ears here.
+And in Thomas, it comes multiple times. And we don't go, well, he must have had four or five
+sources for that. We just say, oh, he really likes the one who has ears to hear here. So
+a parallel example in Matthew would be something like weeping and gnashing of teeth, which Matthew
+uses five times in his Gospel. He loves that phrase. Luke uses it just the once. Does Matthew
+have five different places where he gets it from? No, he's just a phrase that he likes.
+So yes, the evangelists all will double up sometimes when there's something that they
+particularly like. And with something they really like, you'll get it three times, four times, five
+times, or even more often. I mean, that's just endemic, I think, across the synoptics and even
+in other early Christian documents where the human mind is a strange thing. There are certain
+things that you will latch onto and your brain will just keep bringing back. And that's why I
+think, you know, you get this kind of repetitious material. And also, and the other thing about
+the Matthew and Douglas, it's really interesting, is that I think Matthew's a better poet than Mark
+and then Luke for that matter. So sometimes you will get something that Mark says, which is a
+little bit more prosaic. Like in Mark, there are many who are first, who will be last. And there are
+many. Matthew, in one of his versions of that, he says, and the first will be last and the
+last will be first. He can neaten these things up into these really nice kind of parallel kind
+of phrases. So yeah, I think a lot of it is because Matthew has a good eye for these things.
+And sometimes he will, he will double up. And I just think it's a natural thing that you get
+in rewriting of source material. It'd be surprising if they didn't do it.
+Well, there's no doubt that you have
+doublets that are not explained by multiple sources. There's no question about that.
+The issue is, and, you know, Matthew doubles up on the healing of the blind men, for example,
+so on. But in the cases of these sayings, the ones that I'm using, these cases, Matthew,
+is always more primitive than the Markin version. Now, you can cleverly attribute that to his
+being a better author and being more trenchant in the way he expresses himself. And I wouldn't
+even doubt that in some cases. But to think that in no case is Mark more primitive than
+the non-Markin doublets and non-doublets in Matthew is a problem for me. That's all I would
+Well, yeah, I mean, primitivity is in the eye of the beholder, of course. But
+one of the things that I think we do know, and this is this is where I will concede at least
+part of the point. When in Matthew 24, you get this eschatological discourse, which is largely
+based on Mark 13. It's fascinating that there are some parallels in Matthew 24, which are closer
+to one Thessalonians four and five, which we everybody has agreed one Thessalonians is earlier
+than Mark and Matthew. So we do have Matthew reprimitivizing Mark as a horrible word is that
+real word reprimitivizing anyway, making look more primitive Mark. And so we can see that going on
+there. You've arguably got the same thing happening when you get Luke's Eucharistic
+passage, where you have significant parallels between Luke and one Corinthians over against
+Mark. Everybody thinks one Corinthians is earlier than Mark me included. So there Luke is reprimitivizing,
+if you like. So you do have that as a phenomenon. There's no doubt that that kind of thing's going
+to be around. But the question is, whether one wants to elevate that kind of phenomena
+to an overarching source hypothesis. That's where I get really kind of twitchy about it,
+because usually speaking, when you get down to looking to see whether the alleged greater
+primitivity really is greater primitivity, usually I think there's a perfectly good
+explanation for it, an explanation that you can find parallels to Matthew doing elsewhere.
+So Matthew's one of the joys about Matthew is he's quite predictable. One of the things about
+Luke is he's not so predictable. He's predictably unpredictable. Matthew, you can guess what he's
+going to do a lot of the time. And that's where I think some of that stuff comes from. But yeah,
+of course, it's not going to be, it's not robotic. They're not going to be every single case where
+Matthew has a parallel with Mark. It's going to look secondary in every case where Luke's got
+a parallel with Matthew and they look secondary. It's always going to be more complex than that.
+Well said. Dr. McDonald, obviously, you guys, that's where you get into the garden and really
+look at the weeds, because I'm going to say you need to read their books, because at that point,
+we're going into where we would need like vigils and really breaking down some of these specific
+things and saying why you disagree and going from there. I guess Dr. McDonald, do you have any
+specific things you'd like to raise? Well, I think Mark Goodacre and I are going to agree that we
+want you to buy the books. So on that, we're going to agree. I guess the only, then there was a more
+important thing I was going to say that has escaped me. Maybe while you're thinking at that point,
+I'm not too bothered if people don't buy my books. You can do it for free by going to my website and
+there's a ton of free stuff there. So you can start there if you like. And one of my books is
+available in Toto for free on the internet. That's an object problem way through the maze,
+plus my podcast. Gosh, I'm sorry, Derek. I'm plugging away here, but also the podcast is
+all available totally for free. So people, these are hard times and I worry thinking about people
+spending money on academic New Testament scholarship, especially when you can get at least a lot of my
+stuff without having to spend any money. That makes me very happy. The most important thing is that
+we're engaging our minds and we're thinking about important issues in serious ways. Well, in fact,
+that reminds me another place that I agree with you, Mark. The two synopses that I'm working on now,
+I'm hoping to make available free as PDFs and I'm almost done with it. And if I might just
+plug it a little, the first synopsis is of four synoptic gospels and it begins
+in privileges, my reconstruction of Q. So the four, the columns are chronologically organized from
+the logo of Jesus or Q plus to Mark to Matthew to Luke. The second synopsis
+attempts to stratify the gospel of John into its three compositional layers and then to compare them
+and to argue that the earliest one was an imitation of the Bacchai. So that should be available,
+I think, fairly soon and that also should be available free as a PDF.
+I, as the prophet of Myth, Vision, Podcast, if you don't get the material and don't get involved
+in active into this stuff, I'm kind of like Santa Claus. I know when you've been naughty or nice,
+okay? So you just need to check this stuff out for real. To me, knowing this material, I obviously
+want to take 2021 to new lengths, especially in light of what we've had going on recent in America,
+as well as, you know, like you said, the epidemic that we're, this issue that we're dealing with
+COVID and everything. Like I want to get more people aware of this stuff and have everyone
+on a common level, if you will, grab ahold of these complex ideas. And you guys, I think,
+did a pretty good job on breaking this stuff down for the layperson who is interested in these topics
+to at least pique their interest and to want to know more. And both of you guys are presenting free
+material. You're trying to get out there. Of course, this podcast right now is free. So you can go
+in the description and you guys can access all the links to the websites to get the material.
+I really, really encourage you to do so for both of these gentlemen because they were kind enough
+to come. And I'm not going to say debate. I'm going to say conversing, if you will, because this was
+not really a debate, but these are the kind of discussions that I admire because it's not a
+UFC match. It's more what I would imagine would happen in the ancient world when philosophers
+would get together and want to discuss topics. They weren't yelling or throwing dung at each other.
+They were learning from each other, including, and they may not have come to conclusions agreeing,
+like Dr. McDonald probably doesn't agree at the end of the day that your hypothesis is correct.
+And you, vice versa, have disagreements. But this was one of the most beautiful,
+friendly discussions that I've seen in a minute, honestly.
+I wish you could see my smile, Derek. I know my screen is frozen, but I'm smiling and thumbs up
+and very much appreciate both you and Mark and the congeniality that I think we're feeling and
+sensing. And we trust that it's the Gospels that are the victors here and that we can get people
+to take them seriously. I definitely want to do that. I think next up we'll try and get someone
+who's a two-document hypothesis proponent to come talk to Goodacre and you, Dr. McDonald. I think
+this is just, we need to have more conversation between scholars and not just in text, because we
+have a new generation that are like me and younger that stick to audio and video and they don't read
+like you guys used to read. And I say used to like, I'm already talking to good old days, you know.
+I got to ask, I got to ask, Dr. Goodacre, I asked you about the memetic connections Greek wise.
+Do you think, and I don't know if you've read Dr. McDonald's work on the Dionysian
+what are your thoughts? Do you think that there is a Dionysian connection to?
+So I suppose the question is whether there's a direct connection, whether you can draw a
+direct line or not. And it's a little bit like my answer with the Homeric question. I think that
+what Professor McDonald has done so well is open up our eyes and our ears to the broader
+Greco-Roman literary context in which the Gospels were born. And that's really, really important.
+So I'm going to punt on it for now and give myself more time to think about it.
+Dude, you're a wise man. I'm telling you. I love it because I'm amateur reading this
+material and I'm going, he made so much sense. I mean, like, you know, because, but then again,
+he's also quoting the scholars in the book and he's mentioning how they're not wanting to go to
+genetic connection. They're definitely wanting to say it's in the air, the aroma.
+You can smell it, but we're not trying to say they had a baby. And I think that I heard a baby cry
+when I was reading the book. So yeah, anyway, would you guys like to say a few complimentary
+things before we get off of here? I'll just happily say that I do agree with you on the
+importance of engaging in different media. I think a lot of my colleagues are still very texty.
+And I always find that kind of surprising because personally, I find writing difficult.
+I mean, writing gets a little easier as you get older and get more used to it, but it's still
+hard. Whereas talking, I personally find much easier than writing. So I think I'm with the,
+you know, those people of the younger generation who actually want to engage with one another.
+You know, I'm always astonished when I have colleagues who get really excited about going
+on sabbatical and go, well, what are you going to do? Are you going to begin writing a book?
+And I said, well, that sounds awful. I mean, wouldn't you rather be in the classroom?
+Being in the classroom is so much easier than writing a book anyway. So I just agree on that.
+Derek, I want to say thank you for what you're doing on the podcast. It's been fun.
+Derek, thank you. And Mark, thank you for your generous spirit. I want you to greet Jennifer
+Knoest, your new colleague for me. And you can tell her that I put the Pericope Adulterai in Q.
+So that'll give us something else.
+Well, ladies and gentlemen, you saw it yourself. I mean, this was not a battle. This was a very
+friendly, educating, scholarly discussion on the topic of to Q or not to Q. You tell me in
+the comments section, let me know who you think has, I guess you'd say, a better proposition. Who
+do you agree with more? Do you think the fair hypothesis or the papious Q plus hypothesis,
+which one's closer to the truth in your own eyes? I'd like to hear that. Don't forget to hit that
+like button. Check out the material for these gentlemen down in the description and never
+forget we are Vision.

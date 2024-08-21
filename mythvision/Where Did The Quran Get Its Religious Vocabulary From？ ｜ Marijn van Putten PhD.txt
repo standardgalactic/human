@@ -1,0 +1,701 @@
+First of all, sometimes you have words which don't make any sense in the language that they're in but make perfect sense in the language where they're from.
+One very clear one is Aramaic. So much Aramaic. So many of the words that we find in the Qur'an come from Aramaic.
+Technological impossibilities. El Kitab, the book, right? A very relevant word.
+Also one of the first words in the Qur'an, scripture, writing, people have argued endlessly over what El Kitab actually means in the Qur'an
+I don't know what Kitab means because it doesn't always mean book.
+But the important point is, this is the exact same word that Aramaic uses, which comes from Kitab.
+It's actually also the same word that Hebrew uses.
+But the thing is, of course, this can be the inherited word from many centuries ago back when Hebrew, Aramaic and Arabic were still a single language.
+Islam has something to tell and to say to Christianity, to Judaism, on how they feel that monotheism should be done.
+I'm excited to be on and talk some linguistics and Qur'an.
+I am as well. And for our audience who does not know, I think they should,
+Dr. Marine Van Putin is specialized in linguistic history of Arabic and Berber, and it's such a focused subject.
+He's an expert in the language. And so he is looking at the earliest material we can, pre-Islamic, Islamic, Quranic, etc.
+And is able to see things and hopefully today we will see loan words.
+But if you don't have this kind of skill set, you're not going to end up getting these grants to do projects.
+So can you tell us about this current project you're going to have in January?
+Yeah, yeah. So I just got word a couple of months ago already by now that I got the ERC Consolidated Grants, which is a huge 2 million Euro grant,
+specifically to look at the history of the Qur'anic reading traditions using primary source material that is manuscripts and actually looking at what's going on there,
+and especially the vocalized manuscripts and how can we reconstruct how what are now the canonical reading traditions came to be,
+and what was going on before that, how was that being negotiated, all these kinds of questions.
+So I have a big team, I have two PhD students, two postdocs and myself, and two more just student assistants, and we'll make a database and it'll be really fantastic.
+So it's really exciting.
+And last time we talked, I ended on a bit of a sad note because it's like, I don't know what will happen.
+And literally that day, when as we were having that interview, my email bleeped and it like interrupted me, and I didn't see what it was,
+but that was the email telling me that I got it. So, you know, our last talk has a very special meaning that way.
+So we, you know, I'm beginning to wonder, these are signs, my friend, maybe we should listen to this.
+Well, congratulations. And I want everyone to take the time to go, if you're interested in this stuff, I must admit, this is scholarly material,
+but the Quranic Arabic, specifically, you dive deep into this, what is this book, it's free, it's in the description, go download it,
+if you want it in paperback or hardback, you got to pay for it, but you can get it free right now on PDF. What's this book about, and it's free?
+Right. Well, yeah, so, you know, it's about Quranic Arabic, right, so it's literally about the history, how, where does the Quranic Arabic come from,
+you know, what is this composition, these kinds of things. And what can we say about the development of the reading traditions, and it's, yeah, well, as you said, it's a very scholarly book,
+it's pretty technical, but I hope it makes sense to people, I've had a couple of people tell me that they thought it was, it made sense,
+and it could make sense, it makes sense if it's, I'm happy that I managed to not make it, you know, completely unintelligible to people outside of my field,
+so that's good, but yes, it's free, it's completely free, it's open access, you can download it, you can read it, and you can see if it does or doesn't make sense,
+I also wrote a couple of threads on my Twitter, kind of summarizing the slightly more layman's terms, what it's about, and you might be able to find that, and check that out as well.
+If I may, just to get a little sneak peek, are there any revelations you think that are really important to highlight, maybe the fact that the Arabic is from a particular tribe or something?
+Yeah, yeah, for sure, yeah, so main conclusion of the book really is that the Quran was originally composed in the Hijazi Arabic dialect, that is the Arabic of the Red Sea coast in Saudi Arabia today,
+which is where Mecca Medina are, that is, you know, where the traditional story tells us that the text was supposed to have been composed, and revealed is what the tradition tells us of course, but still,
+which makes a lot of sense, but actually that's been a very controversial topic, especially in Western academia, and even in, say, Islamic studies, that view is espoused every now and then,
+but doesn't quite address the obvious problems that gives with what's going on with the Quranic reading traditions, which are very much not like the dialect of the Hijaz that we find in the Quran.
+So there's a really interesting interaction going on there, and I think it really helps, you know, so this is a very kind of atypical argument for saying like, no, the traditional origin is where the Quran is at, it's not, you know, Petra or somewhere in Syria, whatever it is.
+Right, right, anywhere, right, but even Jerusalem actually becomes difficult, it really has to be the Hijaz basically, and that my book gives a very different argument than other, you know, than historians would give, and I think that's always fun to have like this
+very linguistic or very different type of argument to still be able to contribute to a general thought and a general question that's going on.
+Wow, very interesting. I might as well, on a particular note, let everybody know as well. Not only do you want to get the book, but you can help us out here on our Patreon, MythVision Patreon, working very hard, producing content.
+Some of this stuff is in 4K, really high quality, I edit endlessly. If you like what you hear today, well, guess what? If you're a Patreon member, you're going to see this first, and then everyone else gets to see it later.
+So you get the privilege of helping me keep doing what I'm doing, you can private message me and help sway some of the content, help me give me ideas of academics, what you'd like to see me interview, things like that.
+So help join the family, you keep us alive, and you're saved from all eternal conscious torment. Wouldn't you want to join? It shields you from any eternal damnation. How about that?
+Alright, I'm being funny here, but Dr. Van Putin, you are going to be taking us into loan words and their relevance, first of all, identifying them might be necessary, but then what kind of implications could be from such things?
+So how do you want to begin?
+Yeah, let's just go to the presentation and kind of start with it, and let's look at it. So the questions of loan words, so what is a loan word? Loan word is a word, a language borrowed from another language, and this is normal, every single language on the planet has loan words,
+despite what some nationalists might want you to think anywhere in the world, but really languages borrow words for all kinds of reasons, right? It can be really silly reasons, it can be very good reasons, it can be useful reasons, but languages borrow things.
+And the language of the Quran is no different, so the Quranic Arabic has a whole bunch of foreign vocabulary, and I think that has become less controversial, also saying more apologetic circles when talking about the Quran, most people are like,
+no, well, I mean, that doesn't mean it comes from somewhere else, and I agree with that, I think the Quran still comes from Mecca Medina, it's just those loan words still ended up there in some way, right?
+And I think so that controversy was kind of a counter reaction to other things, but most people have kind of accepted that, well, I mean, it makes sense, languages borrow words, and that's what happens.
+But nevertheless, so let's go to the next slide, because this is about, well, it's an important, an important book that, well, some of this comes from, but still if you want to learn more about say foreign vocabulary of the Quran, check out our to Jeffrey's book, which was originally published in 1938,
+but reprinted in 2007, it's, well, it's 1938, so it's severely outdated in some ways, and Jeffrey has a pretty Orientalist view to these kinds of things, so he really kind of sees, well, every now and then at least it shines through in his work that he really sees
+as like a false prophets who, I don't know, you know, learn some stuff about Christianity, maybe from some random monkey ran into, and so he very often kind of presents you things, well, you know, Muhammad introduced this word into the Quran, and it's like, well, I'll try to dispel that idea a little bit.
+But I don't think many of these long words, I think, are not just, you know, Muhammad trying to use some foreign words, I think it's, these words were understood by his audience, and were part of the Arabic language, probably for centuries already, and not just, you know, some random thing that showed up.
+Yeah, and so, and that's also kind of where these kind of frictions come from, this idea, you know, that, you know, this false prophet was making things up and just kind of using weird words that nobody understood.
+I don't think that's what's going on, but all that being said, it is actually a very good book, it collects all these words, has noticed a lot of different things, it goes into a lot of detail of what the tradition itself has said, so what the Arabic lexicographers have said.
+About these words, where they're from, which very often they get it right, you know, every now and then they say, well, this word comes from that language, it's like, no, no, it clearly comes from this language.
+But very often they actually recognize it, like, okay, I know this word is Ethiopic, this word is Aramaic, and these kinds of things, which is really interesting and very useful, and a good way to kind of embed these questions.
+And just to throw it out there, right, I purchased when I first got into analyzing Islam and its origins and whatnot, I bought this book that's talking about the Aramaic origin or something like that.
+So because of these loan words, do you think that's why some of these people go too far, and they're like, let me try and find a way, it's almost like in the Gospels, someone sees something that sounds Aramaic in the mouth of Jesus.
+Every academic that I know that I take, like seriously, admits the Gospels, the New Testament we have was originally written in Greek. That doesn't mean there wasn't sayings that were in Aramaic, or something that were kind of, how do you put that, lifted and put into or whatever.
+But do you think this is why there are people trying to say like, the Quran comes from Aramaic, which, or what?
+Yeah, so I mean, exactly. I mean, so that's at least certainly part of the discourse of what's going on, that there's this book by Luxembourg, the Zero Aramaic Reading of the Quran, where he basically
+had the choice to say that the Quran is composed in kind of like a mixed language between Arabic and Syriac, of which there's no evidence whatsoever, anywhere else except in the Quran.
+And, you know, that doesn't quite work. But, you know, there are clear things about the Quran, there are stories in the Quran that we recognize from Syriac Christianity, that we recognize from Ethiopic Christianity, these kinds of things.
+So it makes you wonder, like, what is the context? What was it like? How did it work? And we'll address some of that today.
+But certainly that speaks to your imagination and some people, because it spoke to their imagination, came up with very imaginative solutions to how to think about the Quran for sure.
+Yeah.
+So we got to the next slide.
+So, now one of these questions is like, why do you even borrow words at all? Why don't you just use, you know, perfectly good English words?
+And I'm going to start using some examples from English, because it might help us kind of conceptualize how to think about what long words do. Why do you even borrow a word?
+Well, there can be all kinds of reasons, but the most obvious reason is that you didn't have the object that you're borrowing.
+So for example, the word street in English comes from Latin. Why? Because, you know, the Romans were bathing streets with stones.
+And that's where the word came from, strata. Fun fact, also a word that is borrowed from Latin in the Quran, surat.
+Right, so this is one of the first words in the Quran actually, it's in al-Fathah, so the first surah of the Quran.
+That is clearly a Latin long word, probably borrowed through Greek, and then maybe through Aramaic, and then it ended up in Arabic, but certainly a long word, without a doubt.
+So, you know, we're straight into it, like the first couple of words of the Quran, and we're already looking at long words.
+So that's a very obvious reason, right? So if I talk about Dutch, for example, you know, I'm sitting behind my computer right now.
+That's how we call it in Dutch, which is obviously just the long word computer.
+And why? Well, we didn't have computers until someone made a computer and that didn't happen to be Dutch people.
+And you can choose to make your own words for that, so that's what the frames do, they go out of the way to really don't not borrow words at all.
+But the Dutch are less bothered, and so we borrow for that reason. So technologies can be a very important thing.
+But also new concepts, right? We talk about the Christ, Christ is just a long word from Greek, right? It means anointed one.
+And that's a long word, a long word in English for a rather relevant new religious view, right?
+But it can also be social desirability. This is a very typical thing in English.
+All animals that you can eat, when it turns into meat, you use French long words.
+Beef comes from beef, and pork comes from pork, and venison comes from venison, et cetera.
+So this clearly has to do with the Norman conquests who were early French speakers that came to England and were the elite,
+and they were eating all the fancy meat and that kind of stuff, and everybody wanted to be fancy.
+So, you know, they started calling these things in the name of the new cuisine.
+And the same thing happens with new rulers, for example, and these things can be connected to all kinds of things,
+but all the names for nobility in England, like Duke count, not all of them, but many of them, Duke count, are French long words.
+Why? Because the Norman nobility came in and they were like, you know, we're Duke and we're a cons.
+The Bible does this with the Egyptian words a lot, just for anyone who's interested.
+And you got to ask yourself the question, like, of course, Egypt ruled for like a millennium when Canaan was around,
+but there are words in the Hebrew Bible that are like, without a doubt, and so a lot of Christians use that, just use an argument,
+or apologists, whether Christian or Jew, to argue, see, they were in the Exodus.
+They wouldn't have had these words, but there are many academics have had, Ronald Hendel and etc., that are like, actually, my friend.
+And then they explain how these words end up becoming like cotton, you know, it becomes Egyptian cotton, like everyone knows.
+Even today, we still use the best kind of sheets you can use.
+Are Egyptian cotton or pin with ink? That's an Egyptian concept that goes back.
+So, yeah, there's something very powerful about what you're describing here.
+Yeah, and just as we're talking about, you know, technologies and these kinds of things, the Quranic word for pen, or for a read pen,
+is a kalam, which clearly comes from the Greek word kalamos, which is a read pen, right?
+So that kind of gives you the idea, like, why do you borrow at all?
+But now the question becomes, and that's the next slide, how do you recognize a long word? How do you know that a word is a long word?
+And there's a couple of ways of going about this, and it can be pretty technical, but I'll try to kind of do this.
+First of all, sometimes you have words which don't make any sense in the language that they're in, but make perfect sense in the language where they're from.
+So, you know, typical example for English is kindergarten. What does kindergarten mean?
+Like, to me, it's totally transparent because I'm a Dutch speaker and that's very close to German where it's from.
+But it's clearly from Kinder, which is children, and Garten, which is garden. So it's a children garden, you know, it's a little, little children place where you put things together.
+But in English, it doesn't make any sense, right? You know, it's a place where you leave your kids, but that's not because it's obvious from the name.
+And so that's one way that you can clearly tell that something is borrowed.
+Another way that you can see it is when it feels to undergo sound changes that you would expect, or otherwise, undergo sound changes that don't happen in the language you're looking at.
+So, to give an example of this, in Old English, you had this word initial scut sound, which at some points becomes a shot.
+So the Old English word for shoulder was actually skuldor, and skuldor becomes shoulder.
+And the Old English word for skirt, well, for shirts was skirt. So skirt becomes shirt, that's automatic thing.
+But every now and then, there are English words that start with a scut, modern English words.
+And if you start looking, you'll see that many of those words are borrowed from other languages after the scut to she had already happened.
+So new words come in, and they have scuts, and, you know, they just keep them.
+So a nice example of this is that Old Norse skirt, which is, of course, skirt, just remains skirt.
+So you can actually dress yourself completely in the same word.
+It's just the upper part has the Old English version, and the lower part is the Old Norse word.
+But also scan from Scandera and Latin just remains scan. It doesn't become shan, right?
+And actually, it's a fun thing. Any word that you find with the scut, or not any word, especially written with sk,
+you can be pretty sure that's an Old Norse long word in English, which is fun.
+That's wild, because I always wonder why is that word stay this way?
+You find these weird things, so I wonder if there's something that plays a role.
+Yeah, so that's basically it, right? So it was borrowed after those shifts had happened, so they don't participate anymore.
+Another way that you can recognize a long word is obvious anachronisms.
+So T was not known until the 17th century.
+So if you're going to wonder, like, where does T come from? It's a Chinese long word, by the way.
+That obviously has to come, well, it can't have been inherited from 2000 years ago, because there wasn't any T 2000 years ago.
+This was a new concept, new technology, so you borrow it.
+And this is not a very obvious, so you could say, okay, well, English has T and Dutch has T,
+and could it not just be all from an original source? No, because back when the Dutch speakers and English speakers were still a single group of people,
+this was on the year 600, even earlier, there was no T, so it can't have been borrowed from it.
+So it must have been borrowed at a later time. This is kind of the same thing with technologies, of course.
+So that kind of gives you an idea of how to think about long words.
+So let's apply this to the Quran and kind of get an idea of what's going on with that, indeed, next slide.
+So, you know, you have those words Malakut as Samoet, the kingdom of the heavens, and this word that was being used for kingdom Malakut,
+clearly has to do with Malakut, which is also the word for king comes from Malik, and to possess Malakut, to possess something.
+So it makes sense that it become kingdom. But this Ouds that they put behind it to go from, say, king to kingdom,
+is not really a formation that's used in Arabic. But there's another language where it is very common to use this final Ouds,
+and that's Aramaic. And so you have this kind of formation. This is kind of the kindergarten example, right?
+This word is not that transparent to an Arabic speaker. They see that it's something to do with Malika, that this Ouds part doesn't really have a function,
+except, you know, in words that come from Aramaic. And there's a whole bunch of these words, not that many, but a couple, that clearly come from Aramaic that have this Ouds.
+So that's one way, you know, how we can see in the Quran itself that's being borrowed, and of course, a very obvious religious vocabulary in this sense.
+And yeah, so this is another example. And this is the example of a, not so much a sound change failing to happen, but a sound change that happens that shouldn't have happened.
+So this is a verb in Arabic and in the Quran, tawba, to repent, once again, a clearly religious vocabulary, which has undergone a sound shift.
+The initial th sound, which in Hebrew should become shah, and which it does, you get shof, and in Aramaic should become taw, which you get, you get taw.
+But in Arabic just remains, it should have stayed thawba. And in fact, that word is even retained, it exists in Arabic, thawba exists, it just doesn't mean to repent, it means to return.
+And so you see that in Aramaic, the verb to return underwent a special sound change, so thawba became tawba, basically, and it underwent a very specific
+change in meaning, where it went from the general word to return to a very specific religious way of returning. And that's to repent, right, to return from sin back to non sin, basically.
+So simply the thawba that is used in Arabic before the Quran is actually just a simple term to say they're returning to do this, but it does not have the religious royal religious kind of divine essence that it now has.
+Okay, this is interesting.
+Yeah, so now you have a pair of words, so one of them is the inherited word, so the ancient word from Arabic, which still has the perfectly normal word, and then like the elevated word, which is the Aramaic long word, and that's tawba.
+So that's a great example of it.
+Yeah, so that's another example, and we can go to the next slide I think.
+Other things are technological impossibilities. El Kitab, the book, right, a very relevant word, also one of the first words in the Quran.
+Scripture, writing, people have argued endlessly over what El Kitab actually means in the Quran or what Kitab means, because it doesn't always mean book, it seems to me, and writing, it seems to be holy wits, these kinds of things, but certainly also book and scripture.
+So the point is, this is the exact same word that Aramaic uses, which has Kitab, which comes from Kitab, and it's actually also the same word that Hebrew uses.
+Always, I'm not sure, probably.
+And, but the thing is, of course, this can be the inherited word back in from from ancient many centuries ago back when Hebrew, Aramaic and Arabic were still a single language.
+Why not? Well, it's just like tea.
+We didn't have tea in the year zero, and nobody was writing in a time that Hebrew, Aramaic and Arabic were still single language. This is before writing was invented.
+So we're talking about, you know, let's say, you know, 4,000 before Christ or something like that. So really, really far back, nobody was writing back then, not even the Sumerians were writing back then, let alone Hebrew, Aramaic and Arabic.
+So there's no way for these words to have been inherited from Proto-Semitic, as we would say, the ancient ancestor of all these languages.
+So it must have come from somewhere, and it's not very likely that Arabic would completely independently come up with the exact same word for book as the Aramaic speakers, right?
+So it must have been borrowed. And technically, we can't tell what the direction of borrowing is from purely this. It could be the Aramaic from Arabic, but Aramaic started writing much earlier.
+The Arabic script comes from Aramaic, and it seems that they just borrowed not just, you know, the script of Aramaic and the idea of Aramaic, but also the technology of writing itself and therefore the terminology of writing itself.
+You borrow that. Writing is a technology, right? It's coming up with the idea of knowing how to write, having the materials, having a book, that's a technology, and that's what they borrowed from Aramaic.
+But also, once again, lots of religious connotations within the Quran. So that kind of gives a general sense of, you know, how to apply these principles on how to recognize low words at all and how they come into a language.
+Now, is this particular one a religious term for book? Is it always used that way, or can this one be generically used for any book?
+So, I mean, so to some extent, of course, the Quran, because it is a religious book, is going to have particularly religious connotations when choosing, but it is religious.
+It is religious. So a good example of this is this concept of Ahlul Kitab, the people of the book, which are Jews and Christians, they use that word, right? They say the people of the book.
+So that's very clearly not the people of any book, specifically the book, right? The Bible. That's what they're talking about.
+And so, yeah, it has a clear religious connotation in that sense, but it seems to also be used in a more neutral term as far as that's possible within the Quranic context.
+So that kind of brings us to the question of, you know, what are some of the sources of borrowing? Where do words come from? And we can go into endless details, but one very clear one is Aramaic.
+So much Aramaic. So many of the words that we find in the Quran come from Aramaic. So Malakut, we had that one already, right? Kingdom of Heaven.
+Malik, king, masjid, which is, you know, today means mosque, place of worship, is in Aramaic law words. Kitab, writing, book, Salah, prayer, Zakah, almsgiving, Ar-Rahman, the merciful one, which is one of the names of God.
+Tahrood, idol, taqaa, to transgress, to sin, taboot, arc, as in arc of the covenant and that kind of stuff. Kufr, to deny God, all Aramaic law words. Medina, city, which is not a very religious term, but clearly a administrative term, that kind of thing.
+Al-Masih, right? Messiah, also an Aramaic law word. Malik, angel, Nabi, prophets, all of these, right?
+I noticed that Salah, or Se'la, I'm thinking of Se'la from the Bible, the Hebrew Bible, where there's this constant, like, in the Psalms, there's this Se'la, S-E-L-A-H, instead of S-A-L-A-H, I wonder if there's something to that.
+I don't know this well enough to know, maybe, but yeah, I don't, I don't, I don't, it could be that it just means pray in Aramaic, but, sorry, in Hebrew, but the verb does exist in Hebrew, I think.
+In Aramaic it definitely does, but I'm not sure.
+But the specific formation of prayer is here, I clearly from Aramaic.
+So, lots of Aramaic law words, and really central words, right? Not just anything, you know, the angels, the Messiah, the prophets, all of these, you know, the word even used today for the prophets, Muhammad, Nabi, is an Aramaic law word.
+Not surprising, but nevertheless worth appreciating.
+Also, a very common origin is Ethiopic, classical Ethiopic.
+So, Ethiopia seems to have converted, well, seems to, we know, converted to Christianity quite a bit before it seems, say, Central Arabia, or Western Arabia, where Mecca and Medina were, and had a very lively written tradition already,
+writing in this classical Ethiopic language called Ghaz.
+We have, you know, the Bible in that, and it's a really ancient, very interesting language, it's Semitic language as well.
+And there's a whole bunch of words in Arabic that are sometimes still from Aramaic ultimately, but are clearly from Ethiopic, and some of them are uniquely Ethiopic.
+So, jahannam, jahanna, or you just know, hell, which is ultimately from Aramaic, but the specific form is very similar to the Ethiopic form.
+Ethiopic has jahannam, and has this final M, and so there's a couple of things about it that really make it typically Ethiopic looking.
+So, Hawari own disciples from Hawari, once again, an Ethiopic word, specifically Ethiopic words.
+The word for Satan, of course, is a Semitic word that we also see in Hebrew, but in Hebrew, it's something like satan, and you get this very specific taitan in Ethiopic, which you also get in Arabic, this A at the beginning of the word.
+And both in Ethiopic, and in Arabic, and nowhere else. So clearly there's something going on.
+Word for parchment leaves, sohuf, but also the word for Quran itself, musthuf, both of those are long words from Ethiopic.
+This musthuf is the word for codex, so a book made of parchment leaves and put together and bound together.
+And Ethiopic also has many, many Aramaic loan words, once again for all these religious terminology, and they share a lot of these words with Arabic.
+And sometimes it's not clear whether Aramaic words that we see in the Quran come directly from Aramaic, or first come from Ethiopic before they end up in Arabic.
+And it's just not obvious. And the same issue is true for ancient South Arabia, so in South Arabia, what is now Yemen, basically Yemen and Oman.
+There used to be a civilization, the Kingdom of Sabah, Shiba, as we call it through the Bible, who at some point convert to Christianity, or convert into something vaguely monotheistic and then Christianity.
+And there's a whole bunch of stuff going on, lots of research going on there.
+But certainly, once that starts happening and that monotheism comes in, these Aramaic loan words start coming.
+And they use, once again, prayer, Messiah, all these words, ar-Rahman, so the name of the monotheistic deity in South Arabia, ar-Rahman, an Aramaic loan word, but that's a word they use.
+So it kind of brings a question, it's like something going on, these Aramaic words are coming in, clearly like monotheism is being spread with these words, and it becomes a little difficult to tell what the direction is.
+And very often it seems that yes, some Aramaic may have really come in through, well, we certainly know that some words really, this terminology came in through Ethiopic.
+So some of these Aramaic words may have actually gone through that path before they came in.
+But Arabic also has some Aramaic loan words that are not in Ethiopic, or at least not retained in Ethiopic, so maybe they got those independently.
+So those are some of the things that are going on. And I don't have a specific slide for this, but another very important origin for vocabulary in Quran is Greek.
+So we already mentioned Sirah for streets, which is probably, you know, came from Latin ultimately, but still goes through Greek.
+And you get words like Oqalam, we already mentioned for read pen.
+That's a Greek long word, Zauj, which means pair or husband, which is a very ancient long word from Greek, it seems, zeugos.
+And, of course, the word in jail, which is the Gospel, right, from Evangelion, which may have come through Ethiopic, because Ethiopic has the same word, one gale, or very similar word.
+And so Iblis, probably for Satan, probably has something to do with Diabolos, although we don't really know what happened to that word.
+But that seems to be related to it somehow. Most people seem to think so.
+So you get these words as well. And those are Greek words. Also, of course, Aramaic, once Christianity really starts taking hold, has lots of long words from Greek.
+So very often, it's not so clear whether these Greek words come straight from Greek.
+And there's evidence of Arabic speakers who were bilingual in Greek and Arabic, or whether it went through Aramaic first, and we don't really know.
+Yeah, I think we can get to the next slide. So this is kind of an interesting thing.
+Because the question becomes, what kind of Aramaic is the Quran boring from?
+That's not necessarily, you know, a question that becomes, but it's a question I've been concerned with.
+Because very often, we kind of talked about this already. This is very central language, and we can go to the next slide for that.
+A very central Aramaic language, an Aramaic dialect or Aramaic language, whatever we'll call it, that we call Syriac.
+Syriac is a form of Aramaic written in a very difficult to read script, which I really hate.
+And this is typically Christian language.
+And lots of the stories that we see in the Quran, we only know from Syriac texts.
+So the seven speakers of Ephesus is a Syriac story. What else is there?
+I thought at least, well, I don't know about the story, but I thought that dual Quranine was something good.
+Sorry, that was exactly the one I was thinking of.
+So those stories we really know through Syriac first and seem to be composed in Syriac.
+And so it seems like a very obvious choice that that is a language that is influenced in the Quran.
+And that has very often been assumed, people say that well clearly, you know, and for example, Arthur Jeffrey in his book on the foreign vocabulary and the Quran basically uses the word Aramaic and Syriac interchangeably.
+And it's never so clear whether he understands these two terms as being something different, or whether when he says Syriac, he doesn't just mean all of Aramaic, but he just says Syriac, which is an old use that used to be used.
+Or whether he means it in the modern sense, as we understand it today, where Syriac is a specific sub dialect of the many Aramaic languages that were around.
+But what's interesting about it, and I'll try to explain this as non-technical as possible, is that the Aramaic vocabulary that we see in the Quran is very specifically not Syriac Aramaic.
+It's absolutely Aramaic, but it's not Syriac Aramaic. So what's going on there? Let's go to the next slide and I'll try to kind of talk us through what's going on with that.
+So Syriac, by the time that it would have been able to come in, well, by the time it becomes an important vehicular language for Christianity, and so for monotheism and these kinds of things, it has already undergone several important shifts.
+First of all, it has undergone the so-called Begat Kefa shifts, which means that the P, T, K, B, D and G sound, so P, T, G, B, D, G, becomes spirentized, sorry, and become pronounced as F, F, H, V, V, E, Z, or R.
+After vowels, so a word like Masqidah, a place of worship, became Masqidah with a V instead of a D. And this is a typical shift, and we write this with little lines.
+And what's interesting about this is Arabic has both of these sounds, so in Aramaic, so in Syriac, this D shifts to the V, but Arabic just has a D and a V and there are different sounds.
+So they could have written them differently had this shift undergone in the language they were borrowing from.
+Another typical shift is that short vowels, like Ah, I, U, in open syllables, are dropped out.
+So a word like Malakuta, Kingdom, and we already looked at, becomes Malakuta.
+And so what is the issue? What is going on here? Well, let's go to the next slide.
+These shifts don't happen in the Quran, right? So we have the word Malakuta, and this is by the way also the case in the Ethiopic long words, which also look Aramaic, but also don't look Syriac.
+Well, in Syriac, that's Malakuta. So you have a third air, which Arabic could have just used, because Arabic has the first sound, but it doesn't use it.
+So it doesn't borrow it with that sound, because apparently the Aramaic you were borrowing from didn't have that sound.
+And the Quran still has this Aval, Malakuta, so it's three syllables.
+Well, in Syriac it's just Malakuta, only two syllables. So that vowel has dropped out.
+So the Quranic form is actually more archaic than the Syriac form.
+The same is true for the word for King, Malik, which in Syriac becomes like Mech.
+So that first vowel is gone, and the ke has become a kh. Arabic has a kh.
+Had they been in contact with Syriac, and the Syriac preachers would have told them, well, you know, the word for King is Malik,
+they would have borrowed it as Malik, or Imlik, or something like that, and they don't.
+Same thing for Masjid. Masjid is Masqidah, but they could have been Masjid, but it's not.
+Clearly not borrowed from Syriac. And even names, so biblical names like Zakaria, in Syriac is Khariah, the kh, once again.
+And the Quranic Miqael, or Miqael, or Miqael, there are three different readings for this word, but all with a kh.
+In Syriac it becomes Miqael, so kh. Arabic has a kh, it could have borrowed like that, it did not.
+So that's really interesting. You see all these stories, and they clearly look like Syriac Christianity,
+but the Aramaic that's in the Quran does not look like Syriac at all. It's a very different and much more archaic form of Aramaic.
+And it's a real mystery where this kind of Aramaic is coming from.
+What is clear is that the Aramaic that influenced the Quran is also the type of Aramaic that influenced, say, a classical Ethiopic and also ancient South Arabian.
+They all lack these expected sound shifts if they have been borrowing from Syriac.
+So they seem to have some kind of, so my colleague and friend Ahmad Al-Jalad has been calling it Arabian Aramaic.
+This very archaic form of Aramaic through which all these words that were coming in were being filtered before they came into the Quran.
+So even though these connections with Syriac in the text itself seem very obvious, it's actually not that obvious from the long words.
+The long words don't look like Syriac, they look like something else.
+If I may, we're playing Scooby-Doo here trying to figure out what's behind the mask here. I really like this.
+It makes you wonder how...
+All right, so when you look at Hebrew, you look at the Jews, you look at the Talmud, and if I recently interviewed a modern-day Samaritan, actually,
+he's the great grandson of the high priest, the current high priest on Mount Garazim.
+And he said, he goes, well, we believe that our tradition goes back way further.
+And I said, well, why is that? You know, I'm learning from him.
+Look, I'm a skeptic, but I'm a people person. I love everybody, man. I really do.
+And I'm like, listen, tell me why you think so.
+He says, well, we have an older Hebrew dialect. We use old Hebrew.
+That's one of the reasons we believe our tradition is older.
+Now, whether that's factually true or not, in terms of the conclusion,
+the point is they are trying to use a dialect of Hebrew that is older.
+And so you kind of wonder, like, if this tradition of, like, keeping an ancient language in a religious context
+played a significant role, maybe, on the Quran, the spiritual leaders that are involved, Muhammad, whoever,
+and they're seeing this older dialect of sacred language, just like the Jews see sacred language.
+What do you think? Am I on a track where there's something to this?
+It's an interesting thought. So it's true, of course, that, well, and so just on the Samaritan thing,
+it's true that Samaritan Hebrew is really quite different from biblical Hebrew.
+And people argue about this even today.
+I think most people have decided that basically biblical Hebrew is more archaic than Samaritan Hebrew,
+but there are still people who disagree or think that at least Samaritan Hebrew really retains something important
+and original and these kinds of things. So there's something going on there.
+And so whether we concede in this context, that's a good question.
+I don't know. The issue is, of course, that the moment when our Aramaic starts becoming an important language for religion
+that we associate with these words now, those shifts have happened in the language they're borrowing from already.
+It's already there in Syriac.
+Aramaic has always been an important language in the Middle East.
+And so I think part of the story is probably just people continue to use Aramaic in Arabia as just one of the high registers.
+So for most of the history of written Arabic before Islam, most of the inscriptions that we have,
+even by the time they start looking a lot like the Arabic script, they are mostly writing an Aramaic formulae.
+They're writing Aramaic texts, even though they were quite clearly Arabic speakers, because that was just a language you used to write.
+And we see this all over the world, right?
+Even today, of course, Arabic is being used all over the world by people who certainly didn't speak Arabic throughout the Middle Ages.
+That was the case. That was just a high register you did important things in.
+And that really goes far back.
+That goes back to Imperial Aramaic times, basically, where at some point Aramaic becomes this important vehicular language.
+It's the lingua franca.
+Exactly, lingua franca.
+Yes, exactly.
+That's the word we would use for that.
+And so the question is, is that what is left over?
+Just because they were not really in contact with true Aramaic speakers, the Arabian Aramaic managed to stay just much more archaic than was happening to people who actually spoke these languages.
+And that by the time that these new languages came in, like Syriac, with all these beautiful stories about monotheism, et cetera, and priced, they said, you know, this is a funny way of pronouncing this.
+We'll just do our ancient way that we have been doing for centuries.
+Maybe something like that's going on.
+Maybe there was a kind of sense of like, no, we need to preserve our normal way of speaking, in a sense.
+It's a really interesting question.
+And it's something that really has not quite been solved yet.
+But this is a central issue, like what's going on with these words.
+And it's not so simple.
+It's not this simple, you know, Mohammed wrote out and met a monk and they gave him, you know, the Beshita and now he spoke Syriac because that's clearly not what he's doing.
+He's using words that don't look Syriac at all, but they do look Aramaic.
+So it's a bit of mystery.
+We're still looking into this.
+And this is really, we're trying to find and tell the story of what's going on with this.
+So I'll pull the slides back up here in just a second.
+I just want to make one more mention.
+I love that you bring up pre-Islamic Arabic.
+And so I wonder if we're going to find any inscriptions, if we have already, of stories, evidence that they're aware of the narratives of biblical narratives and such.
+That are using this more archaic, you know.
+Yeah, I mean, so that would be the main interesting question, I think.
+Right.
+And the issue is, I mean, well, that's what we're looking out for, basically.
+And actually, so there's an article by Ahmed Al-Jalad that I just mentioned, who has written a recent article on, say, Arabian Aramaic.
+If you go to his academia page, just type Ahmed Al-Jalad.
+So that's A-H-M-A-D and an A-L-J-A-L-L-A-D.
+You'll find it.
+And he has some, so he's trying to do exactly this.
+He's like, okay, I found something that kind of looks like the newer Aramaic, but also like the older Aramaic.
+So what's going on there?
+Clearly, there was some kind of thing going on in Arabia, and he tries to kind of pull apart that story of what exactly is going on there.
+Clearly, before Islam, not so much in pre-Islamic Arabic, of which we don't have that many inscriptions.
+So it's certainly not any, well, we have a couple of clearly Christian inscriptions, but they don't contain a lot of Aramaic long words, simply because they're very simple prayers that just happen to not have those Aramaic long words,
+not because they're not there, just they don't use them.
+So we don't know.
+But yeah, that's exactly the mystery that we want to see.
+And that will be the exciting thing to find out.
+Yeah, absolutely.
+Awesome.
+So let's talk about some of the implications.
+So we're looking at this Aramaic.
+We see that a lot of this vocabulary that is being used is clearly religious and not just any religious, it is clearly monotheism.
+There's these Aramaic long words come in with a package of the Messiah, of prophets, of, you know, the kingdom of heaven, all these things.
+So let's go to the next slide after this to kind of get to the conclusions, you know, the vocabulary that we see is clearly borrowed monotheistic religious vocabulary.
+And we see that in Ethiopia and in South Arabia, these words clearly come with a movement towards monotheism.
+The Quran is also clearly a monotheistic text, of course.
+Of course.
+And it uses these terms, and it's not like it's, you know, well, you might not know what Malakut is, but that is, you know, this or that word.
+No, no, it just assumes that these words are known to the audience, which I'm inclined to think means that the audience actually understood these words.
+So he's, you know, so, so, so the Prophet Muhammad, if we assume that he was the one preaching, clearly was assuming a knowledge of these kind of terms that these terms meant something to people,
+people knew who El-Maseh, that is, the Messiah was, right, and knew what a Nabi, a prophet was, knew what, you know, Malakut is Samawat was, what the kingdom of heaven was.
+And so there's clearly, clearly this assumption right there.
+And this, I think, really kind of doesn't gel with these kind of older Orientalist views of, you know, Muhammad being first one to bring this kind of foreign religion to Arabia.
+That doesn't make sense because he's not, it doesn't read like it said assumes that all of this is foreign.
+And if we look at all the language that were around Arabia at this time, all of those are monotheistic or Christian or something kind of vaguely monotheistic, but clearly, you know, in an Abrahamic sense.
+This is so, I love this, by the way, because without using language as an analogy, let me use concepts.
+So in the New Testament, you have Jesus in the Gospels, clearly portrayed as someone who's born of a virgin in Matthew and Luke.
+He lives a miraculous life, he performs miracles, he dies, he's buried for three days and three nights, he resurrects from the dead, then he ascends on high.
+Okay.
+And I deal with apologist from time to time who come on and go, this one happened.
+This really did happen in the situation.
+Now my Muslim friends watching this will go, well, we're with you.
+We don't think he literally was crucified and died, et cetera, whatever.
+So there's no reason to think he resurrected from the dead.
+That's a pagan concept or whatever they might have.
+And there's some validity to this because I just did a video.
+It's on my Patreon, of course, that is all about 10 other figures that have very similar.
+I mean, I'm talking about from they die and they resurrect three days later, like the resurrection may not be identical to what you see with Jesus and nothing's identical.
+But it makes you really go, is this all happening in a vacuum, in a bubble?
+No.
+They had a secret invisible force field protecting them from even hearing these things.
+No, it's more common sense, like you're saying, monotheism's floating around.
+Muhammad in the Quran is not speaking to people who have no clue what he's talking about.
+Or else he would have went, here's what I mean by everything I'm telling you.
+Let me tell you what everything means.
+He assumes they know.
+No.
+No, that's exactly right.
+So I think it's a good analogy to kind of get that sense of what's going on.
+And this challenges a concept or at least of a pagan hejaz, right?
+And every now and then, I tried to make this point.
+And very often, both apologists, Muslims in general, I was like, of course, I mean, that's not an issue.
+You know, we know that there were Christians and Jews and Medina.
+But Mecca, Mecca was really a pagan place.
+But, you know, if we take the, you know, I really went out of my way to check this today.
+So if you look at the traditional, let's say, chronology of the Suras and the revelation, these terms are being used in the Meccan Suras as well.
+They're really talking about that.
+That's okay.
+Well, clearly, however we conceptualize paganism in Mecca.
+And because clearly the Quran is also talking about against paganism.
+It's not like, you know, this is some kind of crazy idea.
+But we really have to think about what does paganism mean?
+We're not talking about a paganism in the sense of Roman paganism, right?
+Where people are worshiping the spantheon of gods that has nothing to do with Christianity and was before Christianity.
+No, no, no.
+If they are worshiping other gods at all, it's clearly within a kind of Abrahamic framework.
+They are already understanding that there is such a person as a Jesus.
+There is a person who is Allah, who is the Abrahamic God, right?
+Is the God that is the same God that the Jews worship, the same God that Christians worship.
+That's a very important universalist message.
+And so there's obviously ways of getting a pagan Mecca out of the Quran as well.
+But not a pagan Mecca that is ignorant of Abrahamic religions, of monotheism.
+And if it was pagan, it was clearly understanding paganism in a much more subtle, much more integrated into monotheism way.
+Is it fair to use an analogy that when I left the non-denominational Christianity,
+which was like speaking in tongues, spirit filled, all sorts of stuff,
+and I became more conservative Orthodox in my approach and was like,
+okay, I'm becoming a Presbyterian.
+I looked at the other version of Christianity I came out of and was like,
+they are pagans.
+They are literally doing things that you would imagine pagan cults or whatever do.
+And so you kind of, what do you call that pigeonhole then in that category,
+even though they are claiming to be like you.
+And as I interviewed Peter von Sievers in that one episode where he's talked about other versions of Christologies,
+when you have like, Mariology involved in your doctrines and different idols,
+you cannot imagine they didn't call that paganism or polytheism or something like that.
+It would fit the category.
+Right.
+Even today, to that extent, right, there is a kind of, I mean, of course,
+I mean, even in Protestant today, we'll call, say, another way that people look at Catholics,
+that's basically paganism, which, I mean, makes sense, whatever, I don't want to piss off.
+I know, I know, you're not trying to criticize.
+But you can see how the kind of saints worship and having saints perform very specific functions.
+It's like, well, if you have the idea, no, there's only one God and nothing else.
+And maybe angels, you know, the Quran seems to think that there's angels,
+but not the other guys, not the ones that aren't angels.
+And it's like, okay, what's going on here?
+How do you think of this?
+And what is, to what extent is this, indeed, polemics, right?
+Is it polemics of the Quran?
+To what extent is this a accurate portrayal of what these people were doing?
+Right.
+To what extent did you understand what paganism was really like in Arabia?
+Yeah, are they embellishing it a little?
+Are they kind of embellishing?
+That's an interesting point, because when you read the Hereseologists,
+the Heresee writings by, you know, origin or whoever might be against Kelsus or whatever,
+you're going to hear, they kind of sometimes will overshoot or they call the Gnostics like sexual deviants and things like that.
+And a lot of the scholars that talk to are like, that's not true.
+They're doing that to kind of downplay them.
+But I do want to ask you, do you think that it's a coincidence that there's this anti-image debate taking place at this time where coins,
+they're literally saying like, stop putting images on coins.
+And so I wonder if the Quran, religious Quran background in its origins is, like you said, polemical,
+but also saying, you know what, you even the Jews didn't go far enough.
+And we're going to go so far to show you what it means in the Ten Commandments.
+What it really means to not have idols and make these images of living creatures and things.
+I don't know, what do you think?
+I don't know. I don't know. I don't know.
+That's certainly outside of my wheelhouse.
+It makes me think that.
+Yeah, no, no, I agree.
+I'm just, you know, being an annoying academic who doesn't want to say yes.
+That's what I love about academics.
+I think it's an interesting thought.
+There's clearly something going on and the Quran has a message to tell about what monotheism should be like.
+And, you know, even today Islam has something to tell and to say to Christianity, to Judaism,
+on how they feel that, you know, monotheism should be done.
+And so there's clearly something going on, whether to connect that with this kind of anti imagery thing.
+I don't know. I don't know.
+And I don't, it's also not so clear.
+Certainly in early Islam, it's not so clear that this kind of anti imagery thing is an important thing.
+I mean, there are living creatures being being put on coins.
+There are frescoes of Umayyad castles where they're there.
+And, you know, these things continue at some point, these things become taboo in some places and other places,
+but there are also just images of the Prophet with face and everything around in very late textile.
+I don't know much about this.
+But yeah, you know, my, my, my colleagues every now and then make this point.
+You know, this kind of anti imagery thing is not necessarily, you know, what has been traditional.
+And it's certainly not necessarily what was the view in say early Islam.
+There's an idea against idols, right?
+But what do you call an idol?
+I mean, is that literally the statue of a God you shouldn't be worshiping?
+I mean, is it what you're praying to or something that, yeah, that might make more sense.
+Those make all kinds of differences.
+And yeah, so that's kind of the thing.
+So this is kind of my story about, you know, long words in the Quran, what they tell us, how we think about these things and how we should conceptualize.
+I think both the hijaz, I don't think, and this is kind of, you know, a bit of a serious kind of kind of, you know, says like, look, this is also advanced.
+So Christologically involved, it cannot have been the hijaz.
+And I'm like, well, I think it was hijaz.
+And I just think we're modeling the hijaz wrong, because we're modeling hijaz to some extent on, you know, later Islamic sources that try to describe this.
+And, you know, that's a debate.
+I think my linguistic argument for hijazi Arab because quite compelling.
+So that helps for me to be like, no, I think we need to understand it in the hijazi context.
+So now let's understand what it means that there's lots of Ramayg there.
+Lots of monotheism there.
+How do you understand that region in that way?
+And yeah, that's what you concluded.
+So yeah, there's that.
+And so what, what are some of these implications as well?
+I mean, we got into this, but like, do the loan words create problems for some of the apologetic arguments out there?
+Because I know as an academic, right?
+Like you're not interested in the apologetics.
+I'm not usually interested in apologetics.
+I'm interested in legit serious academic work and understanding using a historical methodology, which means you kind of you got to leave your faith at the door.
+Okay, when you approach these things and just deal with the facts.
+That doesn't mean you can't have faith.
+But, but when I look at this, I'm wondering if there's some role that loan words could play, which some of the house of card version of apologetics you see out there just fall apart because of this evidence.
+Yeah, I mean, well, to some extent, I think yes.
+You know, there's there's a couple of people around who are like, look, Arabic is, you know, the language of Adam.
+And therefore also the language of God therefore also the language of Adam and therefore there can be foreign influence in there.
+That's obviously a nonsensical arguments.
+And luckily, I don't think many apologists are very much into that argument anymore.
+But first of that kind of still float around you run into it every now and then it's like, you know, it's not much you can do as like, you know, clearly they're not interested in linguistic evidence against that.
+And there is a real methodology to figure these things out and you can talk about them.
+Of course, you know, the questions of like how to model the pagan hijaz.
+I think some of the conceptualizations that you see in these circles can be quite out of touch with with this kind of evidence.
+But there are also many people who are like, what's the problem here?
+We know that they knew about the Abrahamic God.
+And, you know, they just worshiped other things too.
+And that's that's paganism.
+It's like, I think that's a reasonable way at least of approaching what David then seems to tell us.
+Like I'm not necessarily true, but you know, that's that's one way of of marrying that kind of view into something that that makes sense.
+And this is like saying the common religion of the Hebrews, right?
+And in versus what we're reading in the text, from what I understand academics say, when we're reading the Bible, we call the Bible, the Hebrew Bible Old Testament, whatever.
+We're reading the religion of the elites.
+We are actually reading the priests religion and you get these hints in the literature that while the common folk may worship Yahweh or El or whatever,
+they also have their ashura or their ball or their whatever.
+The only issue I have in this is, are there names in Arabic in the Quran of other deities?
+Yeah, yeah.
+I never mentioned like stop worshiping that God or this God or whatever.
+So, so, so, so this is, you know, the famous section in Surat al-Najm, that's Surah 53, which mentions Manat, Al-Uzza and Allah.
+Well, these are pre-Islamic deities.
+They really are.
+And that is one of the most worshipped pre-Islamic deities in the epigraphic records.
+And Manat, interestingly, is one of the least worshipped deities in a pre-Islamic record.
+Why?
+Because she's the goddess of faith that is death, you know, the faith that everyone will eventually come to.
+You don't pray for or to death.
+You pray against death, right?
+So this is a really interesting book.
+That recently came out.
+It's also free.
+Let me, let me grab it.
+Yeah, grab it.
+So it's called The Religion and Rituals of the Nomads of Pre-Islamic Arabia.
+Here it is.
+Oh, wow.
+And this also, you can find it on, it's also from Brill.
+It's also open access so you can download it for free.
+And it kind of looks at like, you know, what kind of deities were really being worshipped?
+So An Al-Uzza and Al-Lat come, come show up in these very often.
+Manat doesn't, doesn't quite come in that form, but the Nabateans definitely mentioned her
+and seem to have maybe even worshipped her.
+So there's a really famous pre-Islamic inscription where a woman who has, is that right?
+Or maybe it's a woman has died and I think, okay, I'm probably going to get this wrong.
+Let me think about this.
+I think a woman has died and her name is Amit Manat, that is the servant of God,
+not the servant of God, the servant of Manat, clearly with a name like that.
+That sounds like you're worshipping Manat as a deity.
+So the Quran seems to have a memory of that and seems to do something with it.
+Isn't particularly interested in exploring what these deities are, what they do.
+There's some discussion about in pre-Islamic Arabia whether Al-Lat and Al-Uzza
+who are two different goddesses mentioned as his trio, whether they are actually the same God
+because they never seem to be invoked at the same time.
+So maybe Al-Uzza means the strongest one or something like that.
+And so isn't it just a title and actually the Quran misunderstood it
+and things are two different deities?
+That's a possibility.
+I wouldn't commit to that being a correct interpretation of the pre-Islamic record at the moment.
+I think that hands in too much.
+But yeah, it's sort of mentioned.
+So they know pre-Islamic deities.
+They mentioned them.
+The Quran talks about it and has some memory of it.
+And the Islamic tradition also has some memory of it, not very accurate.
+The implication here is simply like I said with the Hebrew thing,
+like they're worshiping El or Yahweh, but they also might have multiple things.
+So there's some validation here in the Quran itself for a paganism
+or meaning simply other gods, whatever you wanted to find that as possibly.
+But it's fair to also say there may be an exaggeration of the amount.
+And maybe we're thinking too cosmic here.
+We're thinking too big because if we're thinking of a little tribe, the Qureshi tribe,
+and let's say half of them are influenced by this kind of multiplicity of deities out there,
+but also the one true God that they've been hearing about,
+maybe we're thinking because we're in this big wide world where we have the internet that connects everything,
+that when we hear like there's this pre, it may be a bit exaggerated later,
+like it was all this dark age and stuff, but it's not that necessarily in the Quran.
+Exactly. You could even imagine that there was a real movement towards monotheism in the Hejaz before the Quran,
+which maybe the people were so susceptible to the mess of the Quran,
+because that's one thing we need to conclude, right? It was clearly successful.
+But there were still people around who were still staying to the ancient religions.
+Those are all ways of modeling what's going on.
+But one thing we need to understand is like the Quran is clearly assuming that its audience knows what it's talking about.
+That's I think is very important.
+This is so much fun. There's so much more to be said, but we did a deep dive.
+And I hope everybody watching will take the time to go not only and join our MythVision Patreon,
+which I work very hard at. I constantly work.
+I mean, this video itself will be on there early.
+But give his book, Quranic Arabic, it is free.
+Are you planning on working on any other books in the future?
+Yeah, so my next big research project will obviously end in a monograph at some point,
+but that's five years from now.
+I have a couple of other things in the works.
+I'm working on translation of a description of the Quranic reading traditions,
+which I hope to publish at the Taizir.
+I have an edition of a Quranic manuscripts coming up, which I'm collaborating on.
+And there is still another book that I'm supposed to be writing with Haydn Sidki,
+but both of us are very busy.
+So I'm not sure when that's going to be written, but we both have quite a lot written for it already.
+And it's just putting it together into a book.
+And that all for me will be about vocalized manuscripts, Quranic reading traditions,
+and kind of the result of my project that I did at Princeton at the Institute for Advanced Study.
+So hopefully that'll end up sometime.
+But it will probably be another year or two before that's done.
+So for now, no, just some small articles.
+I have a bunch of articles coming out in the future.
+And just follow me on my academia page, academia.edu, just type my name.
+It's I before J, not J.I.
+People always get that wrong, but then you'll find my name if you type it correctly.
+And then you'll find my articles and you'll see, I basically always put when new articles come out, I just put them on.
+That's on your academia page.
+And so I didn't prop that up, actually.
+I will.
+And it's not only that he has the academia, which I highly recommend anybody go and so you could follow them and you'll get an email every time something comes out.
+But you can also join his Patreon.
+I forgot to mention this up front.
+You can help support him there.
+And if not, there's also one time, you know, coffee, you can buy him some coffee and help him out because this helps him research and continue doing this.
+Plus, you can private message him this way if you have serious questions.
+And when he has the time, he'll take the time to be able to respond.
+And he's always been very good about responding to me.
+So I ask that everybody who's interested in diving into this and maybe maybe you have a critical question or you want to see what the implications may be.
+Maybe you're a faithful Muslim who's saying, you know, you know, how does this strengthen some of my views?
+Like, how can this support my ideas?
+You know, Dr. Van Putin takes such a balanced approach and is just trying to give you facts.
+It can hurt your feelings.
+It can help your feelings.
+It can do whatever.
+And that's what I appreciate about you is that you're trying your best to just give the evidence.
+And you're also trying to kind of debunk bad critical scholarship or people who are trying to be critical of the Quran, but simultaneously give, you know, what the facts are.
+So at the end of the day, you're going to have to have faith if you're going to believe no matter what that requires, you know, a leap there in some sense.
+But thank you so much.
+Is there any final words you'd like to say to our audience?
+No, no, not really.
+So, so my, my, my Patreon, I've used my Patreon for, for, for, you know, years as I was not, not particularly employed.
+Now that I have, first of all, a job in game development at the moment, which is really wonderful.
+I am, well, I still have it up.
+I'm still using it.
+Once I start with my project in later in January, I'll be shutting this down.
+But up until that time, I will still be updating it with, you know, everything that I've written that went on my Patreon.
+So that's fun.
+You can check it out.
+But it will not be around forever because luckily I do not have to completely rely on the income that I generate from Twitter anymore, which it was really wonderful.
+I'm so happy for all the people that supported me in this time, but, but it's also, and you can still do it.
+And it's still appreciated because my job in game development is great, but it's not fantastic money, not money like you make in academia money.
+And so I'm still using the Patreon for now.
+So yeah, check it out.
+But know that by January, I will actually be shutting it down and I will be shutting down my coffee.
+So I'm not, not actively broadcasting it anymore that I, that I use it.
+I used to do this always at the end of my Twitter threads and don't do it anymore.
+But I still appreciate it very much.
+I appreciate it.
+So I'm happy when people do it.
+I appreciate your time and the energy and the research and the devotion that you have in learning this stuff.
+Just being someone who likes learning the language, I will never know this stuff like you.
+So this is why I'm a very, can I use the term blessed?
+I'm a blessed host because I get to sit here and learn from you guys and girls.
+And just to take these deep dives and things I will never explore.
+And you get to come up and go, look what I found.
+Look at this.
+And I'm like, huh.
+And then I move on to the next scholar.
+And it's such like, huh.
+And it's an interesting world that I get to view where you take this magnifying glass and telescope and zoom in.
+And then I just get the next scholar and the next scholar.
+So I want to thank you for the hard work you do.
+And the years to come, I hope that we can continue.
+As your research goes, getting into the reading traditions, what have you found?
+What the heck is going on?
+Have you found any interesting things that are really needing to be highlighted?
+I'm here, man.
+So I love, I love this.
+Wonderful.
+It was great.
+It was great.
+Great, great.
+Great to meet you again.
+And it was a fun topic to explore together.
+Thank you so much, ladies and gentlemen.
+Go in the description, get his book, check out the stuff and never forget.
+We are Mythician.
+Ladies and gentlemen, join Mythician's Patreon.
+Not only to support us, but there are 72 videos that I did with Dr. Dennis R. McDonald and Richard Carrier.
+All on the Patreon, early access.
+You guys can ask personal questions when I go to interview these scholars and you're helping Mythician.
+Thank you.
+Thank you.

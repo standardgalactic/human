@@ -1,0 +1,1557 @@
+If you're anything like me, you probably have studied the Bible and the Apostle Paul
+through the lens of commentators, reformers, the Catholic Church, early church fathers.
+The list goes on. What I've come to be interested in in my journey is what did the author mean
+when they wrote these letters and what was the cultural matrix or zeitgeist in which
+they were living in so that we can better understand what the authors of the New Testament
+were trying to convey. What were the original listeners probably understanding when these
+authors wrote these texts? That's why I said, if you're like me, you want to take a deep dive
+into actually knowing the context of the literature being written. The Bible is like an art piece.
+It gets reinterpreted. It gets molded in new ways under new conditions in different cultures
+over long periods of time with different interpretations. And of course, if you try to
+pin down a problem that ends up happening, it just gets kind of remade into something else.
+Exactly what the New Testament authors are doing with the Septuagint of the Old Testament
+is exactly what modern Christians are doing to the New Testament in many respects.
+So I have a scholar today and my friend Stephen Nelson who are going to take a deep dive into
+what the Apostle Paul was probably doing in his letter to the Romans. And what was the Gentile
+problem? How did Paul try to resolve non-Israelite Gentiles into his movement and trying to wrestle
+with the problems throughout his letter to the Romans? This is part one and it's a long deep
+dive exposing you to the actual on the ground details that would explain what Paul is probably
+doing in the first century CE.
+We are MythVision. Welcome back to MythVision Podcast. I'm your host Derek Lambert and today
+I have my co-host Stephen Nelson joining again to help me pick the brain of Dr. Christopher D.
+Stanley and understanding Paul's Gentile problem. How are you both doing?
+Good. Nice day here in Western New York. Very good. Good, good. Let's dive in. Dr. Stanley is a
+social and religious historian who studies and writes about early Christianity and the Greco-Roman
+world. He recently retired as a professor at St. Bonadventure University in Western New York.
+Dr. Stanley has written or edited six books and dozens of professional articles on early
+Christian text and history and presents papers regularly at conferences around the world.
+Go in the description of this video and you can see two or three of those articles
+to go further and deeper into the very issue we're going to be discussing today.
+For those who are interested, the books are on Amazon, which the link is in the description.
+You can also get his books through a slavesstory.com that is also in the description of this video.
+Don't miss out on the opportunity to learn from Dr. Stanley. Me and Stephen have been
+picking his brain for quite some time. He has been a wonderful resource and has taken a deep dive
+for decades. He's dove into Paul. I mean, Paul's this enigma for so many people to understand
+and so we're going to learn from him today. Continuing in this introduction for the first
+20 years of his career, he focused most of his research in writing on the Apostle Paul's use
+of scripture. He is known internationally for his work in this area and his books and articles have
+helped to reshape the scholarly discussion about Paul and scripture. The topic of our interview
+today is going to be in relation to this, but our last episode, if you want a more extensive
+introduction and you want a deep, deep understanding on how Paul applied his scripture in his own
+context with his own meaning, you need to go check out the episode. That's all I could say because
+it's a very well done. There's over 16,000 views. It's a hot video. Lots of people are impressed
+with the information. We bring up the pericapies. We do a deep dive surgery on Paul's letters to
+show you he is doing something different with his use of the Hebrew Bible or Septuagint.
+He's written many books. Like I said, they're in the description. He also served for six years as
+founding chair of Paul and scripture seminar for the Society of Biblical Literature, the primary
+professional organization in the field of biblical studies. Over the last decade, he has turned his
+attention to other issues, including sickness and healing in the Greco-Roman world where he talks
+about asclepias. The topic of three recent interviews, we've done interviews on that as well.
+The recent interviews we did, of course, is talking about did Paul care when someone needed to be
+healed? Did they go to a asclepias temple and did Paul care? Seems like he probably didn't,
+but you've got to watch that episode. Inter-ethnic relations and antiquity, which I think we're
+going to be discussing some today, a topic that we'll be covering in this interview deeply. He has
+also written two historic novels in a planned trilogy that bring to life the social and religious
+world of Roman Asia Minor, modern Turkey, in the era of Paul. Information about the novels, like I
+said, or in a slavestory.com in the description. Now I may introduce my other co-host, if you will,
+Steven. And I'm glad he's joining me. I have the pleasure of him helping me co-host, and he's my good
+friend, Steven Nelson, who I've been trying to get on more often than not on MythVision for a couple
+years. He holds a bachelor's degree in, wait for it, Russian literature, which has nothing to do
+with biblical studies. But for some reason, Steven is an obsessed person, more than I am even, on this
+with biblical studies. And, but for some reason, Steven is obsessed with learning many languages.
+And in Greek is one that he really, really loves. He just came back from Athens. So I'm sure he was
+practicing that while he was there. And this is why I've been waiting to put together amazing
+illustrations for biblical texts, which you'll see in a minute. And I think these are the
+pericope we're going to dive into today. Am I correct, Steven? Yep. You've been doing a lot of that
+stuff for me, just so everybody knows. If you see a pretty Bible scripture with Greek on the right
+side, you can bank on it, not being Derek Lambert, Steven Nelson. Gentlemen, sorry for the long
+introduction, but we're dealing with Paul's Gentile problem. Did you want to start us with
+a comment, Steven, and then pass the baton? No, I think we can just jump in. Okay.
+Dr. Stanley? Well, you wanted it. You have a question we're going to start with.
+I'll start with a question. I guess that might be a good idea. If I do start with the questions,
+I want anyone to know that there is an issue we're trying to wrap our heads around what Paul's
+social ethnic issues were in the first century. Who are the Gentiles? Where does the term come
+from? What does it mean when Paul uses it, Dr. Stanley? Okay. Thank you, Derek. Anyone who's
+read anything in the New Testament knows that the word that's translated into English most often as
+Gentiles fills the New Testament. It's certainly an issue, a group, something there that people are
+really concerned about in some way, shape, and form. You were mentioning a minute ago.
+I've been working for quite a while on an academic book dealing with these issues. What did
+ethnicity mean in the ancient world? How did people understand themselves in ethnic terms? How
+did groups that thought in those terms relate to one another, both cooperatively and in terms of
+conflict? A lot of this background material is stuff that nobody really in New Testament studies
+has dealt with. Issues, particularly when it comes to Paul, which is a lot of language about
+Jews and Gentiles and Jews and Greeks, people tend to look at this in a vacuum as though it's just
+purely something going on in Paul's head in an abstract way. I hope I'm going to be able to
+demonstrate by the time I get done today that this wasn't just an abstract question. Paul is
+dealing with real-world social problems. He lives in a context with a lot of ethnic hostility that
+he's addressing, both in terms of just understanding the world he lives in and creating these multi-ethnic,
+and we would say today, Christian churches, although they're just groups of people meeting
+in somebody's living room somewhere, and how they're actually going to get along with each other.
+A lot of this is kind of the background for some of the things I want to deal with today.
+The term Gentile in English is an Anglicized version of a Latin word Gentilus,
+which means a family or clan. Gentilus meant pertaining to a family or clan. Gentile
+how the word Gentile relates to that isn't immediately clear, but ultimately where it
+comes from is the idea that it's something to do with ethnicity and ethnic groups,
+have a sense of identity in some way as a clan, as a family, as a group that has some kind of at
+least a myth of biological common ancestry or something like that. The actual Greek term used
+here is the singular is ethnos and the plural is ethne. While Paul is occupied a lot with these
+terms, he certainly did not create the terms, he didn't create the ideas behind it. The language
+of Jews or Eudioi on the one hand and ethne on the other hand is rooted in the Hebrew Bible,
+or what Christians would call the Old Testament. They're taken directly from the Greek translation
+of the Old Testament called the Septuagint that we talked about some in our last session together,
+where the word ethne is the most common translation for the Hebrew word goyim,
+and I know this is getting a little bit into the weeds, but it's important to get some idea
+that throughout the Hebrew Bible, this term goi and the singular and goyim and the plural
+is a central term that runs throughout the text. Most of the time goyim, which literally means
+the nations or the peoples, is applied to non-Israelite nations, literally the countries around them,
+the residents of the Edomites and the Moabites and the Egyptians and all those other people,
+they are the ethne, they are the nations. The term in the singular can also be applied to Israel,
+and so Israel is more often referred to by the Hebrew word am, that is a people,
+but the word ethnos is also used to them, but most commonly, and you might say it's kind of a broad
+somewhat overstatement, there's a bifurcation that exists in the Hebrew Bible between the people of
+God, who aren't yet called the Jews, because that's a post-Old Testament, post-Hebrew Bible term,
+but they're called Israelite to the Hebrews or various other names. They are like the insider
+group, they are the people who reside primarily in the land that we know of as Israel, and then
+the goyim are everybody else, whether they live outside of Israel or in Israel, because
+they can also have the foreigners who live among them, and so they can also, there are other terms
+that they're sometimes used for them, the word gear is used for strangers and you missed, etc,
+but goyim can be outsiders who are physically outside of our land, we're ancient Israelites here,
+but it can also be foreigners who are in our land, and there's a clear distinction drawn that the
+goyim, I mean, sorry, the Israel are the people of God, the people of Yahweh, the one God of Israel
+who has chosen them as his special covenant people and has given them his laws to live by,
+to maintain that covenant relationship, and even though we often don't talk about this in this way
+in kind of churches, God loves Israel more than he does other nations, God does not love everybody
+the same in the Hebrew Bible or Old Testament, and so they are the special object of God's love and
+care, and basically the way according to the ideology we find running throughout the Hebrew Bible,
+God's concern with the other nations is directly dependent on his concern for Israel,
+so we don't hear about events occurring in Egypt or Mesopotamia or whatever,
+unless somebody is doing something to Israel, so it's like Israel is the center of the universe,
+they are the special people of God, and everybody outside of that kind of center is the goyim,
+the views of the goyim tend to be negative, but not always, so I don't want to give an impression
+that there's a consistently negative idea there, but there's often a negative connotation because
+the goyim are those who worship false gods, you know, from the standpoint of the Israelites,
+Yahweh is the one true God, the creator and sustainer of the universe, and all other deities,
+while you know in a lot of the Hebrew Bible there seems to be an openness, there could be
+reality of other gods, but by the time you get to the later texts, particularly in 2nd Isaiah,
+there is one God, and Yahweh says, I'm the only one, all the others are false, and therefore
+people who worship those other gods are not just practicing alternate religions that are equally
+valid, they are wrong, they're absolutely worshiping the works of their own hands, and they're doing
+all the wrong ritual activities, they have the wrong moral behaviors, and so God is displeased
+with them, so even if you don't necessarily have, it doesn't say you got to hate the goyim,
+but clearly they are second-class citizens in God's kingdom, so to come forward in that same
+idea carries forward then into the Septuagint, the Greek translation, where as I said, ethne is the
+most common translation for this word goyim, and Paul, being a Jew, picks up that same language
+and is brought up with it, the same with some of our other New Testament authors, and so Paul
+doesn't create this thought world of Jews on the one hand, and Gentiles on the other, I should
+mention the term Jews, Eudaios in the plural, or Eudaio in the singular, or Eudaio in the plural,
+arises between what we think of as the Old Testament and the New Testament, derived directly from the
+name of Judah, Judah, Judeioi, and so it's a resonance of Judah, and actually it's called
+Yehuda and Euda, whatever, that's where we get these kind of different words of J or Y at the
+beginning of it, so basically the word Jews is our anglicization of a Greek word that refers to
+people who have either living in the land of Judah, which is a southern portion that comes to be all
+of the land of Israel, or we have ancestry, acclaimed ancestry in that area, so I'm going to use the
+word Jews now as you're moving into the New Testament era, and so the kind of thought world
+is presupposed by most all the authors of the New Testament is in some way, at least in a standpoint
+of God's historical work, the Jews are the descendants of those people of God back over
+here in the Old Testament, in the Hebrew Bible, and so Eudaioi remain in some sense the people of
+God, and I say in some sense, because that's one of the big questions they're dealing with,
+because now God, they believe, has done a new thing in sending Jesus, and in Jesus' death and
+resurrection, a new era has been introduced in human history, and where the fundamental claim
+that Paul makes, but to some degree it's shared by all the New Testament authors, is that the
+death and resurrection of Jesus marks a new era in God's plan, not like God changed his mind and
+suddenly decided, hey, this Jew thing isn't working, I need to try something else, but rather the claim
+that you find by Paul and other New Testament authors is in some sense all that stuff related
+to the Israelites and the Jews was act one of the two act play, and the coming of Jesus is the
+fulcrum on which things transition, and so in act one you find a lot of things that aren't clear
+until you get to act two, you find in act one a lot of things that foreshadow things are going to
+come up in act two, but it's only by watching the whole play that you can rightly understand a lot
+of things back there in act one, so the Christians are coming along and saying, making the rather
+audacious claim that the Jews do not rightly understand their own scriptures, because A,
+they don't fully understand that these scriptures are pointing ahead to the coming of Jesus and a
+new era that God was going to bring with his death and resurrection, and B, they don't understand
+in this new era, God is no more just occupied with the Jews, God is now open to people of any
+nation, the nations, the Gentiles, and so a lot of Christians know the expression of called the Great
+Commission, where Jesus says, you know, go you into all the nations and preach and disciple them,
+etc. Well, you know, from the standpoint of people in that time, that could just as well have been
+go you to all the Gentiles. Jesus, particularly in Matthew's Gospel, is just concerned about the
+Jews, who are like, okay, now after the resurrection is the time you can go to the Gentiles, and so
+Christians are claiming that was always God's plan, and so what that raises questions then,
+and this is the background then for where Paul and other New Testament authors are wrapping,
+what does that mean about the Jews? Is God done with them? You know, did he kind of
+end Act 1 and throw that in the trash can, and now we're kind of into the new plan of God?
+What does it mean about the Gentiles? You know, in the Hebrew Bible,
+and in Jewish tradition afterwards, anybody could theoretically become a part of God's people
+by being circumcised, joining the community of Israel, and obeying the laws of Judaism.
+So does that still apply? Is that what all these people from the nations, if God said that's what's
+got to be done, if you all believe that, doesn't it make sense that, you know, that's how it should
+also be now, that the Gentiles, people from the nations need to be obeying these laws of being
+circumcised? And this is the kind of the battleground that Paul is fighting at, where there are a lot
+of people who are saying, yes, of course, Scripture says, if you're going to be part of God's people,
+you've got to be circumcised, you know, obeying the laws of God, and associate yourself with the
+Jewish community. And Paul and others are saying, no, that's Act 1. We're in Act 2 now, and it's
+something different now. It's about faith, about faith in Jesus, and understanding the death of
+the resurrected, and understanding of what God's new plan is here. And Paul sees himself as having
+a vital role to play in carrying out Act 2, and carrying out that extending the message to these
+non-Jews. So Paul is persuaded, according to the Book of Acts, and even to send a good Paul himself,
+this is some omission that he receives at the time he accepts and recognizes Jesus as the Jewish Messiah.
+Paul does not stop being a Jew. In his mind, he believes he's a Jew to his dying day, but he's a
+Jew who believes that he's now living in Act 2 of the play, that God has brought a new era now,
+who he's not done with the Jews. He says, I'm proof of that. Look, I'm a Jew. You know, God's not
+done with the Jews, but he's doing something different. And a lot of the Jews don't see that,
+he's saying. So this is kind of the world of where the term comes from, the kind of ideological
+background. And in Paul's day, then, just to wrap this up, you know, for most Jews anywhere,
+the term ethnic simply meant outsiders, you know, people who are not part of our group,
+whether they live in Israel, whether they live anywhere else, and nobody would have understood
+it in any different sense in a Jewish community. Does that kind of get at the answer?
+Stephen, did you... Well, that leads us into question two, if you can articulate that,
+because we're going to start getting into the terminology a little bit.
+Yeah, because, I mean, this is a question. We're trying to wrap our heads around,
+you mentioned you die as the Jews. What's the difference between Gentiles and Greeks in Paul's
+letters? Because he specifies a little more technically with terms here. So we're starting
+into it. Do I need to bring up a visual on that, or is that... Why don't we bring up the second one,
+skip the first one, it comes to the second one for a moment, of the ones we wanted to show,
+the ones... Yeah, that one. Okay. A lot of people don't realize that there are these places in Paul's
+letters, where he uses the term Greek, the word Helene, or from the plural Heleneis,
+rather than this word ethnos and ethnated, we're talking about. And the reason they don't realize it,
+and as you see in these translations of texts, when the nearby standard version,
+often the difference is obscured by it being translated as Gentiles. And so, for example,
+in the second one there, Romans 2, 9 to 10, there will be trouble and distress for every human being
+who does evil, first for the Jew, then for the Gentile. Well, no, that's not what the text says,
+it says for the Greek, but glory and honor and peace for everyone who does good, first for the
+Jew, then for the Gentile. And people who viewers can take this and look at it later and look at
+them all. But the point is, when I was first... What first got me digging into this whole issue
+of ethnicity in the ancient world, when I was a young scholar, was... You can leave that up there
+while I'm talking. What first got me into this was recognizing that the word Helene and Heleneis
+meant something in the ancient world. Nobody was going around saying, I'm a Gentile,
+I'm a member of the ethne, or something like this. That was entirely a Jewish term used to refer to
+outsiders. But there were people going around saying, I'm a Greek. In fact, there were a lot of people
+going around saying, I'm a Greek. In fact, to be Greek was what even Romans and Jews aspired to be,
+to be a good Roman, an educated Roman, a respectable member of upper-class society
+didn't mean that you spoke really good Latin and that you knew all the Latin classics.
+It meant that you spoke very good Greek and you knew the Greek literature and you kind of knew
+Greek philosophy and could think and work within a Greek thought world. So also, even among Jews,
+those who were more the elite, the upper-class in the cities, like Philo Judea,
+so one of our famous writers we have a lot from in the ancient world in Alexandria, Egypt,
+a lot of adoption of Greek thought, of Greek language, etc. Because Greek, to be Greek, was like
+the great aspiration. And the Greeks, for their part, looked down on everybody else as barbarians.
+And that's where we get our word. The term was barbaroi and it means somebody who babbles,
+somebody who's kind of like saying, ba-ba-ba-ba-ba, and so you get barbaroi out of that term.
+So the Greeks, like the Jews, had a term for outsiders and they looked down on those outsiders.
+And I should say that by the time we get to the New Testament era, that is equally matched by Jews
+who have largely a negative view of the ethne. And there are a lot of these ferocious criticisms
+of the corruption of the ethne and their moral waywardness. And we're going to look at some of
+this as it comes to be reflected in Paul. So I don't have time to dig into this, but I will.
+Actually, I'm going to send Derek links to some articles that I've done that get into this in more
+detail. But in a nutshell, well, actually, before I give the answer, let me lay out the question a
+bit further, once I came to realize that Helene meant something and that people were going around
+saying, I'm a Helene. And people, in fact, wanted to be regarded as Helenes. I got to think,
+wait a minute, well, Paul uses that in his letters. Why? And the first time I ever attended the
+annual meeting of the Society of New Testament Studies, which is the International Organization
+of New Testament Scholars. I was here as a guest of Richard Hayes, not a member yet.
+I was working on this and I went around and asked a number of important scholars said,
+you know, I've been thinking about this question about Greeks and Gentiles. What do you think is
+going on with Paul's variation of language here? And to a man or a woman, they said, well, I just
+think it's just a linguistic thing. You know, August Tartus and Gentiles, who he says, Greeks,
+there's nothing really to be read into it. And that's why in these translations, reflecting that
+kind of idea, people just feel like they can translate it as Gentiles. And then I would say to
+them, well, yeah, but there's this whole background, you know, history of centuries of Greek identity
+and Greeks, you know, being something you are and you aspire to. And every one of them said,
+you know, I never thought about that. And I realized, okay, there's something here to dig into.
+And so this book I'm working on that will eventually, it's going to be a few years because
+it got some other things to write first. But in essence, he's laying out that Paul lived in a day
+when there was, well, he was the answer, the air of about a century and a half, really close to
+two centuries of interethnic hostility in Asia Minor, in North Africa, in Egypt, and Mesopotamia,
+between people who define themselves as Udioi, and people who define themselves as Hellenists.
+In the cities themselves, there were, particularly in the Roman world, the Hellenists would be the
+body of citizens who ruled over the city and established the norms of the city and everything
+was built kind of in a Greek way in, say, Asia Minor, for example. When the Romans came in,
+they deposed the democratically elected Greek leaders and put their own kind of oligarchic
+leaders in, in many cases, but they were still Greeks. And so the rulers, the practical rulers
+of these cities were Greeks. And one of the things they did was they wanted to have a common
+culture and common religious practice in the cities. And so they often tried to stop the Jews
+in their cities from carrying out certain of their practices, not because they thought there was,
+you know, they were religiously intolerant, because some Jewish practices were called social
+problems. For example, they refused to go to court on the Sabbath because it was their day of rest.
+They didn't want to serve in the military because gods, pagan gods, were worshiped there.
+They had a special temple tax they paid every year to go to the temple in Jerusalem,
+and there were times when currency was scarce in the cities. And the fact that these Jews were
+accumulating these massive treasures and sending off out of the country was seen as undermining the
+financial wear with all of the city. And not to mention the fact that these Jews, by refusing
+to worship the gods of the city, were causing those gods to be angry with the people and to bring
+curses rather than blessings to them. So various efforts were made to stifle and put an end to
+Jewish practices. And interestingly, the Romans intervened in every case on behalf of the Jews.
+The Romans respected the antiquity of the Jewish religion. They had a certain admiration for its
+monotheism. They didn't hold it themselves. And so there was this animosity between Greeks and Jews,
+because they, you know, the Greeks felt like these Jews are just sticking the mud, screwing up our
+society. And yet the Romans are intervening on the side of the Jews, who also believe their
+superior to and better than Greeks. And so there's this whole background here. And one of the things
+I want to argue as we get into this is that when Paul is using the language of Jews and Greeks,
+he has that ethnic hostility in mind that he doesn't, well, it's a subset, in other words,
+of his compass language about Paul, about Jews and Gentiles. So I'll say more about that as
+we work through here, but it's just good to open up the topic here and let people see this.
+So to look at the previous slide. Yeah, let's go back to the other one. Okay. Well, no, actually,
+I'm going to get this C. I did want to ask, so you're telling me Paul doesn't have an 800-year-old
+issue in mind when he's talking about things in the 50s in the first century AD?
+Not the Greeks. Actually, part of what I said here has been getting into the next question,
+but I will use this. Yeah, let me hold off and leave that slide up there and we'll come to it
+as you move on. Let's hold off a second about transitions next slide. Do y'all want to
+ask questions or comment on anything I've said so far?
+I guess it's good to just establish when you talked about Eudios, it seems a transition
+historically happens where the people who are called the Jews or they are being called themselves
+or Eudios from Judah become the technically kind of replace the house of Israel, in a sense.
+There also is this eschatological view that the lost brethren from the kingdom of the north,
+from way back in their mythology, if you will, that one day, and it's not that it didn't happen
+historically, it becomes their mythos, that one day they'll come back. But as Josephus mentions,
+their way out here beyond the Euphrates, it's almost like he has an idea that they're out
+there somewhere, but we don't really know where. They're just out there in numbers,
+not in Rome. The question is, doesn't the term or the people called Jews become Israel? And so at
+this point, when you're talking about the people of God, other than the imagination of people
+that they believe are somewhere out there, Israel becomes Jews in the mind of Paul.
+Essentially, yes, I think I'll nuance that a little bit. In the Hebrew Bible, the oldest term
+used is Hebrews. And it's often thought that may derive from the name, a term that sounds similar
+to that for some people groups who were migrating from Mesopotamia around the time that Abraham,
+supposedly, came from there. And so Israelites becomes a term when you've actually got a
+nation called Israel, a people group there that needs a name. The land itself is called,
+it's not called by, it's originally called Canaan. And so it gets complicated because the word Israel
+then can refer to the physical territory. Once they divide into a northern and southern kingdom,
+they can refer to only the northern kingdom. Israelites can be only the residents of the
+northern kingdom. They can refer to everyone claiming descent from Abraham. And so the terminology
+is fluid and fuzzy. There never was a time when the term Israelites meant only the residents of
+the northern kingdom, which is a point worth noting. And so when the northern kingdom is
+conquered by the Assyrians in 722 BC, those who were not killed off the primarily the elite
+took carried off to Mesopotamia and basically disappeared from the pages of history. The people
+who stayed, there are some later on the people of Judah, the southern kingdom. Once the Israelites
+have gone, the whole area comes to be called Judah. And so once Judah is conquered by the
+Babylonians in 586 BC and their leaders appeared off to Mesopotamia, they are the ones who return
+after the exile is called 539 BC. Did that include some of the residents who had originally
+descendants of people originally exiled by the Assyrians? Perhaps. Although Assyria is in the
+northern part of Mesopotamia, Babylon is the south, it's not impossible. But there's no,
+the best we can guess is that those people in the northern kingdom just blended into the
+Mesopotamian people and lost their identity. And so after the exile, the Persians call this area
+Yehud, which is just a Persianization, if you will, of the word Judah. And then the people of
+that whole area, north and south, all of it is called Yehud. And the Eudioi then are the people
+who live in this whole area that we today would call Palestine or Israel. But the term Israelites
+doesn't disappear because that is their, you know, they read their Bible, they see themselves referred
+to as Israelites as Hebrews. And so they can still apply those terms to themselves. So that's
+why I don't want to say it replaces Israelites. But in terms of the common practical day-to-day
+usage, most people would have called themselves Eudioi, but they would have recognized that
+Israelites is a term they could use. So Paul himself in 2 Corinthians 12, when he's kind of,
+2 Corinthians 11, when he's combating these people he derived to super apostles, he says,
+Are they Eudioi? So am I. Are they Israelites? So am I. And he refers in front of Philippians 3,
+he refers to himself as an Israelite from the tribe of Benjamin. So Paul doesn't abandon the
+term Israelite. And when he's talking kind of biblically, if you will, about, you know,
+scriptural stuff, he will call Israel, he will use Israel as a term for the Jews,
+because they are the descendants of Israel. So we have to be careful not to straightjacket
+any of these terms. That's my fundamental point here. None of them have got kind of a
+pre-packaged set of meanings that you can then import into any other situation that you want to.
+You have to look at how language is actually used and not just think that words carry a fixed
+meaning and they always have to have that meaning wherever they occur. Does that answer the question?
+Oh yeah. Oh yeah. So you think we should go get into that, that image that we had up briefly?
+Yeah, that'll be part of my answer to the next question. So if you want to transition to the
+next thing we want to talk about, would you like any more questions or comments about anything I've
+said so far? I think it's interesting. I think the number one thing, and this isn't a question to
+you, it's just for our audiences, that tracking along is what we need to stop doing, I think,
+that is harming us in our understanding of this stuff is we need to stop like having this airplane
+view that the Bible tells you what the Bible means just by reading another passage somewhere else.
+This is a common harmonizing tool that we hear within Christendom. And I think it's a really bad
+practice if we're really wanting to understand historically or the reality of trying to glean
+what someone means. So when you talk about Helen is, or you talk about the Greeks, or you talk about
+this, like, you're going to not only the Bible, you're going outside of the Bible around the time
+of Paul to understand the context of what is actually happening on the ground in this time period.
+You're not running to Greek literature from 200 BC and 300 BC to really get what Paul's saying,
+not saying we couldn't understand something from it. But if we're going to get it, you got to go
+to Paul's day to really try to wrap our heads around. And so I'm following you there. The question
+we have now is, what do scholars mean when they talk about Paul's Gentile problem?
+Yeah, before I get into that, I'll just add one point, an example to what you just said.
+I have a friend from India who, when he's made this point about how language changes, and he says,
+so when I was growing up in India, you know, we talked about having a gay time and gay was just
+a normal word we used. And he said, obviously, that's the word that's changed meaning, and it
+really carries virtually nothing of that earlier meaning forward. We don't somehow think that
+people who are gay in the modern sense, that is homosexual, are somehow gayer or happier
+than other people are. So just an example of how the meaning of a word depends on its usage
+in a particular social context, and a particular linguistic context, and can change. And so we
+have to keep that in mind when we're looking at the Bible and history. And I think the problem
+with this, the reason it gets so abused is that most Christians, including most pastors,
+know little or nothing about the historical background of the Bible. And so they don't have
+the knowledge to be able to situate these texts and this language in a real social world of practice
+and lived reality. And of course, if anybody is listening to my other slide, other interviews,
+you know, I just kind of unpacking the kind of social environment and setting. And that's what
+I'm about to do in talking in relation to this question about Paul's Gentile Problem.
+As anyone who has ever been around Christianity probably knows, at least in Protestant circles
+and since the Reformation, the general understanding both in churches and in
+scondally circles has been that the central theme of Paul's writings is justification by faith
+in Jesus Christ. And like that is the core of his thought that everything else kind of is
+subordinate to and supports that idea. And you can unpack what that means. But fundamentally,
+it means that the centers are acquitted or forgiven by God on the basis of faith, which
+needs to be explained. What does that mean? And not on the basis of like obeying the works of Torah,
+that is the Jewish laws or anything like that. But as soon as I said, by works of Torah, I'm
+already introducing the subject that doesn't often come up, you know, in Christian church
+circles. Well, why is Paul emphasizing this? What's over against another whole system?
+And what Paul is dealing with here has been recognized in the last, say, 30 years by scholars
+as being more central. That is, justification by faith is a part of Paul's answer to a bigger
+question of what is the place of Jews and Gentiles in God's plan for humanity? I mean,
+for Paul, as a Jew, thinking as a Jew, you know, he has a certain presuppositional understanding
+of reality that has said earlier, we Jews are the special chosen people of the one true God,
+Yahweh, who made everything and sustained everything and everything revolves around us.
+And so as I said earlier, if they believe God's something new, what does it mean about the old
+stuff? And so justification by faith is part of the way Paul is dealing with that. So you'll find
+in Pauline scholarship these days that people will generally want to start by talking about the
+Jew Gentile issues before getting into the justification by faith question. And in Paul's
+status, we find that most fully explicated in chapters nine through 11 of Romans, where he
+gets into all kinds of biblical quotations and interpretation about what's God doing with the
+Jews and with the Gentiles, etc. And I think most Christians ignore those chapters. It's either seen
+as, you know, two down in the weeds or completely irrelevant because we don't care about those,
+you know, those things don't matter anymore. Whereas now you'll find most scholars say that
+Romans nine through 11 is the heart of Romans. That's the most important part of Romans,
+and it's presupposed. And the rest of his letter, we'll get to that and we get to looking at some
+texts. So again, for Paul, then there's some kind of a problem surrounding Gentiles. And
+traditionally, the answer to that, what is what do you mean by a Gentile problem? It's
+this question about this kind of intellectual and theological question that Paul has. Okay,
+I'm a Jew. I know that Jews are God's people. Where do I shoehorn the Gentiles in now? How do I
+make sense out of this new thing of God? And that's certainly one part of the issue. Paul has
+an intellectual, a theological question he's got to grapple with as a Jew to see how does all this
+new stuff fit into me still being a Jew? Definitely one part of it. But I want to argue that there
+are actually at least four elements, four different aspects to Paul's Gentile problem. That one is
+the ideological one, but the others most Christians don't know about. A second one is a political
+problem that he faces. As I said earlier, Jews receive special favors and protections from the
+Romans in Greek cities. And so, as I said, there were tensions that have a political quality in
+terms of political in the sense of whose norms guide what happens in the polis, the Greek city.
+And because Jews had special protections, they were able to practice their religion freely.
+And when Greeks got in the way, the Romans, as I said, could intervene. But the Christians
+don't fit into that category. At least the Romans were always worried about new groups.
+They're worried about people who meet in secret. They're worried especially about people
+who claim to worship somebody as a Son of God who brings salvation to the nations,
+because that's exactly the language it was used to describe the emperors. Augustus was the Son of
+God who came at the right time accompanied by supernatural signs of his birth. He's called
+Lord and he is to bring salvation to the nations by conquering them and bringing them into the
+into the Roman sphere. And so, when you're using this language associated with Roman domination,
+you make yourself look very subversive and to reinforce all the fears. And so, one of the
+issues going on on the ground in this desire of some Christians to be, and I'm using the term
+Christians, they didn't call themselves Christians at that time. Most scholars with today will say
+followers or something like that. I'm just going to keep saying Christians with the understanding
+that this is a modern term so we can, you know, that's where people will understand.
+So, these Christians who wanted to be circumcised and obey the Jewish laws, this wasn't just a
+theological issue, looking back at the Old Testament saying, Abraham said that not only
+your descendants need to be circumcised, but also the slave, foreign slave, born in your house,
+etc, etc. That isn't a real social problem. We don't want to get persecuted. We want these
+Romans to think we're Jews so that we'll have protection in the social and political level.
+And the Jews are like pushing them out saying, no, no, you're not us. You got all these other
+crazy ideas. So, it's a, there's a political issue involved in wanting to be circumcised and obey
+the Jewish laws, not just a biblical or theological question. A third type of
+category issue that's going on is one that I might call a social one. Paul, as I said,
+is engaged in creating these little groups of followers in these cities, you know, might be
+10, might be 50. When Paul's writing a letter to the Corinthians or the Romans, you know,
+he's not writing to a people who meet in a church building out front, you know,
+the first Baptist church or Rome or something like that. He's writing to a group of people who
+are trying to figure out what it means to be followers of this Jewish God in this Greek world
+and they're meeting in somebody's living room or in somebody's workshop or something like that.
+And Paul is clearly convinced in the very beginning that God's only got one plan in this
+attitude, faith in Jesus. It applies to Jews and Gentiles. So, you know what people, you got to get
+along because God's not going to have a Jewish community over here and a Gentile community
+over here or a Jewish community here and a Greek community and a Roman community and, you know,
+ethnicity is not going to determine, he's got this socially radical notion of an
+inter-ethnic community where those hostilities don't exist and we're also social hierarchies.
+We can do a whole program on that, but kind of host social rankings and priorities don't apply
+either. This was completely radical and subversive. And so, basically, he's got to figure out how do
+I get these, especially these people who identify as Jews and Greeks to get along because they got
+this long history. And it's like, I grew up, as I think I might have told you all before,
+I grew up in Alabama before and during the civil rights movement. Yes, I am that old.
+And, you know, I grew up in a world where there were clear social pecking orders, you know,
+white people go on the top, black people on the bottom, all kinds of social derogation.
+And so, there were a few people who tried to build multi-racial churches in the South,
+particularly the guys who ended up founding Habitat for Humanity. There was a black and
+white church called the Coinonea Fellowship in Georgia. And they were subject to all kinds of
+abuse from the surrounding community. But they also had to work out, what does it mean to be
+black and white together on an equal basis in this church when everything we've ever known
+tells us that that ain't so? Now, if you just add to that, if you could add in, if you had a world
+where black people also thought they were superior to white people, then you get the kind of social
+tensions that Paul is dealing with. So he's got a very practical question of what kind of practices
+and teachings do we need to have for these Jews and Gentiles, these Jews and Greeks,
+to get along with one another in these real-world gatherings that meet in somebody's living room.
+And then finally, I would say there's a missional problem. It's kind of overlaps with the ideological
+issue. Paul has faced a real-world fact that as he, as a Jew, has gone out preaching to Jews
+about Jesus being the Messiah who's come to fulfill their scriptures, you know what's happening?
+Most of them are saying, I don't buy it, Paul. And on the other hand, once they start going out,
+and this is before Paul, preaching the same kind of a message tailored more to Greek world,
+they sign these Gentiles, these Greeks, these Romans, these Galatians, these, you know, whatever,
+are saying, hey, that's good. And especially the ones who are already attracted to Judaism.
+There were people outside the Jewish world who admired Judaism. They attended the Jewish synagogues
+and adopted some Jewish practices without becoming full Jews. They became vital to the spread of
+Christianity into the non-Jewish world because they basically already wanted, knew about and already
+wanted what the Jews were offering. But Paul's basically, in their mind, coming along and saying,
+you can get it cheaper. You don't have to be circumcised and obey the Jewish laws. And you
+don't have to therefore look weird when you go to the baths and you're naked. And people say,
+ha, something's different about Joe today. You don't have to be disassociating yourself from
+your family and all by doing these weird Jewish things. And so, you know, they become attracted.
+And so Paul then is trying to have them at the balance. What do I do here? You know, Gentiles
+are responding to my message. Why are they responding? Why are they getting this? And why are the Jews
+not responding to my message? And he grapples with this a lot in Romans. So all four of these kinds
+of issues are problems that Paul is grappling with in his letters. He doesn't say clearly,
+okay, and now I'm dealing with number one. Now I'm dealing with number two. It's kind of a
+conglomeration. And so after when we finish going through some texts, I'm going to come back and say,
+how do Paul's arguments address each of those four kinds of aspects of his Gentile problem or his
+Jew Greek problem? Because that's a subset of the Jew Gentile problem. A comment question here so far.
+Stephen, can I be sarcastic for a second here? No.
+So Dr. Stanley, you're telling me Paul isn't imagining these Hellenades to being secret
+lost Israelites? It's like, how would you respond to that if I told you, well, aren't these Greeks
+just secretly lost ethnic Israelites who are literal descendants of Abraham? Would that not
+sound very strange to you after you're studying all of this material?
+Yeah, maybe it would be, maybe the closest parallel that comes to my mind is,
+I actually have some Native American background, but not much. Imagine somebody who isn't,
+doesn't have it, and they go to a Native tribe and they say, you know, my ancestors are the same
+as yours. You know, we're Natives too. Look, I've got this story I can tell you how, in fact,
+I don't want to, maybe I don't want to be too controversial, but in essence, the Mormons
+are in essence saying to some degree, there's this lineage and linkage with Native Americans.
+And you know, Native Americans say, screw you, you know, you don't belong here. They're trying to
+create a completely new meaning for being a member of this, that and the other Native tribe.
+They would make absolutely no sense to anybody who actually normally bears that name. And it's
+the people who bear the name who get to define what it means. And people, both they have a certain
+term and people outside know them by that term. That's pretty well conclusive evidence. This
+is what this term means. And so with Greek, back to that again, everybody knew what Greek meant.
+Everybody knew what you Dios meant. I mean, these were very clearly delineated ethnic categories in
+the ancient world. No question in anybody's mind about what those terms meant. Whether you were
+Jew, whether you were Nibir, where you live, no matter what you are. Without a doubt, they were
+Israelites then. Okay. Well, but the confusion, but the confusion stems from people maybe not
+understanding what ethnic referred to in a Jewish context because you have to say that from an,
+you know, an insider perspective, from an insider Jewish perspective that everybody else
+is considered ethnic. Yeah. And if I just complicate matters further, one point I didn't make out,
+there was somebody else who referred to outsiders as ethnic, the Romans. The Romans talked about,
+referred to the nations as being, as I said earlier, the ones to whom they're bringing salvation
+in the sense of a political sense, they would say. And, but the Romans have this weird thing
+with regard, their bifurcation is not as sharp. Oh, we need that slide back up, because I need
+to say something about this bifurcation. The Romans did not make a clear bifurcation between
+themselves and others because they wanted to be Greeks. And so they didn't quite, and the Greeks
+referred to the Romans as barbarians. And so the Romans are this kind of trying to carve out
+this third category in a sense for themselves. And so they would call the Greeks and the Jews
+all members of the nations. And yet they also themselves wanted to be Greeks. So for them,
+it was really kind of muddy. One point I didn't make that's important to understand as we start
+moving into the actual text, is that Paul consistently defines reality, the reality of the
+world of humans in a bifurcated way. Other Jews did not do this. Let me repeat that. Other Jews
+did not do this. It's often said, well, yeah, Paul divided everything into Jews and Gentiles or
+whatever, because he's a Jew. Well, no, I mean, Josephus refers to something like 40 different
+people groups, ethnic groups. He's aware that there's ethnic diversity in the ancient world.
+Other authors were as well. Paul shows no recognition of any ethnic group outside of Israel as a group
+other than Galatians. There is, I'm sorry, other than Greeks. There is, I did a paper that will
+feed into my article here with in Asia Minor alone, the first century BC geographer Strabo
+identifies somewhere, I think it's in 40 to 50 different people groups in the area that we think
+of as Turkey. So Greeks define everybody in one way. Some Jews did. But look at what Paul does.
+He is constantly using dividing the world into Jews and Gentiles or Israel and Greeks or circumcision,
+uncircumcision, those underlaw, those without law, and now we've got an error. Okay, there's something
+wrong here. The unbelievers in Judea should be on the other side. I'm sorry, no, I'm wrong.
+That's right. He refers to as a Christian, he refers to Jews as the unbelievers in Judea because
+they're approaching getting Christians. More often the unbelievers refers is his term for non-Jews
+and he refers to my flesh. The key point is not knowing all these terms, but it's knowing that
+in Paul's thought world, in Paul's ideology and his way of making sense of and answering
+all these questions, you have to be either a Jew or to use the most broadest term, a Gentile.
+And so he ignores all these other identities. If you're a Galatian, you have to recognize you're a
+Gentile too in order to be part of God's plan. If you're a Pamphylian, you got to adopt this Jewish
+term of being part of the nations and in order to find your place in God's plan. If you're a Roman,
+you got to understand yourself as a Gentile. So in some sense, for Paul, Gentile or the nation
+serves as kind of an ideological category for placing all non-Jews in God's plan. And if you
+want to benefit from God's plan of salvation, you got to recognize your Gentile centers,
+as he says in Galatians chapter two. So we might come to that and we're looking at the text,
+but I just want us to be clear about what Paul is doing here. It's not something just Jewish.
+It's a Christianized version of one pattern that's seen in the Jewish Scriptures that other Jews
+don't necessarily do or share. Paul uses the barbarians here. Can you tell us why he uses
+that language briefly? And then another thing is there are some who might hear you use this term
+Gentile a lot, like the way you refer to Gentiles. Sometimes you emphasize after, I mean the nations.
+Because they don't like that word Gentile. They're like that Gentile is anachronistic and it doesn't
+have any bearing at all on Paul's original use. So yeah, and I'm glad you brought that up because
+I hadn't said that. If you look through the actual texts in Paul and also the entire New Testament,
+what you'll find is an ambiguity about the way we today would render that term. In some places,
+it's clearly referring to nations in the sense not of nation states. They didn't have nation
+states the way that we do today, but people groups who have their own social and political
+structure and identity. So sometimes it's referring to a collection of nation groups like that.
+Other times it's just a broad brush, all-encompassing term for anybody who is not a Jew.
+And in still other places, you really can't tell. It could be used either way. So I probably should
+to want to confuse people very well, go back and forth when you're saying the Gentiles and the
+nations. But do keep that in the back of your minds that Gentiles, when we use it as just kind of a
+technical Christian term, but in the background, when Paul's using it, you need to keep hearing
+these echoes of the non-Jewish nations and people groups out there who sometimes can be
+identified, looked at as multiple nations and peoples, even if Paul doesn't speak about it.
+And then when other times are an undifferentiated mass of sinners who are not part of the people of
+God. Barbarians, you asked about, Paul uses that one place in Romans one is adopting a Greek
+world mindset for a moment. He says, I'm indebted to Greeks and barbarians. And we'll look at that
+text in a minute. The other one is in Colossians three, where the author, arguably maybe a reason
+for saying Colossians might not be Paul or might not be at least linguistically, is because he
+doesn't say just neither Jew nor Greek, male nor female. He also says, nor Scythian, nor barbarian.
+And these are categorical terms that appear nowhere else in Paul's kind of thought world
+and would really seem to be rather foreign to Paul's way of framing. We're going to get to that later.
+Yeah, I would add that, you know, we didn't, it's outside the scope of our examples, but, you know,
+Philo does this in, on Moses book two, where he has Greeks and barbarians, Greeks and barbarians,
+like there's the whole world, but the world is divided between Greeks and barbarians. And it's,
+you know, he's doing, it seems to me like similar things to what Paul's doing.
+That is a great point, because Philo, who's a very Hellenized, very Greek guys, you might say,
+Jew in Alexandria, around roughly the same time as Paul, he adopts a lot, much more of Greek thought
+and Greek categories. He's very influenced by Greek philosophy. Yes, it's very common for him to
+talk about Greeks and barbarians. He also can talk about Jews and Gentiles. So he's kind of
+maintaining both of these kind of exclusive categories and trying to kind of wear them both
+at the same time. He's both a Udaios and a Helene. And so he feels like he could shift from one of
+those identities to the other. Ethnic identities are fluid. You can move between one and another,
+depending on, you know, the time and the circumstances. So, you know, there may be
+circumstances where someone, an example I use is someone who is, say, a member of a native tribe
+in Latin America. In one context, might identify themselves as Kicha. In another place,
+they might identify themselves as Guatemala. In another context, they might accept the idea
+they're Central American. In the United States, they're probably going to get called Latino or Hispanic.
+And depending on what they want to accomplish by their self-designation, there might be some instances
+where they want to kind of claim unity with others. They might accept this Latino or Hispanic
+category. Other times, they want to make, you know, their ethnic or their national pride. I'm
+Guatemala. I'm Kicha. And so, ethnic identities are not fixed categories. They're malleable,
+they're diverse, and most people have more than one or many people have more than one of them,
+and they can shift from one to the other. So, I'm glad we get to bring that up. We can't
+have time to get into all the background and anthropology of the term ethnicity, but this
+is essentially the common social scientific understanding with ethnicity there.
+All right. So, we're going to go on to the first example. Should I slide over?
+Yeah. So, let's actually look at some texts. Okay. Romans. So, in essence, in order to,
+the place where Paul grapples most extensively and continuously with God's plan for the Jews and
+the non-Jews is in his letter to the Romans, and we could talk about why if you wanted to,
+but I'm not going to get into that. Let's just accept it as a given. And so, in order to explicate
+Paul's answer to these Gentile problem or problems, as I was saying, we've really got a Yorkie way
+through most of Paul's letters to the Romans. We've got some of the key verses on slides here
+for our viewers to be able to follow along. I'm going to read or summarize others along the way,
+because you just don't want to have all of this up on slides and boring you to death with them.
+But I want to highlight some and hit others rest separately. So, at the beginning, the very beginning
+of this letter, Paul is writing to these Christ followers in Rome, and he is explaining that he
+has often wanted to come see them. He says in the fourth line, so that I may receive, reap some
+harvest among you, just as I have among the rest of the Gentiles. If we pause just a moment,
+you can see from Paul's language here that he categorizes Romans as part of the Gentiles,
+and he categorizes the Gentiles, or the nations, as his missionary field. At the very end of Romans
+15, he talks specifically about, he's been commissioned by God to spread the message about
+Jesus to all the nations where Jesus is not yet known. And so for him, it literally seems to have,
+in one sense, this nations, not just Gentiles in general, but literally he's got to go to all the
+different physical territories. So he says, now now about to go to Spain, because that's another
+nation, another people group, another place where Jesus has not yet been preached. And so there's
+one sense in Paul's mind that the word ethne literally means, he says, I've already preached the
+gospel from Jerusalem all the way to Illyricum on the west side of Greece. Now the time has come
+that I got to go to Spain, but you know, Italy's right there in the middle. So I need to come there
+and have some fruit here among you, win some people to Christ, in order to fill my God-given
+mission to literally make believers in all the major nations of the time, the major people groups
+of the time. And so he says, I've got to come there. So I'm going to, in order, that's why I'm
+eager to preach the gospel to you in Rome. I've got this mission from God. So again, here's a great
+example. In Paul's mind, there's certainly this distinction of nations as places that are not
+just an undifferentiated mass. You couldn't say, okay, I've been to Turkey, I've preached some Gentiles,
+I'm done. You know, I've fulfilled my commission, I reached some Gentiles. There's this geographic
+and this ethnic element also to his mission. Should I read this one for anybody who might not
+be able to see what we're looking at? Ted again? Should I read this example for people who might
+just be listening? Oh, you think there are people who, oh, because if he might be listening and not
+watching, they might be in traffic, you know, they're going to look at their screen, get in a
+car accident. Before you get into this, before you get into this, though, I just have one more
+quick statement. I heard this from Dr. Crossen recently after interviewing him and a few other
+people have kind of mentioned this. Paul seems to kind of fly through the empire. I mean, like
+people are like, how is he getting through it so fast and assuming his mission is accomplished on the
+east side? And Crossen said, he thinks that Paul is engaging, potentially the tradition is, he's
+gone to these synagogues, but he's engaging with the non-Jew, the God-fear. So Paul, I don't know
+where to stand on this, but you know, who mentioned earlier that it was the God-fears, these in-between
+people who were really non-Jews, but they were like, attracted to monotheism and Judaism and whatnot,
+who really were the ones who are successful in taking the gospel into the pagan pagan, if I can
+in the world. So Paul's already got a half pagan, half, I want to be a Jew. And he's working with them
+at all these synagogues, which is why he's able to blast through the empire so quickly. Maybe he's
+writing to Rome where there's Jew and these God-fears. What are your thoughts of that? Do you think
+he's engaging with God-fears, mainly? Actually, in the Romans question is a bit more complicated,
+because this is, he's writing, the only letter that's written to a group of people he did not
+establish and has not visited. And there are a lot of debates. Traditionally, the answer has been,
+he's writing to a mixed audience of people who are non-Jews and who are Jews, Stanley Stowers,
+about 15 years ago, forcefully argued against that in his book, Pre-Reading Romans. And probably,
+he's had a massive influence in people saying that Paul's audience here is, predominantly,
+if not exclusively, Gentiles. And then he writes about Jews. It's in order to shape the
+self-understanding of Gentiles and their understanding of God's plan,
+of which the Jews are a part. And I think there's a lot to be said for that. I'm a bit agnostic on
+the point myself, but generally speaking, I would agree entirely with what you were saying. Paul is
+an urban person. He grew up according to the book of Acts in Tarsus. He spent all his life in cities.
+As weird as this might sound to us, you can preach in the cities, you're done. You've established a
+community there. Whether he actually thought the job was done, because he just didn't engage with
+the countryside, or more likely, if he just assumed because of trade and communication,
+it would spread outward from there to the countryside, which is probably more likely,
+and that's what actually happened. Either way, once he's got a little beachhead established in a city,
+he feels like he can move on to the next big city. And that's why in Acts, it's always cities.
+You never hear anything about him preaching in some village somewhere,
+or grabbing some farmer off the side of the road, or something like that.
+Or wasting his time when he shipwrecks on this random island, and all the people there,
+like Steven's brought up in the past to me, and he's not even wasting his time with these guys.
+Yeah, like the episode in Malta is a little more...
+Yeah, that's a different one.
+Yeah.
+That wasn't part of his plan, but you're right. That's one example. It's almost the
+exception that proves the rule.
+Because he doesn't evangelize them, right? He just moves on.
+In fact, interestingly, that is the one place in the Book of Acts in that story
+where the native people are called barbaroids, barbarians.
+That's a good point.
+Wow, cool.
+So clearly from the standpoint of Luke or whoever the author is, these people are men-natives.
+They are the ones who would be the real barbarians that everybody would agree.
+They are just uncouth, unsophisticated, rural people who don't really deserve the time of day.
+I just wanted to roll that red carpet out as you're diving into this text,
+that when we think of Gentile, when we think of Ethne, when we're thinking of this,
+he's not writing this like they don't at least have a grip on something.
+They got to know something.
+He wouldn't be writing all these scriptures to these people.
+Let's go with your friends, the other academic that you mentioned,
+saying he's writing to these Gentiles. These are Ethne.
+They had to have been around synagogues or something, right, to learn the scriptures.
+So these would have probably been Godfair, Ethne?
+Well, at some point, the most common explanation, it's come into a lot of fire in recent years,
+the kind of classical explanation was that in 49 AD, there's, I don't know if you're
+Suetonius, one of the Roman authors speaks of Claudius exiling the Jews from Rome because
+of trouble that was being made. And it is kind of classical answer was, well, it began among Jews,
+but then the Jews here included the Jewish Christians. And by the time we come to Paul,
+those Jews either have not come back or they've come back, but they're a small proportion.
+In fact, some of the later things in the book of Romans about the strong and the weak
+are often read by people as the strong here are the Gentiles and the weak are the Jews who are
+more scrupulous about various kinds of eating and foods and observances and things like that.
+Both the historical framework and the linguistic use there have come into a lot of fire in recent
+years, but I think it would be fair to assume that somebody, and we don't know who, probably began
+there enrolling the synagogue. Tradition, of course, as it was Peter and that he came there as a Jew
+and, of course, would have begun in the synagogues. Who knows? It may even be some truth to that, but
+most likely that seems to be the constant pattern that they begin in the synagogue and work outward.
+I don't think that is just a literary creation in the book of Acts, which is sometimes has been,
+a lot of times been argued by people that, you know, Paul didn't go to synagogues,
+Paul only cared about the Gentiles. Now, I think there's ample indication in Paul's letters too,
+when he talks about, you know, about his heart's desire for his people as if they'd be saved and
+talks about he becomes like a Jew to Jews and like a Greek to Greek, so he might win some,
+you know, whatever they are, Jews or Greeks. I think there's ample evidence in Paul's letters
+that he didn't give up on Jews, but he, you know, his actual success was primarily among the Gentiles,
+among the non-Jews, and I would bet, I would guess that was probably the norm everywhere.
+Because after all, you come to a city and say, hey, Jesus is a Messiah, and they say, great,
+what's a Messiah? He's a son of God. Which God? You know, these, the kind of terms,
+the basic terms that these Christians took for granted are so deeply rooted in Jewish
+understanding that you've kind of got to have some familiarity with Judaism to even,
+for it to not sound like you're speaking Martian. Thank you for that. So is it, is it worth reading
+this for anyone who's not Martian? Yeah, go ahead. Yeah. Okay, so Romans 1. Romans 1, 13 to 17, yeah.
+I do not want you to be unaware, brothers, that I have often intended to come to you
+and have been prevented thus far, so I may reap some harvest among you, just as I have
+among the rest of the Gentiles. I am under obligation both to Greeks and to barbarians,
+both to the wise and to the foolish. Thus I am eager to proclaim the gospel to you,
+also who are in Rome, for I am not ashamed of the gospel, for it is the power of God for salvation
+to everyone who believes, to the Jew first, and also to the Greek. For in it the righteousness
+of God is revealed from faith for faith, as it is written, the righteous shall live by faith.
+Great, thanks Stephen. So I'll make a couple more comments. I commented already about the Gentiles,
+about the Greeks and barbarians. Paul is just, you know, he's writing two Romans who already are
+very familiar with that distinction of Greeks and barbarians, so he's basically kind of using
+a reference that they understand arguing on their turf at that point. But this last part,
+it's always been problematic for a lot of people. Wait a minute, wait a minute. Why does he say
+the Jew first and also to the Greek? And not only, it does say the Greek, not the Gentile. Okay,
+what about people who aren't Jews and Greeks? I mean, does God not care about them? So it's a
+passage. It's been one of the reasons for saying, obviously, Greek must mean Gentile,
+because after all, Paul obviously has to mean to the Jews and to the Gentiles.
+So two problems, you know, one, that's not what he says. He says Jew and Greek. And then two,
+what do we do with this Jew first and also the Greek? Well, is it simply that Paul is
+ethnically a Jew and just kind of presupposes Jews are better than Greeks and, you know,
+Jews are closer to God and they get first shot, first dibs at what God is doing.
+In other words, is this a matter of reflecting Paul's own ethnic prejudice, if you will?
+Most people don't go there. Most people would say, well, maybe the fact that he did, as you said
+earlier, they went to the synagogues first. And so in that sense, just historically, it went to the
+Jews first, and also to the Greeks. Well, could be. But as we're going to see in our next slide,
+we come over to Romans chapter 2. In fact, why don't you go ahead and flip to that one.
+He also says there will be tribulation and distress for every human soul who does evil
+to the Jew first and also to the Greek. Oh, great. Jews get to go first in punishment too.
+So obviously, there's not something here that is saying ethnically, Jews are better because,
+you know, you would say if that was the case, the non-Jews ought to get the punishment first and
+worst. So something is going on, if we flip back to the previous one then, that more likely probably
+has to do something that God's plan began with the Jews. And so God's plan then is to be, you know,
+if you believe the Hebrew Bible, the Old Testament stories, to be the true story of God's plan in
+human history, then God's plan has always come to Jews first and then branched out from them to
+non-Jews. They get first dibs on the gospel. Huh? They get first dibs on the gospel. Yeah, exactly.
+Whether it means that they get preached to first as in synagogues, or whether it means just
+historically they knew more, they had the roots, it was all oriented to them and radiates outward
+from them. I think either of those would be plausible readings. But he goes on then and next
+one to say they're also more responsible. And so he develops in chapter two that those who are,
+they're circumcised and have the law, God's going to hold them more responsible for not doing the way
+God wants. And he does those ignorant Gentiles who might have enough knowledge in their own
+consciences to follow the right way, but they don't have the knowledge. So the greater knowledge
+is greater brings greater responsibility. And so there seems to be what's going on there.
+Should I read this one quick too? You already made my comment. I don't want to jump into that one
+yet. I just want to jump to it for a moment. I want to say a couple of quick words before we get there
+about where Paul goes then go back to the previous one just to leave it up there. So he ends by saying
+in it that is in the gospel, the righteousness of God, God's righteous judgment, God's righteous
+standards, different ways of looking at that is revealed from faith for faith. It's all about
+faith. I won't try to unpack that. The righteous shall live by faith or the Greek could also be
+translated the one who is righteous by faith shall live. And that becomes the theme of the whole
+letter is this been the whole letter unpacking what he means by that. But he seems to get there,
+seems to not be going there when he goes the next verses. He talks about not about the righteousness
+of God in the sense of the gospel and salvation, but rather about the dark side. He says, well,
+the wrath of God is revealed from heaven against all ungodliness and wickedness of those who by
+their wickedness suppress the truth. Who does he mean? Those who by their wickedness suppress the
+truth. It goes on to say, what can be known about God is plain to them because God has shown it to
+them. Ever since the creation of the world, his eternal power and divine nature and visible that
+they are have been understood and seen through things he has made. So they are without excuse.
+Whether the new God, they should have known about him, they did not honor him as God or gift
+thanks to him, but they became futile in their thinking and their senses minds were darkened,
+claiming to be wise, they became fools. And here's the key point. And they exchanged the glory of the
+immortal God from images resembling a mortal human being or birds or four foot in the animals.
+And they exchanged the truth about God for a lie and serve the creature rather than the creator.
+In other words, anybody who doesn't worship the right God is under God's judgment.
+It doesn't sound pretty intolerant today, but that's what he says. And so the fundamental idea is God
+can hold all these other people responsible because they should have been able to know
+there's an almighty and good creator simply by looking at the world God has made that classic
+argument from creation that has played an important role in a lot of Christian history.
+Paul says, all these, you know, you don't have to be a Jew. You don't have to have this special
+revelation from God to know who the God is like. And it goes on later in the chapter to say they
+also can know by their own conscience. And so Paul is eventually talking about the Gentiles here.
+So he's first showing that those who are, oh, I'll come back later to the Jew in Greek and why I
+think he says that later. It's ultimately that issue, that issue of two people who both believe
+they're superior. And he's using them as kind of emblematic of all human beings that no claims of
+pride and superiority matter kind of in God's kingdom. So I don't think it is a substitute for
+Gentile. Everybody could have seen that that was what was going on. So he goes on to unpack in the
+rest of chapter one, all these awful, dreadful moral degradations that occur because humans choose
+to worship the wrong gods when they could have known the right God. So basically he's talking
+about how bad the Gentiles are, at least those who do this. And I want to make that point clearly
+because he doesn't say all Gentiles do this. He knows they're God-fearers. He knows they're Gentiles
+who were attracted to God of Israel, who are embracing some of the ways of God and trying to
+live by it. And so then in chapter two, he shifts gears over to think about what about them. And so
+he talks in the first part of chapter about how those who are probably speaking to Jews, at least
+rhetorically, they can't judge people who act in those ways because they don't live up to what God
+wants also. And then he comes to chapter two, verses nine through 12, this portion here if you
+want to read it, Stephen. You're muted, Stephen. There will be tribulation and distress for every
+human soul who does evil, the Jew first and also the Greek. But glory and honor and peace for everyone
+who does good, the Jew first and also the Greek. For God shows no partiality, for as many as have
+sinned without the law will also perish without the law. And as many as have sinned in the law
+will be judged by the law. Romans two, nine through 12. Okay, great. So again, the same thing about
+Jews are first in being punished, they're first in being rewarded because they are the special
+people of God. Interesting, he shows no partiality. It just seems like he shows partiality, doesn't he?
+But ultimately, I think that what's going on there, the reason you're using Greek is again,
+both of these people groups believe that they are special to God or the gods. And so in the case of
+both of them, he wants to say, get off your high horse and stop thinking God's partial to you.
+God's not partial to anybody. So I think again, there's a rhetorical purpose for using Jew and
+Greek here, rather than Jew and Gentile, he wants to shut down the pretensions of real people in
+his churches, who identify as Jews, or identify as Greeks, and who are being all hoity-toity against
+the opposite party in their church. And he said, Hey, you know, God doesn't play favorites, even
+though his language does acknowledge in a backhanded way as a Jew. Well, okay, maybe God does kind of
+play favorites, at least he used to, but he doesn't anymore. And so he goes on the rest of the chapter
+to unpack that latter part about sinning without the law and within the law, because he again,
+recognizes there are Gentiles, who as he says later in the chapter, have the law of God written
+on their heart. And he says, it's not the hearers of the law, we're righteous in God's sight,
+but the doers of the law, who will be justified. That sounds like an attack on just Jews who obey
+and don't obey the laws, but look at this passage we still got up on the screen. On what basis is
+God judging Jews and Greeks here? It's on the basis of their deeds. Do they do evil? Or do they
+do good? And this is something to spend a lot of a problem for a lot of Christian theologians,
+because wait a minute, it's all about faith, it's all about grace, where do good works come in and
+all this, what's he doing talking about doing good? Well, we could unpack this a lot more,
+but fundamentally for Paul, there is no bifurcation between works and faith. When he talks about
+works in a negative sense, he's very clear some places, less so in others, works of the Torah.
+That is the whole issue about obeying the laws of Judaism. As a Gentile, he says, no, you don't do
+that. But Paul would never say faith does not include works. You show your faith in the one
+through God by acting, living, working in the way that he wants. And so those who recognize this
+one through God, whether they are the Jews who have been given the law and the revelation of God,
+or whether the Gentiles, the very few Gentiles, he probably would say, who recognize the one
+through God in the creation and who hear the voice of God in their conscience that the law is written
+on their heart and strive to live according to that path, they are the ones who are going to be
+the true Jews. As he said at the end of the chapter, the real Jews, the real people of God,
+are those who are not just outward, but the ones who are inward, the ones who are obeying God out
+of a heart spiritually, this is not saying Jews are no longer God's people. But he says,
+a true Jew is somebody who lives by the law, the ways of God, who they are. Well, most Jews
+wouldn't have a problem with that. Yeah, look in the Old Testament, they're all kinds of ancestors
+of ours who were claimed to be born from Abraham, but God judged and punished them because they
+didn't live according to his laws and the same is true in our days. So this is not a knock on
+Jews that Jews would reject. But it is kind of when he's smuggling in Gentiles as being able to
+also be accepted by God. Well, again, not a lot of Jews would agree with that also. So Paul's not
+departing from the world of Jewish thought here. Jews debated on what terms might Gentiles be acceptable
+to God. And Paul's idea here that if they recognize the one true God and live basically
+according to what he wants, they're okay. It's something that other Jews would have held to as
+well. A bit of a problem for a lot of Christians here, and it seems to imply that there may be a
+path for Gentiles apart from the ways of Judaism, perhaps even apart from faith in Jesus, if they
+recognize God in creation and follow the law written in their consciences. But that's maybe an
+issue for another time. So I guess to clarify here in chapter 2, when he's referring to the people who
+are the people who do bad deeds and the people who do good deeds, those are essentially just that
+he's not referring to Torah observance. He's not referring to bad deeds that's violating the Sabbath
+and good deeds is like going and getting circumcised. He's referring to something much more general,
+correct? Yeah, I think it includes the Torah that goes beyond it. I think to use our modern terms,
+we might say, obeys the spirit of the Torah because he does say they may not have the letter of the
+law. They don't know the actual letters, but they live in the way still that God defines as right.
+So he says, Jews are judged by whether they obey the letter of the laws they've been given. He's not
+seeing Jews are somehow off the hook because, you know, hey, Gentiles don't have to obey these laws.
+Why do we have to? You know, Paul never once says that Jews, when they become Christ followers,
+need should stop obeying the laws of Judaism. Yeah. And so when you sin without the law,
+right, what does that mean exactly? Yeah. I mean, well, that would be for the Gentiles who don't
+know the law. So he says, sin in the law, referring to Jews, you'll be judged by the law if you are
+Jews and know the law. And he unpacks us a lot more in the rest of this chapter than after this
+passage. Whereas he wants to say that those who are without the law, if they don't, as he says later
+in the chapter, recklessly says in previous chapter, acknowledge the God of the Creator. And if they
+don't follow this voice of God in their hearts, then they are all going to perish as well. But he
+does hold Jews and Gentiles to different standards. And I repeat, there's a lot of Christians don't
+get this. When Paul is talking about works of the law and, and faith, he's never telling Jews
+there's anything wrong with obeying the laws. But him, the laws of the Torah become kind of a
+do it if you want to do it if you don't. He says in 1 Corinthians 9 that when he's around Jews,
+he obeys the laws. When he's around Gentiles, he doesn't even think about how that looks to Jews
+around him. It looks like this Paul guy is a complete weasel that he just is completely has no
+principles. When he's around Jews, he puts on a Jewish face. When he's around Gentiles, he acts
+like he's a Gentile. Why in the world should anybody trust this guy? He has no principles,
+he has no integrity. From a Jewish standpoint, that would be true. But he would say it's because
+ultimately the laws become something that you can follow or not, depending on the circumstances
+of the situation. He does not say however they should stop obeying the laws of the Torah. Basically,
+there are ways, the laws for him become a way of showing your faith in the God of Israel.
+Yeah, because he says that he's pretending that he's under the law, even though in parentheses,
+I'm not really under the law. Exactly, because he's free from the law there in 1 Corinthians 9.
+So he ends this chapter by essentially redefining the class of who might conceivably be acceptable
+to God in a way that isn't yet thoroughly Christianized. To say God accepts the descendants of Abraham
+who have the law insofar as they obey the law, most Jews would say, yeah, okay, I get that.
+And when he says, maybe some Gentiles might accept the truth and about the one true God,
+and it might, a lot of Jews could have accepted that. So far, he's not leaving Jewish theological
+territory, if you will, though he's definitely criticizing Jews who are not faithful in observing
+their laws. It's really in chapter 3 that he launches off into the deep end from a Jewish
+standpoint and starts saying things that Jews could not accept. Beginning of Romans chapter 3,
+that's not on the slide, he starts out saying, if this is the case, what advantage is there to
+being a Jew? What's the value of circumcision? And you expect him to say, it doesn't have any value.
+And yet he says, marching every way. Huh? Wait a minute, you just said, Paul, that
+there God has no partiality and it doesn't matter if you're like just kind of born a Jew or not.
+But it goes on to impact later in chapter 9, what he means by that. He says, talking about his
+kindred according to the flesh, the Israelites, the Jews. By the way, here's that term that
+coming back to something Derek raised earlier. He says, I could wish that I myself were cursed
+and cut off from Christ for the sake of my own people. My kindred according to the flesh,
+they are Israelites. Notice, this is Paul's term for Jews, his kindred according to the flesh.
+And to them belong the adoption, the being chosen by God, the glory, knowing the glorious
+presence of God in the Old Testament, the covenants, the idea that they've received the laws and the
+special covenant with God, the giving of the law, the worship, the rituals, the sacrifice,
+the promises. Jews got a lot of benefits. They know more. And so there is a lot of advantage
+if you're going to become a Christ follower to having this Jewish background, because
+you're better able to understand what God is doing in sending Jesus as the Messiah,
+the one who's bringing a new era. So he says, there are practical advantages to being a Jew.
+They're not spiritual advantages in saying somehow in God's kingdom, Jews occupy a higher level
+than Gentiles. And at that point, he's starting to get on ground that other people are going to
+question. But it's really as we come on further down that he, in this passage that we have here
+in front of us, that he begins to unpack and make the kind of sweeping claims that largely would
+have been rejected by people who were not members of his Christian community in terms of the way
+he applies these texts. So Stephen, if you want to read Romans 3, 9 to 12, and then 19 to 23,
+I'll come back and say a couple of words about how this relates to his Jew-Tentile issues.
+What then? Are we Jews better off? Not at all. For we have already charged that all,
+both Jews and Greeks, are under sin. As it is written, none is righteous. No, not one.
+Not no one understands. No one seeks for God. All have turned aside. Together,
+they have become worthless. No one does good. Not even one. Skipping to verse 19.
+Now, we know that whatever the law says, it speaks to those who are under the law,
+so that every mouth may be stopped, and the whole world may be held accountable to God.
+By works of the law, no flesh will be justified in his sight, since through the law comes knowledge
+of sin. But now, apart from the law, the righteousness of God has been manifested. Although the law and
+the prophets bear witness to it, the righteousness of God through faith in Jesus Christ, for all who
+believe, for there is no distinction. For all have sinned and fall short of the glory of God.
+You're on mute. You're on mute. Dr. Stanley, you're on mute.
+There you go.
+Now, we get to where Paul starts stepping on his toes. People's toes. So far,
+he's established that there are Jews who do not obey the laws of Torah that God has given to them,
+and therefore that they will receive judgment. So far, he's established that there are a lot of
+Gentiles who, at least as he sees it, could have known about the one true God, and so far as he's
+known through creation, live by his path, and have not, and therefore they stand under God's judgment.
+But it's simply not true that he is charged, as he says in the second line here, that all
+both Jews and Greeks are under sin. It is true that as a class, as classics, he has accused Jews
+and he's accused Greeks. And for the same reason, he uses the Greeks here for the same reason he
+did before. He's just carrying the language forward into this text. But then he starts quoting these
+things from the scriptures and reading them very broadly to essentially negate what he just said
+about some Gentiles and some Jews being okay under the Torah or under their natural knowledge of God.
+And he quotes a long list of verses. We've got an ellipsis there where several were left out,
+but he quotes a bunch of verses from the Psalms and the prophets that talk about nobody is righteous.
+Now back to our last thing about where Paul's doing the scripture. In their original context,
+these are not literally saying no human being. They are saying that it's a kind of a hyperbolic
+statement about, I look around Israel and I don't see, it's hard to find anybody who's righteous
+out there. And the Paul takes these light words quite literally as if they were making
+fundamental statements about reality. No single human being on the earth is righteous.
+And the fact that he can quote it from the scripture says it must be true because God
+said so. Because these Jewish scriptures, he presumes are the absolutely true words of God,
+the authoritative words of God, whatever they say carry absolute validity.
+And to clarify, he's quoting Psalm 14, one through three.
+Yeah. And then he changes to some other verses as well as he goes through
+this part, first part of Psalm 14. And so he basically cites a litany of verses that talk about
+just how evil and wicked and sinful human beings are in order to say,
+so see, although I did theoretically allow that there could be Jews and Gentiles who are right
+with God, in reality, nobody is. In reality, everybody is under sin, as he says, all have
+sinned and fall short of the glory of God. He says this several times in the letter.
+And when he says, and after right after the yellow part, we know whatever the law says,
+he's not talking about the law in the sense of the Torah here.
+He means whatever these the scriptures say, Paul sometimes uses law as a shorthand for
+scriptures as a whole. So if we could paraphrase the portion right after yellow,
+now we know that whatever the scriptures say, that for all these verses I've just been quoting,
+it speaks to those who are under the law. Well, it sounds like you saying it only applies to Jews.
+And yet he all goes on to say every mouth be stopped. Well, we don't have time to unpack this,
+but several places in Paul's letters, as odd as this might sound, he seems to have an understanding
+that at least indirectly Gentiles are also under the law or understand as he puts it here. Yeah.
+Yeah. And so far as we just said in chapter two, that they are can should have known the law of
+God written in their hearts. So he is really basically saying nobody escapes the judgment of
+God. At this point, a, you know, biblically knowledgeable Jew would take Paul the task
+and say, wait a minute, Paul, these verses aren't saying what you say they mean. In fact,
+what you said before this is actually the truth. There are a lot of Jews who are faithful to God
+and we don't need your Jesus because we are not sinners. We're faithful to the laws that God has
+given us. And so at this point, he's kind of marking a break from traditional forms of Judaism,
+because he's saying not only that your Jewish ancestry dissent from Abraham, whether literal or
+mythical, doesn't make you OK with God. A lot of Jews would agree with that. But he's also obeying
+the laws doesn't make you right with God, because you still sin. And this is an idea that is a
+bridge too far for Paul's Jewish followers. Judaism has never had the idea of original sin.
+People are judged by their deeds and you're just as capable of getting up off your butt
+and obeying God anytime you want to at any time. And so therefore, you are responsible
+for your choices and God weighs those out at the end in some way, depending on what kind of Jewish
+apocalyptic expectation you've got. So Paul is making an argument that would have been considered
+specious by somebody who was a Jewish non-Christ follower. But if you are a Christ follower,
+you already know, you already believe we're all sinners and we need the grace of God because
+that's why God sent Jesus. So he's kind of preaching to the choir here. And so he goes on
+to explicate in the rest of this passage and what follows that God even tried to
+repair those Jews. He testified to it in the law and the prophets and those Jews just didn't get it.
+You know, most of them didn't. This is God's act too now that's come and it goes on in a portion
+we don't have on the screen to talk about. It's he sent Jesus to die for human sin and it's through
+faith in him that all are justified. And he says at the end, after all that, he says,
+sums it up, for we hold then that a person is justified by faith apart from works prescribed
+by the law. It's not obeying the law of God that brings you acceptance, forgiveness, right
+relationship with God. It's the same for Jews and Gentiles, faith in Jesus. Or is God the God
+of Jews only? Is he not the God of Gentiles also? This is Romans three, 28 and 29. Yes,
+of Gentiles also. Since God is one, you can't claim that God only has only is the God only of Jews,
+even if they're the only ones who have direct revelation from him. And he will justify the
+circumcised on the ground of faith, that is, the Jews have to come on the basis of faith,
+and the unsimplified circumcised through that same faith. And so he is trying to establish that
+Jews are not okay on their own. There's not a separate track for them, even if you allow for
+that possibility in chapter two. Gentiles, even if they have some acknowledgement of God, are not
+okay. And he knows that E.P. Sanders, one of the great New Testament scholars, made the observation
+years ago that I think is fundamentally right, although a lot of people disagree with this.
+Paul is not making a logically coherent argument here. Paul knows the solution. He knows he believes
+absolutely that faith in Jesus is the only way anyone is made right with God. And he reasons
+backward from that. Okay, it from solution to plight. Everybody must have been sinners,
+because otherwise God would not have needed to send Jesus to die for the sins of all humanity.
+He would have done it maybe just for the... He didn't come just to die for the sins of Gentiles
+who did not recognize God in creation and Jews who didn't obey the Jewish laws. So he's got a
+reason backwards. There had to be a reason why God sent Jesus to die for all. It must be that
+everybody is sinners, even Jews. And so I think that's fundamentally right, that Paul knows
+where he wants to get to. His argument doesn't necessarily hold water once you really start
+pulling it apart. Well, it's probably getting into the weeds, but the book of Acts puts Paul in
+this place where in his speech in Athens, he's saying the times of ignorance are over. God
+overlooked that ignorance, and now it's being proclaimed, and now you're responsible for your
+actions. Paul never says this explicitly, but there's an implication that before,
+you got to pass. But now after this revelation, there's no more excuses.
+Exactly. And in that sense, maybe he would put it that Jesus came as the Messiah for the Jews,
+and then through them, God's intention was to reach out to the Gentiles. Most Jews didn't
+recognize it and therefore are not carrying out their God-given mission to spread the message
+about Jesus and Messiah to the Gentiles. Here, I'm doing it, and a few other Jews, he prefers to
+Peter. He knows there are other Jews out there doing what he's doing. They're the only ones
+carrying forward God's plan to what he intended all the Jews to be. So those Jews who don't
+recognize Jesus, again, they're kind of cut out. Just like in the Old Testament,
+and it will see this in Romans chapter 9, being born of Abraham or being a member of the people
+of Israel, even according to the Old Testament prophets, did not make you safe. You could be
+under God's judgment and could be obliterated by the Assyrians and the Babylonians as a sign of
+God's judgment. He would preserve a remnant. Paul picks up this remnant theology, a faithful group of
+Jews who are going to be preserved through the judgment. Paul says that's what God is doing now
+also. We'll see this in Romans 9 to 11. There are some Jews who responded to the message of Jesus.
+They are the faithful remnant, just like those faithful ones in the Jewish scriptures who got
+preserved from being destroyed by the Assyrians and the Babylonians, etc. So he's not giving up on
+the Jews, but he's extending the same logic of the Old Testament prophets to say there are very few
+Jews who are really right with God anymore. They're the only ones who are, the only ones who are,
+are those who have recognized what God has done in sending Jesus and are now following, accepting,
+and spreading the message about him as the Messiah and the salvation for all humanity.
+That's not a popular thing to say today, but I think Paul is fundamentally an exclusivist.
+He does not have a separate path for anybody outside of faith in Jesus because he says here,
+all are sinners and therefore he's setting the stage and that's why God sent Jesus
+to die for the sins of all and to open up the path of faith that he says is also the path by which
+all are right with God. I should say a quick word about Paul's understanding of faith here
+because faith for Paul is not just a scent to some intellectual propositions. Faith is a
+commitment of one's life. It's saying I was a self-centered sinner living according to my way.
+God made me to be a God-centered human being and I am choosing now to become what God made me to be.
+I'm turning away from my self-centered life that is wayward that brought God's judgment
+and I'm turning now to embrace the truth of God as revealed in the teaching and the death
+and the resurrection of Jesus. Faith then is a commitment of my life and now I'm going to submit
+myself to this God and do what this God says. Faith then is demonstrated in the way one's
+live, that one lives, that is your faith is demonstrated in your works. That's here where he
+says the righteousness of God through faith in Jesus Christ. It's not just faith in general,
+it's not faith in Moses, not faith in the laws of Torah, but it has to be a faith in Jesus Christ,
+the Paul for it to be genuine. So he allowed for the possibility in chapter 2 that there might be
+within the framework of Judaism, Jews and Gentiles who might be okay, but then he
+seeks to demolish that here in chapter 3 and then he spends the rest of Romans unpacking
+the implications and meaning of them. One thing on the Pharisees thing that I wanted to mention
+about Paul being a Pharisee, this just gets into that whole Paul within Judaism, Paul against
+Judaism school of thought. How does this work if Paul is a righteous Pharisee, he's zealous for the
+law? How is he saying in one breath here in Romans that that just doesn't cut it? I was a wicked
+sinner, I was the greatest wicked person of all, yet I'm this righteous zealous, he is almost saying
+it's impossible, like the camel entering the eye of a needle kind of thing, because he's like,
+I was so about God's law and so righteous as a Pharisee, yet that's not enough and like he
+comes back to this Christ thing. Paul actually addresses that in Philippians 3 and this is
+where Paul is not saying, I suddenly came aware that I was a sinner, not that I had violated
+laws, Paul really doesn't say that. He says in Philippians chapter 3, when he's talking about
+if anyone has reason to be confident in the flesh, I have more, circumcised on the eighth day,
+this beginning in verse 4, circumcised on the eighth day, a member of the people of Israel,
+the tribe of Benjamin, a Hebrew born of Hebrews, I mean I've got the really the core lineage here,
+as to the law of Pharisee, as to zeal, I was so zealous, I persecuted the church,
+as to righteousness under the law, blameless, as to righteousness under the law, I was blameless.
+And I said similar thing in Galatians chapter 2, where he says to Peter, we're not Gentile sinners,
+you know, we're not sinners like all those Gentiles are, we ourselves are Jews by birth and not
+Gentile sinners, yet we know that a person is justified not by works of the law,
+but through faith in Jesus Christ. So this is a part of that again, that idea that Paul knows the
+answer and he reasons back not very well to the to the problem, you know, because he doesn't
+acknowledge he was the worst of sinners. And he says Jews are not Gentiles sinners in the way that
+Gentiles are, but he wants to argue for his rhetorical purposes in Romans 3, as if that were
+the case. And we have those Galatians examples too that we might get to. Yeah, so don't expect Paul to
+be rationally coherent. He knows the solution he wants to get to, and he's going to get there by
+hook or by crook, because if there's one thing he's persuaded of, and you can chase his back to his own
+conversion experience, is that Jesus, who he's tried to persecute and stamp out, appeared to him in
+some way, he's rather vague about it himself, and turned his life around and said, everything you've
+been doing to this point is wrong. And you now need to be launched into a new path, there's a new
+era come, you now need to go out and tell the Gentiles that. Blue is mind. And so, you know,
+a lot of what Paul is doing in his rest of his life is trying to make sense out of all that.
+I won't say Paul always does make good sense out of it. So the last example we have from Romans
+is in chapter 10. Yeah, before we get to a couple of words about intervening chapters,
+chapter 4 then he gets into the question, what about Abraham? Because after all, the scriptures
+clearly say, the people of God are the descendants of Abraham. These Gentiles are not descended
+from Abraham. And that seems to exclude them, right? And Paul pulls this ingenious jujitsu here.
+He says, well, you know, in chapter 17, where it says that all the descendants of Abraham are going
+to be the people of God, need to be circumcised. But you know what, before that in chapter 15,
+before Abraham is circumcised, it says, God told Abraham he's going to have all these children,
+and Abraham believed or had faith in or trusted God, and God counted it to him as righteousness.
+He accepted Abraham as being righteous before he was circumcised and didn't have any laws.
+What do you know? So Abraham is showing you don't have to be a Jew, you don't have to have the law,
+you don't have to even be circumcised to be acceptable to God. Abraham is the model of the
+faithful Gentile. And so even Gentiles can be descendants of Abraham, not in a literal sense
+that a Jew is, but in a spiritual sense, following the example, as he says, of faithful Abraham.
+And he says, these stories were written not just for them, but for us, who have faith in Jesus,
+so that we would know by looking at this end of chapter four, we would know by looking at Abraham
+and his faith, but that's God's path. And now we will respond in faith, even though we didn't know
+this God of Israel beforehand, we can now know that faith is the way people are accepted by God.
+Pretty ingenious that he can say this happened before in the text. He's making a biblical argument
+against another biblical argument. It reminds me and could tell Berthelot's work, which me and
+Stephen have dug into. She wrote on Jews and their Roman rivals when Rome was pagan Rome,
+before they became Christian Rome, and their influence on Jews, which a lot of scholars kind
+of don't really pay attention to. They always see the impact of Christian Rome on Jews and stuff.
+There's this rabbi in one of the, in her fifth chapter, the final one, where this rabbi approached
+where a convert is coming to Judaism and they're saying, hey, they're converting. Can they say
+the prayer, the Deuteronomy 25, the God of our Father prayer? And the rabbi goes, no, Abraham is
+not his father. And then another rabbi comes in and the rabbi says, no, you need to read the
+scriptures. So this reminds me of Paul, because then this other rabbi says, he says his name was
+Abram, standing father or something like that. And it was changed to Abraham, for he would be the
+father of many Goyim. We get back to that story. That's Paul's argument. So then the guy says,
+he can say the prayer, hold on, this guy's not even a Jew, and he's joining the club. And because
+this scripture says that he would be the father of many Goyim, the contemporary understanding
+of the term Goyim here, not in its original Genesis context written in fifth, sixth, seventh century
+BC, whatever. It's meaning non-Jew or non-Israelite. So this rabbi, like, don't you see, it's already
+written in our text that non-Israelites would be the children of Abraham. Duh, you can say the prayer.
+So it's a funny, jiu-jitsu thing you're describing. It's a quote from the Tosefta,
+Tosefta Barrico. That's what that quote's from. Yeah. And Paul actually goes a step further than
+that. He's over in chapter, 1 Corinthians chapter 10, and we have part of this on our slide later,
+but I just want to look at it. He starts out, he's talking, starts using an extended example
+from Exodus in order to make a point about, well, I'll just leave it, make some certain points
+about Christian behavior. I want you to be, I don't want you to know, it's written in Corinthians,
+who most everyone would say, these are non-Jews. These are, you know, Gentile Christians. I do
+not want you to be unaware, brothers and sisters, that our ancestors were all under the cloud.
+Wait a minute. Our ancestors. Well, is Paul just kind of making an illusion now just to we Jews?
+Well, as you go, it could be, but you're going through the passage and it doesn't work out that way.
+All our ancestors were all under the cloud. They passed through the sea. They had the
+baptized and the Moses, et cetera, ate the same food, et cetera. God wasn't pleased them. Verse
+six, now these things happen as examples for us so that we might not desire evil. Don't become
+idolaters. Don't do this, that, and the other. And then down to verse 11, these things happened to
+them to serve an example to instruct us on whom the end of the ages have come.
+We who live in the last days, when God is introduced act two, now in some sense by faith
+in Jesus, these are now our ancestors through Abraham. And so he doesn't only incorporate
+Gentile, say, okay, Gentiles, you can do some Jewish stuff. He wants to say that it is Christians
+who are fully what God wanted his people to be in the Jewish scriptures.
+They literally become adopted. In some sense, have more claim. They're adopted,
+but a lot of the, and he goes on with Fr. Romans 12, he gets inside. Yeah, I mean, it's complicated
+stuff, but he's got to complicate. He's arguing in the background, and we don't see this,
+with his own Jewish, whole Jewish upbringing and framework of life and understanding,
+as well as that of other Jews in his day, knowing what kind of arguments they're going to bring
+against him. So he's always got this little Jewish voice playing in his mind, giving him these,
+you know, traditional Jewish interpretations of scripture at Israel and covenant and all these
+kind of things. And so he's kind of framing the meaning of Jesus and the meaning of his message
+and salvation in a way that it has to, it has to either reject or fit into or extend
+that kind of Jewish whole worldview that he still accepts as valid.
+I also remind it when Stephen brought to my attention in the, in the Hermenei commentary on
+Hebrews when I did Harold Attridge interview, where it's the part two thing, you know, in
+times past and sundry times and whatnot, but in our day, and here you are, boom, Hebrews is kind
+of capitalizing on Paul, going beyond Paul, but nonetheless, still there with Paul's thinking
+that you're describing. Sorry for interrupting. Yeah, and he even can say over in second Corinthians,
+give a little further feel, but it's still worth bringing in. I mean, we as Christians don't think
+about those of us who are Christian background, don't think about how audacious some of these
+claims are. I mean, similarly, he in second Corinthians, second Corinthians chapter three,
+he goes in this long comparison of his ministry with that of Moses and says that his is even
+greater. And he says to this day in verse 15, whenever Moses is read, that is the laws of the
+Torah avail lies over their minds, that is the Jews, they cannot rightly understand their own
+scriptures when they're read. But when one turns to the Lord, that is Jesus, the veil is removed.
+And he talks and unpacks that further. Now all of us, we Christians with unveiled faces,
+seeing the glory of the Lord, as though reflected in a mirror are being transformed into the same
+image from one degree of glory to another, just like Moses was transformed in the presence of
+God and glowed afterwards. So he's saying these Jews, they don't understand their own scriptures,
+they're blinded. It's only as a Christian, as a Christ follower, someone who recognizes the
+meaning of Jesus, you can rightly understand the scriptures. So the radical demeaning of
+much of traditional Judaism in a way that was, you can see why when Paul talked like this,
+why not many Jews were willing to come along? Yep. Well, let's just quickly enrollment,
+I think we have this up pretty quickly. So it goes on in chapter five to say, you know,
+we're all justified by faith, the untaxing implications of that chapter seven, it gets
+into where does the law fit in? And basically he makes this astounding argument that he's
+made several other places that the only reason God gave the law was not because people could
+actually obey it and be righteous by it, but so that people would know what horrible centers
+they were by their failure to live by it. And therefore again, this becomes part of his rationale
+for why everybody, even Jews, needs to come through faith in Jesus. Gentile centers,
+Jews are sinners, nobody can live by this. God just gave the law as a preparatory stage
+to get Jews ready for recognizing their need for the salvation he brings in Jesus. And he
+unpacks that further in chapter eight. But in chapter nine, now he gets, okay, now let me get
+into this Jew Gentile thing. Let's really unpack it. I've been in a sense, every, he's been holding
+this question in abeyance, knowing it's out there, knowing he has to deal with it. And he's saying
+this, all everybody, you know, comes by the same way. Okay, but God made these promises to Israel.
+And he said, you know, you'll be my people forever, and I'll be your God forever. So does
+this mean that God's untrustworthy? Well, he's our God too. Can we not trust this God? Is God a liar?
+Does God change his mind? And Paul basically is grappling with that all through Romans chapter
+nine, 10, 11. How can we hold to the truthfulness, the faithfulness of God as we know him in the
+scriptures of Judaism, we Jews, while also acknowledging that God is opened up a way for
+Gentiles, and that he's no longer that even Jews have to respond in faith with faith in Jesus.
+So it makes this long argument where he begins by saying, not everybody who's descended from
+Abraham is a child of Abraham. Well, once he unpacks it, most Jews would agree with that.
+Because as I said, you look in the Old Testament, there are people who are,
+it's who are said that they were descended from Abraham, like he says, I love Jacob,
+but I hated Esau. Esau is descended from Abraham. God has a right to accept or reject anybody he
+wants among his descendants. So the descendants of God, the two people of God, are those descended
+from Abraham who will meet with God's approval in however way that happens. And he wants to
+goes on to say God can basically pick anybody he wants. God can do anything he wants. Who do you
+think you are to question God, which is a kind of a way of saying sit down and shut up and stop
+asking hard questions. And so he says, basically, God has chosen in these last days to do something
+different. God's got a plan now to reach out to Gentiles, to make those who weren't my people,
+my people. We talked about this in the last video somewhat. And he says, on the other hand, boy,
+those Jews, as Isaiah calls out regarding Israel, though the number of the children of Israel were
+like the sand of the sea, only a remnant of them will be saved. So this is his, he's using
+scripture to say, look, there are a lot of passages in the scriptures of Judaism where only a small
+group of Jews are in fact the true people of God and withstand God's judgment. And so he sums that
+up by saying, what do we conclude then in Romans 9 chapter 30? Gentiles, I mean, this is just so
+standing everything on its head. Gentiles who did not strive, and here Gentiles has to be a
+conglomerate term for all non-Jews, who did not strive for righteousness, at least through the
+laws of Torah, have attained it. That is righteousness through faith, which is God's true way. But Israel,
+who did strive for the righteousness based on the law, did not succeed in fulfilling that law.
+And so they are put in the same predicament as the Gentiles. And he goes on therefore then to
+limit, he wishes that all his brothers, fellow, fellow Jews could be saved, implying that they're
+not. And he goes on then to unpack what we have on our next slide, the passage that talks again
+about how it is one is made white with God acceptable to God. And just prior to the portion
+Stephen can read in verse 11, he says that the word of faith is near you on your lips and in your
+heart, the word that we proclaim, because if you confess with your lips that Jesus is Lord,
+and believe in your heart that God raised him from the dead, you will be saved. Confess with
+your lips a verbal prenext pronouncement, not just saying Jesus is Lord and now you've got your fire
+insurance, but from now on Jesus is the Lord of my life and I'm going to follow him. Caesar is no
+longer the Lord, Zeus is no longer the Lord, no other God is my Lord. I'm choosing to disassociate
+myself from all those things and now follow the one way of Jesus. And believe in your heart that
+God raised him from the dead, which carries with it some understandings of the death of Jesus,
+why do you have to die in the first place, but that Jesus is not just dead, but he's alive and
+living presence in the church. I mean, Paul is very big on the invisible presence of Jesus by
+the spirit working in the church, which a lot of churches today don't get. You know, Paul was not
+just about something in the past, in the life of humanity or something in the past in the individual
+believer's life. I, you know, I gave my life to Jesus and became, got my fire insurance. It
+doesn't matter what I do. You know, Paul, you be engaging and submitting and led by the spirit,
+as he says in Romans chapter eight. So that's what it takes. And then we have this next verse where
+he's relating this to his Jew Gentile question, Romans 10 11 through 13. For the scripture says,
+no one who believes in him will be put to shame. For there is no distinction between Jew and Greek.
+The same Lord is Lord of all and is generous to all who call on him. For everyone who calls on
+the name of the Lord shall be saved. So again, everyone, the Jew, Greek language so largely is
+just continuing this kind of thing. He began at the beginning of the letter with, you can say,
+in neither group who thinks he's got in the back when he talks about Jews and Gentiles,
+he's always gotten the background. These are real conflicts in my churches. So when he talks about
+Gentiles more broadly, he's never getting away from the real world social tensions that are there.
+But sometimes he wants to pick up and explicitly mentioned, we just remember what I said earlier.
+You know, you people, you two groups here who in your pride and arrogance think you are better
+than everybody else, you're nobody, you know, none of that matters. Lay that all aside. Again,
+he's saying there's no partiality. It's the same with all and that text that we just had there.
+If you put that back up one more time, notice how many times he uses the word all.
+So he's the same Lord of all who is generous to all who call on him. For everyone who calls on
+the name, you know, everyone, all. And everyone and all is the same word. It's just the same word.
+Exactly. Yeah. And also no one is the same word. Exactly. Yeah. A negative with the same word you
+can see on the right hand side. You have to translate it in different ways into English,
+but if you're looking at the Greek, you can even see even if you don't know Greek. Exactly.
+You don't know Greek. You see that same password there. Yeah. So he says the same,
+look, scripture, scripture supports me. Anybody, not just Jews, anybody who calls on the name of
+the Lord, kind of back to Derek's example there a minute ago, anybody can call on the name of the
+Lord. You don't have to be a Jew to have your prayers heard. It's like, it's like they cherry
+picked the perfect little like, haha, I found something that really works. And in something,
+something came to mind. I just wanted to throw at you to see if this sticks. Paul sounds like when
+he starts that Romans nine thing, like he's been holding this breath the whole time. He couldn't
+wait to use the term Israel. He finally decides he's going to let it all out. Okay. Now we're
+getting Israel, baby. He sounds like he's making an excuse. Like he's already trying to tell people,
+even the Jews who might hear his words like, look, you guys know, not all Jews are going to be chosen
+in an elect. Okay. We got it right here. Only certain ones. Well, you want to know why this is
+all part of the plan. Before this, there was a stumbling block. They just aren't getting it.
+It's this problem that keeps coming up. This is also part of God's plan. And then only a certain
+amount of Jews are getting this thing. So he's already making kind of what seems to me being
+an excuse. He's making an excuse for what the heck is happening here. Oh, exactly. I mean,
+the whole of chapters nine through 11 is basically trying to explain this inexplicable experience
+of his as a missionary preacher, that these Jews aren't getting it, you know, and the Gentiles do.
+And that's where if we continue on here, his answer is his puzzled everybody over time,
+because ultimately he says in chapter 11, we don't have that here, chapter 11, beginning in
+verse 11, talking about Israel. He uses Israel because he's doing a lot of biblical quotation here.
+And so he wants to hear that resonance in the Old Testament text. Israel is sometimes named. He
+wants to maintain this linguistic continuity and continuity of the Old Testament text. So I ask,
+have they, that is the people of Israel, the Jews, the Israelites stumbled so as to fall? Has God
+given up on all the Jews? By no means. But through their stumbling, salvation has come to the Gentiles,
+so as to make Israel jealous. Now, if their stumbling means riches for the world, and if their
+defeat means riches for Gentiles, how much more will their full inclusion mean? And he goes on to
+say in chapter 12, and here's the answer. God actually hardened the hearts of the Jews.
+They don't have a choice. Most of these Jews are just like God hardened Pharaoh's heart back in chapter
+nine of the same letter in order to work out his purposes to rescue his people. So he says,
+God has hardened the hearts of the people of Israel so that people like Paul will go out to the Gentiles
+because that was God's plan. And if he hadn't done that, the Jews would have just kept all
+this to themselves. Obviously, that's about a generous reading of possibly positive Jewish
+responses to Paul's message about Jesus and all that kind of thing. But maybe you would have had
+only a small group of Jews, and they are the only true people of God. God's plan was bigger than
+the Jews, according to Paul. And so how do you explain this? God hardened their hearts, made
+them unable to believe, so the message would go for step one, it's a two step. Step one,
+harden their hearts so Gentiles would come to faith because step two, he expects at the end of all
+things, the Jews are going to be jealous of what God is doing with the Gentiles, and they're going
+to come to faith in Jesus. He actually says, all Israel has been debated. Does he mean literally
+every single Jew is going to acknowledge Jesus? Or is he using it more likely? It's just kind of an
+all-encompassing term. That is, Israel as a whole, a vast number of Jews are something like that. But
+he says, God's not given up on Israel. God's not given up on the Jews. God's plan at the end of
+everything. Right somewhere associated with the kind of conclusion of all of history has
+got to be this massive turning of Jews to faith in Jesus. And therefore, God has not abandoned it.
+God remains faithful to them. He just had this kind of a bigger plan, not just a side plan. Okay,
+I'm going to sneak these Gentiles in here, but it's part of a bigger plan. Like you said, going
+back to Abraham, a host of nations will be descended from Abraham. God's plan from the beginning, he
+says, was to include Jews and Gentiles. But it was only through the sending of Jesus, which was
+prepared for by the Israelites all these centuries and centuries to recognize it. It was only in that
+way that God could have prepared a people to hear his message, to carry it out to the Gentiles,
+which eventually bring Jews in. And Paul's mission to the Gentiles, just that mission,
+like he acts even in his letters, like it's, I'm almost done with that mission to the fullness of
+the Gentiles. It's coming soon. It's happening, then the Jews will get it. It's exactly. He thinks
+it's going to happen very soon during his lifetime. He makes that point several places in his letters.
+So he really believes he lives in the end times, maybe next city he's going to go, all the Jews
+are going to suddenly respond to him. Now, is this just wishful thinking? Is this just as you're
+seeing a way of rationalizing away his actual experience? Or is it really going to happen?
+Obviously, Christians who've understood this through the centuries have looked forward to an
+end time conversion of Jews, has gotten caught up in all this state of Israel. Jews returned to
+Israel and rebuilding the third of the temple and the Messiah coming to the temple. And all
+these speculations people have about how all the events of the end time have to work out.
+And that's going to involve all that, which I think is a complete misreading of Paul and a
+misreading of the scriptures. But nonetheless, we can spend another whole program on that if you
+wanted to. But I think Paul does think the end is coming soon and that he himself is going to
+lift to see this turning of the Jews. And then everyone will be embraced and kind of over to
+chapter 15 to wrap this up. You know, God's ultimate purpose is to receive praise from all of them
+together. So he says in chapter 15 verse 8, for I tell you that Christ has become a servant of
+the circumcised, that is of the Jews, on behalf of the truth of God in order that he might confirm
+the promises given to the patriarchs. That's the whole argument he's been making, is that God is
+not unfaithful to the promises he gave to their ancestors all the way back to the Abraham. He
+just has a kind of convoluted way of carrying out. And in order, and in order that the Gentiles
+might glorify God for his mercy. And then he got several verses, quotes from the Jewish scriptures
+about Gentiles and Jews singing praise to God. As it is written, therefore I will confess you
+among the nations or among the Gentiles and sing praise. This is where knowing it means Gentiles
+and nations matters. Literally in the Psalm, I said I will confess you among the nations and sing
+praise to your name. But Paul reads it as the Gentiles. And again, rejoice, oh nations with his
+people or rejoice, oh Gentiles with his people. And again, praise the Lord, all you nations in the
+original. But he says all you Gentiles, all the people praise him. And again, Isaiah says, the
+root of Jesse shall come. The one who rises to rule the Gentiles and in him the Gentiles shall hope.
+So God's ultimate vision, according to Paul, is to have a people made up of Jews and Gentiles
+who get along with each other, who join together in one people and worship and praise the one God,
+who is the God of Israel, of Jews, and the God of Gentiles. Pretty massive vision, if you can accept it.
+Oh, you do have to go one step further. I mean, for Paul in the end, of course, that's not the
+whole end of the story, because your polity also includes the restoration of the whole created
+order. And so the very world in physical world is going to be brought to an end and is going to
+be a new world made in which all God's enemies have been defeated and destroyed, and that there's
+going to be no sin, no sickness, everything's going to mortal humans will be given immortal body at the
+resurrection and live together, not in some airy fairy existence as spirits with harps on clouds,
+but rather in a new heaven and a new earth, in new perfected bodies, serving the one God who is there
+in the midst of them. And at that point, he says, and this is a problem for a lot of Christians,
+Jesus himself will submit himself to God and all and God will be all in all. That's in first
+Corinthians chapter 15. There goes your extreme high Christology. So I have a question. Guys,
+this whole vision of the duration of Jew and Gentiles that even fits into this broader vision
+of the restoration of the whole fallen and broken world and the elimination of sin and evil and
+darkness and essentially the restoration of Eden in the in the in the way that God intended,
+that's Paul's ultimate vision. So I have a question because you I think a few months ago you said I
+should even challenge you on this. So in the first slide that we pulled up that showed in the
+Neurovi standard version that there's a whole lot of blurring of the lines and the translations
+where you see sometimes you see Ethni and sometimes you see Eddiness and it just sort of it all gets
+translated as Gentiles, right? And this is right in front of us is an example of Paul wanting to
+use the singular. So he says there is no distinction between a Jew, right, like a singular Jew and a
+Greek, okay, where the singular is just a stand in for a class, right? It's a prototype. So there's
+no difference between Jew and Greek. He's not saying Jews and Greeks or Jews and Gentiles in
+the plural. He's saying between a Jewish person and a Greek person, there's no difference, right?
+But he follows up by saying the same Lord is Lord of all. So my reading of this and you tell me if
+you see it differently would be that that all, in other words, like everyone, the entire world,
+the entire human population is divided between Jew and Gentile in this dichotomy. But he's
+specifically using the term Greek here as a singular stand in for Gentile because he doesn't
+use the term Ethnikos, which is there is a singular Gentile as Ethnikos, but Ethne,
+you can't get the plural of Gentiles and make it singular and have that be a non-Jewish person
+because that just means a nation, right? It doesn't go that in that direction. So my theory
+is that here, Eudeius means a Jew and Elin means a Greek and it literally means a Greek,
+but idiomatically he means it to mean a Gentile, everyone who is not a Jew because it's the singular.
+Tell me if I'm right. Yeah, I think it means both. I think when he says Greek, I don't mean to exclude
+that he's got in the background all non-Jews, but I think he has particular reasons for wanting to
+use Greek in particular contexts and people would, their ears would have perked up. And why does he
+do it specifically in particularly Romans and 1 Corinthians? Because according to the most
+dominant explanation, interpretation of Romans, and certainly everybody would agree with 1 Corinthians,
+he's writing to Greeks, writing to people either were from Greek heritage or wanted to be who
+identified Greek identity as being something either they embraced or adhered to, I mean or
+aspired to or respected or something or the other. And in Romans chapter 12, we didn't get into it,
+but he says, I'm writing to you Gentiles. And there clearly it's a non-differentiated mass of
+non-Jews and not to nations about not despising the Jews because there was a lot of anti-Jewish
+prejudice in the ancient world. And so he could simply presume that people, no matter whether
+you're Greek or not, you're going to have a lot of negative sentiment most likely toward Jews.
+But Greeks had a special dose of it because they had the social power and the ideological
+cachet, if you will, to be the, you might say they're the Gentiles par excellence when it comes to
+prejudice and against Jews. So in that sense, if you want to highlight writing to churches where
+you just know there's going to be this mutual negativity, then you need to kind of every now
+and then pop Greek up into the forefront to make say, hey, people, I'm talking to you,
+not just making some abstract theological argument. I'll give you an example that really sticks to
+my mind that makes it kind of come real to me. As I said, I grew up in the South in the late
+Jim Crow days. Let me go back to the 19, I can just have this picture I hear in my mind of 1930s
+Alabama, some preacher who's preacher, white preacher who's preaching to his congregation,
+and he gives this long sermon about how God loves everybody the same and God,
+God's no respect to a person and God, everybody can come to God equally. And he says, it's like
+it is, like it says there in Galatians 3 28, which you've not gotten to, in Christ is neither
+Jew nor Greek male nor female slave nor free black nor white. And he goes on and on and never
+mentioned this again. And you realize, even though he only mentions at one time, the whole import,
+if his sermon was to challenge the inherent racism of his audience, he's not by how he's saying,
+all are equal to God, but he's really saying is black people equal to you.
+You know, they are just and so you need to stop all these negativity that you've got.
+And so you can just surface it up for a moment there and say, here's how I mean,
+do you apply this? Yes, it's true as an abstract theological argument, but it has social implications
+for you people who've got discrimination against one another, that you need to respect each other
+and get along with it. That's what I think is going on. That's what I'll be arguing in this book
+that I've developed and them working on. And interestingly, every time I presented a paper
+at a conference arguing for this, people are like, you know, come up to me afterwards and say, boy,
+that really makes sense. You know, I just never thought about that. I've never had anybody
+to just say, oh, no, that can't be right. Because once they hear the argument, you realize,
+yeah, they were Helene, she can't get that you can't unhear. Well, I guess I'm just wondering if
+you're an Italian, if you're like a native, you know, Italian born Greek is your second language,
+you're just your Roman through and through, you just happen to be somewhat Greek and
+cultureated enough to be able to hear this letter being read aloud in your church community.
+When you hear this, you know, there's no distinction between a Jew and a Greek and the
+singular because Lord is Lord of all, does that person, that Italian, that native Italian,
+or a Truskin or whatever, like identify with the term Helene in the singular in that context,
+in that letter. This pulled me to address those kind of people. Yeah, let's use a modern example.
+If I were a preacher in a multiracial congregation, and I'm saying, you know, so God doesn't make
+any distinction between black and white. And that's all they ever talked about.
+What about the Indian dude in the, what about the Latinos? Yeah, what about the Indians, etc.
+They're going to get the point. It kind of serves both purposes at once. They're going to know
+that it applies to them and that they would, at least in American culture,
+they would align themselves historically on the side of the black, that is,
+those who have been discriminated against and things like that, or they could just accept
+the broad principle without making that kind of personal identification. So I, you know,
+the more you think about it, it's kind of hard to say to unhear it and unthink it.
+Let me, since we're, we're long, long time here, let me just comment on how I think this argument
+addresses those four different aspects of the Gentile problem that I raised at the beginning.
+And then maybe we ought to just wrap up with a little bit more question. And if you want to
+continue and go to these other verses in another, I think this just ended up being a really in-depth
+study of Romans, right? Like it feels complete to me, even though we're missing half of our
+examples, maybe we could do them in a part two, but we do others in a part two. There are some
+additional points in the other verses that maybe say some slightly different things,
+bring in some nuances, I think support some things I'm saying and all that. So I wouldn't
+hurt if y'all are willing, if we want to do a second part where we finish this up, that'd be
+fine with me. So let's say something about how Paul's argument, I think I would argue, addresses
+all four of those aspects of his Gentile problem. One, the theological problem. Obviously, he's
+provided an answer that at least is satisfactory to him. And whether his audience has accepted it,
+who knows about the theological question. God wasn't just kind of messing around back in Israel
+to get ready for his real plan with Gentiles. God didn't, in this second act, abandon the Jews.
+He's got a way that comes up with an answer that holds together in his mind the integrity of God,
+the trustworthiness of God, and the trustworthiness of Israel's scriptures and God's promises and
+all that on the one hand, and the God's ultimate plan to go beyond Israel that kind of provides
+a coherent. God, in other words, can be understood to be faithful in this scenario if you accept it.
+And so that kind of theological quandary about what do you do about God's promises to Israel
+and God's kind of negativity towards Gentiles, he's kind of answered that, I think, to his
+satisfaction. Again, the people today accept it, with his audience then have accepted it,
+that might be a different question. The political question, this is one that I think
+would nuance a bit, and just some speculation. Back to this again, the point was that people
+were people who wanted to be circumcised and obeyed the Gentiles, who wanted to be circumcised
+and obeyed the Jewish law so they'd have the protection provided by Roman favouring of the Jews
+and they'd be protected from negativity and being viewed as subversive. I think in a roundabout way
+Paul gives them that protection, he takes it away from them on the one hand by saying, well,
+you're not going to be circumcised and obey the Jewish law, which seems to leave them naked and
+exposed. They're clearly not looking like Jews. But he gives them an ideological argument,
+that if you ever hauled in and given a problem about any of this, you say, well, we're Jews too,
+we're just a different kind of Jews. And if you could ever get a Roman official to sit there and
+take time to listen to you, which you probably couldn't, you could explain how, see, we're the
+sins of Abraham also, but we just kind of got this other track over here. And so even if it
+didn't make a real social difference, it could give them a confidence that they don't have to be
+circumcised and obeyed. They got an ace in the hole, you know, that could protect them. They could
+argue to somebody who doesn't know much about Judaism, which is another form of Judaism,
+and they might get away with it. Who knows, but just some speculation on my part.
+The social side, I think I've made pretty clearly the issue about
+inter-ethnic prejudice. He's got to get these people to work together,
+live together, expect each other and have each other in leadership and all this in their community.
+I think both ideologically and with these Jew-Greek language
+references, he's kind of done that. And pretty well, I think pretty effectively addressed that
+and made it very difficult for people to maintain those kinds of ethnic prejudices.
+You're going to be a follower of Jesus and part of this community. That might be maybe the most
+effective aspect to his argument. And then finally, the missional aspect, the question of,
+what is God, what's going on with my missionary results? Well, now I understand it.
+I'm okay with continuing to do what I'm doing, preaching primarily to Gentiles. I already believe
+that's what God's mission for me was, but I've got an explanation now for why I don't need to worry
+too much about all these Jews who are not responding to me. God's got a plan. They're going to come
+around eventually. So let's just get about the business. Maybe you still, as we said earlier,
+does go to synagogue and start out. But maybe this helps him to not be too worked up and anxious
+about how things are working out. Because he says, God's got a plan. I've got a role to play.
+In fact, he says, God's going to hold me accountable. He believes he has got a unique role to play
+in God's end time plan for the salvation of Gentiles. And God's going to hold him accountable
+on judgment day for how he carried that out. Well, he's pretty full, got a pretty high opinion of
+himself. And we can get into how he's scriptural based. I think he identifies himself to some
+degree like the servant of the Lord in Isaiah and proclaiming the message of Gentiles and this
+kind of thing. But that's another kind of a biblical interpretation kind of thing. So
+I'm going to stop there and say not that we've answered everything in ways that we today necessarily
+can say, oh yeah, Paul's right on that. But in ways that we, I think we can say, okay, I see Paul's
+argument. I see Paul isn't just talking about these things in a vacuum. But I think Paul has his
+bigger concern, bigger set of questions. And at least in a way that he finds satisfactory,
+I think he would have thought, yeah, I ace that, you know, I dealt with that. They really ought to
+accept this, even though we've seen there are holes, there are problems that people could
+pick with his argument. I'm going to stop there. Just a few comments I'll give. And then Steven,
+if you want to make a question or comment or something, then we'll wrap things up. Something
+that comes to mind, I mentioned Paul sounds like he's making an excuse. And it made it sound like
+I thought his motives were maybe bad. But I'm not trying to necessarily say that. I'd say he's
+searching, like in his scriptures, the same way a modern Christian in light of, let's say their
+candidate didn't end up as president, or let's say there, something went haywire in America,
+like there's a flood. Oh, well, we know what that was. It was the sodomites in California,
+or something. You know, they got a biblical precedence for explaining what's going on the
+ground wherever and whenever they're living. And Paul seems to be all about that. But also
+something interesting that I thought about is how the Gospels seem to go beyond Paul. Paul seems to
+have this imminent apocalyptic kingdom of God kind of, it's coming soon. It's going to happen.
+The Gospels pivot from this, it seems a literal kingdom manifestation of the kingdom of God
+happening to spiritual. It's in you. I disagree with you on that. But you take a different
+approach. I think fundamentally that the idea of Jesus as an apocalyptic prophet who expected
+the end to come soon is the one that does the best justice to the text. So maybe we can talk about
+that another time. Or you talk with others who are gospel scholars on that. I think you actually
+feel it's moving more back in that direction. That it was Jesus that thought this. Yeah,
+that Jesus was an apocalyptic prophet. At some point, you might say with Albers fights, or,
+and he was wrong. So you disagree that Jesus thought he was an apocalyptic prophet, that the
+end was near and that. No, I think Jesus did think, I thought you were saying they kind of move away
+from the imminent end time and make it more spiritual. And I said, no, I think Jesus literally
+expected the end to come. Oh, no, no, no, we're talking on the same page then. Yes. Okay. And I
+think Paul still has that is my point. And then what I'm saying is I think the Gospels come in
+like Luke, the later Gospels, Luke and John, and they want to take it from horizontal histories
+ending to vertical heavenly. And it's like the kingdom of God is in you. Stop waiting like you
+think the kingdom of God's going to intercede into history and change all things. It's like it can
+change right now kind of thing. Not saying they let go completely of the idea that there was going
+to be a change in human history, but it seems like they're not both and not an either or. Right.
+But that's a whole different discussion. All right, Stephen, I'm doing well. Yeah. I mean,
+so that to that point, I think it's also curious when you start really digging into the references
+to the end as opposed to the ends, the like the eon or the age as opposed to the ages,
+the ages of ages, like is it eternal? Or does it mean that one age cuts off and another one
+begins or they overlap? Like all that stuff is just really deep into the weeds. And it's very
+interesting. Yeah, but I would simply sum up my thoughts on this is just that what we presented
+here today, especially in that first slide where you see that Paul is using language in a particular
+way and he's labeling people in particular ways, it is by no means exhaustive. So, you know, you
+can find in the Bible and the Greek in the Hebrew, many, many, many references to foreigners, you
+know, Xenia, like, you know, non non Jews, like we there are so many, there's there's such a rich
+vocabulary. Paul is only taking a slice of it and using it in his own way. But like if we pulled
+up a comparison of all of the terms, you know, because I've just dug into them, there's just so
+many. And really, it's that, you know, like just even even like the singular Gentile is a term like
+you find it in Matthew, you find it in like some of the epistles, you don't find it in Paul, he just
+doesn't use it. So this all this is all sort of like, you know, Paul is sort of ground zero for
+this bifurcation of people into Jew and Gentile. And after Paul and into the Gospels, you get like
+a bit more development into it. And we just didn't have the scope to cover that. We're really just
+focused on Paul and how Paul is using language and how Paul is is categorizing people. But
+people should just keep in mind that when you know, you see that slide and you see that list,
+that isn't all there is. There's much more to dig into this topic.
+Skim service. Go to part two if we like. Yeah, love to. I definitely appreciate you. Everybody
+go down in the description. Check out Dr. Stanley's links. They're all there. His books are there at
+the Amazon link. You get all his books. Make sure you check out his material. He is very
+detailed and into what you would call exegesis and understanding what's going on,
+even if his exegesis is pointing out how isegesis is happening. It's really fun to see how he's
+showing Paul is actually doing the very thing that I like to say, hardcore fundamental, you know,
+Christians think is their accurate understanding of scripture. You got to exeget it. It's like,
+well, the authors of the New Testament are kind of reinterpreting in their own understanding. Ah,
+so maybe, maybe some of those people are more progressive in their understanding of things
+are right on the money there. Go to why you got this screen up. I got you coined it right here.
+I just want to say I said this earlier, but the novels, you know, I've started writing his first
+two books of historical fiction trilogy, they are the best way that I know and to immerse yourself
+in the social world that I've been talking about. And there's a lot in them about Judaism and how
+people viewed Jews in the ancient world and interaction of Jews and non Jews. And if anything,
+that's one of the central themes in these novels and Jewish identity. So if the things we've been
+talking about today, we want to know more about the, the kind of real world lived out experience
+of these things. Yeah, rather than reading an academic tone, get ahold of those two books there.
+A Rooster for a Skelepius is the first one, a bull for Pluto completes the story. And then the third
+one I'm just starting to write will extend the story to the main character to Israel in the
+years leading up to the two and through the Jewish revolt against the Romans in 66 AD.
+And they're unaudible. So the website, they're audible also. So if you prefer to listen as I do,
+I've got a wonderful reader who really makes the characters come alive. So the website here
+is where you can find out more about them and where you can click on purchase links for them,
+et cetera, et cetera. So check it all out. Check out the websites, ladies and gentlemen,
+check out the previous interview. Did Paul misuse scripture? And of course, this is the one we did
+over 16,000 views. If you find yourself confused by people who are telling you something other
+than what you heard today, like let's say Gentiles or lost Israelites, or I don't know,
+something crazy out there, just center yourself on people who know the languages and know the
+culture and know the context and have read this literature can read it in its original tongue
+and can parse it out like Dr. Stanley did today. I really encourage people to do that. I'm saying
+that as an amateur, as someone who doesn't even know these languages, but I've dealt with enough
+out there and I've seen the weird stuff that comes out there in the world. I recommend you just
+center yourself at least for the at the very least. Let's say you think, well, I think these
+scholars are wrong. Cool. Cool. Understand what they all say before you draw your conclusion
+and then prove them wrong. That's exactly what it's all about. And learn Greek.
+It's not going to me too. Amen. Amen. Amen. Well, thank you so much, gentlemen. Thank you guys.
+It's been a lot of fun. Thanks guys, Stanley. We are MythFishing.

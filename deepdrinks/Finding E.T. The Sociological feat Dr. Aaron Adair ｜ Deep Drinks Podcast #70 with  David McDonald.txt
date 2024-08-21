@@ -1,0 +1,2653 @@
+Welcome, everyone, to Deepbrings Podcast, the deepest podcast on the Internet.
+And we are certainly getting deep today.
+This is going to be a cosmic exploration of some of the biggest questions that humanity
+ever asks, especially today.
+So my guest today is Dr. Aaron Adair.
+He's a multi-faceted professional who wears many hats, a physicist, a data analyst, an
+editor, and a Bible scholar.
+He acquired his doctoral degree from the prestigious Ohio State University in 2013.
+His pedagogical journey spanning various institutions, sorry, such as Merrick College
+and Babson College, oh my gosh, I'm not doing well at speaking today, including a stint
+at a high school level, sharing his knowledge of physics.
+Currently, Dr. Adair serves as a research affiliate at the Massachusetts Institution
+of Technology, MIT, leveraging machine learning for physics-educated education research.
+Simultaneously, he is a prominent figure in the defense sector working as a lead data scientist.
+Dr. Adair has left his mark in various scientific establishments such as CERN, where he assists
+in preparing optical equipment for the Atlas particle detector and SETI, which is the search
+for astral-torectal intelligence, where he charted neutral hydrogen while investigating
+cosmic intelligence.
+In the realm of biblical studies, Dr. Adair has made significant contributions.
+He authored at the start of Bethlehem a skeptical view alongside numerous articles on similar
+subjects.
+In addition, Dr. Adair holds a position of an area chair for the South West Popular
+Slash American Culture Association, focusing on the dynamic interplay of science, technology
+and culture.
+He contributes to the editorial board of the journal Dialogue, the interdisciplinary
+journey, a journal of popular culture and pedagogy.
+I apologize for that introduction, guys.
+I suffer one, but today we have an amazing guest.
+He's the author of Aliens and Religion.
+Thank you so much for coming.
+Let's get started.
+Welcome, Aaron.
+I apologize for that intro.
+I don't know what happened there.
+Did I get anything wrong?
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+I'm sorry.
+What you said was correct, but I think we just had to loosen up the tongue a little bit.
+Maybe we should get started right now.
+I apologize.
+I wrote that out and I was like, and then I normally go back through.
+I realized I forgot to go back through and like make it easier to say.
+I apologize for that.
+But yeah, that was a wild one.
+Your background is enormous.
+Half the words, I have to Google to understand, but I appreciate you coming on and you've
+written this amazing book.
+Can you tell us a little bit about that before we get into what we're drinking today?
+Yeah.
+This is a book that I co-authored with my friend and a philosophy guru, Jonathan M.S.
+Pierce.
+The two of us were inspired to put this together after we were interacting with this particular
+article from a couple of theologians.
+They wrote this for the Journal of Philosophical Christy, so professional philosophical journal,
+especially for Christian faith traditions and trying to say, hey, you know, there's a
+pretty good chance that there's life out there.
+How is this going to fit into the bigger religious picture and do Christians in particular have
+something to worry about?
+Those authors thought that everything could be worked out.
+Jonathan and I were like, we don't think so.
+We started chatting about this.
+We did a livestream together.
+He wrote an article for Only Sky where he's also a journalist working there.
+We realized, you know what, there's a whole book of content here we could write about.
+We dove in and it became this philosophy, theology, and science project.
+We actually did some new innovative science and math work to come to our conclusions.
+This might be, as far as I know, the only theology book on the market with differential equations.
+Yeah.
+It definitely has.
+I've been going through your book and we're going to split this interview into two, really.
+I've got yourself coming on to talk about the science and stuff today, which is probably
+where I'll need the most help from you to explain everything.
+Then we've got your co-host coming on in a few weeks, a couple weeks or a week or so,
+to talk about the theological impacts of this, to more focus on the religion side of things.
+Yeah.
+This is a very interesting subject and something that's sometimes fun to think about, but a
+lot of people don't go as far as yourself and work for someone like, or do your internship
+at SETI where you actually, okay, how do we answer this question?
+The search for extraterrestrial intelligence, which is the same from the movie Contact, right?
+Yes.
+Well, in fact, the movie Contact is based on the novel Contact by Carl Sagan.
+The main character from that was based on a SETI scientist by the name of Jill Tartar,
+who still works at the SETI Institute.
+Wow.
+It has a lot of connection there.
+Of course, when I worked at SETI, I got to meet Jill.
+Dr. Tartar, I should say, let me give her credit because she was an absolutely fantastic student,
+getting her advanced degree in astronomy in the mid-20th century.
+Also, when the number of women astronomers, you could probably count on one hand.
+She decided to pursue this very, what might seem like dead-end area of looking for signals
+from little green men.
+She's made this her scientific pursuit, her lasting contribution to you.
+How are we going to answer the question if we are alone in the universe or not?
+She's still there.
+The one thing that surprised me was this was maybe about 10 years ago.
+It was also like 10, 15 years after I was an intern there.
+I was listening to a lecture from her that she was doing at Ohio State.
+She actually recognized me after all those years.
+I'm like, wow, I didn't think my face was that recognizable.
+Wow.
+That's awesome.
+If anyone hasn't seen the movie, the movie is fantastic.
+I haven't read the book.
+I'm sure the book is fantastic as well.
+To me, it's like, yeah, to me, it's just wild that I'm actually talking to someone who's
+worked with SETI.
+That's just incredible.
+What are we drinking today?
+We've got a fun drink.
+All right.
+We've got a couple of combinations of things.
+I thought we'd start off with something a bit strong and then maybe ease up.
+This is a little bit cultural for me, for sure.
+Yeah.
+This is a little bit cultural for me.
+My wife is Chinese.
+I've tried to get more and more into Chinese culture, learned the language and the beverages.
+One of the beverages that her parents introduced me to, and I've now bought, it translates as
+white liquor by Joe.
+It's basically, you can imagine vodka, but stronger.
+It tastes pineapple-y too, at least when I've tried versions of it.
+It definitely depends on the flavor.
+We had to look up that one because it took a while for me to figure out the characters
+because, first off, traditional characters are hard enough to read, and when they're
+in calligraphy, handwritten form, they get so artistic.
+It's like, I can never figure it out.
+When I finally found it, it said that this was Phoenix flavored.
+Oh, okay.
+I don't know about that.
+This says it's 50%.
+I didn't realize it's 50%.
+I got this when we're in China.
+This was a fancy bottle of beiju that I just purchased.
+We had some cheaper bottles.
+Do you say beiju?
+Beijou.
+Beijou is the most popular spirit in the world.
+I didn't realize that.
+Which is incredible because I've never even heard of it until I went to China.
+Then what are we drinking after the beijou?
+After that, a little bit of German-American beer.
+This is Yingling Lager.
+Yingling is actually, I think, the oldest brewery, continuously running brewery in the US.
+It's a reasonably popular brand.
+It's not as wide as Budweiser, but I don't have any problem with the company.
+But for the most part, when I drink a beer, I prefer it to not be close to water.
+This actually has some flavor and some content to it.
+I almost never touch light beer unless it's the only thing around.
+I have family members who are a little bit different.
+Every time I see my mother with ultra light beer, I'm just like,
+please, mom, have some standards.
+I decided to get just an XPA.
+Coupers XPA, which is a delicious beer from Australia.
+I wasn't sure exactly what beer you're doing, so I thought,
+I'll just grab a beer that I like, but the beijou is the main thing.
+How do we drink this beijou first?
+Well, you can do it the right way or the wrong way.
+Do I do a skull from the bottle or do I do a shot?
+Basically, you put it into a shot.
+Normally, you just sip it.
+I did not know that the first time, and I figured,
+okay, I'm going to treat it like a shot.
+The traditional way also in Chinese,
+if you're going to drink the whole glass or whatever is in there,
+you say ganbei, which literally means dry your glass empty your cup.
+Are we shotting this or are we sipping it?
+Well, I just poured a little bit, so if I do a shot, I'm going to survive.
+So, ganbei.
+I've done like a ganbei.
+Oh, no, I need more than that.
+There we go.
+Good morning.
+Looks like he's woken me up.
+All right, so as you can see, there was totally a mistake to interview me.
+That's definitely 50%.
+It tastes nice, but God, that is definitely 50%.
+Yeah, mine's 52%, but it's the same neighborhood.
+It's going to knock you down and drag you around.
+Yeah, okay.
+I haven't done a shot like that before and then felt nervous afterwards,
+like I did just then for a long time.
+And then when you're like, uh-oh, am I going to be sick?
+I hope I'm not.
+But it's nice.
+It just has that very strong burning sensation.
+Oh, yeah.
+Oh, yeah.
+And like I said, I kind of learned it the hard way for better or for worse.
+And my father-in-law introduced it to me and just like poured a little bit for me
+and said, hey, this is white liquor.
+He was just sipping from it.
+And I'm like, well, it's vodka.
+I'll treat it like vodka.
+And he was like, yeah.
+I think he was both surprised and impressed that I was willing to try my glass.
+Yeah.
+Well, I wanted to try this for a while.
+I think I didn't realize I had tried it.
+I must have tried it with some friends one night because it was already open,
+but I forgot what it tastes like.
+And it's been five years or something since we've been to China.
+So yeah, it was great to open for this occasion.
+And yeah, well, what a great way to start.
+And I'm going to throw the hardest question at you.
+One of the hardest questions, but the bold question.
+And this is the question that I think most people want to know.
+Are we alone in the universe?
+What are your thoughts?
+All right.
+So that was a big part of the book.
+So how do we even go about answering that question?
+So, I mean, we can just sit here and speculate.
+But we ultimately need to go out and figure out what could we actually do to show one way or the other if we're alone or not in the universe?
+So if only we had some way of breaking down the problem.
+And this was actually most famously done by the radio astronomer Frank Drake.
+And in the early 60s, he basically starts the scientific version of SETI of using radio telescopes to try to listen for signals that could not be produced by natural phenomenon.
+And Drake decides to come up with the idea of, OK, we don't know how many civilizations there are in the Milky Way,
+but we can think about what factors probably go into how many possible civilizations there are.
+And if we can break that down into small chunks and make reasonable guesses for each of the chunks,
+we can multiply all those factors together and get an approximation for how much there is.
+This approach is actually something that is something called a Fermi question.
+Enrico Fermi was another physicist who was from Italy.
+He eventually moved to the US because he didn't want to be in Fascist Italy anymore and helped work on the first atomic pile, which led to the first atomic weapon.
+One of the things that he would do with his students is, hey, there's oftentimes we got to estimate things that we have no way of actually knowing.
+How can we take this unknown thing and break it down into small parts?
+The example he had his students work with to get practicing is how many piano tuners are there in the city of Chicago?
+You can't just look that up on Google, especially in the 1930s.
+But you realize, well, it's probably got to have something to do with the number of households and then the fraction of those households who have pianos.
+And how many pianos does a tuner need to tune in a year so that way their business is viable and things like that?
+And you realize, okay, I can make decent guesses because of my background knowledge.
+So it's like, I know approximately how many houses there are in Chicago.
+I know not all of them have pianos, but I know some of them do.
+I can put some reasonable fraction there and so on.
+And if you can make reasonable estimates, you can get at least in the neighborhood of the right answer.
+So it's kind of an amazing thing.
+You don't know what the right answer is, but you break it down into small chunks and then you do know at least approximately what it is.
+Drake was trying to do the same sort of thing and say, okay, it's probably got something to do with the rate that stars are coming into formation.
+Because with new stars, you get new planetary systems and with new planets, new opportunities for life to evolve and all those sorts of things.
+So he puts in a bunch of factors starting with what's the rate of star formation in the Milky Way?
+What fraction of those stars actually have planets?
+What number of planets in those solar systems actually become habitable worlds?
+Worlds that life could potentially emerge.
+And then what fraction of those worlds go on to develop life?
+What fraction of those living worlds go on to develop intelligence?
+Basically big brain creatures of some sort.
+Then what fraction of those intelligent worlds then develop communication technology that can be seen across the stars, especially radio signals?
+Frank Drake, again, was a radio astronomer.
+That's where his mind was mostly focused on.
+Lastly, what is the lifespan of this kind of civilization?
+And if you can get reasonable estimates for all those factors, put them together, you find out how many civilizations are in the Milky Way.
+Now, the problem is some of those factors we actually have a pretty good number for.
+In fact, some of them are almost like direct observations that we can do with our telescopes.
+Like what fraction of stars have planets?
+We now know it's near 100%.
+In fact, there are probably billions if not trillions of planets without stars.
+That's how many planets there are.
+There are literally planets floating between the stars that were launched out during the formation.
+They're called rogue planets.
+So we know there are lots of planets.
+There's lots of opportunities out there.
+But on the other hand, lots of things we don't know.
+Like what fraction of living worlds develop intelligence?
+We have no data to support one estimate versus another.
+And so that's a huge unknown.
+And also perhaps maybe the biggest and scariest unknown is what is the lifespan of those civilizations?
+If it's really short, does that mean our civilization is short-lived?
+Conversely, if it's really long, wow, we could have lots of neighbors right now.
+And some of them could be millions of years more advanced than us in technology and philosophy and all those sorts of things.
+And of course, if they are long-lived and there's lots of them, where the hell are they?
+There's an old saying, it's like we're either alone in the universe or we're in a universe teeming with life.
+Both is exceptionally scary.
+Both is terrible.
+A modification of that quote goes back to Arthur C. Clarke, the famous science fiction writer.
+The other verse is either filled with life or empty.
+Both prospects are equally terrifying.
+That's almost the exact quote.
+So the part of the book that you talk about this, is this the, am I at the right section of your book here?
+Yes, that is the equation.
+Yeah, if we zoom in, we see all the different factors.
+So the first one are sub-star.
+That is the rate of star formation.
+Fp is the fraction of stars with planets.
+Ne is the number of those planets in the solar system that are Earth-like, are habitable.
+Fi is the fraction of those planets that have life.
+Fi is the fraction of those living planets that develop intelligence.
+Fc is the fraction of those planets that develop communication abilities.
+They're basically show their technology.
+And then L is the lifespan of those worlds.
+So which ones of these do we have, which ones are the most ambiguous at the moment?
+I imagine, like, the life, right?
+Like, does life come from, because we don't, we haven't solved a-biogenesis.
+We don't know, like, how life starts, right?
+We've got some hypothesis, but we don't actually know.
+Is that one of the, that would be probably the most contentious, wouldn't it?
+Yeah, yeah, so FL and Fi, yeah, are probably, like, the most arguable about now.
+I'll start from the left to right.
+So the fraction, so the rate of star formation, the fraction of stars with planets
+and the number of habitable planets, these are all, especially the last one,
+we now actually have really good data for.
+When Drake was first putting this equation up, we didn't really know any of these factors well.
+But the rate of star formation, we have nailed down pretty well.
+We know basically how much mass is converted into actual star, you know, fusion generating stars
+in any given year in the Milky Way.
+It's basically a couple of stars per year form in the Milky Way.
+The fraction of planets, the fraction of stars with planets, it appears to be really close to 100%.
+It's like really hard to find star systems without planets.
+Even strange star systems that actually are multiple stars orbiting each other have planets in many cases.
+So quite literally, Tatooine from Star Wars probably exists and have a double sunset and a double sunrise.
+Those kind of worlds, yeah, we know that those kinds of worlds exist.
+Are they desert planets with sand people and things like that?
+That is to be determined.
+But at least that kind of sunrise or double sunrise does exist for some worlds.
+I showed this image, let me just open it up properly.
+I showed this image on Deep Drinks yesterday actually, the Hubble Deep Field.
+And this image has always blown my mind because obviously as you know, each dot you see here,
+it's besides like this one here and a few of the, like this one up here and this one and this one,
+like the ones with the lens flares.
+Everything you see here is from a pin, like essentially like a pin prick or a small size at arm's length
+in the darkest part of the night sky.
+And everything you see here is a galaxy and with hundreds of billions of stars, with hundreds of billions of planets
+and you think, you know, there's a wide range of where life could,
+like I'm giving the every man's, probably dumber than the every man's interpretation
+and then I want you to like spin it to sound smart.
+But essentially, like there's a habitable zone around planets right where like life, we know life can survive.
+So if we had another, if there was another galaxy that was exact just like ours,
+with an earth rotating in the, around the sun, the same size and everything like a planet,
+then we would, with water, we'd expect to see, we would expect to be able to go there and live there.
+And so it's like the question is, did life originate on that world as well?
+Like, and if we, when we sell, when we solve a biogenesis, where did we come from?
+Like how did life start?
+How did the, how did non-living matter turn into living matter?
+We will be way closer to answering that original equation here, right?
+Yes. Yeah.
+So to complete the things there.
+So NE, the number of planets in a solar system that are actually Earth-like or habitable,
+that we actually now finally actually have statistically useful data for that.
+So we were only starting to able to detect the existence of planets in other solar systems,
+starting basically in the 1990s with a few different techniques.
+And in the late 2000s, a telescope was launched into space called the Kepler Space Telescope.
+And its purpose was to search out and identify these stars bearing planets,
+but also in a very particular sort of way.
+So as you know, that planets go around their star.
+And if the orbit of those planets is perfectly aligned with our viewing of it.
+So if the star is here, Earth is here and their planet is orbiting.
+So that way that planet can be in the way of that starlight.
+We can look and see if there's a tiny dip in the light from that star due to that effect.
+Now, when I say tiny, I mean, you know, we're talking about, you know, holding up a flare
+and then maybe a tiny, tiny little ladybug is going by in front of that for a moment.
+And you're trying to notice that tiny dip in the brightness and using that to figure out
+not only that there's a planet there, but also you can look at patterns in the dips
+and realize, oh, the planet is going around with this period of time.
+Oh, we also know what this period of time from the laws of planetary motion.
+It must be this far away from the star.
+So literally just looking at the brightness of a star and how it periodically changes this brightness,
+you can figure out where the planet is, what's its period.
+So like how long of a year is on that world, how far it is away from that world.
+You can also make estimates for the size of that world based on how big of a dip that is.
+So you can realize, hey, this is probably a rocky world.
+Hey, it seems to be far enough away that it doesn't get burned up by that star,
+but not so far away that it's turned into a giant icy world.
+And so as you mentioned before, there's this region that is called the habitable zone,
+where if you're in this certain range from the star,
+you get about the right amount of heat from that star so you can have liquid water on your surface.
+And that's the main criteria for what we're declaring a world to be habitable.
+If you can put your feet on the world and there can be liquid water on the surface,
+there is the possibility for life to emerge.
+The policy from NASA is follow the water.
+Yeah, interesting, interesting.
+So with the Drake equation kind of, am I getting this right?
+The Drake equation kind of tries to work out what's the likelihood that aliens exist.
+And what we've kind of discovered, intelligent life, sorry,
+what we've discovered is the universe should be teaming with life based on some assumptions, right?
+And then there's the Fermi paradox, which is like, why don't we see them?
+Like if they're so common, why don't they exist?
+Yeah, so it still depends a lot on who you talk to,
+because some people have extremely optimistic views of what some of those last numbers in that equation should be.
+So quite literally, you can look through the popular literature, the scientific literature for estimates,
+and you can get values for the number of active civilizations in the Milky Way galaxy right now.
+That number N on the left, big N is how many civilizations are in the Milky Way, as we're podcasting.
+You can find people say that number is anywhere between millions and zero.
+Oh, okay.
+So as you can imagine, that's what we would call a disagreement.
+Yeah, yeah.
+Yeah, because we don't have the answers to these other variables.
+Yeah.
+And so in our approach to it, we actually were looking at some other people's efforts to actually try to incorporate our uncertainty in what those other values are.
+But the one that we were first cribbing off of, we saw that there were some unjustified ways that they were making their statistical distributions.
+So we found a way of saying, hey, if we don't know what this value is, let's stop pretending we know or just take a bunch of opinions.
+Let's put in a statistical distribution that basically has the words I don't know written right into the math of it.
+And when we do that and we take where we say we don't know what this value is so we can treat it in this statistical distribution and say, hey, this is a fraction.
+It has to be somewhere between zero and one.
+It's going to have this sort of shape of distribution and we take random poles of numbers from there just from a random number generator.
+Plug that all in and we look at a simulation that pulls these numbers and we ran the poles a million times just to get a good distribution from that.
+And if you're wondering a million times, is that a lot?
+Well, when I did this with my computer code, it was done in like five seconds.
+So not that much time.
+Thank goodness we didn't have to do this by hand.
+But nonetheless, our best estimates suggest that there's a 50-50 chance if there are any other active civilizations in the Milky Way right now.
+And a very high probability that there's at least somebody out there in the observable universe.
+And the observable universe consists of our galaxy and hundreds of billions of more galaxies that we can see with our telescopes.
+So let's say that again.
+So there's 50-50 chance and then do you say there's 50-50 chance?
+There's a 50-50 chance that there's a civilization in the Milky Way along with us.
+In the Milky Way?
+Yes.
+The thing is though, the Milky Way is what we would call big.
+Why don't we even call it astronomical in size?
+Yeah.
+Well, yeah.
+Yeah.
+But yeah, because I thought like you'd expect.
+So okay.
+All right.
+I'm getting excited.
+The beige is kicking in.
+Is our first radio waves, where are they at?
+Have they even reached anywhere near the edges of the Milky Way galaxy?
+Or are they just like?
+No, not even close.
+No, no, no, no, no, no, no.
+So we have been pumping radio waves out into deep space for less than a century.
+And because radio goes at the speed of light, radio is just a form of light.
+It means that it has been able to go away from the Earth basically 100 light years.
+Now, 100 light years does mean it has gotten to hundreds of other stars.
+But that's only hundreds out of about 400 billion stars in our galaxy.
+Our galaxy.
+Yes.
+And our galaxy has a diameter of over 100,000 light years.
+So how long is it going to take for our radio signal on our side of the galaxy to get to the other?
+Basically, geological periods of time.
+Yeah.
+So just to reiterate this, again, these are galaxies, right?
+So like now, like, think about this tiny little dot here.
+This is the one where my cursor is.
+I don't know if you can even see it.
+Sorry.
+This one.
+This is my cursor.
+This one with my cursor.
+Think about this little one here.
+Think about that.
+Think about how long, like, how long would it take for a light to travel from one side
+to another?
+Like a long time?
+Like, I don't know.
+Like, how long is, how big are these galaxies?
+Like, they're huge.
+Well, some of the galaxies are larger than ours.
+Some of them are smaller.
+One thing that you can actually do is just look at the color of these galaxies and know
+which ones are closer and further away.
+So the further a galaxy away is, the faster it's moving away from us because space is
+expanding.
+Mm-hmm.
+And it causes something called redshift.
+And it's very similar to the Doppler shift or the Doppler effect with sound.
+So if you have an ambulance trunk go by, it sounds high pitch when it's coming towards
+you and low pitch when it's moving away.
+Or if a locomotive does that, all those sorts of things, those sorts of sound effects, you
+get the same thing with light.
+If something is moving towards you at a fast speed, it becomes bluer.
+And if it's moving away from you, it's redder.
+So those redder galaxies in there are the ones that are moving faster away and those
+faster ones away are moving faster away because there's more space between us to move faster
+away.
+So basically, the really red ones are extremely far away on the order of perhaps the billions
+of light years away.
+Billions with a B.
+Yeah.
+So what we would call pretty far.
+Yeah.
+And I don't have an image of the Hubble, not the Hubble, the James, James Webb.
+But if someone links it, I'll bring it up.
+But which is the newer telescope, right, and has like way better images.
+But this is like, this is one of the first major breakthroughs.
+But and so we can see.
+Could you scroll down and just want to quickly read the text down there?
+Because, okay, this is the Hubble one.
+Just the original Hubble one also had like a few pieces missing in the upper corner.
+So I was double-checking if this was the Hubble or the James Webb.
+Yeah.
+This is, yeah, I think this is like the, like after that, not the original original original
+but like once they got like all the data.
+Yeah.
+The first time they did it.
+Yeah.
+They just pointed the Hubble Space Telescope in a black patch of sky above the Milky, not
+the Milky, above the Big Dipper for I think about 100 hours of viewing time and just pointed
+it there and looked at basically something that would be, yeah, just a dot in the sky
+and just stared at that dot for 100 hours and letting light collect on its sensors.
+And then lo and behold, it sees thousands of galaxies in just a random patch of sky.
+And then from there, you can realize, oh, we can extrapolate this and realize there are
+at least hundreds of billions of galaxies in the observable universe.
+And are there more, there are more like there's an event horizon.
+This may, I sound so dumb right now.
+I know how that's how like, I feel like I'm on Joe Rogan or something like, I feel like,
+but I used to be really into science and astronomy, but I've like pivoted my brain to theology
+for the last like few years.
+So like, I know a little bit, but I'm like half remembering, but like there's an event
+horizon, right?
+Where we don't actually have, like there could be, is it, is it true that there could be
+more galaxies further than this is just that we'll never be able to see them?
+Because.
+Yeah.
+And so the term event horizon is usually reserved for black holes.
+And that's the region of which if you fall in that, you can no longer escape.
+So I cannot pass that.
+Yeah.
+But there is.
+Yeah.
+There is what's called the cosmic horizon horizon.
+Yeah.
+And yeah.
+And there's a point where there are stars, planets, galaxies so far away.
+And because again, because the universe is expanding and that rate that objects are moving
+away from us is linearly connected to how far away they are.
+So something twice as far away from us is moving away from us at twice that speed.
+Well, eventually something is so far away that it's a moving away from us greater than
+the speed of light, which means whatever is there, whatever technology or sources of light
+are there, we will never see it, even if the universe lasted an infinite amount of time
+because it's moving away from us faster than light speed.
+It's like, yeah, it's like trying to outrun.
+Yeah.
+It's like having a turtle on a train and is trying to like, you know, not get outrun.
+It's like, no, no, you are on a thing going way faster than you are.
+So yeah, that means that we know we can actually even see I think towards the edges like gravitational
+effects on galaxies towards that cosmic edge and note that, hey, it's only consistent if
+there's actually mass beyond what we can see.
+The only question though is how much further beyond that horizon does the universe go?
+Our current observations are consistent with the universe being infinitely big, but we
+can't know that for sure.
+Right.
+Okay.
+Okay.
+Yeah, that's super wild to me.
+See, this is the question I often debate, I've debated a few Muslims on TikTok who always
+point back to the big gang, where did the big bang come from and all that.
+Can you please just give a brief explanation of like what the big bang actually tells us
+how we know the big bang happened and what it doesn't tell us?
+Yeah.
+So first off, it's worth noting the big bang is not the beginning of the universe itself.
+It's the earliest stage of the universe that we can reconstruct.
+And there's a point where our physics just breaks down.
+We don't really know what happens.
+And when I say it breaks down at this point of time, we're talking within the first 10
+to the minus 40th power seconds.
+So that's a 0.40 zeros and then another digit.
+So this extremely tiny period of time where we don't really know what's going to happen
+because our physics doesn't work out there anymore.
+We basically see like the ultimate conflicts between general relativity and quantum mechanics.
+So what happens before that point is still speculative because we don't yet have what's
+called a quantum theory of gravity, something that would actually reconcile general relativity
+and quantum mechanics.
+And if anyone in the audience can solve that, would you please let me know so I can take
+credit for it and get that Nobel Prize?
+But the important thing is we know that early on for the observable universe, we were in
+an extremely hot, dense state.
+We basically came from almost infinitesimally small amount of something that expanded out,
+well, to the whole universe in size.
+It even went through this phase, or at least most cosmologists will say there was this
+early phase where the size of the universe actually grew exponentially and is called
+cosmic inflation.
+This was first proposed by Alan Gooth at MIT back in 1980.
+I've only met Gooth once, but boy, I'd like to have been one of his students.
+But nonetheless, the way we know the Big Bang happened is a few different routes.
+The most iconic one is that we basically found the afterglow from the Big Bang.
+So if the whole universe was just basically a gigantic fireball at one point, you would
+think, well, maybe there's leftover radiation from all that high temperature and all that
+heat.
+So where is all that light?
+We can extrapolate out and realize, all right, if you have all that heat and then you let
+it expand out, it's going to cool down.
+We can estimate, all right, it's going to be pretty cool at this point now that the
+universe has gotten so big.
+But there should still be some sort of detectable light from that.
+So in the same sort of way like with infrared cameras can pick up heat, and the hotter something
+is, the different kind of light it gives off.
+The idea is, hey, we should expect there to be light of usually in the microwave region
+of the light spectrum and find something there.
+And accidentally, a couple of radio astronomers discovered that in the 60s, and it was accidental
+because they were pointing at their telescope and they kept getting like this weird static
+and they were thinking like, OK, where's the interference from?
+They tried everything, including like cleaning out pigeon poop from their telescope, thinking
+that was somehow causing interference.
+But no matter what they did, no matter where they pointed the telescope, they got this
+constant interference at this range of radio lengths.
+And they realized, isn't there some theory that might explain this?
+And some of the other cosmologists are like, you just found the radiation we've been looking
+for for the last like 10, 20 years.
+And with further investigations, we've been able to better and better measure this background
+of radiation.
+So it is called the cosmic microwave background or CMV.
+We have detected it to extreme precision that we can look at fluctuations in that temperature
+down to like 100,000th of a degree.
+We can look at like fluctuations of that size in this background.
+And it's perfectly consistent with the afterglow of that.
+And pretty much all like the major science is, yeah, this is one of the measurements of
+that.
+So the curve that is being that's fitting here is what you expect from what's called
+a black body radiator.
+So if you have something that is physically ideal, you heat something up, it gives off
+a certain spectrum of light.
+Well, that's exactly what we see for the universe.
+And it gives us this black body radiation and it perfectly conforms to a current temperature
+of the background of the universe of about 2.7 Kelvin.
+Kelvin is a temperature scale.
+This corresponds to like negative 470 ish Fahrenheit.
+So this is like, yeah, so, yeah.
+So you see like the observational data.
+Is this the, I know, I'm not sure, so is this the observational data meets the theoretical
+data?
+Like the points are, the black, the line is the theoretical, I don't know.
+Yeah.
+So the blue line is what you'd expect from black body radiation theory that all the crosses
+are the data from what's called the Kobe satellite, which was from the 90s.
+So this is actually old data.
+This is like 30, 40 year old data.
+There have been much, there have been more advanced versions of basically capturing this
+same data with even greater precision.
+The most recent space telescope was called the Planck Space Telescope and it provides
+the highest precision of measurements of the cosmic microwave background.
+Yeah.
+And this, I don't have that on here.
+Like I've got all my data from the 90s it seems, but I don't have, but for me, this
+was one of the things that's like, this is what you want in science.
+You want to be able to make novel testable predictions.
+So you make a prediction, we should see X and then we measure it and it literally lines
+up perfectly with what we, for that to be a coincidence, that would be an insane coincidence.
+Like I'm sure someone's on the mass on that, but it would be like unfathomable.
+Yeah.
+I mean, there are efforts by, there are like a few astronomers, like very, very few who
+still try to find some way to explain this without the big bang.
+But they're, I'm not going to say heretics, but basically they have to act like heretics.
+I remember reading one of their papers that they put out, they basically are trying to
+compare themselves to Galileo and being, you know, run out by the Inquisition.
+It's like, no, no, you just had a crap theory and you're not leaving what your teacher forced
+down you when you were grad students with him, unfortunately.
+Are these like answers in Genesis scientists or these?
+Oh, no, no, these, you know, these are still, you know, they're PhD scientists and the funny
+thing is the person that they follow was an interesting person.
+Oh, why did I forget his name all of a sudden?
+It'll come to me later.
+But basically the person who actually coined the phrase big bang to disparage the idea.
+He was actually an atheist and he didn't like the big bang because it said, hey, that sounds
+too much like creationism.
+That sounds too much like that Genesis story.
+So this is nonsense.
+Let's find some other way to explain how the universe can be infinite in the past that
+it doesn't have like this early state.
+Fred Hoyle, that's his name.
+Fred Hoyle.
+Yes.
+Yeah.
+It's all coming back to me.
+Yeah.
+Yeah.
+After a few more drinks, plenty of things were more come back to me.
+But but yeah, Hoyle was an atheist and he didn't like the big bang theory because he
+thought it was too religious and he tried coming up with ways to explain the same sorts
+of data without that.
+Some of his students are still trying to follow that, but basically there's like maybe two
+or three professional scientists that still find or still try to find some way to explain
+this data and nothing that actually is physically plausible or we can find consistent with other
+measurements.
+Yeah.
+So with the with the Drake equation and the look, you start your book in one of the most
+beautiful ways, which is to quote Carl Sagan and you say, let me just I should just read
+it out actually because it's a beautiful quote, but it's going to annoy everyone because I
+want to just ask you, you know, tell me the answer, do do aliens exist?
+But where is this quote, where is this quote, where is this quote?
+Yeah, here we go.
+It's from Demon Haunted World, which is a great book, by the way, a bit outdated because
+it's talking about UFOs a lot, but I'm frequently asked, do you believe they're extraterrestrial
+intelligence?
+I give my standard arguments.
+There are lots of places out there, the molecules of life are everywhere.
+I use the word billions and so on.
+Then I say it would be astonishing for me if they weren't extraterrestrial intelligence.
+But of course, there is of yet no compelling evidence for it.
+Often, I'm asked next, what do you really think?
+I say, I just told you what I really think.
+Yes, but what's your gut feeling?
+But I try not to think with my gut.
+If I'm serious about understanding the world, I think with anything besides thinking with
+anything besides my brain, as tempting as that might be, is likely to get me in trouble.
+Really, it's okay to reserve judgment until the evidence is in.
+And it's an amazing quote, but I have to ask you, what's your gut feeling?
+Is blasphemous to ask a scientist that?
+Yeah, well, I mean, the best I can do is model my uncertainties and try to present those the
+best I can.
+And that's at least something I think that I could do a little bit more than what Sagan
+was able to do in that quote by giving a little bit more mathematical bounding to the likelihood.
+So the fact that we can run our simulations and say, based on what we know right now,
+we have more than 95% confidence that there's life, intelligent life out there somewhere.
+But if it's actually ever going to be close enough for us to ever commune with, I have
+no idea.
+And boy, oh boy, would I love to make that discovery, not only because of its amazing
+scientific magnitude and being the one going around saying, I'm the one who found aliens
+hurrah, but it also actually says something wonderful about the future of humanity.
+So one of the things that I note in the way our estimates come out is one of the reasons
+we think there might only be a 50-50 chance that there's another civilization in the Milky
+Way right now is dependent on what is the lifespan of that civilization and the way
+we estimated how long such a intelligent communicative civilization lasted is really ultimately based
+on how long we have been around doing that roughly a century and how can we project that
+out.
+And there are some interesting statistical arguments to do that.
+It has the not so optimistic name of the doomsday argument to get to those numbers.
+But we do that and we use that along with our other estimates suggesting very roughly
+50-50 chance there's anyone in the Milky Way.
+But also that means if there is someone and they're just randomly distributed somewhere
+in the Milky Way, they're going to, in most cases, be so stupendously far away that we're
+probably not going to notice them, which conversely means if we do detect aliens, that means they
+have to be close.
+And the only way for that to be probable is if they are numerous.
+For them to be numerous, they'd have to be long lived again from the Drake equation.
+And here's the beautiful thing.
+That L in that equation is for the average civilization.
+So if we are just mere average and we find there's alien life out there that we can detect,
+that tells us the average lifespan is very high, thousands, tens of thousands, millions
+of years, which means if we are just average, our future is thousands, tens of thousands
+of years, we have a lot of reason to hope because we can see the sea students of the
+galaxy are long lived.
+If we are just sea students of civilizations, we have a glorious future ahead of us.
+Now we still have a lot to do.
+We can't just say, well, the aliens did it and everything's going to be fine.
+It's like the aliens did it.
+So let's figure out how do we can be at least as good as them.
+The way we conclude that part is we leave it as an exercise to the reader to become
+a long lived civilization.
+That's brilliant.
+So I told a few friends that I was having you on and they asked me, like I said, oh, you
+know, we're talking about aliens and they said, oh, we've definitely been visited.
+So I wanted to get your perspective.
+Have we, do you think we've been visited?
+What about all the alien footage that we see in the, not alien footage, UFO footage that
+we see?
+Like, what do you make of all that?
+Bob, Bob Lazar, who says that he worked on alien crafts and et cetera, et cetera.
+Like, what, what, where do you stand with all of that?
+So there is a long history of people seeing things in the sky and calling it aliens, basically
+going all the way back to like the 1940s when the term flying saucer came into cornage or
+coinage.
+And the thing is, the cases like in the 1960s that UFO advocates thought that there was
+no way the skeptics could debunk.
+No one talks about those cases anymore because they were debunked.
+The cases that then came up in the 80s and 90s.
+We don't talk about them anymore.
+And the ones that have been the most recent, the videos that came primarily from the US
+Navy.
+Well, even the Navy has basically said, hey, there's nothing here that we can say is actually
+signs of alien tech.
+And in particular, it looks like there are reasonably good mundane explanations for some
+of these things.
+In the book, we talk only about one of the videos, the one that's called Gimbal, where
+it looks like there is this craft and then all of a sudden it does this like rotation
+and it seems like there's no like active propulsion or anything like that.
+But some really good efforts have gone into to try to figure out, hey, this is actually
+probably related to the sensor that was on the F18 that was tracking this with its infrared
+camera.
+And in particular, it had to do a rotation of its sensor to keep itself focused on that
+thing.
+And the thing that actually does this rotation is called a gimbal, the name of the video
+itself.
+It's almost like the people who took the video knew exactly what was the cause of this rotation
+of what was ultimately lens flare.
+So there are analyses like that that I don't want to say debunk it, but better explains
+it without needing more extraordinary events to explain things.
+And the fact of the matter is, the reason so many things are UFOs and the UFO unidentified
+is that they're basically like on the limits of what can be even detected.
+They're in what Mick West calls low information zone or LIS because once it comes into the
+high information zone and you can actually tell what it is, you realize, oh, it's not
+aliens.
+It's a balloon or so many other things.
+It's a similar thing I've also seen with like Bigfoot.
+You basically have either blob swatch.
+The video is so blurry that you can't really tell what it is, or you can tell what it is
+and it's not Bigfoot.
+Yeah.
+Yeah.
+I've seen a lot of the history of this to me.
+Yeah.
+I've seen some VFX artists replicate, like not replicate, but like kind of explain what
+might be going on in some of these, these, um, this footage.
+There's also the same thing with Bigfoot as well, but just it's easy to kind of point
+to something like that and just, you know, the unexplained and say, oh, it's X or it's
+Y, you know, like trying to fill in the gaps.
+So do we have any evidence that even a non-intelligent life exists?
+I know that we've had some asteroids hit Earth that have amino acids in them, which are the
+building blocks of life, but do we have anything else?
+The building blocks of life we know exist.
+We can actually see amino acids in these objects that are called giant molecular clouds, which
+as the name suggests is just this big cloud of molecules.
+And we can actually detect they have like amino acids, they have alcohol molecules.
+It's a beer in space, but, but like I said, it's the building blocks.
+We haven't yet seen hard evidence of the building blocks actually put together into proper life
+forms.
+Back in the nineties, there was this press conference given by President Bill Clinton
+talking about a rock that was found in Antarctica and realized that it came from Mars.
+And it looked like under microscope, Hey, this looks like it has like the fossil formations
+of bacteria inside.
+And they're like, wait, Martian rock, bacteria, oh, and no one has retracted the suggestions
+from that original paper, but most scientists don't think there's anything definitive there.
+And in part, one thing that isn't obvious from the images of that rock is the scale
+of those microorganisms.
+They really wouldn't be that micro, but it's really hard to tell from the images what the
+scaling is.
+So if these were bacteria, they'd be chunky bacteria.
+That might be the best way to put it.
+And yeah, so while I don't think anyone has retracted the claims from that original paper,
+it's not widely believed to be strong evidence of alien life that existed at some point on
+Mars.
+But we do have some prospects of looking for things.
+So there have been many attempts to look for past or present life on Mars, some more scientific
+than others.
+Infamously, Percival Lowell thought he could actually see canals on Mars from an advanced
+civilization.
+They're trying to move water from the poles to the central regions.
+Eventually, we figured out, no, there weren't things there.
+It was basically optical illusions.
+In fact, he might have actually been seeing the veins in the back of his eyes and then
+projecting that into his drawings.
+That's one possibility of what he was actually seeing.
+But what I am really hoping for, and I definitely hope this happens before I become too old
+of a man, but one of the places that is really promising to at least investigate isn't Mars
+or any of the planets, but the moons of Jupiter, Europe, especially.
+There's also Ganymede is also a good one around Jupiter.
+But if you go to Saturn, there's two moons really interesting to investigate.
+One of them is called Titan and the other Enceladus that I would like to have the most focus on.
+Titan is actually the largest moon in the solar system.
+It's so big, it has its own atmosphere.
+Yeah.
+And let me just bring up some images.
+So us geniuses can show everyone else who doesn't.
+And the wonderful thing about astronomy is we got the best pictures.
+Yeah.
+Let me just share.
+Which option?
+So we have right now.
+So you got these guys.
+Oh, okay.
+Yes.
+So can you explain what's going on here in this image?
+So this is the image of the Titan and Enceladus, which is a moon of Saturn.
+And we only discovered that it produced these geysers just in the last 10 or 15 years from
+the Cassini probe that had gone to Saturn.
+Now these geysers are water geysers.
+They're also sometimes called cryovolcanoes, in part because that sounds cooler, right?
+Now for this to happen, that means that there basically has to be processes in the core
+of this moon that produce enough heat that actually causes this thing to spew out in
+the same sort of way there has to be enough heat in the core of the Earth to produce volcanic
+eruptions with rock.
+But this is happening here with water.
+And we know it's water because we can actually measure the light that is produced going through
+here.
+We can look at the chemistry of that and we realize, yeah, this thing is spitting out
+water.
+And if it's spitting out water, that means, hey, there's liquid water under the surface
+of this world.
+And as NASA says, follow the water because that's the most important chemical for life
+to emerge in.
+So we know Enceladus has so much water, it's literally spitting it out.
+Europa around Jupiter is also, we've been able to determine, has water, it has a frozen
+ice surface.
+It's probably a mile thick of ice, but at its core, it's liquid water.
+And it has so much liquid water, Europa has more water than the Earth does.
+Whoa, really?
+Oh, yeah.
+Yeah.
+It's got gargantuan amounts of water underneath there.
+And is there anything living down there?
+And again, because it's liquid, that means something has to be heating it up.
+And mostly then it's going to be like geological processes that are spewing heat into that
+water.
+And that might even be how life emerged on Earth around the heat vents in the oceans
+of the Earth that might have provided both energy and nutrients that allowed the first
+life forms to emerge here on our world.
+So could the same thing be happening on Europa?
+It's an open question.
+Now there are talks about NASA probes going to Europa, trying to drill through the miles
+and miles of ice and then stick some instruments, some cameras, some chemistry tools and try
+to figure out what's in that water.
+You could just imagine, if say in 2060, we send a probe there, it drills down, it sends
+down a little submersible, it goes around with its camera and something comes and licks
+the camera lens.
+The entire world of biology is just flipped on its head because of that discovery.
+Everything is flipped on its head.
+Yeah.
+Critical factually, thank you so much for the five little super chat.
+She is Aaron and Dave.
+This is truly a fun chat.
+Science rocks.
+Yeah, it does.
+I do miss science.
+I just honestly, I was really loved science for a long time and then I just pivoted to
+theology and my brain just got obsessed.
+I might have some sort of ADD or something, but I'm just obsessed with theology and it's
+pushed out some of the science.
+It's still there somewhere, but it's not as sharp as it used to be.
+But it truly is extraordinary and maybe you mentioned that this isn't your area of expertise,
+of course.
+Our current understanding of how life started on Earth, a biogenesis is we have what I find
+is that what I find is super interesting is we have working hypothesis.
+Now given some of these hypothesis have been thrown out by the site, like they say they
+don't think it's actually happened like that, but they actually do work.
+So we have the RNA world hypothesis, which is most people don't accept anymore, but essentially
+that RNA formed DNA in hot pools and stuff, but they've actually turned an unliving matter
+essentially into the amino acids and they've got it somewhere along to making life under
+certain conditions.
+And then there's the perspective that maybe life started like that, RNA world hypothesis
+maybe started with the vents, like you mentioned.
+And there's also another perspective that life actually started out of this world and
+then ice was flying through space with this living matter on it and landed on Earth and
+then evolved.
+I mean, we don't actually know and it's super interesting.
+Do you know anything about the prospect that we do, that we literally life on Earth could
+be technically alien life?
+Yeah, so the hypothesis for that is called panspermia basically literally like seed everywhere
+would be like a kind of a literal translation of that phrase.
+And so yeah, if life emerged on some other planet or even some other part of the galaxy
+and is able to just spew out those organisms and then they just land on other fertile places
+that can then grow and evolve, that seems like an interesting idea.
+So what's the actual direct evidence for panspermia?
+The best evidence I know for it is that life, at least some forms of life are rather strangely
+robust for surviving in the vacuum and radiation of space.
+So certain bacteria, you put them up in a rocket, expose them to the vacuum of space,
+the radiation from out there, bring them back and you see, hey, they actually, or at least
+a good fraction of them survived.
+They can put themselves in these like deep hibernation states, preserve their DNA as
+best as they can.
+And then when the time comes, they can basically grow and come back to life fully.
+Perhaps one of the more famous larger versions of this is the tardigrade, also known as
+the water bear.
+These very tiny organisms that live in dew drops, they're absolutely small, fascinating
+little creatures.
+Sometimes they're a little bit cute, that depends kind of on your opinion and depending
+on the scan.
+But yeah, these guys are apparently like super radiation hard, they could take extreme temperatures,
+they can handle the vacuum of space, they basically just desiccate and then once water
+is presented back to them, they can basically come back to life as if, you know, they just
+took a long nap.
+So it's interesting that there are life forms that are robust enough to survive in space.
+So could that be because that's originally where they had to, you know, go out and survive
+for the longest time.
+That's the best contingency argument I have seen for panspermia at this time.
+Though even those experiments are a little bit limited for the simple fact that they're
+sending up probes into space for like maybe months.
+But for panspermia to work, life has to basically like survive on comets for millennia or even
+like millions of years to get from like one part of the galaxy to another.
+So it's really hard to do an experiment that long and check what fraction of things can
+survive.
+So the ultimate issue though is the fact that if you say, well, life emerged someplace
+else, then you basically kick the can down the road.
+Well, how did life emerge?
+Well, it merged over there.
+Well, how did it merge over there?
+I don't know.
+How do you do the experiment?
+Well, now we definitely don't know because we don't even know where the lab was.
+So we are, yeah.
+People just prompted to search for tattoos.
+Apparently the people like getting tartar-grade tattoos.
+Live tiny, die never.
+Like this is amazing.
+Yeah.
+Yeah.
+They got an extra boost in the reboot of Cosmos with Neil deGrasse Tyson.
+And they're also an integral part of Star Trek, yeah, Star Trek Discovery.
+Oh, wow.
+That's so interesting.
+Yeah.
+In that show, there's a giant tartar-grade that can actually travel through all of time
+and space.
+They basically hack its DNA and figure out ways to have their ship basically shoot around
+like it's almost like wormhole popping around the universe.
+So are we close to finding out about life where life started?
+I know this isn't your expertise, but do you know how close we are to that?
+And so that's one of the parts of the Drake equation.
+Yeah.
+I don't have a good sense of how, quote, unquote, close we are to having it worked out.
+So whether the RNA hypothesis is the best or maybe it's actually the peptide hypothesis
+that peptides are also kind of a precursor that might also help lead along the way.
+There's also a new branch of physics called non-equilibrium thermodynamics that also
+is trying to lay more of the theoretical foundations for what life is and comparing life to non-life
+from a purely physics point of view and showing that, hey, life basically takes advantage
+of when you have any sort of like energy gradient.
+And so long as the energy gradient isn't so large that it causes like things to burn
+up into flames, something that can basically hack that energy flow and use it for their
+own purposes, such as reproducing, is going to have some sort of significant advantage.
+So there could be even thermodynamic drives to actually have molecules become living,
+objects.
+So there are things that indicate that.
+But on the other hand, it also looks like, hey, it looks like it's all sorts of chemical
+combinations that are required or very particular configurations of an RNA molecule that can
+actually start reproducing itself.
+So is it life extremely likely to happen or extremely unlikely to happen, even if you
+have all the ingredients?
+I honestly don't know.
+And I use that to reflect the results in our paper with one interesting update.
+And the thing that kind of indicates to me that life is more likely to emerge when you
+have the right ingredients, that it becomes this super rare accident, is the fact that
+life emerged on Earth about as quickly as it could.
+So you can basically think like, hey, the Earth formed approximately four and a half
+billion years ago.
+A little bit after that time, you've actually had like a surface where you could have liquid
+water on it.
+So roughly four billion years ago, you have a planet with liquid water on its surface.
+The earliest forms of life that we can confirm existed are from only a few hundred million
+years after that.
+It's almost like life as quickly as it could started to emerge.
+And we include some of these estimates of fact that, hey, it looks like life emerged
+very quickly while intelligence took a long time to actually suggest it's more likely
+than not that life will emerge with the right conditions than that it's a rare phenomenon.
+It's not very strong evidence, but it's at least a little bit of indication that if this
+were really, you know, this stupendously almost impossible thing to happen, then life would
+have taken not, you know, a couple hundred million years to develop, but it would have
+taken most of like the lifespan of the Earth to form.
+But instead, it might have actually formed just about as soon as the ingredients were,
+you know, put in the water.
+That's, yeah, that's incredible.
+What do you think would be the societal impact if we did find non-intelligent life?
+So let's say we found some grass growing on, you know, growing on Neptune or something,
+you know, like not, you know, Europa, like let's say we found like algae or some form
+of life that was clearly not intelligent, but it was clearly life.
+Do you think they would have much societal impact?
+Or do you think we need to find literally ET for it to shake the world?
+I suspect it's more likely that we're going to need ET, extraterrestrial intelligence
+for us to really kick society, because first off, there's already a lot of people who already
+do think life exists in the universe.
+So if us discovering it was real, we'd be like, yeah, well, we already knew that heck
+we're already in the UFO religion.
+So obviously we believe that there are like several UFO religions out there that have,
+you know, active memberships.
+But yeah, so I mean, if we discovered, hey, there actually is like bacteria in the pools
+of water in Europa.
+I know as scientists will be super excited.
+Will the average person?
+That isn't so clear to me because what's going to be the impact to them.
+But on the other hand, if we find out, hey, somebody's actually listening to our radio
+signals, that that changes our calculus and a whole lot of other things.
+And it comes to also how big that impact is going to be.
+There is something called the Rio scale, and it's basically to try to say what sort of
+factors will go into like how big of an impact the discovery of intelligent life will have.
+And that depends on a few factors that kind of, you know, make intuitive sense.
+Is the thing we're detecting stupidly far away and it's just like some like random,
+you know, detection of, oh, we found somebody's gas pipe in another galaxy going off.
+It's like, okay, we can tell there's somebody out there, you know, cooking dinner.
+All right.
+Maybe that's not going to have as much of an impact versus, hey, there's a mothership,
+you know, floating around Jupiter right now and it's sending signals to us that we should
+have like some sense of, hey, it's going to matter like how far away it is.
+Can we communicate with them?
+Are they close enough to chat with us to know about us?
+And of course, is there any way of detecting they have any intentions towards us for good
+or for ill?
+Those are going to have different impacts.
+So, you know, finding out that there is life in the Andromeda galaxy is going to have a
+different impact versus the flying saucer is landing in front of the United Nations.
+Yeah.
+So, so, and here's, here's another big question, like, what would happen if, say, China discovered
+it?
+And I know that not to disparage your wife's country of origin, but, but, you know, everyone
+is, I love China, by the way, but everyone, like the country and the people, but not the
+politics.
+But the, the, you know, people are very suspicious of China at the moment, you know, TikTok is
+getting banned and everything.
+Yeah.
+And, you know, COVID is a lot of conspiracy theories around lab-league hypothesis and
+all that stuff.
+What if like China or Russia, let's say Russia, because it's so close to home, Russia is like,
+yep, we discovered life.
+Like, do you think, do you think that other countries of the world, like, no, that's like
+that's bullshit or like, you know, you've, you've docked with the evidence?
+Like, do you think that'll be, it'll be, there'll cause division amongst nations, especially
+nations that are super religious who might not accept extraterrestrials?
+So it's going to depend on the way, but if the way we find out that there are extraterrestrials
+out there is through our radio telescopes, the only way that we're actually going to
+have that confirmed is not simply that one radio station picks things up.
+It's actually one of the guidelines for SETI, the search for extraterrestrial
+intelligence, is that if you have, you know, detected something through radio
+telescope, you've done everything you can to convince yourself it's not some sort of
+terrestrial source, you need to get it confirmed by an independent observer.
+So if there is some radio telescope in Siberia that's picking up signals from
+SETI Alpha 5, supposing there's a planet around SETI Alpha, it's not going to
+become a discovery unless another radio telescope independently picks that up.
+And they're going to have to call someone who's disconnected from their own
+observations to do that.
+So if someone in some Siberia detected that, they're going to probably have to
+call up somebody in Western Europe or depending on where things, maybe they have
+to call someone in Australia where there's a very large array of telescopes down
+there. There's no way to keep this to yourself because the aliens are not
+like signaling and sending this beam like to just like one very tiny geographical
+area. And even if the Russians did pick it up unless someone else can confirm it,
+then it's not going to be counted as a discovery.
+It's just going to be considered a weird signal that we can't explain.
+We already actually have an example of that, of a radio signal that was
+discovered from my alma mater at the Ohio State University back in the 1970s.
+They discovered exactly the kind of radio signal that people would say that you
+should be looking for if it's caused by alien intelligence trying to get our
+attention. And when the readout for like this radio transmission was found,
+like the person literally in the margins of that wrote the word wow, because of
+the strength of the signal. So it is called a wow signal.
+Yeah, I remember that. Yeah.
+Yeah. But the fact that no one else detected that is basically let everyone else
+to say, Hey, we don't have an explanation for what this is.
+And we haven't come up with any non alien explanation that fits all the data.
+But because no one else was able to detect it or confirm it, or even in all
+the decades since like re detected from the same part of the sky, everyone's
+like, we don't know what this is, but we can't prove it was intelligent.
+There's there's the authors.
+There's so many areas we could go, but there's something that
+like that maybe you could help help us with.
+So the this is this is kind of tangential to what we're talking about,
+but the double slit experiment.
+Um, here we go.
+I don't even know if I'm going to be well, let's test your knowledge or you just
+like, okay, okay, hold on.
+So we're going to do the double slit.
+I think I need to switch back to the strong stuff.
+Okay. Yeah.
+So, okay, okay.
+I'm going to I've tried to understand this about a billion times.
+I'm going to explain it and I want this is a drinking game and I need you to
+um, actually maybe it's not a drinking game.
+Tell me how bad I did.
+Okay.
+Now tell me where I'm where I'm off.
+Okay.
+I'm going to try and explain the double slit experiment.
+Okay.
+Just to make sure, so the conditions for the game is that every time I think
+you see something wrong, I have to take a shot.
+I can't do that.
+No, as soon as I'm just way off the, I will go way off.
+I will just be way wrong and just take a shot when I'm way wrong.
+So, so the double slit experiment, right?
+We've got these two slits, okay.
+And we shoot photons through there, um, through these doubles, double slits,
+like random light rays and they hit this board at the back here and they show
+like a, you know, a line of light rays, a line of light rays, a line of light
+rays, but what happens is if we, if we, uh, we get an interference pattern
+when we, when we shoot it through as if, um, light rays are waves and not just
+particles, not just like single, but you know, ping pong balls going through
+a hole, we actually interfere with each other like waves.
+So you get this interference pattern, but what happens is if you close one
+of these, um, these little doors here, there still is an interference pattern
+as if it's still, as if it's still gone through the other hole.
+But even weird thing is if you observe the, like if you fire one
+photon at a time and you observe it, it chain, it collapses from, and this is
+where I get it wrong, from either a wave to a point or to a point to a wave.
+Is that right?
+It like the act of observing it actually makes it change.
+It's like, it changes it's, um, it changes.
+Yeah.
+You're in the neighborhood of what is going on.
+Did you take a shot or was I, was I kind of in there?
+Well, I was going to take a shot no matter what you said.
+Okay.
+All right.
+Also.
+Woo.
+All right.
+So the idea is based on an experiment that goes back a hundred years before
+quantum mechanics was ever conceived.
+It goes back to how we figured out that light actually is a wave.
+So there was a polymath by the name of Thomas young, who among the
+things he did was decipher the Egyptian hieroglyphs, you know, just small
+things like that.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Uh, he not completely on his own, but he did a major contribution to figure
+out what the Rosetta stone actually was saying and how to figure out that it was
+actually a, um, phonetic writing system rather than just a whole bunch of like
+weird, uh, mystical symbols.
+Um, but his biggest contribution is the realization.
+Hey, if light is a wave, if we let light pass through these two slits, when two
+waves are interfering, you can have like the crest of one wave and the crest of
+another wave, um, lineup, and then you get a bigger wave.
+But if you have the crest of one wave and the trough of another lineup, they'll
+cancel out, they'll flatten out.
+And so this will produce a predictable pattern depending on how far the waves
+have to travel.
+And you can actually see this experiment with water.
+If you have like two, um, water waves going on, you'll see places where they
+interfere and you get a big wave and other places where it's almost completely
+flat.
+So young is like, what if light is a wave and we let light pass through
+two thin slits, will we see a pattern where we see that, um, as the waves are
+going through, they line up and get bright light and then dark light where
+they're interfering again, bright light where it's constructive interference,
+dark light where it's, uh, destructive interference.
+And if you see that light, dark, light, dark, light, dark pattern, that is what
+you expect from wave interference.
+Young does this with visible light and lo and behold, he sees the fringes, these
+light and dark fringes as you would expect from the wave theory of light and
+basically proved and fixed like 200 years of argumentation.
+If light was a particle or a wave.
+So young, awesome stuff.
+The same idea as then applied in quantum mechanics, which was getting
+some weird things to pop out.
+And in that sort of case, we also realized, you know what, light is a wave,
+except when it's not, uh, when we have this thing called the photo electric
+effect, which was actually, um, first properly described in its physics by
+this young German guy by the name of Albert Einstein.
+Yeah.
+Uh, I don't, I haven't heard of him before.
+Yeah.
+Yeah.
+The same year he publishes this stuff on special relativity.
+He has this paper explaining what's called the photoelectric effect.
+And the fundamental way that that is going to actually explain light pretty
+much has light coming in, in energy packets, uh, which are then called
+quantum or a quantum for a quantity.
+They come in these little packets.
+Um, Einstein applies that principle to this and explains the photoelectric
+effect, and this is actually what he'll get his Nobel prize for, not special
+or general relativity, but this other, um, quantum mechanic effect.
+So it's like, okay, light comes in packets, but it's also a wave.
+That sounds weird.
+Uh, let's now think about how this would play out in the double slit experiment
+sort of setup.
+Okay.
+If light is a wave, we pass it through slits.
+It's going to produce a interference pattern, but if light is a particle,
+how's it giving us a wave interference pattern?
+In fact, if light is coming in packets, we could be sending those packets at
+such a slow rate that we could send one photon, one quantum of light at a time.
+So if you have an extremely dim light source, it's literally just sending out
+like maybe one photon per second.
+If you do that and you just let it go one photon at a time, you'd think, okay,
+well, if light's a particle, there's no way a single particle can interfere with
+itself.
+Uh, you send that off, you let it, um, build up on the back pattern and you
+see wave interference.
+Even when you're sending one particle at a time, it's like, wait, but for that
+to happen, the light would have to go through both slits at once and
+interfere with itself.
+Baw.
+No, no, that can't be real.
+That, that just, that's just crazy talk.
+Clearly the light goes through either the left slit or the right slit.
+It can't go through both slits at once and, you know, punch itself.
+That's just weird.
+So you set up an apparatus to measure which slit the light goes through.
+And when you do that, the wave interference pattern goes away.
+That, that is crazy because exactly.
+So the act of measuring it changes it from a wave to a point.
+And that, that is bizarre because so the reason I asked about this, um, and
+this might get right back to the whole, whole deal about aliens, um, is I've
+heard that this paints a good argument for simulation theory that we're
+actually in a big, big video game, essentially where the sims where, you
+know, where, where NPCs, um, because that would make, you know, that, that
+observation would make sense in some form of like programming.
+Like, so for example, I used to be a video game programmer and when your
+camera is looking at like a complex scenery, usually behind you, um,
+everything has been culled.
+You don't see it.
+It's like, it's not rendered to the, um, to the engine.
+And as your camera pans around, it brings those things back into view and
+that's how it saves memory.
+Um, and someone's, I've heard people argue that, well, this, this is a
+good, this is a good nudge in the right direction that maybe we are in a simulation.
+And I wanted to get your educated thoughts on that one because that made
+a little bit of sense to me, not enough for me to be convinced of it, but I was
+like, okay, that's interesting.
+What do you think about that?
+All right.
+So let's start off with why the, I can tell you, well, like, I tried to
+first, like, say, okay, let's take the most maximalist version of that, see
+what his limitations are and then see are there more limited versions of the
+hypothesis that are at least consistent with what we know.
+So there is an interesting problem.
+If you want to say the entire universe is an active simulation, then you
+have to ask, well, how big of a computer does it take to simulate the entire
+universe?
+And it's actually one of those things from information theory that you realize
+to simulate an entire universe, you need a computer at least as big as an
+entire universe.
+So you realize, okay.
+You're not going to be able to simulate the whole thing at once.
+So just like you say, you basically have to make sure that you're only like
+showing the parts that anyone is observing at any given time.
+So if you're playing Legend of Zelda, you're only showing the stuff that's
+in front of the camera, basically, and you're not trying to also render the
+entire universe of the, of, you know, Breath of the Wild all at any given
+moment, because.
+And I have been playing the new Zelda lately, like last time.
+I have not.
+I'm going to let other people do Let's Plays and I'm going to watch that at
+two X speed because one, I don't have time and two, I'm a cheap bastard and
+I'm not going to buy the game.
+Oh man, it's, it's fun.
+It's fun.
+But it's, I, I don't know about it, but yeah, I, I would love to have the
+time to get into it, but hey, I got books to write.
+Yeah, yeah, exactly.
+But, but yeah, so, so clearly we can't have it.
+So the entire universe is being constantly simulated all at once because
+you would need a universe, you would need a computer at least as big as the
+universe and that's, that seems like a no go.
+So you now have to make it so basically only what humans are able to
+observe at any given time are within the range of things being observed.
+Okay.
+So we're some sort of metaverse created by whatever alien species or, you know,
+other super high advanced civilization that makes a virtual version of this.
+Now, to me, I find the most convincing issue with this is basically what I
+would call the simulation problem of evil.
+In the same way that the problem of evil is a problem for theism, I think it's
+just as much of a problem for a programmer because that means they have
+created intelligent beings like us and decided to simulate earthquakes, tsunamis,
+cancer, the Holocaust.
+It's like, what kind of monster would create that kind of universe?
+It seems that if you're going to spend all your compute resources for this,
+you're going to either make, well, paradises or you're just a total
+moral monster that just loves making universes full of suffering.
+And that seems initially unlikely.
+I will, I strongly disagree with you.
+And maybe it's the alcohol talking, but because, so a few things I love when I
+can finally interject something, but fire away, please, please.
+I want to be challenged.
+So, so, so yeah, so a universe, a computer that could see that the universe
+would need to be the size of the universe.
+Yes, in our universe, but we're talking about something like we don't have,
+we have no idea what even technology is a thing in this, in this simulation.
+We're like, we don't, we don't, we have no way to conceptualize what this,
+this, this computer could be the size of a flash card.
+We don't, we don't even know what what electricity, electricity, everything we do.
+Oh, we do.
+The problem is that fundamentally, computation is a physical process.
+Ah, OK.
+This was actually one of them.
+This actually solved a different problem in physics.
+So I need to introduce you to a physics demon.
+OK, so you've heard of Descartes.
+I'm scared.
+I have heard the name.
+I'm, I'm failing to remember what it exactly was about.
+But well, with Descartes, what if there's this demon that's fooling you about everything?
+Is there anything that you can be absolutely sure about?
+OK, so that was Descartes.
+Demon, this is a different, more physicsy demon called Maxwell's demons.
+He's named after James Clark Maxwell, who was, he is such a freaking genius.
+Even though he's been dead for 150 years, his corpse is a better physicist than I am.
+He not only basically took all of electromagnetism and condensed it
+into just four equations to explain all those observations,
+including ones that hadn't yet been made.
+He also laid the foundations for a lot of statistical mechanics and thermal dynamics.
+He was just that freaking good.
+And like I say, even though he's dead, he's still a better physicist right now than I am.
+Well, now, one of the things, though, he had is this little bit of a thought
+experiment is this problem with entropy.
+Now, you might be familiar with the idea that like things tend to disorder
+and you might know something about like microstates and counting things like that.
+But the basic idea is if you wanted to say, hey, how likely is it
+that like all the air in the room I'm in just all shoots into one corner?
+And the rest of my apartment is just total vacuum.
+That's a really low probable thing.
+And the reason is there are way more different ways for the air to be spread around
+all those different molecules than for them all to be crunched into one corner.
+And this is just basically a matter of counting.
+And this simple act of counting actually leads to the second law of thermal dynamics
+that the entropy of a system can only stay the same or increase.
+It can't decrease spontaneously.
+But Maxwell comes up with this thought experiment where you have two containers
+of gas connected with the tube and there's this gate that can open and close.
+And the idea is what if this gate is able to open and close
+and it's perfectly frictionless, so it doesn't introduce any heat or any issues
+like that, and it can sense the speed of different molecules.
+Now, if this gate was just open, then the speed of the molecules on both sides
+that there would eventually become just randomly the same.
+You would be able to distinguish the molecules on the left side versus on the right side.
+But what if this gate was able to detect and open and let in fast moving molecules
+but close and block slow moving molecules, letting this thing open and close over and over again
+and letting this demon do the detection for doing that, you could then have it.
+So all the high speed molecules are on the left side and all the slow speed ones
+are on the right side and you didn't do any actual physical process.
+You didn't actually push the gas around.
+You just open and close this frictionless gate.
+And so this was the physics problem.
+How did you get this division, this decrease in entropy of that system
+without doing any actual physical work?
+And this only really gets well resolved in the 1960s, like a century later,
+with the realization that actually for that demon to do the observations
+requires computation and that requires actually doing some sort of physical process
+that basically requires doing some sort of electro or chemical work.
+So the way that Maxwell's demon became less demonic
+was realizing the only way for that demon to exist is with pure frickin' magic.
+Yeah, OK.
+So I mostly followed that.
+Yeah, the key thing is that it basically shows to do observing things
+and making decisions and computing is actually a physics process
+and it requires doing work.
+And if you're doing work, then you're like, you know, producing heat.
+You're requiring energy.
+You're doing, you know, the same sort of effort you would do
+if you were like, you know, pumping with pistons or things like that.
+So computation fundamentally requires doing physical work
+and requires physical energy.
+So even even that, I mean, couldn't you couldn't someone argue
+that that's only in our understanding of the universe, which is all simulated?
+Can someone just make that argument?
+Well, the thing is, though, if your premise is physics is wrong,
+but my version that I happen to have imagined is right,
+has to be at least taken as initially improbable.
+And the only way the simulation hypothesis is off the ground is saying,
+hey, it's actually plausible that dot dot dot.
+If your first premise is it's only
+imaginable that that won't get you very far.
+OK, yeah, yeah, yeah.
+So it would be it would be an image.
+Yeah, OK, well, the next thing about the problem of evil is I the thing
+that I disagree with the problem of evil with you about is when I was a kid,
+I my nun took me to go.
+I was probably five or six, took me down to the National Park, my nanny.
+And we picked up a bunch of ants and I put them in a jar.
+And then later on down the walk, I saw more ants.
+And I knew that if I put them in the jar, they would fight and I would like to see it.
+And I decided to put these these other ants in there.
+My nanny said, no, no, they're from a different hive.
+They'll fight each other.
+And I said, no, no, no, no, no, I convinced it.
+No, no, they're from the same hive.
+And I think she knew what I was doing.
+And I put them in there and I watched them all fight to the death.
+It was it was pretty bad.
+It actually felt I actually felt bad at the end
+because they're running around without abdomens and stuff.
+It was pretty gruesome.
+But I imagine that like the only reason the problem of evil would be a problem
+would be is if we the only reason it's a problem for classical
+theism is because you believe you believe God is all good.
+If you don't believe like it's it's you know, why does evil exist
+if there's an all good God who's all all loving God who is all powerful?
+That doesn't make any sense.
+But say the universe is just a program running on some 15 year old alien's computer
+and he's downloading alien porn in the in the background and he's
+you know, cheating on his maths exam.
+He doesn't care. And I have to imagine with alien porn,
+you know, Tentacle Hentai is now the norm, not the exception.
+Have you seen the the South Park in a really old South Park episode
+where they are there's like it's like they go to it like it's
+South Park is like turns out Earth is just a reality TV show.
+And oh, yes. It's like, yeah, it's like every species.
+There's a species that there's a there's a planet full of deer
+and a planet full of humans and a planet full of, you know,
+you know, different races and stuff.
+And then we all put them on one planet and just watch the chaos.
+And yeah, yeah, I think that one also was like a little bit more strict in its race.
+And it's like, oh, look at this planet with the giraffes, the elephants and the Asians.
+It's like Asians are other species in this. Yeah. Yeah.
+That I mean, I know they're trying to be funny, but you know,
+it feels a little bit cringe at this point.
+But nonetheless, I take your argument and I let's run with it,
+but see that it still has an issue.
+The problem of evil exists not even just for a perfectly good being,
+but even a being that is most likely going to be good for the simulation
+hypothesis to work, you would have to say more likely than not,
+a simulator is going to actually want to induce
+Holocaust level suffering.
+And will could there be a 15 year old who wants to do that?
+Sure. But also that 15 year old is going to have a Nana that's going to say,
+no, you're not going to make a Holocaust simulator with actual issue that's
+Yeah. Yeah. Well, we don't need to have to assume.
+You just have to say, well, that's not probable.
+And again, the whole argument is that we're in a simulation being probable
+requires all the premises being probable.
+If any one of them is improbable, then we don't have good grounds
+to think we are in a simulation.
+I just feel like so this is the question I'll get to.
+Hanny's amazing super chat.
+But there's I just feel like this is the thing
+I get in with the Muslim debaters that always debate me on TikTok is like
+is they say like it makes no sense for it needs to stop.
+Otherwise, you have an infinite regress.
+You need to get back to like a God that created everything.
+And they'll they'll bring it back to the Big Bang.
+And I'll say like, you know, even if you believe in the Big Bang,
+what created the Big Bang, it needs to be something.
+And I say like, no, I have no idea.
+Like, I don't even know if asking what happened before the Big Bang
+or who created the Big Bang is a sensible statement.
+I have no idea.
+Like physics breaks down.
+Like you said, like I have no idea if even if even I have no idea
+on even how to start to comprehend before the Big Bang
+or like all the big bang into like, I have no idea what to even do there.
+And the same problem happens when you say, like, oh, there's a God that exists.
+You know, you go, well, who created God?
+And they go, oh, he always was there.
+Well, then cut up the middle man just so the universe is always there.
+But the so that's where I stand.
+But that's what I feel like is happening with with this conversation.
+I have no idea what.
+So I think if you've seen Rick and Morty, yes, I've seen the first two seasons.
+Yes. Yeah, that's all you need.
+They're the best seasons anyway.
+But there's an episode where they go to, you know, have you seen the
+episode they go to alien arcade and Morty puts on the glasses
+and he lives a whole life as Brian is called like the I think it's called
+maybe not the life of Brian, but that's that's a big multi Python
+the alcohol is catching up, but he lives his whole life.
+And, you know, and he was a cold and he ends up going back.
+He ends up, you know, you know, he ends up getting cancer as an old man.
+And he goes back to the carpet store and he takes off his glasses.
+He's like, oh, oh, and he's in this alien arcade.
+And he's like, you know, oh, and then Rick goes, oh, you went back
+to the the carpet store after you got cancer, boo lame.
+Like and and like, oh, what was it called?
+I can't I can't remember what the actual thing was.
+But, you know, in that in that scenario, like the alien arcade
+has has just like time dilated and created the stuff that doesn't work
+in the in the universe that that Morty was in.
+And it's like, can you could you just imagine a universe
+where evil doesn't exist, where that's like evil and good don't exist.
+Morals don't exist, where technology doesn't work, where the mathematical
+form is that we have everything we know about the universe is just it just
+doesn't work anymore.
+Like, imagine doing like a massive acid trip and just or some sort of
+mushroom trip and going, you know, I'm on another plane of existence.
+Like, it's like that level of like, we have no way of even
+like conceptualizing it or touching it or even making an observation of it,
+which also makes it useless.
+It's un-falsifiable.
+So that's the that's the thing that gives me at the very least.
+You can't say that it's probable, though.
+There was an interesting thing that you said in your in your statements
+about like the infinite regress and actually it's one of the interesting
+things of how we could actually test if we are in a simulation or not.
+Because the way the simulation argument would go is that not only are we a
+simulation, but the people who made us could also be in a simulation.
+So there could be a hierarchy of simulations and we could actually test
+to see if we're in a simulation by going and see, hey, can we simulate worlds?
+Because more likely there are going to be more worlds at the bottom of that
+hierarchy than are at the top, just because of that branching nature of that.
+If like universe, if the original universe can produce, say, 10 simulations
+and each of those simulations could produce 10, you know,
+you could see how that's going to expand out very quickly.
+So at the bottom, there's going to be the greatest number of simulations.
+So a way of us testing if we're in a simulation is see, hey,
+can we actually build a simulated world?
+If we can, we're not at the bottom.
+And if we're not at the bottom, that's initially unexpected on the simulation
+hypothesis.
+So, and strangely enough, if we can build a simulator, that might show
+that we're not in a simulation.
+Yeah, it's, um, yeah, it's like, um, but it's like, how, how complex
+that simulation need to be.
+Okay, I mean, the other thing is also, is it possible to simulate conscious beings?
+So that, so I take it for granted that I'm conscious and I give initially
+high probability that you're conscious that I'm not, uh, talking
+to an extremely well created NPC.
+So that means if we're in a simulation, that means it must be at least possible
+to have, you know, in silico consciousness that you can actually program that.
+So again, it would be a question, can we actually go and program that?
+So people, of course, you know, might be thinking like, well, what about
+chat GTP?
+And I'm like, that's another, that might be another, uh, podcast.
+Well, I was going to, I was going to ask you about AI actually, because
+like people have been saying like, oh, I'm, you know, AI is scary stuff.
+I've been making AI for video games for years.
+All you do, like, if, if you go close to enemy, enemy attacks you.
+That is AI.
+It's just not very complex.
+Yeah.
+But when it comes to more complex AIs, I have to admit, so the cover
+of our book, uh, this artwork is actually created by Dolly.
+Oh, wow.
+Really?
+That's, that's all.
+Here's the thing.
+I have what we would call no skills when it comes to art.
+Like I joke that I'm still working on the stick figure.
+Yeah.
+Yeah.
+So, you know, I basically said, Hey, let me just like pump in some
+text things into Dolly and see what pops out.
+And when I saw this image, I'm like, oh, oh yeah, this fits the theme.
+I'm, I'm happy with this.
+And, uh, we incorporated into our book cover.
+So, um, well, that's actually, um, I mentioned this yesterday.
+This has become just me telling stuff that I said yesterday twice now.
+But, but yesterday on, on, on Dintrick's, I mentioned that when I
+started programming video games, I had all these ideas for video games.
+And then eventually I had to teach myself to think like a program.
+I didn't know how to program.
+I taught myself C sharp.
+I had to like really like study and learn.
+And by the end of like a year after I'd learned how to become a programmer
+and I went back to making games, I didn't have any like creativity anymore.
+And I was like, ah, and then I dropped back into video editing and video
+editing brought out some like creativity.
+And then I forgot to have to be a programmer.
+And I was like constantly switching from like art brain to like math brain.
+And I wasn't good.
+Well, it wasn't amazing and either, but I was like kind of like moving in between,
+you know, and, um, that's kind of, well, that's, that's why you should go
+into my field because, um, I'd be working as a data scientist that I actually
+get to be a bit creative in how do I actually approach like our problem sets.
+It's not just, uh, you know, make the code compile.
+It's more of like, Hey, how do we actually, you know, get.
+Interesting results from this or how do we build a model to solve whatever problem?
+And it's, you know, a bunch of times is like, you know, really, you know, tested
+my own logic and creativity in certain ways, like not in the same way of like
+actually like creating art, but at the very least in ways that make, um, our
+customers happy, which can be creative at times.
+Well, it's funny.
+Uh, a friend of mine said, Oh, you know, he was talking about surfing and he goes,
+surfing is like, there's some things that are just spiritual and artistic.
+And when I see someone cutting up the wave and how they do that, it's very spiritual,
+but you wouldn't say programming is like, is, is, is, um, emotional or spirit.
+I was like, Oh, actually, if I see like a really nice algorithm and I just go like,
+like there's something, it invokes emotion.
+I don't know what, like, you know, or like really clean code that just
+compiles so quickly.
+Like, Oh, yeah, yeah.
+Like 12 hours of trying to get something to work.
+And when it finally actually like goes all the way through, it's just like, yes.
+Yeah.
+Yeah.
+I used to, I used to close to sex.
+It's close to sex.
+It actually is.
+When I used to program for video, video games, I used to, I wasn't a very good
+programmer, but I used to spend hours.
+Like, and you know, if Amy would like come into the office and go, Hey,
+do you want to go for dinner tomorrow night?
+I'll be like, well, like three hours of like the thoughts in my head, I've just
+gone and now I have to like build back up to that.
+Like it took me like another hour to get back to that same thought process to
+work out the code and I would finish some code and it would work.
+And I've finally solved the problem and I would actually get up and I would walk
+to my bed and I'll lie down because the, the, the endorphins that would run through
+my body are like, Oh, I finally, I didn't want to move into the next problem
+because I was just enjoying the feeling of like having something finally work
+because, you know, I just remember that, that so well.
+But, but critical factually said a debate, by the way, critical factually,
+honey, you know, you keep super chatting.
+If you keep super chatting as much as you have been, I'll have to buy
+your beer when we're in Melbourne to pay you back.
+So your own money is, this is just your bit, your, or your cranberry and vodka.
+A debate in the chat needs sorting.
+Regardless of the ontology of the observer effects, is it merely theoretical
+or is it empirically verified during experiments?
+And I asked what the, the actual argument was.
+Obviously I've had the alcohol as effects of me for some, you know,
+I haven't had as much as I thought, but it literally, he already said it.
+The observer effect is only theoretical and not being observed during experiment.
+I would say this is because we have lots of different scenarios where we've
+seen the same sort of effect going from wave interference to looking more
+like no wave interference.
+We've done this not with just light.
+We've done this with electrons.
+We've even done it with very large molecules.
+If you've ever heard of Bucky balls, Buckminster Fuller balls.
+These are carbon 60 atoms that we've also done this same sort of double
+slit experiment and seen the same sort of interference pattern and the
+interference pattern going away when observing which slit the Bucky ball goes
+through. And as you can imagine, a ball consisting of 60 carbon atoms is
+way bigger than a single electron.
+So I'm not quite sure what's being meant by it's not been empirically verified.
+So when we look at, let me just, let me just pull.
+Now, what they might be saying is there are many different interpretations
+of quantum mechanics.
+So what is actually happening there?
+So have we ever like, like the original oldest interpretation is called the
+Copenhagen interpretation that goes back to Niels Bohr, who basically talks
+about wave collapse and that trying to explain what's going on, that you have
+the wave function in quantum mechanics is explained there.
+Once you observe the wave collapses to one particular solution.
+Now, we can't say that has been observed.
+That is an explanation for what's there.
+And honestly, I think the Copenhagen interpretations is it basically is
+begging the question in so many ways.
+Well, the best interpretation in my opinion of quantum mechanics, and because
+it's my opinion, it's correct, is the many worlds interpretation of quantum
+mechanics. Oh, OK, OK, we need to, we need to talk about the many worlds.
+But hold on, I think to another shot.
+So I think the interesting thing here is we've got, I think what's happening
+is what what people are arguing about is we have that observation, right?
+And that observation and but then there's the second part of it, which is the
+we still see the wave interference.
+So the wave interference is we've we've seen the wave interference, but it's
+and then it's and we know it's acting as a wave, but as soon as and so that's
+objectively verified.
+And then as soon as you observe it, the wave collapses, right?
+We don't see the wave interference anymore.
+So I think what's happening to put in an interesting little caveat,
+which I actually failed to make us this caveat when I was teaching this.
+When you observe which slit light goes through when it goes to the left or light
+slit, what doesn't happen is that light becomes a particle.
+Because here's the thing, you also get wave interference with a single slit.
+Hmm.
+If you pass light through a single slit, you also will get that wave
+interference pattern.
+What changes, though, is that the pattern goes from a double slit
+interference to just two sets of single slit interference.
+So that's a minor little caveat.
+But the key thing is you observe which slit the light goes through and it
+only acts like it goes to the one slit.
+While with the double slit experiment, it normally shows interference from
+both slits.
+So the fact that it goes from double slit interference when you don't look to
+single slit interference when you do observe, that's the, oh my God,
+what is going on with this quantum mechanical world?
+So that's a caveat that's worth making that most descriptions out there
+fail to make.
+And I made that mistake for the longest time until it was pointed out that
+actually, no, it's still a kind of wave interference.
+It's just the kind of wave interference changed depending on if you're
+observing or not observing which slit the light goes through.
+OK, OK.
+Yeah, but this is just me complicating the overall issue.
+There's still the ontology of why does observing change the result?
+So yeah, OK.
+Yeah, the event.
+I just lost my voice.
+I just don't worry.
+I'm going to lose my thought right now.
+Yeah, yeah, yeah.
+Burn some more brain cells as we ask about the many world's hypothesis.
+So so and we're a little bit off of scale here, but I'm enjoying the heck
+out of this conversation, the heck and doodle of this conversation.
+Oh, heck and doodle.
+That's some strong language.
+You could be a bit your gosh darn rear end.
+So so the many worlds.
+OK, just tell me about this.
+Tell me about what.
+So you don't you don't accept the Copenhagen interpretation of of this.
+Let me let me really dumb it down.
+OK.
+There's an interpretation of this and what's going on here called the Copenhagen
+interpretation.
+Aaron, no, no, doesn't like bad.
+What do you think, Aaron?
+Doctor Ade, I should say, do you think is a better interpretation?
+And you said the many worlds.
+What is that?
+All right.
+So the many worlds interpretation is I can't say it's the leading interpretation.
+If you look at most physics textbooks, they'll probably still give you the
+Copernican version, but well, you know, sometimes the textbooks are wrong
+and they should be listening to me instead.
+Now, this goes back to a.
+Yeah, this goes back to a physicist in the mid 20th century.
+I'm forgetting his first name.
+Is it Nick but Everett is his family name.
+And he basically points out that if you just take the Schrodinger equation,
+the equation that describes the evolution of the wave function of quantum mechanics,
+it's actually completely deterministic.
+It doesn't have any weird randomness in it in itself.
+And it also suggests that when you're not observing something and it looks like
+it's in two states, yes, both states actually exist in the Copenhagen interpretations.
+When you observe the particle, you basically cause only one state to exist
+in all the other possible states to just not exist.
+You basically just crinkle up the paper in your equations that says they exist
+and you just throw it in the trash.
+That's effectively what is saying that the observation is doing in the many
+worlds interpretation.
+It says no, all those worlds exist.
+They've always existed.
+And what happens during the observation is that basically you are causing those
+worlds to split.
+Now, why would these worlds split?
+This is actually something that quantum mechanics shows happens.
+And we actually are now using that feature quantum mechanics to do computations.
+So if you've ever heard of the quantum computer.
+Mm hmm.
+I know of it.
+It plays a fine.
+Yeah.
+Yeah.
+So I'm definitely not going to explain quantum computing because that is what
+they call hella complicated.
+And I would probably do a bad job without really digging into just to talk about it.
+Well, but one of the fundamental things it's based on is something called entanglement,
+which basically means when two particles are entangled, the state of one is then
+strongly correlated with the state of another particle, which is basically a way
+of saying, if you know something about this one particle here, it tells you a lot
+about what the other particle is doing.
+That's what entanglement is all about ultimately.
+And the idea in the many worlds interpretation is that, well, entanglement is
+actually showing us that when you're not observing the state of some given particle,
+it's in both states at once.
+It's basically that particle is interfering with itself.
+It's entangled with both of its possible states.
+And when you observe it, you basically break entanglement.
+So this is actually something of how we know entanglement works.
+Two particles are entangled until you observe it.
+And that's when entanglement is broken.
+The idea then with many worlds is that all those possibilities exist and all you're
+doing in the process of observing it is breaking that entanglement, but also
+worth noting, because you are part of that system.
+You're part of that world as well.
+All the worlds of whichever observation you did also exist.
+So there is a version of me that observes the particle going through the left
+slit and a version of me that sees it going through the right slit.
+Both versions exist.
+So all of those possibilities are all exist just as likely.
+And we just happened to be in the one that saw it go through the left.
+And in the other one, they would, of course, said the exact same thing.
+They go through the right.
+So, so this is troding as cat kind of, right?
+And yeah, in fact, when Schroederger came up with this idea, he was trying to
+show the absurdity of the Copenhagen interpretations.
+Yeah.
+So it's like, it's so, so with the Copenhagen interpretation.
+So for everyone in the chat, who's just so dumb and doesn't understand
+any of this stuff, I like to insult my audience every now and again, they like it.
+That's how you get the viewers.
+Sorry, guys.
+But no, but the, so the Schrodinger's cat is essentially the idea that if you
+stuck a cat in a box with a vial of poison and the vial of poison was going
+to break at a certain time and kill the cat until you open the box, you don't
+know whether or not that a cat is dead or alive.
+That's the Schrodinger's cat idea.
+And correct me if I'm wrong, but under the Copenhagen interpretation, you
+would have to pretend that that cat is both alive and dead at the same time
+with the many, which is absurd, which is like, that's the idea of Schrodinger's
+cat, where the Copenhagen interpretation, I know the many world
+hypothesis would say, well, actually, there's a universe where there's a world,
+many worlds, a world where that cat is alive and there's a world where that cat
+is dead.
+And in your world, the world that you're subjectively experiencing, that cat
+is either alive or dead.
+It's not both.
+It can't be both.
+Is that right?
+Yeah, that's that's again, like right in the neighborhood.
+So the main absurdity is in the Copenhagen interpretation, the cat is both
+dead and alive until you observe it.
+And then once you have observed the cat, either the cat is fine or you killed
+the cat by observing it.
+So the act of observation kills the cat in like half of these scenarios.
+Well, in the many worlds interpretation, both versions exist.
+And you just, when you do the observation, those two worlds split, but they
+both continue to exist just on parallel tracks, ultimately.
+The other nice thing about the many worlds interpretation is that in the
+Copernican or not Copernican, the Copenhagen interpretations, you basically
+need like some extra equations to come in to explain what you're seeing.
+In the many worlds interpretation, you just take the Schrodinger equation, no
+extra sauce, you just interpret as it is.
+And this is the natural outcome from that, which is, I think one of the major
+philosophical advantages of it, that it's in some ways the simpler explanation.
+It doesn't require extra stuff coming in to explain your observations.
+There's it's one of those things you're absolutely right.
+In in in what you're saying, but what happens when I say you're absolutely
+right, I don't mean to be making a judgment.
+I'm just saying I agree.
+But because I have no idea whether you're actually right or not.
+But but it sounds right.
+But with with the many worlds hypothesis, why isn't it accepted then?
+Like, why is it not in the textbooks?
+Like, what's what's the baggage that comes along with the many worlds?
+OK, so some of the baggage is some people misinterpreting the many
+worlds interpretation.
+So the interpretation of the interpretation of quantum mechanics.
+So many will misinterpret in saying every time you observe, you create new worlds.
+The better interpretation of the many worlds interpretation is all those worlds
+have always existed and the active observing doesn't create worlds.
+It just disentangles different states of those worlds.
+So I've even read this.
+I remember actually reading some of the work by the late Christian theologian
+and particle physicist, geez, I just had the name on the tip of my tongue.
+I'm going to have to drink more.
+John Polkinghorne, Polkinghorne, he only died just a couple of years ago,
+but he worked at CERN and then he decided, no, I want to become an Anglican priest.
+And in one of his books, he also talks about interpretations of quantum
+mechanics and what theologic ramifications those can have, etc.
+And he discounts many worlds in part because he says every time you observe
+something, you're creating whole new worlds.
+And other than maybe you really like that song from the Little Mermaid.
+Or no, sorry, that's from Aladdin, whole new world.
+That isn't really what the many worlds interpretation says.
+So we have to throw out the strawman versions of that.
+Now, that doesn't say there are no problems with the many worlds interpretation.
+One issue is that you actually can't really naturally get something called the Bourne rule.
+Now, what's the Bourne rule?
+This goes from another physicist by the name of Max Bourne, who basically says,
+when you take the Schrodinger equation, you solve for it.
+When you take the square of the probability distribution values
+from the values from there and the Schrodinger equation,
+that's when you actually get the probability of the states that you see.
+So this sounds a little bit weird, but basically in the Schrodinger equation,
+it doesn't tell you the probability of particles.
+It tells you this other weird, like probability density,
+square root of probability sort of thing.
+It's also a complex number, so it has like imaginary components in it.
+All sorts of weird things that mathematically, at least weird things.
+And only when you square it, do you actually get probabilities to pop out.
+And there so far has it been like a natural way to get from many worlds
+interpretation to reproduce the Bourne rule, which is kind of like fundamental
+to us actually taking the Schrodinger equation and getting predictions out of it.
+Mm. So that's a so that is a somewhat technical,
+but significant issue that needs to be resolved in many worlds interpretations.
+Now, I should also note the person who probably has done the most to be
+intelligent about it and evangelical about it has been Sean Carroll.
+He's written several books about
+his interpretation of quantum mechanics and things like that.
+So he is a better advocate for it than I will be.
+But that is one of the things he'll note is saying,
+hey, here's a current unknown factor of how we deal with this problem
+of getting from many worlds to our actual probability
+calculus for quantum mechanics.
+And one might say, hey, if you can't go from the interpretation to predictions,
+that's a problem.
+And I would say, yes, that is something that is a problem.
+That is something that needs to be resolved before we can accept this full
+full throatedly.
+Yeah. And for sure.
+There's there's just so this this subject is so deep.
+So we actually
+So I should drink more.
+Yeah, definitely.
+As long as you don't get sick, your your your partner will come after me.
+So message me like, what are we doing?
+So I'm just just confirming just quickly.
+On the 30th, we have Jonathan Pears coming up.
+Oh, I thought it was sooner.
+But OK, OK.
+Yeah, yeah, we've recently had to change.
+Oh, oh, wait. No, I know why.
+When you say the 30th, I have to do the time conversion.
+It's the 30th for you at the 29th for him.
+Yeah. So it says the 24th of May there.
+I'll actually update that in a second, because we've had to reschedule.
+But we're talking about the religious aspects of we're discovering aliens
+destroy religion because he's your choreographer in this book.
+And yes, you know, just let me just share the book again.
+If you could give people.
+So I'll tell you what to expect.
+And so it's very easy to understand and very easy to read,
+but not so basic that you're going to be bored.
+It takes a little bit of work,
+but it's it's very it's not it's not like you're not going to be like
+scratching your head the whole time.
+It's very at least the parts that I've read.
+It's very easy to understand, very easy to explain.
+The only reason I don't have a physical version is because I want to find out
+a way that I can somehow get a signed copy from both you and Jonathan
+because I've enjoyed it so much.
+I only do this for for books that I really enjoy is, you know,
+obviously, I'll buy it and everything.
+I just I just want to find out a way I can get a signed copy from you guys
+because I'm very happy to do that.
+In fact, we're we're in the process.
+So among the people who have helped promote and endorse the book
+is Ed Buckner, former like head of American Atheists.
+He wrote the afterward for a book and also gave him an endorsement.
+John already wrote, like, signed a copy.
+He sent it to me and I'm waiting for it to come to me, so I can sign it
+and then send it to Ed.
+We're very happy to do that with you and many others because, yeah,
+we want to send off these signed copies and, of course,
+you know, charge them at a premium price.
+Yeah, for sure.
+It's and it's great.
+And that is amazing, of course, as well.
+Can you tell us a little bit about what else is in the book
+that people may maybe interested to know before they all right.
+Yeah. So this all right.
+So I'll quickly go through the main contents.
+So like a big chunk of it is how can we actually have any sense of confidence
+that there are extra trusters out there and how do we also explain the fact
+that if they're out there, we haven't detected them yet.
+How do we deal with the so-called Fermi paradox?
+The paradox being if we're saying there's lots of civilizations out there
+and lots of times for them to get here, why have we not been visited?
+Where is everybody?
+As Enrico Fermi blurted it out with at a lunch with his friends at that time.
+So we try dealing with that.
+We try talking about how we could potentially detect those civilizations.
+And then with the premise that, hey, more likely they and then not they exist.
+What would be the religious implications of that?
+How would religion change?
+What sorts of doctrines are going to be particularly affected by this?
+What sorts of things make that really hard?
+We find that like for Christianity, there's going to be a lot of problems.
+And perhaps the problem that's going to cause the biggest headache is
+how does the incarnation work?
+Does Jesus have to go to like every single world and get reincarnated
+and get killed over and over again?
+Or was it just a whiz bang one time thing here on earth?
+And now we have to tell the whole freaking universe about what Jesus did
+in one summer. Yeah, there are many issues there.
+We also see that actually the problem of evil,
+the famous theological problem becomes much worse if aliens merely exist.
+And we actually do the calculations to show how much worse
+the problem of evil becomes with the existence of aliens.
+We look and see, of course, not just Christianity, but Judaism, Islam,
+Hinduism, UFO cults, how they could all be affected.
+Mormonism has surprisingly that they're going to be OK with aliens.
+It's also potentially the case that aliens could be bad news for atheism,
+depending on what their ideas of the God if we found like create aliens
+that created like, yeah, it could be like that.
+Well, yeah, if you have the aliens from the movie Prometheus,
+that really undermines the idea of a creator God.
+If we were literally created by aliens, it's like, well,
+then clearly we weren't created by God.
+We were created by these engineers, as they called it in the movie.
+The problem with that movie is that it was bad. Now.
+Now, the premise, of course, there could be that.
+But now the converse, what if the aliens come?
+They arrive, they come down the gangplank of their UFO and their Jesuits.
+Oh, oh, how do we explain that on atheism?
+The chance is that the same religion can develop on other planets.
+That seems astronomically unlikely.
+And we actually give some reasons
+why that is because of how weirdly contingent religious beliefs and myths are.
+I actually had some fun looking at how myths propagated across the earth
+and how we can have similar myths, basically in multiple continents
+and that it goes back to some precursor tens of thousands of years ago.
+And the fact that what people were seeing in the skies like 15,
+30,000 years ago is an accident of where we are in the galaxy.
+Aliens in another part of the galaxy will have completely different stars
+in their sky, different constellations, different animals
+that they could make into constellations, things like that.
+So boy, oh, boy, if the aliens have religion, it's going to be very likely,
+very different from ours.
+So conversely, if the aliens come and they have the same religion as us,
+whoa, how do you explain that outside of God interfering?
+So that's an interesting idea of, yeah, if the aliens come down
+and they are not just theists, but very specific theists.
+Or even like Christians, let them be like, yeah, exactly.
+Like I gave the idea specifically of Jesuits just because
+Jesuits are not just Christians, but a very specific brand
+of a particular branch of Christianity.
+So it's like, wow, the chances of that are just so pathetically tiny for that to happen.
+I tell you, I tell you the thing that would spin me out the most like this would
+I would give I would stop philosophy like thinking about philosophy
+I would I would not care about anything.
+I would just become I just I would I would start playing World of Warcraft
+for the first time in my life and give up on everything else.
+Is if the aliens came back and they were like, yeah, we help build the pyramids.
+And actually we are part of the Illuminati.
+And then Hillary Clinton is an alien overlord.
+I'm like, well, you know what?
+This I don't even know.
+Like because because that stuff is like the wild and and there is a pizza shop.
+Like if all of that ended up being somehow true.
+Man, I just I would give up.
+I'd be like, my critical thinking skills are done.
+Like I just I just just.
+Yeah. Yeah.
+At that point, it's like, if all my conclusions of all rational discussion
+come to the false conclusions, yeah, you're right.
+Yeah.
+Breath of the Wild.
+They're better use of my time.
+Yeah.
+Actually, let me take that back.
+Sonic 06 is a better use of my time than critical thinking.
+If that's how things come out, if I can put a very terrible video game
+as the analogy.
+Yeah, yeah, yeah.
+I was always a Mario man, so I never got into Sonic.
+But so one thing I wanted to ask you as we wrap up, and if anyone has any
+questions, let us know in the chat, super chat them if you definitely want
+them asked, but one of the things that I wanted to ask about is, you know,
+you're a Bible scholar, as if you don't have enough hats on.
+I wanted to know why.
+I find it's very rare that physicists become Bible scholars.
+But secondly, tell us what it gives a little bit about why and how, but then
+also, can you tell us a little bit about your book, the Bethlehem, the Star
+Bethlehem book?
+Oh, oh, you mean this book?
+Yeah, I've never heard of this one.
+All right.
+So yeah, this book was a project that I started.
+Let me give the whole story for that one.
+Okay.
+Yeah, yeah, yeah.
+Once upon a time, I don't we don't need to wrap up anytime soon.
+I'm just like kind of putting it out there.
+All right, since we don't have to wrap up, I might as well unwrap
+a little bit more of a by Joe.
+Okay.
+In fact, I haven't I haven't wished you cheers.
+So gun Bay.
+Oh, I did this one before and I had some.
+Yeah, pretty much clean.
+Yeah, but I didn't wish you a proper cheers without.
+Yeah, the liquid substance.
+Okay.
+So let me hang on.
+Let me let me let me gun Bay.
+Okay, let's wait.
+Hold up.
+We ought to do it together.
+Hold on.
+Hold on.
+I'm going to pull myself another one.
+Oh, God, I got to take care of my baby after this.
+We're going to give you I don't know it's more tolerable.
+Baby poo or this, but you tell me my poor wife's needs a break.
+Come back.
+I've got like the smallest amount in here.
+I'm not filling up the whole thing.
+That would kill me.
+The first one I did and that was.
+Oh, I'm getting goosebumps.
+Yeah.
+Okay.
+All right.
+So let's go once upon a time.
+All right.
+So like I say, I go to college at the great Michigan State University.
+And I'm there and I'm court of court religious in that.
+Again, I considered myself a Catholic deist.
+And when I get there, I so much want to become an astronomer or specifically.
+I was telling all of my friends and family, I'm going to go here
+and learn astrophysics.
+That's when I get one of my degrees in.
+And I also think, hey, go ahead.
+Can I just interrupt you?
+Sorry to interrupt you.
+You're on a flow there and I interrupt you very rude of me.
+But you said something before we started that about Catholic deist that just blew me.
+If I was, if I was a theist or a deist, that's the direction I would go,
+which is essentially, can you just quickly explain that?
+How you said, if I was, you know, I would set the laws in motion like this as well.
+And then just, you know, just, yeah.
+Can you explain that?
+Yeah. So, so yeah.
+So, so while my family was primarily in a Catholic tradition, more often than not,
+I saw Catholicism as basically the reason for the color of wrapping paper on my
+Christmas presents is basically kind of like the background rather than like that
+sort of foundational thing.
+So I did not have like the same issues that like fundamentalist Christians did
+where they need to go to Bible camp and all those things.
+While I did go to Sunday school for a while, I was a pretty damn bad Sunday
+school students.
+So like it's kind of in the background.
+If we're with my grandparents, we're going to, you know, say grace for dinner,
+things like that.
+But beyond that, I did not have any like great religious convictions, just that,
+hey, we're Catholics, we have this belief about, hey, that Jesus guy was supposed
+to be all right.
+And the most I remembered from my religious studies as a, you know, as a
+student going to Perkyl school for a while, then, you know, Sunday school or going
+to church was basically Jesus is pretty much saying, hey, don't be a dick.
+Honestly, I probably couldn't tell you what a Corinthian was or what the
+resurrection was about.
+Anything like that.
+I do remember like having like for like a Sunday service, having to read
+something from like first Thessalonians.
+And I think I pretty much remember like, OK, I don't know what any of these words
+are, but I'm going to, you know, make the noises in front of the congregation.
+And beyond that, I have no fucking clue what's going on.
+That's what I did with your introduction.
+The difference was I was like 10.
+And I was sober.
+So hopefully I was sober when I was 10.
+But anyways, so yeah, and perhaps the most Catholic thing that we do, like
+besides Christmas celebrations and that and going to like midnight mass, perhaps
+when I had like First Communion, we treated that in our family almost like
+Jews treat a bar mitzvah.
+It's like that kind of level of this is something worth celebrating.
+So when I had my First Communion, when other family members had a First
+Communion, that would be a reason to have like all the family come over and have
+a big party almost like it's an anniversary or something.
+But beyond that, it really did not do much to affect my worldview.
+I was pretty much like thoroughbred, like a lover of science.
+And I saw that, hey, the laws of nature seem to so beautifully explain what we see.
+And to me, the idea that, hey, if the universe is created, the best kind of
+creation is one that doesn't require constant fiddling.
+If I build a clock, the clock that I don't have to go in and keep fiddling
+with to make it work is a better clock than the one that requires constant maintenance.
+So to me, the God that creates the universe that can run on its own without
+any extra help is the better, more intelligent, more capable kind of God
+than the one that basically gets like, oh, I fuck this up.
+I got to fix this again and coming with all these miracles all the time.
+So if you actually, yeah, that's a big sorry to interject.
+Go ahead. That's like a that's like a big problem I have with Islam and Christianity.
+And Judaism is like, it's it's it paints God to be not only morally bankrupt,
+drowning the entire world, every baby in the womb of every every puppy, every kitten,
+every, you know, because he's mad at a group of people.
+Those were sinful puppies.
+Yeah, yeah, exactly.
+Or, you know, or, you know, you take the virgin woman for yourself or slavery and all that stuff,
+like it paints God to be not only morally bankrupt, but stupid.
+And and I'm and as an atheist or a nontheist, I should say, I'm pointing at Christians and saying,
+stop teasing God, like if God's real, he's not like that, like that your God is most likely,
+if God exists, he's most likely not the genocidal maniac, you're making him out to be
+wiped by your you're actually teasing God, stop teasing God.
+Like, yeah, I feel I would ask you to say the same way.
+Like, while I have extremely high confidence that there are no supernatural entities,
+if there is a God, it's going to be so much better than anything we have imagined.
+Like, whatever we have said, God's work and our stories have just been
+absolute clusterfucks of really what the ultimate nature of reality should be.
+So if there is a God, it's going to be so much grander and better than we have ever imagined.
+And of course, that assumes if any version of supernatural personhood makes any sense.
+But I put that prior probability at less than one in 100 billion, I can explain that later.
+But nonetheless, 18 year old me would basically say, I'm pretty much a Catholic deist.
+Now, that also means if you ask me questions, well, what about the resurrection of Jesus?
+I would say, good question, I haven't thought that one through.
+I honestly would not have a good explanation for those miracle stories,
+because I really did not think about them with any depth.
+But nonetheless, I go to college at Michigan State.
+And when I'm trying to become an astronomer there, I also want to get a job at the local
+planetarium, because it's like, they do star stuff. I want to do star stuff.
+Let me do star stuff. And lo and behold, by some really weird accidents,
+I'm able to become a show presenter there, my freshman year of college.
+It's like, awesome. I got this nice weekend job, get a little bit of extra cash,
+and I get to play with this apparatus that is designed to literally go through anywhere in
+time and space. I basically have a scientific TARDIS in this sort of sense.
+And come Christmas time, what has been a tradition in the US since literally the 1930s
+is that there is a presentation to explain the story of the Star of Bethlehem in terms of
+astronomical alignments of planets in supposedly auspicious matters that would have been understood
+by ancient people in their systems of astrology. And when I saw that presented
+and saw the beauty of what was put together, I'm like, this is exactly how the God of the
+universe would set things up. They would set things up so that way things would perfectly
+align for the coming of their sun and have everything show how the entire universe perfectly set up
+in advance to show this beautiful story coming into place. And so I was like floored. I was like,
+oh, this is the closest thing to a scientific religious experience. But then I went home for
+the holiday. And on TV, they had their own presentation about the Star of Bethlehem. And it
+wasn't the same. So then I realized, oh, oh, there's some complications here. Now, this does it like,
+you know, throw away all of my theism or atheism. I slowly think through and realize, especially
+because of the problem of evil, that theism really just doesn't make that much sense. So by 2005,
+I'm calling myself an atheist. And now that I don't believe in this whole Bible thing, well,
+I'm wondering, well, where does this come from? And I start discovering different sorts of literature
+to explain where these stories actually come from. In particular, I'm able to like download and
+listen to lectures by this guy by the name of Bart Ehrman. Like Bart Ehrman like produces not only
+like from this time, like his book, misquoting Jesus, but more importantly, he produces things
+like audio lectures for the great courses and things like that. So I'm listening and realizing,
+oh, wow, there's actually like a scientific way to approach these sorts of stories. So now I can
+start treating the gospel stories and the other things in the Bible in the same sort of ways I
+was trying to treat like the myths of the Greeks and the Romans. It's like, okay, these are interesting
+stories. How do they develop? Oh, there's actually a way to approach this. This sounds way more
+interesting than you need to memorize all these big hats if you want to go to heaven.
+So I start 2005, 2006, starting to get into biblical studies. I also am not just listening to
+only mainstream biblical stuff from Bart Ehrman, but one of the things I also remember watching
+and started interacting with and learning more about was this documentary called
+The God Who Wasn't There. The director is named Brian Fleming. He came from an evangelical
+background and half his documentary is about him basically coming to shit on evangelicalism in the
+U.S. But the first half is... A lot of good shit on evangelicals. Yeah, but the first half is Jesus
+Mythicism. So it has interviews with Robert Price and Richard Carrier, a very young Richard Carrier.
+So you see videos of him and it's like, oh, wow, he's aged significantly in the 20 years since
+film had come out. But nonetheless... Has Richard Carrier been on mythicism for 20 years?
+Well, he wasn't a mythicist at that time, but he was in that mythicist documentary in 2005, 2006.
+Oh, wow. Okay. But he only came out as a mythicist as part of his book project, which if I can reveal,
+if you look in the intro pages of his book on the history of the city of Jesus,
+he thanks me because I was one of his early backers.
+I was still in grad school at that time and they were like, hey, let's have the smart person
+see if this actually holds up because fortunately, I saw a zeitgeist and I was like,
+well, this is a crock of shit. I fortunately was able to figure that out.
+I was like, this is amazing. And then now I know it's a crock of shit.
+Oh, if we want to, we could do a whole podcast about why that is not only does it get the mythology
+wrong, it gets the astronomy wrong. It gets everything wrong. Like it's like how to be wrong.
+Oh, yeah. It is very, very bad. In 2008, you'll be required to carry around a federal ID with
+your, you know, like it's just so much. Oh, I did not even watch the other two thirds of it. I only
+watched the first part about the Jesus mythicism stuff and realized even from there, yeah, this
+is garbage. I can tell even with my novice brain at this time, but nonetheless, I start getting into
+yes. Oh, you're Jesus mythesis now. Oh, yes, yes. And I'm, yeah, so let me give a little bit more
+background how I can get to there. So, okay, so, you know, I try keeping myself like, you know,
+grounded and like learning the mainstream views on these things, how they come to those sorts of
+conclusions. I'm learning biblical studies. After I become an atheist and learn all this stuff,
+I also come back because like when I'm also doing this and discovering this, I'm actually
+studying abroad in England. And so I'm not working at the planetarium. And when I come back
+to the planetarium and start presenting those shows again, and realizing, you know what,
+do these guys even know what they're talking about? So I'm at Michigan State. The mascot for
+Michigan State is the Spartan. So guess what? They teach Greek. I decided to, hey,
+I'm going to actually learn this shit and actually know if these people know what they're talking
+about when they say, oh, these words are actually the scientific terms in ancient astronomy and
+things like that. And I'm like, is that really the case? Let me actually do the deep dive. So I
+actually like, you know, take a year of Greek, I take a year of Latin. So I actually, you know,
+get the languages under my belt and find out these fuckers can't even tell the difference
+between nouns and verbs in Greek. They're not going to tell me what scientific terms are,
+where they can't even tell me the most basic things about this language. So I'm, you know,
+even with just one year of Greek under my belt, I can tell I am like a light year ahead of them
+in these sorts of arguments. So of course, all the other biblical studies in there. So
+I start like researching I, in 2007, I write an article for Sky and Telescope to argue why
+all the stuff about star Bethlehem stuff is bullshit. In later on, I'm also interacting
+with my now co author, Jonathan MS Pierce, and he's like, Hey, do you want to write a book about
+this sort of thing? And the answer was yes. And this comes out in 2013. The year after that,
+I actually go to an international conference at the University of Groningen about this topic
+as well. And the volume related to that conference was published in Brill, which if you're familiar
+with that publishing company, it's basically like one of the top academic publishing places,
+which also means the book is like call somewhere between stupidly expensive and way too fucking
+expensive, which is very often with these sorts of academic books. But I remember going to that
+conference and I was actually the third person to speak at that conference for this three day
+conference. And I basically get up there and I present like some of the history of this topic.
+I actually published a previous article about the history of interpretations of the star
+Bethlehem, which was published in a science and religion journal, which was actually the
+reason I was even invited to that conference in the first place, because like, Hey, this person
+knows something about the history of this. Let's invite him. So I go up, I give that talk and
+about like, you know, here's some of the basic history and here's why none of this is going to
+work. And I sit down and again, I'm only the third talk of this conference. And on the first day,
+I sit down the person next to me is like, I think we're done. Like I already like, you know,
+completely dismantled the whole thing just on the third talk. But of course, there were still a
+few more days of talk and they were all very useful and interesting. There was lots of great stuff.
+So even if the whole star Bethlehem explaining it with science thing doesn't work, there's still
+a lots of really interesting talks about Zoroastrianism, ancient astrology, the exploits of Alexander
+the Great and how he, you know, did things with star stuff going on there as well. In fact,
+strangely enough, we actually have Alexander's horoscope for when he died. We literally have
+like his death certificate in stone and saying he were the stars of the sky to explain what was
+going on at the time. Oh, wow, that's super interesting. Yeah. And I mean, and it's not like
+it's not a copy of a copy of a copy of a copy. It is the autograph. So in a sense, when it comes to,
+you know, when people like, you know, are trying to argue about like, you know, Jesus and how he
+died and how we have these great resources, like, we literally have the fucking death certificate
+of Alexander the Great. Shall we Jesus's death certificate? Come on. I often wonder if, you
+know, if, if we like found like an earlier gospel, like let's say this is the earliest gospel that we
+had, and we found it and it said, Hey, you know, we decided to hide Jesus's body because we thought
+that, you know, it was what we're supposed to do. And the body is buried here in this location.
+And we went to that location and we dug it up when there was a body there and said this is Jesus,
+Christ of Nazareth, and we confirmed it was dated like all the scientific metrics, everything was
+dated. This was the body of Jesus, tomb of Jesus records, like everything was just okay. I actually
+wonder how much of the Christian world care. Like I wonder if like Christianity would actually
+fall apart, or do I think if it would just be like, hmm, they'd find a way to justify it.
+Well, I think actually there's a way that they could deal with that because the earliest view
+of Jesus's resurrection, as you find in like the Pauline letters, is that when Jesus rose from the
+dead, it wasn't his physical body that came back to life, like it was a reanimated corpse.
+But basically, he then took on a, in the Greek, a pneumatic body, a body of spirit of air, basically,
+of another kind of substance. And so in that case, the old body is left behind, it is left to rot,
+but it's the other kind of body that ascends to the heavens. As Paul says in 1 Corinthians 15,
+the body that you sow is not the body that ascends, that flesh and blood cannot inherit the kingdom
+of God. It has to be this spiritual kind of body that goes up. So honestly, if we found the body
+of Jesus, I think Christians could have just said, well, that's not the body that ascended
+to the heavenly realms. Yeah. That's what I think what happened, like the same way people say,
+when you're eating, you know, the sacrament, when you're eating the sacrament, you're
+easily actually transforming into the flesh and blood of Jesus. Well, some sex believes so,
+but some play the sex we go, no, it's symbolic. And yeah. Yeah. But even symbolic cannibalism is
+still kind of, yeah, it's kind of, yeah. But yeah, but nonetheless, I basically, you know,
+this is like my avenue for getting into these sorts of studies, and especially the intersection
+of science and religion, which is the topic of this book, and about the centuries of efforts
+to try to explain this story with astronomy and astrology. And since then, I've like, you know,
+also been intersected with a couple other book projects about like science and
+Islamic ideas and things like that. I actually got myself roped into this interesting book project
+where there was this exhibit going around, especially in the UK and England called 1001
+inventions, playing off the word 1001 Arabian Knights, and like saying, hey, in the Islamic
+Golden Age, look at all this science and mathematics they developed. And some of it's true,
+but in some of it is just this weird imagination of just how scientific the medieval Islamic world
+was. And so it was rather questionable, some of the things they did, including building actual
+working flying machines, that was actually one of the claims in this exhibition. So I was part of
+that and taking in part my research in education theory, hey, if we really wanted to teach the
+history of science, here's how we should do it, and how this exhibit doesn't actually fit that
+well. So I had some participation with science and Islam, but most of my stuff has been science
+and Christianity, which of course, this book about aliens and religion covers pretty well.
+And nonetheless, in that time, I've, you know, tried to be in biblical studies, I've done a
+couple of presentations at the Society of Biblical Literature, and I have a couple of articles
+in the pipelines to help with some interpretations of the book of Revelation,
+again, from a secular trying to understand its symbolism. And this, what I'm currently working
+on, and I've actually shared this with a couple other scholars to tell me if I'm full of shit,
+or I'm a full of way too much shit, about this process called euhemerization, which is basically
+this other early rationalization of old myths. So just some background here, euhemerus was this
+third century BCE writer, and he tries explaining the origins of the gods as not from like,
+forming out of like the waters of chaos or things like that, but Zeus, he was just a dude,
+and he set up a cult to himself, and because people thought he was so awesome, they thought he was a
+god. And we only discovered this, discovered this in very, very, very heavy scare quotes by this,
+by euhemerus, going to this imaginary island somewhere in the Indian Ocean and finding this
+inscription left by Zeus himself to show how he actually like formed like the first governments
+and things like that. And this idea of how myths could actually be the formation of
+early people, but then turned into gods was actually a very popular approach to myth
+interpretation and myth making in the Greco-Roman period. And the paper I'm currently working on
+is that this also explains some of the stories of the gospels. Damn, you've got such a broad
+field of interest, expertise. Which means I'm wrong about a lot of things.
+Well, you're not wrong about a delicious drink, that's for sure, because this has been pleasurable.
+I have a few questions to round up the interview. Thank you again so much for coming on, I really
+appreciate it. It's a pleasure to dive back into the science and get that part of my brain
+woken up a little bit. So this is a question, we've got a few questions for the audience,
+but this is a question I always ask every guest, and that is what is the most plausibly
+true religion that you don't believe in? Okay, so I don't want to sound too much like Bill Clinton
+or Jordan Peterson, but it's going to depend on what you mean by religion, because does pantheism
+or deism count? We're going to say, because people have been snaking out of this question
+real good lately, especially by you choosing Buddhism, we're going to say a theistic religion.
+So a religion on earth that we know of, like so Zoroastrianism, Christianity, Islam, Hinduism,
+Jainism. So I mean, it's really hard, because like in some ways things like pantheism or
+animism is more plausibly in the, okay. The reason I would say that is because
+if any form of theism is true, that means supernatural entities exist. And the main reason
+I'm not a theist is because I don't think supernatural entities exist. But once I open
+the gate to them existing, why would I only allow there to be one or only there to be this
+one entity that's separate from all of existence? I've basically now by saying that theism in some
+form in any form is true, then that means naturalism is actually fundamentally false.
+So all the things that look like natural laws could somehow be explained by supernatural
+entities, in which case the more consistent view, in my opinion, isn't just that there's all this
+natural stuff, but also there's this God over here kind of pulling the strings. But fundamentally,
+everything that seems natural is ultimately under its core supernatural. And that is more
+consistent with pantheism or animism, that everything is spiritual in some way, as the more
+plausible. Well, conversely, I then find monotheism still unlikely because this isn't the sort of
+universe I respect on monotheism. I would expect more if everything is imbued with divinity,
+then I could at least explain the laws of nature and its consistency. But with monotheism and
+this God that comes in and does miracles every so often, but somehow only does miracles when we
+can't actually verify them. And every time we try to check it falls the fuck apart. I would say that,
+you know, if any sort of theism is going to be true, it's going to have to be some sort of deep
+imbuing with a very fabric of nature. And there isn't this fundamentally separate
+natural thing out there that science independently explains. So now, if you're going to force me
+into one of the world religions with admits and things like that, now I got to start thinking
+a bit more carefully. So you mentioned Zoroastrianism. Zoroastrianism at least strikes me as more
+probable than Christianity, because there it at least explains the problem of evil better.
+Because with with God, the question is, well, why doesn't he just get the fuck rid of Satan?
+He's all powerful in Zoroastrianism. Uh, Uhura Mazda and Ahemann are of like equal potency. So
+why one hasn't dominated the other is at least more coherent. So I would find Zoroastrianism
+of the two more likely. How old is Zoroastrianism? Good question. That's actually somewhat debatable.
+So the oldest it's really complicated because all of the literature we have of Zoroastrianism
+is very late because a lot of the early stuff was just destroyed or just not preserved well.
+So like when it comes to like manuscript evidence of the scriptures is very late. But on the other
+hand, the oldest literature, it's called the Avestan literature. And it has that name because
+it's read as written in the Avestan language, which is very ancient. So I usually see the dating
+of like the oldest Yosh and other kinds of ancient Zoroastrian literature is maybe 1200 BCE,
+which would make it significantly older than Judaism. Yeah, well, this it says here about
+3000 years ago. Yeah. Yeah, that's right in the neighborhood. So I don't know what the current
+state is. But like when I've read things like by Mary Boyce, who is when she was alive, she was
+like the top Zoroastrian scholar until she died like 10, 20 years ago, I forget how long ago.
+But she looked at the Avestan language and looked at like said, Hey, this looks like it's like
+somewhere between like 1400 and 1000 BCE is like roughly when this literature would have been composed.
+And this is then the most likely date of when Zoroastra or Zalathustra would have existed.
+But but with the but like when it comes to like the political entity that uses Zoroastrian is
+as part of it, like in the Achenemen Empire with the Persians, that's like the sixth century BCE,
+which is much later. But of course, obviously, a world power with that is not the same thing
+as the original religion with this prophet. So it's I think still debatable, but it's almost
+certainly older than Judaism, and especially the sort of Judaism we know from the Bible because
+it seems like a lot of the practices of Judaism don't really come into play until the end of
+the BCE period. Well, so I went on Nostra conformance channels today. Oh, my gosh,
+the alcohols really affected me. And I produced this little so we're talking about the pagan
+influences of the Bible. And I produced this little this little beast here. So this is the
+comparative timeline of Bible history. So this is the best time, the best time on I could create.
+Now, I'm wanting to get this like, when I say peer reviewed, I mean, my buddies to check it,
+I've had Josh Bowen quickly look at it. And obviously, he's the man. But I want to get some
+like academic like sources in here. But like 2600, we have the Keshe Temple hymn, right? And then we
+have the Epic of Gilgamesh 2100 to 1200 BCE. So that's, you know, in the Bronze Age. So, but you
+know, most of the Noah's art kind of stuff would fall, you know, could fall, you know, up here,
+up here down to here. But the point is, Genesis was written 600 500 BCE. This is what
+that's wrong. That's wrong. That's totally wrong. Genesis is from the 1980s.
+1980s. The band, Genesis.
+I just had a heart attack. That was great. So there's a 600 year there's a let me just zoom
+in, as you can see, there's a 600 gap here between the Genesis and the Epic of Gilgamesh.
+But yet you can clearly see a global flood and all these other stuff that looks like it's borrowed
+from and the Epic of Gilgamesh is actually taking the flood story from an earlier form of with the
+story of put a pitch to it, if I'm remembering the name correctly. Yeah, from the Arcadian stuff.
+It was like pre-acadian, pre-acadian action. Because I think the myth of the flood is
+actually not in Acadian literature, but in Sumerian. Yeah, yeah, yeah. So it's super old.
+And with the Proverbs, like it's so contentious, the dating of Proverbs,
+some people say no, it was definitely some parts were definitely written by Solomon,
+which brings it right back to 1000 BCE. But some people say no, like it's like 500 BCE.
+I've seen similar things with the Psalms. So for example, I've like done a lot of,
+I've tried to do a bit of digging for some of my research on Psalm 110. And some saying it's from
+the monarchic period. So like very approximately the time of like David and Solomon and others
+arguing it's from the Maccabean period, which is like 800 years later. It's like, wow, how do you
+make an argument there when there's that much diversity in opinions? Now, it seems like the
+majority would say it's older than younger. But still, the fact that you can't just go and say,
+no, you dumb fuck, it can't be this young.
+Don't you dumb fuck. So I need to see that more often in the academic literature. So
+a response to dumb fuck, Johnson, I need to see that in the title of some more articles.
+So the instructions of Antelope. Oh, my gosh, Antelope. What the fuck was that? Sorry. I apologize,
+everyone. Yeah, and I'm, and I'm an emote. Yes.
+Is let me just do just quickly find this. So yeah, so you can see here, you've got like
+comparisons of the text. So you've got like proverbs inclined by ear. And let me just zoom in.
+Incline by ear and hear the words of the wise and apply the hearts of doctrine for my for it is
+pleasant if thou I keep them in thy belly and they may establish together upon thy lips.
+And then this is written beforehand, like 200 years at least. This is the most conservative
+numbers I could find. Give me that in here and hear what I say and applying by heart to apprehend.
+It is good for thee to place them in thine heart and let them in the casket of thy belly
+that they may accept as a peg upon thy tongue. So you can see here that there's this.
+Could you be a saver? Is this Egyptian or Akkadian? Because the name itself almost sounds
+Egyptian. Okay. It's Egyptian. It's Egyptian. Okay. Wow. I don't know if it's the alcohol or not,
+but the fact that I looked at that name and it sounded Egyptian to me rather than Akkadian
+is not because I am a skilled a seriologist not by a low shot. Sometimes the alcohol actually
+helps you get into those parts of your brain. It's weird. One of my favorite things to do
+is to work on something while I'm had a couple of drinks. Like I make the joke that my favorite
+time to drink is by myself alone in my room. Like it sounds terrible, but that's actually
+I'd rather do that than be at a party. Do you know the song Bad to the Bone?
+Yeah. Yeah. Yeah. Yeah. Yeah. The same artist also did a song about drinking alone. It's like
+when I drink alone, I prefer to be by myself. That's the main lyrics of the song.
+But so this, so this was written. So this is also written, you know, 200 years before Proverb,
+200 years before Solomon existed. So definitely before Proverbs. And then we also have like,
+I just put this in for a bit of fun, but the Exodus is written. Oh, sorry, my gosh. Sorry,
+guys. I forgot to switch tabs about this morning as well. So this is written 200 years before the
+Proverbs was written 200 years after at least, at least. But then over here, we got like the
+dates of the Exodus actually happening, like the biblical dates, 300, 1700 BCE. But it's actually
+written down 700 years later. So it survived as an oral tradition for 700 years in a time when like,
+like you just, you know, one, you can't find any archaeological evidence. And also Israel,
+what didn't exist, like we don't, the earliest mention we have of Israel, which is contested,
+by the way, even Neil pointed this out, is the Menefta seal in 1208, 1208 BCE. So like,
+well, it's worth pointing out with this, with this Stila, when it was erected,
+was basically at a time when Egypt was still in domination of the Holy Land. So it was clearly
+not its own independent entity, because the Egyptians came in with like 100 troops and
+completely suppressed all the rebellions. It's like, that's not what you expect. If Joshua comes
+in with this like, you know, a quarter million man army or whatever, and is completely obliterating
+everything, it's like Egyptians could come in with, you know, a couple hundred troops and suppress
+that either God is really bad at this whole war thing, or maybe the story isn't true.
+Yeah, yeah, maybe, maybe. Pragmatic crystals in the house. Thank you so much, Pragmatic
+crystals coming along. We're just wrapping up here. And both of us are very intoxicated. Well,
+I am, at least. I'm feeling the effects, but I feel still capable enough of talking that
+a couple shots. Yeah, it warms the juices. I've got to take care of my baby after this,
+which is fine. I've done it before. It sounds like I'm being irresponsible. I'm not.
+I'll take the dog for a walk. We'll go for a pram ride. It'll be fun.
+So another question that I actually I'll ask a question from Carrie Ann Chrysler,
+who's now a model. I made her a model on the channel because you've been here so much and
+you're such a good contributor question. Has Aaron run across petrified shark teeth gathered
+as meteorites that fell during the solar eclipse? I don't know anything about this question.
+This sounds like a conspiracy theory, but
+yeah, I honestly can't say I know anything about this. So I would think the association
+with shark teeth meteorites and solar eclipses is vanishingly small, but I don't know enough
+about the claim to say anything intelligent about this. The best I can say is during a solar eclipse,
+you should expect a high tide in your local area because then the sun and moon are aligned
+and you'll get the greatest high tides around then. Could that also then help wash up shark
+teeth at that time? That's the only association I can think of. Beyond this, I would need more
+information. This is totally new to me. I'm sorry, Carrie, that I can't be more helpful.
+Thank you. Pregnant Crystal always here, always being so encouraging. I'll watch this. I'll
+re-watch this for sure. Yes, please do and let us know where we're wrong or where I'm wrong.
+High as F. I'm glad someone else is enjoying their night, but okay, so last couple of questions.
+What if anything would change your mind about aliens? I'll spin this again.
+Yeah, so I mean, when it comes to aliens, there's a few things. Obviously,
+while I think it's more likely than not that aliens exist somewhere in the universe
+and maybe in the galaxy, I have every reason to think they haven't visited us. Now,
+it'd be pretty easy for me to be convinced otherwise if they show up here and say, oh,
+no, we have been orbiting and been hanging out with you humans for tens of thousands of years,
+I'd be like, okay, assuming you're not also lying aliens. It's like, okay, it would not
+take that much for me to change my mind. If you can travel the distance between stars,
+I'm going to probably believe you when you say that you've been here for a while. So it wouldn't
+take that much to convince me that they have existed and they've been here for a while. If
+they're telling us, I would be initially willing to believe what they say. Now, conversely, what
+would it take me for to believe that aliens don't exist anywhere in the universe? That is, I think,
+a bit harder. So there's a few things that we could do perhaps in the near future with science.
+I mentioned drilling down into the oceans of Europa to see if there's life there.
+What if we drill down into Europa, find it has all the ingredients for life,
+but in terms of actual life, bupkus, what if we find the ingredients over and over again
+throughout the solar system and again and again, nothing? I think that would really hurt the
+probability of life being common in the universe. And so I would change my mind based on that
+scientific evidence. So I feel like I'm very open to be changed. I should also note
+the results from the simulations in this fantastic book, which everyone should buy at
+least three copies of. The probabilities that we give for life are very strongly dependent on
+how much we don't know, which means they're very fragile. A little bit of new evidence can
+greatly change our estimates for how many intelligent civilizations are in the galaxy
+or are in the universe. So honestly, I feel like the numbers I give there are our best
+estimates based on our current ignorance. If we gain new knowledge, I will happily change those
+estimates. I'm happy to. And of course, if the aliens want to come and tell us all about their
+history, oh, you know, I'm listening. Yeah, yeah, it'd be incredible. In fact, actually,
+it's one of the things we haven't done in this conversation. What do we actually need to do
+to actually show aliens do exist? Intelligence? What can we actually look for out there? That's
+a lot of discussion right there. I don't know if any of those questions are in the super chat.
+Well, they're not, but I think that's a good answer to pivot to. So this is part one of an
+interview. The next part will be with Jonathan Pierce, co-author of the same book, which everyone
+should buy three copies of, by the way. It's pinned in the chat. But yeah, what do we need to do
+to find these aliens? How do we find the aliens? We ask really nicely. Yeah, so what could we do?
+What could we do to find these aliens? What can the average man do?
+Okay, so the average person should buy copies of my book. Now,
+yeah, now there is, it's going to depend, our success on finding aliens is going to depend on
+not just how many civilizations are out there, but are they actively trying to tell us that they're
+there? So if the aliens actually exist and they want us to be known, what they could be doing is
+actually sending us radio signals to be picked up. And we actually know how to look for artificial
+signals. We can distinguish between an artificial and a natural signal by an interesting little
+simple feature of the radio waves that we send out. So right now, I'm using Wi-Fi for my computer
+to connect with my Wi-Fi router and then the rest of the internet. So when it sends signals back
+and forth, it uses radio. But specifically, it uses a very narrow range of radio waves to send
+that signal through. And the distance or like the width of the range is used is called the bandwidth.
+Now the thing is, natural phenomenon don't have light sources with very short bandwidths.
+Artificial sources do. This actually means that we can actually just point our telescopes and if
+we find any narrow band signals, signals of radio waves where like the modulation is over an extremely
+short range, like a fraction of a percent of that actual wavelength of light, that is only expected
+on artificial signals trying to actually send communications across long distances. That's
+how we do radio signals. So like if you turn just your car radio to like, let's say 101.5 FM,
+when you do that on your radio, that's 101.5 megahertz. And you'll notice if you just change
+it to like 101.7, you don't hear anything anymore. It's only really close to that value of 101.5.
+Do you actually pick up that radio station and nothing else? So that's the sort of way that you
+expect intelligently created signals to send information to work. Natural sources are basically
+across the entire spectrum. They don't have these really narrow band. So if aliens want us to know
+we exist, they just have to send any sort of signal that's narrow banded. That's one of the
+main premises for SETI. Now on the other hand, if the aliens aren't actively trying to tell us they
+exist, then we have a lot harder time because the aliens aren't actually trying to help us. Now
+there are a few different technologies the aliens could have that we detect. And if the aliens are
+really, really, really advanced that they are able to harness all the energy of an entire star,
+we can actually see that effect because if you're trying to take all the energy of that star,
+you still have to radio off the waste heat. Basically, any civilization that size is going
+to have a gigantic tailpipe. So if we look and we say, hey, here is this really big anomalous
+source of light in the infrared that you would expect from some like weird star there,
+but you don't see the star, but you see the gravitational effect of something there,
+you would realize, oh, holy crap, there must be a civilization there that must be using all
+the energy that star and all we're seeing left over is the waste heat. So we've actually done
+surveys for looking for these kinds of structures, which are actually named after a physicist by
+the name of Freeman Dyson. He died five years ago. But Freeman Dyson basically came up with this
+idea what's called the Dyson sphere, which is at least in one episode of Star Trek. You build a
+structure that basically captures all of the light of an entire star and use all the energy to
+whatever your purposes are. And that is so much more energy than what we current earthlings use.
+Now, if we saw if a civilization built such a structure, they still have to let some of that
+heat out just from the second law of thermodynamics. No matter how advanced the aliens are, they still
+have to follow the laws of physics. So we realize, hey, if they are building these structures,
+we're going to see the waste heat of that civilization. And we could look for that. We've
+tried looking for that so far we haven't succeeded. But that could be a way of detecting alien tech
+by just seeing the waste heat of those worlds. But maybe another way of doing it, and we might do
+this in the upcoming decades, is build telescopes that can actually measure the atmosphere of other
+planets. We're at the ability to do that maybe for some worlds. But if we could do that for many
+different habitable planets, if we could look at a planet's atmosphere and say, hey, this planet has
+a lot of ozone, that probably means they have life. Because ozone doesn't naturally form and stay
+stable without life producing it. Or maybe even more interestingly, if it starts producing large
+amounts of carbon dioxide and nitrogen oxide, which are the byproducts of industrialization,
+you'd be like, oh, we just found an industrial revolution on another planet. That could be also
+something we could do in our not too distant future.
+Is it possible that life has, and I see your question, Johnty, and I will ask it, but is it
+possible that in the future, not in the future, but is it possible that aliens have visited us,
+but they just haven't made contact because we're too primitive?
+Ah, you are referring to, well, there's a couple of things there, but in particular,
+if the aliens know we're here, they've been around here, but they haven't interfered with us,
+that is actually how we do with un-contacted tribes. We could go into that tribe in the
+students of India. Yeah, we could go there and be like, yeah, what's up? And we'd probably kill
+them all from that germs. Or they kill us because they are very defensive because of what other
+columns have done. But yeah, so back in the 70s, this was actually introduced in the scientific
+literature and called the Zoo Hypothesis, though honestly, it really should be called the Prime
+Directive because it's really derivative from Star Trek, the idea that advanced civilization
+shouldn't be coming in and messing with less advanced civilizations and mess with their
+evolution. The problem, we actually consider this in the book, and the biggest problem is
+how do you actually police that with, you have issues that we like to call the teenager problem.
+You have a teenager, you tell them not to do something, and that makes them more likely to do
+that. The biggest issue is if you have a galaxy full of civilizations and you tell them, hey,
+none of you guys interfere with this planet, how do you police that and make sure no one ever
+breaks that law. That is really hard to do if the galaxy is teeming with life.
+That's teenagers doing burnouts in our front yard in our back yard.
+We know how crop circles are formed because we've seen people literally make them in front of other
+like journalism show, this is how we did it overnight. This is how we've been fooling you.
+It doesn't require aliens, except in like Bill Gibson movies.
+What about that movie is the scariest movie I've ever seen, by the way, Signs.
+That movie scared me to death. If you go back to it though, you're probably going to have to
+ask a few questions like, wait, the aliens are able to come all the way to the world,
+but they can't get through wooden doors. Wait, these aliens are life forms, but they can't handle
+water the fuck. Yeah, yeah, that was silly. But the just when they when the alien walked past
+in the that was effective, but that was also effective because it had walking Phoenix helping
+make it effective. I'm sorry, but that was that was a huge assist on the part of an excellent
+actor in my humble but correct opinion. Yeah, look, despite I love I love
+no Gibson. Yeah, that's a big despite. That's a huge despite. It's huge despite. Yeah. Yeah. Yeah.
+I mean, I think he's I look, I think he's gotten like, like, you know, I have, I have parts of my
+family who are alcoholics and they say some fucking outrageous shit. I just tried to make
+speaking of alcohol, I have to make a confession. I think I need to step away because
+all the alcohol has reached my bladder and I need to. Well, actually, I was going to wrap up
+because I'm in the same. So let me just wrap up and say thank you so much for coming on. I really
+appreciate it. One one last question. This is a bit of a main question. But what generates gravity?
+We don't know what it is. According to Joe Brogan, you know, all the the documentaries that we see.
+So gravity isn't so much generated is that it is the effect of having bodies with mass is the
+natural result of general relativity and objects trying to go in straight lines
+in a geodesic. But when you have a mass, it changes the shape of space time so that the
+straight line you take now looks like a curve path to another observer. You know, simple, right?
+Yeah. Well, Aaron, thank you so much for coming on. I look forward to interviewing Jonathan
+now and I look forward to diving more into your book as I do that because I read the
+chapters that you saw me to read and now read Jonathan's. But go check out the book and thank
+you so much for coming on and appreciate you all. And I, you know, I love the small little
+community we have, Pragmatic Crystal, Carrie X Music, like none none. It's just everyone that
+has been chatting a lot. I really appreciate you guys, Johnty.
+Yeah, just like you guys are awesome. What the back and yeah, I just love you guys. So
+see you guys later. I'm going to go take care of my little infant child, responsibly, of course.
+And see you next year tomorrow, probably. We're still gonna hear back from him because he's in
+Ukraine, but we'll see you tomorrow. Bye. Good night.

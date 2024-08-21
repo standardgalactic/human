@@ -1,0 +1,1778 @@
+In the 1930s, when logical positivism became popular, philosophers stopped arguing for
+the existence of God.
+But starting from the mid-1960s, people became interested in these arguments again.
+Most of these arguments fall into three categories.
+Ontological arguments for the existence of God, that posits God must exist as a necessary
+God.
+Cosmological, sorry, I had feedback happening, cosmological arguments for the existence of
+God, which posits that God exists as a causal agent of the universe, and theological arguments
+for the existence of God, which posits the existence of God as a designer of complex
+functionality in the natural world, which looks designed.
+Welcome, everybody, today my guest is James Fodor, who is a PhD student in decision, risk
+and financial sciences program at the University of Melbourne.
+He completed graduate studies in physics and economics at the University of Melbourne,
+and a master's degree in neuroscience at the Australian National University.
+He also worked as a research assistant in structural biology at Monash University.
+Outside of his research, James is interested in science, philosophy, and critical thinking.
+Thus today, we'll be discussing the subject of his book, Unreasonable Faith, I hope early,
+how William Lane Craig overstates the case for Christianity.
+Welcome, James.
+It's a pleasure to have you on.
+Yeah, thanks, David.
+Pleasure to be here.
+It's really nice to talk to a fellow Australian.
+You're living in Melbourne, is that correct?
+Still?
+Yeah, that's right.
+Yeah, that's where I was born.
+It's a good part of the world.
+Yeah.
+Not the city part, though.
+Like, I wasn't born in the city, but...
+Well, a lot of people were.
+Yeah.
+Okay, so, first question, and this is, yeah, the first question is, what are we drinking
+today?
+Well, I'm rather...
+Oh, go ahead.
+Yeah, go, go, go.
+I'm rather boring.
+I don't really drink much other than water, but I do have my vodka bottle here, which
+I use for refills, so I might take some of those out of that down there.
+And I thought that was such an interesting...
+You must know, as a neuroscience major, that you must know that water, hydration, is key
+to the brain, right?
+So, that's why the water is the key.
+So, yeah, so I'm drinking water as well, this first time I've done water, this is cool.
+So, I was wondering if you could run us through the Kalam and give us the best-faith interpretation
+of William Lynn Craig's Kalam cosmological argument, which is probably the most famous
+argument for the existence of God, what do you say, or are there more famous ones?
+Well, it's hard for me to say what is sort of famous in the general population.
+It's probably the most famous in the apologetics sphere these days.
+So, is it...
+And your book is...
+I got this the other day, and it arrived the other day, and I was like, this is so thick,
+I was hoping to be able to get through it, but it is dense, and it's like, you've really
+put in the work.
+How long did it take you to write this down, to formulate this argument?
+I mean, I think about a year spent actually writing.
+There was plenty of time spent before then developing different ideas, particularly the
+resurrection component, and that took a lot of research.
+The Kalam also took a lot of reading, because Craig's written a lot about the Kalam and
+related issues, and a lot of that writing.
+You think my book is longer, some of those are much, much longer and much, I think, harder
+to read.
+So, yeah, I mean, a year for the actual writing, but overall project was several years.
+I don't even know exactly how to put markers on that.
+Do you think that you're probably the most researched in William Lynn, like you've watched
+the most William Lynn Craig out of anyone possibly in existence?
+Not in terms of watch, because I haven't watched all of his debates.
+I've watched many of them, but there are some people who, like he has followed, particularly
+Christian following, who watch like literally all of his debates.
+In terms of having read his apologetics, I haven't read as much of his theology.
+He's written a favorite theology, but in terms of his apologetics, I probably read
+the large majority of that.
+There's a lot of repetition, so I haven't, again, literally read every bit, but it's
+probably up there, yes.
+And this is the first book that systematically addresses Craig's apologetic.
+So there are books that have addressed parts of it, but there's not been a book that
+addresses all of it.
+So in that sense, it's the most comprehensive.
+So I've never been hugely impressed with the Kalam cosmological argument myself.
+My background, obviously, I had, I used to be a fundamentalist Christian, and now I'm
+not, however, I don't necessarily get the sense that it's a very strong argument,
+however, I'm also not a philosopher.
+So I was wondering if you could just lead us down what the Kalam says and then why
+maybe people are convinced of it, and then we can go into why you're not convinced
+of it.
+Does that sound good?
+Yeah, sure.
+So the Kalam is an argument that attempts to establish only that the universe has a
+cause.
+So this is something that Craig points out a lot during debates is that the argument,
+at least in the narrow version or the strict form, doesn't actually establish that God
+exists.
+What Craig usually then does is he sort of adds on one or two extra premises to get to
+the existence of God.
+So I usually like to talk about what I call the extended Kalam, which is not a phrase
+that Craig uses.
+It's my own terminology, but I just like to include all the elements that actually get
+you to God, because that's really why anyone cares about the argument.
+So if I talk about it in that way, the argument has, well, three to four
+premises, depending on what you want to include.
+But the main ones are that the universe began to exist.
+Everything that begins to exist has a cause.
+And if the universe had a cause, that cause must be a personal being.
+And so from those, Craig concludes that the universe was caused by a personal being
+and he identifies that with God.
+So that's essentially the argument.
+And in defense of the first premise that the universe began to exist, Craig
+appeals to two different lines of argument.
+He appeals to philosophical arguments and he appeals to scientific arguments.
+We can talk about some of those in a moment.
+In terms of the second premise that everything that begins to exist has a
+cause, he largely appeals to sort of the intuitive idea that, you know, things
+can't happen without a reason or a cause and you can't just have like
+universes popping into being and things like that.
+He has less to say about that premise, but he appeals mostly to intuition there.
+And in terms of premise three about that, if the universe did have a cause,
+it must be a personal cause.
+He has two lines of argument for that.
+One is basically that, well, it can't be material and it can't be an abstract
+object because abstract objects can't cause things and it can't be material
+because then it would be part of the universe, but the universe can't cause itself.
+And so he says that the only thing left is a personal cause.
+So it's kind of by a process of elimination.
+He has another argument as well, which relates to the alleged specific unique
+powers of libertarian agents, so like disembodied agents, to cause things
+without themselves having a cause of that action.
+So that's the general thrust of how Craig gets to the conclusion.
+Now, one of the reasons that fundamentally I don't think it's a good argument
+is because in order to defend all of those premises, he needs to invoke a whole
+bunch of extra assumptions, which become progressively more sort of complicated
+and intricate the more you dig down into it, which is what I do in my book,
+obviously. And I think that it's pretty much impossible for Craig to defend
+all of the positions that he wants to because there are internal inconsistencies
+that I draw out in my discussion between the defenses that he wants to give
+of one premise versus another premise.
+Part of those relate to the philosophy of time, which maybe we can talk about
+about a bit more that he needs to assume.
+I would love to talk about that because I knew a little bit.
+That's the one area that I knew a little bit about because of a previous episode
+on Deep Drinks. I had someone come and talk about their PhD and they're doing
+a, Mark Granado, he's doing a PhD on kind of the arguments around
+time with A theory and B theory and like the history of that.
+Super interesting.
+I didn't know anything about that until we had the conversation.
+But Russell, I posted this on the MythVision podcast
+Facebook community page and Russell Miles said, a book wouldn't a paragraph
+and a half be way too much to address the column?
+And normally I would go, yeah, like I reject straight away from the first
+I reject the first premise myself.
+But what I love about your book is there is it's so dense.
+And I haven't read the whole thing.
+I've been watching your your series on your YouTube channel, where you go
+through it systematically.
+And there's nowhere to hide in this thing.
+Like you really, really, that was the goal.
+Yeah, it's supposed to be a comprehensive discussion of all of the issues
+that he raises. Yeah.
+Yeah. And because that hadn't been done before.
+And what you get doing that is that you draw out you draw out issues
+that aren't clear if you just focus on one or two little points that Craig
+makes is that you notice that he makes arguments that are inconsistent.
+And he draws upon principles in one place, but then contradicts them in another
+place. And so you can't sort of have them both ways.
+That's what I think one of the major weaknesses of the column is, is that
+it does actually have a lot.
+It's quite complex.
+Now, this is the reason why it's attracted a lot of philosophical interest
+is because it does have many different avenues or implications.
+Like it relates to philosophy of time, philosophy of causation, quantum, quantum
+mechanics, philosophy of like, well, philosophy of space or time, like the
+origins in the universe, and it relates to philosophy of mind in terms of like
+intentional action and agency and things like that.
+So that makes it philosophically rich and interesting to discuss, but it makes
+it worse as an argument because the more sort of pillars that your
+argument depends on, the weaker it is.
+Because remember, this is a deductive argument, or at least that's the way
+it's typically phrased.
+So you knock out one pillar.
+I guess pillar is not really the best analogy, right?
+Because multiple pillars will support the same structure.
+And, you know, the more pillars you have, the better, but it's actually
+the other way around in a deductive argument.
+You only need to knock out one and the whole argument is defeated because
+you need all pillars to, to, for the deduction to follow.
+Yeah.
+In terms of your earlier point about whether one paragraph is not enough, I
+think, see, this is one area where I differ from a lot of atheists.
+I mean, you could say one word, in a sense, you could say one word is
+sufficient, you could just say no, right?
+You could just disagree with the conclusion, right?
+But the question is what your objective is.
+I mean, psychologically, one can not accept any claim that anyone gives you
+irrespective of what they say.
+Yeah.
+And if, if your only objective is to express your disagreement, then one word
+is sufficient.
+If your objective is to engage with the reasons given, and ideally to sort
+of present in a sort of a systematic and, and fair minded way, why you think
+that they've gone wrong and also potentially to persuade other people,
+then I think that it does take quite a bit more than one paragraph to, to
+discuss the column.
+I don't think it does take a whole book though, because the column is only one
+section of my book.
+So I think it's my discussion of the column is about a hundred pages.
+Now, you know, you could probably condense it a bit, but yeah, I think it
+probably takes about a chapter at least to, to deal with the column.
+What I, what I'm kind of shocked by as well is there's not much fluff in this.
+Like, you know how you, like some books, like they're quite fluffy.
+This gets right to the point.
+It's very systematic.
+Yeah.
+So, I mean, so when it comes to, um, so you kind of open this book talking
+about time, right, talking about the, the, um, A theory and B theory or how
+you, how it's phrased is tense and tense less.
+Um, which one is more cringe?
+A theory or B theory?
+What's, what, what are you, are you a B theorist or an A theorist?
+Well, I find A theory and B theory, the labels is kind of cringe.
+That's why I don't use them in my book.
+Actually, originally I did because that's what Craig uses.
+He has, Craig has four books on the philosophy of time and each of them is
+very long and boring, um, and very hard to read.
+So I've read most of three of them.
+I think one is more theological.
+I didn't focus on, but anyway, I tried to incorporate the discussion of
+those in, in that section of the chapter.
+And anyway, one is called the A theory of time.
+One is called the B theory of time.
+And the other one is, oh, the other two, one is about relativity and time.
+And then one is theology and time.
+So those aren't the titles, but that's what they're about.
+Anyway, so Craig uses A and B theories labels.
+I find those very unhelpful because they're not in any way connected to the
+content of the theories.
+It's just labels that I kind of remember who came up with them initially.
+Tense and tense less, you know, tensed and tense less theories aren't great names,
+but at least they're slightly descriptors.
+So that's why I prefer those.
+I should emphasize that technically tensed and tense less aren't the same as A and
+B, but they're close enough so that I don't think that we need to make any
+distinction here.
+Now, personally, I think that the tense less or the B theory of time is the
+correct one.
+And I think that essentially that is supported by, I think there's philosophical
+arguments, but I think the definitive evidence is scientific that the special
+and especially the general theory of relativity, I think essentially, if you
+interpret it realistically, like in terms of scientific realism, if you lean
+towards that, then I think that you should conclude that they support the
+tense less or the B theory.
+And that's a problem for Craig, because Craig, as he said himself a number of
+times, is an A theorist.
+So he's a what's called a presentist.
+So that's a form of the tense theory of time.
+He thinks that only the present exists.
+And he thinks that that's essential for the column to succeed.
+So if you can show that presentism is wrong, then the column's not even doesn't
+even get a starting point.
+The reason this is relevant, by the way, is because if you recall the first
+premises, the universe began to exist.
+And that word began is critical there because this is actually fascinating.
+I think I mentioned this in the book.
+Craig wrote his, his initial work on this was his PhD thesis.
+It was at which he published, I think it's just called the column cosmological
+argument, and he doesn't discuss philosophy of time at all in that book.
+And Craig has said elsewhere, I think I cite this in my book, that he said that
+it was only after he published his thesis that someone brought to his attention
+the whole A versus B theory issue, right, the whole philosophy of time point.
+And Craig says that he wasn't really familiar with this beforehand.
+And he's sort of just intuitively assumed an A theory of, an A theory of time.
+So the way I interpret this, which I think is fair, given what Craig has said,
+is that Craig wrote his column cosmological argument and got some attention
+in the philosophical space or apologetic space.
+And then he sort of realized that there was this gaping hole in it,
+which is that if you reject the A theory of time or reject presentism,
+then you can just sidestep both of his premises because they presuppose
+this particular view of time.
+So then what he did is he spent years going back and basically trying to
+substantiate or defend his particular view of time.
+That's why he wrote these four books, right?
+And but the issue is the issue is this doesn't get discussed much in popular debates.
+There's hardly any debates where this even gets mentioned.
+I think maybe Sean Carroll, it comes up briefly, but for the most part,
+he's able to skirt around this because most people aren't aware of this.
+And even many philosophers who discuss the column with him on this
+don't bring up this point about the theory of time.
+But I think it's actually critical.
+And that's why I start the book off with this,
+because I think it's foundational to everything that comes afterwards.
+Yeah, that that's so, yeah, to me, I look at premise one and go,
+the universe began to exist.
+I don't even know if I can answer that question.
+Like I'm you've you've studied physics, right?
+I have no idea, you know, I think maybe you can correct me if I'm wrong,
+but we have no idea what happened or even if the word happened
+before the singularity is even a sensical term like terminology.
+Like in many ways, when it comes to the Big Bang Theory
+and like the expansion of the early universe, we have where we've got theories
+and concepts, but we don't have like a definitive answer yet about
+like why things expanded from the singularity or or or I guess
+that the reasons reasons for that.
+So the first premise for me as a layman is just, I don't know.
+Like I don't know if the universe began to exist.
+I don't know if it always did exist.
+You know, I don't I don't know if like before the singularity,
+there was something there was an infinite regress of universes
+that expanded and collapsed.
+And so, you know, what are your thoughts on my layman's
+rejection of that first premise?
+Yeah, well, just linking it back to the discussion about philosophy of time,
+I think, excuse me, I think there's a bigger problem for Craig,
+which is that unless you accept presentism, nothing begins to exist
+in the sense that Craig means it.
+So Craig seems to, well, not seem to, I mean,
+he discusses exactly what he means by by begins to exist,
+but he means it in a kind of sense of literally things
+or perhaps intervals of time.
+He's not always clear about exactly what specifically,
+but things don't exist and then they come into being and that's the present.
+And then they go out of existence again and, you know,
+like the next part of time or moment of time or interval of time comes into being.
+So there's a sort of succession of
+realizations of different parts of reality or like times in reality.
+The thing is if and that's what he means by begin to exist.
+So the universe began to exist in a sort of absolute sense.
+And unless you accept presentism,
+not only does the universe not begin to exist,
+nothing begins to exist like that.
+Basically, the the tenseless theorist of time thinks that time is like space.
+There's over here and there's over there, but there's no absolute.
+There's no absolute beginning, just as there's no no like absolute sense
+in which one side of my room is like absolutely to the left of the other.
+It's to the left relative to some frame of reference, right?
+But it's just one part is over here and one part is over there.
+It's not like one part is more real than the other or something.
+Likewise, it's earlier and later than times exist,
+but no one of them is more real or less real than the other.
+So according to this view, the beginning of the universe is
+is just as real as the as now, right?
+It's just that it exists sort of over there at a different part of time.
+And so we don't experience it now because we exist at this part of time.
+So nothing really begins to exist in the way that Craig means it.
+And so that that's a bigger problem even before you talk about
+the beginning of the universe itself.
+And that's why the first part of the chapter is addresses.
+What reasons does Craig give for thinking that presentism is true?
+And how do we evaluate those?
+And then and then the next section is where I turn to the specific premises.
+OK, let's just grant Craig his presentism now.
+What can we say about the universe?
+Does the universe begin to exist?
+And I essentially agree with you that the best answer is we don't know.
+But Craig wants to say that we do know and he has a set of
+he does appeal to scientific results, but he says that the main reason
+reasons by which we can know are philosophical arguments.
+And so those consist mainly of a series of thought experiments
+which attempt to show that either an actual infinity cannot exist.
+So Hilbert's Hotel is one of these.
+Maybe we could talk about that if you want.
+And then there's others that attempt to show that irrespective
+of where their actual infinity is going to exist, you can't have an infinite
+succession of events.
+So the past must terminate at some finite like distance sort of before the present.
+And that would be the beginning of the universe.
+So it's got two lines of argument which are basically built on thought experiments.
+Yeah, it's the Hilbert's Hotel thing always gets me as well, because I am
+and I might be philosophically lazy with this.
+But but my my perspective on the Hilbert's Hotel and the the idea of
+infinity is is very much a hands up in it.
+Like like I don't think anyone can understand infinity.
+Like I think it's like it's it's not we can't rationally contain it within
+our brain other than to kind of describe it.
+But we can't actually like we can't actually as soon as we've gotten there
+when we think we've understood infinity, there's like we're missing something
+like where there's more to be found, if that makes sense.
+Maybe I'm saying this.
+Have you heard about the the the monkeys and the typewriter like thought experiment?
+Yeah.
+So.
+Sorry.
+So sorry, there's just got a super chat.
+Brock said, if you don't agree to play Codgner and he's turning off the internet.
+OK, thank you. Thank you, Tom.
+That was very that was very encouraging.
+So.
+So with the with the monkeys at the top of the thing,
+I had like a heated debate with my family about this.
+Like they were convinced that it was impossible that it would never happen.
+But not only is it impossible, but it's like it's like it's proven
+in the premise, right, because the infinity kind of works it out.
+Like the like it can't not happen.
+Like it's it's but I think if you have infinite monkeys, right?
+And type, yeah, I pride is and Craig's going to say that's impossible.
+Really, it's physically impossible, but like metaphysically impossible.
+So in any possible universe, you can't have an actual infinity.
+That's what he says.
+Yeah, you see, that's maybe that's why my family didn't understand, didn't accept it.
+Well, maybe I don't I don't know.
+Well, wouldn't hang on and then please excuse me as I just go off on random thoughts.
+But wouldn't that also because one of the other arguments for the existence of God,
+which I quoted by the same apologist is that like you think of like God
+and the thought of God is like a perfect being.
+And so a perfect being would be even better than the thought of God.
+He's a perfect being there for God exists.
+Right. Yeah, so that sounds like the ontological argument.
+Yeah. But so.
+So so Craig William Lane Craig would have to reject that then because an infant God.
+So it's gone on. Yes.
+Well, so the thing is most most objections you can think of
+to the column Craig has already heard and has a response to.
+I like to think that I not I level a few novel ones, mostly that involve
+connecting areas that other people haven't connected before.
+But anyway, so Craig has responded to this particular objection.
+Now, whether you find his response convincing is another matter.
+Basically, what Craig says is that when he's talking about infinities being impossible,
+metaphysically impossible, what he means is a quantitative infinity.
+So a denumerable set of discrete items.
+So like moments in time, for example, or I guess monkeys on typewriters.
+Now, when Christians say that God is infinite, they don't mean that God has
+like infinite things inside him or an infinite is some infinite set or something.
+They mean this that he they mean it in the sense that he doesn't have any limits.
+He's unbounded or he's, you know, maximal in some sense.
+Now, I don't actually think this works, right?
+Maybe that works in some ways, but there's there's one specific sense
+in which you can show that that doesn't work in my opinion, and that is God's knowledge.
+So for example, you could ask the question, how many prime numbers does God know?
+Seems like the answer has to be infinite, right?
+Because there can't be like a high, there's no highest prime number.
+And surely God knows all the prime numbers of which they were infinite.
+And so you can say for each prime number, there is a some kind of fact
+that God is aware of or knows that corresponds to, you know, that prime number.
+And it seems like there's an infinite number of those.
+So in order to get around that, Craig just kind of has to say, well, God
+doesn't have propositional knowledge.
+He just sort of knows things in a non propositional way.
+It's not really clear what that can mean.
+I mean, he still knows an infinite number of facts, right?
+So the point I want to make with that little example is that it only took a few
+steps to get to the point where in order to defend his claim, Craig has to say
+that God's knowledge is non propositional.
+And already I'm scratching my head wondering, how does that work?
+Like, what is a non propositional knowledge?
+Do we even know what such a thing is like for a God to have?
+And does it make sense for him to have non propositional knowledge
+about things that seem to be discrete items like this prime number and that
+prime number? And the thing is that when you when you work into the column,
+you find that there's a whole host of things like that, that in order to get
+around an objection, Craig just has to make an assertion.
+And it's like, OK, well, there's that.
+And then there's OK, so God's knowledge has to be non propositional.
+What else is there?
+Well, we've already got like the presentism as a theory of time.
+We'll see there's a host of other things that come up later.
+And when you put them all together, he needs all of these for the column to work.
+Otherwise, one of these objections goes through.
+And that's why I think the column is so weak is because it turns out you need
+so many things to defend.
+But the way Craig gets around this is in any one debate or discussion,
+people usually only levy a few of these objections because there's just not enough time.
+And so he has responses and it sort of sounds reasonable, right?
+At least he's good at presenting himself.
+What you don't realize, I think, is just how many of these, I think,
+at least dubious claims, at least claims that are reasonable to doubt.
+How many of these claims he has to defend?
+And when you level them all up against each other, you realize, you know,
+this is really more of a house of cards, right?
+Like, there's so many things that have to defend here.
+It's almost, have you counted how many, like, how many, like,
+how many that he has to, like, kind of...
+I think I might have said something about...
+Yeah, I think I might.
+I mean, it depends how you, like, individuate them, right?
+I think I discussed this in the conclusion of the chapter.
+I can't remember the exact number.
+It's at least, yeah, so there's, at least there's the philosophy of time,
+then there's the, he has to adopt a particular interpretation of relativity theory.
+He needs to make at least one or two assumptions about the nature of, like,
+God's mind and causation.
+Then there's some assumptions about, like, the nature of infinity that go in there.
+And then, oh, yeah, the impossibility of, like, they're being a...
+Anything that comes, anything that's temporal, but comes from a non-temporal state.
+We can talk more about that.
+So there's that one.
+I think there's a couple.
+I think it's at least, like, eight to ten major relatively independent assumptions
+from memory that span across a wide area of philosophy.
+And remember, this is only one argument for the existence of God.
+It's not like that these assumptions undergo different arguments.
+They all undergo just one argument.
+And I contend that it's just not...
+Because he needs all of these, and they're all, I think, questionable.
+To say that they're all probably true is just not really, I think, very reasonable.
+Or at least it's extremely reasonable for someone like me to identify these and say,
+look, on the basis of this, I just, I don't buy it, right?
+That's why I don't buy it.
+I saw a tweet from our friend Captain Christianity when I say friend.
+Have you actually spoken to Cameron before?
+Cameron Batuzzi.
+Yeah, Batuzzi.
+No, I think he's...
+I don't know if I should say this.
+I think his approach is to pretend that I don't exist.
+Because, yeah, we've had some indirect interactions, but I've never spoken with him,
+no.
+He's spoken with Nathan, whom I've obviously done work with.
+Yeah, I'm the same.
+I've asked him to come on Deep Drinks a few times.
+I don't think I have any amazing arguments or anything.
+But I think his position is definitely to only platform people who make the argument
+for Christianity look really good.
+He's tweeted at me a couple of times, like when I've said some stuff on Twitter about...
+I said an all-powerful God shouldn't need to rest on the seventh day.
+And then he got angry at that.
+But he said something that bothered me, not bothered me, but he's so good at trolling
+people on Twitter.
+And one of the things he said was, it's like a meme about, like,
+oh, there's no evidence for the existence of God.
+And then it had a list of all these arguments.
+I can't get to seeing that.
+Yeah, yeah, yeah.
+And I was like, if I only had come on to Deep Drinks to discuss these,
+I'd love to chat to you about any of these reasons to believe in God.
+And just a random aside, because it seems to me that no apologist actually arrives
+at their belief system because of these arguments.
+They're like, they arrive there because they grew up Christian.
+They got off drugs as a Christian or a Muslim or whatever.
+They had some experience.
+And then they're like, oh, Big Bang Cosmology kind of demolishes the seven-day Adam and Eve account.
+Like, you know, maybe I'm going to go find how I can fit this together.
+And then they go looking for the evidence post hoc.
+But it's not fair for us to just sit here and talk about the ridiculousness of apologists.
+So I want to actually flip the script a little bit just for a random aside and just ask you,
+what is your worldview?
+Do you have a belief in God?
+Do you where do you think we came from?
+What is the purpose of life?
+Do you have like a elevator pitch for what where you kind of stand?
+Well, I'm actually working on this at the moment in the form of a second book,
+which will discuss a or outline a positive worldview for a form of naturalism.
+Yes, I'm an atheist.
+Now, I don't think atheism is a worldview, although theists sometimes say that it is.
+To me, atheism is just the denial or rejection of the existence of God.
+It itself is not a worldview.
+Naturalism, metaphysical naturalism, I think is a worldview or at least a class of worldviews.
+So when I say I'm a naturalist, what I mean by that is that I don't believe in anything
+outside of the physical material world.
+Some people distinguish physical and material.
+I just use them pretty much the same.
+So I believe that everything that exists is ultimately a product of the interaction of,
+I guess you could say, fundamental particles, electrons and quarks and that sort of thing
+interacting in various complicated ways.
+Now, that doesn't mean that, for example, there's no such thing as morality or
+minds or free will or meaning in life.
+It just means that these things can be ultimately reduced in terms of their parts
+or what grounds them.
+This is a term philosophers like to make, like to talk about.
+What grounds these things is ultimately bottoms out in physical state of affairs
+in their interactions.
+Now, this is distinct from many worldviews, theistic worldviews, for example,
+as well as some other worldviews which postulate some sort of fundamental mind or spirit substance
+that undergirds reality or even philosophies like Hinduism, which not necessarily theistic,
+but think that there's some kind of stuff that underpins reality that's maybe not
+mind, but not purely physically than karma and Brahman and other things like that.
+So I reject all worldviews that have those sort of components.
+And I think my ultimate reason for that is I think that we can account for everything
+that we need to in the world or all the phenomena that we sort of experience.
+We can account for all of that quite well just in terms of grounding it in physical
+state of affairs.
+And that's what I'm sort of working on in my new book about showing how that works,
+looking at phenomena that theists often use to say, we need more than the mere physical,
+the mind or morality and things like that.
+But because I don't think that you need to postulate anything extra,
+then I think, well, it's not necessary, so just leave it out.
+Plus, I also think that these are other worldviews entail a lot of difficulties
+accounting for these new processes or substances that they introduce,
+which you can just avoid if you don't believe in them.
+Yeah, I'm pretty much exactly on the same page as you in regards to that.
+How do you account for something like consciousness personally?
+Someone has studied neuroscience.
+Yeah, well, that's often regarded as the most difficult thing for...
+Solve it for me, James, so just tell me the answer.
+Yeah, well, I mean, discussing that does probably require a book or at least a section of a book.
+So I tend to think of...
+So if by consciousness, what we mean here is what's sometimes called qualia.
+So this means a phenomenal state, so a state that it's something to be like.
+There's an experiential component of it.
+People often point to the redness of a rose or something like that,
+or it could be smells and sounds and other things like that.
+Something that it has an experiential quality to it that we think that minds have,
+but computers or trees, presumably, or rocks don't have.
+So I follow an approach that's fairly popular in philosophy these days,
+but certainly not universal, called representationalism.
+And basically this says that qualia are representational states.
+So the idea is that when we have a phenomenal experience,
+like that redness of the rose, what that is is that's kind of a first-person viewpoint,
+or first-person kind of way of experiencing what it is that that experience is representing.
+So from an external point of view, you might be able to track the activity in my brain
+and sort of correlate that to what I'm seeing.
+But to the third-person observer, that's just going to look like certain physical correlations,
+or I guess statistical correlations of physical states.
+It's not going to feel like anything.
+The idea of the representationalism is that there's kind of this disconnect between
+what you can, how do I explain this, what you can determine if you just look at a system
+from a third-person point of view, and what is experienced when you are that system.
+This is how we resolve what's called the knowledge problem or the problem of the gap,
+whereas, well, I could look in your brain and see the activity of the neurons,
+but I wouldn't experience anything as the person who's like detecting that activity.
+But the idea there is that in order to have that phenomenal experience,
+you need to essentially be the cognitive system that is forming a particular representation.
+So a third-person observer isn't that system.
+There's some other system.
+They're a different brain.
+They're not your brain.
+So you basically need to be that system in order to gain access to the what it is like.
+So there's nothing ontologically new there.
+So there's no fundamental new substance or stuff that produces consciousness or anything.
+It's just that we are limited beings, and so that we can't get access to what it is like
+to be a particular state just by describing it from a third-person point of view.
+So there's a sort of a cognitive limitation there.
+And what consciousness ultimately is, is a certain type of representation.
+So consciousness has a function in that sense.
+It reduces a phenomenal state to a sort of functional state,
+a state that does some work by representing something in the world.
+And it's just that we can't get access to what that's like unless we are actually that thing itself.
+That probably isn't a very satisfying answer,
+because I haven't done the work to sort of set up the principles there.
+But this idea of representationalism I think is quite powerful,
+and I think gives the materialist a lot of
+a useful scaffolding to approach an understanding of consciousness.
+The other thing that I will add to that
+is I don't think that competing worldviews have any better explanation of consciousness.
+Usually the strategy is to argue that the physicalist cannot in principle explain it.
+So like they'll try to make a deductive argument without themselves offering anything better.
+They'll just say, well, you can't in principle.
+And so therefore like materialism must be false.
+But I think that those in principle arguments fail,
+and then it comes to a matter of, well, who can explain it better?
+And the dualist or the panpsychist usually just define it into existence by saying,
+well, there's just this extra thing that just has the property of phenomenal consciousness.
+Well, I don't think that's a very satisfactory answer myself.
+Just to push back on that, because I'm pretty much in agreement with what I understood there.
+But I have a family member who's very into this kind of thought.
+And they kind of posit, have you heard of, I forgot what his name is?
+He wrote, I forgot what his name is, but I've got it back there.
+I'm not going to go looking for it.
+He wrote this book.
+He was essentially saying that we have consciousness first.
+The first way that we experience life and everything is through consciousness.
+Right. So the material world is unjustified,
+because it's happening and only reveals itself to us through consciousness.
+Does that make sense?
+Is this Bernardo Kastrup?
+Who's that, sorry?
+Oh, well, he's an idealist.
+So it sounds like the sort of thing that he argues,
+although maybe it's not him specifically.
+But yeah, so I mean, this is an idealist argument.
+It's Rippit Spirer.
+It's Rippit Spirer, sorry.
+What was I saying?
+Yeah, so this is an idealist argument that what we have direct access to
+is the world of ideas or like perceptions and thoughts and so forth.
+And then anything beyond that is sort of inferential.
+Now, and therefore, the argument there is that we should put ideas
+or mental states at the grounding and then anything beyond that is sort of
+emergent or develops from or is dependent on the mind.
+So where I'm still sort of working on a robust response to idealism in my book,
+but what I would say at the moment is I think that's sort of true,
+but I think it gets the inferential step wrong.
+So what I would say is it's true that in a sense,
+we do have more direct access to say mental states like phenomenal perceptions and things,
+then we have access to the material world,
+because I think that we have an immediate access to the material world
+through our perceptions and thoughts.
+But it doesn't follow from that, that the material world is grounded
+in or like dependent on ideas.
+It only all that follows is our beliefs about it are dependent on our mental states.
+So the way I approach this, I'll go ahead.
+Well, what they'll say, what these people will say is
+even just discussing the material world,
+you're begging the conclusion, you're begging the question,
+because there is no material world.
+There is just consciousness is what they'll say.
+And then so this is an analogy that I'll give, right?
+So me and you were sitting in a white room and I say to you,
+I say to you, hey, there's more than just this white room.
+And you say, no, that's bullshit.
+There's just this white room.
+And I said, no, there's way more than this white room.
+And I leave the white room, I pick up red flower,
+I come back into this white room and I show you the red flower and I say,
+look, here's a red flower.
+And you say, yes, but that's still in this room.
+So all that exists is within this room.
+So now in this hypothetical, I'm leaving this room.
+So it's not exactly the same, non analogous.
+But the concept is anything that you kind of give,
+it's un-falsifiable, which pisses me off.
+But the only thing that you give is, I can just say yes,
+but that's happening with the inside of consciousness.
+So you're unjustly presuming materialism.
+Yeah, I don't see how that's a presumption, right?
+So the claim is that the mental world is, well,
+either it's the claim that is foundational,
+perhaps that it's all that there is.
+Those aren't quite the same statement.
+I suppose, yeah, if you're an idealist,
+you would probably say that it's all that there is.
+But either way, now, an alternative explanation
+is that the mental world is not all that there is,
+that there is some other facet to reality.
+So merely raising that as an explanatory alternative
+is not question begging.
+It's only question begging if, in defense of that,
+I sort of presuppose my view in some way.
+But I don't see how it is because the claim is that,
+well, and this is what I was going to say before.
+I think one question that arises when we seek to explain
+our perceptions and thoughts and so forth
+is why are they the way that they are?
+Why do they have structure and regularity and features
+and so forth that they do?
+And in my view, the best explanation of that
+is to postulate a material world that obeys
+certain laws or has certain regularities to it,
+that all different minds interact with.
+And they interact with each other through their connection
+with that physical material world.
+That's a postulate about the structure of reality
+which is made in order to account for the phenomena
+that we experience or the aspects of phenomenal consciousness
+and thoughts and memories and so forth that we experience.
+I think that idealists struggle to give any account
+as to why it is that our perceptions, memories,
+and thoughts are the way that they are
+without accounting for some kind of structured regularity
+that stands behind it.
+Now, they could maintain that that structured regularity
+is still something mental.
+Perhaps it's in the mind of God, for example,
+or it's also some sort of shared constructed dream
+or something like that.
+But I feel that that's just very hand-wavy
+and that the materialist has a very coherent alternative
+which is provided by science,
+which I can ultimately point to,
+fundamental particles, how they behave,
+force fields and interactions and so forth,
+and state that actually this is the fundamental
+substrate of reality.
+And then all of our thoughts and perceptions
+are actually grounded ultimately in that.
+So that's an alternative proposal that accounts for,
+I think, the same phenomena ultimately.
+And I think it does so in a more successful way.
+Yeah, I'm a little bit of a,
+and I'll get your thoughts into this,
+but I'm a little bit of a determinist myself.
+I believe if I drive a stake through my head,
+my brain will stop working.
+If I take Valium, I'll feel relaxed.
+If I take any depressant, if I'm depressed,
+I'll likely become not depressed
+by exercise, I'll feel good.
+Does anyone disagree with those?
+Yeah, most people agree with those.
+Yeah, I think most people agree with those,
+but most people don't accept that the universe is deterministic.
+Do you think the universe is deterministic?
+Well, before I answer that question,
+I'm curious as to why you say that,
+because previously you'd expressed
+a lot of agnosticism about things
+like whether the universe began to exist,
+or the nature of time, I think, as well.
+How can you be so sure that the universe is deterministic?
+Because I myself would say that I'm not sure.
+Oh, really?
+Well, let me educate you here, James.
+No, this is just, this is-
+I'm not saying you shouldn't think that.
+I'm just sort of curious as to why you do that.
+Yeah, so the way, so when I look at like the decisions,
+well, okay, maybe I'll soften my language a little bit.
+I don't think, I think that free will doesn't exist.
+I don't know if we're in a deterministic universe,
+but I feel like free will doesn't exist
+on a fundamental level.
+I believe it's an illusion.
+And we will get back to the clam, I promise.
+But what I'm kind of getting at is,
+I think that if there is like,
+if you imagine like a rock, a hill,
+and there's a rock on top of the hill,
+you push the rock down the hill,
+it rolls down the hill, and hits a certain spot.
+If you know every single variable of that rock
+and the hill and everything, the friction,
+the temperature, the speed, the velocity, all that stuff,
+you can predict with 100% certainty
+where that rock is going to land 100% of the time.
+Like you could run that experiment a billion times over
+and it would never change.
+This is kind of not,
+I know that there's some quantum randomness and stuff like that,
+but just in a, without dealing with quantum mechanics just yet,
+we can predict where it's going to land 100% of the time.
+So I think that our brains are just a much more complicated version
+of the rock and a hill.
+And I believe the universe that we're in
+is a much more complicated version of that.
+So the environment that we're in, everything like,
+is like, I don't have agency in that.
+Like I can't take like a mass amount of,
+you know, something that's going to make me unconscious
+and then fight it off.
+Like I can't just will it to,
+you know, I'm trapped by the physical limitations of my brain.
+I can't just choose to fly.
+I'm trapped in the physical body that I'm currently in, right?
+Like I'm stuck with the limitations of biology.
+And biology is what seems to make,
+is what seems to drive the processes that build the stuff
+that's going on in my body.
+So I therefore believe that that's where it's,
+consciousness is coming from and decisions as well.
+Yeah. So I agree with that.
+And that's sort of the view of reality that I articulated
+was sketched when I mentioned naturalism.
+What I would say though,
+is that it doesn't follow from that that we don't have free will,
+although it does depend on what you mean by free will of course,
+like many things.
+So there's a former free will called libertarian free will
+or libertarian agency,
+which I think is the former free will that you're referring to,
+which is the idea that we,
+that at least some of our decisions,
+and maybe all of them are ultimately generated
+without any antecedent causes.
+So, or in other words,
+regardless of what the antecedent set of causes are
+in your brain and body and the environment,
+you could still choose to A or to B,
+even with the exact same physical set of causes
+and the exact same initial state.
+And I agree that we do not have that type of free will.
+Most physicalists reject that type of free will,
+although there are some who think that it's still defendable,
+but I don't think that it is.
+But that's not the only type of free will that's on the table.
+Well, can you rephrase that for me?
+So you don't think it's possible?
+Like, so if I have point A and point B,
+like if I have like option A and option B,
+do you believe that I was all,
+I'm always going to choose one option?
+Like there's never like, I can't,
+I don't have free agency to choose
+which option I want to choose, right?
+Well, you've got to be careful there.
+Like, what do you mean by free?
+Like free in what sense?
+So, yeah, so there's a sense,
+so there's a sense in which this is often discussed
+that the ability to do otherwise.
+And what this means is that in the exact same
+physical configuration,
+so imagine if all the atoms,
+well, the extreme case,
+put the all of the subatomic particles
+in the entire universe in the same configuration,
+does the same result play out in the same way every time?
+Or do you always choose left or do you always choose right?
+Let's assume there's no genuine randomness
+for the sake of argument,
+because genuine randomness doesn't really get you free agency
+because randomness isn't free choice,
+at least most people think so.
+So putting that to the side,
+if in the exact same physical configuration,
+you always choose the same option
+and could never do anything else,
+then you don't have the ability to do otherwise.
+If you think the ability to do otherwise
+in the exact same physical condition
+is required for free will,
+as libertarians do,
+then you will typically think that materialism
+and free will are incompatible.
+And so that seems to be what you're articulating.
+What I say is we don't need that to have free will.
+That's an erroneous requirement.
+Okay, interesting.
+Of course, you could always just say,
+well, I define free will to be this particular way,
+and you know, okay, that's kind of boring.
+The question is,
+does that have any connection to the naive sort of concept
+of free will that we have,
+and the notions of like responsibility
+and other things that are connected to it?
+And personally, I don't think it does.
+I actually think that that's a crazier requirement
+if you dig into it.
+Okay, yeah.
+Can I give you a random hypothetical,
+and then we'll get back to the,
+and then ask you what you thought,
+and then we'll get back to the column.
+But the, so Adam and Eve, right,
+let's pretend the historical,
+the story of Adam and Eve in the Garden of Eden,
+it's a historical fact, right?
+If God, and let's pretend God is an omniscient,
+omnipresent being, he knows everything.
+In those two instances that it's real,
+and God knows everything,
+he created Adam and Eve knowing exactly
+what decision they were going to make ahead of time,
+because he knew the environment they'd be in,
+he knew the brain chemistry that they had,
+he knew, he could see,
+he could see that if he put this neuron here
+and this neuron here,
+like that they would make a different decision,
+but he knew ahead of time that they were going to eat,
+they eat from the tree of knowledge of good and evil.
+In which case, I would posit that they didn't have free will.
+There's no universe in which God,
+if you believe God was omniscient,
+that God would be surprised.
+God wouldn't go, oh my gosh,
+you didn't eat from the tree of knowledge of good and evil.
+And I've heard Christian apologists say,
+well, God just removed his knowledge
+for a short period of time,
+or God doesn't have all knowledge,
+and that's how they'll get around it.
+Would you agree with me that that would be the case
+if you have a deterministic universal,
+there's a universal I'm kind of thinking of
+and you have an omniscient God?
+Do you think that follows necessarily?
+Sorry, does what follow?
+That if God created Adam and Eve
+with the brain states and the environments that they were in,
+they couldn't, they had no other option but to eat the fruit.
+They couldn't have done otherwise, right.
+Well, what theists who believe in free will will typically,
+and not all theists do,
+but theists who believe in libertarian free will will typically say
+that the physical state of a body like Adam and Eve
+is not sufficient to account for the behavior
+that you need to add in some kind of immaterial spirit or soul.
+And that has this special causal power to generate decisions
+or to act volitionally, to exercise volition
+in different ways, even in the exact same physical configuration.
+So Adam's body could be in exactly the same way,
+but because of his ability to exercise volition
+through his soul or whatever,
+then in the exact same physical configuration
+he could either eat the fruit or not eat the fruit.
+And then the question is,
+well, how does that relate to God's knowledge?
+And theists will say different things about this.
+Some theists will say, well,
+God can still know what happens in the future
+and then sort of he looks into the future,
+you know, speaking loosely,
+and then sees what Adam chooses.
+There are some theists who think that there is no fact of the matter
+about what will happen as a result of a free choice
+because it's open, right, until you actually choose it.
+And therefore, even God doesn't know what will happen in the future.
+Those are called open theists.
+They don't think God knows the future.
+I think that that's actually more plausible myself.
+I think that there's a deep...
+I think the notion of libertarian choice is fundamentally incoherent.
+I don't actually think it makes sense.
+And so then if you're going to ask,
+well, would God know the outcomes of libertarian choices,
+I think you just get into a whole...
+You get tied in knots because the underlying notion
+you're working with is sort of doesn't make sense.
+But perhaps I'm wrong about that.
+And you could make sense of the idea that God knows the outcome.
+But yeah, they disagree with each other there.
+So it's a bit hard to nail a specific thing.
+So in regards to just to stick back to the free will thing,
+you believe that the...
+How I laid out libertarian free will is a high bar,
+is what you're saying, right?
+Well, in a sense that it's not realized,
+but I don't think it's high in the sense that it's somehow better to have.
+I think that there's no reason to want libertarian free will like that.
+I think it's actually very bizarre.
+I mean, I can sort of see some of the philosophical
+intuitions that lead there,
+but I think they're ultimately mistaken.
+I think that in a deeper sense, you should have should...
+Or after reflection,
+you shouldn't want that type of free will.
+And it's not somehow better to have it.
+It's not like we wish we could have it,
+but we actually unfortunately can't.
+I think it's incoherent and there's no reason to want it.
+Okay. Okay.
+So what type of free will do you subscribe to?
+Well, I mean,
+compatibilism is the broad category that says that you can accept both determinism
+and free will.
+Of course, again,
+understanding that free will here does not mean libertarian free will,
+or sometimes it's called contracausal free will.
+So I don't think that we need the ability to do otherwise in order to have free will.
+I think that free will should be under...
+I mean, I'm still developing my ideas about this,
+but I broadly understand free will in line with a particular
+particular approach called reasons responsive accounts of free will.
+So this locates the notion of freedom in a certain set of cognitive capacities,
+which broadly would be the ability to understand the consequences,
+or likely consequences of your actions,
+and in some way to be responsive to the reasons that you have to act this way or that way.
+There's questions about how to flesh that out precisely,
+but the idea would be that...
+So for a start, like small children and animals would have limited to know
+freedom because they don't have the capacity to understand the consequences of their actions
+and modulate their actions in accordance with their reasons.
+They don't have those cognitive capacities.
+Likewise, people who are significantly cognitively impaired.
+And the idea is that freedom amounts to being able to have that level of cognitive capacity
+and the ability to regulate one's behavior in accordance with considerations for
+and against acting in a certain way.
+And I think that that matches...
+I mean, there's work to be done there fleshing that out,
+but I think that matches much more closely with what we actually care about,
+which is the idea that you can understand the consequences of your actions
+and you're affected by reasons.
+Because remember, someone who has libertarian free will,
+why would you put them in prison for doing the wrong thing?
+At least from my point of view, because it doesn't matter what punishments you would feel.
+Someone who...
+No, imagine libertarian free will was real, right?
+And then you say, well, we can punish people then because they're responsible for their actions.
+But why punish them?
+Because the whole point of libertarian agency is it doesn't matter what deterrence you put in place.
+They can still choose to do A or to do B, right?
+They still always have that decision.
+It seems that we would actually want to live in a universe where we can put in place
+incentives or reasons, rationale that affect people's actions, right?
+Because if you divorce someone's actions from the reasons in place that shape their actions,
+then I don't actually see how you can preserve a notion of rationality.
+Proponents of libertarian agency say that you can.
+They say that people act for reasons, but they're not caused by those reasons.
+But to me, that just leaves a huge undetermination problem.
+Like, in other words, how is it that your reasons lead to your actions
+if there's no causal connection?
+Yeah, let me give an example that might make this a bit clearer.
+So suppose I put, again, let's pretend libertarian free will exists.
+And let's put a person, let's say it's Adam, right?
+We put him in a room and we say, eat the fruit, don't eat the fruit.
+And we say, well, it's a different fruit though.
+It's not the normal one.
+Let's say if one fruit will, if it's one fruit, it will kill him immediately.
+And let's say it will be painful and then he will die.
+And the other one will give him a bazillion dollars and he'll live happily forever after,
+I don't know, like whatever, some amazing good outcome.
+Now, what would you expect to see?
+Now, remember, we're telling them the outcomes.
+There's no deception here.
+We're just saying these are the options.
+Now, presumably you would expect pretty much everyone to choose the good one
+and not the bad option, right?
+It would be a bit strange for someone to choose the painful death
+when there's no reason for doing so.
+It's just kind of bizarre.
+But the point here is that libertarian agency says that it's still open to that person
+whether they, which they choose, that they can still choose to do either one.
+And what I want to know is, well, what does that mean?
+Like if I set this up a thousand times, what does it mean for it to be open?
+Often the way that this is understood is that there are some possible worlds
+in which the person chooses the painful death for it to be open to them.
+There's a possibility.
+But the question is, well, then how many of these possible worlds are there?
+It's presumably not 50-50.
+Is it like 90-10 in terms of possible worlds or is it like 99-100?
+And then if we're able to, and this is, I think, the key point,
+if we're able to change the probabilities of people's actions
+by changing the incentives or the reasons for action,
+then how does this relate?
+So it seems that we can have a causal effect on people's decisions
+by changing the environment and the reasons they have for acting.
+But if we can causally affect people's decisions based on causes in the environment,
+then that seems to undermine the idea that the person can act regardless of the circumstances,
+that they can choose the good or the bad, like the painful death or the good option.
+But it seems that they kind of can't, right, because we've set it up so that causally,
+we're almost making it certain that they choose the one option
+because we're causally affecting their decision.
+I don't think you can have it so that the person, because libertarians want to say that
+it's all internal to the person, which option they choose,
+irrespective of the physical setup or whatever the initial conditions.
+But on the other hand, they want to say that that person will also be sensitive
+to reasons for acting.
+But then it seems that if you change the reasons,
+you causally affect them to act in a certain way,
+and that violates the whole idea that they can act irrespective of the initial circumstances.
+What if there is someone who just is born and they love pain more than anything else,
+and then they want to have a painful death?
+There's that famous case where there's that person, he had a brain tumor,
+he killed his family, he killed a bunch of people,
+and he told them to do an autopsy on his brain,
+and they did an autopsy, they found a tumor pressing on part of his brain,
+and they posited that that was the reason he went on some psychotic rage, killing everyone.
+That person didn't necessarily, would you say that person
+chose to make those decisions to kill his family,
+or would you say that his brain was affected by something outside of his control?
+Well, this raises an issue for the libertarians as much as it perhaps more than it does for
+compatibilists, because if changes to people's brains can affect their choices in a regularly
+and statistically detectable way, then how can we understand the idea that someone has
+a choice to do A or B irrespective of what the physical state of affairs is?
+The whole point of libertarian agency is that you are the first cause of your actions,
+and it doesn't matter what the causes are acting on you, you can still choose A or B,
+you can go either way. But the thing is, it seems that that's false, right?
+You can cause people to do things, maybe not with 100% certainty,
+but you can dramatically change the probabilities by changing the incentives in the environment,
+by talking to them, by fiddling around in their brain,
+that there's all sorts of ways we have for doing that,
+and so that doesn't seem to work for me, that you can causally affect people's choices.
+Let's say we gave Adam and Eve a bunch of Xanax or something, and they were so chilled out,
+they never got the tree, and ate the tree of knowledge, good and evil, whatever.
+But that's what I'm saying, I'm saying that I don't think we have that free will,
+like I don't think we have that choice.
+So I'm not quite sure I'm understanding your argument, so the reason that I relate,
+the reason I was talking about the relationship between causation and reasons is because I think
+that what you want to say is that people act for reasons, sorry.
+What the libertarians want to say is that we act for reasons,
+they want to say that we're capable of apprehending reasons and acting on the basis of it,
+but they don't want to say all of our actions are causally determined,
+because that would undermine the whole notion of libertarian agency, right?
+Well, yeah, I guess that would be different.
+But I'm saying you can't have both of those things.
+So which of them do I reject?
+I reject the idea that we should be worried about whether our actions are causally determined.
+I think they are causally determined.
+Put aside indeterminism for the moment, I think that they are causally determined,
+but that's consistent with having freedom, because from my view,
+the requirement for freedom isn't that your actions are causally non-determined.
+I think that that is actually silly.
+Rather, the requirement is that you have some kind of sufficient cognitive capability
+to understand the consequences of your actions and act in accordance with the reasons that you have,
+at least sort of to within some statistical regularity.
+We could argue about exactly what that looks like.
+Interesting.
+A certain degree of brain injury is going to progressively
+remove that capacity to understand and act in accordance with one's reasons.
+I don't want to say precisely what that looks like,
+and I think freedom is something that comes in degrees.
+This is another point where I differ.
+I don't think you either have free will or not.
+I think that you have levels of freedom depending on your capacity to understand
+and act in accordance with the reasons that you have.
+So the worst, the brain damage is, I think, perhaps the more impaired someone is
+in terms of exercising freedom.
+And it's going to depend on the specifics in cases like that.
+Interesting.
+I'm going to have to think more about that,
+because I think you may have put me on the path to sway my perspective a little bit,
+because I need to think about it more.
+I'm a bit of a slow learner, so I take a while to process a thought.
+But that's interesting.
+That's really interesting.
+Well, I've been thinking about these ideas for years and trying to read a lot.
+And I'm still early stages, so I wouldn't feel bad about that.
+OK.
+So going back to the column, so back to the column.
+We've got the first premise, right?
+And you're saying before you even get to the first premise, the universe began to exist.
+You've got an issue with the presuppositions we have around time.
+A theory or B theory, which is tensed or tensed less time.
+Can you please explain the difference just quickly between the two?
+Yeah, so I sort of mentioned this before.
+So the tensed theory of time.
+I'll call it presentism, which is close enough.
+So presentism is what Craig is.
+Presentism says that only the present exists.
+So me talking to you now, that's presumably part of the present.
+So that exists.
+The start of this conversation, that's in the past, that doesn't exist anymore.
+The end of this conversation, that's in the future, it doesn't exist either.
+And what happens if it exists?
+What does exist mean there?
+Part of reality.
+So the idea is that there is a succession of periods of time.
+Only the present exists.
+The present then gives rise to the next period of time.
+So then what was present goes out of existence.
+It did exist, but no longer does.
+And then what was future now becomes present and now it does exist.
+And so you have this objective process of temporal becoming is the phrase that Craig uses.
+And so things objectively come into and go out of existence.
+Right.
+That's what the presentist thinks.
+And that's what Craig thinks.
+And that's what Craig thinks you need for the column to work.
+Now the alternative view, which we can call the tense less theory.
+It's also called the block theory of time says that this notion of objective temporal
+becoming is nonsense.
+There is no such thing.
+There's no such thing as an objective present or past or future.
+All there is are earlier than and later than relations between different points in time.
+So what I would say as a tense less theorist is that the start of this conversation was earlier
+sorry.
+The start of this conversation existed in the earlier than direction in time.
+And the end of this conversation exists in the later than direction.
+All of those exist alongside the I can't say the present moment technically.
+What I say is the part of time that's simultaneous with what I'm saying now.
+All of these parts of the conversation exist.
+They're all real.
+It's just that they don't exist here.
+They exist over there and back there.
+And by that I mean like not spatially, but I mean in terms of temporal relations.
+So the tense less theory of time is sometimes called a spatialized view of time because it
+views time as basically like another dimension of space.
+It's just that the main difference is that you can't go backwards and forwards in the temporal
+dimension like you can spatial dimensions.
+You can only go forwards at the same speed.
+Well, so how does that like so with the obviously you know with the Hubble telescope,
+we can we can see back millions of billions of years into the existence.
+Yeah.
+So how does how does William Lane Craig kind of cross that?
+Like I don't think that has any philosophical implications because the idea is that the
+photons that were released at let's say five billion years ago,
+those photons have been traveling for five billion years.
+And so the event in question is the Hubble telescope detects a certain photon and that
+event occurs maybe it's happening right now.
+So that event will occur as part of the present reality according to Craig.
+But what Craig wants to say is that the emission of that photon that doesn't exist anymore.
+That went out of existence five billion years ago.
+Whereas I would say that still exists.
+It just exists five billion years back that a way so to speak in the earlier this is so
+this is so complicated.
+I do for me anyway.
+Like I'm going to rewatch this conversation to try and wrap my head around it.
+So Michael Granada when he came on, he said and he was very careful with his wording.
+So and he said, yes, be careful.
+But he says a large portion of 21st century physics lends itself to be B theory, not a theory.
+Is that correct?
+Yeah, that's a more careful version of what I said earlier, which is that if you interpret
+general relativity realistically, then I think that you will support or you will accept the
+B theory or the tenseless theory.
+Right.
+So something that you wrote in your book, which I really loved.
+And like I said, I'm only up to like page 3033, but you kind of bring up the fact that William
+Lane Craig kind of states that his reason for believing in tense time is essentially a subjective
+experiential one.
+So he says, so here's the reality of tense is experienced by us in a variety of ways, which
+are so evident and so persuasive, pervasive, sorry, that the belief in the objectivity,
+objective reality of past, present and future and in the passage of time is a universal feature
+of human existence.
+And you said in your video, which is on your channel that you have to be careful whenever
+when anyone uses that kind of wording, a feature of human existence experience.
+So experience.
+Yeah, yeah.
+Yeah.
+Yeah, Craig is.
+Oh, sorry, go ahead.
+No, no, go.
+Oh, actually, well, I was just going to what you kind of point out and which is what I really
+love. You say quantum mechanics provides an example of a field whose findings stand directly in
+contrast to many of our basic intuitions and direct experiences of the way the world is.
+We experience space as continuous rather than discrete objects as past objects as
+possessing a definite location rather than being spread over a region of varying probabilities
+and objects as moving smoothly from one place to another rather than suddenly jumping to a new
+location with some probability.
+Indeed, our intuitions about space and time are easily shown to be inaccurate even in the most
+familiar settings.
+Yeah.
+So yeah, I love that.
+That was to me that that that I guess that to me in that sentence, you kind of describe the whole
+prospect of kind of the whole even even even the debate around scientific, the scientific method
+and subjective experience that someone might experience in like a temple or a church or
+something where they have this experience that makes some conclusions based on this
+experience.
+Like for me, I used to speak in tongues and I was part of a Pentecostal church.
+Right.
+So I used to have these experiences and I draw conclusions from these experiences.
+But I had no, there's no, it's completely the polar opposite of how the scientific method
+works and how we like to determine make deterministic, determine determinations on
+the universe that we live in.
+Yeah.
+So what were you saying?
+Sorry, before I cut you off.
+Well, this is the issue with Craig is that in fact, if you look throughout all of, so remember
+I talked about how Craig needs to make quite a lot of assumptions in order for his to defend
+his premises for the column to work.
+Almost all of these premises, in fact, I'm trying to think if there are any exceptions.
+I don't think there are.
+Basically, all of these things that he needs to assume, he has various arguments defending
+them.
+But in all cases, the primary and he thinks the most significant argument in favor of them
+is just that it's intuitively obvious.
+So he appeals to his own personal experience and intuition repeatedly throughout all of
+his arguments.
+And this isn't really surprising because Craig has been very open about the fact that this
+is his real reason for being a Christian in the first place, his own subjective experience
+of the Holy Spirit.
+And he says that that's the real reason that he's a Christian, the primary reason, and that
+even if all of his arguments failed and were shown to fail, and even if there were many
+arguments that he couldn't refute for atheism, then he would still be a Christian because
+of these experiential, well, these experiences that he's had.
+So this shouldn't come as a surprise, but I do think that it's important to know this when
+addressing Craig's philosophical arguments is because at the base of pretty much all of them,
+there's going to be an appeal to his own intuition slash personal or his own interpretation of
+his experience is the way I would say it.
+Although he usually uses and universalizes that.
+So he says that the way everyone experiences things is the way he does.
+And I don't accept that.
+So he says it's about the nature of time, the notion of the notion of like the pateran
+agency, the concepts of infinity.
+He says that it's obvious that, you know, infinities can't exist.
+He says this about the notion of causation, like it's obvious that things can't come into
+being without a cause.
+So he appeals to his own experience and his own intuitions here a lot.
+And I just don't accept that those are reliable.
+I mean, you gave a quote from the book where I sort of give one reason for thinking that
+that we should regard such intuitions or interpretations of our experience as highly
+suspect, because we know that even with things that are fairly familiar, like space and ordinary
+objects, that we can be wildly inaccurate in intuitions about their sort of underlying nature.
+Our intuitions are really only suited and interpreting our experiences only really
+suited to everyday types of tasks with sort of every ordinary sized objects and
+fairly narrow range of experience.
+Once you move beyond that, I think that they become extremely unreliable and shouldn't
+be trusted.
+But Craig just doesn't seem to agree with that.
+He just seems quite happy to appeal to his own interpretation of his intuitions about
+things.
+And that's just really interesting to me.
+Yeah, I mean, I mean, the usual response is to say, well, yeah, sure, sometimes our
+perceptions can be mistaken, but that's an unusual case.
+And most of the time they're reliable.
+That's the usual response.
+And I just think that that's sort of factually wrong.
+It depends on what the reference class is that you're looking at, right?
+If you say, well, what about recognizing ordinary objects that people are familiar with in good
+lighting when people are sober and so forth?
+Okay, sure, then generally perception is reliable.
+But that's actually not what we're talking about.
+We're talking about perception or like interpreting your experience when it comes to
+origin of the universe, infinity, the fundamental nature of time or freedom, right?
+I mean, how do you expect our intuitions to have any bearing on those cases?
+And yeah, I just think Craig doesn't really have much to justify him on this point.
+I think he's just relying on people to have the same intuitions as he is.
+So you got issues there straight away before we have an app premise one.
+But let's say like you mentioned in your book, and you have to forgive me because I haven't gotten
+this much further into your book yet.
+But you say that you do eventually go, let's posit that it's correct.
+Let's posit A theory is correct that the terminology used was, sorry,
+tense time is correct.
+You address these arguments there.
+How do you address, do you think there are still problems going forward after that?
+Even if you do accept the tense time?
+Nope. Sneeze came a bit left.
+Well, yes, because that just gets you up to the premise the universe began to exist.
+And then Craig needs to establish that the universe began to exist.
+So as I said, he appeals to both scientific and philosophical arguments.
+I don't think that either of those are very successful.
+I think the scientific arguments are much more convincing than the philosophical ones.
+But ultimately, I think the appropriate attitude to have is one of agnosticism.
+I don't think that we know whether the universe began to exist in any sort of ultimate sense.
+Yeah, there's a lot to say about that that we don't have time to get into here.
+But a lot of the philosophical arguments also rely on appeals to intuition about Hilbert's hotel or
+people writing diaries for infinite time past and whether you think that that makes sense and so forth.
+Yeah, I don't think that any of those are ultimately very convincing.
+Uh, what we'll do is because we are coming up to time.
+I want to first promote your book, which is is this
+It's it's dense. Okay. I just can't I can't get over how well you've um, you've kind of done this book
+You also have a youtube channel. Um, I want to kind of promote this
+promote some stuff and then we'll go to another question, but
+Check out the book on uh, amazon and the link is in the description
+And you also have a podcast that you've been doing for how many years did you say?
+Uh, about 12 years with with some with some gaps in there
+That that's incredible. Um
+How old were you when you started this this so that must have been of 20 I think
+Oh, jeez. Wow
+Cool, I need to change that cover image by the way that they recently changed that on me
+I don't know who that woman is. It's just a random. I need to update that
+Awesome, uh, and uh, so that's the science of everything dot net
+And and uh links will be in the description also guys
+Make sure if you haven't subscribed make sure to subscribe tomorrow morning
+Australia time, which will be well in 12 hours time. We're doing a book club
+So me and nosconformant are going to bring out 10 or 11 of our favorite books each and explain why
+So this will be a bookshelf tour, which will be really cool
+And also if you want to support this channel you can come a member of the channel now and you can also join the patreon
+We have an a disrupted interview with pepe
+um a ugandan
+Activist and obviously with the laws that are happening over there at the moment where
+You can be imprisoned now just for being trans
+That's getting pushed through so you can watch that if you're a patreon member
+So thank you so much everyone. So the so what I want to
+What I want to say, uh, what I want to ask you is so we kind of just even just touched on the first premise
+But is there a premise in here that you think is the worst premise like the premise that just
+Falls over or is that the least plausible premise least plausible? Yeah, I'll use my I'll use my wording correctly because I'm talking to a philosopher here, so
+Least plausible. Yes. Well, I think that the least plausible premise is is the last one that if the universe had a cause that cause
+Must be personal and this is the premise that by far gets the least discussion
+Which I think is unfortunate precisely because it's I think the least plausible and and in some ways the most interesting
+So basically this is where
+Let's say that we think the universe did have a cause, right?
+And remember this is all the strict or narrow form of the column attempts to establish the universe had a cause
+A naturalist, I think can fairly readily accept that. Um, well, there's a little bit of work you need to do
+But it's not obviously inconsistent with naturalism
+And it's certainly consistent with being an atheist, right?
+It's a get to get from to get from the universe had a cause to theism
+You need to establish that that cause must have been God essentially and that you rule out all the other possibilities
+and I think that the
+Craig devotes a very little time to actually doing this
+As I said that there are really only two arguments one is there are no other alternatives
+Which is just a laughable argument because he doesn't even try to come up with other alternatives
+And so I present some other alternatives in my in my book
+That are neither God nor like physical
+Um, I don't believe in these other alternatives, right?
+But the point is that you can't just say there aren't any without trying to see well like has anyone offered any possibilities
+Or is there anything we can even think of as possibilities? Well, there are right? So it's just a laughably silly argument
+Um, I don't know why no one's pulled him up on that before because it just always struck me as dumb
+But then the other argument that he gives in favor of the personal cause is to say that well
+You need to postulate a libertarian agent in order to solve this problem of how it is that the universe started
+um
+without um
+Yeah, how it is that the universe began in a you know in the sense of absolute becoming
+um
+With a cause but without existing from eternity past because basically this gets a little bit technical
+But craig said craig thinks that there's a problem here is that either what you're going to get is the universe is never caused to happen
+so we just have no universe or
+It existed for an infinite time past because basically whatever the cause was well
+The idea is why did it sort of wait a while?
+I have to put weight in quotes there because it's not like it waited through time
+But why why if the cause was eternal? Why did the cause not give rise to the effect?
+With the effect co-existing eternally with the cause
+um
+And that's the fun that's the issue that the craig wants to present
+So he wants to say well the cause of the universe can't be something that began to exist because then you'd ask well
+What caused that to begin to exist and then that gives you a regress
+So then it seems that the cause must be eternal or at least like existing outside of time
+But if the cause exists outside of time, then how is it that you get a universe that just began a finite time in the past?
+he thinks that if you have
+An eternal cause you must have an eternal effect
+And so he presents this problem here. Well, how is it that the universe was caused?
+But but was caused to begin a finite time in the past and he says the answer to this is well
+It must be a libertarian agent which exercised its volition to just bring about the universe
+And he goes into some more detail about why he thinks that that's a solution
+But yeah, I just think that this is entirely a pseudo problem
+All you have to do even if you buy into everything else that he says is simply you say
+Well, yeah, whatever it is that caused the universe has a special causal power where it can give rise to a temporal universe
+This is exactly what craig thinks right? He thinks that god is such a being
+But all you have to deny is that is that this special cause of the universe is a personal agent
+That there's just no inconsistency there craig is just sort of assuming that you have no imagination
+And you're accepting his word when he says it has to be a personal agent
+Well, no, no, no, it can just have us a special type of causal power
+We're postulating an entity that exists outside of time which has a causal power of bringing about the initial state of the universe
+From a from an atemporal state
+You can postulate that as an explanatory entity and it's better than what craig does because what craig does
+He's postulates an entity with this special power
+In addition, it has all other powers. It's omniscient and it's omnipotent and it's omnibeneval
+It's got all of these other things as well
+Whereas in fact, that's not necessary at all all that you need to postulate is an entity
+That has just the sufficient power to bring about the initial state of the universe
+Anything beyond that is postulating more than is needed. It's excessive
+And therefore I think it's not a good. It's not a good argument
+I feel like
+the those who like
+the
+column are
+people who have already bought into their positions and the people who
+would like to criticize it
+Kind of get to the first like they think it's so easy to criticize
+They don't put as much work into it that you have and I think that's where that's why no one has written the book that you've written
+Because you've you've taken what seems like you see if I got if I was you and I got to that last premise
+And I saw how silly that was. Um, I would or even the first premise I would just kind of well
+No one needs to write a book on this like this is this is very
+You know, but you did um, so I'd really do recommend people get the book if they have any interest in discussing these
+um these points with your um conspiratorial uncle at christmas
+um
+Well, I think that's the problem right because the more sensible people like you who don't spend all this time on these arcane points
+Just sort of you know
+I don't necessarily give it that much time and and what that does is it leaves
+For the most part the people who just sort of find this stuff intuitive for whatever reason like rake does
+Or who basically just sort of wants to believe or are pre-committed to believe in the conclusion for various reasons
+Um, and so give the argument mostly a free pass. I don't want to say that all theists are like that
+But I think there are theists like that
+And therefore it's kind of an echo chamber where everyone's sort of saying
+Oh, isn't this such a great argument or it's so persuasive or you can't get around the column
+You know, you see this sort of discussion, but I think that it's um
+There are many aspects of the climb that aren't that hard to I mean some of them get a bit technical philosophy of time and
+You know general relativity
+But some of these points like well if there was a cause of the universe it must be a god
+Like you only have to think about that for a few minutes to think well
+No, there's all sorts of things that could have caused the universe
+I don't know what it was, but it doesn't have to be a god right it could be all sorts of things
+You just need a little bit of imagination and to think through it for a few minutes
+But it's surprising how this that doesn't get raised a lot and I think it's because
+Yeah, a lot of the people who engage with the argument do so in fairly stereotyped ways like they all start debating
+Um, the hillbets hotel, right, which I think is less interesting than just just jump straight to the point
+Does the supposed the universe had a cause does it have to be god or could it be something else?
+Yeah, you know, and I sort of encourage that sort of more focused way of dealing with things
+I do want to um, I do want to kind of shout out. Um, I'm on
+You normally see that I've watched a few of your videos, but I'm on my other account, but you do
+Where where was it you do these like seven hour long?
+Um videos, which is amazing. So that's the bad apologetic series
+Oh
+So they're not on this channel. They're on Nathan's channel digital. No, oh, okay
+You've got a seven. Oh, except for that one. Yeah, that was 500 a 100 arguments against Christianity
+Which is
+It's just amazing. Um, but where's the you had one where you're actually going through your book. Um,
+Yeah, so those have my book as the thumbnail. Oh, yes. Yes. Yes. That makes sense
+So if you want to actually see you go through the book, uh, and you kind of explain things in greater detail
+It's fantastic
+I really believe people should go subscribe to your channel and um, listen to at least the first two videos
+And then see if you want to pick up the book
+If you're still on the fence, but it's it's fantastic
+500 uh five hour arguments. Yeah, it's um, it's uh, it's amazing. So, um
+So I do I don't want to get into hillbill's hotel because that'll consume the last five minutes that we have
+But I do want to ask a few questions if um, uh, of you
+So with all the research that you've done, uh, do you think willing craig is a bad faith actor?
+Uh, I've gotten to trouble uh saying this before
+And one of the reasons I don't like to talk about it so much is because
+I think it's more important to simply address the arguments than to
+speculate about his psychological state
+That being said, we've spent most of the time talking about that since since you've asked. Um, I I don't think that
+Uh craig is sort of entirely bad faith. I do think that he uses certain tactics slash arguments in bad faith. Um, I haven't
+I've debated about whether to try to put the evidence for this together in one video
+And I just haven't been convinced that it's worth the time doing because then people would just attack you for focus
+For an ad hominem whatever
+But there are a few points that I highlight throughout my book
+Where I think that it's hard to argue that he's acting entirely in good faith
+One example that I think that is probably the simplest to understand is in craig's presentation of the ontological argument
+I document this in that there's a section at my book at the end where I talk briefly about that craig doesn't talk a
+Lot about the ontological argument, but he does sometimes present it and there's one presentation where he and he's done this number of times
+where he will say that
+um, one formulation of the ontological argument is essentially that um
+If it is possible that god exists then god exists. It's possible that god exists. Therefore god exists now
+That might sound kind of silly. I won't sort of get into why we're interested in that
+But the the point here is that in presenting this argument to a you know popular mainstream audience craig will say well actually
+most philosophers think that
+They agree with the first premise most philosophers agree that if it is possible for god to exist
+Then god exists right and and he's right right and all he means there is that most people think that god is a necessary being
+So if it's possible that he exists then he does like it's not he could have existed
+But maybe does like it's it's a kind of an all or nothing thing so to speak
+So he is right when he says that most philosophers agree with the first premise
+Of course, then the issue is is it possible for god to exist? But then what he does
+So far so good, but then what he does is he said he appeals to the audience and says well
+What do you think is it possible for god to exist?
+If you think it's possible then you will think that god actually does exist by the first premise
+And the reason this is intellectually dishonest is because craig is using two different notions of possibility here
+In the first premise he's using the notion of metaphysical possibility, which is
+Like is there a possible world in which god exists?
+And that's a sort of a technical notion in the second premise when he appeals to the audience
+He's well the second premise technically should be using the same sense of possibility, which is metaphysical possibility
+But when he's appealing to the audience and asking them
+What do you think do you think it's possible for god to exist?
+He's appealing to a an epistemic notion of possibility
+Which just means as far as you know, and that's a very different notion of possibility
+You can have something that's epistemically possible, but not metaphysically possible
+Um, I suppose vice versa as well
+But um, so the point is there he is clearly and unambiguously in my opinion equivocating
+In in presenting that argument. I don't think there's any ambiguity there
+That is what he is doing in appealing to that because otherwise you wouldn't you wouldn't say do you think it could be because that's just
+a neuroneous usage of the notion of possibility relative to the first premise
+So and craig is far too smart to do that by accident
+So I think the only explanation here is that he does that because it's um, it sort of sells well
+It goes down well with a crowd. It's like, huh, well if most philosophers think this and I think it's possible for god to exist
+Without sort of understanding the nuances of the difference between metaphysical and um
+An epistemic possibility. So I think I mean there are other examples
+But that's actually the one that I think is clearest and easiest to explain
+I think craig is being dishonest and disingenuous when he does that he does other tricks like this as well
+like selectively quoting experts um using
+Using an argument in ways that are inconsistent between two different things that he says which he would know
+But he's hoping other people don't don't notice. I document some of these in my book
+So I don't think that craig is like I think that he believes the things that he says
+I just think that he takes these liberties because he thinks that he can get away with it and
+Ultimately his purpose is to spread christianity and reinforce, you know, the faithful and that's his fundamental
+objective his fundamental his
+What's most important to him is not intellectual honesty. It's you know pursuing apologetics
+And so I think that he takes these liberties and shortcuts when he can and I think that there are cases where you can fairly clearly document that he does that
+Yeah, um
+Of course, I should answer that people who don't like that will make excuses to try to say oh, well, you know, he meant this or you know
+So you can if you if you I believe in in being good faith in the way you interpret people
+But there's always a limit, right?
+Like you can always make up excuses to justify any behavior
+But my opinion is when you look at cases like that and others that I've seen that the best explanation
+Is that there are cases where craig?
+Is dishonest in the way that he makes certain arguments or what he appeals to
+Others may disagree based on their background and that that's fine. But that's my own opinion based on what I've read. Yeah, yeah
+Yeah, do you do you think most apologists are intellectually dishonest?
+In the sense that I just articulated there
+Yeah, like there's a sense in which well, they're just total frauds and they're just like saying things that they think yeah
+I don't think I think a lot of I think that's like one percent of apologists or preachers are like not even that
+I think it's very I don't think a lot of them are scammers, you know, like peter popo for something
+I think a lot of them
+believe what they believe believe but they then
+Twist it and lie about it and stuff like that. How many of those like how you just describe it?
+How many apologists do you think I think the majority?
+But it must be said that I think that that's true for
+Popularizes of pretty much any ideology. So I don't actually have any data on whether atheist popularizes are like more intellectually or less intellectually
+Sorry, I forget what I said. I don't know that atheist popularizes. I mean, yeah
+But I don't know that they're actually more intellectually honest
+I'd like to think that they are but I don't actually have any data on that. I haven't looked into as much detail
+I focus more on
+Apologetics and countering that so I see those but I see a lot of bad arguments in atheist and rationalist spheres as well
+It is very like it's it's very tempting to
+to take rhetorical wins if you're in a debate with someone
+And you know, it's sloppy
+Yeah, it'll be sloppy and use arguments that you know a kind of dodge, but it's just sort of easy to use them
+You know things like yeah, you can get it
+You can get them to shut up about one point
+So you can move on to the point you really want to talk about or something like that
+Like I've done that in the past where I have to pull myself
+Like well someone challenged me and I go actually no I don't even think about this
+It's when you're in the heat of the moment too
+So so my there was actually a pre-question to the question
+I wanted to ask which was who do you think is the most honest apologist that exists?
+Yeah, I
+I don't know that I'd like to answer the question quite that way, but maybe
+An apologist that I respect the most or something
+Which is intellectually speaking obviously I don't want to comment on
+What people like personally, but in terms of interest
+Um, I have a fair bit of respect for Sean McDowell
+He does um
+Posts some stuff that I think is a bit cringe, but I think he's more fair than a lot of other apologists that I've seen
+And um, I was trying to think if there was another one. Oh, yes. There was another one. Um, what's his face?
+Michael O'Connor as well
+I do have a fair bit of respect for him
+One of the reasons is because he has actually gotten in trouble with his employer or maybe former employer
+I'm not quite sure because yeah, yeah, yeah, yeah because he was raising some questions about one of their
+Aspects of um, they're um, what are they called the statement of faith that they have to sign
+You know, and he's talked about having genuine doubts and other things like that which for example
+Craig has never ever said anything about having doubts
+And that's because I don't think he ever does
+Because of the way he or if he does they're so suppressed down anything that whereas Mike McConnor has talked openly about that, right?
+So I I have respect for Michael O'Connor intellectually
+That I don't have for Craig for example
+Michael O'Connor, I I definitely agree with that. Yeah
+Okay, uh, two last questions. I'm sorry. We're going a little bit over time, but um, let's say
+Have you got any kids or anything?
+No
+Okay, let's say
+You had a kid and they like came up to you and they said I had a dream and they retold and it's like it was
+I was in another life and they retold this
+Thing that was extraordinary, right? That was extraordinary coincidence. Something that actually happened in like world war two or something
+and um
+Where I'm kind of getting at is um, there are a lot of like documentaries that
+I kind of pose the same idea. That's that their child's not having dreams
+They looked into like some medical records or some military records and they found that that that it perfectly
+Aligned with something that happened in history that the child never knew about
+And the child is saying that like I'm I'm reincarnated from that person
+What what would you make about if your child came to you and said something like that?
+and there was some
+uh, some evidence behind it in regards to there was some
+Like power like I'm
+Geez my brain is not working. Um
+Normally drinking when I do these things. So I'm normally probably worse. Um
+the like, uh
+Explanatory power this is my explanatory power like so they go. Oh, you know, I dream I dream that I was in a plane
+The plane's number was one four two three x y
+We drowned and then if they go there and if they find that there was this plane there
+And there was that pilot of the same, you know, what would you make of that without change?
+Yeah, it's like incredible coincidence
+Incredible coincidence. Well, I mean I have investigated quite a few claims like that not not by people
+I know personally but through interactions on the internet and uh cases that I've read about
+In every single case that I have investigated in detail
+um
+And there would be dozens by now. Um over the years
+Uh, the the reported facts are not the actual facts as far as they can be verified
+And the actual facts lend themselves inevitably of more mundane explanations
+Now I don't like giving that as a response because you could
+You know, it's one of these proven negatives, right where I prove there isn't one where they they don't they can't be explaining that
+Well, well, obviously that's impossible. So it's a whack-a-mole, right? It's well. What about this case? What about that case?
+um
+So it's a never-ending
+It's never-ending. So it'd be it'd be like the child says something like I was in a plane and it crashed and there was
+Number seven on there and then they find this plane that crashed that had like seven four two six four six
+And then they say oh the child knew the number when it was really just one number of the
+Well, yeah, they're they're a case. I mean not the specifics
+But cases like knowing things that they couldn't have known and and often what you don't have is for example
+Documentation that there was an actual that someone actually knew something and that they couldn't have known it
+um in any other way
+So you'll get them saying post-hoc that they knew it but couldn't have known it any other way
+But well, how can you prove that like it's actually very difficult that you have to be able to control a lot of variables to be able to
+Be convinced well reasonably convinced that that couldn't have happened
+And that's exactly what we try to do in scientific investigation is to control those variables
+and what you don't have is any of these sorts of
+Phenomena being replicable or documented under controlled conditions
+But your initial question wasn't about that
+Exactly. It was about what I would say to my child or maybe someone else that I knew
+How would you cross the T and like dot the i's there? Yeah, well, what I would say is well
+What do you think happened and then maybe they would say something and and I would say oh
+Well, why do you think that or do you think there are any other possible explanations or how would you know if you were wrong about this?
+So just you know opening up questions like that
+I mean it would depend on how old the child was or the person was and so forth
+But I don't particularly if it's like a a younger person. I don't want to be
+Prescriptive about oh, this is what I think and so that's the right answer
+I think much more important is the process of thinking thinking things through and I think one of the most important things to do
+is to practice
+Um thinking of alternative explanations and then trying to work out. Well, how could you adjudicate between them?
+Often what we do is we stop at the first explanation that seems plausible to us
+And that is a terrible epistemic practice. Everyone is guilty of this. I like to think that I'm
+better because I think about this a lot and you know, I
+Kind of autistic as well with like with these sorts of things as illustrated by the book for example
+But but but everyone falls prey to this sometimes and some people fall prey to it
+I think almost all the time where it's the first thing that sort of satisfies the curiosity or that assuages their
+Concerns or that fits their biases, whatever they just accept that and they don't question it
+Or they don't ask for competing explanations or seek out a different view
+And I think that that's one of the most important things to um to foster that's kind of why I wrote the book in a sense because I want
+Simultaneously, I want theists to think more carefully about these sorts of arguments and often
+They don't they just sort of agree with what craig says because you know, he's depending what they believe
+But I also think a lot of atheists don't think about them too seriously either because they sort of dismiss it as oh
+That's kind of silly
+And even if they're kind of right that in some sense it is silly like there's still there's still substance there
+There are still deep questions to be addressed about like time and
+You know freedom in the universe and stuff like that and they can't all be dismissed by just saying it's silly
+Um, there's there's work to be done there. Um, and so I sort of want to encourage
+You know people from different perspectives to take seriously
+The arguments and and address them on their merits
+That's great. That's that's um, I like that. Um
+Last question, um
+What if anything would change your mind?
+On the well about about what specifically?
+The god belief
+Oh about theism
+um
+Yeah, I thought about this
+I mean, it really depends on the specifics of what theism we're talking about like what particular belief
+Um, I think if we're talking about the traditional omni god, I think the most
+Important thing would be a resolution of the problem of evil because I think that's the single
+If you're assuming god is all good if you're not assuming that
+Oh, sorry, if you're assuming god is all good and all powerful
+I should say if we reject one of those two things and this ceases to be a problem
+But that's a part of the traditional notion of god
+So if we take if we keep those two things, I think that's the single biggest problem
+Uh with with that form of theism and so that's not something where it's a question of evidence per se
+Although I suppose evidence could come to light that would help us to understand that at least theoretically
+But I think it's just a fundamental problem. Um that keeps me away from that form of theism. Um, and so
+Some argument or evidence relating to that
+That helps a long way to resolve this would probably be the single biggest thing for me
+But it wouldn't be sufficient by itself because there are lots of reasons why I reject theism
+So I don't think any single piece of evidence or argument would be sufficient
+But in terms of blockers, that's probably the single biggest one
+One thing I will say is that no personal experience
+Well, I can't necessarily say what would happen. No personal experience should convince me that god existed like
+Or if he appeared to me or did a miracle because I don't think any any
+Certainly no single singular experience or event like that would justify such a belief
+In fact, even if we couldn't replicate miracles like that
+I think that it would be more plausible that they were caused by aliens than by a deity
+So I think that evidence like that is not or should not be convincing
+Are you a fan of shume?
+Oh, very much so. Yes. He's my favorite philosopher though. I certainly don't agree with everything he said, but I really like his approach
+Yeah, it's the same. Uh, have you read shume's abject failure?
+I haven't read it. No, I've read a bit about it
+Okay, I'd love to get your opinion on that because that was I read it. Michael Jones suggested I read it. I read it and I was um
+I my brain is not big enough to understand what I was even kind of comprehending there, especially with the Bayesian analysis
+Um, I'll send you the pdf, but
+Yeah, I think it comes down to interpreting what he was saying which there is a lot of dispute about and that's the sort of thing
+That I'm not really very interested in
+Exegesis of dead philosophers just doesn't interest me that much
+Even though I do respect him a lot whether he was talking about like the likelihood of the posterior probability or whatever
+Like it's just not it's not a great interest to me. Um
+But yeah, it is of great interest to a lot of people
+So but so many apologists seem to think that if they can refute Hume's argument against miracles
+Then that's like the strongest weapon in atheist asshole
+Even though he wrote before Bayesianism was really developed on those sort of like, you know
+There are actually developments that have happened since then. We don't have to just rely on Hume as good as he was
+Yeah, exactly. Well, um, thank you so much James for coming on. It's been an absolute pleasure
+Guys, make sure you go check out his book and his youtube channel and his podcast. It's really really good stuff
+I'm gonna leave everyone with a trailer for a panel that we're doing in april on purity culture
+Purity culture horror stories. So we'll see you there. Peace guys
+Oh
+Oh

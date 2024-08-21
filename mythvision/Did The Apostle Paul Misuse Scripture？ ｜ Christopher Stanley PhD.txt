@@ -1,0 +1,3132 @@
+Did the Apostle Paul misuse Scripture?
+Was he taking it out of context?
+Did Paul mean exactly what the Hebrew Bible says,
+or better yet, the Septuagint?
+Or was he making his own context using Scripture?
+Today, Dr. Christopher Stanley and my friend Stephen
+Elson join me as we take a very, very deep dive
+into the literature of Paul.
+If you really want to know Paul, do not turn away.
+I understand this is a longer episode than usual.
+But we go into the actual pericope and show you
+what Paul is actually doing when he is using Scripture.
+We are MythVision.
+Welcome back to MythVision Podcast.
+I'm the host, Eric Weber.
+Today, we're going to discuss does Paul misuse Scripture?
+And today I have Dr. Christopher Stanley joining us.
+Welcome to MythVision.
+Thank you.
+Good to be with you again.
+Thank you for joining me.
+And I will introduce our guest as well.
+He's going to co-host with me today.
+But first, let's talk about Dr. Stanley.
+And he is a social and religious historian
+who studies and writes about early Christianity
+in the Greco-Roman world.
+He recently retired as a professor
+at St. Bonadventure University in Western New York.
+Dr. Stanley has written or edited six books
+and dozens of professional articles
+on early Christian text and history
+and presents papers regularly at conferences
+around the world.
+For the first 20 years of his career,
+he focused most of his research
+and writing on the Apostle Paul's use of Scripture.
+He has known internationally for his work in this area
+and his books and articles have helped
+to reshape the scholarly discussion
+about Paul and Scripture,
+the topic of our interview today.
+His books on the subject include,
+Paul and the Language of Scripture,
+citation technique in the Pauline Epistles
+and Contemporary Literature.
+He wrote that back in 93,
+arguing with Scripture,
+the rhetoric of quotation in the letters of Paul, 2004.
+As it is written, studying Paul's use of Scripture,
+2008, and Paul and Scripture,
+extending the conversation in 2013,
+and that is in the subject of Paul.
+Now he has other books as well
+and be sure while we're at this
+to go and check out his books on Amazon.
+The link is down below.
+All of his literature is there
+and he also has a website,
+a slavesstory.com,
+where it's going through a trilogy
+and he's dealing with the Greco-Roman world.
+Very interesting material,
+so make sure you go check him out,
+support Dr. Stanley,
+and get ready for a deep dive today
+because we're gonna really be going deep.
+I don't know if we've gone this deep into the pericope,
+but just stay tuned.
+All right, now getting back to the intro here,
+he also served for six years
+as the founding chair of the Paul and Scripture seminar
+for the Society of Biblical Literature,
+the primary professional organization
+in the field of biblical studies.
+Over the last decade,
+he has turned his attention to other issues,
+including sickness and healing in the Greco-Roman world,
+the topic of three recent interviews that we did with him,
+and is it inter-ethnic relations and antiquity,
+a topic that we will be covering in future interviews?
+You're gonna wanna watch those as well.
+He has also written two historical novels
+and a planned trilogy that we showed
+on a slavesstory.com.
+The third one should be coming out soon,
+where he talks about the life,
+sorry, to the trilogy that brings to life
+the social and religious world of the Roman Asia Minor,
+Modern Turkey in the era of Paul.
+Information about the novels and links
+to their Amazon listings can be found
+on this website for the series.
+So make sure you go in the description there.
+Now, to my special co-host,
+who has never joined me yet.
+This is the first time I've had the opportunity.
+And today I have the pleasure of co-hosting
+with my good friend, Steven Nelson.
+Welcome, my friend.
+Good to be here.
+Thank you so much, man.
+I've been trying to get you on Mithvision
+for a couple of years.
+He holds a bachelor's degree in, wait for it,
+Russian literature, especially with everything
+going on right now, you know,
+he needs to know how to speak it,
+which has nothing to do with biblical studies.
+But for some reason, Steven is obsessed
+with learning many languages, in particular Greek,
+which is why he's been able to put together
+amazing illustrations of biblical text,
+which you'll see in a minute.
+All the examples today were done by him.
+Look, even Dr. Stanley thinks the guy deserves a PhD.
+So, Steven, if you don't mind taking over.
+Yeah, I just wanted to give a really quick disclaimer
+regarding the biblical texts that I used in these examples.
+You're gonna see English text paralleled with Greek text.
+I tried my best to sort of line them up
+as well as I could, like an interlinear,
+for the small percentage of people watching
+who might want to check it against the Greek.
+Most of the English translations
+are taken from the ESV, the NASB as well,
+and from Dr. Stanley's preferred translation, the NRSV.
+But I've personally tweaked some of the translations
+to make them line up better with the Greek text,
+which is the critical text, SPL, of the New Testament,
+and Alfred Roth's 9th edition, 1971.
+English translations of the Septuagint
+are all from the new English translation
+of the Septuagint, the N-E-T-S,
+which I mostly borrowed verbatim.
+I only modified a couple of key places
+where I found it necessary
+and consulted Dr. Stanley on those modifications.
+So he can vouch for those,
+but if anyone disagrees with any of my choices,
+translating or paraphrasing the New Testament,
+blame it on me, Dr. Stanley did not vet my work on that.
+So I hope it's all accurate.
+I tried to make it readable.
+I'm gonna try to read this stuff for you guys
+and not make it boring.
+We just wanna make sure that anybody
+who's just listening to this and not watching
+can listen to the texts that we're discussing
+and get some context without looking at it on the screen.
+But ideally, you should be watching this,
+you should be looking, you should be reading,
+screenshotting, pausing, look it up in your own Bible.
+And that's my little spiel before we get going.
+Thank you again for joining me today.
+Finally, I got to pop your cherry on this one.
+So Dr. Stanley, what do we mean by scripture
+when talking about Paul
+and why is it so important to him?
+Yeah, Paul, even though we often think of Paul
+as one of the, in some sense,
+the founder of Christianity after Jesus,
+Paul didn't conceive of himself that way.
+There was no religion of Christianity in his day
+that was distinct from Judaism.
+And maybe the we think of today as two separate religions.
+That was still being worked out.
+Paul himself makes it clear that he was nurtured
+deeply within Judaism, he was a Jew.
+He was born according to the book of Acts
+in Tarsus in southeastern Turkey.
+But he says in Philippians three
+that he was from a devout family.
+They were very proud of their Jewish heritage.
+And as such, he would have been nurtured
+in the Jewish scriptures.
+And it would have been the framework for his thinking
+and his framing of his conduct.
+He, according to the book of Acts,
+he studied in Jerusalem under Gamaliel,
+the head Pharisee leader there.
+There's no evidence of that in Paul's letters directly,
+but he does describe himself in Philippians three
+as a Pharisee.
+And given that we know nothing about Pharisees
+outside of Israel, it might suggest
+that it's consistent with what we find there in Acts.
+Now, here's where it gets a little bit complicated.
+Most people simply assume that Paul,
+because he was a Jew, knew Hebrew because the Hebrew Bible,
+the Jewish scriptures were written in Hebrew and Aramaic,
+and therefore that he must have consulted that text regularly.
+Interestingly, when we look up in Paul's letters,
+the, do the kind of technical careful study
+to examine the text that he actually uses,
+there is no evidence whatsoever in Paul's letters
+that he ever quotes from the Hebrew text.
+What does he quote from?
+Well, in a couple, the beginning of a couple of centuries
+before Paul's time, perhaps three centuries,
+the Jews who lived outside of Israel,
+and by the way, they outnumbered the number of Jews
+who lived in Israel by the time of Jesus and Paul
+because they had left due to immigration
+and they had had children in slavery
+and various other things.
+And they, because they lived in a Greek-speaking world,
+even under the Romans, everyone spoke Greek.
+The Romans did not try to get people to speak Latin.
+To be a good Roman was to be able to speak Greek well.
+And so Greek was the lingua franca,
+the common language and culture,
+and that was true for Jews also.
+So Jews had really lost their knowledge of Hebrew
+in what's called the diaspora,
+the lands outside of Israel.
+And so they began to translate the Hebrew texts into Greek.
+There's some legends about how it was done
+and it might've been done by people in Palestine.
+It's not very clear what the story was there.
+But the bottom line is that by Paul's day,
+all of the books of the Jewish scriptures,
+which are essentially the same as what Christians
+called the Old Testament,
+had been translated into Greek.
+The modern name for that kind of collection of translations
+that were made over time is the Septuagint,
+often abbreviated to LXX,
+which is the Roman number for 70,
+for those who might remember learning
+about Roman numerals in elementary school.
+And the reason it's called that, the 70,
+is because of a legend in a Jewish text
+called the Letter of Aristaeus,
+that it was translated by 70 elders of Israel
+and that they all independently
+and came up with exactly the right same wording.
+What do you know?
+It's a divine miracle.
+I mean, the book was written in order to affirm
+the divine authenticity, not just of the Hebrew texts,
+but of the Greek text as well.
+And so this is the text that Paul would have known
+and grown up with and been nurtured in
+and that he would have recited, quoted, alluded to
+when he uses it in his letters.
+So for Paul then, to answer the question, scripture,
+the word scripture is just a modern term,
+meaning the written things.
+It's a shorthand in modern language
+for sacred texts of any religion.
+And for Paul, that sacred text was the Greek version
+of the Jewish scriptures
+that we would call the Septuagint.
+So we want to see in some slides
+when we start looking at pictures in a moment
+that Stephen has set out the,
+when he shows the text from the Jewish scriptures
+that Paul is using,
+he has a sort of abbreviation LXX
+after the Greek there to indicate this is the Septuagint.
+Just a quick little final word.
+Even the term Septuagint is
+a term that veils a lot of debates
+and uncertainties and complexity
+because this was not like one translation made at one time.
+Books were translated at different times,
+some of them multiple times.
+People did not have books in a cover like we do today.
+A collection of books was simply a stack of scrolls.
+And so the Septuagint did not exist
+as a collection of books in a single cover
+until perhaps the fourth century AD.
+So then we've got a collection there
+of modern English and a modern collection within a cover.
+But for Paul, there's an issue of individual scrolls.
+And I just want to say one more word about that
+before we move on.
+If Paul wanted to consult these scrolls,
+where would he do it?
+Very few people owned books in the ancient world.
+As we'll see in a minute, very few people could read or write.
+And certainly as Paul travels,
+he's not lugging around a stack of dozens of scrolls with him.
+And so really the only place you could consult
+a collection of scrolls was in the local Jewish synagogue.
+And even they would not necessarily have translations
+of all the texts.
+What mattered to them was the Torah, the first five books.
+And so we'll get into some questions later
+about how much does Paul, he's quoting generally from memory,
+from when he had access to those texts.
+So to some degree, maybe we might summarize that scripture
+is those texts that Paul has devoted to memory
+sometime in the course of his studies over the years
+and is able to meditate on or ruminate on
+to quote or allude to when he wants to.
+In some sense, that's then going to be a subset
+of the actual texts that we find in the Jewish scriptures.
+Those ideas found important and relevant over the years.
+So I have a few more questions before we get into the slides.
+Paul was a Jew who would have known the Jewish scriptures
+well, but his churches were made up mostly of Gentiles,
+the Jewish term for non-Jews,
+who presumably knew little or nothing
+about the Jewish scriptures.
+Is that a valid characterization of the people in his churches?
+And if so, why does he quote and allude
+to the Jewish scriptures so much in his life?
+Yeah, that's another big topic that we need to say
+a little bit about, because it's very important
+for understanding what Paul is doing with scripture.
+The term Gentile is a modern translation of a word
+that in Paul actually is the Greek word ethne, the nations.
+It's a Jewish term, just kind of a categorical term
+for anybody who's not a Jew,
+just like Greeks called anybody who wasn't a Greek
+or a barbarian.
+And so I'm gonna use the term Gentile as shorthand,
+but we have to keep in mind,
+we're talking about a group of people
+who did not identify themselves
+as a single group of people called Gentiles.
+They called themselves Greeks or Romans
+or Parthagonians or Egyptians
+or whatever their ethnic identity was.
+In this world, there is virtually no evidence
+that people outside of Jewish circles
+knew or studied the Jewish scriptures.
+The earliest definite quotation that we have
+that shows some kind of knowledge of the Jewish scriptures
+by a Greek author is from the late first century AD.
+So Paul is dealing with people who,
+when they come into his churches
+and the dominant, most of the people in his churches
+were Gentiles, probably had no knowledge whatsoever
+of the Jewish scriptures.
+In fact, if whatever they knew about Judaism
+was probably negative,
+because there's a lot of anti-Jewish sentiment
+in the ancient world,
+why should they be interested in the texts
+of these ridiculous people?
+And in fact, we have references in some authors
+who do know something about Judaism
+and vague knowledge of say the Exodus story
+and present these garbled or scurrilous retellings
+of the Exodus story that make the Jews look bad.
+There were, however, among the Gentiles,
+some who would have known something of the Jewish scriptures
+because there were,
+even though there were a lot of people
+who had strong dislike to Jews in Paul's day,
+there were some who were attracted to Judaism.
+They admired its monotheism,
+which was consistent with the teachings
+of the best of the Greek philosophy.
+We admired the strict moral lifestyle of Jews
+and their family values.
+So some of them actually attended Jewish synagogues
+and there they would have learned
+something about the Jewish scriptures.
+A few of them now here and there
+actually converted to Judaism.
+Most did not because if you're a male,
+it involved circumcision for an adult in an era
+which was lacking in anesthesia,
+not a very pleasant way to go through.
+And also when you went to the baths,
+as any Romans did daily,
+if you were wealthy and had leisure time
+and less often if you were working,
+it'd be pretty obvious since they're together in the nude,
+there's something's different about Joe now.
+I mean, it's very visually marked
+that you are now a weirdo.
+And of course, obeying Jewish laws
+was something that set people apart.
+If you're a Gentile, let's start obeying Jewish laws.
+But there were a good number of people,
+we don't know how many,
+who were more or less sympathetic
+to greater or lesser degrees with Judaism.
+In the book of Acts, Luke calls these people God-fearers.
+That doesn't mean they're afraid of God.
+It means they are people who respect or honor
+or venerate the God at Israel.
+And so these people played a vital role
+in Paul's ministry to reaching out to Gentiles
+because they were able not only to know something
+about the Jewish scriptures and help other Christ followers
+who didn't know anything to know something,
+but also they could translate the concepts.
+You say Jesus is the Christ, the Messiah,
+that means nothing to Gentiles.
+The end of the world is coming, huh?
+I mean, these are concepts that meant nothing whatsoever
+to people who knew nothing about Judaism.
+And so these people served as kind of the bridge.
+So there would have been perhaps a few people
+in each church, maybe not, we don't know,
+who had some prior familiarity,
+but the vast majority of people in Paul's churches
+would know nothing at all about the Jewish scriptures
+before coming into his churches
+and only would have known what they would have learned orally
+from teaching within the churches
+because I guess I forgot to say one other thing,
+a very important thing.
+90 to 95% of the people in the ancient world,
+whether they were Jewish or Gentile, were illiterate.
+That is they were incapable of reading or writing
+at any level, they might've been able to sign their name,
+they might've been able to write some numbers
+and being on their business
+where they could keep some track of records.
+But the idea, even if these scrolls had been available,
+which they were not, the idea that a Gentile,
+an ordinary Gentile in Paul's churches
+could read one of them, at all,
+is a historical anachronism.
+So whatever they knew was something
+they would have had to learn orally
+within the context of either a Jewish synagogue
+or a Christian church
+where these were being interpreted in Christian ways.
+Does that answer our question here?
+Yeah, yeah, yeah.
+Given what you said about Paul's audience,
+what are we to meet of the common scholarly presumption
+that Paul expected his audiences to know
+and engage with the original context
+of the scriptural passages that he cites in his letters
+in order to understand what he was saying to them.
+Are these other scholars wrong?
+If so, what difference does it make?
+We do have this puzzling phenomenon.
+Of why in the world does Paul quote
+and allude to the Jewish scriptures
+when he's writing to people
+who don't have any background
+for the most part in the Jewish scriptures?
+That's something I've devoted a lot of my scholarly career
+to teasing apart.
+In fact, I got started in this area
+back when I was working my PhD dissertation at Duke,
+exploring the question of,
+if you get into the Greek language
+and you compare the Greek of Paul's quotations
+with the Greek of the text
+that we would call the Septuagint,
+you find there are a lot of places
+where the wording doesn't agree.
+And it'd been common to say that Paul,
+well, this is just where Paul had memory slips
+or something like that.
+And what I explored and what I demonstrated
+to the satisfaction of virtually everybody
+who works in this field now,
+is that no, Paul was consciously and intentionally
+changing the wording of texts
+to make them accord better
+with his own interpretations on them,
+which raises questions for us
+of kind of moral integrity or something like that.
+So the rest of what I did
+was explored how quotations were handled
+by other Jewish authors
+and also how Greek authors handled quotations from Homer.
+And you know what I found out?
+Everybody did this.
+They didn't have such basic notions as a fixed text.
+Manuscripts were different.
+They didn't feel any obligation to quote texts accurately.
+So the idea you'd incorporate meaning
+into the wording of your interpretations
+was simply a normal part of their culture
+that's very different than ours.
+So anyway, that's what got me into studying these things,
+but that didn't get at the question of,
+well, what about the meaning of the way Paul is using
+the texts in his letters,
+which is often in tension
+where they're even very different from any natural reading
+of their meaning in the Jewish scriptures
+and where Christians come to call the Old Testament.
+And so the more you explore that,
+it raises questions about,
+well, if Paul can quote from these texts,
+surely he must be assuming that his audiences know these texts.
+In fact, Richard Hayes in 1989
+wrote a book that's been very influential
+called Echoes of Scripture in the Letters of Paul,
+where he argued that Paul is expecting his audiences,
+not only to know the original context
+of everything he cites,
+but to go and engage in detail with that context
+and even be able to hear and bring out elements
+that Paul didn't even state the resonances
+between that original text and his quoted text.
+And I knew Richard when he was starting this work
+and he's a few years older than me.
+And we had a number of public engagements over this,
+meetings of the Society of Biblical Literature
+over a course of three or four years
+after I wrote some of my work in this area
+where I was arguing that's just not possible.
+That's historically anachronistic
+because they could not read and they did not know these texts.
+And one of my most satisfying moments as a young scholar
+was when Richard grabbed me after one of the meetings
+and said, look, we need to settle this and talk about it.
+We stood there about 10 or 15 minutes in the hall
+and he finally said, okay, I get it.
+I think you're right.
+I should have been clearer.
+I should be more careful about how I use these,
+and from that time forward, he was.
+And so, I've been able to reshape a lot of the conversation
+in this area by highlighting the fact that any assumption
+that people in Paul's audience is know and engaging
+with the original text of his quotations
+is makes no sense historically.
+It doesn't mean perhaps there might have been a person
+who had to in the congregation
+who had some knowledge of the original context
+and could have taught others.
+I'm not totally excluding those kind of possibilities.
+But as we're going to see today,
+what I've gone on to do is to argue that in fact,
+as odd as this might sound,
+I think Paul often counted on the fact
+that his audiences could not go back and check the context
+because we're gonna see some examples where
+if you do go back and look at the context,
+the original text could actually be used against Paul.
+And so, it gets kind of complicated here,
+but when you really dig into the evidence in detail,
+you find out that this assumption that because Paul quotes,
+he must have assumed knowledge is invalid.
+And ultimately what I argue,
+and we're not gonna quite get into this too much today,
+is that no, Paul was quoting from these texts
+because he knew that his audiences,
+because they had this affiliation with Judaism,
+and because they saw the Jewish scriptures
+as somehow authoritative,
+that they would accept quotes from the scripture
+as kind of the decisive voice in an argument.
+So like today, when a pastor wants to prove a point,
+what's he do?
+He quotes the text of scripture.
+Now, he may be taking that verse totally out of context,
+but as long as the audience doesn't know
+and go back and check him, he can get away with it.
+You know, you can say, the Bible says,
+and if your audience doesn't know better,
+it makes it sound valid, right?
+You know, the Bible says it, it must be true.
+He knows, he's an expert.
+And so the fact that Paul could read and write
+made him a member of a small minority of people.
+The fact that he could know and interpret
+these authoritative texts
+gave him an authority, a call for respect
+that would have elicited, okay,
+if Paul can quote scripture about this, it must be true.
+Even if we can go back and look now and say, huh?
+That doesn't really seem to work so well
+if you go back and look at it.
+So anyway, that's kind of quick summary.
+Yeah, yeah, so a few more,
+and then we're getting into these examples.
+I'm sorry for taking so long here.
+You've said that Paul assumes
+only a fairly minimal knowledge of Jewish scriptures
+on the part of his Gentile audiences.
+How could he presume that they had any knowledge at all?
+How can you judge what they did and didn't know
+when our only information about them
+comes from Paul's letters?
+Yeah, you know, one things that I did
+in writing one of my books, Arguing with Scripture,
+which interestingly Derek and Stephen have read,
+and that's why it got them to contact me
+about any of this in the first place,
+is I went through all of Paul's quotations
+and allusions to scripture and his letters,
+where he necessarily assumes knowledge.
+So we're gonna see, for example,
+in a moment in 1 Corinthians 10,
+he refers several times without explanation
+to various elements of the Exodus story,
+and it's clear that he expected his audience
+to know what he's talking about.
+He'll talk about our ancestors going through the sea
+and the cloud and this kind of thing
+without explaining what he means.
+So I went through his letters
+and just kind of compiled all the things
+that he assumes his audience has known.
+Now he could have been wrong in what he assumed they knew.
+So we can't necessarily make a one-on-one equation
+that Paul assumes that they must have known it.
+But at least he had good reason to think
+they would have known some of these things.
+And interestingly, if you go through
+and compile the evidence,
+he does assume they know certain things,
+but they're the kind of things
+that one could have learned orally,
+either in a Jewish synagogue or within the Christian church.
+Primarily it's things having to do with the creation story,
+the Exodus story, and some of the key laws,
+like you love one another,
+I mean, love your neighbor as yourself
+and the 10 commandments.
+That's about it.
+And so we can, if it's possible that they knew more,
+it's possible that they knew less.
+But I wanna say, what do we actually have evidence
+that Paul felt he could reasonably assume they knew?
+That's it.
+And it's no accident, there's mostly stories
+because that's how things were passed on
+in the ancient world, in an illiterate culture,
+in any culture that's illiterate.
+Stories are the primary means of communicating ideas,
+not doctrinal statements or something like that.
+And within Jewish circles,
+obviously memorizing key portions of the law, the Torah,
+especially the 10 commandments
+would have been important as well.
+And it's just, it's no accident.
+Those are the things that Paul thinks they should know.
+So probably somewhere along the way,
+Paul himself when he was with these churches
+would have taught them some of these basic stories
+from the Jewish scriptures
+and he would have assumed that they knew them.
+But even with Romans, he assumes they know
+when writing to the Christians in Rome
+where he's not visited, he assumes they know
+pretty much these same things.
+And therefore, it seems to be something even,
+not just as unique to Paul, but was apparently,
+he had a confidence, it was an element
+of what we would call Christianity everywhere,
+that a certain amount of knowledge of these Jewish stories
+was a common stock of Christian teaching.
+If his audience did not in fact know
+how much about the Jewish scriptures,
+I'm wondering if that might help to explain
+some of the more unusual ways
+in which Paul seems to interpret scripture
+when we compare his quotations and illusions
+with their original context.
+Are you suggesting that he deliberately manipulated
+the meaning of the scriptures for his own ends
+in the knowledge that no one in his churches
+could check what he is doing and call him on it?
+Or are you saying something else?
+Can you give us some concrete examples
+to show how Paul interpreted the scriptures
+and applied them to his audiences?
+Maybe we can get into the slides.
+Do you want me to pull those up?
+Yeah, yeah, let's do that.
+Answering the question of what Paul is doing with scripture,
+how he views it, how he interprets it,
+is he faithful to it or distorting it?
+It's not something you can do just in broad brushes.
+Paul does different things with different texts.
+And it's rather challenging to even summarize what he does
+because there's so much diversity in it.
+But as we take time to go through some examples,
+I want to, maybe perhaps at the end,
+I'll try to summarize as best I can what Paul does.
+But anybody who ever offers you any blanket statements
+like Paul is faithful to the context of his quotations
+or Paul distorts the biblical text,
+know by definition,
+they don't know what they're talking about
+because the reality is much, much more complicated
+and nuanced.
+For the sake of our conversation here,
+I've come up with three different categories
+and Stephen graciously has put together
+these wonderful slides for us to illustrate them
+that the show different ways in which Paul is
+or is not consistent with the original texts
+of his quotations, but also along the way,
+we can look at some of the other things
+he does with quotations.
+Good job.
+I also want to come.
+It's a good job, Stephen.
+He spent hours.
+I mean, countless hours.
+He has been amazingly patient with me
+making multiple corrections all over the place
+and teasing us, getting us all together for us.
+So we're going to start with a simple example.
+Well, first we're going to look at passages
+where Paul is generally seems to be,
+what we might today say,
+he's doing a reasonably valid
+or understandable interpretation of texts,
+something that we would say,
+yeah, Paul, okay, that makes sense.
+Stephen is actually going to read the original texts
+of Paul's letters, not the original and the Greek,
+but the English texts and the Septuagint texts
+and then I'll comment on them.
+And then after each one of them, I'm going to stop
+and Stephen has put a lot of time
+and thought into these as well.
+And so I'll stop and see if he's got,
+after I make my comments,
+see if he's got further questions or comments about them.
+We could spend a long time on all of these passages.
+We're going to have to kind of go pretty quickly here,
+although we will be getting a lot down into the weeds.
+And so I, if you, as a viewer,
+if this starts getting too much for you,
+Derek assures me that there are going to be viewers
+who really want to get down into the weeds like this.
+So if this just doesn't work for you,
+just skip past all the slides on your,
+on your playing and go to see the, you know,
+where we show up and what we say at the end.
+I'd encourage you not to do that too quickly
+because I think you're going to learn a lot from sticking
+with us through some of the details here,
+but don't want you to just tune out
+because I think there'll be some things at the end
+that are going to be worthwhile in terms of summing up
+and applying some of this to,
+how do we make sense of Paul and understand him?
+So Stephen, let me know what you was going to start
+with a passage in 2 Corinthians 9
+where Paul makes a short quote from Psalm 112
+in our Hebrew version, but you see there in the heading
+where it says LXX 111.
+In the Psalms, the Greek version is numbered differently.
+Some of the Psalms are broken up differently.
+And so the numbering of the chapters is different
+with the number of the Psalms.
+So in this one, if you're reading actually the Greek text,
+it's Psalm 111.
+Even though in your Hebrew text
+in your English translation, it's Psalm 112.
+Okay, Stephen, to help to you.
+All right, so starting with 2 Corinthians 9, 6-9.
+The point is, he who sows sparingly
+will also reap sparingly.
+And the one who sows bountifully
+will also reap bountifully.
+Each one must do just as he's decided in his heart,
+not reluctantly or under compulsion
+for God loves a cheerful giver.
+And God is able to make all grace overflow to you
+so that always having all sufficiency and everything,
+you may have an abundance for every good deed.
+As it is written, he scattered, he gave to the poor.
+His righteousness endures forever.
+Should I move on to the Psalm?
+Yeah, go ahead and read the Psalm
+and then I'll comment on the relation between them.
+Because he will never be shaken.
+A righteous person will be remembered forever.
+Of evil tidings, he will not be afraid.
+Prepared is his heart to hope in the Lord.
+Firm is his heart.
+He will never be afraid until he looks on his enemies.
+He scattered, he gave to the needy.
+His righteousness endures forever and ever.
+His horn will be exalted in glory.
+And I'll just note that he gave to the poor,
+he gave to the needy.
+They differ in the English versions of these translations,
+but the Spanish scene is just, it means to say,
+it's the same thing in Greek,
+just different words for four needy synonyms.
+Good, okay.
+So the context here, in 2 Corinthians 9,
+Paul is dealing with the Corinthians
+who have become rather recalcitrant about
+making actually transmitting to him some offerings
+that they had promised to make.
+He was going around collecting money from his churches
+to from the Gentiles to be taken
+to the Jewish Christians in Jerusalem
+who are suffering and poverty and famine and such.
+And so he makes a series of arguments in 2 Corinthians 8
+and 9 to motivate them to be generous
+in giving this money that they had promised to give earlier,
+but because of a rupture in the relationship with Paul,
+he is now seeing some hesitance on their part
+to follow through on.
+And so at this particular point in the argument,
+his motivation, his argument is,
+you give to God, he'll give back to you,
+which sounds something that is somewhat
+theologically questionable to some of us today.
+You give to God in order to get,
+but that was totally normal in ancient concepts of religion.
+And we talked about that in a previous slide,
+but he basically says, you give to my offering
+and God will, as he says,
+make all grace overflow to you, et cetera.
+And in support of this claim that God will,
+essentially will reward them for making an offering,
+he quotes this text from the Psalm.
+Now the Psalm, if you look at the context there,
+it's not talking about people who make offering
+to support Gentile Jewish Christians in Jerusalem,
+but the principle is quite similar.
+And he's talking about a righteous person
+and some of the things that come to a righteous person,
+a sense of security and stability and prosperity.
+And he interestingly, in the Greek and in the Hebrew,
+he shifts here in the quoted part to the past tense.
+He scattered in the past,
+he gave to the needy, his righteousness endures forever.
+In other words, the righteous person won't be shaken
+in a time of trial and it's implied in the Psalm and in Paul
+because he gave to the needy and the poor
+and therefore that puts him in God's good graces.
+So when trials come, he'll stand secure and firm.
+Now Paul doesn't quite say that.
+He says that God's grace will be with you,
+basically in every kind of circumstance.
+It's a similar kind of idea.
+You can see how he got from point A to point B.
+And so even though he doesn't explain what the link is,
+if you don't know the Septuagintic context,
+you simply read what Paul says,
+God is able to make all grace overflow to you
+so that always having all sufficiency
+and everything you may have an abundance for every good deed.
+As it is written, he gave to the poor
+his righteousness endures forever.
+Well, it's not exactly obvious
+how that, if you don't know the original context,
+how that relates to what Paul just said.
+But you get the general idea.
+A person who gives to the poor is righteous
+and that's to be right with God.
+He gets good stuff from God.
+You can see how there's kind of enough of a relationship
+that a person who doesn't know the original context
+could say, okay, I think I get it.
+A person who does know the original context
+could go back and look and say, okay, yeah,
+I think Paul's doing, I understand where he's going with that.
+That's good, good on Paul,
+but he could bring that verse in.
+Yeah, God loves a cheerful giver,
+sounds like it has a ring to it.
+Like that should have been a quotation as well,
+but who would know, right?
+Like the audience might have assumed
+that that was also the saith the Lord.
+That's interesting because one of the debates
+in people who were studying Paul's quotations,
+explicit quotations is, how do you define a quotation?
+Let's imagine that there was a verse
+in the Old Testament, the Jewish scriptures,
+it said, God loves a cheerful giver.
+Well, you wouldn't know that
+from the way Paul words it here.
+He doesn't signal that he's quoting.
+Whereas in the Porscheanist Martin yellow,
+he does signal it as it is written.
+I'm telling you something here that comes from a text.
+By the way, he doesn't say written where,
+he assumes that they know that as it is written,
+it's a signal that is referring to the Jewish scriptures.
+Well, and also, I mean, for some people,
+they may not know, there are no quotation marks in Greek
+and the priest was probably not going like this
+when he was saying it, so there was no way to define it.
+If I may just to be very strict and literal here,
+if we were to be absolutely strict,
+Paul does not mean exactly what Psalms is saying
+even though the principle he means,
+he's reapplying a principle that is in the text
+to a new context, does not have anything to do technically
+in the literal sense with Psalms,
+but the analogy kind of works.
+Exactly.
+It's similar enough in that both of them
+have to do with giving to the poor.
+And so we can see how he applies it.
+That's right, he is applying a general principle,
+the person who is righteous gives to the poor
+and is made stable and blessed by God
+to a specific situation.
+Here's a case where I want you to give to the poor,
+based on the general statement,
+I can assure you that God will bless you.
+So yes, he's applying the general principle
+to a specific situation, thank you.
+Okay.
+So I'm ready to move on from that one.
+Steven, did you want to say anything else?
+Great, yeah, you want to just click to the next one.
+Okay, so let's go to the next one.
+I'm gonna go to a more complicated passage
+where Paul makes, in that case,
+he just referred to one verse,
+kind of somewhat almost at random, it seemed, from a psalm.
+Here we have a passage where he's got an extended engagement
+with the Exodus story.
+And he refers numerous times,
+and this is a good example, as I mentioned earlier,
+where he just refers in passing
+to a number of elements of the Exodus story.
+And by the term Exodus story,
+I mean where Moses leads the Israelites
+out of Egypt from Pharaoh.
+And also when we use the term, and that says,
+it includes the period of the 40 years
+he's been wandering in the desert.
+Those are, that whole thing is encompassed here
+what I refer to by the Exodus story.
+There is one explicit quotation marked in yellow here,
+and we will talk about it in a moment,
+but I'm gonna, Steven will read this,
+and I want you to hear, particularly those of you
+who know something of the Exodus story,
+you're gonna hear a number of references,
+allusions there to various aspects of that story.
+So let me let Steven read this then.
+Okay, so first Corinthians 10, one through eight.
+And go ahead and read into the,
+through the second slide as well,
+I'll go through verse 14, so we get the whole picture.
+Okay, I do not want you to be unaware, brothers,
+that our ancestors were all under the cloud
+and all passed through the sea
+and all were baptized into Moses in the cloud
+and in the sea and all ate the same spiritual food
+and drank the same spiritual drink,
+for they drank from the spiritual rock that followed them.
+And the rock was Christ,
+but God was not pleased with most of them
+and they were struck down in the wilderness.
+Now these things occurred as examples for us
+so that we might not desire evil as they desired it.
+Do not become idolaters as some of them did.
+As it is written, the people sat down to eat and drink
+and they rose up to play,
+nor should we fornicate as some of them fornicated
+and 23,000 fell in a single day.
+Getting to the next one.
+Yeah.
+Oh, yeah.
+Sorry, I'm following really.
+So versus nine through 14, first Corinthians chapter 10,
+we must not put Christ to the test
+as some of them put him to the test
+and were destroyed by serpents.
+And do not complain as some of them complained
+and were destroyed by the destroyer.
+These things as an example happened to them
+and they were written down for our instruction
+to those on whom the ends of the ages have come.
+So if you think you are standing,
+watch out that you do not fall.
+No testing has overtaken you
+except that which is common to mankind.
+God is faithful
+and he will not let you be tested beyond your strength.
+But with the testing,
+he will also provide the way out
+so that you may be able to endure it.
+Therefore, my dear friends, flee from the worship of idols.
+Okay, this is a great text.
+I'm gonna hold off on reading a Septuagint portion
+of that quotation for a moment.
+This is a great text for illustrating
+a variety of things about
+how Paul as a first century educated Jew reads texts
+and how Paul as a first century Christ follower
+applies those texts to an audience
+and even some of the principles,
+kind of getting into his mind a little bit
+as to how and why he does that
+because here is one of the few places
+where he kind of comments about
+how he gets from point A to point B.
+If you look at the back again to chapter 10
+verses one to eight, Paul reading through again,
+he says our answers as well under the cloud,
+referring to the cloud that led the Israelites
+as they approached the Red Sea
+and they all passed through the sea led by Moses.
+Those are references,
+but then he brings in a Christian term,
+baptized into Moses.
+Huh, that's a little odd.
+Okay, baptizing is going down in water and coming out.
+So you kind of see how he gets there,
+but he's bringing in a very Christian term
+that is not anywhere there in the Old Testament,
+it's your scriptures, in the cloud and the sea
+and all ate the same spiritual food
+and drank the same spiritual drink,
+alluding to the manna and the water
+that God provides in the desert.
+And you can see how spiritual might be,
+it's like miraculously provided,
+but you can see in Paul,
+he's alluding here to the Eucharist, the communion meal.
+So he's basically kind of interpreting the Exodus story
+in light of baptism and the Lord's supper,
+the Christian rituals that have to do with membership
+in and participation in relationship with God
+and your identity as a member of this group.
+So already we see him kind of Christianizing the story.
+He's not de-legitimizing the original story,
+he's referring to it as something that really happened,
+but he's putting this Christian spin on it.
+And he goes on and say,
+they all drank from the spiritual rock that follows him.
+This is a lot of Jewish interpretive tradition,
+we don't have time to get into it,
+that Moses strikes this rock in the desert and it gives water
+and that it seems to be that rock is there other times.
+And so some of the Jewish rabbis said,
+how could that be?
+And they came up with this idea,
+this rock kind of rolled along behind them
+and they could strike it whenever he needed it.
+And it seems to be that's the background,
+it literally followed them along in the desert.
+Now, obviously there's,
+he's referring, got tying into some Jewish interpretive
+tradition there that is not,
+and that rock was Jesus.
+Oh, what do you mean that rock was Jesus?
+I was obviously again, putting a Christian spin on this
+and he'll explain a little bit more in a minute
+how he does that.
+Then he refers to a number of episodes
+from the story where he says that God,
+he says God wasn't pleased with them and struck them down
+and he gives several examples of that
+in the following verses.
+But notice that middle part, we don't have verses now,
+but about two thirds of the way down, key point.
+Now, these things occurred as examples for us.
+In fact, I can get my cursor there, there we go.
+These things occurred as examples for us
+so that we might not desire evil.
+I don't think the audience can see your cursor.
+Oh, okay.
+These things occurred as examples for us.
+They didn't just occur happenstance,
+they occurred for our sake.
+And if we go to the next slide for a moment,
+he says similarly about a third of the way down thing,
+these things, these various episodes of people
+complaining and doing other things in the desert
+being punished by God happened to them as an example.
+They were written down for our instruction
+to those on whom the ends of the ages have come.
+So Paul and his audience are really at the apex of history.
+Exactly.
+Well, the end only at the end of time
+with the revelation of Jesus
+and the fulfillment of God's mysterious plans
+worked out all through the history of Israel
+now known through the coming of Jesus.
+Can we understand the meaning of these texts?
+But he goes further than that.
+He says they were written down for our instruction
+but he says they happened to them as an example for us.
+It's like the very fact that they happened was for us.
+Unless we think that that is reading too much in,
+he makes similar statements
+a couple of other places in his letters.
+In Romans chapter four, we probably won't get to this later.
+So I'll just mention you got this long passage
+where he talks about Abraham's righteousness
+and Abraham's faith, et cetera.
+And he says toward the end of verses 22 and 23.
+Now Abraham's faith was reckoned to him as righteousness.
+Now the words it was reckoned to him
+were written not for his sake alone
+but for ours also will be reckoned to us
+to believe in him who raised Jesus from the dead.
+And again, in 1 Corinthians nine,
+a passage we'll look at in a minute
+but I'll just jump ahead to it for this statement.
+He said this passage about not muscling an ox,
+it's trading the grain.
+And he says, is God concerned about oxen?
+No, God's concerned about us.
+Is it not for our sake that he always speaks?
+Indeed, it was written for our sake.
+So in Paul's mind is audacious as this sounds,
+the scriptures were not written for the Jews.
+The Jews misunderstand their own texts.
+In fact, he says in 2 Corinthians three,
+a passage that we may or may not get to
+that avail lies over the hearts of Jews
+that prevents them from seeing the true meaning
+of their own scriptures.
+But it's not until the coming of Jesus
+and the fulfillment of the end of the days
+right before the end of the world,
+which Paul expects to happen in his lifetime,
+that the true meaning of what God was doing in ancient Israel
+and the true meaning of the Jewish scriptures can be seen.
+Well, if you're a Jew and not a Christ follower,
+that's a pretty audacious claim, isn't it?
+And this is why even in the first couple of centuries,
+there were, we have especially in the second century,
+the series of debates between a church father named Justin
+and a Jewish leader named Tripho,
+where Tripho is repeatedly accusing Justin
+of twisting and distorting the Jewish scriptures.
+And you know what?
+Tripho had a good point.
+From a Jewish standpoint,
+Paul and these other Christian authors are,
+in many cases, twisting and distorting texts.
+They're reading Jesus into these texts.
+They're reading Christian faith into these texts.
+They're reading Christian rituals,
+like baptism and the Lord's supper into these texts.
+And they're saying these texts were not written for Jews,
+they were written for us.
+So on the one hand, we see Paul,
+assuming his audience knows the story,
+he can allude to it, bring it back to their memory.
+And then in the one text verse that he does,
+actually quote the one in yellow,
+he quotes it verbally correctly
+and he uses it in a wet manner
+that is consistent with the context.
+It's a quote, the story of the Golden Calf episode.
+And it says that they, as we have on the slide later here,
+I'll just put it there real quickly,
+that they had,
+Abraham had made this Golden Calf
+and they all, we're gonna have a festival the next day.
+And he says the next day they sat down to eat and drink
+and they arose to play.
+So they were kind of making a big thing
+out of an idolatrous ritual.
+And that's really, that is pretty much what Paul is talking
+about, he talks about flea idolatry.
+He uses it in a way that is,
+the quote is both verbally consistent with
+and contextually consistent with the texts that he quotes.
+And even the narratives,
+he essentially correctly alludes to the stories
+that he mentions about complaining and testing,
+though there are stories there that have to do
+with the Israelites, obviously and not with Christians.
+But he reinterprets and applies them in a way
+that is essentially Christianizing the texts
+and generalizing from them if we had time to see it
+in some ways that are not really consistent.
+In fact, one that's particularly interesting
+as a shading ahead to things we're talking about later,
+this little reference to
+serpents, the first one at the top of this slide,
+who must not put Christ to the test,
+if some of them put Him to the test
+and were destroyed by serpents.
+This is an allusion to a story in Numbers chapter 21,
+where the people begin to complain about the food and drink
+and God sends snakes among them that kill a lot of them
+and they can say, okay, God, you're gay, we're sorry.
+And what does he tell Moses to do?
+To make this bronze image of a snake,
+put it up on a staff and those who gaze on the snake
+are gonna be healed.
+Well, do you know what that looks like?
+Idolatry,
+bowing down before a carved image of an animal.
+If Paul's audience had really known
+and thought about that context,
+because it, wait, wait, wait, wait, wait, wait, Paul,
+this doesn't work.
+I mean, this is a story that has to do with
+what looks to me like maybe it's okay
+to bow down before some images.
+So, you know, here's an instance,
+he assumes knowledge, but how much knowledge does he assume?
+Does he just not kind of think about that point?
+We don't know.
+Anyway, those are the points
+that I wanna make out of this passage.
+There's more we could say, but we don't have a lot of time.
+So let me stop, Steve and Derek,
+you wanna comment here before we move on?
+I think we'll skip over Exodus in this,
+because you already, go to the Exodus slide real quick.
+Yeah, okay.
+So just in case anybody wants to glance at it,
+yeah, glance at that, it's Exodus 32, 4 through 8
+and the Septuagint, you could screenshot it,
+you could read it in more detail.
+I think we just discussed enough details
+that it's better just to move on.
+And then can you go back
+to the first part of the Corinthians passage?
+Cause I think, yeah.
+So here, I do not want you to be unaware, brothers,
+that our ancestors were all under the cloud.
+Now, the word for ancestors there is pateris,
+which just means literally fathers,
+but it's the normative term to refer to ancestors.
+So he's really, obviously these are Paul's ancestors
+he's talking about, but he says,
+Ipateris imon, right?
+So unless that's a scribal error there,
+he's saying our collective ancestors in some sense.
+And so in what sense are they our ancestors?
+Cause we're talking about Corinth here,
+like this is a Greek city.
+Yeah, and that's a great point
+because here and another passage is also,
+we'll see this also in Galatians three.
+Paul kind of fudges back and forth.
+Sometimes he speaks as if our means we Jews
+over against Gentiles.
+And other times he says it in ways our
+in an inclusive sense, as if the Israel,
+the Gentiles are part of Israel's story.
+All right, that's their story too.
+And I think that's what he's doing here.
+He means our in the sense of we Christians,
+these people are now, these are our scriptures.
+And therefore these are our ancestors.
+And of course later on he's gonna talk about,
+he talks about Gentiles being adopted into God's family.
+He talks about the Gentile olive branches
+being grafted into Israel and Romans chapter 11.
+And so in some sense for Paul,
+the ancestors of Israel are also the ancestors of Gentiles.
+He does that specifically in the case of Abraham,
+as we'll see in a little bit.
+And I think that in his mind, yeah,
+he wants to argue Abraham was a Gentile
+and it's a little complicated,
+but he's worked out various ways of saying that
+in some way or the other, the biblical stories
+that Jews would relate only to themselves
+also relate to Gentile Christ followers.
+Got it.
+Okay, so let's go to the next one.
+Yeah, so let's move on.
+Those are the two examples where we can say that
+at least in the explicitly quoted part,
+Paul quotes the text verbatim accurately
+and he uses it in a sense that is consistent
+with the context of the original.
+Now he's again, he's very much Christianizing it
+in many ways in his illusions,
+but in the actual quoted part,
+he's being faithful to the context.
+So let's turn now to some texts
+where there are tensions.
+Wouldn't say necessarily Paul is repudiating
+or ignoring the original context,
+but he does funny things with the texts
+where that would raise our eyebrows today
+that we would have real questions about somebody doing it.
+It was a pastor in a church today
+and you went to check out the pastor was saying.
+We'll start with a fairly simple example
+as we did in the first category.
+So this is in a passage before Stephen reads it
+where Paul is engaged in a defense of his right
+as an apostle to receive financial support
+from the Corinthians, a right that he has chosen
+not to exercise because he knows that in a world
+of patrons and clients where if somebody gives something
+to somebody, they are in essence admitting subordination
+to the giver and owe them duties.
+He says, no, I don't want to be beholden to you.
+And so he's arguing as to why he had a right
+to have received money from them,
+but he doesn't has chosen not to receive it.
+So here's where this passage fits in.
+So part of a broader argument.
+So Stephen, why don't you go ahead
+and read first with his nine
+and we don't need to read the Deuteronomy,
+it's word for word the same.
+Yeah, it is.
+And you feel free to mute yourself
+if you want to like clear your throat
+or if you're worried about noise.
+So first Corinthians nine, nine through 11.
+For it is written in the law of Moses,
+you shall not muzzle an ox when it treads out the grain.
+Is it for oxen that God is concerned
+or is it not for our sake that he always speaks?
+For it was written for our sake
+because it's in hope that the plowman should plow
+and the thresher, thresh in hope of sharing in the crop.
+If we among you have sown spiritual things,
+is it too much if we from you
+should reap fleshly material things?
+So quick note, it's a little awkward in this translation.
+I rearranged the syntax in the English
+to line up with the Greek a little better.
+The interesting point here is should reap fleshly things,
+tasarkika, that's typically translated as material things
+because he's speaking about money,
+but he's using the word flesh there
+in a very particular Greek sense
+that doesn't really make sense as a literal translation,
+which is why I just put material there in parentheses
+so people would see what it actually means.
+Okay, this is one we can cover pretty quickly.
+If we say what was the context of Deuteronomy 25,
+the text that Paul had in front of him,
+at least in his mind, if he knew the whole text.
+The context is useless here.
+This is simply a collection of laws
+that are not related in any way to one another in meaning.
+Just before Deuteronomy 25, or verses one to three
+are about how a person who has lost a lawsuit
+to be punished with lashes
+and the passage immediately after it has to do
+with what happens when a man dies without children
+and saying that his brother is to marry the widow
+and have children with it,
+what we call the levered marriage rules.
+So there is zero context here for Paul to be faithful to,
+but the actual passage itself in the context
+of the Hebrew Bible and ancient Israel
+is quite literal.
+The point is, you got an ox
+and you've got the, you've got, you've picked your grain,
+your wheat, and you've got it out on the threshing floor
+and it's lying around on the ground.
+You've got this ox attached to a rod,
+walking around in a circle,
+tromping on the grain in order to break open
+the heads of the wheat so that you can then get the seeds
+out and then take them and further process them.
+And he says, you know, there's this, in Deuteronomy,
+there's this current of a humanitarian current,
+it's often called a compassion
+and it extends to animals also.
+And so this is one of the passages,
+basically he's saying, don't be cruel to your animals,
+be compassionate even to them,
+don't put a muzzle over the ox's mouth
+so they can't eat some of that grain
+while he is going around in that circle.
+Let him have some of it.
+And so it's meant in the Old Testament, the Jewish scriptures,
+it's a very literal injunction
+that has to do with how you treat animals.
+Paul, on the other hand,
+draws a spiritual principle from it.
+He quotes the words, quotes the passage word for word,
+accurately, and we might say that he applies it
+as we saw in our very first passage
+in a way that at least is understandable.
+Okay, a working animal should be allowed to have food.
+Well, I'm a working apostle,
+I should be allowed to receive money from you
+in order to provide for my needs.
+If that was all he had said,
+I would have put this passage in our first category.
+The reason I put it in this one
+is because of that part that we already read.
+Is it for oxen that God is concerned?
+Is God talking about oxen here?
+No, God doesn't really care about oxen,
+God cares about us.
+It's for our sake, he spoke,
+he wrote these things for our sake.
+So in a sense, he is denying
+the literal meaning of the passage.
+God wasn't writing this about oxen,
+he was writing it for our sake,
+for us Christian ministers
+who deserve to be supported financially.
+Can I comment just real quick?
+Yeah, I'm gonna stop there, go ahead.
+This is fantastic, and it's short and sweet,
+I don't wanna spend too much time on it
+because I hope we can get through all of these,
+especially with how deep we're going.
+This should tell you maybe the kind of mind Paul had, okay?
+So when we approach all of these other pericopees,
+I want you to really get this guy's willing to say,
+and we hear it even today in modern churches,
+looking around their own modern examples,
+it's always about us.
+And Paul's saying, it's about us, everything's about us.
+So keep that in mind when he's using the scripture.
+I just think that's so important,
+he's willing to even say
+that it doesn't even mean what it means.
+It means this, it's about us.
+So I just wanna emphasize that.
+Yeah, and fundamentally,
+one of the things I'll say at the end,
+that I'll say it now as well,
+Paul believes that he lives in a day
+when God has poured out his spirit
+in a way that brings new meaning
+and also guides him into the right meanings of texts.
+And so he believes he has the authority of the spirit
+to know now what God, quote, really intended, unquote,
+in these texts in light of the full development
+of what God intended from the beginning
+that's now come to fulfillment.
+So there's very much this,
+the fancy word is an eschatological orientation of texts
+pertaining to the end.
+It's only at the end of time
+that the mystery is,
+in the first year or several times,
+so the mystery that was hidden in ancient times
+until it's now been revealed.
+The mystery that's not only the sending of Jesus,
+but also that God had planned to include the Gentiles.
+That's God's mystery as well.
+We're gonna get to that in a couple of our passages.
+Well, you can imagine how this might be a tough sell
+for a Jew who owns an ox
+who's following the Ironomy 25 by taking off that muzzle.
+And then Paul's just like, this isn't about ox,
+oxen, God doesn't care about oxen.
+Like, you know, it's understandable
+why they might object to that.
+Yeah, they get offended.
+In fact, I've interviewed a few people,
+one of them is sympathetic to Judaism
+and another one's a rabbi that actually is reading Paul
+and he gets offended by this statement.
+So just- Exactly, yeah.
+I mean, these things,
+we just don't realize how offensive these kinds of language
+in this way of,
+not only the language with mode of thinking
+is to a Jewish mindset.
+And then you can start understanding
+why not many Jews listen to Paul in those days.
+I mean, he's really stomping on their toes consistently
+when they hear Paul is distorting the scriptures.
+Paul is twisting the scriptures to support his own views.
+And you know what?
+If you take an unsympathetic view,
+that's exactly what he's doing.
+He's twisting the scriptures to support his views.
+Now, he believes he's justified in doing that
+and Christians over the centuries have said,
+yes, Paul is justified in doing that
+because what he says is true.
+Jesus is the Messiah anticipated
+in all of ancient Israel.
+The Gentiles are part of God's people.
+Maybe even they've replaced the Jews as God's people
+and a lot of traditional Christian thinking.
+These things really were written for us.
+Paul is right, yay, Paul.
+So there are ultimately judgment calls,
+but traditionally Christianity has made
+a very different judgment call
+about the legitimacy of Paul's interpretations
+than Jews would make about Paul's interpretations,
+most of which they would reject as illegitimate.
+Okay, let's go on to our next passage.
+Now, the short one that is a little bit more obviously
+deviating or equally obviously deviating,
+but it's not entirely breaking with the original context.
+Let me give a little context here again
+before Stephen reads this.
+Paul is writing second Corinthians to a group of people
+with whom he's had a major break,
+a major rift between the writing of first Corinthians
+and the writing of second Corinthians.
+And he refers, explains,
+alludes to a little bit of the rift
+in the first three chapters.
+It's hard to know exactly what happens,
+but it seems that someone basically
+read a letter of ult against Paul's authority
+and eventually he's brought them back into his fold,
+but he writes the first half of second Corinthians,
+essentially trying to paper that over
+and reconcile the Corinthians to himself
+and to get them to accept his authority again
+when they have been kind of questioning that.
+And he offers a host of arguments
+as to justifying himself and trying to say,
+hey, we're all one big family, we're all buddies,
+we're all, you know, let's all get back together
+in Christ the way we were.
+And so previously to this, in chapter five,
+he's been talking about how Jesus died for all.
+And he makes this, I'll come back to this in a minute.
+In chapter six, then he moves back into his appeal
+to the Corinthians to be reconciled to him
+and respond to him and justifying his ministry.
+So as a bit of context, one needs to know here,
+so I'm gonna stop and let Stephen read this
+and I'll comment on it.
+And actually, let's go ahead and read this
+and read on into the Isaiah passage
+and I'll come back and bring the two together
+and we'll see some rather odd things going on here.
+Go ahead, Stephen.
+The we here, by the way, is Paul.
+It could be the editorial we Paul himself
+or Paul has traveling companions,
+is what may refer to Paul and his companions, go ahead.
+So second Corinthians six, one through three.
+As we work together with him,
+we also urge you not to receive the grace of God in vain.
+For he says, at a favorable time, I listened to you.
+And on a day of salvation, I helped you.
+Behold, now is a favorable time.
+Behold, now is a day of salvation.
+Giving no reason for taking offense in anything
+so that the ministry will not be discredited.
+And then here's an Isaiah 49 passage.
+All right, so Isaiah 49, six through nine.
+Yeah, and let me make a point.
+The you here, this is God speaking to the prophet.
+So it's a singular you in all of these passages
+and he's talking about the role this prophet has been given
+to speak to Israel.
+Traditionally called Isaiah, those scholars
+would say today, second Isaiah,
+we're not gonna get into that debate.
+We'll just say the prophet who is speaking these words.
+So go ahead.
+It is a great thing for you to be called my servant
+so that you may set up the tribes of Jacob
+and turn back the dispersion of Israel.
+See, I have made you a light of nations
+that you may be for salvation to the end of the earth.
+Thus says the Lord who delivered you, the God of Israel.
+Sanctify him who despises his own soul
+who is abhorred by the nations, the slaves of rulers.
+Kings shall see him and rulers shall stand up
+and do obeisance to him for the Lord's sake
+because the Holy one of Israel is faithful
+and I have chosen you.
+Thus says the Lord in an acceptable time,
+I have listened to you on a day of salvation.
+I have helped you.
+I gave you as a covenant to nations
+who had established the land
+and to inherit a wilderness heritage
+saying to those who are in bonds come out
+and to those who are in darkness that they be revealed
+and they shall feed in all their ways
+in all the paths shall be their pasture.
+Now what in the world does that have to do
+with what Paul was just saying in second Corinthians nine?
+Let's look at the Isaiah passage first
+and then go back to Paul's passage.
+So God is saying here to the prophet
+that he's called him to bring back Israel to himself.
+And notice in the fourth line there,
+see I have made you, I'm gonna, a light of nations.
+That's the same word that Jews use later
+to refer to Gentiles.
+I'm gonna say come back to that in a minute
+that you may be for salvation at the end of the earth.
+Then got this kind of odd language,
+hard to really make sense out of even if you,
+with the Greek or the Hebrew actually in the Hebrew original,
+this part about sanctified, despising souls,
+kings shall see him, et cetera.
+Come on down to the part where just above the yellow,
+he says that because the holy one of Israel is faithful
+and I have chosen you again, a singular you the prophet,
+the specialness of this prophet to carry out God's mission
+to bring Israel back to himself
+and something to do with nations.
+Then he says, thus says the Lord,
+in an acceptable time I've listened to you
+on a day of salvation I've helped you.
+And again, the reason we know the you there is the prophet,
+he keeps on going, I've given you as a covenant to nations
+to establish a land.
+This is your purpose, you prophet.
+Notice a covenant to nations.
+You can be read as a covenant to Gentiles
+and to say those were in bonds come out
+or in darkness, et cetera.
+Now, let's forget for a minute
+about the second Corinthians passage.
+It's often been argued and I think with some justification,
+this may well be a passage that was very important to Paul
+for justifying his own Gentile mission,
+his own chosenness by God.
+According to Paul, God appeared to him
+and gave him a mission to the Gentiles.
+The book of Acts gives a much more vivid narrative
+of him being met on a road to Damascus
+and being told by God, he's sending to the Gentiles.
+Paul doesn't go into that detail.
+It's hard to know if they reconcile or not.
+The point is that in both is the same.
+Paul has a life-changing encounter with God
+as a devout Jew, where he believes God has sent him
+to preach to the nations.
+And look at this passage, God is speaking to a prophet
+telling him, I have made you a light of nations.
+Salvation to the ends of the earth, I've chosen you.
+I have given you as a covenant to the nations
+to say to those who are in darkness, come out.
+I mean, you can just hear Paul reading this whole passage
+as talking about himself.
+Exactly.
+And you know, it's just there's several places like this
+where Paul is not just saying,
+Jesus is fulfilling a scripture,
+which he doesn't really say that much.
+Not just saying the church is the fulfillment of scripture
+that God was pointing to.
+He says, I am fulfilling scripture.
+God has given me a special role in these end times
+as that prophet God foretold in this passage
+to bring the Gentiles to him.
+Wow.
+I mean, and again, you can see how Jews would say,
+what an arrogant jerk.
+Who does he think he is?
+So, you know, it's a, let me stop for that
+before we got the second Corinthians passage.
+Y'all want to comment on that?
+Derek seemed to really be getting into that.
+I guess the comment I would have just for people,
+we don't have time to get into really just making the point
+that when this term nations is mentioned,
+it does not mean exactly the same.
+It has kind of taken on its own,
+in Second Temple Judaism and onward,
+it's starting to morph into something more individual.
+So it's not nationalistic and corporate in the same sense.
+And this is something that like audio fear,
+Ishai Rosen's fee and all of these people
+that I get into this,
+we'll talk about the development of that term,
+ethne, throughout history,
+or Goyim, if you will, takes on a whole new form.
+So Paul is anachronistically thinking
+this is actually literally meaning what he means
+when he's reading his scriptures,
+because he's like a modern fundamentalist wood,
+who's a charismatic thinker, it's applying to him.
+It's applying to us, it's about us.
+And this is exactly an idea
+that we could use as an analogy for Paul.
+Yeah, and if you go back up to the third line too,
+I didn't highlight, it's not exclusively a mission
+to Gentiles.
+It's also a mission to turn back the dispersion of Israel.
+Notice the dispersion, the diaspora over in the Greek
+and the third line, this is the term that Jews use
+to refer to Jews living outside the land of Israel.
+Whereas Paul traveling outside the land of Israel,
+he does, according to the book of Acts,
+preach to Jews also,
+he does seem to have some Jewish converts.
+So he's not giving up on the Jews.
+He doesn't believe he has a mission specifically
+to do diaspora Jews.
+He's not worried about preaching
+to those Gentiles over in Israel,
+but this passage is about him preaching
+to diaspora Jews and to the nations.
+And as it turns out, most of the diaspora Jews,
+as he realizes, reject him.
+And he has to, he argues struggles with that rejection
+in Romans nine through 11.
+And he eventually has a solution for that
+that we might or might not get into here.
+We will in the future broadcast if we don't get to it today.
+And I just wanna point out, yeah.
+So I'm noticing now that there's a mistake here.
+And I don't know, I'll just take the blame for it.
+It's probably my fault.
+I tried to copy and paste a text
+from the new English translation of the Septuagint
+in that left hand column.
+And then the Septuagint on the right hand side.
+So in the line where it says,
+see, I have made you a light of nations.
+That actually in the Greek is,
+So it's saying, I made you into a covenant of the nation,
+or the race, if you will, into a light of nations.
+So there's actually covenant language.
+There's covenant language in the Greek.
+There's covenant language in the Greek
+that didn't get captured in the English translation.
+And I don't know if it's maybe
+because we're talking about different additions
+of the so-called Septuagint.
+That's a whole other rabbit hole
+in terms of recensions and revisions to the Septuagint.
+So we could just be dealing with an English translation
+of a different version of the Septuagint
+where the word covenant wasn't there,
+or I maybe just skipped a line
+when I was copying and pasting.
+I don't know why that is,
+but just so everybody's aware,
+it's I have made you into a covenant for the people
+for the nations.
+Yeah, so it brings that idea of the covenant,
+including the Gentiles.
+I'm glad you pointed that out.
+I hadn't noticed the issue there.
+So...
+Yeah, I tried to proofread this stuff as best as I could,
+but I did it on the fly.
+And if it's a big thing,
+I'll dig into it after the episode
+and maybe Derek can pull up a proper translation.
+It's not that important.
+I just needed to flag it because it actually,
+so I gave you underneath the quote,
+it says, I gave you as a covenant to nations
+to establish the land.
+There, that's what that says.
+You know,
+that's known.
+So a covenant to nations or a covenant of nations,
+it's kind of the same thing in Greek
+to establish the land.
+Good, okay.
+Now, notice the yellow part.
+It's not quite clear what's going on with that part
+in the original.
+God speaking to the prophet,
+in an acceptable time I've listened to you
+on a day of salvation I've helped you.
+That doesn't fit very well with the rest of the content.
+We're not having the prophet praying to God here
+and being listened to and being helped,
+but at least probably one might infer
+that the meaning has something to do
+with the prophet himself is gonna meet
+with rejection and resistance and call out to God
+and he'll help him and be with him or something like that.
+But the burst itself doesn't really fit well
+with its context.
+And most likely, I'm gonna speculate on this,
+what's going on here is,
+Paul has spent time on this passage
+because it's important to his identity
+and his sense of his mission.
+And he knows this is part,
+a nice single portion of the passage,
+pretty basically extracts that out of its context.
+And if you're going back to 2 Corinthians 6,
+he wants to get the Corinthians back to him.
+He's already said, back in 2 Corinthians 5 verse 17,
+a passage that I have never heard anybody mention this
+in a church when pastors like to preach
+on 2 Corinthians 5
+because he's got this language about,
+and if anyone is in Christ, he's a new creation.
+God was in Christ, reconciling the word to himself,
+not kind of trespasses against them
+and trusting the message of reconciliation to us,
+that is to Paul.
+So we are ambassadors for Christ
+since God is making his appeal through us.
+Notice this, he's speaking to Christians here,
+he's speaking to the Corinthians.
+We are ambassadors for Christ.
+We, Paul and his followers,
+we entreat you Corinthians on behalf of Christ,
+be reconciled to God.
+What's he telling them, be reconciled to God?
+Well, they're out of sorts with Paul
+and therefore they're out of sorts with God.
+And so he sees himself as being able to speak for God
+and to call them to be reconciled.
+And so he pulls out of Isaiah 9, this passage,
+at a favorable time, he's trying to say,
+hey guys, now's the time to do it.
+It's a way of taking a text that didn't mean
+a whole lot clearer in its old context.
+But he says, hey, I got some language here that says now,
+do it now, this is the favorable time,
+this is the day, this is the time,
+don't keep putting this off
+and holding a grudge against me.
+And it goes on after that, a few verses further down
+at the end of chapter six,
+actually in verses seven to six, verse 11,
+after the portion of quoted,
+we've spoken frankly to you Corinthians,
+our heart is wide open to you,
+there's no restriction in our affections,
+but only in yours.
+And return, I speak to you as children,
+open wide your hearts also.
+And if we skip over to chapter seven, verse two,
+make room in your hearts for us,
+we've wronged no one, we've corrupted no one,
+we've taken advantage of no one, et cetera, et cetera.
+He's basically urging, he's urgently trying
+to push them in every way he can
+to be reconciled to him.
+And for him, that means also to God.
+And it's like, hey, here's a cool passage
+that underlines, do something now,
+but it doesn't really bear any close relation
+to the original context.
+The wording is identical,
+but the context is fairly strained.
+It's also interesting.
+We've done a lot more time on this than...
+Yeah, and there's a little,
+I'll make a quick geeky note before we move on,
+is that, you know, Kiros Dekthos in the quote of Isaiah,
+you know, means a favorable time.
+And in English, it's just out of favorable time.
+And then he says, behold, now is a favorable time.
+And he actually paraphrases here.
+He calls it Kiros Efpros Dekthos,
+which is essentially a synonym.
+It just means, you know, favorable,
+but it's even more favorable.
+It's, I don't know, that'll be totally lost
+on anyone who doesn't know Greek,
+but it's interesting that he doesn't say, look,
+now is the favorable time using the same word.
+He actually puts it into his own words
+and sort of with some emphasis with the prefix ev,
+or ew, which means good.
+Okay, so if we haven't lost you yet, viewers,
+I think we might do that now.
+Actually, I think this is where people
+are actually going to get...
+There will be chapter markers.
+You'll be able to skip to this stuff.
+So, you know, people may just see in the description,
+Romans nine, they just go right to Romans nine,
+if that's what they're really here for.
+Now, this is a passage where Paul is putting forth
+all kinds of arguments to try to explain why it is
+that inexplicably, the Jews are not responding
+to the message that he's preaching about their Messiah,
+who has come at the end of times,
+and all these Gentiles are responding
+and nobody really anticipated anything like that.
+And he's basically saying in this first in chapter nine,
+hey, God is God,
+you can do anything you darn well pleases.
+Don't question God.
+And so this part here about the Potter,
+and we'll read this in a second,
+but he comes on down toward the end of it,
+he begins, he first makes some broad general arguments
+that God can do whatever he wants.
+And then he brings in some biblical quotations
+from two different books, three different passages,
+and it's gonna get down into the weeds a little bit,
+but if we run out of time and don't get any further
+than this, it will still show some of the creative stuff
+that Paul can do and some of the kind of sketchy stuff
+that Paul can do with texts on occasion
+to bring out and support his own point.
+So let's start with Stephen,
+go ahead and read all the way both slides,
+nine 21 all the way down through 27 for us.
+All right, Romans nine 21 through 24,
+or has the Potter know right over the clay
+to make out of the same lump one object for special use?
+Honor and another for ordinary use?
+Dishonor, what if God desiring to show his wrath
+and to make known his power has endured
+with much patience the objects of wrath made for destruction?
+And what if it is in order to make known the riches
+of his glory upon objects of mercy,
+which he prepared beforehand for glory, namely us,
+whom he also called not only among Jews,
+but also from among Gentiles?
+You're on mute, Dr. Stanley.
+Before I move on to the next slide, let him continue.
+I'll note that the quotations now are explicitly
+seeking to justify that last statement
+that he called us as his people,
+not only from among Jews, but also from among Gentiles.
+So here's how he kind of justifies that.
+As he also says in Hosea,
+I will call those who were not my people, my people,
+and her who was not beloved, beloved,
+and it shall be that in the place
+where it was said to them, you are not my people,
+there they shall be called sons of the living God.
+Isaiah cries out concerning Israel,
+though the number of the sons of Israel
+may be like the sands of the sea,
+only the remnant will be saved.
+Okay, and let's hold off and stop there.
+Now, let's all look at this.
+Let's assume we do not know the original context
+of any of these things,
+which would be the case with Paul's audience,
+as I have argued.
+And so we see that he's made this argument
+that God can do whatever he wants,
+wants to explain how Jews and Gentiles are included.
+I'm gonna argue that you don't have to know
+any original context to follow the basic idea
+that Paul is making here.
+Paul says, God says in Hosea,
+hey, if God says it in Hosea, wherever that is,
+it must be authoritative.
+And look, here's a verse where God says
+he's going to call people who aren't his people,
+and you're supposed to infer from that Gentiles
+who were not his people.
+He assumes they know they were at one time
+and not part of God's people.
+I'm gonna call them my people.
+And her who was not beloved, beloved.
+And in the place where it was said to them,
+you're not my people,
+they shall be called sons of living God.
+Hey, that sounds like a prophecy by God,
+way back somewhere in the scriptures,
+that there's gonna come a time
+when those who were not God's people
+are gonna call God's people.
+Hey, you know, Paul's taught us,
+that's what's going on here in these end times.
+Gentiles are being included,
+based on what we know of Paul's theology and teaching.
+What do you know?
+We got a good biblical warrant there
+for God, including the Gentiles.
+And then he says, and I said about the Jews are included,
+but look, he's got a more negative passage of them.
+And again, it makes sense without context.
+Though the number of the sons of Israel
+may be like the sand of the sea,
+only the remnant will be saved.
+Hey, look around, there aren't that many Jews
+that are following.
+Look, it was prophesied by Isaiah,
+that only a few Jews are gonna come around.
+What do you know?
+We got two pastors here that say,
+at the end time, God is going to include those
+who weren't his people, the Gentiles, and his people,
+and that most of the Jews are gonna reject it,
+only a small number, a remnant, are going to be saved.
+Well, Paul, boy, I think you really must be telling the truth
+because you can quote good scripture
+and support your argument, right?
+Yeah, and you can imagine the rabbinical argument
+against this, so it's probably anachronistic,
+so rabbinical, but you could imagine the Jews
+who are opposed to Paul would be saying,
+wait a minute, what is this remnant
+that you're talking about in the first place, right?
+Like in the Greek, it's Epolymy here.
+And that is the remnant, the number of Israel
+be like the sands of the sea, only the remnant,
+a portion of those sands of the sea will be saved, right?
+So if you're a Jew, you're gonna say,
+but no, that's referring to the Jews.
+This is the remnant of Israel.
+What are you talking about, Paul?
+Well, let's get there.
+Let's start by looking at the Hosea passages.
+And we're not gonna take the time
+to read all of Hosea chapters one and two,
+but those of you who had some time around church,
+you might have heard a pastor give a sermon sometime
+where this prophet named Hosea is told by God
+to go take a wife who turns out to be unfaithful.
+And she has three children with him though before that.
+And they're each given names that are symbolic
+of God's attitude toward Israel at the time,
+that you're not my people, that you're not pity,
+that basically it's Israel's really screwed up.
+And so now after, he does say that there's gonna come
+a time when that's gonna be reversed.
+And we do have the quotes, the past just Paul is quoting here.
+He first quotes a little excerpt, let's go back here,
+from Hosea chapter two,
+he's talked about how Israel, personified as a woman
+in Hosea chapter two is going,
+has worshiped the false gods
+and is gonna go through a time of trial.
+And eventually after trial and torment,
+she Israel will turn around, return to God.
+And in that day then, we have this quote
+that we have here on the slide.
+She wanna read this, Stephen.
+And this is at the end of this thing
+of where he's going to say that Israel now,
+the woman Israel turns back to God and says,
+you're my husband, I wanna return to you.
+And this is God's response to that.
+Yeah, this is Hosea chapter two,
+it's verses 21 through 23
+and probably most people's Bibles,
+it's 23 through 25 in the Septuagint.
+And it shall be on that day says the Lord,
+I will give heed to the sky
+and it shall give heed to the earth
+and the earth shall hear the grain
+and the wine and the oil
+and they will give heed to Yisra'el
+and I will sow her for myself in the land
+and I will have pity on not pitied
+and I will say to not my people, you are my people
+and he shall say, you are the Lord my God.
+And it's Jezra'el in English,
+the Nets translation of the Septuagint,
+transliterates all of those with eyes.
+So I read it as Yisra'el.
+Now in the context of Hosea,
+who are the people who are not pitied and not my people
+who are now going to be called my people?
+The northern Israelite dispersion.
+It's the people of Israel.
+Right.
+Is there anything here about Gentiles?
+Nope.
+Mary a word.
+Okay, let's go to our other passages that Paul quotes.
+He then quotes the excerpt from,
+and by the way,
+we'll come back to him at the way he does the words.
+He then quotes from a little passage in chapter one
+where he makes a similar point
+where he says is going to come a time,
+use a similar language
+when there's a similar turnaround time.
+And he's just talked about the sons
+who are returning to Israel,
+the number of the sons of Israel, et cetera.
+And so then we,
+so read this passage to us.
+Hosea 1-8 through 1-11,
+this goes into chapter two in the Septuagint.
+And she weaned not pitied and conceived again
+and bore a son.
+And he said, call his name not my people
+for you are not my people
+and I am not your I am.
+And the number of the sons of Israel
+was like the sand of the sea
+which shall not be measured nor numbered.
+It shall be in the place where it was said to them,
+you are not my people,
+they too shall be called sons of a living God.
+And the sons of Judah
+and the sons of Israel shall be gathered together
+and they shall set up for themselves one realm
+and they shall go up from the land
+for great shall be the day of Jezreel.
+And so who's he talking about here?
+Really clear, isn't it?
+The sons of Israel, the sons of Judah, the son of Israel.
+These both of these passages have to do
+with the time that he's anticipating
+when Israel after all their idolatry and sinfulness
+will turn again to God
+and he will then receive them back again.
+Not a word here about Gentiles, is there?
+Nope.
+And he also has to do some funny things with the,
+he just pulls a couple of words out of the first passage
+that kind of sound good and excludes the rest of it
+because the rest of it wouldn't really fit with his meaning.
+So Paul is taking a passage here from the book of Hosea
+that originally refers to Jews,
+I'm sorry, Israelites who are going to return to God
+in repentance after being punished
+and Hosea elsewhere in the book makes clear
+that's exile to the land of Assyria,
+that they are then going to repent of their sins
+and God will restore them to their land, et cetera.
+And so he's anticipating here what he's gonna say later
+that on that day, he will once again accept them
+as my people has nothing whatsoever to do
+with anything to do with Gentiles.
+And if somebody had known the original context,
+it's pretty easy for them to say, wait a minute, Paul,
+what are you doing?
+This has absolutely nothing to do,
+this does not support your point.
+On the other hand, if you go to the Isaiah passage
+and let's look at the original passage there,
+let's have Stephen read this one.
+It's a simple kind of passage about a restoration of Israel.
+This is Isaiah 10, 20 through 23.
+And it shall be on that day
+that what remains of Israel will no more be added.
+And those of Jacob who have been saved
+will no more trust in those who have wronged them,
+but will trust in God, the Holy One of Israel in truth.
+And what remains of Jacob will be to the mighty God.
+And if the people of Israel become like the sand of the sea,
+the remnant will be saved,
+for he is completing and cutting short
+a reckoning with righteousness,
+because God will perform a shortened reckoning
+in the whole world.
+So this whole passage in the broader context
+is talking about a future time
+when those who have been faithful to God
+will be saved from judgment
+and then everything's gonna be great for them
+in a wonderful glorious restoration to the land.
+We go back to Paul and that is pretty much what Paul is saying.
+He's saying that day has dawned.
+Now, when a remnant of Israel is going to be saved,
+but of course in the Isaiah context,
+the saved here has to do with being saved from exile,
+restored to their land and given prosperity
+has nothing to do with eternal salvation,
+has nothing to do with the final judgment,
+nothing to do with Christian faith or anything like that.
+So the general idea he wants to make,
+if we go back a slide here,
+that God has including Gentiles in the people of God,
+I mean, sorry, including some Jews.
+Okay, he's pretty consistent there at least
+with what Paul is saying,
+but as Stephen was saying earlier,
+a Jewish reader who knew the scriptures would say,
+but Paul, the same thing is also true
+of the first part of what you quote there.
+It's all about the restoration of Israel.
+Shouldn't you be quoting that to say that actually,
+God is going to restore all Israel to himself
+at the end of days?
+Or okay, you're gonna say this Isaiah passage
+might limit it to a remnant, okay,
+but nothing here in the context says anything
+about any inclusion of Gentiles.
+So if I may jump in here,
+just to get a few, once again, clarifications,
+because you're obviously pointing out,
+this is definitely not meaning
+what the original context is meaning.
+But for us to understand maybe what Paul thought
+in his day, when we read the original,
+we hear about two houses.
+We're kind of getting this idea,
+this is all about Israel collectively,
+the 12 sons of Jacob is the image Jacob has mentioned.
+Jacob can also be kind of representative of,
+well, that term Israel, if you will,
+would be representative of the Northern Kingdom
+if we go back.
+Assyria, clearly the Northern Kingdom is exiled
+and they become diaspora.
+The same thing ends up happening under Babylon
+with the Southern Kingdom, Judah, et cetera.
+I don't wanna give a whole history lesson,
+but I do wanna ask you this.
+In Paul's day, when he uses the term Israel
+here in his letters, or yeah, his letters,
+he means the Jews.
+Right.
+He does not mean anything but that.
+Right, we'll probably have to unpack that
+in our session we're gonna do about Jews
+and Gentiles and ethnicity in the ancient world.
+So I'll just say basically, yes,
+if you look at Romans nine through 11,
+he seems to use the terms fairly interchangeably.
+Thank you.
+I just, maybe we can go further at some point.
+Could we go back a little bit
+to the earlier passage in the Romans time?
+Let me say this word about his on social context.
+His problem that he's trying to grapple with
+in Romans nine through 11 isn't,
+why are the 12 tribes, 12 Northern tribes,
+which have disappeared entirely from the historical record,
+not listening to my message?
+Right.
+His problem is, why are the Jews in my day
+not listening to my message?
+And so he quotes these texts from the Jewish scriptures
+in an effort to answer that pressing theological question
+for him, why are these Jews, my fellow Jews,
+not responding to the message that I'm telling them
+about the coming of their Messiah?
+And so in his mind, he sees no problem applying texts
+that refer to ancient Israel and the Hebrew Bible
+of the Jewish scriptures to the Jews of his own day.
+He reads the two is equal.
+And can we go back to the 921 section,
+I just wanna clarify.
+So yeah, special use is the word to me in Greek.
+It's honor and ordinary use is at the me.
+I don't remember dishonor.
+I don't remember which translations those come from,
+but I just wanted to put in parentheses
+what the literal meanings were.
+So what is he doing there describing these,
+skevy, these like objects, these vessels,
+that's otherwise literally translated,
+the object is a vessel, vessels of wrath.
+And what is going on here?
+Is this kind of Calvinistic,
+like he's predetermined that he's gonna destroy some people
+and he's gonna save others
+and he knows in advance what he's gonna do.
+Okay, let's move on to the next passage.
+Oh, that's great.
+No, I think that since that has nothing to do
+with Paul's use of scripture, which is our topic here,
+I will not get into detail,
+but I think that this is certainly a passage
+that has been used that way.
+I'll just make one little point in response.
+There's nothing here that's talking about individuals.
+His problem is Jews as a people and Gentiles as a people.
+Gentiles are a quasi people.
+There's nobody, people are not going around saying
+I'm a Gentile, but in Paul's mind,
+there are two people groups here.
+And the question is, where did he each fit in God's plan?
+And he's basically saying, God has a right to do
+whatever God wants with each of those two groups.
+And he goes on to unpack further
+in the verses that follow what he means by that.
+That is that God has the right to incorporate Gentiles
+into his people and God has a right to reject those Jews
+who don't respond to his message.
+The ones who do are the faithful remnant.
+So it's not a predestination of individuals in view here.
+It is a predestination of history to some degree,
+a guiding of the broad parameters
+such that God can manipulate and maneuver Jews and Gentiles.
+And of course, later on he's going to say in chapter 11,
+God's ultimate purpose in maneuvering these nations
+was he wanted Gentiles to come to faith
+to make the Jews of his day jealous.
+So they'd say, hey, I want some of that too.
+And therefore God has this ultimate plan
+that there's gonna be this restoration of Israel
+in some vague, ill-determined way
+that can be read in different ways.
+So the whole passage is about the maneuvering
+through history of what God does with the Jews
+and the Gentiles, the people of Israel
+and the people of the nations.
+And he really says nothing in here about individuals.
+Okay.
+Okay, that good enough to move on?
+Yeah, yeah, skip on.
+Okay, we're taking more time to plan
+but I guess we really have to at least cover one
+in the category that clearly conflicts
+with the original context.
+And it's a complicated one.
+I'm gonna skip parts of it, but Galatians 3.
+Let's skip verse 14 and verse 14 and just looking.
+And second one is four.
+Maybe Derek can put these slides out
+for people who want to read these for themselves.
+But let's go to Galatians 3.
+And I'm gonna only spend a moment on this first part of slide
+but let's go ahead and read all.
+Let's read just this slide and I'll come in briefly
+and we'll spend our time on the second slide.
+And I think we have to wrap it up there
+to kind of get to the concluding portion here.
+So go ahead and read us this slide, Steve.
+All right, so we have Galatians 3.6 through nine.
+Just as Abraham believed God
+and it was reckoned to him as righteousness,
+therefore recognize that it is those who are of faith
+who are sons of Abraham.
+The scripture foreseeing that by faith
+God would justify the Gentiles by faith.
+I think I have a duplicate there.
+Preached the gospel beforehand to Abraham
+saying all the nations shall be blessed in you.
+So then those who are of faith
+are blessed with Abraham, the believer.
+Yeah, I corrected some of the errors in these slides
+and what you're seeing now is an older draft unfortunately.
+Don't worry about it.
+So we have here the, Paul is dealing with these Christians
+in Galatia and central or southern Turkey
+by our modern geography.
+And some people have come into this church
+after Paul has preached to these churches
+and told them, you know, that Paul guy, he misled you.
+He told you that this new that as Gentiles
+you're like something different than Jews.
+But if you look at these Jewish scriptures,
+they say that even Gentiles who want to be part
+of Abraham's family in Genesis 15 have to be circumcised.
+And therefore you folks in order to rightly be part
+of God's people need to be circumcised.
+And you also need to obey the laws
+that God gave to his people later.
+And Paul hears about this and he goes,
+ah, you know, that's not true.
+Cause for him, while Paul is never clear
+about the question of Jews
+who become Christ followers observing the law,
+he seems to feel like that's okay.
+It doesn't matter they can do or not, I think,
+but he's not clear about them.
+But he says to tell Gentiles
+after they have expressed faith in Jesus,
+turned from their idols and turned to follow him,
+that now they need to do some visible outward sign
+of circumcision instead of obeying these laws
+is to miss God's purpose.
+That was only for the Jews.
+And so he wants to, he's making an argument.
+He does an ingenious argumentation here
+and he does it somewhat differently
+but a similar argument in Romans four.
+He basically says, hey, God had this two tracks.
+He had this one track where he was talked to Abraham
+about all his descendants were gonna be blessed
+and they meant literal descendants.
+And that's the Jews of our day.
+And then he's got this other track over here
+where he said, and all the nations
+are gonna be blessed in you.
+And he goes on to unpack this in various ingenious ways
+to say, that's where God foreshadows his plan
+to include the Gentiles.
+Remember this word nations is exactly in Greek,
+the same word, ta ethne,
+that's translated as Gentiles in our English versions.
+So Paul reads that, Paul preached the gospel,
+scripture preached the gospel beforehand to Abraham saying,
+all the Gentiles shall be blessed in you.
+He quotes the text word for word
+and he's using it in a way that
+is arguably, I mean, it's not clear in the Genesis passage
+what is meant by the nations being blessed
+in Abraham's descendants.
+And one reading is blessed themselves by you.
+Like, you know, Abraham is,
+we wanna be like that, like that Abraham.
+You wanna show that slide with the difference
+in the word.
+Yeah, there are different passages.
+It could be, it's vague enough,
+it could be any of these three.
+Yeah, I've tried to highlight where,
+there is not one single one of these four passages
+that matches Paul's wording.
+Exactly.
+The first three.
+Yeah, I mean, there's,
+so I'm not gonna read all of these
+because they're repetitive,
+but in Genesis 12, it's,
+all the tribes of the earth shall be blessed in you,
+which in you, shall be blessed in you is consistent with Paul.
+But then in Genesis 18, it's all the nations shall be blessed.
+In him, that's a mismatch.
+And Genesis 22, it's all the nations of the earth
+shall be blessed in your offspring.
+Again, mismatching with Paul.
+And then Genesis-
+But with Paul, you could see how Paul would easily say,
+in him, sure, that's Jesus.
+In your offspring, the offspring of Abraham is Christ.
+So everything becomes Jesus and Paul and us.
+And I could see how he would do this though.
+It's just that you just can't point,
+you just can't point at like,
+oh, this is where he got it.
+Like he got it from 22 or 18 or 12.
+It seems like he just sort of took the ideas from all of them
+and just made his own unique sentence here
+that has pieces of all of these,
+but there's not a single,
+you can't say he's quoting this verse there.
+Yeah, I think he probably has Genesis 22 in mind
+for the reason that Derek was just saying.
+For our translation there says,
+I will make your offspring and all the nations of the earth
+will be blessed in your offspring.
+As Derek pointed out, the Greek literally says your seed.
+And a few verses later in Galatians 3,
+Paul makes the rather audacious claim,
+that seed that Abraham was talking
+that God was telling Abraham about, that's Jesus.
+God was, and it's through faith in Jesus
+in that the Gentiles are made right with God.
+And it goes on in Abraham, in Romans 4,
+make a slightly different argument
+that God justified Abraham by faith when he was a Gentile.
+So Abraham is in Romans 4,
+a model of how Gentiles are right with God by faith
+before God told him to be circumcised,
+before there were any laws.
+Abraham is he circumcised,
+a non-circumcised Gentile, just like you people.
+So he's doing a number of different things
+to basically find a place somewhere way back
+before the law was given
+that Gentiles are acceptable to God.
+Because he's got this problem he's gotta deal with
+that in Genesis 15, he says,
+circumcise the foreigners born in your house,
+i.e. Gentiles gotta be circumcised.
+So he's gotta quote scripture
+against the scriptural arguments of his opponents.
+I think he does a pretty ingenious job of what he does.
+I mean, it's kind of, you say,
+okay, is this what Genesis was talking about
+some future time when Gentiles would come to faith in God
+through Jesus not obeying the law?
+No, but can we see how he got there?
+Can we see the path of interpretation
+and how he could take that as referring
+to this kind of separate plan God had
+to eventually lead to the Gentiles?
+Well, yeah, you can see how he gets from point A to point B.
+And of course, Jewish opponents of Paul would say,
+Paul, uh-uh, yeah.
+And can you go back to Galatians three
+just so it's on screen?
+So again, just reiterate a specific point.
+You know, when people were hearing this in Greek,
+what they hear Paul saying is that by faith,
+God would justify Taethni, by, it's, you know,
+it's by, yeah, the second iteration of by faith,
+there shouldn't be there.
+It's by faith, God would justify the nations, Taethni.
+Here it's translated as Gentiles with a capital G.
+Preached the gospel beforehand to Abraham,
+saying all the nations, Taethni, shall be blessed in you.
+So when you are reading this in Greek,
+or when you're hearing it in Greek or back then,
+it is the exact same word being repeated.
+And when it boils down to us in a translation
+for our benefit, you know, the translators,
+the translation conceals this double meaning
+because what you see here is you see Gentiles
+with a capital G, and then you see nations
+with a lower case N, and you don't really get
+that it's the same word unless you're looking,
+you know, at the Greek.
+Yeah, so we could see how, at least if Paul
+were engaging with a non-Christian Jew with this,
+we at least saw, you see how he could make his case
+that this passage might be something about
+another path for Gentiles, you know,
+he wouldn't automatically be run out of court.
+But when we come to the second part of the passage,
+this is where it gets kind of wild and hairy.
+So let's, and this is where I'm gonna argue,
+Paul could not have counted on his audience
+knowing the original context
+because these verses could easily be used against him.
+So read Galatians 3, 10 to 14.
+For all who are of works of the law are under a curse,
+for it is written, cursed is everyone who does not abide
+by all the things written in the book of the law
+now that no one is justified by the law
+before God is evident,
+for the righteous one will live by faith.
+However, the law is not of faith.
+On the contrary, the person who performs them
+will live by them.
+Christ redeemed us from the curse of the law.
+Having become a curse for us, for it is written,
+cursed is everyone who hangs on a tree.
+So that in Christ Jesus, the blessing of Abraham
+would come to the Gentiles
+so that we would receive through faith
+the promise of the spirit.
+Okay, let's look at this passage again
+with no knowledge of original context.
+And here's what Paul is doing rhetorically.
+He's trying, he says, those who are of works of the law,
+he's mean, those who are doing what these outsiders
+say you should do, being circumcised
+and obey the Jewish laws.
+Well, look, I can quote a verse from the scriptures.
+It says, that's not a course of path of blessing.
+That's a path of cursing.
+Look, here's a passage that says,
+if you don't keep all those laws, you're cursed
+and implicit is an idea that doesn't state,
+nobody's able to keep all the laws.
+So he concludes that he wants them to draw the inference.
+Okay, this is a path of cursing, not a blessing.
+Then he makes the next point to say further,
+you can't be justified by the law
+because look, I can quote this passage
+from the Old Testament that says,
+faith is the way that you're made righteous.
+And he says, but the law, that's not about faith.
+You gotta do the laws.
+He's setting out two paths here,
+one of faith, one of obeying laws
+that are radically different.
+Yeah, again, you don't need no context
+if you trust him that he's rightly interpreting texts.
+And he says, Christ became a curse.
+That's where the curse falls, the curse falls on Jesus
+and on those who try to obey the laws
+and don't live up to them.
+If you go back and look at the actual context here,
+we find Paul is doing some strange things.
+The first quotation,
+I'm not gonna put the original context up there
+because there's not much of a context to it.
+This is long chapter in Galatians, Deuteronomy 26,
+where Moses pronounced all these different curses
+if you don't obey this law and that law and the other law.
+And it ends with an example.
+I don't have to read it
+if you just want it to be on screen when you talk about it.
+Well, I don't think it really needs to, yeah, it's right there.
+Oh, it's not the full context anyway.
+Yeah, I mean, there it is.
+Basically, if you don't obey all these laws,
+you're gonna be cursed by God and to say amen.
+In one sense, Paul is being faithful to it.
+He's not doing, he's quoting it word,
+almost word for word.
+And the basic idea, okay, you're cursed
+if you don't abide by it.
+But the idea that you can't abide by them
+is never demonstrated, never proven.
+And in fact, Paul says them for Philippians three rather,
+he himself was blameless in accordance with the law.
+Wait a minute, what?
+He was blameless.
+So he would say, he's already seen in Philippians three,
+he did not fall into that curse.
+So there's something odd going on.
+He wants them to draw an inference
+that he himself doesn't upheld elsewhere.
+Well, let's let that one pass.
+Where it really gets challenging is the next part.
+I'm gonna skip over the righteous one first and go
+to the second one, Leviticus chapter 18 verses one to five.
+He says, well, we'll talk quickly
+about the Habakkuk passage.
+If we look at the Habakkuk passage in its context.
+Skipped over.
+Yeah, skipped over.
+There.
+This is a passage where Habakkuk is speaking
+to the prophet about a time to come
+when God will work out his purposes.
+It don't seem to be being worked out in the present.
+And he says, basically stick with me.
+The just shall live by my faith.
+That's not a very good translation.
+Literally it says in the Greek over here,
+the righteous one will live on the basis of my faith.
+And there's my is God here.
+The word faith in Greek is also can be translated
+into the context is faithfulness.
+And that's clearly what's going on here.
+It's God's faithfulness.
+He's not talking about an individual's faith.
+In the midst of all this, God is faithful.
+You can trust me that I'm going to bring down
+these Babylonians who are oppressing you people
+and that doesn't seem to be any righteousness.
+And where's God in the midst of all this?
+Trust me, I'm gonna be faithful.
+Paul takes that and leaves out the word my
+and then translates it kind of literally.
+If you leave out the word my,
+you come up with this exact same Greek over here.
+So out the my, it literally says,
+the righteous will live on the basis of faith,
+which is kind of what he's got here.
+The words of the quote support what he claims.
+He said, that's not what Habakkuk was saying.
+Habakkuk was talking about God's faithfulness
+at a time when things look difficult and nonsensical.
+Even worse is what he does with Leviticus.
+If you go over to chapter, to Leviticus, chapter 18,
+at the end of a passage where he's talking about
+the importance of obeying God's laws.
+You need to obey these laws.
+He says, my judgments, you shall perform my ordinances.
+You shall keep the walk in them.
+I am the Lord your God.
+And you should keep my ordinances and all my judgments.
+You shall do them.
+And as the person, the things the person does,
+you shall live by them.
+Or it could say, the man who does them will live by them.
+Paul is saying-
+Or in them.
+Yeah, in them, getting in or by.
+In other words, Moses is saying Leviticus,
+you need to obey these laws.
+That's how you live.
+That's how you have life and blessing from God.
+Just like he said in the Deuteronomy passage,
+you're cursed if you don't obey them,
+you're blessed if you do.
+The next chapter in Deuteronomy is all about
+blessings that come to the people who do obey God's laws.
+I should have said that earlier.
+He assumes they can obey them and receive all these blessings.
+Humans have a choice to obey or not.
+And Leviticus, by obeying those laws, you live.
+But Paul, on the other hand, wants to see that
+as contrary to faith.
+The simple Jewish answer to that is,
+I obey the laws as an expression of my faith in God.
+There is no radical bifurcation between faith and laws
+in these passages, Paul.
+In fact, there's no bifurcation of faith in law
+anywhere in the Jewish scriptures.
+Law is the terms by which the people of Israel
+are to live out their faith, their devotion,
+their faithfulness to the covenant with Yahweh.
+And so it's very easy for a Jewish interlocutor
+who knows these texts to say,
+Paul, these texts actually say something,
+they support your opponents.
+They say-
+And the opponents, which clarify who the opponents are
+in Galatians, right?
+These duty-izers.
+Yeah, Christians who think that these Gentiles
+need price followers who tell them these Gentiles,
+they need to observe, be circumcised
+to obey the Jewish thought.
+He's not saying you should have never become Christians.
+He's saying to be rightly related to the God of Israel,
+you need to be circumcised to obey the laws
+that they're saying that, and he says that's wrong.
+They just gotta come around and quote these same verses
+back to Paul and say, look right here,
+it says, obey the laws as an expression of your faith.
+Okay, so real quick, I get the hint,
+and I mean, this is speculative,
+but I get the hint that he's talking about Peter,
+or at least people in that, using him as an example, okay?
+Cause he's like, you hypocrite, what are you doing?
+Like you're trying to pretend you're this to one-
+The relationship to one.
+Yeah, and that seems to be the like template
+for this outline of this issue.
+And I think he might be dealing with the Jerusalem church
+that gave him a thumbs up and then gave him the thumbs down.
+I think that's what's going on.
+But in Galatians 4, since we're in,
+I know it's out of this pericope,
+but just your thoughts before we let you go,
+cause we have to go in and maybe finish these things.
+There's this huge problem that came up in Galatians 4
+that I was wrestling my head around.
+We're talking about all of this is being done
+so that the blessings could come to the Gentiles.
+And Paul says in verse 4 of Galatians 4,
+but when the time had fully come,
+God sent forth his son, born of a woman,
+born under the law to redeem those who were under the law
+so that we might receive adoption as sons.
+And because you are sons,
+God has sent his spirit of his son, et cetera, et cetera.
+Do you know what he's trying to do here?
+And is he talking to Gentiles?
+Is he talking to both?
+Maybe Stephen could take over better from this part
+to kind of give you-
+In the interest of time, why don't we postpone that?
+But I will say Paul does some funny things there.
+And also in this passage with shifting himself into we,
+sometimes he seems to include himself with the Gentiles.
+And in that passage is especially evident,
+but I think there's some funny things going on rhetorically
+there that would get us a little afield here.
+So let's come back to that another time.
+And that happens here too, because he says,
+so that the blessing of Abraham would come
+to the Gentiles or the nations.
+And then Lavomen at the very bottom
+is like so that we would receive.
+So what is Paul a Gentile?
+It seems to be identifying with that side.
+Or a whole new family of God.
+See, that might be the point is
+where there's a one family in Christ
+and this is a whole different category.
+Anyway, Dr. Stett.
+Before we leave, we've got to bring this to wrap this up,
+but I have to say a quick word about the last one there
+from Deuteronomy 21.
+Cursed is everyone who hangs on a tree.
+Hey, obvious there's the curse that God put upon Jesus
+for the sins of humanity, right?
+Well, let's go look and see what Deuteronomy 21
+is actually about.
+Stephen wants to read this one for us.
+All right, Deuteronomy 21, 22 through 23.
+Now, if there is in someone's sin,
+a judgment of death, and he dies,
+and you hang him on a tree,
+his body shall not sleep upon the tree.
+But with burial, you shall bury him that same day
+for cursed by God is anyone hanging on a tree,
+and you shall not defile the land
+that the Lord your God is giving you as an allotment.
+So what's he saying here?
+When you punish somebody and you might hang his body,
+his dead body up on a, as a public example for everybody,
+you can't just leave it out there for the crows
+to eat his body up.
+That defiles the land.
+That's what those other people outside do.
+You got to give him a proper burial.
+And so what you should not do
+is hang somebody on a tree and leave them there.
+You can see how Paul would see,
+okay, hanging on a tree, burial.
+Okay, yeah, this is about Jesus crucifixion
+and burial and resurrection, right?
+But the passage has nothing whatsoever to do that.
+It's not being, it's not that hanging hung up,
+even if you give him the possibility,
+it's crucifixion, which is not being talked about here.
+This is not hanging on a tree as a means of death.
+It's a means of public display after death.
+But even if you granted him that,
+the curse is not in the hanging on the tree,
+it's being left without burial,
+being left there and it's a curse
+that upon that person and the land and all, et cetera.
+So basically, this passage has nothing to do
+with crucifixion and has nothing to do
+with the curse coming upon a person
+because that person is crucified.
+Paul just finds some words that involve cursing
+and hanging on a tree and burial.
+He says, okay, this has got to relate to Jesus.
+He quotes a portion of it, leaves out the rest of it,
+reframes the wording, leaves out cursed by God
+because that might be a bit of a problem for him.
+Jesus was cursed by God.
+And it's one thing to say Jesus is,
+the sins were cursed, but say Jesus was cursed.
+So he leaves that part out and just says,
+so he finds some words that seem relevant.
+So basically bottom line,
+and we've got to end our deep passages with this,
+is this part, Galatians three,
+you can easily see how a Jew who knew the context,
+if we either want all these texts would say, Paul,
+okay, you just need to go back to school, Paul.
+I mean, you need to go back and look at these passages again
+and realize that they actually undermine your argument,
+that none of these things say the things
+that you want them to say.
+In other words, again, I think Paul is counting on
+his Gentile audiences, not knowing the original context,
+accepting his ability to quote from scripture
+as an authoritative, literate Jewish male.
+And he makes, if you grant him just what's there
+without the context, you say, oh, okay,
+he quotes scripture in light of the,
+in support of his idea, Jesus died for us.
+It's become to him through faith, not by obeying laws.
+We shouldn't listen to these guys who are coming in
+and telling us we need to be circumcised and obey the laws.
+Thank you, Paul, for showing us that from scripture.
+Well, well put, let me just make one,
+let me tell you one example of how this made me think.
+When I was part of a KJV-onlyist,
+King James Version-onlyist church, charismatic,
+speaking in tongues, rolling on the floor,
+the whole nine type of church,
+we believed that Jesus died and descended into hell,
+not to reign, he also was tortured in hell.
+I'm not making this up, this is what the church taught.
+Yeah, and he was punished for three days,
+and we knew that a day was like 1,000 years,
+so technically we could be literal in saying, in God's eyes,
+he was tortured for 3,000 years,
+but this is the kind of wild speculative interpretation
+we did, but we would read the Psalms,
+and we would find these cries of agony,
+and we believed that this was the voice of Jesus
+crying in hell, and we really interpreted it this way.
+And I'm not making this up,
+eventually I started to become more serious
+about understanding maybe what is really going on
+in the context, became a Calvary Chapel guy,
+and then eventually a Presbyterian in the reform faith,
+and then it was history from there,
+I got excommunicated for coming to some positions.
+I just kept moving my ideas,
+and became a full Preterist, et cetera.
+The point is, this is a radical reinterpretation
+of just looking for Jesus in places that he may not be,
+but you see him, because this is the mindset of Paul
+looking in scriptures to find how this fits his day, et cetera.
+So my final question to you would simply be,
+given what we've seen in these examples,
+how would you summarize what Paul was doing
+when he quoted or alluded to Jewish scriptures?
+And what does that do for us today, right?
+Yeah, I mean, I think that even though we look at these things
+through the lens of modern ways of interpreting texts,
+we look at them in the post-enlightenment era,
+we believe that any text, not just a biblical text,
+you need to look at it in its literary context,
+in its historical context,
+and that's where we determine meaning,
+and we might be able to apply that meaning to our own day.
+And again, I'm not talking about religious texts only,
+it could be the Constitution.
+This is what the Supreme Court does
+when they're interpreting the Constitution.
+It's kind of a modern way of thinking about
+how you determine right and wrong meanings of texts
+or uses of texts.
+You look back at the original context,
+you look at the meaning of the words,
+you look at them, how they fit in their literary context.
+That is, quote, the right meaning,
+the true meaning of a text.
+Paul and the Jews of his day didn't have that idea.
+I mean, Paul is not the only person doing this.
+You go back and you look at the Dead Sea Scrolls community.
+These are Jews who believe, like Paul,
+that they are living in the end times
+and they interpret the Jewish scriptures
+as talking about their group, about their teacher,
+their leader, and their role in the end time plan of God.
+And so other Jews who did not have this apocalyptic mindset,
+if you work some in the rabbinic texts,
+they similarly come up with all kinds of things
+that we would define as free meanings
+because we start with this notion
+that meaning is to be determined by historical context
+and literary context, et cetera.
+And all of these people are more concerned
+about their life context.
+How do you apply it?
+And in that sense, Paul is simply doing the same thing
+with his group, the Dead Sea Scrolls community
+is doing with their group.
+And somewhat in a less direct way,
+the same kind of thing the rabbis are doing
+to apply to the post-70 Jewish community in Israel.
+In other words, they're all driven by similar concerns,
+pastoral concerns, and meaning-making concerns
+to understand who they are, their place in history,
+what they should be doing, and what is coming ahead.
+And so in a sense, the kind of people you were talking about
+that you were in, and really much of historic Christianity
+who wouldn't hold to the same idea as you held,
+but would interpret these scriptures
+as they were saying to Jesus and the church,
+basically do the same thing Paul was doing.
+In other words, within Christianity,
+all the way through history,
+is this assumption that the Jewish scriptures
+were not written just for the Jews.
+They were not written just about Israel,
+that they are talking about Christianity,
+in one way, shape, or form.
+And so therefore, we have a right,
+because they are our scriptures,
+to go back and mine those texts
+from meanings that may not have been intended or known
+by the original authors, but that were known by God,
+and that God can now lead us into the right understanding.
+Now, obviously that opens up all kinds of cans and worms,
+because we know that people, Christians,
+have said all kinds of scurry things,
+and have disagreed about virtually everything,
+as far as this is God's true meaning of these texts,
+and his true application of those texts.
+And so the principle, if we try to follow it,
+as long as we get the thousands of Protestant dominations
+with all kinds of different teachings, et cetera, et cetera.
+And yet, is there a way out of that?
+In a sense, no.
+I mean, really essentially grammatical historical
+interpretation, which is what I meant
+by the real meaning of the text,
+is in looking at the history and the literature context,
+that is a way of trying to honor
+a set of interpretations above other interpretations.
+And one of the funny things in literary studies
+for the last few decades is basically to say,
+texts don't have meanings,
+meanings are either in the author alone,
+who brings them to the text,
+or they emerge in the engagement of an author with a text.
+So we might say that in many ways,
+what Paul is doing is what readers have always done,
+with all texts, when they're in a community
+that has an identity that they want to apply though.
+So just as Supreme Court applies to the Constitution,
+to our country, to say, what does it mean for us today?
+Paul is doing it out of the scriptures.
+And is he doing it rightly?
+Well, traditionally, historic Christians would say,
+yeah, because, I mean, he was Paul.
+He was led by God.
+He was the one whose words got in the scriptures.
+We trust, we obey, we just have to say,
+Paul got it all right.
+But as we've seen today,
+if you look at Paul through another lens,
+you gotta say, well, if he got it right,
+he sure didn't do it the way we would.
+In fact, I'll close by saying Greg Beale,
+he's a more conservative, actually, scholar.
+But he wrote a book back in 1994.
+I've never actually read the book,
+but I love the title because I think it might encapsulate
+some of these things.
+It's called The Right Doctrine from the Wrong Texts.
+In other words, one could still argue
+if you wished to as a Christian.
+Paul does scurry things with texts,
+but his intentions are good
+and the meaning he derives from is true,
+even if he isn't really getting them from these texts.
+So I think a Christian who wants to allow Paul
+the rim to do scurry things
+and still without pouring him out entirely,
+can kind of look at it through that lens, perhaps.
+But I think it's dishonest to just kind of veil these things
+and pretend Paul's always kind of following the context
+in some way.
+If we kind of hold our mouth just right
+and do it on the right day,
+in the right hour, in the right moment,
+or just say, God alone knows,
+one of these days we'll all understand this in heaven.
+Steven.
+Yeah, I mean, thank you so much for all your help with this,
+for the examples and for explaining all this to all of us.
+You know, I was doing research on sort of Paul misquoting
+or taking things out of context.
+And what you find if you're just Googling
+these sort of things or just looking in commentaries,
+it's like there's a lot of tension in various communities,
+especially between fundamentalists
+and people who are maybe more liberal.
+And you find a lot of apologetics that aren't open
+to the idea that Paul could be taking things out of context
+because in our modern culture, that's taboo.
+It's taboo to take something out of context.
+I was like, oh, you're quoting him out of context.
+People object to that.
+And so I think what your book,
+especially arguing with scripture,
+that's the one that I found
+that finally made sense of a lot of this stuff for me,
+you know, and I breezed through it in a couple of weeks
+over the Christmas break.
+And, you know, it was the first time
+I've ever seen somebody really approach Paul's audience
+and quotes, not as, yeah, there you go,
+not as a monolith, that's right, it's the red one.
+So you don't treat Paul's audience and quotes
+as a monolith, assuming that people in Galatia
+and Corinth and Rome are just sort of like the same entity,
+right, with the same level of understanding.
+And it's like you have, you actually put yourself
+with every single, almost every single example
+that you analyze in that book,
+I highly recommend it to everyone,
+is, you know, you take it from the perspective of,
+okay, how would somebody view this quotation
+and interpret this who is on the same level of Paul?
+And then how would somebody who knows nothing interpret it?
+And what about the people in between?
+And sort of, you know, taking case studies like that
+that I think is extremely helpful for people
+to sort of break away from the idea
+that there is such a thing as Paul's audience
+and that, and the idea that Paul wouldn't refer
+to something or say something without assuming
+that his audience already knows what he's talking about,
+right, because nowadays, you know, you see this
+like Martin Luther King can refer to the Exodus
+in a speech that's very powerful
+and draws from that imagery of the Exodus
+to relate to the, you know, modern day African-American
+predicament in the civil rights movement.
+And nobody sort of is bothered by that, right?
+Like obviously that source text, if you really dig into it,
+yeah, he's taking it out of context,
+but, you know, they were slaves and they were slaves
+and there's enough common ground
+where he can make that connection just to sort of,
+because, but the key difference is most of all
+the people he's talking to, he assumes, you know,
+they're there with their Bibles every Sunday reading
+that stuff, like so he knows that they all know
+those stories very well.
+And if you don't know them, it's kind of lost on you,
+whereas in the ancient world,
+people weren't sitting there with their Bibles,
+people weren't reading it independently.
+They only got, you know, a few verses at a time
+on Sundays when they were meeting
+and it was read to them out loud.
+And so, yeah, great book, great job.
+Where it gets really fishy and where it gets funny
+and fishy is there are people who take
+what Martin Luther King's did literally
+as prophetic fulfillment, right?
+And then they say, don't you see
+that the African Americans are literal Israelites?
+So there are people who take this so far
+that they anachronistically look at Paul
+and assume Paul's Gentiles, for example,
+are actual Israelites because look at the quotations
+and they think he's being faithful
+to the original context and somehow are connecting
+what you clearly show in your book.
+And of course, in this episode, that's not what's happening.
+And they do the same thing with Martin Luther King
+and they go, well, our ancestry,
+this is a prophecy that Israel would be brought back
+and would be brought out of bondage.
+We are Israel, literally.
+And this is the kind of stuff we see happen
+with some very minor, it's not usually the majority,
+but there's a minor set of people
+who start literalizing these things.
+And actually, yeah, I'm glad you brought these examples up
+because, and yet on the other side,
+we have the Christian identity movement,
+a white supremacist mode of interpretation
+that has very intricate interpretations
+of the Old Testament and the new to say
+that Israel is white people.
+And they've got all kinds of justifications.
+And if you grant them a couple of presuppositions,
+it's almost an airtight interpretive system.
+And it's easy to see how people in their group
+would respect their leaders who seem to know scripture
+inside and out and tell them what this is what it means.
+And so they go along with it.
+I think Paul's followers are much the same way.
+Paul seems to know these things.
+He knows what he's talking about.
+If Paul says that's what it means, we'll go with him.
+And of course, we like Martin Luther King,
+we affirm Martin Luther King's interpretations
+because we like him and what he was doing.
+We reject the white supremacist interpretation
+because we don't like what they're doing,
+but both of them do sometimes similarly loose things
+with the text.
+Well, I hope people will obviously stay tuned
+because we're gonna be dealing with groups like that
+in our fundamentally just dissecting their methodology
+and understanding of race and ethnicity
+and things like that in the ancient world.
+We will be doing follow-up episodes on that
+and other episodes as well.
+I hope Stephen joins us.
+It took enough for me twisting his arm over the past few years
+just to get him on this episode.
+So I hope everybody will like this video.
+Let us know what you think.
+If you made it this far, I know that you'll be like,
+wow, okay, this is interesting material you're showing.
+Go get Dr. Stanley's books.
+He's got a lot of them.
+He also has the website,
+a slavestory.com where he has a trilogy of works
+that he's dealing with in the Greco-Roman world.
+And of course, we've done episodes on magic, et cetera.
+Those are novels he might mention.
+Oh, those are sort of novels, right?
+Yeah, and they have a lot of great information
+if you wanna get down into the history
+of what's really going on in that time.
+Of course, anyone who supports these scholars,
+they find reason to wanna come back on the episode
+and to educate the general public.
+This is doing a lot of good in the world.
+I know that for a fact, for people who are watching,
+getting a better understanding of what was really going on.
+And consider also supporting the Patreon on MythVision.
+This will be up early on Patreon,
+and then we'll find a way to get it out there
+to the general public.
+So please consider doing that.
+And thank you so much, gentlemen.
+Any final words?
+No, thank you, Derek.
+It's really been, it's not often I get a chance
+to talk about these things.
+In fact, almost never I get a chance to talk about these
+with anything but scholars.
+So this is a new experience.
+I hope we've not totally bored your audiences
+or put them to sleep by now.
+I don't think so.
+I think we did good.
+And Steven, thank you.
+Thank you, Chris.
+Appreciate you.
+Great.
+Talk to you later.
+Don't forget, we are MythVision.
