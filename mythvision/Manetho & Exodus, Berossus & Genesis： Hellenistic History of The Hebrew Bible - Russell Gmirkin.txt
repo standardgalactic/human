@@ -1,0 +1,984 @@
+Help MedVision keep bringing you material by becoming a Patreon member, as well as PayPal.
+Like, share, subscribe, and comment.
+Join the Patreon to get early access to videos and check out the website.
+We are MythVision.
+Welcome back to the channel, MythVision Podcast, your host, Derek Lambert.
+Don't forget, www.mythvisionpodcast.com.
+We got the new website set up.
+We're working on it.
+We're getting it developed.
+Make sure you guys show us some love.
+Go down in the description.
+I'm going to want you guys to check out our guest material.
+He has written a couple books, but Russell Gamirkin is an author.
+The one we're going to discuss today is Borosis and Genesis, Manito and Exodus, Hellenistic
+Histories and the Date of the Pentateuch.
+And he has written Plato and the Creation of the Hebrew Bible.
+So I've read that one first and, working backwards, went to his 2006 publication.
+They call it the Green Book because it's full of riches.
+Are you interested in the dating of the Hebrew Bible?
+Most scholars believe the Hebrew Bible was constructed hundreds of years before the Septuagint.
+Maybe around Ezra or Josiah.
+There's a reform that takes place and they're using historiographical reasoning and believe
+it was made up of four sources, J E P and D or D and P.
+This is called the documentary hypothesis.
+What if the Hebrew Bible wasn't as old as we suppose?
+In this series, we're going to do a few video clips based on his book, Borosis and Genesis,
+Manito and Exodus.
+In this series, Russell Gamirkin will be giving a case where the Hebrew Bible was developed,
+so to speak, five minutes before the Septuagint Greek translation was written in Alexandria.
+Could the Hebrew Bible be a Hellenistic work?
+Are there problems with the documentary hypothesis?
+We will wrestle with this in Borosis and Genesis, Manito and Exodus.
+And with that, welcome to the channel.
+Welcome back, Russell Gamirkin.
+I'm very happy to be here.
+I'm glad you're here too.
+I'm kind of a little jealous of seeing you on these other channels, man, and I'm just
+happy to get this information out and you're doing a fantastic job.
+You're hitting people in France, I think, or where is that?
+Somewhere in Africa.
+France, Africa of all French-speaking countries, but you were one of the very first to interview
+me, so I appreciate that.
+I'm lucky.
+I'm lucky.
+Dragon Squad is where I actually found you, so in terms of listening to you, so you were
+hitting them with them daggers, if you know what I mean.
+So you open this chapter up and this book, period, with, of course, showing your wife's
+love.
+I love you so much, honey, and this is written for you, and I don't blame you.
+You're a romantic.
+So in chapter one, I'm going to read something.
+It's from your book, but for our audience to keep up with, this is important that I build
+this up for the basic person.
+The typical person like me off the street who's not going to know maybe some of these
+terms, they're not going to really be able to track the argument.
+I've heard plenty of shows with you and soundbites that sounded great, but did not, didn't follow
+the development of your thinking.
+And I think it's important to break it down so a six-year-old, so to speak, can understand
+it.
+And chapter one, methodology and history of scholarship.
+This book proposes a new theory, and it sure does, regarding the date and circumstances
+of the composition of the Pentateuch.
+The central thesis of this book is that the Hebrew Pentateuch was composed in its entirety
+about 273-272 BCE by Jewish scholars at Alexandria that later traditions credited with a Septuagint
+translation of the Pentateuch into Greek.
+The primary evidence is literary dependence of Genesis 1-11 on Borosus' Babylonica, 278
+BCE, which is pretty much what he says is there's a priest, a Babylonian priest, who
+can understand the cuneiform tablets, he understands the ancient language, and he's translating
+it for Greeks or people who speak Greek.
+It's a Hellenized world.
+Okay, literary dependence of the Exodus story on Manito's Egyptica, circa 285-280 BCE, and
+datable geopolitical references in the Table of Nations, a number of indications point
+to a provenance of Alexandria in Egypt, or at least some portions of the Pentateuch that
+the Pentateuch utilizing literary sources found at the Great Library of Alexandria was composed
+at almost the same time as the Alexandria Septuagint translation provides compelling evidence
+for some level of communication and collaboration between the authors of the Pentateuch and
+the Septuagint scholars at Alexandria's Museum.
+The late date of the Pentateuch, as demonstrated by literary dependence on Borosus and Manito,
+has two important consequences.
+The definitive overthrow of the chronological framework of the documentary hypothesis, which
+is like the standard consensus all scholars to some degree agree with this theory, and
+a third century BCE or later date for other portions of the Hebrew Bible that show literary
+dependence on the Pentateuch.
+Can you break that down just so our audience knows what you're trying to do?
+Okay, we know historically that the Bible was written in Hebrew, and at some point
+it was translated into Greek around 270 BC at Alexandria, which was the center of learning
+for the whole world at that time at the museum, Great Library, scholars from everywhere.
+And they wanted a copy of these Hebrew traditions and their laws in Greek.
+So we know that event took Hebrew Bible, otherwise known as the Old Testament, had
+to have been written before that.
+Now how long before that's the question?
+Was it hundreds and hundreds of years before like has been proposed in scholarship since
+the dawn of time and to the end of the 20th century, or was it five minutes before?
+I mean, we don't know, we can't deduce from the fact that it was translated into Greek
+how much older the original was.
+So my research over the years of the sources that the five books of Moses used when it
+was written, who wrote it, where, and what was in their minds when they were coming up
+with this stuff.
+So I try and use very rigorous methodology to determine the date and circumstances in
+which those important five books of Moses were written.
+I'm over here muted myself.
+I'm a mute.
+That was well said.
+That was well said.
+And I think everyone's getting the idea how far apart was the Hebrew Bible written, and
+then you have a translation of it.
+And most of scholars that I've looked at say hundreds of years of development from different
+sources, various sources, and you mentioned this in your book.
+So I want to read a footnote that I think was vital right off the bat, and you did a
+good job of putting this right there.
+You said methodology, because I think it comes down to this.
+There's a sharp methodological distinction between classical source criticism and traditional
+biblical source criticism.
+The latter, the biblical source, uses a variety of techniques to isolate hypothetical sources
+within biblical text.
+The identification of sources, J, E, D, and P, preliminary to the dating arguments of
+the documentary hypothesis is a prime example of biblical source criticism.
+Such source documents must remain perpetually hypothetical, since they no longer exist as
+independent entities.
+Simply put, we don't have those sources.
+We don't have original J, original E, D, or P, or any concrete empirical evidence saying
+here is the source.
+We know this.
+There are hypotheticals, kind of like there's a Q document.
+They save the gospel.
+So this type of source criticism is rarely encountered in classical scholarship.
+One notable example being the detection of a catalog of ships as a hypothetical source
+in Homer's Iliad.
+Rather most classical source criticism takes place in later periods that are well populated
+with text, so that a given text antecedents and successors are typically identifiable
+that such source criticism has not often been applied to the Hebrew Bible, except internally
+where one biblical text is identified as dependent on another.
+It's primarily due to assumptions of antiquity of the biblical text, which has precluded
+the consideration of literary borrowing from Hellenistic sources.
+An interesting example of classical source critical techniques fruitfully applies to
+cuneiform text is J-Tigay's, I think I'm saying this correct, the evolution of the
+Gilgamesh epic.
+I hope I'm saying that right.
+The Sumerian literary antecedents of the Gilgamesh epic are well known as are several
+Akkadian versions allowing an objective analysis of the development of the text from earlier
+sources.
+Filter that down into dumb dumb terms for most of us out here.
+Okay, well, down through the centuries, clear down to the start of the 20th century, biblical
+studies have been in a bubble.
+They've been a bubble where they only read the Bible and they try and deduce things just
+from the biblical text.
+So around 1600, 1700, 1800, scholars began to notice that there are different sources
+or different voices, mostly in Genesis.
+One of them was J, this storytelling source, they use the word Yahweh rather frequently.
+Another one was E, the Elohist that used the name Elohim.
+Another one was the priestly source.
+And then another one was the Deuteronomist who was primarily in the book Deuteronomy.
+They used all this internal evidence to isolate different sources within the Bible and they
+did this in a bubble where they didn't have to consider anything outside of their little
+Bible that they were reading every day.
+20th century, you began to have cuneiform sources, you had the Dead Sea Scrolls, you
+have the Elephantine Papyri.
+Outside objective information that might be relevant to when the Bible was written, objective
+external verifiable, datable, and not just speculative, where they theorized that well
+just shortly after the time of Solomon is when J and E were written and then the Deuteronomist
+appeared at the time of Josiah and then Ezra was the time of the priestly source.
+And they created this whole imaginative history of how the book of Genesis and the first five
+books of the Bible were written.
+Well now though, we have these external sources where we can say, no, let's not talk about
+J as a source or P as a source, let's talk about Borosis as a source or Homer or these
+authors that we can absolutely find the dates for.
+That provides some controls as to when the Bible is really written and it's a whole different
+approach to methodology than traditionally where dating the Bible was just used using
+biblical literature itself.
+Now we're more of a scientific, objective, comparative field that brings in as much information
+from archaeology, inscriptions, weak sources, everything and bring it all to bear on the
+problem of when the books of Moses were written, you've got a Mike Pence problem going on over
+there.
+I had a fly and I'm not going to let what happened to Vice President have a fly sit on
+my...
+I'm just...
+I'm playing.
+No, this is interesting because to break that down even simpler is they trust what
+the text says a little too much sometimes and they think the text itself is reliable
+where you point out in your book some scholars who aren't even in agreement with you, who
+agree though that, look guys, we got a problem.
+How do you know Ezra is not a literary device rather than a historical one or a legend rather
+than a historical one and to be fair to these authors where people go, it's a lie, it's
+a lie and it's just this...
+Well, look, there are pious lies.
+There are...
+If I was going into battle, I would probably tell my soldiers if I knew we were going to
+lose but we really needed to do this that we may win whatever is necessary to kind of
+bolster up a white lie if you will and so we all do this.
+But anyway, I want to say that they trust the text sometimes maybe too much and we don't
+have outside sources to pin down and say, hey, look, it definitely was written around
+Ezra's time and one of the things they'll do is they try to look at linguistics and
+they look inside and they do stuff like that like you talk about in your book but you're
+going to get into a different methodology and we're going to get into that.
+So the end of your first chapter you say, the organization of this book follows a program
+suggested by the above methodology.
+The crucial step in dating the Pentateuch is establishing a true terminus ad quern.
+And I was like, what is that?
+Chapter two shows that the early date of Pentateuchal sources, according to the Deuteronomy hypothesis
+or documentary hypothesis, sorry, is entirely lacking in external corroboration since archaeological
+evidence including an analysis of written finds in Judea and at Elephantine, if you
+don't know what that is, you're going to want to freaking seriously stick around for this,
+okay?
+Does not support the existence of any written Pentateuchal materials prior to the third
+century BCE.
+So my question for anyone to go further, what, you say this a lot in your books, when they
+go to read your book, they need to know what is terminus ad quen and terminus ad quo?
+What does that mean?
+Determinus ad quen, well, unless it's the other way around, sometimes my mind flips
+on these Latin terms like everybody else.
+It's the earliest possible date a text was written and the latest possible date.
+So to date a text, you want to squeeze that down as closely as possible.
+The latest possible date we've already established one thing, it's the translation of the Hebrew
+Bible in Greek.
+It had to have been written before this.
+So that provides a good terminus ad quen of 270 BC must have been written prior to that.
+The other side is how much earlier was it written?
+Was it written in 900 BC or finished in 450 BC or was it written in 271 BC?
+It could be anything in that range and you want to find out if the Bible uses objectively
+dateable sources so that those narrow down the possible date range.
+For instance, if the Bible uses the writings of Homer, that means it had to have been written
+after 700 BC or if it uses Play-Doh, it has to have been written after 350 BC.
+Monatho 280 BC, Borosis the same and you narrow it down until, in my book, I trimmed
+it down to somewhere between 273 BC is the oldest and 272 BC is the latest.
+So that's pretty darn accurate and that's what my method is aimed at doing.
+This is that's an extremely controversial position to take, I suspect, in light of all
+of the consensus scholarship that's out there.
+Have you got a lot of backlash on this?
+I mean, I know you've gotten some positive feedback from Thomas L. Thompson and some
+other scholars, I'm certain.
+But I'm sure others are not following.
+Well, American scholarship especially has been low to agree to the possibility that the Hebrew
+Bible was written as late as the Hellenistic era, but it's starting to become more mainstream.
+There are more and more scholars, including some in America, who are willing to contemplate
+the idea that parts of the books of Moses were written in the Hellenistic era, which
+means after the conquest of Alexander the Great, when Greek influences arrived in Judea and
+the East, but through the end of the 20th century, it was a very controversial authors
+like William Deaver.
+He said that anyone who would even contemplate that the Bible could be written that late
+was a nihilist and an anarchist in trying to bring down the downfall of Western civilization.
+What?
+He literally said that in one of his books, in the controversy between maximalism, which
+means let's have the Bible as old as we can possibly date it, versus minimalism, which
+said let's consider maybe it was written later and let's look at the other end of that date
+range.
+Maybe it was written, wow, even as late as the time of the Greeks, which was radical
+at the time, but it's becoming less controversial.
+I have to say for our audience, the reason why you really need to not only pick up this
+book, but get the philo and the creation of the Hebrew Bible is because in this book
+so far, I have not completed everything.
+I'm taking my time really noting on this, and this is important to wrap our heads around
+because if you understand this book and you read what he says, it'll get you right into
+the conflict that goes on in scholarship right now, and you can really start to wrap your
+head around some of the interesting ideas that are going on, because I'm just newly
+introduced to this.
+And you are my introduction into a field that I'm not used to exploring, and I really
+appreciate that.
+But in your philo book, you...
+Plato.
+Sorry, Plato.
+I'm sorry.
+In your Plato book, you actually take the time in the first chapter to express, scholars
+for a long time have seen Greek connection.
+They have seen a Greek Hellenistic connection, but they weren't sure, did this happen before
+the 8th or 9th century BC?
+It's some ancient antiquity time.
+They bumped into each other.
+We just don't have any empirical evidence.
+We have no evidence.
+We have no one's writing saying, yeah, yeah, yeah, there was this guy bumped into from
+Greece.
+Nothing.
+We have nothing.
+Or is it more likely we have to push it forward after these conquests, after these
+exiles, and now they're touching place in Alexandria and whatnot, and you do a fine
+job showing literary connections between Laws and things from Athenian, all that.
+So I just want to say that up front, this is an interesting theory.
+And you take your time.
+You say, authorship of key portions of the Pentateuch by Jewish scholars, knowledgeable
+in Greek and having access to Alexandria's library in 273-272 BCE, points to the identity
+of the authors of the Pentateuch with a team of 70 or 72 Jewish scholars, whom tradition
+credited with having created the Septuagint translation about this time through the generous
+patronage of Petolomy II Philadelphus.
+The objective of the Septuagint scholars, literary activities is best understood as the composition
+of the Hebrew Pentateuch itself and only secondarily its translation into Greek.
+The diverse Pentateuchal sources, J, E, D and P and H, are best interpreted as illustrating
+the different social strata and interest among the scholars that work on the project.
+What are you trying to say there compared to what the scholars are saying?
+They say over long periods of time, these sources developed and collect and then someone put
+them together.
+You're saying these are just different, if you will, correct me if I'm wrong, different
+guys from different, I guess you almost like today we have denominations, if you will.
+Different backgrounds come together when they go to compile this and create this.
+Yeah, I think that the documentary hypothesis and then the 20th century became the supplementary
+hypothesis and there's different, so many variations, but I think they did a pretty
+good job in identifying different voices or different authors who were at work in Genesis
+and Exodus and so on and so forth.
+What they did a disastrous job of is establishing the dates of those sources and they start
+out with the assumption that every one of them was in a different century.
+They were all in their own different times.
+First you had J and then E came along.
+J was in Judah and E was from Israel and Israel, they made their editions and then Josiah came
+along and the Deuteronomists, they added their part and the priests added a bunch of stuff
+centuries later.
+So you have four different editions, just not the slightest evidence that there's this
+sequence century by century of successive authors.
+In fact, it's been debated ever since the start of the documentary hypothesis, is J older
+than E or is E older than J?
+The arguments point both ways, is the Deuteronomists older than Genesis or younger?
+The relative order has never been agreed upon and I think the reason is because yeah, sometimes
+J uses E, sometimes E uses J, they were both in the same room, they were contemporary,
+they were different denominations as you say or groups that were all cooperating, so most
+of the time it was the Torah or Pentateuch.
+And there's a tradition that says there were 70 scholars at Alexandria to take the Hebrew
+Bible and turn it into a Greek edition.
+Well, Septuagint scholars only see maybe three translators, they can recognize three different
+translators at work, not 70.
+So what are all these 70 scholars doing?
+Those are the authors and there wasn't 70, there was less than that, but you had bunches
+of authors representing different perspectives and they all collaborated and they get in
+the same room and roll the Moses and the Pentateuch as a result.
+So J, E, D, P, and H, yes, they're distinct sources but they're all contemporary, they're
+like different football teams that are in, they're all in the NFL in the same season,
+they're not separated by decades or centuries.
+And I want to say as a footnote to that, what you just stated, for anyone who's skeptical
+of what you present, you're not closed off to them being possibly, you are sticking to
+what you can know, though, based off evidence that is either inductive or deductive and
+not histiographical, historiographical, because you're saying, look, I've got some evidence
+that it's silent and it speaks wonders.
+And so one of those is the elephantine papyri, but we're going to get into that in just a
+second.
+I want to get your comment on J Wellhausen and the documentary hypothesis.
+Can you comment on the evolution of what you think?
+Because most people will say, look, the God of the Bible was polytheistic or they had
+many gods, the religion of Israel was many gods, and then, you know, it takes this evolution
+to monotheism, and you could see this supposed development that's taking place in the different
+penitential sources.
+Also he relied heavily on the text rather than archaeology, do you want to make a comment
+on that before we get into elephantine and going from there?
+Sure.
+Julius Wellhausen, who wrote at the end of the 19th century, he relied on a bunch of
+earlier biblical critics.
+Arukspinosa was the first, and then there was Raph, and I could list off, you know, 15
+different people who each had their contributions.
+Then E is different from James, someone said, well, there's the priest, and anyway, he
+tied it all together because he came up with a convincing story.
+He said that the Deuteronomist wrote in the time of Josiah because the book of Second
+Kings chapter 23 said that Josiah discovered a copy of the laws of Moses in the temple.
+Well, that was said to be Deuteronomy.
+So that dates Deuteronomy to the year 613 BC.
+People leave that story in Second Kings, which, where's the evidence for that?
+He went on and Ezra, they brought the priestly laws from Babylonia and brought them back
+to Judea because in the book of Ezra, he read from the law, and some of what he read
+sounds priestly.
+So he was able to say, for 53 BC, Ezra, he integrated the priestly laws into the Pentateuch,
+and he had it all tied into this biblical history, which is highly questionable.
+I mean, you can't prove those events in biblical history or, rather, historiography can't be
+verified by archaeology, and the minimalist school, or the Copenhagen School, biblical
+criticism, Thomas Thomson, Niels Peter Lemke, Arbini, Philip Babies, and others, they
+began to question whether this biblical history that they used to hang the dates of the sources
+on, whether that biblical history was actual history or is it just story?
+Is it myth?
+Is it made up?
+How do we know that they are true?
+How do we know what date those are made?
+They seem to be very late.
+And they're more theology and mythology than actual contemporary history.
+So Wellhausen, he was in that bubble where you just used the Bible to learn about the
+Bible.
+You don't bring in Greek sources or other sources.
+And it was a brilliant construct, but his method was highly questionable.
+And he, he's now, everyone agrees that he put too much reliance on the biblical history
+writing or historiography.
+And that's just an unsound method.
+Yeah, you say the documentary hypothesis as developed by Wellhausen illustrates the grave
+danger of circular reasoning, Bible using the Bible, inherent in dating texts by means
+of a historical construct created to facilitate the dating of the same text under the methodology
+advocated in this book, the dating of text is properly an enterprise prior to an entirely
+separate from the writing of history.
+So you list off these scholars, maybe you can comment a cup on what some scholars say.
+Figure we would take the time to like really point out.
+These are some ladies and gentlemen, these are some big names.
+These are some really well known scholars.
+And they play a vital role in how people are analyzing this stuff.
+And in one of them, you said, Van Cedars, how did Van Cedars play a role in dating of the
+Pentateuch?
+If you can remember some of these guys, like I know you, you're on your books, I'm stretching
+your memory.
+Yeah, well, John Van Cedars, he and Thomas Thompson, they both wrote and I think the
+same year, they both wrote books that questioned whether the traditions about Abraham were
+historical or all the patriarchs.
+So between the two of them, they, they shot down treating the patriarchs as history.
+But more importantly, in Van Cedars book in search of history, he brought out lots of
+Greek connections to, to the biblical history, history writing.
+For instance, the Greeks, famously, they, they had a genealogical structure to history.
+Different peoples and tribes, they were traced back to one ancestor, like Helus was the ancestor
+of the Helines or Greeks, or Perseus was the ancestor of the Persians.
+So they, they had these heroes back in mythological times, that they traced their ancestry to,
+and were also, they also built their history around.
+And the book of Genesis says something very similar, not only with the table of nations
+but the catalogs, 70 different nations descended from 70 famous people, Hem, Shem, Ham, Japheth,
+so on and so forth, Canaan.
+But you also have Abraham as a famous ancestor, and Isaac, and Israel was an eponymous leader.
+And eponym means, your tribe is named after that person, the word name is in the word eponym.
+So you have 12 tribes of Israel that are named after the 12 sons of Israel,
+Jake, and Simeon and Gad.
+So all of that is very, very Greek.
+And he went into all sorts of other things too.
+So he really broke a lot of ground in understanding biblical history writing as a very Greek enterprise.
+But he also thought that the biblical writers kind of independently discovered historiography
+before the Greeks did, and how Baruch Halpern and others have remarked on the genius,
+how all these biblical writings, they anticipate Greek developments by centuries.
+Well, maybe that's true, or maybe the biblical writings were a lot later,
+and did borrow from the Greeks and not vice versa.
+So John Ben-Suter, he's very important in establishing Greek connections,
+but he also dates things pretty early, and he's not very useful in that respect.
+Yeah, you point out one of the flaws you say is he's correct in pointing out these connections,
+but he has no extra biblical foundation to suppose where the connections found their way to meeting each other.
+And it's like the same problem you had in chapter one of your Plato and the creation of the Hebrew Bible,
+where you're like, look, they think it happened way back where nobody can prove anything and there's no evidence of it,
+but it happened, or later where we know for certain Hellenism and the Levant and everything.
+All these people were intermingling.
+They were definitely sharing and comparing.
+And so you do a good job of that.
+That's really interesting.
+There's something that I wanted to say to illustrate that.
+There was back in ancient times, people knew about the writings of Moses.
+They knew about the writings of Plato, and they knew they were related.
+A lot of the laws in Plato are very similar to the laws of Moses,
+but everyone believed that books of Moses were written like a thousand years earlier.
+So therefore, Plato must have borrowed from Moses.
+Like he read somehow this Hebrew Bible, made it to Athens,
+and he secretly read it and didn't tell anybody about it, and it came up with all these laws.
+You know, the alternate theory is that the laws of Moses came from Plato in the Hellenistic era,
+when the writings of Plato were all very well known and accessible to everyone.
+So did Plato copy Moses, or did Moses copy Plato?
+That's kind of the controversy that keeps on playing over and over again with different authors.
+I think a timeline is important in this, to let people who aren't acquainted,
+like they know names, they're dumb like me, okay?
+Don't feel bad, trust me, I'm ignorant.
+I just don't know.
+Plato is said to have existed anywhere from 428 to 347 BCE, from what I understand.
+So he is prior to when you say that the translation, and not only you,
+everyone agrees that the translation took place around the time that you say that both of these versions,
+the Hebrew as well as the Greek, take place.
+And so if you can find clear things that only show up in Plato and nowhere else,
+you really have to say one borrowed from the other or vice versa.
+And somehow there's a genealogical connection here.
+And so arguing that, well, he had Moses' writings,
+all we need for you to be wrong, Russell, is some type of extra biblical source writing
+that we know comes from around the time prior to what you said.
+And guys, you got Russell off the hook.
+Russell, you could just say, ah, it was a cool theory,
+but I'm going to update and write a new book and say here it is.
+I'll give it up, I'll give it up.
+Exactly.
+This is great.
+So Plato comes before this Borosis and Manito situation,
+which you're going to want to stay tuned.
+We're probably not going to get into that detail yet till the next episode.
+But what about scholar?
+And I could probably be mistaken these these first names.
+And please don't take disrespect that I may not say doctor or something.
+I I'm only going out of your book.
+And so you have what about G Garbini and the Philistines?
+He has an interesting theory.
+He tries to reconcile what you're talking about here.
+And he goes, look, we don't have Greeks, but see the Philistines were the Greek type people
+that they got this information from.
+Can you comment on this?
+Yeah, Garbini, he he decided, OK, there's a lot of similarities between the Greeks
+and the Jewish writings.
+So there's been all sorts of theories as to how those two groups talk.
+Now, in the Hellenistic era is no problem, because the Greeks conquered Judea.
+And, you know, you could consult your local soldier.
+No problem.
+But before then, way over in Athens, how did that communicate to Judea?
+Well, Garbini said the Philistine, I think the Philistines, which was one little tribe
+on the coast of the Eastern Mediterranean.
+Other people said the Phoenicians.
+Other people said, well, the people of Cyprus, they traded between the
+Greeks and and the Levantine coast.
+And it's all sorts of models, all sorts of theories.
+But these these traders who who would carry Greek pots and olive oil and this and that
+and trade them on the coast, they weren't also discussing philosophical theory
+and and discussing laws.
+And we're going to tell our our local guy who has the donkey caravan
+that takes our pots to Judea and tell him about all the latest developments
+in Plato and Homer.
+And that's not how it happened back then.
+Knowledge was shared between educated elites, the ruling classes.
+They share that sort of information.
+And that's something that Garbini didn't recognize.
+And a lot of other people didn't recognize.
+They just speculated there were people in contact with both groups.
+So there's this process of cultural osmosis where information and traditions
+just kind of seeped from the Greeks over to the Jews or vice versa.
+And that's not the way knowledge was communicated back in the ancient world.
+But he did recognize that there were Greek influences
+and it could have taken place even as slaves of the Septuagint.
+And he was innovative in that way.
+Is a good Italian scholar.
+What a character.
+Yeah, you definitely compliment even though you show what you disagree
+with you compliment these guys in your book.
+What about PR Davies and his dating of the Pentateuch?
+He was also part of that.
+He he he belonged to he went to Sheffield, England,
+and yet he became known as part of the Copenhagen School of Biblical Criticism.
+It was basically
+Niels Peter Lemke, Thomas Thompson, Philip Davies,
+and then Garbini and a couple others were in there, too.
+So Philip Davies, he his book in search of ancient Israel.
+It was very influential in saying that when you talk about Israel,
+there's more than one Israel.
+There's a historical Israel, and we see that in inscriptions.
+You know, it shows up in inscriptions.
+So we know that there was a real entity in Israel.
+And there's the biblical Israel, which is a literary creation.
+So you really have to distinguish this literary construct,
+which existed in the realm of story from history.
+You can't confuse history and biblical writing because
+biblical writings are different from inscriptions.
+Inscriptions are carved in stone at that time.
+You know, they're contemporary, so they're they're reliable and dateable.
+But until you can date the biblical
+writings, which Davies acknowledged could be as late as I think the late Persian era,
+maybe the Hellenistic era, till you can date those,
+you can't say that they're contemporary.
+You can't they're they're less than a fact.
+They are a written text of indeterminate date
+and indeterminate factual content.
+And he was a very influential and questioning biblical historiography
+and something different from history,
+which was previously viewed as you read the Bible, you're reading history.
+That seems a big methodology early on.
+What about in P. Lempch?
+I think I'm saying this correct.
+His dating.
+Yeah, Nelps. Nelps Peter Lemke.
+Lempke.
+He wrote a very influential article called
+was the Old Testament, a Hellenistic book, question mark in.
+Earlier a year earlier in David, David, you broke up, you broke up, go back.
+His title and work from there.
+OK, Nelps Peter Lemke in 1993, wrote of an influential article called
+the Old Testament, a Hellenistic book.
+And he he pointed out that instead of assuming that the Old Testament was written.
+Your mic's really close to your mouth.
+I can hear that. Sorry. Sorry. OK.
+So instead of assuming that the Old Testament was as old as it claimed to be
+that the books of Moses were written by Moses, Isaiah wrote the book of Isaiah.
+I'm sorry. I'm sorry.
+It's really bad. I didn't want anyone to be like, what the OK, there.
+Try that now. I'm sorry. All right.
+I'm trying that. Yes. Yes.
+Yeah, I apologize.
+He said, what's the actual evidence?
+What's the first evidence we have of when these things were dated?
+They said, well, really, you've got the dead Z scrolls,
+which are like second first century B.C.
+We know that these biblical writings were written then
+because we have fragments of them.
+We actually found them.
+And really, we can reasonably suppose that the books of Moses were written
+by 270 B.C. because we had the step to its translation.
+So those provide the latest possible date
+that we absolutely do know that they were written in the Hellenistic era.
+We don't have any contemporary evidence to prove that they were older than that,
+not as old as the kings of Judah, not the Babylonian period, Persian era.
+There's no proof that they were that old.
+And he said that in terms of methodology,
+let's start with what we know.
+We know that it was written
+by, say, the third century B.C.
+We don't really know that it was written earlier than that.
+But let's make the latest date the starting point for the discussion.
+And that viewpoint became known as minimalism.
+And the opposite view that let's date him as early as we can get away with
+this unless there's an acrobatism will trust
+that Isaiah was written by Isaiah or whatever.
+So the maximalists were very upset
+that he did not share their cherished long held assumptions
+and that he had an entirely different starting point
+that was rooted in objective external evidence.
+And that was really a revolution.
+It it started off my research and that many others.
+Let me ask you this while we're still on him.
+Where did he land?
+I know he started with minimalism.
+Did he go did he backtrack prior to your dating and say,
+well, I'm sorry, I got to go further back.
+I think it does.
+I think the Hebrew Bible goes back to this state.
+Where did he land?
+Well, he.
+He is willing to acknowledge that there might be older materials
+that are embedded within the Hebrew Bible.
+So am I, you know, I'm I love it.
+If I can find a part of the Hebrew Bible
+that is earlier than the Hellenistic era, that's exciting to me.
+Like the book of Haggai, which talks about how we're going
+a prophetic oracle that to to authorize
+the rebuilding of the Jewish temple.
+It looks authentic.
+So there's a book that I believe was written around 615 BC.
+That's exciting to me.
+So he he agreed that there could be older sources, but
+he thought that the Panathuk was put together in the Hellenistic era.
+He thought and probably in Babylonia
+because of the book of Genesis
+and all the Babylonian traditions,
+how their ancestors came from Babylon,
+from the Caldees and migrated to the Thomas land.
+More recently, he's become convinced by some of my arguments.
+That that the Bible was probably.
+The books of Moses were probably written in Alexandria.
+He's particularly persuaded by the fact that there's a lot of constitutional
+material in the books of Moses that could only have been written
+in the Hellenistic era and could only have been acquired
+by people reading books about great constitutions,
+which were found at Alexandria's Great Library.
+So he's come around.
+It's very gratifying that one of the giants of the field
+is at least partially endorsing some of my theory.
+See, this is this is where it gets really good.
+I like this because when I read your book or heard your theory,
+the first thing I thought is he thinks everything was written.
+In 273, 272 B.C., which means
+which means in my little fundamentalist black or white, either or mind.
+Right? I'm all I think is he either believes it's all written in or it's not.
+You are not suggesting that all the material used within this
+it must be dated to 272 273.
+They're relying on source material that may go who knows how far back.
+Like, for example, I have a very good scholar friend who is a documentary
+hypothesis guy, Dr. Joshua Bowam.
+And, you know, he could read a lot of these ancient languages, Sumerian,
+Akkadian, et cetera, et cetera.
+And he and Dr.
+John J. Collins, for example, look at Daniel in chapters one through six
+and see a older or at least some of it in this passage, an older Aramaic source.
+And it's like, this sounds like this might be older,
+but could they have not have gotten this in the Alexandrian library?
+Is there not Aramaic sources?
+Are there not like you do with Manito, like you do with Borosis?
+Could there not be older sources they're they're going into or maybe borrowing from?
+I don't know. And that's the question I'd like to ask you,
+maybe before we jump into Thomas L. Thompson.
+But sure. Well, sure, there's
+there's lots of sources from the Alexandria Library.
+There's also Egyptian
+sourced in the book of Proverbs and another one in the Psalms.
+And.
+But there's also some local native sources.
+There's the King List of Judah and the King List of Israel and the Book of Second Kings.
+And you can verify the later names in those lists.
+Those names show up in the Syrian and Babylonian inscriptions in the proper time frame.
+So those are authentic and they were preserved locally
+from Iron Age, Samaria and Judah
+down to the time when the Book of Kings was written in the Hellenistic era.
+So that's very exciting to know that there's some authentic older materials there.
+I got I got a poke for those like me.
+This is great.
+You're not saying what's being said in First Kings
+is really authentic historical documentation or older material about Israel's real history here.
+The List of Kings comes from other people groups.
+I mean, oftentimes, like you pointed out, Solomon was not an actual guy
+who actually existed that was ruling Israel.
+You know, he is another character,
+another king from another nation who was of great magnitude with great power.
+So this Kings List you just described that has older material that we can prove
+is borrowing from another peoples.
+It's not about actual Israelites and their Kings List.
+Like they were the ones who were these kings.
+They're really borrowing this, in a sense.
+Well, I know the Kings of Israel were from the nation of Israel.
+The name Israel appears in an inscription of Shalaman as the third in 853 BC.
+He refers to King Ahab of the Kingdom of Israel taking part
+in central Syria.
+So the name Israel actually shows up there as the name of that kingdom.
+And that was one of the
+in the Book of Kings at the right time.
+Mostly the Assyrians refer to it as Samaria or Bit-Hummary.
+They use different names for that country.
+But yeah, there was a kingdom called Israel.
+It wasn't 12 tribes.
+It's nothing like in the older books of Genesis and Exodus and so on and so forth.
+But there was a nation called Israel.
+And then to the south there was another nation called Judah.
+So both kingdoms fell, but both of them had preserved
+King lists that listed their Kings and how long they ruled.
+And those documents were evidently preserved down through time
+and their local authentic ancient documents.
+Interesting.
+That's interesting.
+So when does the King list historically with actual evidence we have here?
+How far back does that go before it cuts off?
+Do you have a date on that?
+Yeah, with the Northern Kingdom of Israel or Samaria,
+the first King that we have confirmed in inscriptions would be King Omri
+and then his son King Ahab.
+So that's like about 890 BC.
+Before then the King is between Solomon and Omri,
+which are different dynasties.
+Who knows where those names came from?
+They don't appear in inscriptions.
+But there's an inscription from Moab and there's a Syrian inscription that mentioned those two Kings.
+Now in Judah, confirmation starts much later in the 730s BC with
+I think Jehovah has and then Hezekiah.
+And after that, yes, those Kings appear in inscriptions and historical sources.
+The earlier Kings of Judah, we don't know who they are.
+We don't know if they were a local governor or a clan leader or they weren't Kings.
+There was no Kingdom.
+There was no Judah mentioned in inscriptions earlier times.
+So the earliest part of those lists are legendary, but the later parts can be verified.
+Interesting.
+Terrific.
+Yeah, that is good.
+So if we could find anything concrete, that's always good.
+Scholar Thomas L. Thompson, he is something else.
+And I know that he loved your book and said, look, I got to get this published.
+We got to get this guy, we got to make sure this thing gets out there.
+So tell me a little bit about his dating, what he thinks and or thought,
+and maybe a little development of what he thinks now and teach us a little bit about that.
+Yeah, Thomas Thompson.
+He was a bit of a maverick.
+He and John Cedars, they both published books that said that these stories about Abraham
+are basically mythical.
+So he was ostracized for many years after that.
+His PhD thesis was rejected by Cardinal Ratzinger, who later became Pope.
+So yeah, he worked as a house painter for 10 years in the US.
+He couldn't get a job as a teacher because his ideas were too controversial.
+Well, Meals Peter Lemke of the University of Copenhagen said, you can teach here,
+move over to Denmark, we're sub-civilized, we're progressive, and we'll give you the freedom
+to pursue your research.
+So he has been especially an important voice in minimalism,
+suggesting that the historiographic writings, you know, what we call history from Genesis
+through Kings and Ezra Nehemiah, they're a largely myth, that is to say story.
+They're stories and they have theological content and they can't be relied on as factual history.
+And he thought they could have been written probably in the later Persian era,
+but possibly as late as the early Hellenistic era.
+So he and Davies, they both, they were creeping later and later.
+They hadn't quite arrived to where Meals Peter Lemke and I had arrived at, but we're all very
+friendly. And yeah, a friend of mine, Greg Dowden, I was going to the University of Copenhagen
+and just on a lark, for my own benefit, I wrote this book, Porosis and Genesis.
+And I said, Greg, why don't you read this?
+He said, I like doing research. He read it. He says, I have to show this to Thomas Thompson.
+He showed it to Thompson and Thompson said, we have to publish this.
+So, Thompson has been, I guess you practically call him my patron.
+He has pretty much anything I want to write to people at Copenhagen will publish starting with
+Porosis and Genesis. And he's a great friend. I met him in Copenhagen at a conference and a terrific guy.
+Wow. Yeah, this sounds great. I'm glad that a place like that is willing to entertain and
+consider new evidence that might place the dating different. Yeah, he, he sounds like someone I
+really need to get acquainted with. Let's go to our Alberts. And I'm not sure his first name.
+Right near, right near Albert. Okay. If you don't mind touching on him.
+Well, he was, he was an important 20th century author. He wrote a book called A History of
+Israelite Religion. And he came up with this story of when the sources were created. He thought that
+the, and it took was kind of a compromise between priests and elders. I agree with, but in a much
+later time. But he was basically interested in extracting sociological information about the
+groups behind the books of Moses and analyzing who they were and how they could have interacted
+with each other and, and tied in with his reading of biblical history. And so he was, he was another
+one of those who used historiography, biblical historiography to date the books of the Bible.
+He's kind of declined as, as a voice in the 21st century. He had a long distinguished career.
+He still publishes articles, but it's not that influential. Okay, okay. Interesting. And then
+last but not least, we have to talk about William G. Dever. And he has been great in my deconversion
+situation with finding out that Yahweh was married to Ashra. And, you know, like, I was like, whoa,
+he has a wife. So he had an interesting episode he did, our presentation just showing that. So I
+really was fond of his work. I said, wow. But in your book, you kind of point out some pros and cons
+in terms of criticisms, if you will. He talks about something called classical Hebrew and late
+biblical Hebrew. Can you elaborate on that? And his dating, he goes as far, he's almost like a
+maximalist in some, some ways, at least with some sources. But can you, can you give us a little
+bit on this gentleman? Yeah, he started out very maximalist. He demonized the minimalists. He made
+launch personal attacks on Thomas Thompson and Lemke and the rest and said that, you know,
+they were going to bring down the downfall of everything we hold dear to in Western civilization,
+especially biblical scholarship. But at the same time, he presented himself as an archaeologists,
+you know, like a top of the profession. And, but in an action, and, and he has published a lot
+of interesting stuff, like, like you mentioned. But he also is informed by conservative scholarships,
+reading of the Bible a lot. He accepts, uncritically, a lot of contemporary theories about
+the antiquity of Bible and the books of Kings. And, but he's a larger than life personality.
+And I, I quote him for some of his material, which is factually based and archaeologically informed.
+But he, he's unhinged in on certain topics, at least he used to be. But now he basically has adopted
+the tenets, the tenets of minimalism that, you know, like Thompson, you should use archaeology
+to construct history and not rely primarily on the biblical text. So formally, he has come around
+to the minimalist position. But he still kind of hasn't buried the hatchet, as far as I can tell.
+Yeah, I remember watching him discuss a lot of high places that they have archaeological finds.
+That weren't destroyed. And so here you're supposed to destroy them. And, well, they're not destroyed.
+So it's, it's really interesting. And you could tell that they are done by Israelites. It's not like
+this is just some random temple site or a sacrificial locale locale where they're doing
+whatever they might do in this particular locale, most likely sacrifice and stuff like that.
+It's obvious they didn't destroy a lot of these places. So when the Bible says, and then they
+destroyed all the high places, well, they didn't get all of them. So we had a problem here. And,
+and anyway, I just, I thought I'd mentioned he has some interesting archaeological finds that I
+thought were critical. And I like the critical stuff. So there are three methods, three methods
+for dating historiographical, inductive and deductive. And you are pretty much focused on
+inductive and deductive methodology. Real quick on the classical Hebrew and late biblical Hebrew
+that Mr. Dever does. Do you have a comment on that particular point that he brings out?
+Well, he doesn't do much of that himself, but he does rely on others, biblical scholars.
+Scholars have seen a progression of language developments within the Hebrew Bible.
+There's one type of language that's called classical biblical Hebrew that is used in
+some of the older biblical, you know, Genesis through King and some of the prophets.
+Now late biblical Hebrew is a characteristic of some of the latest biblical texts like Chronicles,
+Ezra, Nehemiah. And it's also shared by the book of Sirach, which is a book in the,
+between the Old and New Testament, it was written around 180 BC. He used that linguistic variation.
+So we know it was current around then.
+And classical biblical Hebrew, it shares some features of language that is shared by inscriptions
+from the iron. It does have some old elements. You broke up. You broke up. It shares inscriptions?
+Yeah, inscriptions found at Erad and Lakish and different archaeological sites
+that have written texts on them, mostly on pot sherds. They have some features of classical
+biblical Hebrew. So classical biblical Hebrew was used in ancient times. Late biblical Hebrew was
+used in modern times, like in the Hellenistic and Roman eras. But when was that transition
+from one to the other? Well, that really all depends on when you date these biblical books.
+If you date the books of the Torah in the Hellenistic era, then that means they were still
+using classical biblical Hebrew in the 200s BC. And so there's a bit of circularity, circular reasoning
+when they say that a book that conservative scholarship dates in the 700s BC uses classical
+biblical Hebrew. They say that proves that it's that old when it could be a lot younger,
+depending on the dating of that book. So it's really not useful for dating biblical books.
+That's the bottom line. And there's no inscriptional evidence to prove when the transition
+from classical biblical Hebrew to late biblical Hebrew took place. You can't verify
+when that transition took place in inscriptions. Could have happened 400 BC, could have happened 200
+BC. They really don't know and they shouldn't pretend. They shouldn't pretend that they do.
+That's interesting. Well, you know, PR Davies questions you say the reform ever took place.
+Talking about the Book of the Covenant discovered. Could Ezra also be late in legend?
+This is a question I'm asking our audience to consider. The historical framework of the
+documentary hypothesis was based on the untested premise that literary accounts of Second Kings
+22 through 23 and Nehemiah 8 through 10 represented actual and accurate historical data.
+At the time, the documentary hypothesis was formulated. Scholars neither saw the need to
+test the historicity of biblical historiography, historiography. I can't even say it.
+Historiography. There we go. I can't even say it. Okay. Nor had the means to do so.
+Today, archaeological evidence and inscriptional and other ancient textual finds
+play an increasingly dominant role in reconstructing history and in testing the accuracy of literary
+sources. Josiah's reform was a literary, not historical in nature. So we're going to transition
+to two things before we end up exiting this show because we aren't even going to get into
+Manito and Borosis yet. I cannot wait to do that episode where we can dig into these two guys
+because your chapter even just going into Manito is quite a long one. I read chapter one and two
+and I was like, okay. And then I just, you know how you go forward to see like, how far is this
+chapter going to go? And I was going and going and going. I said, there's a lot here. So the
+two silver amulets dating to the late seventh or early sixth century BCE, discovered at Cateph
+Hinnom, Kedith Hinnom and Jerusalem by G. Bar K. In 1980, they contain a priestly benediction,
+three lines of which read, May Yahweh bless and protect you. May Yahweh look favorably upon you
+and grant you well-being. Translation by Yardini. This has close parallels with numbers 624 through
+26. So pretty much the argument here goes, well, look, this parallels numbers. Numbers is in the
+Bible. It's part of the Torah. And this is dated to the sixth, seventh century BC. Come on, Russell,
+what's wrong with you? Can't you see that this is evidence against your hypothesis?
+Well, even the person who discovered these amulets, by the name of Gabriel Bar K. Well,
+I met in Jerusalem, by the way, as a, he was a tour guide that gave me and some others a tour
+of Jerusalem when I was there presenting on the Dead Sea Scrolls as an international conference.
+Great guy. Anyway, even he says, this doesn't prove that the book of numbers was an existence back
+then. It proved that that priestly formula was an existence. There are like six markers within
+the quote itself that point to it as an oral formula, something that was recited,
+something that was spoken, not something that was written. So you have this oral formula
+that who knows how long it existed just verbally before it was written down. It's kind of like
+if someone said, in the name of the Father and the Son and the Holy Ghost, that's a very common
+formula, a priestly formula. But because somebody's saying that doesn't mean that
+it was written down or they cut it out of a book, you know, people use those words for centuries
+upon centuries. So that shows the earliest possible date on which that oral tradition could have been
+founded. It comes from something authentic from the 600s BC. But when that was put,
+put department is a totally different issue. Yeah, I think it's hard for us in the 21st century to
+understand what scholars are trying to talk about with oral tradition. You know, we are so simply
+come home, put on our TV, play our video games, read a book, whatever, not realizing to taking
+for granted what the ancient world did. They didn't have all these writings. It wasn't out there for
+common folk. Oftentimes, everything was oral. And this is where a lot of there are a lot of
+interesting theories. I have a good friend, Dr. John Knight-Lunwall talks about orality and people
+who were of oral before writing. Their hardware was the same as ours, but the way their software
+worked was very different. But anyway, we don't really think that because when we go, well, the
+Father, the Son, and the Holy Spirit, I learned that from writings. Or I learned that from a
+church that learned that from writings. Well, yeah, I get that. I understand where they're coming from
+or they might have had someone who wrote this. But it's interesting to note that what you're
+trying to suggest is they it wasn't like we have today where there's a bunch of books floating
+around all the time. And we have a lot of stuff in writings. In fact, eventually, who knows,
+we might end up having everything as media at one point, we're going to go writing. What is that?
+You know, and the software might change, you know, and so it's interesting. So to think like that.
+But let's let's get into something that's going to tackle what you just discussed here. And really,
+what is the elephantine papyri? Is it an elephant stamped on a piece of paper? I mean,
+what's going on here? Yeah, elephantine. The people, Egypt, they loved their elephants.
+So, and especially later on, the Ptolemies, they went on all sorts of elephant hunting expeditions.
+And, you know, so that's that's where the name elephantine came from. The actual
+Egyptian name was Y-E-B. So anyway, the elephantine papyri were written at a military colony of
+elephantine, Iraq, the Nile River. It was the border colony between Egypt and Ethiopia, guarding
+against an Ethiopian invasion. The colonists who were there, they were from Judea and
+and they were Aramean. So they were actually Jews who were living there, this military colony.
+And they wrote also some documents between about 450 BC, 400 BC, that have been preserved
+on parchment or leather or on ostrica or pot shirts, because the Egyptian climate is such
+that these these old documents are preserved. Well, these Jews and elephantine, they had
+their own temple. They practiced polytheism. They had, they knew about the seventh day of the week,
+but they worked on the seventh day of the week. There's one papyrus that says, if you don't get
+those vegetables off that boat on Saturday, the seventh day, I'll kill you. I will kill you if you
+don't do the work that I'm telling you to do on the Sabbath, basically. It had, they observed the
+Passover, but not the biblical Passover. It was an agricultural festival, but there was no Moses,
+there was no Exodus in their Passover ritual. It was just sacrificing a lamb and not having any
+yeast in their household, which also meant they couldn't drink any beer. The papyrus says no beer
+allowed during these seven days. So they were practicing Jews. They were in communication
+with the Jews in Jerusalem because the Egyptians got mad and burned down their temple.
+And so they asked the priest in Judea and the leaders of Samaria, can we, can we have your
+blessing to rebuild this temple? So the people in Jerusalem evidently thought it was okay that
+there were multiple temples, that they could have their own temple there. Fine, no problem.
+So there's no evidence of any biblical writings. There were no laws of Moses. They didn't know Moses.
+They didn't know Abraham, Isaac, or Israel, or David, or anybody. There were no biblical writings
+at that time. Now, scholars when these papyri were discovered, they freaked out. These were some
+weird heterodox oddball, weird Jews who practiced their own strange customs. Oh, yeah, except that
+they were in communication to Jonathan, the high priest of Jerusalem and his brothers.
+So no, that was ordinary Judaism of its day. And it knew nothing of a biblical text. There was no
+Bible in 400 BC. And that's after the books of Moses were finished, J, E, D, P, and H according
+to the documentary hypothesis. But none of those sources of appearance at Elphi didn't happen.
+You say, just to read it, something you wrote. This is fascinating. I love this
+Eliphantine thing. This is archaeology at its best, guys. I really like this. Most of these
+were letters that they found, legal documents, supply accounts, and the like. But one, number
+21, contained an order from Darius II in 419 BCE to the Jews at Eliphantine in joining them to
+observe the days of unleavened bread. While a second series in OS dot 27 30 to 34 documented
+the Egyptian destruction of a Jewish temple at Yeb in 411 BCE, and the fruitless efforts of the
+colonists during the years 410 to 407 BCE to secure permits or permission, sorry, to have it rebuilt.
+And you say that you think it might have been because they were possibly sacrificing animals
+that the Egyptians held sacred even. And these guys are like, well, we got to keep our sacrifices
+going. They had pretty much what I counted is that you say this is oral tradition at best,
+just like those tablets, the silver amulets. But of over 160 Jews at Eliphantine mentioned in the
+papyri, not one name comes in from the Pentateuch. Nor is there any reference in the papyri to the
+Exodus or any other biblical event referenced to Laws of Moses or other authoritative writings.
+It's entirely absent. There is perplexed. It's there is this is perplexing, since the priests
+supervising the Jewish temple at Eliphantine should have possessed and enforced the Jewish Torah,
+which according to the documentary hypothesis was complete and promulgated as authoritative
+during the time of Ezra and Nehemiah. And you say a cowley commented succinctly on the complete
+lack of evidence for use or knowledge of the Pentateuch at Eliphantine. What precisely constituted
+a kahin priest at Eliphantine does not appear. One of their prerogatives, we might suppose,
+would be to possess the Law of Moses and to administer it. Yet there's no hint of it's existence.
+We should expect that in 30.25, I think he's referencing something in the papyri,
+they would say offer sacrifice according to our law and that in other places they would say
+they would make some allusion to it. But there is none, zilch. So far as we lean,
+lean, LEAM from these texts, Moses might never have existed. I think it meant learn. I might have
+captured a word. There might have been no bondage in Egypt, no exodus, no monarchy, no prophets.
+There is no mention of other tribes and no claim to any heritage in the land of Judah,
+among the numerous names of colonists, Abraham, Jacob, Joseph, Moses, Samuel, David,
+so common in later times, never occur, nor in Nehemiah, nor any other name derived from their
+past history as recorded in the Pentateuch and earlier or early literature. It is almost incredible,
+but it's true. And I had to read that because that's, I mean, nothing.
+It's a great summary, great quote. Yeah, nothing. And this is something you're saying, guys,
+it would have been screamed from here that we'd had more than just unleavened bread traditions or
+the fact that they practiced sacrifice or the fact that they were temple ritualists that had a temple.
+Like that was common. Even people without writing, even people without their constitution,
+got to read his Plato and the Hebrew Bible to really get where this all comes in,
+you know, they all, there are people who practice this stuff throughout antiquity
+and did not, we don't, we'd heard something I would suspect.
+Well, when the Elephantine papyri were discovered, it was a scandal, like Cowley,
+that passage that you read, and really has taken clear into the 21st century
+for scholars to recognize that, well, this just means that they didn't have a Bible then.
+This is normal Judaism. It was pre-biblical. The, an author named Rannarad, he's written a whole book
+on the Elephantine papyri and just taking it as at face value as this is what Judaism was at the time.
+Same is true in Babylon. They had polytheism there and it was just normal.
+There was a, it was a temple of Yahweh in Edomia and Edom at a late date also,
+so they had multiple temples, polytheism, no biblical writings. That was just the way it was.
+And that really creates an earliest possible date right there.
+The, the books of Moses had to be written after 400 BC with the latest of the Elephantine papyri
+and that's later than the documentary hypothesis allows.
+Wow. So we're stuck right now, if you're watching the series, we're stuck with this
+enigma code called the Elephantine papyri and the archaeology backing such, such a theory.
+And what we're going to do is what we've conned down to the 400s. Let's stick at the 400s for any of
+you skeptics like me out there who want to challenge and test this theory. Not only do I recommend you
+get the book, okay, but stay tuned to the series because we're going to open up in the next episode
+and talk about this guy named Manito and this guy named Borosis. Let me rephrase that.
+This priest named Manito and this priest named Borosis. Very important figures that are doing
+the same thing, if I will, that what was required of the Jews to come do with their holy supposed
+books and get into the Septuagint. They're translating their history, if you will, into Greek so the
+common man can understand the story from Egypt, the story from Babylon, the story from where's the
+Jew's story? Ah, it's coming. It's coming. So make sure you guys stay tuned. Get the book. Russell
+Gamirkin, do you have any closing statements you'd like to make on what we did in this episode?
+Well, first off, it was very enjoyable and you asked very smart questions. You've really read my
+book and you quoted all the best passages from it. But really what we've established in this episode
+is a kind of a scandal. The old 20th century scholarship and earlier that just read the
+Bible and said, well, it must be really old and it was written back in ancient times for the Greeks.
+That doesn't hold water anymore. We need to look at later times and there's
+plenty of overlooked evidence that the Jews knew Greek writings and used them a lot.
+During the 20th century and earlier, they never even looked at Greek writings. Why? Because they
+assumed that the Bible was written before Alexandria. So it's circular reasoning. If it was written that
+early, you don't need to pay attention to the later Greek writings. You don't even need to look at
+them. They're irrelevant. Well, I don't believe they're irrelevant. I think that they provide a
+smoking gun as to when and where the Moses were written. And I'll be very delighted to get into
+that in our next episode in this series. Guys, get ready, buckle up, get ready. We're going to launch
+off. We're in the 400s right now. Give them the benefit of the doubt here. I mean, we're in the
+elephantine papyri phase. So we're right here. We realize that it can't be any older than this
+period. Or we need some facts. We need some real facts to base this on. We have nothing. So
+right now I'm in the 450s with you, 400-ish BCE, and he's going to have to convince us,
+Manito and Borosis, and take us closer towards the Hellenistic area with the
+Alexandrian phase, if you will, the Alexandrian library. He's going to have to take us there.
+So thank you for joining me. And I look forward to us digging deep into your book,
+Borosis and Genesis, Manito and Exodus. So thank you so much for joining me.
+My pleasure. And don't forget, we are MythVision.

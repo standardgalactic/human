@@ -1,0 +1,1725 @@
+What are you up to? You're a busy guy.
+Well, yeah. I mean, I guess I've been sort of like talking about this book a lot, but
+also looking for the next big stories in this whole weird hacker world.
+Yeah. It's always fun for me to talk to people like yourself who are like established real
+big time journalists. I'm used to talking to the small time independent YouTube journalists.
+I mean, I've heard the people you have on. These sort of independent YouTube journalists
+are often digging up the most interesting stuff and doing the craziest adventures.
+So I feel kind of lucky that I have a pretty established establishment media job, but I
+still get to go on these weird, down these strange rabbit holes and take time to do
+investigations and books every few years. What got you interested initially
+in this whole like crypto dark web hacker world? Yeah, let's see. I mean, I have covered this world
+of cybersecurity and hackers and surveillance and the dark web and all of that for, I mean,
+before the dark web even existed since like 2007 or so. And I came to it in this weird way of
+I had tried to be a China journalist and then I went to journalism school and I found
+that in journalism school, it's hard to find stories because you're just in school. You're
+not out in the world. So I sort of turned to the internet instead and I don't know. I've always
+been like the kind of reporter, I think, who looks for weird and geeky and strange
+underworld kind of stories anyway. So that worked out for me and I got a job at Forbes Magazine.
+And a few years into being Forbes is kind of hacker, cybersecurity, like internet underworld
+reporter, which nobody really thought was even could be a job back then. I think that Forbes was
+kind of like a little skeptical that that could even be a full time beat. I mean, I came upon
+this phenomenon, which was described to me as a kind of like anonymous and potentially untraceable
+sort of digital currency, which was Bitcoin. This was 2011 or so. And I'd been, I guess,
+at that point, writing about this movement called the cypherpunks. I had written like a cover story
+for Forbes about WikiLeaks and I was writing a book about WikiLeaks and the way that it came out
+of this cypherpunk movement of these radical libertarians who believed that they could use
+encryption to take power away from governments and give it to individuals like carve out spaces
+on the internet, like the dark web essentially, where the government can't reach and where you
+can do black market transactions and communicate in total secrecy. And that seemed to me to be this
+incredibly sexy, fascinating world of where there were going to be like really dangerous,
+interesting things happening for years and years to come. And so when I came upon Bitcoin,
+it seemed to me to be the kind of like holy grail of that world. This is real crypto money now,
+like not just secret communications, but secret financial transactions. And that's going to unlock
+this and monetize this whole online black market. And shortly after that, that's when the Silk Road
+appeared, the first dark web drug market that traded of course only in drugs, but for Bitcoin.
+And it seemed to me to prove, yes, like this is working, like cryptocurrency,
+we barely called it that at the time, but Bitcoin seemed to be unlocking and like
+creating this flourishing new lucrative world where you could buy and sell and also put into
+your body anything you wanted without government intervention. I guess, fast forward to 2020 or
+so. I mean, that's a big fast forward. But by 2020, I began to realize how incredibly wrong
+I had been about that, how in fact, it turns out that Bitcoin was the opposite of untraceable,
+not just, I wasn't just like a little bit wrong about this, I was like completely incorrect.
+And in fact, so were all of the people in those early days who had told me that Bitcoin was untraceable
+or anonymous, including I should say the mysterious creator of Bitcoin, Satoshi Nakamoto, had advertised
+Bitcoin in an email to the scriptography mailing list as like among other things like
+in these bullet points sort of advertising it, Satoshi had written, participants can be anonymous.
+And a lot of people believed that and the Silk Road certainly like thrived on that principle.
+But by 2020, I could see that actually, if you could decipher, if you could crack the blockchain
+basically, and find patterns in it, then actually you could trace Bitcoins and other cryptocurrencies,
+almost all of them in fact, in some ways far more easily than you can trace transactions
+in the traditional finance system. And that in fact, you know, took me a while to realize this,
+but years earlier, the small group of detectives, first in the research world and then in the tech
+industry and then in law enforcement had figured this out like long before I had, and had used
+cryptocurrency tracing as this kind of incredibly powerful investigative technique
+to surprise that whole dark web underworld and take down one massive criminal operation
+after another and this like escalating spree of busts. So, you know, that is like how I came,
+you know, I did this sort of like strange path from being really fascinated by the potential of
+the anonymity and untraceability of the dark web to realizing that like that untraceability had this
+fatal flaw. And that actually created an even more interesting story, which is the story of this
+latest book that I've published, Tracers in the Dark. Now, when Bitcoin first was released,
+you were still working for Forbes? Or were you? Right. Yeah. You're still working for Forbes.
+Okay. And when it first came out, I remember, I remember you mentioned in your book that you
+interviewed or you attempted to interview Satoshi Nakamoto, but you interviewed somebody else.
+Well, the person that I first found out about Bitcoin from and this is like back when Bitcoin
+was worth a dollar. And, you know, I wrote the first print magazine piece about Bitcoin for Forbes
+and I called it, I called the headline of that piece was cryptocurrency. And I thought that I
+was clever even like coming up with that phrase. It wasn't like a thing anybody had had heard of.
+And the first person that I had heard about it from was Gavin Andreessen, who was kind of the,
+you know, one of the big early Bitcoin developers had worked closely with Satoshi Nakamoto,
+but only communicating with him or her, whoever Satoshi is by email. I mean, you know,
+Satoshi's identity remains one of the great mysteries in the history of technology.
+Who do you think he really is? Or is it like a group of people? Like if you were to just,
+if you were to speculate, like I know you don't know, but if you were to have some
+like dying guess, who would you say it was? Oh, man, you know, I have almost like
+tried to stop thinking about it because I have, I have gone down that particular rabbit hole
+multiple times. I once thought that I had found Satoshi when in fact, I thought once thought
+that Satoshi was Hal Finney, the second ever developer of Bitcoin, who actually received
+first Bitcoin transactions from Satoshi. They worked together early on. Hal Finney, sadly,
+died of ALS, Luke Derrick's disease, was paralyzed and passed away around 2014.
+But I interviewed him on his deathbeds. He was fully paralyzed, could only
+communicate with me with his eyebrow movements and with like typing through his eye movements,
+which was very painful and slow. But he denied being Satoshi and he's, his family showed me
+some evidence that he was not. They showed me some of his communications with Satoshi
+that would have been quite hard to fake, you know, retroactively. I looked at,
+there are other reasons I should say that like, I came to believe that Hal Finney was not lying to
+me when he said that he was not Satoshi. But I thought at one point that I had found Satoshi,
+then I once thought that I had found him in another guy. Craig writes a really wild story
+that I truly don't want to talk about anymore because he, Craig Wright, I think, I think,
+I don't want to get sued by him as he has sued many people, but I do not believe he is Satoshi.
+And the fact that I feel like I fell there for a strange trap that like somebody was trying
+to convince perhaps like investors or somebody that Craig Wright was Satoshi created a bunch of
+false documents. Somebody else unwittingly leaked those documents to me. Anyway, long, crazy story.
+Well, the reason I ask is if there's anybody on this planet who knows who it is, it's got to be you.
+No way. I mean, well, I, I would think that like, if anybody knows, it might be some of the characters,
+you know, in my book who have done these incredible tracing, you know, investigations,
+but I never heard from them that they had figured it out. I think if anybody knows,
+it would be the NSA, who, you know, for whom like almost anything digital is like,
+you know, that's their territory and they have incredible surveillance powers. I'm kind of surprised
+that like, it hasn't come, I mean, not kind of, I'm very, it's amazing that it hasn't come out in,
+you know, more than a decade now, even from like some former intelligence person or who knows what,
+like even intelligence agencies have not been able to figure out who Satoshi is. That just seems like
+so uncanny. I mean, I don't, I still, I think sometimes that it had to have been a group
+because it's just Bitcoin worked so well. And it, you know, the smartest hackers that I know,
+you know, kind of would like examine it and think that they might have found a vulnerability.
+And then, oh, that's a dead end. Like somebody thought of this ahead of me. And like that,
+I heard that enough times that it's like, that's just so difficult for one person to,
+to create on their own. But if it were a group, that also just creates a secrecy problem. I mean,
+you know, like, I don't know, two, two people can keep a secret if one of them is dead, right?
+Exactly. So, like, I just don't know what to think anymore. And I've just driven myself crazy
+enough trying to figure it out that I, I'm ready to leave that one mystery. In fact,
+I kind of appreciate that, that there is one mystery left in the world, even on the internet,
+you know, and, and I should say that like Satoshi said in that initial cryptography mailing list
+email, participants can be anonymous with cryptocurrency. I think that like,
+that has proven to be true, but only for Satoshi himself. Like Satoshi has remained anonymous,
+even while amassing a million Bitcoins. Because there was only one transaction, right?
+Well, because he received them from mining, mining Bitcoins, and then never spent any, he like,
+I guess he's sent some to people in test transactions, but mostly he just sat on his gigantic
+multi-billion dollar fortune with like inhuman restraints, you know. I think some people even
+believe Satoshi might be dead himself or herself or what are their themselves because who sits on
+tens of billions of dollars like that. But yeah, I mean, but, but I guess the other half of that
+point I was trying to make is that everybody else, essentially, who's tried to be anonymous
+with Bitcoin over the years, practically speaking, has been unmasked at some point,
+thanks to this surprising trait of cryptocurrency that actually you can trace almost everything
+that happens on a blockchain. That was like the real, you know, dramatic irony of this whole thing,
+is that cryptocurrency turned out to be this kind of trap, I think, for people seeking financial
+privacy and for all sorts of criminals who were lured in to this, to this, you know,
+honeypot, essentially, thinking that they could get away with every manner of crime, like, you know,
+dark web drug sales, massive thefts, money laundering, eventually, you know, the book tells
+stories of essentially human trafficking or like child sexual exploitation stuff. And so many of
+them have been caught on like a gigantic scale, thanks to the fact that the blockchain actually
+turned out to be this massive collection of evidence of every transaction they ever did,
+if you know how to kind of crack that code. Now, some of the stuff that you mentioned in
+your book Tracers in the Dark, which is amazing, by the way, like the story of the Silk Road and
+the story of Ross Ulbricht and, you know, the Alpha Bay story, a lot of people are familiar with
+these stories, but I feel like not a lot of people understand how these things went down and how the
+how law enforcement was able to track these guys down. Yeah, you know, and I feel like that's
+something that is one of the biggest revelations in your book. It really does a great job of
+explaining exactly how this was done. Thank you. Yeah, I mean, for the Silk Road, you know, I had
+like this weird perspective on it because I interviewed the Dread Pirate Roberts before he,
+the creator of the Silk Road who went by the suit of them, the Dread Pirate Roberts, this like
+first dark web drug kingpin. I interviewed him myself before he was caught, before he was identified
+and like turned out to be this 29 year old guy, Ross Ulbricht in Texas. Was the guy you
+interviewed, sorry to interrupt, but when you interviewed Dread Pirate Roberts, are you sure
+that was Ross or was it, could that have been somebody before him? It's a fair question. I
+think it was Ross. I think that like, you know, I've turned that question over a lot of times
+since then. Of course, when I spoke to the Dread Pirate Roberts or just didn't speak to him, I said,
+by the way, I said he was caught in Texas. He was caught in California, but he's from Texas.
+And when I communicated with him, that was over, the Silk Road anonymous messaging system,
+just want to be really clear, like I was exchanging text messages over the Torah anonymity system with
+him, basically. So you never know exactly. And I got the impression just sometimes, I think I
+interviewed him for like four or five hours. And I got the impression that he was maybe even
+consulting with somebody as he, as he talked to me, like he would take a while with some answers.
+And I know that the Dread Pirate Roberts had this kind of second in command who called himself
+Variety Jones. And based on like, covering his trial, Ross Ulbricht's trial,
+eventually Ross Ulbricht's laptop, by the way, was seized with all of his chat records on it.
+He tried to, he had full disc encryption on his laptop. And if he'd just been able to close the
+lid of it, he could have protected all of that evidence, which I think made him kind of over
+confidence in how much, how much he could store on that laptop. But the FBI in this
+lab, its thing operation in the San Francisco library grabbed his laptop out of his hands
+with an undercover agent, got everything. So you could see his conversations with
+Variety Jones and all of the other people working for him in his chat logs, which is crazy that he
+kept those. And, and you could see the Variety Jones at one point suggested this idea, like call
+yourself the Dread Pirate Roberts. Then if you're ever caught, you can tell this whole story, you
+know, like from the princess bride, the movie, which where that name comes from, that that's just
+the kind of rotating handle that like, it's inherited by one kingpin of the Silk Road after
+another. And you can say like, you acquired it from somebody else who created it, and then,
+and then pretend to be the person who created it, but then sold it. And then that'll cover your
+tracks. I mean, it was really brilliant, honestly, like as cover stories go. So
+you can actually see the Dread Pirate Roberts, probably Ross, I think almost certainly Ross
+doing this in my interview with him where he says, actually, no, I didn't create the Silk Road.
+I bought it from its creator. And that seemed to be laying the groundwork for the defense he
+actually would use in his trial, which is that Ross Ulbricht, you know, in court said, I just
+created the Silk Road as an economic experiment, then it was bought from me by the Dread Pirate
+Roberts. And like the real criminals who ran the Silk Road and turned it into this giant narcotics,
+you know, bazaar, tricked me in the last minute into coming back and running it again just before
+I was caught. You know, it's kind of like, it's a bit of an unlikely story, not just a bit. It
+was a pretty weird defense. And it kind of fell apart when this is a big surprise, a trial.
+The prosecution put a guy on the stand who had traced all of the Silk Road's transactions on
+the blockchain and showed that for it's basically for years, money had been flowing
+Bitcoins from the Silk Road server to Ross Ulbricht's laptop. So he was in charge of it
+for all of that time, including the time when I, or he least was like reaping the profits from it
+all of that time, including when I interviewed the Dread Pirate Roberts. You know, this, I
+I know a lot of people, you know, are really skeptical of these stories. I have tried to
+apply as much skepticism as I can as well to this notion that Ross Ulbricht is the Dread
+Pirate Roberts or the only Dread Pirate Roberts. A lot of people are particularly skeptical. I
+just want to air this out like right away, like about the claim that he had people killed, right?
+And say like he was never actually charged with that crime in court, which is true. And that is
+he was charged with like, you know, this kingpin statute of kind of like a general,
+you know, running of a massive criminal enterprise and conspiracy and things. But he was not charged
+in the case that was actually brought to trial with murder, even though he's accused of like
+having paid for the killings of one of his employees and like people who he thought threatened the
+Silk Road and scammed him and stuff. I was skeptical of that too. And I think that in all
+fairness, that absolutely should have been tried in court, given that now he is serving this life
+sentence. Yeah, he's serving the same sentence as El Chapo. Is that right? I mean, it's a life
+sentence. Like it's the maximum double life. Yes, double life, you know, and
+may never see the light of day again. And I think that that is unjust. Just to be clear, I think
+that's a crazy over sentencing, especially given that he was not actually convicted of murder or
+attempted murder or conspiracy to commit murder or anything. But the same day that in his trial,
+which I attended like every minute of it in Manhattan courtroom, like the same day that like
+the prosecution showed that they could trace the Silk Road cryptocurrency from the server to his
+laptop, they could also they also showed transactions from his laptop to a would be contract
+killer for the these alleged murders, you know, and there were times exactly right. They were the
+exact amounts you could see his chat logs, where he's saying to like somebody he thought was a
+Hell's Angel who was going to do these killings for him. Okay, here's the money. And then you see
+it on the blockchain. So and I can see those transactions myself. I don't even have to depend
+on like a source to tell me that I can look at the blockchain and see that stuff. That's the power
+of cryptocurrency tracing. I mean, it's and Ross, I'm sure thought that these transactions were
+untraceable and anonymous. And it's the opposite. Like I, a journalist can can look at the receipts
+basically, you know, on the blockchain. So don't you have to know his wallet address though?
+Right. So and those did come from the prosecution to be clear. But they were, you know, they were
+aired out. And those were those were shown in court. The defense had a chance to say no, those
+are not his addresses. And they did not, you know, so it's like, you have to start doing some really
+convoluted thinking to imagine that a Ross was not the Dread Pirate Roberts. When I interviewed
+the Dread Pirate Roberts, and be even that he didn't try to have these people killed, like I am
+extremely sympathetic. I'm not extremely, I guess I'm, I would say I'm more sympathetic to Ross
+Albrecht than just about any journalist who's covered these stories. I, I thought that the
+Silk Road was an interesting experiment trying to reduce violence in the drug trade, you know, by
+moving it into this virtual world, basically. And I thought that Ross was like an interesting
+principled person who collected ultimately millions and millions of dollars in drug money
+and never spent it and really believes in what he was doing as a kind of like
+political experiment. He saw himself as a revolutionary who was launching this like
+idealistic thing on the in a new world, you know, online. But I think that it's a story about kind
+of corrupted ideals of how Ross, despite his best intentions, was pulled into a situation
+where he felt like he had to do extremely dark and immoral things to protect the experiment
+that he had begun, you know. And that is tragic. But like, I don't, I do believe that Ross tried
+to, that Ross did those things that Ross did run this massive drug trade for better or worse.
+Some people, I think, probably still think that that was a good, a good thing. And then other,
+you know, and then I also think that he actually tried to have people killed, which is hard to
+defend. The interesting thing about the Silk Road, too, is, you know, the debate, was it, was it a
+good thing or was it a bad thing? Because obviously, talking about laws, it was illegal. But if you
+look at the way it worked, you have drug dealers and you have drug buyers, and the drug dealers are
+reviewed on how good their product is. And then sometimes, and then some of those interviews
+with the drug dealers on that deep web documentary, they're talking about like,
+you know, I wouldn't sell, I could tell this guy was a newbie or a rookie. This guy had never
+bought shit on here before, and he was trying to buy these drugs. And I know that these drugs are
+probably way too hard for him. So I said, go do your reading and come back to me when you're ready.
+It seemed like there was at least some sort of code of ethics within that world. And people wanted
+to, you know, you wanted to take care of your reputation and not sell bad drugs. And it seemed
+like it was a net good. Yeah, you know, it's, it's a super fascinating argument. I do think that
+there, you know, some people wanted to describe the Silk Road as like this evil underworld where
+there was no good. That is definitely incorrect. You know, people described that there was child
+abuse on the Silk Road. There was not, see, people said there were, there was contract killing
+for sale on the Silk Road, which is not even true. Ross had to like go find his own contract
+killers if that's, you know, what he, what he did. So, but I, but to say that it's a net good is
+really difficult to say, like I just don't, I can see the good. I can see how like it's, you know,
+for instance, there, there cannot be any violence in the drug trade. You can't get scammed. You
+can't be, you can't even be sold as easily like fake drugs or laced, whatever, you know, stamped on
+whatever because there's reviews and ratings. As you said, I mean, it was, it is an amazing thing.
+If I was going to buy Ecstasy, like today, I would buy it on the dark web because, you know, I've,
+I've been told that there's like fentanyl in everything, like all sorts of things.
+When you buy them, whatever, in like the bathroom of some club. So like the Silk,
+the Silk Road invented this new bottle of sales, you know, that was really smart and
+accountable on both sides, you know, to the buy on the seller. It also like made really hard,
+dangerous drugs available to people who otherwise would not have had them. I think in some cases,
+I, I, as I said, like sat in the trial, I heard the parents of like people talk about their,
+their kids, adult kids and young kids too, who overdosed on opioids and things that were bought
+from the Silk Road. Some guy who had kicked the habit, he'd moved like somewhere, you know,
+farther away from like a major city where he didn't think he would be tempted as much.
+But then he learned about the Silk Road and he saw that like, it's still possible to, to,
+to like scratch that itch and overdosed and died. You know, I actually don't think that like,
+like the, it's, it's more the, I think a better argument. I don't really want to like defend
+the judge in this case, who, who, who gave him this draconian crazy double life sentence.
+But she in that sentencing hearing also like read this, this very long statement explaining
+her sentence. And I thought it was really smart at points. She, she said, yes, you Ross, you did
+reduce the violence in like one part of the drug trade, which is like the retail part,
+like the buyer and the ultimate, the seller and the ultimate buyer, you know, at the very end of
+that supply chain, basically. But if you go further up the supply chain, that's where the
+real violence is happening in Mexico, in like Afghanistan or wherever, like, or wherever
+these drugs are produced. And by expanding the market, by finding like a new way for people
+to sell billions of dollars worth of drugs, you actually, you cut out the violence in one part,
+but you expanded it overall and you did nothing about the violence further up the supply chain.
+So you probably have added, you know, in sort in terms of like net
+harm to the world, you know, and I think that that's a compelling idea that by finding like a new way
+to expand just like the total volume of drug sales, you know, maybe you have, and of course,
+like the people selling on the dark web have to have a supplier, right? You know, maybe you have
+actually caused harm. You know, and Ross, I think that the answer, of course, is like, well, we
+should have, we should legalize all these drugs. I am pretty sympathetic to those sorts of arguments.
+Ross actually told me in our interview, or rather the Drexel Roberts did that he didn't believe in
+drug legalization. And that that is only just like a new way for like the state to control these
+things, to tax them. And as a sort of libertarian, he was, he didn't even want to see drugs legalized.
+Pardon this brief interruption, but I want to take a second to talk about our sponsor, Verso.
+Now, if you've heard this podcast before, chances are you already know how obsessed I am with health
+and longevity, which is why one of my favorite guests to have on the show is nutritional scientist
+and neuroscientist Dr. Dom Dagestino, who actually introduced me to this stuff. Verso is a company
+that is dedicated to translating scientific breakthroughs into products that hold a potential
+to increase longevity. The problem with aging is we accumulate these zombie cells or old damage
+cells that linger beyond their useful life. These zombie cells infect other healthy cells,
+speeding up the aging process, causing things like hair loss, wrinkles, arthritis, cancer,
+dementia, and everything in the realm of aging. What scientists have realized is that we can
+manually induce autophagy, meaning the cleanup process of the old zombie cells and replacing
+them with new ones. Verso's new clean being, which I take every night, is a powerful blend of
+synalytic molecules that help promote the body's natural cleanup processes like autophagy and apoptosis,
+promoting better cellular health, supporting lower inflammation and natural cardioprotective
+functions, while boosting protection against age-related diseases. The three main ingredients
+in clean being are spermedine, lutolyn, and dihydrocorsatin, which play key roles in the
+control of gene expression and are essential for cell growth and proliferation, specifically when
+it comes to cardiovascular and cognitive function, skin health, vision, and the immune system.
+Head on over to ver.so and use the coupon code concrete at checkout to save 15% on your order.
+I linked it all below, now back to the show. He wanted just the black market underworld
+to expand and take over everything, you know. So like lawlessness. Exactly, like total crypto
+anarchy as like, you know, as cypher punks call it. Wow. You know, the thing about Ross's story is
+most people I talk to, they just think of him as this Dalai Lama type character. You know, like he's
+just this big, you know, idealistic savior of the world. It's fascinating that that's who you
+talk to because, you know, like I would say that most of America, most of the media, not to like,
+you know, cast dispersions on my colleagues, like think of the Silk Road as like, you know,
+drugs, death, the dark web, like those are the headlines you see on like the cover of magazines
+about Silk Road when at the time that Ross was arrested. So, you know, it's interesting. I've
+tried to, to just like, sort of maintain my like mental independence on this and not be pulled
+into either in either direction. I mean, you saw deep web where I was like, made by my friend Alex
+Winter, who was I think really sympathetic to Ross. And oh yeah, you can tell at the end of that
+with the interviews of him and everything. Yeah, at the end of the documentary. And I'm like, I think
+I'm, you know, a degree or two more like in the middle or like whatever, just I feel like you've
+got to look at what the Silk Road was worth and all. And it was fascinating. It did come from a
+place of ideals, but those ideals were corrupted to some degree. And like, bad things happened.
+And as they will, like in that world of narcotics sales, I mean, that's,
+I think it would also is kind of like the, I don't know, like, the third season of the wire,
+like Hamsterdam, you know, like, Hamsterdam was an interesting, maybe I'm like losing it.
+I'm losing the wire. Whatever. But it was this basically like, you know, a part of Baltimore
+in this story was like carved out and drugs were basically de facto legalized. And the result was
+that like, the rest of Baltimore, like crime dropped hugely, but people overdosed and died. And
+that was like in Hamsterdam, this one little neighborhood was a hellish place. And I think
+that is in some ways like a very rough analogy of like, of what the dark web or what Silk Road
+might have become if it was, you know, allowed to flourish. Right. I guess the question is,
+you know, the two main things are people can choose to take some sort of crazy illicit drug
+and kill themselves by taking too much or becoming addicted or falling down the,
+falling down the rabbit hole. And, or on the other hand, you have, you know, people taking
+shit where they don't know what it is and it's laced with stuff and you don't know what the
+product you're getting is. Absolutely. I mean, I think that seems like the more dangerous.
+Yeah. I mean, I think that the consumer experience of the dark web is way superior. Yeah. I mean,
+like I have, I bought, I like for Forbes article, like even I bought drugs on the Silk Road,
+and like it's an incredible experience. It was like amazing at the time anyway. And,
+you know, people say like, Oh, is it cheaper? No, it's actually more expensive. But the premium
+right that you paid was for the reviews and the ratings and this assurance that like you're
+getting what you pay for. How did that work? What was that process like buying it? Like you got to
+get in through the onion router, through tour. And then you have to, how do the, can you explain
+the process of what it was like? And what kind of drugs did you buy? Well, I won't talk about what
+drugs in total left in the dark web. But, but, but, but I, for Forbes, I mean, this was bizarre
+that Forbes let me do this. And they actually like, I was going to do it as a sidebar and
+in print in the magazine. And they were like, we can't publish that in the magazine, like
+65 year old men read Forbes magazine. Like, well, you can, we'll put it online. But I just bought
+like a gram of marijuana each from three different, the Silk Road and two of its kind of copycat
+competitors at the time, just to show that what was possible. I mean, this was 2013 when that was,
+that seemed pretty like interesting and edgy. I mean, people were like, had never heard of this
+stuff. So you would, yeah, you would like buy bitcoins. I bought them from Coinbase and,
+which was like kind of the easiest way to, the easiest exchange to use at that time.
+$5 a coin. I can't remember. I mean, I think by 2013, it was like getting up into the hundreds,
+eventually would hit like over a thousand that year before it's first, a big crash or not the
+first crash, you know, but yeah. And then you fire up tour, the tour browser, as you said,
+you like get onto Silk Road. And I think you could probably search the clear night, as they say,
+like the normal web to find the URLs, which are these like long convoluted URLs that end in dot
+onion, because these are like tour hidden services is what they were called at the time,
+which is like a website that runs on this anonymity software tour. You run tour, they run tour,
+you both kind of like put on, I mean, like the analogies, you put on like a blindfold,
+you get like put into a van and like driven to a place where you can't be fault, you don't know
+where you are, and you like meet in the middle so that nobody knows like where the server is
+hosted, nobody knows where you are. It's completely anonymous on both ends. That's how tour, that's
+the dark web works, basically. I mean, I guess like the real technology is that
+your web traffic is basically triple encrypted in three layers. And then it's kind of like
+bounced through three different computers run by volunteers in the tour network around the world.
+Each of those computers can strip away like one layer of encryption, but not the others,
+so that they can only see one step ahead. They can't like see around those blind corners to
+the next computer. And so, after three hops, nobody can trace you from your origin to your
+destination. And the server on the other side does the same thing. They also triple wrap there.
+The tour stands for the onion router. So it's like this is called onion routing because it's
+in layers. And that's how it works. Like you meet in the middle, nobody can trace each other,
+and you pay for your drugs. And it goes into an escrow, which is very clever. The escrow is not
+released until you've got your stuff and you finalize. You say like, okay, got my package. It was,
+here's a rating, here's a review. I released the escrow and the seller gets their money.
+That's one of the most sophisticated parts of it because the price of Bitcoin is so volatile.
+And then how this escrow feature were. And not only that, but like, I mean,
+the drive pirate Roberts like would cover, he created like a feature where he would cover
+any like changes in the price due to volatility because dealers didn't like how volatile Bitcoin
+was. So like, while the money was sitting in escrow, if it went up or down, he would like cover
+the difference, which is just like such a smart financial innovation. Because, you know, drug
+dealers are not trying to gamble or, you know, do speculative investment with their Bitcoins,
+they're sitting in escrow, they just want their money. So like, that's, I mean, you have to give
+credit to where it's due. The Silk Road was an amazing invention. I think like a few people
+kind of realized how smart it was as a kind of financial innovation, not just like the combining
+tour and Bitcoin, which were kind of the two big ingredients, but like the whole thing was just
+so beautifully designed. And at launch, you know, I think hopefully we'll get into like a whole world
+of follow ons, you know, copycats, innovation, evolution of this, you know, dark web drug
+kingpins that followed in Ross's footsteps. Yeah. So this book, it seems like it's not
+just something that you just decided to start on one day. This book seems like it's been part of
+your entire career. It's just sort of like a summary of everything you've been following since
+the inception of Bitcoin. Well, you know, I didn't intend to ever, you know, in fact, actually around
+2014, I was like trying to write a book just about the Silk Road and how crazy that story was and how
+at the time I thought that that book was going to be about how cryptocurrency is unlocking a new
+world of crypto, anarchy and cybercrime. And I couldn't sell that book. Luckily,
+like, I think because there had been like too much coverage of the Silk Road, too many other
+people writing their books, Nick Bilton's book about the Silk Road is fantastic. But I'm lucky in
+a way that I did not write that book because, as I said, like about, you know, seven, let's see,
+like six years after that 2020 or so, I started to see, I mean, of course, I knew that Bitcoins
+could be traced to some degree, like I covered this really closely. I thought, I think everybody who
+in that smart, like, crypto cryptography world sort of could see that, yes, like,
+oh, Bitcoin is not actually as anonymous as it's supposed to be from the beginning.
+But it sort of seemed like if you were careful, if you never revealed your Bitcoin addresses
+publicly, if you put your transactions through like, you know, a few hops of like moving it from
+one address to another to another, before you spent it, if you used laundry services,
+all these tricks, it seemed like you could make it pretty untraceable, pretty private.
+Only in 2020, and did I start to see the Department of Justice
+start crediting in their kind of announcements of major takedowns and busts and indictments
+as one company, and they would say, they would thank Chainalysis, this one cryptocurrency
+tracing firm. Just the fact that there was a cryptocurrency tracing company was, I sort of
+knew about that, but I was like, oh, they're actually really active. They're kind of like,
+they kind of have their hands in a ton of these cases. So were they, was Chainalysis, was their
+sole premise just to work with the government and to help them trace these criminal activity,
+or did they have some sort of other utility in the marketplace?
+Well, the founder of Chainalysis is a fascinating guy. I mean, there's a few founders, but the
+original guy who came up with the idea of a company, Michael Groniger of the Danish,
+he's a fan of Bitcoin, and he believed in Bitcoin. But from the very beginning, he was like, no,
+this is not anonymous or untraceable. There's a whole blockchain here. The blockchain is,
+by definition, like a list of every transaction, every Bitcoin transaction ever. It's just between
+addresses rather than any identity. So like these long convoluted like Bitcoin addresses
+don't look like they have anything to do with an identity in the real world.
+But he, and actually he was, he based a lot of his, his first software on the tricks that have been
+published by Sarah Mikkeljohn, this researcher at the University of California, San Diego.
+He saw that you could find patterns, he rather, you know, Sarah found and he like kind of took
+this further, you could find patterns in the blockchain. And then he built a piece of software
+that could essentially like implement these tricks to, to create clusters to show that like sometimes
+thousands or even millions of addresses belonged to one person or service, and to follow that money
+sometimes until it hit a cryptocurrency exchange where, you know, cryptocurrency exchanges where
+you trade Bitcoins for dollars or vice versa, they have know your customer requirements under
+US law. They have to have identity, identity, identifying information for their accounts.
+But his idea in creating the first tool to trace cryptocurrency, which he called a reactor,
+was that he would sell this to exchanges, to like Bitcoin exchanges. He'd worked, he had helped
+to found another exchange. He was the CTO there, I think. And he left to create analysis in the hopes
+of helping exchanges just know who their customers are, like help them understand, like help them
+deal with these know your customer requirements, I think, in a kind of more automated way.
+Like, you probably want to know if you're an exchange, if you're helping to cash out
+dark web drug money, right? You know, at least like, you may not want to know, but, but like,
+if the government is demanding that you know, this is an easy way to do it. So
+that was his first like idea to pit, he pitched it to exchanges and eventually like a lot of them
+did buy it, but his first customers to his surprise were law enforcement agencies. And he
+actually was just like in San Francisco and was pitching this to exchanges. And then like he,
+Fran was like, Oh, you should talk to this prosecutor who introduced him to
+this agent with an IRS criminal investigations in San Francisco named Tigrin Gambarian,
+who was in some ways like the central detective of the book. He was Tigrin was the guy who came
+from Soviet Union. Yeah, he grew up in Armenia, but then in post Soviet Russia as well,
+had like a very tough childhood there. I mean, like he truly like war torn Armenia.
+And it's a very interesting character. Like IRS criminal investigations is a weird place. Like,
+I don't think most Americans know about it even, but it's like this actual law enforcement agency
+within IRS. And they, you know, I mean, they kind of have a chip on their shoulder about the fact
+that people don't even know this, but they, they carry guns, they make arrests, they like
+carry out search warrants, they travel around the world and like, you know, get people extradited
+to be prosecuted in the United States and stuff. Like, you know, they are a full blown
+law enforcement agency, but like get no respect from FBI and DEA or whatever. Tigrin. So Tigrin was
+like, you know, a forensic accountant who carried a gun and like was kind of a like this weird mix
+of like nerd and tough guy who also had looked at Bitcoin from the beginning and saw him also
+like, there's this blockchain here. I don't believe this can be anonymous. I can see these
+transactions. And, you know, his first, he was actually the first to ever show that it was possible
+to trace Bitcoin within law enforcement. And this, this was not in the Silk Road case in the
+traditional sense, but in the wake of the bust of Ross Ulbricht, which did not actually use cryptocurrency
+tracing, he was identified through other mistakes he'd made. Tigrin Combarian basically like sat down,
+looked at the blockchain and showed that a DEA agents and a secret service agent who were
+involved in the investigation of the Silk Road had stolen money from the Silk Road in like as
+corrupt cops, basically, actually, one of them had sold law enforcement information to the
+Dread Pirate Roberts. One of them had stolen hundreds of thousands of dollars worth of Bitcoin
+from the Silk Road. But they, these were two federal agents who in their own investigation of
+the Silk Road had thought that they could use the, you know, the false promise of this, this fake
+idea that Bitcoin is untraceable, that they could just take any money they wanted to, that they could
+lay their hands on from the Silk Road and get away with it. And Tigrin was the one, Tigrin at IRS
+Criminal Investigations was the one who sat down and showed, no, look, I can see that Karl Mark
+Force, this DEA agent is receiving money from the Dread Pirate Roberts. Right. You know, like
+nobody thought that that was possible in 2014 when he did this. Now as Karl Mark Force, is that one
+of the guys who set him up with one of the first murder for hires? Exactly. I mean, that's, this
+is such a bizarre story. But yes, like Karl Mark Force had gone undercover on the Silk Road, had
+basically like pulled off this kind of amazing thing. He was not actually working with the New
+York group of FBI agents who would eventually take down the Silk Road. He was, he was part
+of this Baltimore task force. And they, you know, using him as an undercover agent did this crazy
+thing where they set it up where Ross would have like a shipment of cocaine sent to one of his
+employees. And Curtis Clark Green is his name. He was his grandpa in Utah. I mean, it's bizarre.
+And, and then have him arrested. They had him arrested when he receives the cocaine shipment.
+And then essentially flipped him and like Ross understanding that, that his employee had then
+been arrested was like, okay, I guess we got to have this guy killed. And you can even see in the
+chat logs with variety Jones is sort of second in command, where he kind of reluctantly comes to
+this decision. And orders, he orders Karl Mark Force as the undercover agent is under his undercover
+identity, who is, you know, at this point, like very close with, with the Dreadpiper Roberts,
+he orders call he asks rather Karl Mark Force to have his employee killed. So it's actually
+Karl Mark Force as an undercover, who is asked to kill Curtis Clark Green, bizarrely. And, and so
+they, they stage his murder for the benefit of the Dreadpiper Roberts. They like take fake photos
+of him being tortured and killed. And they use like Campbell soup to show the blood coming out of
+his mouth. So one of the big things, one of the most interesting things to me about how they were
+able to manipulate the Silk Road was these, these federal agents were able to so they were
+rating these users home, they were like, somehow rating the people who were users on the Silk Road,
+taking all their shit taking over all their ship and not arresting them because if they
+arrested them, that would sort of tip off Dreadpiper Roberts that they could have that they could
+flip. So they would purposely not arrest these guys who are working or a part of the Silk Road.
+However, they would take over their identities on the Silk Road. Is that right?
+I think that they, they managed this with the, actually the other group, the New York group,
+managed this with one other of the Silk Roads employees, a woman, actually, who
+Homeland Security Investigations agents working in that New York group did somehow identify
+Silk Road staffer, convinced her rather than to avoid prosecution to give him her account.
+And then he became an undercover operative, like working with the Dreadpiper Roberts. He never
+became aware of that. He was, that was just like a successful kind of infiltration of the Silk Road
+that was used up until up into the very moment of Ross Ulbricht's arrest. That undercover, you know,
+agent was communicating with the Dreadpiper Roberts and like telling him, Hey, can you log
+on to check out something? And then he logged on at this, at the moment that the FBI was there
+with undercover agents ready to arrest him so that they could make sure his laptop was open.
+Right. So yeah, there were like so many different things happening. The whole Baltimore thing
+turned out to be like a total, you know, fails investigation. The Baltimore, all of that stuff
+with the fake murder, everything was, didn't really get them any closer to identifying the
+Dreadpiper Roberts. So going back real quick to, to when Carl Mark Force was talking to
+Dreadpiper Roberts about Curtis Green, is that his name? And Dreadpiper Roberts basically said,
+you know, we need to kill this guy. Was Carl Mark Force sort of like inciting him or like pushing
+him down that path? Like, Oh, you got to be aware of this guy. You got to figure out what to do
+with this guy. Or was it just, did it all come? You know, it, he was not from what I can see in
+reading all of the conversations. It was really Variety Jones who was his second in command.
+Ross was, was kind of like, I don't know, like I've never had anybody killed before. I mean,
+the Dreadpiper Roberts, you can see this in his, and Variety Jones is the one saying like, you know,
+if this were the Wild West, like this would be a hanging offense, you know, he's like,
+honestly, if you can't do this, I'm not sure we can continue to work together.
+He's really pressuring him. And then amazingly, he turns to an undercover agent to get it done.
+In fact, the same undercover agent who, who arranged the whole situation. I mean,
+it is like, that was just a lot Shakespearean, like coincidence is, but yeah. But this is like,
+you know, all just, I just want to be clear, like, this story is told in American Kingpin. This is
+like a crazy, the story of the Silk Road is insane. I almost found it like difficult to get through it
+so that I could start to tell the new stuff, which is, which is that after all of that happens,
+that's when Tigre and Gimberian showed that this bizarre Baltimore investigation was corrupt as
+hell. And the way that he did that was by tracing bitcoins, which was not like something that anybody
+had ever done before. And this has not really been like highlighted in that, in the Silk Road story
+that like that is how these corrupt agents were found. They too, like Ross Ulbricht fell for,
+they were seduced by this false promise of Bitcoin's anonymity. And not one, but two
+of these Baltimore agents independently, they didn't even know about each other,
+were trying to skim hundreds of thousands of dollars out of their work. They both went to
+prison. And that was in some sense, like the beginning of this new era of cryptocurrency
+tracing, like as this golden age of law enforcement investigation on the dark web.
+And what year did this happen? What year did this happen?
+So that was 2014, the same year that Chainalysis was founded by Michael Groniger. And then Michael
+Groniger and Tigre and Meets in San Francisco, and they become this kind of odd couple. Chainalysis,
+in fact, in IRS criminal investigations, become this partnership that uses cryptocurrency tracing
+to just like carry out, you know, just go on a spree, like a bonanza of busts and takedowns over
+the years that follow and like solving many of the biggest kind of unsolved cases in dark web
+and just like racking up a huge number of arrests.
+Yeah, it's like, when you were explaining, what's the woman's name again, who had shit
+of warehouse and she was buying all this stuff from the Silk Road?
+Yeah, that's Sarah Mickeljohn.
+Sarah Mickeljohn, yeah, she was doing like this, like almost just taking these millions
+and millions of wallet addresses and just like using patterns to sort of like place them in
+certain buckets and figure out which ones go where and how was she like, what was her big
+revelation? What was her sort of value to all of this?
+So like this, I don't know, we're like, we're winding about a year now, flashing back. So
+like 2013 is when Sarah Mickeljohn at UCSD was like, hmm, you know, she was a brilliant,
+you know, cryptography researcher, but she had not really looked at cryptocurrency and she was
+like, you know, I wonder if this stuff is as anonymous as people think it is. And she took
+almost like this anthropological approach, like I wonder if I can just figure out
+like what people are doing with cryptocurrency. Maybe I can just like figure out how many people
+even are using it, which nobody knew really. And she was the one who came up with these
+clustering techniques, basically like a few clever tricks to show like that, you know,
+certain addresses all must belong to the same person or organization. Like one is if you know,
+to spend bitcoins from an address, I don't know if you want to get into these like nerdy details,
+you tell me when to stop, but like to spend bitcoins from a Bitcoin address, you have to have
+the private key for that address. And so if you create a multi input transaction as it's called,
+which like sounds complicated, but it's really just like sending bitcoins from lots of addresses
+at once in one transaction, then you must control the private keys for all those addresses. That
+means like you look at that multi input transaction and you say, oh, all these addresses must have
+belonged to one person or to one service. And if you then like take that sort of felt like lens
+and like look at the whole blockchain for every multi input transaction, you can immediately
+start to create clusters that show, oh, I think like she showed like right away, there are maximum
+half as many people here or services as there are Bitcoin addresses. She like cut the whole
+blockchain in half. Right. And it's complex. Exactly. Yeah. And then like that's that's
+that was trick number one, kind of like an easy one. Then she came up with her own like that. In
+fact, that was something that was kind of like an open secret in the crypto world already at that
+point. But then she came up with another one, which is like, that when you spend bitcoins
+with many wallets, you basically cannot spend a fraction of the coins in an address, you kind of
+like crack open the piggy bank, like the whole piggy bank of that address, and you send all the
+coins to whoever you intend to like receive part of them, and then you get back change at a different
+address. And that can make it like really difficult to follow the money because you don't know which
+is the recipient address and which is the change address. But she realized, oh, well, the change
+address very often is recognizable because it's the new address, the one that was just like created
+to receive the change. The recipient address sometimes has been used before or it's old.
+So, you know, with that algorithm, that like little trick, she applied that across the blockchain
+and then could find like, oh, I can see like, here's like a fork in the road where everybody
+else didn't know how to follow the money, but I can follow it. I can follow it to the change
+address. And that still belongs to the first person sending the money. That's his address.
+In fact, all of these change addresses are his address. I can sort of like follow this
+wad of cash as it like, as bills are peeled off and handed to somebody and it keeps getting like
+taken back by the spender and put in a different pocket, but it's the same wad of bills, you know.
+And then eventually you see that that wad of bills like sent to a cryptocurrency exchange
+to be cashed out. And there you can send a subpoena. She knows like the law enforcement agency can
+send a subpoena to that exchange and identify somebody. So, like already she's like building
+like powerful tricks to follow the money and identify people that were not, you know,
+previously like obvious to anybody in this world. And then she also, as you said, started
+doing these undercover transactions basically, where, you know, she would put money into the
+Silk Road and take it out again. She never actually bought anything on the Silk Road, she says.
+But like she could have, obviously. And doing those undercover deals, she can see which addresses
+she's interacting with. And every time she does that, she can sometimes like say, oh,
+this address belongs to the Silk Road. It's part of this big cluster. So that whole cluster is the
+Silk Road. Now I've identified like a million Silk Road addresses. And I can see everybody
+interacting with them. Each one of those is a drug deal. You know, that is so powerful.
+And it was the first like real like massive hole blown in this myth of Bitcoin's anonymity.
+That paper came out in late 2013. Tigering Iberian read it before he traced these two corrupt agents
+money. Michael Groninger read it before he built a tool that like automated all these tricks,
+you know, and started selling that to law enforcement. So that's like the true kind of
+you know, a hot moment. Like this is possible. And then soon chain analysis was the one that
+really built it into a company. I mean, it's very interesting, I think, to see that Sarah
+Mikkeljohn did not like become a professional cryptocurrency tracer or work with law enforcement.
+And that part came out of her ambivalence about the like morality of this or like,
+is it really a good thing that cryptocurrency can be traced? She saw it as, you know, as financial
+surveillance. And she like, I think in a really legitimate way, like believes that, that there
+are good uses of financial privacy, that that is important. Cryptocurrency was meant to be an
+antidote to like, to financial surveillance in the traditional finance world, where every credit
+card transaction you ever make is like, extremely transparent to companies and governments who want
+to get that data. For Groninger, there was obviously money involved. Yeah. So you asked me too about
+like Groninger's motivations. But I never quite like spelled it out. He, he saw it really differently.
+He was like, well, no, cryptocurrency was never meant to be private. You can look at like, this
+is whole blockchain, like, nobody could have ever had like, any idea that it was private,
+which I think is not exactly right. I think Satoshi did think that it was meant that it could have
+that had privacy properties that were important. But he was like, this is this whole idea that
+it was anonymous, you can, it was just not there in the technology from the beginning. And the great
+thing about cryptocurrency, according to Michael Groninger, is that it's transparent and you can
+see everything. And that's what's going to make this great. And we're going to like, you know, kind
+of fuel that we're going to show how transparent it is by selling this tool that will allow anybody
+to trace not anybody, but his customers to trace cryptocurrency transactions. And we're going to
+clean up the wild west of the crypto world and make it legitimate and, you know, respectable
+and legal. That's, that's how chain analysis sees these things.
+So when Groninger started first working with Gambarian, what was sort of the first big case
+they started working on trying to crack? So Groninger, before even meeting Tigran, Tigran
+Gambarian, had taken on this, this first case for chain analysis kind of pro bono on behalf of
+Mt. Gox, or actually the bankruptcy trustees of Mt. Gox.
+So for people that don't know, can you explain what Mt. Gox was?
+Yeah, Mt. Gox was the first Bitcoin exchange. For a long time, it was the only one. And like,
+I tried to buy like $40 worth of Bitcoins from Mt. Gox when Bitcoin was worth a dollar. Like,
+and when I was working on my story about Bitcoin for Forbes, and it was like buggy and
+the transaction did not go through. And I like gave up and I, you know, probably lost millions
+and millions of dollars by not buying those Bitcoins at a dollar. But the Mt. Gox, you know,
+as buggy as it was, and it was kind of like always considered a little janky, it was the only way
+to buy and sell Bitcoins for years. Was there a big like criminal conspiracy that went down?
+There's a guy who lives like two hours south of here, who was like largely involved with Mt.
+Gox and he went to prison. There was a big investigation. What the hell is his name?
+He has a podcast. I don't know. I'm trying to think of who that could possibly be.
+He's got glasses. Fuck, he lives in Sarasota.
+Is it the original creator? I don't know. I don't want to sit and take a guess at who went to prison.
+I got to look at his name. I know, you know, I know who you know that this guy is.
+Charlie Shrem. Oh, Shrem. Yeah, of course. Charlie Shrem. Yeah.
+Wasn't he involved with Mt. Gox? I don't think he was. Okay. Yeah. Charlie Shrem.
+Yes. It's an interesting guy. I met Charlie in New York like around the time I started covering
+Bitcoin. He was a really nice guy. I can't remember what his first company was.
+I think it was like a payment process or something for cryptocurrency. It turned out,
+you know, I don't know the details of his case that well, but I think he was essentially,
+he was accused, I think, of working with the Silk Road to launder money, basically. I think that's
+what he went down for. But he's out of prison. I didn't cover Charlie's, I can't remember the
+details of his case that well. I did cover some of it, but it's been years. I don't remember the
+details either. All I just remember, I remember him being associated with Mt. Gox somehow.
+Well, everybody was kind of. I mean, Mt. Gox was the only game in town for years. It was the only
+way to get cryptocurrency. And I remember I actually was going to write a, I wanted to write
+like a big feature about Mt. Gox for Forbes, like look at this, you know, look at this massive
+business at the center of Bitcoin. And people warned me like, don't do that. That's this place
+doesn't, this place is shady. It's not going well. Like they just don't know what they're doing.
+And then in 2014, sure enough, like Mt. Gox went bankrupt. Like suddenly just had lost
+everybody's Bitcoins, just froze all withdrawals. And they said that they had been hacked.
+A lot of people didn't believe them. A lot of people thought like, oh, the
+Mark Carpellus, this kind of weird, eccentric French CEO living in Japan had stolen all the
+money. That's what people thought. And Michael Groniger agreed to take on the case on behalf
+of the bankruptcy trustees in Japan for Mt. Gox and figure out where all of the missing Mt.
+Gox money had gone through cryptocurrency tracing. And this is like half a billion dollars of Bitcoin.
+At the time, I mean, much more now. And he basically, just to cut the story short,
+like he traced that money to another Bitcoin exchange. He showed that it had been stolen
+by hackers, essentially. And that it had not been embezzled by Mt. Gox, his own staff.
+He actually showed that it seemed to have been taken by people in Russia's time zone,
+was his first clue. And then it had been cashed out through another cryptocurrency exchange,
+like a newer one called BTCE, that had by that point, this reputation as a kind of black hole
+of money laundering. Like Mt. Gox would follow anti-money laundering laws, like you have to
+get people's identifying information to cash out their money. BTCE was this mysterious exchange
+hosted like nobody knew where, by whom. And it had no know your customer anti-money laundering
+requirements. So it had become like this magnet for all kinds of criminal cryptocurrency,
+including it turns out, it had cashed out, it had been used to launder the half billion dollars
+of stolen Mt. Gox money Michael Kroniger showed. So at the same time, Tigering Gumbarian was
+investigating BTCE because it looked shady as hell. And he had taken on that case.
+And so their cases kind of converged again in this bizarre way. And like, it turned out Tigering
+through like other investigative means, not cryptocurrency tracing, but like more traditional
+law enforcement stuff, tracing like IP addresses and seizing the BTCE server, which turned out to
+be in Virginia, was able to show that the same person cashing out all those Mt. Gox coins into
+BTCE was also one of the creators of BTCE. That in fact, BTCE had been created, this whole cryptocurrency
+exchange had been created just as a way to launder the loot from this giant heist of Mt. Gox. And
+then once the creators of BTCE had created this kind of trading platform to launder this half
+billion dollars, they were kind of like, well, we might as well keep it running. This is actually a
+profitable business. And BTCE became like, you know, started laundering all these other kinds
+of cryptocurrency from criminals around the world. But it was all the same. It was like
+BTCE, the creator of BTCE, one of them, and the sort of money man for the Mt. Gox hacking operation
+were one guy and they showed that it was this Russian man, Alexander Vinik. And
+he, they had to keep that secret for years, but he eventually went on vacation and Greece
+was arrested. Prison time in France has now been extradited to the US and is facing trial here. So
+I should say like, I guess he's, you know, innocent until proven guilty on some of these charges,
+but he was convicted of money laundering in France. So, but that was like the first
+major case where they solved this biggest mystery in cryptocurrency at the time,
+like this missing half billion dollars. They basically vindicated the CEO of Mt. Gox who
+was thought to have taken that money. They showed that it really was a Russian hacker who'd taken
+it more or less. And they took down BTCE, which turned out to be kind of this treasure trove of
+tracing also because once you have that server, that would be like, they later turned out to be
+this wealth of information about who was cashing out money. They could get
+sometimes IP addresses and things from that server and, and like learn about some of the
+people who thought that they were anonymously cashing out stuff through this, this completely
+like black market exchange. But that was kind of the beginning of this like golden age of cryptocurrency
+tracing where IRS criminal investigations and chain analysis and eventually DEA, FBI, everybody
+has used this massive like once kind of secret technique to, as a super weapon,
+to just like go after the biggest criminals on the dark web and end in that whole world of
+like the internet's undergrounds, basically. So Vinik was a Russian guy. It's so wild. Is he
+got, is he the guy who was a former credit cards gamer too? I, I've been told that like he has a
+past that he was sort of known. You know, I didn't want to like, I guess I, this is all a little
+thin because I have only heard it from like a couple people and I don't see it in
+court records or anything. But he is sort of, he, I was told, you know, allegedly, I guess he had a
+history as a credit card fraud and money man, like the one who would do the laundering once you,
+who would help you cash out basically. And, and so I think you might be thinking though of Alexander
+Kaz, who was like the real credit card fraudster, who becomes like a massive like dark web kingpin,
+you know, we can get to that. Yes. Yeah. No, because I've had, I've had a credit card scammer
+on here before and he was telling me, you know, when he was in his peak of, you know, buying
+these credit cards and manufacturing these fake phony credit cards and basically uploading people's
+money onto them, he said that everyone he was doing business with was in Ukraine.
+Yeah. And Ukraine is like a hotbed for this kind of stuff. I think that Ukraine
+is not like a great place to do this stuff anymore because Ukraine has, I mean,
+Ukraine has corruption problems and there's no doubt, but like Ukraine has become, you know,
+it's sort of shifted its, its alliances and is more cooperative with Western law enforcement
+than it maybe used to be. Now, Russia, but I mean, not now, but Russia remains behind the kind of like,
+I was going to say Iron Curtain, it feels like rude to kind of like anachronistic to say that,
+but like, there is like a barrier though, like you can get away with so many kinds of cyber
+crime, ransomware, like dark web drug, whatever dark web cyber crime of all kinds, like beyond
+that border with total impunity. That's what Alexander Vinik was. You mean from inside Russia's
+border? Oh yeah. Yeah. Right. But Alexander Vinik made the mistake of traveling, you know,
+to Greece and like these kind of undercover agents like closed in on him on this beautiful
+Greek beach and arrested him. Like, and like that, and that, yeah, was like a rare instance when one
+of these like massive criminals of the Russian underworld was actually like laid hands on. I
+think I'm sure that like, these stories kind of resonate within that world and they're learning
+like do not go on vacation to Greece, you know. Yeah. But yeah, like, should we get into Alexander
+Yeah. So explain it. When did Alpha Bay first come on the map and what was Alpha Bay? Was it
+basically just a reaction to Silk Road going down or was it like it was obviously way bigger than
+Silk Road? But was it essentially the same thing? Well, yeah, I mean, it's interesting. We had the
+whole conversation about like the ideals of the Silk Road. And you know, and in fact, like when
+the judge in Ross Albrecht's case sentenced him to life, double life in prison, she was trying to
+send a message like don't follow in this guy's footsteps. That did not work. Like, in fact,
+it just brought more attention to the Silk Road and, you know, created more copycats. And then
+like subsequently, like, there was just this power vacuum that was filled by one dark web
+market after another, each kind of like vying for supremacy. But then, and a lot of them would just
+wear, you know, scammers, they would just like get big enough and then steal everybody's money
+and run away. That's called an exit scam. It happens like a couple of times. Some of them
+just disappeared. A couple of them were taken down by law enforcement because they made like
+some mistakes. But then, yes, like Alpha Bay came on the scene and did not go away. It launched in
+2014. But by like 2016, it was not only the biggest dark web markets, but the biggest dark
+web market in history. It had like surpassed the peak of any previous market. And part of it's a
+part of what made it kind of like stick in that way was that its founder, this mysterious kingpin
+named Alpha O2, went by Alpha O2 was, as you said, a credit card fraudster, a known credit card
+fraudster with a reputation who had like sold a guide to credit card fraud even online. And so
+Alpha Bay initially just sold credit card hacking tools, sold stolen credit card information.
+It was like a cyber crime market. But then Alpha O2 sort of innovation was to combine that with
+the narcotics dark web, which is actually much more profitable. And so Alpha Bay became this
+like one step shop for like stolen hacking tools, sorry, stolen hacked information, hacking tools.
+You could like search for like very specific stolen credit cards in your area to like better
+to fraud people or whatever. And then it also had, you know, heroin and fentanyl and everything
+imaginable on the drug side. And it did grow eventually to be 10 times the size of the Silk
+Road. And Alpha O2 was like this kind of like mysterious and seemingly untouchable
+kingpin of this growing drug web market.
+Did he have like a public persona like Dreadpower Roberts did or like this mystique about him?
+Yeah, this was what was interesting. Like, you know, he first of all had no ideals. It was pretty
+clear. He was a criminal who just wanted to make as much money as possible through Alpha Bay.
+And as soon as Alpha Bay started to become giants, he kind of like, instead of like
+the way that, you know, the Dreadpower Roberts behaved was like,
+he was this political leader of a movement, he would post these manifestos and love letters.
+And he did an interview with me and like, you know, and he had like a Dreadpower Roberts
+book club where you would read about like Austrian libertarian economics and stuff.
+And this guy was like a real gangster.
+And this guy, yeah, he just like once he once he was making millions and millions, he
+he just slipped into the shadows. He actually changed his name from Alpha O2 to just admin.
+He said like, I'm not going to, I will no longer be like communicating with
+with customers or sellers on Alpha Bay. You can talk to my right hand man, you know,
+who is D Snake, which is like extremely to me, that's like a real criminal.
+That's like somebody who is smart and just motivated by survival and money.
+Completely take, take ego out of it, right?
+Yeah, exactly.
+It turned out he was kind of like getting his like ego outlet elsewhere.
+We can talk about that in a minute.
+But like it and also he would sign off his messages before he disappeared,
+basically with Russian language, like, like he would write,
+be safe brothers in Russian at the end of his messages.
+There were rules for Alpha Bay.
+I mean, there were very few rules.
+There were none of the Silk Road rules about only victimless crime, that kind of thing.
+But there was one rule that you could only sell hacked information if it didn't come from
+Russians or former Soviet countries. So like there was it seemed like it was this tradition,
+like this is very common with Russian cyber criminals.
+There are rules to prevent Russian law enforcement from coming after you.
+And you just target the West. And that way you say you kind of don't shit where you sleep,
+so it was a sign that everybody thought Alpha O2 and Alpha Bay were in Russia
+and that they might truly be beyond the reach of Western law enforcement.
+This was going to be like the one that will never, as I talk to agents and prosecutors,
+they would say like, this is not, this might be like the untouchable one.
+One of them called him like the Michael Jordan of the dark web.
+Like what if he's just perfect?
+What if he's just so good at this that we'll never catch up with him?
+It's not like, you know, it's not going to be the same story as with Ross Ulbricht.
+Yeah, but they, around that time, this was like late 2016 when Alpha Bay was truly
+taking off and growing into this unprecedented like giant bizarre drugs and crime.
+That is when a tip came into the DEA in Fresno that was basically this email address.
+And it turned out that in Alpha Bay's very first days online, before anybody was paying
+attention to it, its user forums, when you signed up, you would get a welcome email
+and that welcome email contained the email address pimp underscore Alex at Hotmail,
+pimp underscore Alex underscore 91 at Hotmail.com.
+And somebody like this one anonymous source had recorded, had kept that email.
+This, that, you know, that email leak was fixed very quickly, but this source had like
+held onto that email for years, more than two years, and then sent it to this DEA agents in Fresno.
+And that was the, by like kind of following that email address, this DEA agent and the
+prosecutor in that office, whose name was Grant Rabin, the DEA agent has asked me not to like
+talk about his name, but he, but they found that other places and were eventually able to show
+that belonged to Alexander Koss, this French Canadian guy, pimp Alex 91, like the 91 is his
+birth year. He was really young. And he, they could see like through his
+family's social media, his like in-laws, social media posts, really, that he was a web developer,
+but he had moved to Bangkok. And, and like his, his, he married a Thai woman and her family had
+like posted photos of him with a Lamborghini, his, he had like a villa in Phuket and stuff. And he
+sort of posed as like a early cryptocurrency investor and web developer who just had this
+money from like buying in early to Bitcoin. But they had, you know, their first lead that he was
+perhaps Alpha O2. And it was a pretty, no, it was like a strong lead, but they almost like
+didn't believe. All based on that email address. Exactly. And, and they thought to themselves
+like, yeah, this is amazing. It's almost too good to be true. Is somebody setting this guy up?
+Is he being framed by the real Alpha O2? And it was just around that time that, in fact, like
+independently, completely, not these two FBI agents in Washington, DC, who asked me to call them
+just Ali and Aaron, they were totally independently looking, using chain analysis as software
+at the Alpha Bay cluster, like this constellation of 2.5 million addresses, Bitcoin addresses
+that chain analysis had figured out belonged to Alpha Bay. They didn't know about what was
+happening in Fresno, but they thought like, why don't we like find a way through cryptocurrency
+tracing alone to figure out who Alpha O2 is, which nobody had ever done that. Nobody ever
+identified a dark web kingpin with crypto tracing. But they had this idea that like,
+when an exit scam happens, as I mentioned, when the administrator of a dark web site
+like just steals everybody's money, every time that happens, the whole dark web freaks out
+and everybody warrants each other like, pull your money out. Like, don't keep your,
+don't keep any cryptocurrency on a market that you're not about to spend right away,
+because it's not a safe place to leave your money, right? And they realized like the only
+person who is not going to be freaked out and pull their money out of those wallets when an
+exit scam happens is the boss himself, the admin, the one who controls it. Exactly, right,
+the one who controls the whole market. So they started kind of, I guess in a similar way to
+Sarah Mikkeljohn, just kind of using that idea to scan like a big chunk of the blockchain,
+just the, the alpha bay cluster within chain analysis is, you know, software. And they found
+exactly this, like some collections of like big troves of crypto that had sat unmoved even as
+exit scams happens. And then eventually, like some of them had been later moved out of those
+addresses sent through like some hops, and then eventually ended up at exchanges. They found one
+massive amount that had gone to an exchange and they sent a subpoena to that exchange,
+only after sending that subpoena did they kind of through the grapevine hear this tip
+about Alexander Cause. And after learning that like, you know, Fresno was onto this,
+this weird French Canadian guy in Bangkok, only then did they get the results of their subpoena
+and like lo and behold, the holder of that account that had cashed out these coins from alpha
+bay was belonged to Alexander Cause. That was like real proof that he was Alpha O2. They traced the,
+you know, the millions of dollars in profits of this dark web drug lord and showed that they
+flowed out to this exchange and were being cashed out by Cause and his wife in some cases.
+So now they had like, you know, kind of nailed to the wall this theory that had just been
+totally unchargeable previously and they had their guy. Where was he located? He was in Bangkok.
+Okay, yeah, you said that a hundred times. No, but he like, you know, but that was just the
+beginning. I mean, the, the, the, that was how they, they had identified him. They still had to
+kind of like get him dead to rights in the same way that they did, that the FBI had with Ross
+Ulbricht, which was not easy because like Cause was smart. Despite that, that email slip up,
+um, which he, you know, which was brief, but really, uh, kind of, um, just like head slapping,
+like amazing mistake to have made, like, um, he was smart and careful. And he had learned from
+Ross Ulbricht, like, yes, you encrypt your laptop, um, so that if you just closed the lid, like it,
+you never, um, you know, it, it, if you just closed the lid rather, like every secret on
+in his scrambles, such that no law enforcement agency will be able to decrypt it in all of human,
+you know, many human lifespans. But, um, he had learned that you never like work in a public
+library or a public place of any kind. You don't, he didn't, he didn't open his laptop outside of
+his home, which was like in this, uh, you know, a house in like behind a gate, behind a wall,
+the outskirts of Bangkok, like the logistics of, of getting that laptop opened and unencrypted to
+really catch him red handed very hard. It was going to be like a real challenge. Um,
+but you asked me, like, you know, where, where, uh, he didn't, like, did he not kind of like have
+the public ego of the Dread Pirate Roberts? It turns out that he was posting online, really,
+you know, flurried, like crazy. Um, he was very prolific, but under a different pseudonym,
+which was kind of his like pickup artist, sex addict pseudonym. He was on this pickup artist
+forum, um, Roushvi. And there he, he had this handle Romeo. He, you know, enjoys. Yes. He was
+like a fan of unprotected sexes. He might like imagine. Yeah. And he was, he would, I mean,
+he just had like endless, um, numbers of extra marital affairs and live blog them, basically.
+Like he would just like pick up Thai women and his Lamborghini from like 7-eleven or whatever,
+and then go have sex with them. And then just write up in this, like just, it was called the,
+I just had sex thread of like, uh, Roushvi. So he's picking up prostitutes and then writing
+about it, like posting about it. He was not even that like picky. Like he was just like picking up
+women from the parking lot of 7-eleven, whoever they were. Like, um, and, you know,
+I don't think he had like that hard of a time, unfortunately, because he was,
+he was projecting wealth. He was a white dude who would just kind of signifies money, unfortunately,
+in Thailand. And, um, and yeah, I mean, and he was extremely manipulative, manipulative with women
+and a misogynist. And, you know, these posts are like some of the grossest shit I've ever read.
+And I read like everything that he posted there. Sick fuck. Um, he would, he said,
+he bragged about, he had like a second home. He used as his like, whatever. Fuck pad. Yes.
+And he says that he recorded all of his sex there, just in case like the women accused him
+of a sexual assault or whatever. So he would have like evidence of it or something. He says
+that he kept it on an encrypted hard drive and, um, you know, like all this and, um, but he also
+just like rampant misogyny, homophobia, like terrible, amoral shit. Like he had a real,
+like whoever gives the least fucks wins. Yeah. I think that was like an actual kind of quote from
+his, that was his philosophy, though. He was truly like business philosophy. No, from his,
+his, his pickup artists philosophy. But I think it, yeah, sure. It pervaded everything. You know,
+like he, he was a true, amoral person. Ross Ulbricht, I think, you know, I'm, I, I feel for
+him. And, uh, I think he was, he's an interesting, like sympathetic character. And, uh, Alexander
+Cause is like a true, he's like most American businessmen hollowed out, uh, monstrous kind of
+person. I mean, I'm sorry to say this because I'm like speaking ill of the dead. We'll get to that.
+Well, I mean, it's like, you know, those, the person who gives the least fucks wins. It sounds
+like that's a very successful recipe for in America, you know? Sure. I mean, and he was
+successful in business. He was, I guess successful in his like sex life. If you call that success,
+I mean, he seemed to, I mean, if you read his Roush V posts, they're like a whole psychological
+portrait. Like, I don't want to be like two, I'm not a psychologist, but you can see him talk about
+how he was raised by his mother and his father was not around and like how he craved like.
+It seems like the kind of guy who didn't get much attention from females when he was younger.
+I'm sure that that's probably true as well. But he also, he, he like, he
+he just openly kind of had, I think a kind of daddy complex where he wanted to, I mean,
+this whole idea of Alpha O2, Alpha Bay, it was about his quest to become this weird idea of,
+of a man that was absent from his life. I mean, he posted about like, I was, because I was,
+my father wasn't around, I didn't learn like how to use a chainsaw or like riding a go-kart or
+something until I was 18. And that's like these weird ideas of masculinity. I don't know. It was
+all very strange, but more like a germane to the story. We could talk about like his complexes
+for a long time, but he had posted in Roush V about like, his whole pattern of life. He'd
+posted about the encryption that he used. This was how law enforcement was able to kind of like
+create a profile of him and, and start to make a plan about how they were going to
+actually nab him. And more importantly, his laptop. I mean, they could arrest him anytime.
+That was the easy part. The hard part was going to be getting that laptop open.
+There was actually like a bizarre incident where like, so after, sorry, I'm skipping ahead of it,
+like, you know, they, this becomes like a massive law enforcement investigation called Operation
+Bayonet. They bring in the Thai police who are extremely, extremely cooperative. Like the Thai,
+Thailand does not a good place to hide out as a drug lord. Yeah. There's a lot of DEA there and a
+lot of, it's like, it's just like extradition heaven practically. You know, it's like not,
+it's not offshore or whatever. It's very similar to Mexico in that way, where there's a lot of DEA,
+DEA, CIA or absolutely. It's like considered a kind of, I think like desirable outpost,
+I think as a DEA agent. And that is who, I mean, the DEA is, once they were brought into the case,
+they're the ones who have all the connections to the local law enforcement. They have the most
+agents abroad of any law enforcement agency. They work like hand and glove with the Thais in Bangkok.
+And so not a good place to be hiding out as like the drug lord. Although, you know,
+I don't know, he thought he would never be identified. So maybe he was just there because
+he likes the weather or the sex life. Yeah, he likes the prostitutes. Yeah.
+So the Thais are now like working with them and, oh, sorry, I was just getting to this,
+this, you know, we were talking about like how it would have been easy to just like arrest him.
+They actually, at one point, the whole, this whole American delegation kind of of prosecutors
+and agents is like, has come to Thailand, to Bangkok, and they're just sitting in the lobby
+of their hotel where they're planning the, this, they're kind of brainstorming and thinking about
+how they're going to do this takedown. And the Thais who are now following causes every move
+with a surveillance team, like send them a message that says like, we, we see like,
+his white Porsche Panamunera has like, just parked in front of your hotel.
+And, and then like the next set, and then like one of the FBI agents kind of like goes to like try
+to just look out the window and check it out. And at that moment, Kaz walks through the door
+of the lobby of this hotel. And the whole, this whole team that is by this point been tracking
+him for nine months is like, what the fuck is like, that's him. And it's, you know, from their
+perspective, it's like seeing a ghost today, they're, they think that they're, they're blown,
+basically. They think that Kaz has like figured out that he's being tailed, that he's being
+surveilled, and that they've, they're onto him. And they, they imagine that he's going to like
+come over and say, like, I got you, just like, fuck off, like you're not going to get the evidence
+you need to charge me, you know, there's an extradite me. And instead, he just sits down at
+the table right next to them, or he just happens to have a business meeting. What? That's like,
+it was a complete coincidence. It was totally bizarre and really freaked out, like all the
+agents and prosecutors who just kind of like quietly dispersed and, you know, tried to be
+like stealthy about it. They, but that's the thing, like they, they could have arrested him at any time.
+But they needed to get him logged into Alphabet. They needed to like get his laptop open.
+And what, what do they want? What was the most valuable thing to them in the laptop?
+Well, they wanted to get a Ross Ulbrich style arrest, you know, which is like, they'll see
+him logged into the, because there would be arrested him without the laptop. There wouldn't
+be enough, enough evidence, right? They would be going on these blockchain trails, which are strong,
+but like very rarely used in court up to that point. So that would have been a little dicey,
+this email, which was kind of like circumstantial almost, you know, and then yeah, it would have
+been difficult to like make it a open and shut case, basically. So, so they want like what they
+got with Ross Ulbrich, which is he was logged into like his mastermind account on the Silk Road.
+Like that is his debt to rights evidence. They wanted that for, for a cost. By the way,
+is a whole other story that I've kind of skipped over here about how they found the Alphabet server,
+which was using this secret technique that chain analysis and IRS, T. Green Combarian,
+actually developed together, something that they didn't even want to tell me about.
+Right.
+But I kind of like figured out by the end of the book reporting, like this secret
+surveillance technique, though they found the IP address of that server, which was in Lithuania,
+it turns out. But that's just to say that they had, they knew where the server was,
+but they had to get cause like connected to it, logged in, proving that he was, without a doubt,
+the owner of Alphabet. So, with the help of this kind of like pattern of life that they've established
+with all these pickup artists forum posts on Rouge V, they make this plan, which is like
+very elaborate. If you're ready to like tell, yeah. They're like on this morning, I think it was July,
+July 5th, 2017.
+There are like nine undercover agents all surrounding his house, playing different roles,
+like one is pretending to be a gardener, one is pretending to be an electrician,
+like working on a wiring box, and two are like...
+Just like you see in the movies.
+Yeah. I mean, it's like truly just this whole cast of actors almost. And one, an American DEA
+agent is like pretending to be shopping for real estate in this house at the end of the block
+with his fake Thai wife, who is an undercover agent, and like her job, he's supposed to distract her
+while she goes up and like gets eyes on the house. And like, it's just so complicated.
+But then the real players in this are these two Thai female agents who drive their car down this
+cul-de-sac pretending to be lost. And they drive to the end of the block, kind of like
+trying to look like they're bad at driving. And the security guard tells them to turn around.
+And instead, they back up and crash the car into causes front gate.
+This is like the kind of like go time. In fact, what sort of triggered this is that
+the team in Lithuania that was supposed to basically connect to the alpha base server
+and surveil that while they do this take down and show the connection,
+they fucked up and crash the server. So at that point is when like the Lithuania team is like
+talking to this war room of agents and police and prosecutors in the Bangkok office of the Thai,
+the Royal Thai police. And they're watching surveillance feeds and everything. And they
+are the ones who tell us these two women like it's time like go. And they crashed this Toyota
+Camry into causes front gate. That's like the diversion that is meant to pull him out of his
+house so they can start to get in to get his laptop. This is after they crash the server?
+Right. Yeah. They're like, he's about to see that we've we've crashed his server.
+He can close his laptop at any time and end this whole thing. It turns out like they would find
+out later that when the server crashed, he was like frantically like sending emails to his
+hosting provider like, what's going on? Like, why is Alpha Bay down? And
+and that actually helps is even more evidence. But
+but he doesn't come out. His wife comes out. And she's like, oh, it's okay. Like, don't worry
+about it. She's very sweet. Actually, I mean, I've just watched the video. I've seen and I've
+talked through the whole exactly what happens with all the agents there. And his Thai wife is like,
+it's okay, don't worry about it. But the driver of the car, this undercover agent woman is like,
+no, I'm so sorry. Like, please let me pay for it. Please have your husband come down. So
+I can, you know, talk to him about paying him back. Like, I don't want to pay him my next life.
+She says, like, kind of like alluding, you know, some, like, Buddhist beliefs. And so, like,
+cause his wife, his name is Tunisa, like, shouts up to him. And they see that he's like in
+like his window actually opens. And even on the surveillance footage, the people in the war room
+can see, oh, that's him. He got his attention. Like he's, and they can see that his that the
+blind is like cracked and and he's talking to his wife. And then he does come down and he's like
+shirtless and shoeless, like in his gym shorts. And I'm sorry, I was like, I just,
+he was also commando. I just wasn't gonna really want to say that. He was naked? Yeah. No, no,
+he was just going commando. Like, like, no, apparently. And, and he kind of like comes out
+and tries to mess with the gates. And all of the kind of different undercover agents start to like
+get involved. And there's one agent who was pretending to be the driver of the real estate
+shopping couple's car that comes out to kind of help. And so at this point, when he's walking down,
+they don't know if the laptops open or closed or do they don't know, you know, they're just
+hoping to God he didn't close it. They did. They did see when they started this,
+they're the thing about Roushvi as well as that you can see when someone is logged in,
+they're like, they're kind of icon on their name turns green, you know, and shows like
+this person is active. And they could see when I guess they could see that that he was active.
+But they didn't know if the computer was going to go to sleep. But that's when they
+when they saw that he was active, that's when they were like, okay, we can start this.
+That was like part of his, you know, sort of operational security, right? Right. Fuck up here,
+essentially. Anyway, so I guess that's to make a long story short, like
+at this point, it's time for them to try to get the laptop date. There's a whole kind of
+other pantomime here about how they got his phone. They had to get his phone as well.
+And like one agent kind of like grabbed it out of the waistband of his shorts and stuff. But
+but the phone ultimately had nothing important on it. So I'll skip that. But like the
+at this point, like the Gardner, I think was the one who put his police vest on and starts
+like running towards cause cause like turns and sees him realizes what's happening.
+And it goes into this fight or flight mode. Try it, you know, he immediately spins around.
+He knows he has to get back to his laptop. And one agent grabs him and then another,
+they kind of like tussle, but then like this one agent named M, who was hiding in the back seat
+of the real estate shopping couple's car, this kind of short athletic guy, breaks free and
+he his job is to like sprint into the house. He's practiced on like other similar layout
+houses and everything. Oh, they knew the exact layout of the house. It's like studied other
+houses in the neighborhood. He sprints up the stairs. He like thinks he's got it's in the
+home office. He's like goes in there. He finds that there's like two house guests who are asleep
+in bed. He's like, Oh, sorry. And he like flips spins around goes into the bedroom and finds this
+like cheap white desk with the laptop open, still logged into alpha bay. And he like,
+you know, lunges for it and puts his hand on the mouse pad and keeps it alive. And that's it.
+Like, you know, you hear over the police radio and I heard this in the recording even like
+officers like we have the laptop and then everybody in the war room like
+starts cheering and like, yeah, it was just very dramatic. Sadly, you know, cause is then
+brought to Thai police headquarters kept in a jail there for the next week. And after one week
+just before just after he's agreed to extradition, in fact, he's found dead in a
+Thai jail cell. Convenient for someone. Yeah, you know, maybe didn't work with the Russian mafia
+or something or hit a lot of like shady clients that possibly didn't want to. I did hear that,
+you know, I heard that from a friend of his and it was like a bit vague. There's a lot of
+stories you can come up with about who would have wanted him dead.
+Hmm. Maybe he maybe he had like local police on the take even, you know,
+like who then were worried that they would be found out when he was captured. Hmm.
+You know, maybe he did like have local partners in Alphabet. Hmm.
+Deesnake, I mentioned was his kind of second in command. Right. And I mean, Deesnake
+actually tells me I did interview Deesnake through the dark, you know,
+through anonymous channels later. And he says that he had a whole plan to get cause out.
+And he wouldn't tell me what it was, but it was a kind of like
+kills. I don't know what you call this, like a dead man switch. Yeah, kind of a dead man switch.
+Like if you don't hear from me for a certain amount of time, then activate the plan. And there
+was money like set up for it and like I said, if he if he's if he's dead or if he dies or if he's
+just in jail. Okay. Like you like release this money or something or like get hire a lawyer or
+I don't even know what at one point cause had like bragged to a DEA agent that I spoke to about
+having like a helicopter gunship that was going to come and break him out. And I don't know if
+that was like a silly boast or just fucking with her or if maybe that was the plan for all I know.
+But no plan like happened in time. He I mean, cause died. And for the snake, the snake says
+that's evidence that he was killed because he would not have killed himself, which is what
+so just to be clear, prosecutors, the FBI, everybody told me that that cause killed himself
+in jail. And these things says that's impossible because he would have waited for our plan at
+least to like to see if it works. How long after he went into jail, did he end up dead?
+About a week. About a week. And what evidence was there that he actually killed himself?
+Well, yeah, so I like went, I mean, I spent time in Thailand, I like got as far as visiting the
+cell that he was in. I got video of his last others video of it. There's, there's jail cell
+video. There was, I saw that there were cameras in his cell when I was there and I was like,
+give me this video, please. Maybe he did kill himself. But the video, sorry. So the video
+shows. So just to be clear, like he, he was found asphyxiated, strangled in the back of
+the cell behind the kind of three foot high wall. There was a towel wrapped around his neck.
+The suicide theory is that he basically like wrapped this towel around his neck,
+made a noose of it, put it in the hinge of the door, which is this kind of like swinging
+three foot high door, and then just like, you know, lean forward, which sounds totally implausible.
+But if you read the medical literature, which I like looked into, it's really grizzly stuff.
+It is like, I mean, I don't want to get into, I don't want to give people ideas,
+but it's easier than you think to, to kill yourself that way, to, to kill yourself without
+suspending your full body. But so I looked at this jail cell video, which I did get. I mean,
+they gave it to me the time. Well, I don't, I can't say exactly who gave it to me, but I got it.
+The law enforcement as a whole were cooperative about giving me that video. I didn't like
+get it from a hacker or something. Okay, okay. And it shows him kind of looking out of the
+cell, looking up and down the, the jail, like hallway, and he disappears in the back. The, the
+part of the cell where he died was not on camera. And in fact, there was a gap in the footage then
+and the next thing you see, you actually see, you can kind of see him messing with the towel.
+Even just like a tiny bit by himself, by himself in the corner of the frame.
+Nobody else in his cell, no one else in the cell. And then there's a half hour gap.
+And then the next thing you see in the footage is everybody rushing in and finding his dead body.
+So it's just totally, why a half hour gap? Well, this is the thing, like they tell me that
+I was told it was because nothing happened. There's nothing on the video at that point. Why
+keep it? And the ties, you know, I just have to, I feel like you should not.
+That's like so insulting to say that. You shouldn't, you should not like assume
+malice where it could just be incompetence. Like the ties are probably not used to media scrutiny.
+Or, you know, and I could just, I could imagine that they thought it made sense to
+delete this like boring half hour of nothing happening in the cell, just to save space on
+the drive. Like that is the part where he actually dies though. Well, you can't see anything.
+It's all in the back. It's all off camera anyway. Okay. Okay. What it doesn't, what it doesn't prove,
+I mean, what it would have showed if he killed himself, if we could, if he did kill himself.
+I truly am trying to be clear here that I don't know what happened. Right. Like I'm not taking,
+I'm not leaning either way. I'm fully like, and that's not just as a journalist. Like if I,
+if I had an inkling of like, if I could prove it either way, then I would say so. But what you
+don't see is like half an hour of nobody going into his cell. You don't see, like the footage is,
+is not there. There's no footage. So what it doesn't, what I don't have is like, is some
+dispositive thing of like, seeing, yeah, he like goes to the back, there's half an hour of nobody
+entering a cell, then he's found dead. That would have, I think, proved that it was suicide to me.
+Instead, we have this mysterious hour that his lawyer, you know, his defense attorney,
+who's convinced that he was murdered, was like, what the hell? Like, that's even worse.
+Well, if he was murdered, why would he set up the, the noose or the, the out of the bedsheets
+himself? Well, like, if you were, you can't actually see him, him make a noose. You just
+see him kind of messing with the towel. Who knows? Maybe he was like, taking showers, like
+about, oh, you can't actually see him fashioning in. So like, the theory that he was killed,
+is that he, I mean, it would have had to have been in that half hour,
+said somebody came in and like, killed him, choked him with the towel.
+Was there an autopsy?
+There was an autopsy. I read the, I got the report. I mean, this is like a really impressive,
+you know, it's impressive that the, that I got, it's impressive that they were willing to share it.
+But it is a tie corner report. I don't know, I don't know like how.
+Was there any sort of indication or any sort of details about that hyoid bone in the neck?
+You know, the, you know, the bone that they found in Epstein that was fractured,
+and I guess there's, there's tons of reports.
+Wow. You've gone deep on Epstein clearly. I mean, that's, and that is, of course,
+is the model for what everybody imagines happened here. The missing footage, like,
+there was a jail cell footage, but it's missing and like, there's, there's this,
+there's this bone in the neck that if it's broken, that they say that that bone never breaks when
+someone just sort of affixiates themselves. It's only from, from some severe trauma.
+That's interesting. I, you know, it wasn't, there was no mention of that in the report.
+I'm learning about this bone from you right now.
+Pull up something on the hyoid bone. Maybe we can look at it.
+Yeah. The report just says like, death from asphyxiation,
+no sign of anyone else's DNA on his fingernails, finger hands, anything, for instance, like,
+which might have been, but you know, the, I just want to, you know, this is the tie police corner.
+And if we're worried that like the ties were the type police or someone in type police,
+I talked to many of the type police involved in this investigation. They,
+they struck me as honest and like, not corrupt people, although there are absolutely like huge
+pockets of corruption than the world type police. I don't, I didn't see that in the, you know, and
+the people that I like spoke with who were involved in this and they kind of had a good
+reputation. That's part of why they were brought in to this global, this international case.
+But yeah, if they, if there were corrupt people who had him killed, then they could have easily
+like have the coroner's reports written up in a certain way as well. So I'm not sure what any of
+that proves. You know, the, the prosecutor, like I mentioned Grant Rabin, the prosecutor in the case,
+he actually was in Thailand's for all of this and he interviewed cause before he killed himself,
+before he killed himself or was murdered and says that he kind of saw this
+side of cause. Like he, he was kind of shocked by causes personality, which seemed to be kind of
+flat and unconcerned about his fate and not like a sociopath, but, but someone, but very strange.
+And Grant, Grant would put like described it to me as like, he was a gamer. He kind of played his
+life like a game. Once you, like the game is over, you just turn the machine off. Like,
+once you've got your highest, the highest score you can get and then things are not working out
+for you, you just hit the reset button. You know, that's how, that's how he thinks cause
+thought and lived his life. Interesting. Cause his defense attorney saw it completely
+differently, of course. And said that like cause was concerned for his safety, concerned for his
+family wanted to like make sure nobody believes that he was cooperating, which of course the
+prosecutors and agents wanted him to become a source and flip and like become even possibly
+like an undercover, help them with undercover operations and things. And doesn't buy any of
+this stuff about cause like being ready to die. Right. So what does this say? Oh, highway one
+fracture. Here you go. The hyoid bone fracture is a very rare fracture of the hyoid bone accounting
+for 0.002% of all fractures in humans. It is commonly associated with strangulation and rarely
+occurs in isolation. The fracture may be associated with gunshot, gunshot injury, car accidents,
+or induced vomiting. In 50% of strangulations and 27% of hangings, the fracture occurs.
+And that was broken. Yeah. That's fascinating. Yeah. Because
+if you want to get into it, like what I learned from reading the medical literature on strangulation
+and auto asphyxiation, like killing yourself this way is that it's way too easy. Like it's
+shockingly easy. People die in auto asphyxiation accidents all the time, like autoerotic
+asphyxiation. Do they really? Well, it seems so. I mean, I'm not an expert in this, but I read
+some studies just to see what I was trying to find out is like, you know, it causes the
+fence attorney was like, he hung himself from a three foot high wall and died. Like that does
+not make any sense. That's just the physics of that do not make sense. But then when you read
+about it, yes, like people die, like people hang themselves in a seated position, in a kneeling
+position, very often like in like an autoerotic asphyxiation scenarios. Right. Not to like,
+sorry, this is really grisly stuff to get into and then accidentally die. Yeah. Frequently from
+this. Interesting. So that doesn't happen by like breaking a bone or like, it's not like you've
+violently snapped your neck or something. Right, exactly. So if his bone was not fractured,
+that would indicate that he did actually strangulate himself. He actually did kill
+himself. But if the bone was broken in his neck, that would suggest that there was some
+violent trauma. Well, I'm now like, just based on this conversation alone,
+you know, sounds pretty convincing that Epstein was strangled. Yeah. Because
+and the way that you do this, like when you're, you know, if you were sorry, the cause of the case
+is I'm not, this doesn't prove anything either way about him. But he, all he had to do was kind
+of cut off blood flow, which is much less sort of high force violent act than what you're talking
+about, which would break a bone. So cause this case remains unsolved. Like I did truly everything
+in my power to come to a conclusion and I could not. But I don't know, like the Epstein thing seems
+really fucking suspicious. Yeah, yeah, extremely fucking dark and a deep rabbit hole to fall down.
+Yeah. So, but yeah, that was the end of the alpha based or in some ways it was the end,
+like we didn't even get into this other thing. Like I mentioned that they wanted to flip cause.
+But in fact, they had simultaneously, this is like the size of this investigation, it was so
+sprawling. The same time that Alpha Bay was taken down, the Dutch police had taken over
+this second biggest dark web market called Hansa. And they were, they had, the Dutch police were
+running, running the entire market undercover. They had taken the positions of the actual bosses
+of that dark web market and had turned the whole thing into a kind of surveillance trap,
+such that when Alpha Bay was taken down, all of Alpha Bay's buyers and sellers just flooded
+into the second biggest market. This is what always happens on the dark web. You just go
+to the next market when one is shut down, which was Hansa in this case, which, which was the whole
+thing, a kind of giant trap for all of Alpha Bay's refugees. And so they had like a net on the
+backside to basically catch everybody. Yes. I mean, it was like truly an unprecedented operation in
+the history of dark web, you know, law enforcement. They, they had, they did this kind of one to
+punch thing where they not only took down the biggest dark web market in history, but then had
+this net, as you said, waiting for thousands and thousands of, of really the dealers is who
+they're going after, of course, just ready to catch them as they moved into Hansa, where, you
+know, like basically Hansa's code had been sabotaged to remove all the safeguards that, that,
+as I said, like a dark web market is not supposed to even know who is visiting, you know, they,
+they shouldn't know who you are any more than you know who they are, you know. But
+Hansa had been kind of like silently rewritten by the Dutch, these Dutch police so that it could
+find out all these things about you. It was recording like all this information. It was like,
+they tricked people into basically downloading malware. It was like, it looked like sort of
+sales spreadsheets, but in fact, they had a kind of homing beacon in it to identify drug dealers.
+They even did this like complex thing. They at one point pretended they were trying to hire a new
+kind of administrator for the market. And if you applied, they would say, well, we need to send
+you a UB key, like a USB key to like, you would plug in to confirm, you know, for your security.
+Right. And in the packet, they would mail the UB key hidden inside its comment to like use this
+kind of camouflage when sending drugs or sending anything, but they would hide it inside of a
+stuffed animal, like a stuffed panda. And this panda also had hidden GPS beacon so that they
+could locate the, you know, even if you received your dark web mail at a drop address, which is like,
+you know, the smarter way to do it, you have some address, it's not your home where you receive the
+stuff. The idea is that you would take this stuffed panda without thinking back to your house
+and it would have a GPS beacon in it. And they would find the people who were applying to work
+for as administrators of a dark web market this way. And this was a giant, like just feeding
+frenzy for law enforcement in terms of eventually arresting hundreds and hundreds of dealers.
+And it was sort of fed into a database, of course, of all this information that they'd
+collected from this huge thing, Operation Bayonet, about Alpha Bay users, about Hansa users,
+went into this database. And then like over the next years, there were just one huge takedown
+after another. So it's not easy to trace exactly like where, which arrests it led to. But, you know,
+there were just like dozens of tons of drugs and millions and millions of dollars and hundreds
+of people arrested as a result of this. So how has this all affected this underground drug market
+today? Like what is the current state of sort of dark web drug dealing and this kind of stuff?
+Yeah, this is the great twist ending, which is that Justice, I was finishing the reporting on this
+and really like finally, you know, it took me five years to really like get the full Alpha Bay
+story. I mean, it was publicly announced as like, yeah, we did this massive takedown,
+then it became clear, holy shit, they did like a takeover of the second like this. But all of that
+was sort of understood like as a sort of almost just like a press release in 2017. It took me
+five years to really learn the details of how it all truly happened and to speak to everybody
+involved and like truly tell the story. And just as I was finishing that reporting, Alpha
+Bay came back online and is now being run by D Snake, the second in command. Oh,
+shit, the guy you talked to. Yes, like Alpha Bay is back and D Snake is in charge and he is like,
+you know, it's not going anywhere. And how long has he been in charge? How long has this been going
+on? I guess, let's see. So I think it came back online in the summer of like late 20, summer 2021.
+And of course, it was relaunched from scratch. So it had none of the
+met in the, I don't know how it was like, the thousands of dealers had moved elsewhere.
+Had to be persuaded to come back, basically. And it's taken almost until now, probably to,
+well, not to even get close, I would say, to Alpha Bay's original, well, to its peak. But I think it
+has by some measures become, I was looking at the numbers recently, and it's harder to
+analyze than you might think because Alpha Bay is doing a better job of obscuring its business.
+But it has by some measures become the biggest dark web drug market again.
+So I'm sure he's read your book, and I'm sure he's well aware of how this all works now.
+And well, he didn't need to read my book to know like what, you know, actually maybe he did,
+but some parts of it he might have known about how cause got, got, got. And I think he definitely
+had learned lessons from that in some of them were pretty apparent. Like he, he knows that
+causes laptop was grabbed. He says he has all these kill switch things where like,
+if his laptop is taken, if his server is seized, it'll be destroyed. And like Alpha Bay can be
+rebuilt automatically with like, on new computers and a lot of stuff. It's hard to, to decipher
+how much of it is real or would work. But yeah, you think that, you know, after Alpha O2 and Ross
+being caught with their laptops open, they would figure out some sort of way to like remotely
+control their laptop being encrypted, like either on a phone or like. Absolutely. But also,
+D Snake just says like, he just doesn't ever walk away from his laptop. I mean, that's the
+easy thing where he doesn't, when he's just, even when he goes to the bathroom, he told me,
+he does not, he does not leave it open. You know, everybody has their own claims. Everybody has
+their own reason for overconfidence. You know, each one of these guys thought that they had
+outsmarted the system. The one thing that I was really impressed with is that this was the whole
+cryptocurrency tracing part of how they got cause was never really public. But
+somehow D Snake did figure out that that was a big part of the investigation, or maybe he just
+guessed. And so Alpha Bay now only uses Monero, a newer cryptocurrency that is designed to be
+far less traceable. That's a big like sacrifice, in a sense, because most people don't want to use
+Monero. They don't, a lot of people have never heard of it. So you're reducing your revenue
+by doing that. But D Snake like understands that money laundering is just essential and that
+you don't take risks about, you know, financial trails.
+Is there like Zcash or something too?
+Yeah, exactly. So that's very hard to trace, almost impossible.
+Yeah. I appreciate you brought it up because Zcash, I think is probably the least traceable.
+In fact, perhaps truly untraceable. I know I made that mistake with Bitcoin once and
+believed that about Bitcoin. But I do just like talking to the researchers, looking at how it
+works. Zcash is almost like magically untraceable. It uses the Z and Zcash comes from zero knowledge
+proofs, which are these sort of very, I don't know, like hard to even get your mind around
+the kind of mathematical proofs where you can, essentially the whole Zcash blockchain is encrypted,
+but you can do a sort of mathematical kind of process on it where you can check that a
+transaction happens that is, you know, you cannot counterfeit something or double spend a coin or
+whatever. But you can do that while learning zero knowledge basically about the transaction
+other than the fact that it was real and that it, you know, and that can basically like serve to
+guarantee this cryptocurrency Zcash in the same way that the normal blockchain does with Bitcoin.
+But without a blockchain that can reveal anything to anybody, you know, it's truly
+a black box. And, you know, it's called Bitcoin. I think like one point I thought it was the holy
+grail of the cypher punks for financial privacy. But Zcash really does seem to be it. I mean,
+it's interesting we're talking about this because like, maybe you can hear in the way I'm saying
+that Minero, I'm not sure is that like Minero, the one that is much more popular, I think,
+I think it is at this point still than Zcash is thought to be untraceable,
+is no doubt far, far harder to trace than Bitcoin is being used by people on the dark web like
+Dsnick and Alpha Bay. But I don't, I don't think it is truly mathematically untraceable. And the
+degree to which it can be traced, you know, is just the fact that there is any possibility
+of tracing means that chain analysis and that now a whole industry of companies competing with
+chain analysis. Chain analysis is now an $8.6 billion startup. They have money to recruit the
+smartest people thinking of new tricks to, you know, unmasked to trace to de-anonymize
+any cryptocurrency that has like the slightest foothold, a little bit of like
+hints or a clue of how to follow the money. So I would still, you know, if I were like a
+high net worth dark web criminal, I would still be pretty concerned about using Minero.
+Yeah, and that's not just speculation. Like it was actually Dsnick himself in our conversation
+at one point, our conversations over like some weeks, who was like, Hey, look at this,
+this just popped up. And it was a link to a dark web site called Dark Leaks that some hacker had
+set up that was a collection of documents from the Italian police. And it revealed like some
+of the, it was a lot of information about how the Italian police had taken down a couple of
+dark websites. And one of the files on it was a presentation that chain analysis had given
+to the Italian police about their capabilities. And in that presentation, in Italian, it says
+we can trace Minero in the majority of cases and it breaks it down. Like in 60% of cases,
+we can get like a usable lead in another 15% of cases, we can find the sender, but not the
+recipients, that kind of thing. They sort of admit in this presentation that it's kind of
+probabilistic. It's not like definitive in the way that it has been with Bitcoin. But that's
+often good enough to start just like sending out those subpoenas. And like, you only have to have
+a kind of educated guess in a lot of cases to send subpoenas to start doing searches in some cases.
+So I think that like, a lot of cryptocurrency users are still probably falling for this trap
+of thinking that they're using an untraceable currency that is not quite untraceable. And
+that might just be enough for them to be completely traced and caught. So, but I do think Zcash may
+be an exception to that. I can't imagine what it must be like to be you to be working on a story
+like this for five years and putting it together. And in the meantime, you're also doing active
+reporting, you're publishing all these other stories and at the same time, you're putting
+together these books. This is what your third book? Well, yeah, this is my third book. I've
+covered it all as it was happening. In 2018, I managed to get a couple of those Dutch agents
+to talk to me and I wrote a story about the Hansa part of it, that second biggest dark
+web market that they took over. So, and then for most of the rest of those years, I'm just like
+running into dead ends, hitting my head against brick walls. And it's not like I'm like slowly,
+consistently making progress and getting this. And the true breakthrough was when I realized,
+when I started to see the cryptocurrency tracing was this incredibly important
+new investigative technique, not new by 2020, but like new to me, and digging into that. And
+then I learned that it was the kind of crucial weapon used to, well, yeah, the kind of crucial
+like fingerprinting technique that has found cause and the identified alpha bay, alpha two,
+and was this kind of critical ingredient to taking down alpha bay. That's when
+the thing kind of like opened up for me. Like I started to learn about the crypto tracers who
+have been involved. And then once you kind of like have your foot in the door and you're talking to
+some of the major players, the other ones are like, well, we want to tell you are part of it too.
+You know, people don't want to get left out. Even the ones whose names are anonymized and
+stuff like I think that they also, you know, I really appreciate that people tell these stories
+even anonymously, even with pseudonyms and stuff, because they just know that like this
+story is too crazy to not to take to their grave. You know, I appreciate that about people that
+like they want to tell their craziest stories. It must be so wild for you reporting on all these
+things from, you know, these cryptocurrency marketplaces and these dark web drug marketplaces
+and hackers that you talk to. And there must be so many dots that connect for you, like reporting
+on different stories and finding out how different things connect because you're in this like,
+you're so like engulfed in this dark web underworld. Yeah, I mean, I guess so. Like I
+How do you choose what stories to report on? Like how do you pick? How do you decide what you're
+going to what you're going to either write a book about or what you're going to report on?
+Well, you know, I don't know. I like it. I got lucky in a sense that like, as you say,
+that it all kind of connected. I had been so obsessed with the Silk Road when it appeared.
+And it just seemed like such a fascinating story. And I was totally beaten to that story by like
+Nick Bilton, who wrote the book about it. And, you know, and I was like, that is going to be the
+best story I ever encounter in my career. And this whole story of like how cryptocurrency has
+like unlocked the dark web. And then I was just lucky enough that it turned out that I had exactly
+the wrong idea about it. And in fact, cryptocurrency was the fatal flaw of the dark web. And like,
+the whole thing, like I just kind of was able to flip it. And instead of talking to the,
+the criminal sides, which I'd always thought was the right approach to get the best story,
+it often is. But like, it turns out that like, in this case, law enforcement really was able to
+tell me the story better than anybody, because they were the ones who figured out this like,
+crazy revelation that you could trace cryptocurrency, or, you know, with the help of
+chain analysis and Sarah and Michael John. And, you know, and that perspective, I never really
+told us a story from law enforcement's perspective in this way before. And I was a little wary of
+doing so. But I think that in a way, it's like even more dramatic, because you can see,
+you can see the story in a way that even the criminals could not see it, you know,
+like they thought that they were invisible, and they were not. And like, you can watch them
+through this kind of secret lens. And like, that provided just like an amazing dramatic irony,
+you know? But just, yeah, like, I guess to your question of like, how do we find, how do I find
+the, the next big story? Like, I write all kinds of sizes of stories, I write like web stories,
+I wrote like a story about like a chain analysis research report that I published today that's
+like, you know, kind of daily fodder kind of stuff. And I think it's important sometimes. But
+really, it's almost like I'm looking for like this, the storytelling arc. I mean,
+you're a storyteller, you probably like think about this too, like, you don't want to just
+for, for a new story, it's like one fact can be the whole thing. For a magazine story, it's like
+maybe one character can be just enough. For a book, you need like an actual whole arc of like,
+twists and turns and a climax and like, and that kind of thing. And, and so I'm just, I don't
+know, in the way I, I'm just kind of like surveying like all these crazy stories happening in the
+hacker world and the dark web. And it's only when one of them kind of fits that almost like three
+act structure or whatever, that I think like, Oh, this needs to be a book. Yeah.
+Do you ever get any pushback from editors when you're working on stories? Because you've worked
+for like big publications, Forbes, Wired, like, do you ever deal with any of that? Like any sort of
+pushback or any sort of trying to like, you know, square the circle type thing with people?
+That's interesting. Like when I was at Forbes, I sometimes I felt like, why do they let me write
+for this place? Like, it's a, it was a pretty conservative. I'm not sure it's quite as conservative
+now. It had definitely like some conservative leanings. Probably still, I think it still does.
+I think what anybody nowadays thinks about any big publication, you automatically just
+figure out, okay, where do I paint them left or do I paint them right? You know, it's like
+politics are so like is so injected into every mainstream news publication now.
+And so, you know, like, I remember the editor in chief of Forbes when I was, I did like a big
+piece on the drive pirate Roberts and based on my interview with him. And he was a little bit like,
+why are we like giving a platform to this drug dealer to like, to hawk his shit through our
+magazine, you know, like, and, and as a result, he there was like a little bit of like, I mean,
+this is typical stuff for, you know, when you work with editors, and it's not, I don't think it's
+like criminal or anything, but, but there were little injections of like, of jabs at him and it's
+like there, you know, that at that point, the Silk Road was getting hit with a lot of sort of
+low level cyber attacks from other dark web people and hackers and stuff. And, and I had
+mentioned that in the piece that like, there was a kind of war, like, you know, I guess,
+you know, a bit of conflict within these groups, and they were accusing, like the Silk Road was
+accusing other dark web markets of hitting it with these attacks. And an editor added in like,
+as always happens with like, the drug world, now there's like, internecine gang warfare and
+violence has entered and I was sort of like, it's not violence, you know, this is like, this is
+actually the alternative to real violence. It's just like some dudes, some, some nerds, like,
+hitting each other with data packets, bullets. So like, I, I do, I do kind of like, look at that
+piece now and think like, oh, that, that wasn't the right approach to talking about this. Like,
+that does not give enough credit to whatever credit is due and you can tell that I have like a very
+complicated feeling about the Silk Road. Like, it did eliminate some kinds of violence from the drug
+trade and deserves credit for that. And I think that like, the slightly older, maybe just socially
+conservative editors of Forbes, like sometimes were, I think, a little wary of, of giving it that
+credit, you know? But I have to say, like Forbes was a wonderful place to work in a lot of respects,
+like I, and they gave me the freedom to chase these stories, even though it was not very Forbes-y very
+often. And I spent like years just like, covering anonymous and WikiLeaks and stuff that was not,
+not at all like what you would think Forbes would be interested in. And Parmi Olson, who
+wrote a great book about anonymous, also worked at Forbes at the same time. And Kashmir Hill,
+who now works at The Times and covers like some, you know, she covers surveillance and privacy,
+was there too. It was like, actually a wonderful like newsroom. And we had tons, we had a really
+long leash. And there was, you know, like sometimes these bits of like editorial injections, but it
+was like, not a, it was a cool place to work. Is that were you working for Forbes when you
+actually sat down with Julian Assange? Yeah. Oh, really? Yeah. And that was like a, you know,
+I mean, to be fair, like I, I came up with a Forbes-y sort of angle for the piece that we
+did based on that, which was like, WikiLeaks has now disemboweled the US military and like
+dumped their secrets on, on the web. But it could happen to you, CEO, whatever, like this
+could happen to your company too. WikiLeaks can, and that model of, of leaking and whistleblowing
+is just as ripe, you know, for disrupting companies as it is governments. And that was kind
+of the, the excuse that I had to write this big piece about Assange and WikiLeaks for the
+magazine at the time. And they put Assange on the cover. And it was like, Assange wants to leak
+your corporate secrets, you know? But I was, I was happy to, I was fine with that angle because
+it was true. And, and like, it gave me, and it also allowed me to like, go meet Assange in 2010
+just before the biggest leak he ever did, which was Cablegate, the, you know, quarter million
+state department cables that really, I think it was kind of like, in some ways, the climax of
+like what WikiLeaks ever was. Explain what Cablegate was again for you to understand.
+So there are over the course, this is all I think, I think it's fair to say now.
+Was this, was this after the collateral murder stuff?
+Yes. Okay.
+So 2010 was the big year for WikiLeaks. Okay.
+Now we're going way back. Like the April of 2010 is when collateral murder came out,
+which was this, that's what they called it. That was WikiLeaks title for it. It was the,
+a video from, I think it was an Apache helicopter cockpit, like the view from the pilots, the gunners
+perspective, as they fired on these civilians and journalists in Iraq and killed like several of them.
+WikiLeaks obtained this and published it. And, and that was what when I was like, holy
+shit, I'd heard of WikiLeaks, but I never, it was like, this is some extremely explosive
+shit that they're getting. And they had not got it from a hacker, they, you know, or, or whatever.
+They got it through a leaker, like, um, they got it through their anonymous,
+essentially dark web. We didn't call it that so much back then, but it was a same, it was a dark web
+uploading, uh, portal, basically, they were using Tor in the same way that the Silk Road was, but,
+or not in the same way, they were using the same tool, but they were using it to
+grant anonymity to sources. Right.
+So that's something like nobody could trace the leak, right, essentially.
+That was the idea. And, and, you know, Chelsea Manning was able to, to thus, like,
+share a giant trove of classified secrets with WikiLeaks.
+Chelsea Manning was found out, of course, through her associations with this other hacker,
+Adrian Lamo, and who kind of ratted her out. And so that's not a very nice way to say it,
+but turned her in. And, uh, but, you know, WikiLeaks, the reason that I, like,
+got interested in the dark web really was because of WikiLeaks and sort of tracing its
+origins in this cypherpunk dark web world. Julian Assange was a member of the cypherpunks
+in the 90s, you know, like talking about using encryption technology to, like, change the world.
+So, um, yeah. So then, like, collateral murder came out in April, I think then in July,
+the Afghan war logs came out, the, um, this giant collection of, like, classified documents from
+a war in Afghanistan, WikiLeaks published, then the Iraq war logs, war diaries, I think was called
+later. And then, um, it was a, by that time, I was, like, already, like, trying to get, get to
+Assange, you know, trying to make inroads with WikiLeaks. I, like, found this weird guy named
+Penguin X on the WikiLeaks IRC channel, who then I was, like, chatting with him over, like,
+this encrypted thing. And, like, uh, he was, like, come to Iceland and I did and, like,
+um, met him and sort of, like, hung out waiting to hear, like, Julian Assange at that point.
+He was, like, come to Iceland, but there's no guarantees you're going to meet Julian.
+Well, they told me that I would, but, like, they wouldn't say when or where and stuff like that.
+And, um, and, uh, and Assange actually was sort of, I don't know if it was quite on the run,
+but he had been accused of, uh, these sex crimes against two Swedish women and gone off the map.
+I think it turned out that he was actually just, like, staying in this, um, house in the English
+countryside. And so I was told to go to London. I flew from, from Reykjavik to London and I met
+with Assange in London, um, and interviewed him. And that was really, like, the genesis of my first
+book, um, which was about, um, about WikiLeaks, but about the cypherpunk movement that gave rise
+to WikiLeaks and about the ways that, um, people for decades tried to develop this cryptographic
+anonymity technology and, you know, how, and hoped to change the world with it, which, you know,
+in the case of WikiLeaks and a lot of the other stories I tell in that book, um, were about,
+like, trying to free the world's information to, to allow leakers and whistleblowers to, um,
+to, to just dump it, you know, or to hand it over to somebody like WikiLeaks. Um,
+or, you know, in some cases, like the first person who came up with this idea was this
+cypherpunk, like, crypto anarchist guy named Tim May, and he had envisioned this idea of, like, a
+kind of, uh, eBay firm, like, black market eBay for information where anybody can go on there
+and buy and using cryptographic anonymity, he imagined something like Tor, although it didn't
+exist, and buy and sell secrets, um, which is exactly what the Silk Road was. He just never
+imagined that, like, the contraband could be physical, could be, could be, like, drugs hidden
+in a package. I mean, um, nobody thought that the mail system actually would, would allow that.
+That was the big, one other big surprise of how well Silk Road worked.
+Was Julian everything you thought he would be? What was he like in person? What kind of guy was
+he? Yeah, I mean, this is, man, this is, like, I don't know how long ago, uh, 12 years ago. Um,
+he was really charming. Um, he was like, I don't know, I was a little shocked, like, how tall
+and handsome he was. He had, he had just cut all of his hair to his, like, this short kind of,
+and he was wearing a suit, which was all really surprising. Um, and, um, wasn't how I, you know,
+thought of him at the time, because he had, he had had long hair and looked like a hacker and
+dressed like, you know, in these hacker-y ways. Um, and he was like, he's, he was, like, good at, uh,
+sort of charming me and flattering me. And, um, he definitely, like, you know, um,
+he was a great interview. He, um, he had, like, really interesting things to say. I was very
+taken by him, to be honest. Really? Um, yeah. I mean, I thought he was just, like, a super fascinating
+and admirable person at the time. And I think it, you know, it was in the process of writing that
+book that, you know, when I tried to talk to him again, um, when he kind of showed more of some
+of his true colors that, like, I realized that he was, among other things, just so arrogant, uh,
+yeah, like, to a degree that, like, you know, I, I, I don't think it wasn't, like, the points, uh,
+to, to, like, judge his character. You know, I wasn't, um, ever really just trying to, like,
+do the celebrity profile of Assange and, like, um, but, but I think that it does speak to, like,
+he had an enormous amount of power and as the, as the controller of all of these secrets, ultimately.
+And I think it both kind of, like, warped him a little. I talk about it in the book. I mean,
+everybody, I think, who was, who lives in that secret world gets a little bit warped by it.
+Yeah. And also, I think he was extremely paranoid for good reason and that also, like,
+it's a hard way to live. And, um,
+did you record the interview?
+Yeah, I did. I don't, I don't know if I have it anymore.
+Oh, God.
+Like, I, like, I, I, it's just been so long. Like,
+How long was it?
+Um, how long was the whole conversation?
+Yeah.
+I think it was, like, four hours.
+Yeah. I mean, I, you know, we published the whole Q&A online, but I don't know if I
+have the audio anymore. I wouldn't have even, back then, recorded it, like, to my phone or
+something. I would have used, like, a tiny, like, one of those.
+A tape recorder?
+Like, one of those old fashioned digital recorders.
+And I remember it's actually fascinating. Like,
+I remember that I had two to be safe, just to, you know, like,
+Yeah.
+Just be careful.
+And, uh, um, at one point, uh, his, he and his, um, I thought, uh, she worked,
+like, for him at WikiLeaks. It turns out that, um, I would say like, this is Sarah Harrison.
+Sarah Harrison came to our interview as well.
+She was, I think, ultimately, like, a really important person in, in,
+and kind of took over a lot of the responsibilities of WikiLeaks, was instrumental in helping
+Snowden, um, get out of, um, like, uh, well, to get to, to freedom, if you call it that in Russia.
+Yeah.
+Um, anyway, at one point, like, they, they were like, can we have a moment to discuss something
+privately? And I took my recorder with me, but I accidentally left one in the room.
+Oh no.
+And, um, they just had a whole, like, conversation, um, that I recorded.
+Um, well, I didn't record it, actually.
+What I, I, I, just as, as they were starting to talk, I was like, oh, I left the other
+recorder in and I went back and I said, I like said, I've, uh,
+They're talking shit about you.
+I've got one more.
+I've got one more.
+I mean, they were probably planning, like, the drop of the, of cable gate, you know,
+they, they just told me, or whatever, you know, for all I know, they were just, like,
+talking about, like, um, how to get to their next, like, meeting or whatever.
+But, uh, I remember I went and I was like, oh, sorry.
+I actually left another recorder in here, but I've thought, like,
+wow, I could have recorded a secret conversation about WikiLeaks, like, plans at that point.
+I would have been, like, totally unethical to do that.
+But they, they had told me in that interview, we have something, we have our biggest thing ever
+planned. So it's, this is good timing.
+When you come out with your cover story about, you know, this big interview with Assange,
+we're going to drop something, but they didn't say what it was.
+And it turns out that it was this collection of a quarter million state department cables,
+which are like, you know, secret communications between all of the embassies in the world.
+Is that when that one communicate, the communications came out between, uh,
+like Victoria Newland and the guy, Gregory Piat, who is the guy in Ukraine.
+He was the, he was the US head of the embassy in Ukraine.
+And there was like some conversations where they were trying to install,
+install a coup in Ukraine, like install a new leader of Ukraine.
+And they're like having a discussion, like, oh, we should get this guy.
+Maybe this guy, well, can we get Biden to sign off on this guy?
+I think that was a part of Cablegate, maybe.
+I wouldn't be surprised. I mean, the thing is, like, it's a gigantic trove of,
+the way of, like, documents to show how the US really thought about international relations.
+Um, and it will be, it will be studied and used for decades.com.
+I mean, it is like an archive of, of incredible, like, material.
+Um, you know, I, I, I didn't like write about every revelation.
+And like, you can write whole books and people have about what they revealed.
+I was interested in like how it was obtained and like the, the techniques and the methods
+and the thinking of WikiLeaks and like how they wanted to, um, explode institutional secrecy,
+which they really effectively, they did very well, you know, and, um, would continue to do,
+like, in interesting ways for years to come.
+I mean, like, we can get into WikiLeaks role in 2016, which is more, I know.
+We haven't even talked about my second book, which is about Russian hackers and like,
+yes, you know, the GRU military intelligence agency, which, um, which ties in with their, like,
+yeah, I'm really interested in talking about that.
+We're going to have to do another podcast.
+Yeah, I'd be happy to.
+I mean, um, there's, yeah, I think as you can tell, like, Tracer's in the dark, this new book,
+like it does kind of, um, it, it's like the culmination of like a decade of reporting for me.
+That's kind of about the dark web and about cryptocurrency, which I was like,
+which when it appeared was this new fascination.
+But then I, I took like this year's long, um, detour that I'm still on somewhat.
+So like cover state sponsored hacking and cyber war.
+And like, that's still, um, a big part of what I cover.
+I mean, it's all, it's all part of that hacker world, but like, um, but I'm going to have,
+I'm going to have him order you an Uber.
+So we keep talking and we don't have to sit here and wait for 10 minutes.
+Yeah.
+So I like, so I spent some years and I still am covering that world of state
+sponsored hackers who are really very, very different from the hacker
+undergrounds of like whatever the dark web or the hacktivist community that I was really
+interested in and like, you know, a decade ago, uh, they, they don't talk.
+They, um, they're incredibly sophisticated comparatively, you know, and, um,
+Yeah.
+The Russiagate story is crazy too.
+I was listening to something this morning, uh, from Glenn Greenwald talking about Russiagate
+and he had an amazing quote about it.
+He said, Russiagate is the WMD of our generation.
+I disagree with Glenn Greenwald about a lot of that.
+Oh, do you really?
+Yeah.
+So, um, I, I think I appreciate his skepticism and, um, I think that like, uh, there were
+definitely parts of like, of Russiagate that were overblown, you know, the people were
+looking for that smoking gun of like collusion or whatever.
+Um, I was not truly like, I, I, um, but I, I don't know, man, this is like a big topic
+to open up with at the end of that.
+I know, right?
+We have five minutes talking about Russiagate.
+Yeah, our conversation.
+No, I'll just say this much and I think Glenn Greenwald has, um, come around on this too.
+The GRU hacked the DNC and the Democratic, uh, uh, and the Clinton campaign and the DCCC
+and leaked that information to WikiLeaks.
+And everything, like everything that was published by WikiLeaks was part of a Russian,
+of a, of a GRU information operation.
+Like all of those, you know, parceled out leaks that kind of dominated so many of the
+headlines of the 2016 election were absolutely engineered by Russian state-sponsored hacking.
+And like, I, I've, uh, I mean, this is truly a fucking can of worms.
+Cause I thought there was no evidence though.
+Like the FBI's long report that, that, that came out, there was no actual evidence that
+Russia had hacked it.
+Is that?
+No, there, there is evidence.
+There is evidence.
+Absolutely.
+And, and I, there's some evidence that like, you know, is, is just laid out in like, uh,
+kind of Department of Justice indictments where you can see what they did, but they don't
+exactly tell you how they found it.
+There, there's other evidence that you can see just flat out like sitting in public,
+from cybersecurity companies who like pointed out like, look what we found.
+And cybersecurity companies, by the way, when they get things wrong,
+another one jumps on them and says, look, we're going to debunk this.
+Like the whole cybersecurity, I would say, researcher community knew that Russia had
+done this right off the bat.
+And yes, there was well-founded, you know, well, well, I would say very risk, very
+warranted skepticism about it.
+But there's a kind of like community that, that, you know, that, uh, through a process
+of like checking each other's work found.
+Yes.
+Like this looks solid.
+Really looks like the GRU hacked the DNC.
+Oh yeah.
+And now, um, the, and now the hacker who seems to have done it says that he gave this off
+to WikiLeaks, who was Guccifer 2.0.
+The, the actual evidence of like how, I don't know.
+I, I don't mean to like point people to a competitor, but I talked through all of this
+with Julian.
+Oh, did you?
+Yes.
+Uh, and uh, Julian Dory and like,
+Oh, Dory.
+Okay.
+Oh, yes.
+Not Julian Assange.
+That would be a difference.
+Um, uh, I don't know if you can, I mean, you and Julian are friends, right?
+Yeah, yeah, yeah.
+Julian's amazing, man.
+Smart guy.
+And he, you know, is skeptical about this too, as I think you are.
+But in the first episode that we did, um, you know, we walked, I tried my best on the spot.
+I wasn't really like, it was just off the top of my head to walk him through the evidence
+that I remember, um, remember, just like, you know, off, uh, you know, on the spot,
+that shows that it was Russian hackers who hacked the DNC.
+So from what I understood was that the Hillary campaign tried to get hackers inside Ukraine
+to get dirt on the Trump campaign.
+And then it sort of backfired and it ended up being this,
+this whole Russia gate thing.
+And then the media narrative kind of like spun out of control and was all one way.
+We, we should, we could do a whole podcast just on this.
+We should.
+Well, I'll just say this, like, let me just say, like, try to say this as quickly as I can,
+because it's, and it's super tech, it's not super technical, but it's a bit technical.
+Yeah.
+But the same hackers who like, um,
+Your driver will be here in four minutes.
+So we got four minutes.
+You're on the clock.
+The same hackers who sent a phishing email to John Podesta that they used to, to like,
+fake a Google login, get his account, um, information.
+This was a group called Fancy Bear.
+You can see, um, they, they made the mistake of like using, um, a URL shortening service
+to create those phishing web pages.
+And, um, because they use one service, you can kind of identify a pattern in all of the URLs
+that they created.
+And so you can actually see like everyone that they targeted and several groups, um,
+companies have like, um, mapped out like basically where they sent all those phishing
+emails as a result.
+And it is like, Ukrainians, um, people in NATO, like people critical of Russia in U.S.
+academia, um, it is like very much like, uh, it, it just said like, try to highlight,
+not even just who they are, but their motivations.
+They look like people extremely aligned with Russian state interests, not Ukrainian
+interests, for instance.
+So like, um, but then also like the very first, uh, leaks that were published by Guccifer
+2.0, uh, after the DNC was hacked, Guccifer 2.0 was the kind of color name for the hacker.
+They, they came up with this name pretending to be like a sequel to Guccifer, who was a
+true independent hacker.
+Guccifer 2.0 published some of these emails.
+They were in the Word documents.
+They were Russian language formatting errors.
+Like they loaded them and edited them on a computer with Russian as its default language.
+Wow.
+That's pretty like pretty bad, right?
+I mean, um, there's, uh, ultimately though, I just think that like, and yeah, I think even
+Glenn Greenwald agreed to this eventually, like when you, when the FBI like publishes
+a full indictment with like listing all of this evidence, uh, and like even like the search
+terms used by these hackers, because clearly they got that stuff from certain, you know,
+Google or whoever, like that is a conspiracy that is pretty easy to debunk if, if like the
+stuff listed in this indictment is just fully false.
+Like all of it, it would just take so much.
+It's just like eventually just on top of the things that I just mentioned quickly is just
+the preponderance of the evidence suggests, yes, Russia hacks the DNC.
+I mean, uh, of course they did.
+Like, I don't know, uh, clearly like, um, there were sort of like, it's just become
+such a part of like this very polarized debate that I feel like these sides are not talking
+to each other, but, but like the people who are saying this story, you just told about
+Hillary Clinton and Ukraine and stuff like, how, how do they account for this like blatant
+glaring evidence of like Russian fingerprints on this stuff?
+Right. Right.
+Well, it is true that, that Hillary's campaign had a very tight relationship with the leader
+of Ukraine at that time and they were constantly going back and forth, dealing with them and
+especially during that time and, you know, going back to Maidan and all that.
+But that's neither here nor there.
+Yeah. I mean, I've, I've, I've spent a lot of time in Ukraine too.
+And, um, I, you know, Ukraine, like I remember I visited the embassy and even the state department
+officials I spoke to were like, this place is so fucking complicated.
+Yeah.
+Like, um, uh, you like, nothing is like what it seems here.
+I was kind of freaked out talking to them, but, um, but you know, I've, I've also found that
+like, and I think it's become more clear cut, like that yes, Ukraine is the victim of like a
+massive amount of Russian oppression over decades, centuries, and now a full year of full scale
+invasion. So like, I, I don't know. Like I'm, yes, I think it made sense for the U.S. to support
+Ukraine at that time and to support the Maidan revolution. Yes. I mean, like I'm, I guess I'm
+like a kind of just straight up pro-Ukrainian person, although I, I acknowledge that they're,
+you know, as I've said, there's corruption there. There's like extremism of certain kinds.
+It's like, I'm not a Ukrainian nationalist, but I, but I'm a Ukraine supporter.
+Um, there's, there's a lot of, a lot of meat on the bone there. I want to get into you with,
+and I want to do another podcast soon. We got to figure that out. But your ride is here. So
+everyone, I will link, uh, just, uh, put a link to your book, your new book, Traces in the Dark
+in the Description. Uh, people want to learn more. I highly suggest listening to the episodes
+you did with Julian Dory on his podcast. They're fucking fascinating. They cover every single
+detail. Um, where else can people go to learn more about what you're doing and find, find you on the
+web? Yeah, you can find me on like, that's my, that's my personal website. You can find me on
+wire too, and just see what I'm up like writing on a daily basis. But yeah, my website does like,
+I usually put up like the big, like, uh, deep dive features that I do. Like I do only like,
+you know, a couple of those a year. Um, but yeah, I appreciate it. Um, yeah, my website's
+AndyGreenberg.net. Um, cool. I'll link it all below. Yeah. Thank you so much for coming in.
+Thank you for this. Clearly, we have more to talk about next time.
+My pleasure. Let's get you on your flight. Cool.

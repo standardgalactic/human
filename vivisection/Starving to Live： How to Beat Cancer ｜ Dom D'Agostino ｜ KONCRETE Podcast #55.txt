@@ -1,0 +1,1283 @@
+Hello, world! On this episode of the Concrete Podcast, I talk to Dr. Dominic de Agostino.
+Dom is an associate professor in the Department of Molecular Pharmacology and Physiology at
+the University of South Florida, Morsani College of Medicine, and a senior research scientist
+at the Institute of Human and Machine Cognition. Dom's primary focus is developing and testing
+metabolic therapies, like the ketogenic diet, which can effectively treat many forms of cancer
+and epileptic seizures. In addition to being one of the smartest people I know,
+he is also one of the strongest. He has deadlifted 500 pounds for 10 reps immediately after a seven
+day fast, as fitness and weight training has always been a huge part of his life. Some of his
+research has been funded by the Department of Defense, the Office of Naval Research,
+and many other private organizations. If you have any questions about diet and nutrition,
+cancer prevention, or longevity, you will enjoy this conversation with Dr. Dominic de Agostino.
+Enjoy the show!
+So, uh, so yeah, how did you get into initially getting, get into talking about your work on podcasts
+and like on the internet and mainstream media?
+Yeah, uh, well, I knew about the ketogenic diet and my research took me in the direction
+of using a ketogenic diet for oxygen toxicity seizures, which is a limitation for
+hyperbaric oxygen therapy, which we can talk about, and also it is a limitation of navy
+seal divers that use a closed circuit rebreather because they breathe high concentrations of oxygen
+in a closed circuit. And that research, the technologies that we developed to do that type
+of research were essentially hyperbaric chambers that had technologies inside that I had used for
+years, including confocal microscopes, atomic force microscopes, patch clamp electrophysiology.
+These are all techniques that a neuroscientist uses, and I was a neuroscientist for my PhD
+and also my postdoc. And it, to do the research that the military wanted, we need to put these
+things inside a hyperbaric chamber, these types of techniques. And in doing so, we started looking
+at different cell types, and one was a cancer cell type. And ultimately, that project led to
+looking at the ketogenic diet and hyperbaric oxygen as a cancer therapy. And I did a TEDx talk
+about that. And that got the publication and the TEDx talk got exposure. And you can look at that
+to see without going into too much science detail. That particular topic, not so much the oxygen
+toxicity for navy seal topic, but the topic of using a ketogenic diet and also hyperbaric oxygen
+therapy for cancer got attention. And I did a couple smaller podcasts, but Joe Merkola reached
+out to me. I didn't know much about him. I didn't know that he had a really big reach.
+And I did a little bit, I just associated him with
+things that I know he had sort of, he was very controversial, and he, especially in regards
+to things like EMF or GMOs and glyphosate and things that I really was on the fence about and
+didn't really have a strong negative opinion towards. So, but I looked at his podcast and the
+information that he was putting out there and saw a lot of it was relevant. And he had some
+bigger names on there. So I decided to do it. And within, you know, 24 48 hours had like a
+quarter million views, and I think a lot of opportunities came out of that. And as an
+academic scientist who had just transitioned into a tenure track position, kind of mainstream
+conventional scientists, I, you know, some of my academic peers may have looked down on,
+you know, doing a Joe Merkola podcast, but I really think that he puts out a lot of information
+that's good. Some of it's on the edge of fringe, but some of the stuff that he was really a leading
+kind of, he does a lot of outreach and information. And a lot of it
+really was looking forward or had a lot of foresight into things like that we know now,
+like glyphosate, for example, or roundup. And I grew up on a farm spraying tons of that. I was a
+sprayer kid, you know, get up on the thing and put the concentrate in and spray without a mask.
+And, you know, GMO crops were grown all around. So I never gave any of this stuff a second thought.
+And even as an academic scientist, I didn't. But when it was actually his website that I
+stumbled upon and a lot of stuff that I was not aware about, aware of in regards to the toxicity
+of some of these agents and things like that. So he put a lot of things on my radar that were
+kind of interesting. And he took a particular interest in metabolism, ketogenic diets, and
+hyperbaric oxygen therapy. And that was essentially the first podcast that maybe got me into the
+influencer space in this category. Wow. And so that thing kind of blew up and got over a million
+views. And that led to doing Tim Ferriss and Joe Rogan. Yeah. Oh, you know what? Tim Ferriss,
+my friend of mine, Peter Tia, who also has a great, a really good podcast that has incredible
+podcast notes and it's like actually a very good resource for people just interested in science
+and want to go super deep on a topic. He had, I believe, introduced me to him through an email
+and we started communicating. And I didn't actually know if Tim Ferriss either at the time,
+maybe 2012 or 13. And then I did his podcast and I'd actually did two more. I did a total of three
+podcasts with Tim and have since became a huge fan of the content that he puts out. So he's
+it's very sort of like Rogan, very eclectic in the, you know, the types of people he has on and
+he puts out. I'm the first podcast really, you know, I was enamored by that first podcast
+with Tim, even though it was kind of a lot of stuff to digest, like a lot of the way the
+terms you guys use. He's obviously very educated when it comes to, you know, science and the stuff
+that you guys are talking about. And some of the words that you guys are using is kind of hard
+for someone like me, kind of like a normal everyday guy to understand. But he breaks it down. He does
+break it down towards the end. Yeah, to do that. You know, I didn't really prepare it off of that
+podcast. And that has been sort of a trend, like I just don't really prepare for it. He didn't
+really give me a lot of like, I'm going to ask you this or that. I know I asked you before I
+came on here. Yeah, what questions just so I preemptively know what's going on. But yeah,
+I remember I was teaching and I had the run to get on the Skype call or whatever. And I was just
+like, okay, I got to put on another hat here and just talk. And it just I felt like I babbled at
+the end of it. Yeah, it was only supposed to be 90 minutes. And I think I went like two and a half
+or two or three. It was like almost three hours. Yeah. And I was thinking, Oh, man, I hope he edits
+this up because I just rambled on. I just, but yeah, the feedback has been pretty good on that.
+So I guess I rambled in areas that were helpful. That was amazing. Did you prepare it all for
+the Joe Rogan podcast? Or was that just sort of like on a whim as well? Yeah, I became a little
+bit more prepared because I knew, you know, he had such a big platform. And there was, because
+sometimes you just get into a topic or he leads you into discussion, you forget some of the reasons,
+you know, why you're doing what you're doing. So I, I try to kind of plug the Office of Navy
+Research, the Charlie Foundation, which was probably the first website I ever stumbled upon
+with the ketogenic diet. And that got me, that sort of revealed to me that the ketogenic diet was
+a medical therapy for epilepsy. And I was sort of contracted by Office of Navy Research to develop
+a neuro protective anti seizure strategy. And I had done an undergrad in nutrition science at
+Rutgers University. And it became an opportunity for me to revisit nutrition, and actually make
+that the basis of my whole scientific sort of, you know, progress or platform as a research
+scientist at USF. So I can introduce that and kind of reduce some of the drug related research that
+I thought I was going to do, looking at like drug compounds that were antioxidants or anti seizure
+drugs. And it became refreshing to just reintroduce nutrition back in because I've always been, I
+majored in nutrition and biology in neuroscience or in Rutgers before going into a neuroscience
+program and kind of left nutrition out of my whole PhD, but always wanted to go back to it.
+So my postdoctoral fellowship and then transition into tenure track position really gave me that
+opportunity to revisit food as medicine, you know, and or nutritional compounds that we developed
+to as therapies and medicine. That's amazing. And how did you get, can you give me the story on how
+you initially got involved with the Department of Defense in developing, developing what you
+developed for the Navy SEALs and what the implementation was for the Navy SEALs, like what
+were their missions that were specifically involved with? Well, this research was really basic
+science research and it's still ongoing. And the stuff that we're doing now in humans is actually
+done as a subcontract with Duke. So they have these environmental chambers there where we kind
+of dive people in and out of a ketogenic diet and look at their response. So looking back, it was
+kind of a circuitous route to it. But as a PhD student, I knew I was going into a lab that was
+funded by the military and two or three years before I actually graduated. And I started writing
+proposals to Office of Navy Research. And one got funded that developed the technology, which was
+hyperbaric microscopy. And the results from that experiment kind of led me down the path
+that like targeting mitochondria, energy metabolism, those sorts of things. And the whole
+basis behind that first postdoctoral fellowship grant was to understand the molecular mechanisms
+of oxygen toxicity seizures. Okay. So the technologies that we developed helped us
+understand it in ways that we didn't know before. And I kind of realized that nutrition,
+targeting energy metabolism was a way to go. And then I stumbled upon the ketogenic diet,
+which was a diet used for drug refractory epilepsy. When the drugs did not work to control epilepsy,
+the standard of care actually was to put a patient on a ketogenic diet. And then in about
+60% to 70% of patients who do a ketogenic diet, when drugs fail, the diet
+can work remarkably well. And people has a positive effect. And in like 15 to 20%,
+or maybe 10 to 15% are super responders, meaning that they never have a seizure again,
+they follow the diet, and they wean themselves off, and then they never get used again. So it is,
+some people have labeled it a cure for epilepsy in that subpopulation. So to me, that I didn't
+know that. And I majored in nutrition, and we didn't talk about the ketogenic diet,
+only the negative effects of like the Atkins diet or low carb diet or high protein diets,
+which I actually at the time I thought the ketogenic diet was a high protein diet.
+Having gone through a top tier nutrition program, I still did not have any idea what a ketogenic
+diet was. So only I took it upon myself to do the research I connected with the people who
+were doing the research at Johns Hopkins. Mostly I bought Dr. Freeman was alive at the time,
+and Dr. Eric Kosoff, who had did work with the ketogenic diet and the modified ketogenic diet,
+which was higher in protein. And it was like almost a diet that I could follow. So it was much
+more liberal in protein instead of the restricted 8 to 12%. It was like 20 upwards of 25 or 30%
+protein. So I decided to like do the ketogenic diet. I was learning about it. I connected with
+patients like Mike Dancer, we connected in a nutrition forum. And he was in a patient with
+epilepsy in the UK. And he did the diet and it worked for him. And this is all while I was like
+researching the diet. I connected with Dr. Mary Newport, whose husband had Alzheimer's disease.
+And she was using a ketogenic strategy, which was like MCT oil and coconut oil,
+which can elevate your ketones. And later a ketone ester that was developed by Dr. Richard
+Beach at the NIH who passed away about a month ago, actually. And these are all key people that
+were really the reason like why I went into this area. So I realized, you know, Hopkins was doing
+research. There was a lot of publications. I connected with people here in the Tampa Bay area,
+people abroad. And it motivated me to contact the program manager at the Department of Defense
+or the Office of Navy Research and say, Hey, here, look at all the science here.
+You have top tier academic Institute to do in research on the ketogenic diet for a broad range
+of seizure disorders. So it seemed to be independent of the seizure type. The ketogenic diet worked
+remarkably well for many different seizure types. So oxygen toxicity seizures is a type of seizure
+that causes, you know, these grand mal or tonic-clonic seizures. So the science was there
+on this diet that I didn't really know existed as a medical therapy. And I realized that the
+military did some research. It wasn't too public, but I did find some of it on PubMed where they
+fasted rats for 24 and 36 hours, and it made them like super rats. So it made them
+resistant to oxygen toxicity up to 200. And I think a 36 hour fast was like 250% delay in
+the time that they get seizures. And the best seizure drugs only work to that. And you have to
+dose them up so high, the animals basically like in a sedated state. So you could not load up a Navy
+seal with anti-seizure drugs because they have a, they reduce cognitive and physical performance
+and then throw him into battle, right? So the next question was the ketogenic diet appears to not
+really alter your performance that much cognitive, it may enhance it. And physical performance was
+still, I didn't know too much about it, but I realized that Jeff Volick, who is now at Ohio
+State University, built a whole sort of academic career studying the performance effects of low
+carb ketogenic diets. So that gave me more ammunition, so to speak, to give the program
+officer to say, hey, there are all these different applications of a ketogenic diet. Can you give
+me, I'm proposing to get a million plus dollars to really fund this. So it was a lot of back and
+forth and maybe about a year and a half before I actually got like the grant was awarded. And then
+when money started coming in to the University of South Florida, they like it, it's federal funds
+that pay indirects, which they can use for different things. And it was a significant amount of money
+equivalent to like an NIH kind of grant. So that set me up academically into my tenure track position
+to do a whole a decade now of research on the ketogenic diet. So it started with oxygen toxicity,
+we developed ketogenic agents like exogenous ketone supplementation, ketone esters you may have
+heard of. So these things sort of developed and were utilized in our research and we published
+about them. And ultimately, I was part of bringing ketone salts, which are exogenous ketones to the
+market. Okay, we had a number of patents and then different different organizations got these
+patents and then commercial products started showing up. So it was actually me and Patrick Arnold,
+were part of that. And Patrick Arnold was, he was also on on Tim Ferriss's show, if you haven't
+listened to him, he may be a good guest to have on interesting background. But his background
+was performance enhancement. So I was physical performance. Yeah. So he was involved in,
+well, you can just look up Patrick Arnold and he did as a chemist. So he has a very interesting
+background, but he was very willing and interested and able to develop a compound that I needed,
+whereas all my connections in academia were not really willing or to develop this particular
+ketogenic compound. So when he did develop a series of sort of prototype compounds,
+one particular compound that he purified worked remarkably well for oxygen toxicity
+seizures. And then we went on to use that compound in everything from cancer to Angelman syndrome,
+which is a genetic disorder. We now have Angelman syndrome clinical trials at Vanderbilt is being
+done on exogenous ketones, glucose lowering effects, anti inflammatory effects. It enhances,
+it has behavioral effects that can reduce anxiety. So this is work that my wife did as a behavioral
+neuroscience person. So yeah, we developed sort of novel agents and then novel agents that when
+you give them orally, they mimic the effect of the ketogenic diet or mimic the effect of fasting.
+So if I was to consume a ketone ester right now, say if I was eating carbohydrates, but I follow
+a ketogenic diet most of the time, and you take a person and you give them a ketone ester and you
+measure their metabolic markers, it would look like they've fasted for a week or more and within
+15 to 20 minutes. So yeah, so these agents are really remarkable and they shift the metabolism to
+basically burn a different fuel. So your brain is like a hybrid engine, it can use glucose,
+and in periods of fasting, it can use ketone bodies after about a week, about 60%
+of brain energy comes from ketones. So the technologies that we developed basically
+put somebody into that state very rapidly and it's giving the brain an alternative energy that
+makes the brain resilient against extreme environments and can also
+have an anti-inflammatory effect, enhance certain metabolic processes in the brain,
+it can also change the neuropharmacology of the brain. And what I mean by that is like,
+we have neurotransmitters in our brain like glutamate and GABA, serotonin,
+dopamine and other things. We do know that the being in a state of ketosis even produced acutely
+with an exogenous ketone can change the ratio of glutamate to GABA. So GABA being hyper excitatory
+and many neurodegenerative diseases are pathophysiologically linked to excess glutamate
+production. So glutamate is excitatory and GABA is inhibitory, but we make GABA from glutamate with
+an enzyme called glutamic acid decarboxylase. So the ketogenic diet and exogenous ketone
+seem to activate this enzyme that takes a neurotoxic neurotransmitter when it's at
+high levels and converts that into a brain-stabilizing neuroprotective neurotransmitter or the ratios of
+this. So this is some of the work that evolved out of our mouse studies, but actually other
+people have shown this in mouse mode, I think in humans too. We just recapitulated it not with a
+ketogenic diet, but with a ketone ester. So this gives us kind of, from a fundamental standpoint,
+you're changing brain energy metabolism, reducing oxidative stress, reducing inflammation,
+and changing brain neuropharmacology. So this was early on in our experiments that we were
+doing these things. So I realized it has major implications for not just, it has implications
+for everybody. So that because I was studying something that people could read a paper or hear
+me talk, it was relevant to their lives, whether they're trying to lose weight, control blood
+glucose, have more energy. Most people know someone with cancer, like it was maybe something that
+they could use as an adjuvant or if chemotherapy fails or something like that. So there became
+more public interest in what I was doing. And I took advantage of outreach opportunities
+because podcasts were, I mean, prior to, you know, maybe 2010 or 11, I'd never even heard
+podcasts. These things were happening. But the more I did, the more opportunities came to me
+and the more I took advantage of, you know, using that platform to get our research out.
+And I think when you really, I wasn't as passionate about the drug research or the
+compounds I was studying, even though I was fascinated, you know, I would read paper after
+paper and would be this compound was going to be remarkable. It never really would live up to its
+expectations and experiment experimentally. But the ketogenic diet not only lived up to my
+expectations, it exceeded it in everything that we studied, the ketogenic diet or exogenous ketones.
+So that was very exciting to me because I'm in a pharmacology department. I don't think it was
+very, maybe my chair and maybe committees were very enthusiastic of maybe one of their
+faculty is going into basically basing their whole career on this high fat diet, you know.
+So, but I knew it worked. So I was very passionate about it. And I knew the science was there.
+It was very marginalized and grossly underutilized as a therapy for epilepsy.
+And I felt that it had a similar capacity, maybe even a greater capacity for other things outside
+of seizures and epilepsy. So then I kind of embarked on many different experiments to test
+and evaluate nutrition, in particular the ketogenic diet and using nutritional ketosis as
+medicine. And that was a springboard. How specifically did the ketone esters affect navy
+divers? So they have not, well, they have not been used in navy divers in a registered clinical
+trial. Okay. So right now we have a registered clinical trial with Duke. And the protocol is
+there are people in the field using it and that communicate with me in various capacities.
+And they, they measured blood. So they are sort of their own end of one experiments,
+but there are many end of one experiments going on. And that feedback has been very helpful for me
+to understand what works, what doesn't work, what maybe does not work optimal as far as dosing.
+And then I sort of apply that to like our animal studies. And our animal studies that are published
+some of that information helps us to develop the clinical trials we have at Duke now.
+And the protocol for that is very, it's, it's kind of simple in that they just do a modified
+sort of Atkins diet, Atkins like diet or modified ketogenic diet that's pretty liberal. And I think
+most people in the fitness community follow a similar ketogenic diet type approach. And the
+requirement is that you just get ketones up to 0.5 millimolar. And they, they choose people that
+are sort of in an age range of the Navy seals, I guess you could say, have maybe more of an
+athletic background. So they're kind of surrogates for the seals, I guess you could say. And they,
+they do, they measure everything from cardiovascular EEG brain activity, they put an arterial
+cathin and that goes to a mass spec and they look at blood gases and everything you think of. And
+they're inside probably the most advanced hyperbaric system on the planet. And they're also submerged
+and they're also playing a flight simulator and they're peddling a bike at the same time. So it's,
+it's a very, it's a very complicated setup and a very, very cool experiment. You could only do
+these sorts of experiments at Duke University, but they just put them on a ketogenic diet for
+three days and they give a supplement right before they get in and it puts them into a mild
+state of ketosis, like maybe a state that I'm in right now, but not a huge whopping dose of a ketone
+ester, because they're not FDA approved yet. Actually, we're in the process and I think maybe
+they are now, but, and then in the futures, we can, we can do that for the particular type of
+ketone ester that prevents seizures. So we're working with that now. So the studies that are
+being done now with oxygen toxicity are to basically replicate what a diver would experience
+on a mission in regards to the partial pressure of oxygen that's being inhaled. And so they're
+inside a hyperbaric chamber and they have a mask on and they have people assisting them if they
+actually have a seizure. They push them to the edge of a seizure and there's basically
+EEG signatures that will tell you, warn the person looking at the data that an impending
+seizure is about to happen and that's when they cut off the experiment. Oh my God. So I was amazed
+that something like this got IRB approved, but it is, is a registered clinical trial
+and clinicaltrials.gov and, and it is a testament to Duke and their, their staff. Bruce Derrick
+is one and Richard Moon and Claude Pianodosi. These are all icons in the field of military or
+of dive medicine, you would say. So if I tried to do it, it wouldn't get passed. So they have the
+expertise in the background and decades of experience doing this kind of research. So that
+research is ongoing. The pilot study has been done and now 40 participants are going through this
+protocol. And then the next round, what we want to do is do sort of an extended ketogenic diet
+because we do think special operations guys, we do think the diet is feasible for special
+operations people to follow, maybe not the whole general military, but for special ops, a low carb,
+modified ketogenic diet is feasible. And now exogenous ketones are palatable, tolerable, and
+efficacious for elevating ketones. So we have sort of two technologies, one being a specialized
+diet and another being a specialized supplement that if consumed will protect the individual
+likely better than anti-convulsant drugs that we have. And not only would it protect them from
+oxygen toxicity seizures, which makes diving safer, we think it also has a capacity after you're
+adapted to the diet has the capacity to preserve performance resilience. So if you're at, you
+know, one atmosphere on land and you follow a ketogenic diet, your performance is probably
+not going to increase that much. So some people advocate that a ketogenic diet will enhance
+performance under certain conditions in certain types of athletes or a ketone ester will enhance
+performance. I'm not totally convinced of that data and I'm a ketogenic diet researcher. So I
+should be biased. I think, but I do think that when you take an elite level warfighter and put him
+into a situation where his performance will be compromised and he's in a state of nutritional
+ketosis, that his performance will be maintained in that extreme environment. We call that performance
+resilience. So we do research with NASA on NASA extreme environment mission operations,
+where we live in a hyperbaric habitat or we live in an environment that's an extreme environment.
+And in these cases, we are looking to basically maintain a level of performance or prevent a
+performance decrement. Right. So that's sort of the idea here. There's you go on social media,
+there's lots of discussion and chatter and arguing about is a ketogenic diet best for
+strength athletes, bodybuilders, elite level marathon runners, cyclists, things like that.
+That's where most of the discussion is. It's not so much in the I think I'm glad I'm not studying
+the ketogenic diet for sports performance. It's kind of interesting and I keep up on it and I
+contribute even to some papers. But I think the real the low hanging fruit of benefits of the
+ketogenic diet are for people who really need it, like people that are overweight, people with type
+two diabetes, people have seizures, of course, and then also the warfighter who's subjecting
+themselves to particular extreme environments where we know the diet can be followed in his
+operational setting and we know from animal data and emerging human data that it would be beneficial
+in that environment. So where did this diet, the ketogenic diet originate from? When did humans
+start eating this way? Yeah. Well, it depends on who you ask. But we knew that
+going back from scriptural times, I think the Gospel of Mark talks about fasting and seizures.
+Fasting produces a state of ketosis that's therapeutic fasting or starvation ketosis or
+fasting ketosis. So that we knew for millennia that fasting had an anti-seizure effect.
+And Hippocrates talked about food is medicine and also knew about fasting and seizures.
+But it really, and some people will argue the ketogenic diet came at this point,
+but it was really the Mayo Clinic in the 1920s, 2021, 22, were wilder and colleagues really.
+They understood that fasting produced these ketone bodies in the blood and that if you took a diet
+and gave almost pure fat with just a little bit of protein, so enough protein to prevent
+protein malnutrition and the patient ate that diet, their corresponding hormones like insulin
+biomarkers or blood metabolites like glucose and most importantly, it's ketone bodies,
+were shifted in a direction that looked like fasting, even though it was eucloric, which means
+you can't fast, you can only fast for so long to control your seizures. But if you follow a
+ketogenic diet, you're getting all the calories that you need for energy and enough protein to
+maintain body tissues and function and to prevent protein starvation. We do not need
+carbohydrates, there's essential amino acids from protein and essential fatty acids from fats,
+there's no essential sugars, carbohydrates. So we could eat a diet that's completely
+eliminates carbohydrates and feed that diet with a macro nutrient ratio, which means fat
+to protein to carbs, carbs being almost non-existent and maintain the patient on that and they would
+it mimics the effects of fasting. It's much different than fasting. Well, it's different
+than fasting, but it shared many of the metabolic physiological and neurochemical effects of fasting,
+the anti-seizure effects of fasting. So that was in 1920s and then the diet was actually used as
+an epilepsy therapy until about the 1960s, late 50s to 1960s and anti-seizure drugs came along
+and they kind of dominated epilepsy or seizure therapies for quite a while, but they never
+really worked that well. There's about a third of patients who just don't respond at all and the
+patients that do respond still get a lot of side effects. In some cases, the drugs are remarkably
+well. Some people will be advocates of the, some people who are advocates of the ketogenic diet
+will say the drugs don't work at all and that's not the case because I meet people
+where the drugs are really life-saving to them, but I also meet people like Mike Dancer who I
+connected with. If you just look up Mike Dancer in epilepsy, you'll find his remarkable story of
+a half dozen or more medications that failed and the ketogenic diet was really the only thing that
+controlled his seizures and you run into a lot of people like this and the story that probably
+dominates is the story of Jim Abramson, Charlie Abrams. Charlie was on a half a dozen different
+medications for drug-resistant seizures and his father, Jim, took it upon himself to educate
+himself about the ketogenic diet and going to the library of all things and telling Charlie's
+doctor that he needed to be on this diet, but he faced resistance because the doctor did not even
+want to put his son, you know, this doctor's patient on the ketogenic diet because they
+thought it was going to be too difficult to follow and the doctor probably just didn't
+know enough about it, but even though it was the standard to care, so essentially he switched
+doctors. Charlie got treated at Johns Hopkins, I believe, and within a very short amount of time,
+it controlled his seizures to the point where Charlie could be weaned off the diet over a year or
+two and the story was so remarkable. It made Dateline, NBC and I saw that back in maybe 1996
+or something and Jim Abrams was friends with Meryl Streep, so Meryl Streep did a movie about
+the ketogenic diet called First Do No Harm and it was the Charlie Foundation and this movie First
+Do No Harm, which really got me motivated. I sent all these links to my program manager at the time
+and it was, I connected with a leading scientist including Dr. Jung Rowe, who was at the Barrow
+Neurological Institute at the time, treating patients and also doing science, so it was a
+combination of things in the media, personal stories, people that I knew and I think most
+importantly, I mean there was really solid PubMed peer reviewed academic research supporting
+this therapy. It was working as an anti-seizure effect because it made the brain work better,
+so I knew it had implications for other things but nobody else was really looking at these other
+things, so actually one of the first experiments that we did was actually a mouse model of Alzheimer's
+disease. We started the intervention, the ketogenic diet intervention, kind of after
+these mice sort of have the Alzheimer's pathology, which is these amyloid plaques, toxic plaques form
+and once that happens it's hard to reverse, but our studies did not show it was therapeutic in the
+realm of preventing Alzheimer's disease because these mouse models really are not very well suited
+to study the disease but we did see an increase in motor performance, so they would run faster and
+farther on like a treadmill device, we call a rotorod, so that was very interesting and then
+but other people have published, including NIH, showing that the ketogenic diet and
+most of the researchers on a ketone ester delayed the progression of these amyloid and
+tau plaques, which are the hallmark characteristic of Alzheimer's disease, but I believe they got
+ketone levels higher and they started the intervention a little bit early, so the take-home
+messages that if you have, you know, are predisposed to Alzheimer's disease, you want to, it would be
+prudent to start the intervention early and that could be a diet, that could be supplementation.
+What is the plaque that you mentioned and how does that plaque bring on Alzheimer's? Yeah,
+it would be a good question. This is like, there's amyloid beta plaques and tau plaques and
+the etiology of this tauopathy or amyloid plaque accumulation, the reason for it happening is
+a academic question that has not been sufficiently answered yet and it's very ambiguous how these
+things develop, but you only have Alzheimer's disease. Alzheimer's disease is defined more or
+less postmortem by showing when you open up, you know, dissect the brain and find these plaques.
+There are new technologies that are emerging that are essentially positron emission tomography or
+PET scans that can scan for amyloid and tau and so we have technologies now that can actually image
+the presence of these plaques and the progression of the plaques over time with different therapies.
+So this is relatively new and but some institutes are doing this. So it is not really understood.
+Genetically, there are molecular things that are being turned on that accumulate these that
+cause the body to form these toxic plaques, but the question is why does the body produce these
+plaques at all, right? I think it's and this is controversial, but these amyloid and tau plaques
+are produced in response to inflammation in the brain and also at the root of that could be a
+dysregulation of metabolic control. So another hallmark characteristic of Alzheimer's disease
+is a decrease in glucose metabolism. So in FTG PET scan, which looks at glucose metabolism,
+the brain is very dim in patients who have Alzheimer's disease relative to a normal subject.
+The image is much brighter, which is indicative of the brain using high levels of glucose for energy.
+A hallmark characteristic for Alzheimer's is glucose hypometabolism.
+You need a robust metabolic activity to deal with a number of processes in the brain,
+including dealing with processing the amyloid plaques and Alzheimer's and the body needs
+to get rid of them through a series of enzymatic reactions and things that are cleaved and the
+lymphatic system, the brain has a lymph, so which activates at nighttime when we sleep.
+So there's a lot of things that we're learning now that could be the root cause of it.
+So it's the disability to burn the... You're producing too much plaque or you're not breaking
+it down, sort of being recycled, but there's some of that amyloid plaques have antimicrobial effects.
+So if you were to have a viral illness, things simple, like herpes simplex or HIV or...
+Coronavirus.
+Coronavirus, yeah. Yeah, that's a hot topic or Lyme disease, things like that. So there are...
+There's evidence that Lyme's disease, that Alzheimer's pathology could be
+a result of having a pre-existing microbial infection. And it could be viral, it could be
+bacterial, but it's causing neuroinflammation. Neuroinflammation is causing metabolic dysregulation
+and the accumulation of these toxic plaques. And you can also be... There's... Genetically,
+you could be predisposed. We have different... If you're an ApoE4, ApoE44, that genotype will
+make it more likely that you'll have Alzheimer's disease. And if you're reached the age of like
+75 or 80, there's a pretty high probability that you'll have Alzheimer's disease if you
+are genetically predisposed and have the ApoE genotype, ApoE4 or 4-4.
+Yeah, I mean, it makes so much sense as far as like evolution goes and animals go, like going
+back to what you said about physical performance. If you think of like an animal who hasn't eaten in
+two weeks, right, it has to have that extra boost of energy to be able to catch its prey and to eat
+and having those ketone bodies, I guess, in their blood really does affect them that way.
+Well, if I guess put it another way, like if an animal is in a starvation state and could not
+readily use ketone bodies for fuel or be able to function from a cognitive or mental point of
+view or physical point of view in a mildly hypoglycemic state and not have robust access to
+its body fat and then the ketones that are produced from that, they would not be able to
+forage and catch their prey. So they would not survive. So evolution would not favor
+individuals, animals that did not keto adapt, we say over time. So I think there's a pretty
+big component to that. But I think our modern lifestyle, the foods we eat, our maybe lack of
+activity, prevent us from having limited food availability. So we essentially silence that
+that that gene program that would otherwise be activated in the face of
+short term fasting or long term fasting. So when we fast, not only does it completely change
+our metabolic physiology, it changes our brain chemistry, the neuro pharmacology of the brain,
+but it also activates genes. So we say it has an epigenetic effect. And we have pretty good evidence
+now that once that those gene pathways are activated, it can enhance ketolytic enzymes,
+which are enzymes that allow ketones to be used as energy ketogenic enzymes, enzymes in the liver
+that can allow the robust production of ketones under certain states. And then the transport
+of these ketone bodies, which are through these things called the monocarboxoc acid transporters,
+like the transporter proteins get upregulated pretty robustly when you fast a person or when
+you put them on a ketogenic diet. And then if they go off the diet completely, and then go back on
+again, they are much, they enter into the state of ketosis much, much faster. So there's some animal
+data that suggests that and of course data in people. So the more you do it, the easier it gets.
+And maybe the more benefits you derive from it too. And I think that is supported in the literature
+now and also, you know, and it kind of lends to this idea of metabolic flexibility. So if we're
+on a carbohydrate based eating program, and we're eating carbohydrates continuously throughout the
+day with small meals, and we never restrict it, then we never are making our body flexible to
+using other types of macronutrients. So one thing about one thing about humans is that we are
+remarkably adaptable. And we are true omnivores, whether you believe in the carnivore diet,
+or the vegan diet, plant based diet, I think the truth is that humans have evolved and survived
+and do so well because of their omnivorous capacity. And we do, we can do fine off eating meat and
+meat only, but is it optimal? I don't think so. We could do, we can live and survive off eating a
+vegan diet. Is it optimal? I don't think so. So the optimal diet is the omnivore diet. So whether
+both sides want to agree to that or not, but it's a hot topic. You've dedicated your life to it.
+I've actually dedicated my life to a diet that's pretty radical metabolic therapy, a clinical
+therapy. So the ketogenic diet is very extreme. And I don't think it's, it may, for some people,
+it may be optimal, obviously, if you have seizures or epilepsy or something like that. But
+is it optimal for the athlete? Is it optimal? I admit I follow the diet, but every day I eat
+dark chocolate and blueberries and probably some greens and broccoli every day too. So it's not,
+it's not a version of a ketogenic diet that a person with epilepsy would follow. Although
+our, the science is evolving to the point where the classical ketogenic diet, our understanding of
+it is being, that it's, maybe it was too restrictive and that a more modified or more
+liberal forms of the diet may be actually better, definitely better for adults. But
+in the pediatric population, it's always prudent to start them on a, on a classical ketogenic
+diet with almost 90% fat and then see how they react and then maybe be a little bit more liberal
+and transition them to kind of a diet that I'm following. You can also incorporate
+different types of fats like coconut oil or medium chain triglyceride oil, perhaps even
+exogenous ketones, but that's still in a state of being studied now, that the introduction
+of those types of fats and supplements could make it possible that a much more liberal diet
+could be followed and still maintain therapeutic ketosis, which would be have an anti-seizure
+neuroprotective effects. So I'm, that's, that's like sort of my wheelhouse. So that's what I'm
+very interested in doing because this therapy, the benefits of the ketogenic diet are not very
+accessible to people because they, they don't want to exclude an entire macronutrient from their diet,
+which would be carbohydrates. So I think there are true benefits to some of these plant-based foods
+like, you know, chocolate, blueberries, coffee, arugula, broccoli, things like that. There's
+definitely some real benefits to eating these foods. And I think that excluding them is not a
+great idea, especially for following it for the duration of your life. And some people have to
+do that for their disorder. So we're trying to work and engineer diets that would be feasible for
+someone to follow, but their feasibility, their efficacy may only be, they may only be efficacious
+when ketogenic fats and ketone supplements are also incorporated into the diet. And we think of
+those things as food, like exogenous ketone. A ketone ester is a calorie-containing molecule
+that is kind of unique. It's like a fourth macronutrient, but it can be incorporated into the food
+and make that ketogenic diet more efficacious. It can augment the therapeutic potential of
+your diet in different ways. So this is an area that I study and that we are doing research on now.
+So what do you believe the optimal diet is for just the average person who may not be a professional
+athlete, you know, maybe goes to the gym a couple days a week, has a desk job or has just a normal
+nine to five? What is your opinion on the optimal diet for that kind of person?
+Yeah. Well, the diet that's not optimal is probably like the majority of people after a
+certain age eat too many calories, right? And surplus calories will result in sort of metabolic
+arrangement and type 2 diabetes and just being overweight. So we are more likely to eat surplus
+calories if it comes from processed carbohydrates in a combination of sugar and fat, right? So sugar
+and fat are two things that you want to limit in your diet, the combination of the two. But fat,
+yeah, the combination, like salt, sugar and fat. But a ketogenic diet is extremely high in fat.
+And if a ketogenic diet is by definition devoid of carbohydrates, it's the carbohydrates that
+can spike the insulin and kick you out of ketosis that makes the benefits of a ketogenic diet.
+It negates it. So if you're on a ketogenic diet and you have, you follow the ketogenic diet perfectly,
+but have, you know, a couple pieces of candy a day, you're not going to be getting the benefits
+of the diet from a neurological standpoint, at least from an anti seizure standpoint,
+because a child could eat one piece of candy and have a seizure. And this has been shown
+many times. So it kicks you out of ketosis. And then your brain goes right back into,
+it activates your brain in a way that triggers a seizure. We don't know exactly why this happens.
+But it depends on the individual, I guess is my point, is that if you're trying to lose weight,
+a diet that is formulated, and that could be a vegan diet, it could be, I don't think it's
+optimal, or it could be a carnivore diet. But I think the optimal diet, for if we're just going
+to make a blanket statement, is a low carbohydrate, a diet that's low in carbohydrates, but is sufficient
+enough in plants that you're getting phytonutrients and fiber, I do believe in fiber. Early man had
+sometimes 100, 150, 200 grams of fiber in their diet, if you look at it. It depends on the period
+too, if you look back in history. But having studied, I did study the evolution of human diet
+through college and read a number of books on it. And one thing that was really apparent is that a
+lot of fiber was eaten. But an optimal diet would be devoid of processed carbohydrates and sugars
+and sufficient in protein from batty cuts of beef, fish, poultry. The beef, ideally, not everybody
+can afford it, but from pasture raised grass fed animals. I think that's obviously much better
+for the environment. Concentrated feed law operations are very destructive to the environment.
+And when you make a statement when you buy your food, if you're supporting this kind of agriculture,
+I do believe that GMO foods can be destructive too, having come from a farming background.
+We are farmers too. We have had to feed the cows in the morning and get them. So I spent a lot of
+time on the farm and feeding cows before coming here today. And I know there are
+proper ways to farm and improper ways to farm. So I think when you purchase your food, you're
+kind of making a statement, but also you're choosing a type of food that's inferior if you're
+going in the direction of your food from factory farms. So that's one consideration.
+People put a lot of time and effort looking into the subject. That's all I'm going to say
+about it for now, but I think that the macronutrients are most important in regards to
+just like human nutrition. So I believe you're in a higher protein diet anywhere from I think
+10 to 15% is like what's recommended by the USDA or ADA. And I'm kind of more along the lines of
+20 to 30%. And with the balance being 50 to 70% of my calories from fat,
+just because I can do ketogenic diet research, I tend to follow the ketogenic diet. And I do get
+probably anywhere from 5 to 15% of my calories from carbohydrates. And I can stay in ketosis
+with that level of carbohydrate consumption, especially if I'm incorporating ketogenic fats or
+I'm pretty active. And I have a lot of blood work to back up that that's working for me.
+Yeah, if you look at my blood work now, 45 ish. And if I go back to I'm 25,
+my blood work at 45 is much better. When I'm 25, I was probably getting about 300 grams of carbs a
+day, not like crazy amounts, but I was eating a lot more food too. So that's a big part of it.
+And the reason the ketogenic diet works remarkably well for losing weight and weight
+maintenance, a lot of people can lose weight, but not a lot of people can follow an eating
+program that maintains that weight loss. And I think a ketogenic diet can do that remarkably well
+by maybe some may argue is that it's it's unpalatable. So you're just less likely to eat
+more, right? If you're excluding carbohydrates, but it has an appetite suppressing effect.
+So that's pretty clear in the literature. So that's one reason the most of the people who are
+interested in the ketogenic diet are interested in its weight loss effects. So I think people
+need to know that it's not a magic diet. I think Dr. Atkins advocated that there was a
+metabolic advantage that suppressing the hormone insulin can allow you to eat actually more calories
+and you're burning more calories. I don't think the science supports that. Some evidence there
+may be some evidence that that's true, but it's very negligible. The big effects of the ketogenic
+diet for weight loss really come down to its ability to produce inadvertently calorie restriction
+and allow people and you're getting the benefits of ketones too, which after you adapt to the
+diet, you feel more lucid, you have more energy over time, but you feel crappy the first month
+typically. That's the keto flu, right? That people typically get. I never really had that.
+And I think maybe athletes, especially elite level, not that I'm definitely not elite level
+athlete, but I did go through periods where I would go through calorie restriction and then
+calorie surplus and stuff when I was tinkering more with weightlifting stuff. But I think that
+athletes enter something called post-exercise ketosis. So if they go out on a bike for four
+to six hours, they burn up all their glycogen, they tap into their fat, they come back, they're
+in a state of ketosis, even though they're eating 300, 400 grams of carbohydrates a day,
+they can enter that state. So I think they are just by definition more metabolically flexible.
+So when they follow the ketogenic diet, many of them do quite well and don't have a keto flu.
+Keto flu is probably also due to electrolyte imbalances or diuretic effect, a mild diuretic
+effect or hyponatremic effect, excrete excess sodium, things like that. Magnesium may be a
+little bit low too. Mine was a little bit low. And probably the only supplement that I take
+for the ketogenic diet is a magnesium supplement. Now, I don't think I need it now because I think
+I've adjusted my diet, but it's something that was a little bit below normal at a point in time.
+I was probably not putting my diet together well. And that strike me as kind of odd and explain some
+of the cramps I was getting, which is a potential side effect of the ketogenic diet.
+And I've always used magnesium at nighttime. So can you walk me through what your day looks like
+as far as what you eat for breakfast, lunch, dinner? And can you also give me kind of a
+beginner's grocery list for someone that wants to get started in this, someone who's really
+interested in the keto diet? Yeah. Well, today I didn't eat anything. So yesterday I did.
+If we use yesterday as an example, or maybe tomorrow, I'm trying to get my schedule tomorrow.
+But about two or three days a week, I do intermittent fasting. And this is a subject
+we didn't really talk about. But intermittent fasting is something a lot of people are doing,
+and it's eating within a predetermined window, also called time restricted eating.
+So you could eat within an eight hour window, say from 12 noon to 8pm, and nothing after that
+time or before that time. That pushes your body into a mild state of ketosis. And if you're on a
+ketogenic diet, since you've already adapted to using fat and ketones for fuel, it's easier to
+follow intermittent fasting. So today I'm doing intermittent fasting and my meal will probably,
+my first meal will probably be about 2pm in the afternoon. And in my bag, I have wild planet sardines.
+And I have wild planet sardines, and maybe we'll go out and have a salad somewhere. And I'll probably
+put that on the salad, and that'll be my first meal kind of of the day. But yesterday it was,
+we have chicken sausage, and we have eggs. So I think I had sausage and eggs for breakfast.
+But my food list, I kind of wrote down sort of what my wife does shopping. But like fatty cuts of
+meat, poultry, and we get like the whole chicken usually with a bone. So my wife's Hungarian.
+And she introduced me, which is pretty big in the carnivore crowd is eating organ meats. So
+all the organs. So mostly we eat hearts and livers. And that's a big staple in our diet. So we eat a
+lot of heart, a lot of liver, a lot of beef tallow, like beef fat, we'll use that for different
+things. We'll make stews. I get most of our beef actually through Butcher Box, which is an online
+service. And you just order it, you subscribe to it, and it just comes to you. Yeah, it's grass fed,
+grass finished. Yeah, Butcher Box meats. The other company that has superior meat is US Wellness
+meats. Their products are very good too. And they also have like organ meats that you can buy. They
+have like you can get ground heart and make like heart burgers, it's ground up with like beef fat
+and things like that. So that and fish, a lot of fatty fish like sardines, like I said, it will be
+my next meal. Which are delicious, by the way, I tried them recently after hearing the Tim Ferriss.
+Yeah, well, while planet has so they reached out and cut and sent me sort of, I didn't know that
+they have like all these different fish varieties. So while planet actually has all different types
+of sardines that you can go and they have all many different types of tuna fish to and cans and
+packets and they also have chicken. And they're super big on sustainability. So they've done their
+homework in regards to sort of regenerative farming for fish and sustainability. So I feel good
+supporting them purchasing their products. Butcher Box, US Wellness meats are sort of where
+we get a lot of our food from we go to the local butcher to and get like big bones for the dogs
+and ground meat and stuff like that. Occasionally, we feed our dogs what we eat. Sour cream, something
+I have every night to fill basically to get in extra calories. So at the end of the day, I'm
+usually calorie deficient. Just because my days are pretty busy, but I make like a chocolate mousse
+at night using coconut cream, sour cream and dark chocolate bacon cocoa. But now I have different
+powders that are like collagen powder, like chocolate collagen powder that's like lightly
+sweetened with stevia. So I like throw a scoop of that in with sour cream and blueberries and
+something really simple, like every night's like a different recipe. But that's what I had last night.
+And I'll stir that up and it'll be probably like 70 grams of fat just from the sour cream.
+And then a scoop or two of chocolate collagen with wild blueberries. So I get a couple different
+companies sell wild blueberries and I buy those. That and salad, greens, olive oil,
+MCT oil, you know, butter, grass fed butter. What about the coffee? What's your coffee cocktail?
+What do you put in your coffee? Yeah, so today, well, I'm drinking, I'm not advertising for them,
+but purity coffee, let coffee be thy medicine. It's really good coffee and I'm not trying to
+advertise for them. But I have, you know, people send me different coffees that I like to try.
+So I typically I have a French press and I make about almost a liter of coffee in the morning,
+not super strong and not super weak, just kind of, and I have one cup and then I pour the rest in
+this. And then I typically finish this before noon. And I tried to get no caffeine, definitely no
+caffeine after like 2pm, but usually try to cap my caffeine by 12 noon, because I'm really big in
+the sleep, sleep hygiene, sleep, I monitor these things as part of what we study. I saw that on
+your Instagram. So a lot of times I don't put anything in my coffee, but there's a particular
+product out that's really good. It's called Momento. It's really marketed towards cognitive
+function and Alzheimer's disease. And it's got everything from MCT to theanine to versions
+of choline that can enhance acetylcholine, acetylcholinergic function. So I've been putting
+one serving of that in there. So it supplies some MCTs, which but it's not a whole lot of
+calories. So this that's the only sort of calories that I had in my coffee today. So
+I've been because we've been really busy in work and on the farm and everything a little bit less
+sleep than normal. And I noticed when I have that the I do notice this particular supplement is sort
+of giving me the caffeine and the theanine team seems to take the jitters off of the extra caffeine
+and then I'll get in the morning. So that's what I've had today. So the MCT and the butter?
+Yeah, I don't always use butter. I don't have butter in this because it has a blend of essential
+fats, DHEA, EPA, MCT, again, the company's called Momento, and it's a new product that I'm trying.
+I met them at the Metabolic Health Summit, which is I'd encourage your listeners to go to the
+Metabolic Health Summit if they're interested in anything that I'm doing. It's like a top tier,
+you know, academic, clinical, and also entertainment. We had JPCers there. Oh, wow.
+So he was our entertainment for the gala. It's an amazing event, but Momento was they had a
+booth there and it was the first time I'd heard I knew it was coming out and I had two samples
+of it and I've been using it and I love the product. So only about 20% of the things I actually try.
+Do I like say something like this? Okay, you try a lot of stuff. I do. I have a lot of stuff that
+I still need to try. A lot of things I shelve. But yeah, I love to try products. I do a lot of
+testing on myself, you know, and we have various technologies where we can look at things like
+reaction time and like decision making. Yeah, there are things that were experiments that
+we're putting together for the next national NASA Nemo mission and also high seas mission,
+which would be in Hawaii. So we're gearing up to do to study a lot of things as far as performance
+wise on those missions. And so it'd be kind of fun to test myself. Oh, yeah, definitely. I remember
+you mentioned something about you spent like 10 days underwater for some sort of study. Was that
+a NASA study or? Yeah, so NASA has to prepare astronauts for space. You know, they have what
+they call space analog missions. And there's about 14 space analog missions. And the mission,
+the only mission that I know of that actually uses astronauts is the NASA extreme environment
+mission operations. And this I was on mission to my colleague, Don Crenegas was on mission 21,
+Nemo 21. And I had the amazing opportunity to be on Nemo 22. And my wife was on mission 23,
+actually. So we're like super lucky. That's crazy. And she ran a lot of the science my wife did on
+mission 22 when I was underwater. So they pair you up with a crew. And typically, they have a
+couple astronauts on there. My commander was Shell Lindgren. And he's been on the space station
+about a half a year and also Pedro de Cue, who is now the science minister of Spain. But he flew
+with John Glenn, I think in 95. So he was a very accomplished ISA astronaut. And then the NASA
+astronaut was Shell. And he was also a medical doctor. And also Trevor Graf, who is sort of a
+planetary biologist, geologist at NASA. So that was the three crew members. And then there's two
+habitat texts who just make sure we're safe when we do our EVAs when we go outside of the habitat.
+So we live in saturation in this, you know, if you're a scuba diver, you know, you can only go
+down for so long before you get the bends or yeah, so nitrogen and narcosis if you go down to or you
+get DCS or the bends, right, decompression sickness. So we we kind of throw out the tables, right,
+when we're in saturation and you dive down there and you stay down there and you cannot come up.
+You know, if you come up mid mission, you'll die a very painful death, right, right. So you live
+down there for we live for 10 days, each mission is a little bit different. Some I think my wife was
+nine days, some are 14 days, some are seven days. So but what NASA holds these missions to basically
+vet out procedures, technologies, you know, different things that are can be used for deep
+space missions, right. The idea is to look at crew dynamics, to look at different widgets,
+you know, that monitor sleep, that monitor cardiovascular function, that monitor exercise
+devices we'll test down there. We had a device to rescue an astronaut who's been incapacitated
+and we live inside the habitat, but during the day we go outside of the habitat and that's called an
+extra vehicular activity or an EVA and then we'll have a whole list of tasks to do that could take
+anywhere from four to six hours. So we are in a suit, we maintain, you know, we're living in the
+saturation state and and everything is done, you know, pretty much how it would be if you're
+living on Mars or how they envision it would be. There's this thing called playbook. So everything
+is organized from day one, what you're doing, what the next guy is doing, everything is very
+organized, the safety and the crew at the mission control that's run by FIU on so there's like mission
+control and there's a lot of scientists and engineers that are on mainland and we're out in
+the Atlantic at the bottom of the Atlantic a couple miles out, but mission control really
+calls all the shots. So we have communications all the time, you know, telling us what to do and we
+have a pretty demanding schedule from the time we wake up, you know, they give you like two hours
+of personal time at the end, but that's really just preparing for the next day. So it's probably
+one of the most, it was probably the most amazing experience of my life being able to do this and
+be among those people who are such high achievers and operating at such a high level, I was able
+to learn from them, you know, up my game, I mean, because we all have to do the same thing, you know,
+my first task was using the mini DNA analyzer and sequencer when I got down there and it broke
+when I was using it, my device didn't, so they had to like bring another device down. So I was
+starting like a couple hours late and that screwed up the guy who was coming after me, so it was like
+you're put into the stress environment, but stress is one thing that we measure, right? We do salivary
+cortisol, we wear monitoring systems, a Polar V800 chest strap at nighttime, looks at things like
+heart rate variability, our sleep. So, and my wife is interested in looking at like crew dynamics
+and what they call cognitive or team cognition. So the group functions together as sort of a team,
+there's certain dynamics and when stress, when things break down and when things just go awry,
+that can influence team cognition. So when things go bad and things break or, you know,
+within reason, you know, you don't want someone to get injured, but some people have like little
+cuts and bruises and little things like that, it stresses the team out and but the
+behavioral scientist people or the people who study stress, then that day becomes more interesting
+to them if something goes wrong because they can collect all the sound bites of the communication,
+they can look at the HRV, they can look at salivary cortisol. So a bad day for the crew when
+things go wrong, it becomes an interesting day for the behavioral neuroscientist. You know what I mean?
+There's so many teams working on this, most of them from NASA, some from ESA and some from
+outside institutes like universities out Florida, which we operate through. Actually, I did it sort
+of is more or less took vacation time to do it because it was sort of like an independent thing
+that we that we were doing outside of the university. But we want to we're, we think that
+the Aquarius habitat is where the NASA, these space analog missions happen, is an amazing
+opportunity for someone like the Office of Navy Research or NAVSEE or the Department of Defense
+to do research in this habitat because it simulates sort of the life that a person on a submarine
+would have, or you can simulate saturation diving, which is super important commercially, right?
+There's so many things that you could study scientifically in this environment. We think
+that the federal government would be interested in funding, you know, other academic projects on
+that. So I did it, I did as, you know, as a crew member on this space analog mission, sort of
+independent from my university, but we are sort of gearing up to hopefully compete for funding
+from like DARPA, DOD, Office of Navy Research, NAVSEE. We think that these types of missions
+that could be independent from NASA and on their own really offer a lot to federal agencies
+to understand these extreme environments for the warfighter, for the astronaut, for the commercial
+diver, things like that. So we plan to do a lot more missions undersea. That's incredible.
+That's fun. Yeah, I can imagine. Very fortunate to be able to do it. Long term
+fasting. Yeah. How often do you do long term fasts, like over like three days or more? And
+maybe that's not the amount of time you do it for. Basically, how often do you do them and how
+many days do you do them for? And can you explain some of like the benefits, like low hanging fruit
+per se, benefits to a human to practice these kind of fasts? Yeah, for fasting. Well, I became
+interested in fasting because of the work that George Cahill did at Harvard Medical School,
+where he fasted subjects for 40 days. And this was published and I kind of delved in and read
+everything I could. And that was sort of my introduction. It's probably going back to 2008,
+like reading this paper. And then a big review was written about him in 2006, which I was aware of,
+but didn't really read it thoroughly until 2008. Then it became apparent to me that once your body
+is after about three days, I mean, your brain is basically your body's just cranking on ketones,
+so which is being released from your fat stores. So your fat gets into your blood, it goes to your
+liver, your brain can't really use the fast for fuel. So it converts from the ketones. And
+there's a gradual shift from glucose to ketones. So I became very interested in doing it myself.
+And it was probably about, again, about 10 years ago after reading this, that I decided to fast
+for seven days. And I've never fasted that long since. But I have done a lot of three-day fasts,
+especially when I'm traveling, if I'm by myself. My wife and I like to sit down to dinner every
+night and have that. So sometimes, you know, I do the intermittent fasting, but I only,
+typically when I'm by myself or doing some kind of experiment, why do three or four days? And
+sometimes if I'm sick too, if I feel something coming on, I'll fast and then I never get sick.
+Really? So I believe, you know, fasting can rejuvenate the immune system.
+70% or more of your immune system is kind of in your gut. And a lot of immune system energy
+is spent dealing with the stuff that we're eating, right? So especially if you have leaky gut.
+So you're eating food and say your gut's not in the best health, right? The tight junctions that
+hold the epithelial cells together in your gut, if they become loose or whatever, you're letting
+small particles and things get into your bloodstream that otherwise would not be there. And your immune
+system has to work. They recognize these, these things as antigens. So your immune system is
+working hard to neutralize some of these antigens, right? When you're fasting, your immune system is
+like, it's like looking for something to do, right? So it's just like hanging out. So if you have a
+little bug or virus or something, then it becomes more vigilant to basically deal with that. So
+that's how I think of it. Okay. But after I've been delving into like, how does fasting affect
+immune system? So the way I envision it, and I'm not an immunologist, but it's very apparent that,
+you know, food, it puts massive demands, especially if your gut health is not optimal on
+your immune. Even if you have optimal gut health and everything, a lot of time and energy is spent.
+A lot of a lot of immunological resources are spent dealing, you know, with food. So fasting is
+a way to sort of regenerate the immune system. It stimulates things like autophagy, right,
+which could be beneficial calorie restriction could sort of do the same thing. But fasting does
+it sort of been a hyper activated state. So it can improve your metabolic health. It can lower,
+you know, insulin, lower blood glucose, elevate ketones, which can be beneficial.
+Fasting can be a way of sort of just maintaining your calories, like through intermittent fasting,
+but long term fasting really puts the body into a state of stress. And the hormetic response or
+adaptor response to that stress is where we get the benefits, you know, you might feel good when
+you're fasting, you might have a headache, you might feel crummy. But after if people stick with
+it, after about the third or fourth day, you start feeling almost normal, it's a little bit
+scary. And actually, at the seventh day, I felt fine. I just felt my energies were kind of low.
+I felt a little bit cold. Like, you know, the AC was too cold, like my metabolism was shutting
+down, but I was still clear, I was writing grants. And actually, the work that I did during that time,
+that grant ended up getting funded. And I think I got a couple manuscripts out during the week
+that I didn't eat anything, you know, did I talk classes and stuff to did I hear correctly that
+you dead lifted an absurd amount of weight after like a seven day fast?
+Yeah, that was on the seventh day. Yeah, I think I taught in the morning and I did some like fitness
+camp later in the day. And that night, you know, I knew I was like, well, let me work out, I had
+done some light workouts, just like chin ups and push ups throughout. Because I do think it's important
+to do resistance training if you're fasting to help maintain muscle. But if you do something too
+strenuous, right, you're accelerating catabolic processes and you don't want to necessarily do
+that. But I did find it very interesting as a litmus test for my strength, strength deadlifts
+are pretty good litmus test for that. And, and I was kind of cautious not to go too crazy because
+I didn't want to break form and get injured at the at the end of this, that would be like really
+bad. And people was like, don't, but you know, as I as you're warming up, you have an idea of how
+much, you know, so it's like 135, 225, 315. And then 405 felt really easy. And then so I did like
+five plates and the collars and stuff. So it was about 500 pounds. And yeah, I did that for 10,
+I just kind of stopped at 10. And I didn't, you know, really feel I didn't even get sore the next
+day or anything like that. But I can typically do more. But so I didn't push myself. So maybe I
+could do 585 at that time for about 10. So I did Wow, or 95 or 500 pounds. I usually do like six
+plates for 10 by five plates, and it was not hard. It was about how it normally feels. Okay.
+So that that was kind of it. If I was to do it again, I would take something like creatine
+monohydrate. I would probably that's like a supplement, you know, that can help with training.
+I would probably take I did take electrolytes. But I do plan to do it again. I just need to time it
+right, you know, with I don't I feel like I'm master sizing my wife. I'm not eating dinner.
+I'm like that. It's like more of a social thing. I think when I was doing it before,
+I would just like have tea, like green tea in the morning, I tried to cut back on my caffeine
+too. Yeah, that's that's one of my important question I really had for you was during those
+long term fast of what do you can you do you have tea? Do you drink? What specific things do you
+consume? Yeah, beef, bullion cubes, I had those, I would make I would just boil some water and
+throw one in that. And that was actually like pretty satiating. I would look forward to that.
+But I would I would have half of my normal cup of coffee, because I didn't want to jack myself up
+on caffeine. But I didn't want to eliminate it because that was part of I'm habituated to caffeine,
+you know, whether you like it or not. That's I think we all are we wake up and have our first
+cup of coffee to basically deal with the caffeine withdrawal side effect. So when I first started
+training, I use caffeine like twice a week, and the effects were pretty big. But I didn't want to
+completely get off of it and then start caffeine again. So I just did less of it with green tea
+in the afternoon. But that's all I had. Minerals electrolyte, some beef bullion. And I felt fine.
+I think the third day was the hardest. But after that, it was pretty easy. And I encourage people
+to do it, especially if they have any kind of, you know, hereditary, you know, predisposition for
+cancer Alzheimer's disease or type two diabetes, things like that. I mean, it also, it's more of
+there's physiological effects that are beneficial. There are, you know, psychological effects.
+And, and there's just kind of like behavioral effects, right? I was writing down somewhere,
+oh, not on this, but I was just kind of writing down all the benefits of
+a fasting and there's really a lot. Yeah, I noticed I've done two seven day fasts in my life.
+The first one I did was the beginning of 2019. The second one I did was just this past January.
+The first time I did it, I played an hour game of basketball. And it was on the third day, I believe.
+And I normally get extremely fatigued after about 15 minutes. And I can get that like that side
+stitch cramp, you know what I mean? I have to stop take a couple, couple breaths, drink some water.
+And I noticed after 30 minutes of playing, I had literal, literally zero fatigue. I felt like
+terminator, you know what I mean? I felt like I could go forever. Another thing is I went to the
+gym and I was able to do about three times as many pull ups as I normally can. Wow. I can't,
+I couldn't, and I was, that was before I would ever learned about you before I had listened to any
+talks on it. I didn't know what key ketosis was. This was last year in 2019. And I just literally,
+I was explaining this to people and I could not wrap my brain around how I was able to do so many
+pull ups and play basketball for so long with zero fatigue. This kind of explains it. Yeah,
+body weight exercise too. I didn't push myself to the edge, but I think I would jump up and do
+like 20 chins, like outside our house or whatever, like on a tree. And I didn't want to push it,
+but that those 20 reps, which are like fairly strict chin ups felt pretty easy. Like if I go,
+I can do about 36 or 37 jumps or something like that. But the 20 just felt really easy.
+And you can make them a little bit harder. You can kind of like stretch the lats at the bottom
+and then contract the top. And towards the end of it, it was like trying to make the chin ups
+harder. So I would do the 20, but like super strict contract. And I knew I didn't want to
+sort of stress out the body too much because, you know, I was worried that, you know, fasting,
+but I probably didn't need to worry. But yeah, but yeah, when I do a big lift,
+I don't fast seven days, but I do like to go into it relatively fasted. And I feel that
+if my body's not dealing with digesting, assimilating, mechanically, you know,
+to enzymatically, it's not dealing with a meal that I have more energy and resources to activate
+muscle. And I feel my feeling intuitively is that my central nervous system can activate
+the muscle better. It's almost like those pathways, neurological pathways are activated
+when I'm in a semi fasted state. I think if I fast for more than like 24 or 48 hours,
+my energy reserves are generally going to be a little bit lower. And that might be not,
+it might not be advantageous for a max lift, but maybe for like body weight exercise,
+but when it comes to doing a max lift, I would never go into it. Like a lot of guys eat right
+before they get to the gym or whatever. I would typically fast probably at least six to eight
+hours, sometimes 10 or 12 hours before, if I, if I'm like really going for a max or heavy lift.
+Yeah. But I would eat up the, the weeks, the days before, maybe even start out three or four days
+before and start eating like a lot of red meat. And so whenever I set a PR, I kind of have this
+whole sort of thing that I go through where I eat up and I ramp up like 25% more calories,
+like kind of two days out and I kind of adjust the protein and everything. And it's not super
+scientific, but I kind of, I put, you know, portion things out a little bit different than I go
+into a calorie surplus the day before, but that day of I go into that, that max lift fasted.
+Okay. Like when, where some people would think it's insane, you know, 12 hours fasted, but
+my strength is definitely more. My, my nervous system is better at recruiting muscle. I'm pretty
+sure of that. I need to do the EMGs to show it, but I think it would be an interesting study to do.
+Yeah, definitely. Do you, I mean, do you find that in the scientific community,
+people look at you differently based on, you know, if you look at your Instagram, for example,
+I mean, you're deadlifting weight, you're eating tons of meat. I mean, it doesn't look like you're
+a scientist. I don't think, I don't think that, well, if you're, if you're studying like sports
+science, you know, I mean, there's a lot of meatheads, I guess you go to like a, a sports science
+thing, like bodybuilder, powerlifter kind of guys. This is something I've always done since the age
+of like 13, 14, you know, lifting weights. My brother was like a huge bench press monster, you
+know, I don't think I've ever even caught up to him on that. I mean, and he's not even, he's never
+even drank a protein shake before. I mean, he's just into hunting and fishing and just when he's
+passed him by the bench, he'll just put four plates on it, a weight of like 185. He's repping
+with like 405. So I think the genetics were there for that. Although he doesn't train legs or back
+even, but he's still, we worked on a farm together for a while. He always was just like that farm
+strength and just like a crazy bench strength. So that really motivated me as a kid to sort
+of try to be as strong as him, but also when I played football, I got into it. So that's always
+been part of like who I am, but I don't necessarily, especially now want to make it my persona to do
+that. But I want people to know, for me, strength training is really
+an anti-aging therapy. And I think for me, it's also like a psychological therapy. I don't know,
+I took a year off of training with weights, but I was working heavy on the farm doing a lot of
+labor. And I take the dogs for a walk every night and jump up and do a couple sets of chin-ups and
+push-ups and dips. So I was doing all that kind of stuff, but I took a year or more completely
+away from weight. So I didn't even pick up a weight. But when I got back to it, I realized
+there is a difference between sort of like lifting weights and just kind of playing around on the
+farm and doing push-ups and chins. I mean, that stuff, I still do that stuff, but lifting like
+serious weight where the bar is bending and it's almost like a life or death kind of thing.
+Yeah. And the whole mentality of approaching the lift is kind of what I enjoy. It's like,
+I actually envision a scenario where it is life or death. And I'm kind of a calm person. So
+I do some mental gymnastics to basically create like a life or death scenario or something that
+kind of gets me my sympathetic nervous system activated where I can do that. And I miss sort
+of that whole routine of doing that. So now I'm kind of embracing that. I've been doing that for
+the last couple of months now. Back in the gym, I built, my wife and I used to go to the gym,
+but then we just like didn't have time. So I was like, okay, I'm just getting some weights. I'm
+going to put it in the house. And so I am enjoying the home gym or barn gym a lot now and doing that
+probably about three times a week. So that, but I don't think I get really a stigma or
+sometimes people criticize me online for, you know, doing certain podcasts or
+you know, doing research on a fad diet or I try not to sensationalize the results that we have.
+And I talk within the realm of the published science. And I think that's important,
+especially when you're doing things research related to cancer, because I do get lots of
+emails from Alzheimer's patients, cancer patients, patients with rare disorders.
+And I do not try to over promote or oversell the diet in any way, shape, or form. I try to do the
+opposite actually. And there are a lot of people who are advocates of the ketogenic diet that just
+go too far. And I try to be a voice or reason that's somewhere in the middle. There's a lot of
+antagonistic people who really maybe you're out to get me too. And they just say the ketogenic
+diet is dangerous. It's not. Yeah. Why do you think that is? I think there's different. I think
+maybe they actually believe that. But I'm coming at it from the perspective that the diet was a
+very powerful medical therapy for epilepsy. And that's really, I study seizures. That's most of
+my funding comes from studying seizures. So I'm convinced of that. I guess the pushback comes from
+the ketogenic diet as a lifestyle. And like I said, it might not be optimal for most people. It's
+probably not the clinical ketogenic, but a modified form of a low carb diet is undoubtedly,
+I feel, optimal getting back to your question for humans. In no point in history did we have
+access to the level of sugar or processed carbohydrates that we do now. So it just makes,
+I mean, it's like, it just makes obvious sense to not necessarily eliminate these things, but to
+minimize them in our diet. So right now they are the predominant source of calories in the diet.
+Yeah, they really are. It's crazy. The federal government gives out food stamps or
+they give out supplements to people to buy food and they're using those supplements for
+sugary drinks and they're using it for processed carbohydrates. So we need to subsidize vegetable
+growers, fruits and vegetables, predominant fruits are a pretty good part of that too.
+But our government is basically, their programs are supporting
+the purchase of heavily subsidized commodities that are sort of linked to the corn industry
+and soybean. And these are all things I grew growing up on the farm, right? So I'm kind of
+keenly aware of it, but policy needs to change. Mark Hyman wrote a great book and is really on
+top of this, I would recommend his recent podcast with Peter Tia kind of covers that area. I mean,
+I could talk about that a lot because I'm very passionate about it, but it's not my wheelhouse,
+not what, it's more of a sort of just a hobby of mine that we are farmers to and we're trying to do
+things the right way. Transitioning from a crop farm, a lot of people who follow a vegan diet may,
+and I respect them for following it for ethical reasons, but I think they're a little bit misdirected
+because even our farm, when we grew crops and having grown wheat and hay and things like that,
+when you're running the hay baler in there, I mean, you're chopping up lots of animals,
+you're chopping up bunnies, you're chopping up field mice and things like that. So,
+transferring a crop field into a field that we have now just of cows with wheelings and
+calves running around, just growing tons of grass, which is a huge carbon sink and you're doing it
+to the point where max, you have one cow per two acres and you are also most importantly rebuilding
+the soil, right? So, you are not using chemicals and you are raising, we have basically four rescue
+cows that didn't come from very good conditions when the mom died, when it was like only a month or two.
+That is actually, from a carnivore perspective, you are doing the earth a much bigger service by
+basically developing a carbon sink and the animals will, we may rescue the animals and
+keep them for, we may not sell them off, but we're basically raising beef and killing a lot
+less animals by raising a carnivore food source, right? So, I do know from the perspective of,
+I think a lot of, when we talk about different diets, the vegan diet versus carnivore diet,
+and I understand the, an ethical reason not to kill animals intentionally for food,
+but when you grow crops and you harvest those crops, you're killing a lot of animals. I just
+remember very vivid of just seeing like a nest of bunnies, just, there's no way around it. I mean,
+when you're growing Timothy hay, for example, or soybeans and things like that, there's tons of
+animals that live there. And when you have just a pasture, I mean, the animals are free to roam,
+it's like perfect conditions. I can show you pictures I took on my phone this morning of the
+Spanish moss and the cows love to eat the Spanish moss and they're growing in the most
+idyllic conditions and they're free to roam and other things are in the pasture and everything
+is growing crazy, especially when the rain starts, it becomes an incredible carbon sink
+and also rebuilding the soil too, that's part of it. But prior to what we have now, it was
+intensively farmed, heavily treated with glyphosate GMO type crops, lots of fertilizer,
+lots of chemicals, things like that. So we're, we really need to rebuild the soil. So we just kind
+of, you know, with the tractor, just kind of just moving the soil around, planting grass now,
+just getting everything growing. So I think when it comes to like food politics and what diet is
+optimal for humans, and some people may favor a particular kind of diet, I think there's arguments
+on either side, you know, what, because when you talk about a carnivore diet and you're talking
+about concentrated feedlot operations, so that is very, that is very destructive.
+What is it concentrated? What?
+Like KFOs, when you have concentrated agricultural kind of feeding lots, the where the pigs,
+chickens, or cattle, I mean, being the, being the thing that's probably most destructive,
+they are put into concentrated quarters and they're basically, they're not,
+they're not fed grass, they may come when they're born, they may, for the first year or so,
+they may be in a pasture, but they're shipped off, they're shipped off to feedlot operations
+where all their nutrition comes from sort of corn and soy and their,
+their four stomach system is not really designed to digest, assimilate, and use this as an energy
+source. So it makes sense. You gotta give them like a lot of antibiotics and they're concentrated in
+areas where a lot of the manure and everything, there's significant runoff and if this runoff is
+near crops, then E. coli like can contaminate, for example, the romaine lettuce or the spinach
+and things like that, and then you have a massive outbreak. Also, you're more likely to get E. coli
+in from the food from this type of feedlot operation because all the food, all the,
+all the meat is mixed together. So if you have ground beef, you're eating beef from,
+that package of beef could be from hundreds of animals. So if one is contaminated with E. coli
+or another bug, you are potentially contaminating a lot of people. Whereas if you support like a
+food co-op or a local small farm and you go there and I've talked to many people who run
+these farms, I've watched many documentaries, read many books, no one gets sick typically from
+these operations that have been going on and the federal government tries to crack down on them
+because meat is supposed to be USDA inspected and it has to go through certain the paperwork
+just to be an organic farm. Just so you can buy on the shelf at Publix. Yeah, just to,
+because too, like only a couple companies really, there's a couple companies that monopolize this
+industry and the small farms are taking away from that. So the federal government is actually,
+it's their bottom line, right? So there's a lot of partnerships like people who work for these
+companies. Yeah, they're on federal scientific advisory boards and they hold, they're influential
+in the policies associated with this. But the small farms and we're trying to be a hobby farm now,
+like people listening really need to go out and buy locally, support small farms
+and it's going to be better for their health like overall, but really important for the
+environment too. And I think if you go to a local farm, it may be a little bit more expensive
+like upfront, but in the long run, I think it's going to save everybody money if you support
+these. I think food will eventually get a little bit cheaper if policies start to subsidize these
+smaller farms. So it really has to start with government. And I think a movement has already
+started, but I think maybe in the next five to 10 years, government subsidies can help out a
+lot of these smaller farms that I think are going to be really essential for building back the
+environment. And I think food will probably, food will be much better undoubtedly, but I think
+it'll be more affordable too because that's usually the pushback, well people can't afford
+grass fed, grass feed, it's not convenient. Organic eggs are paying three or four dollars
+a dozen, but I could go to Walmart and I think I can get, I get 60 eggs for like, and I do,
+and I've done that for like four dollars and 50 cents because we give our dogs like eggs or
+something like that. But when we can, I mean, we try to support these, these smaller farms
+whenever possible, like locally. So we're trying to do that more and we're trying to basically be
+sustainable just on our farm, you know, from an energy standpoint too with solar panels and
+stuff like that. Oh, that's amazing. So where do you get your eggs? My wife buys them now,
+but we, we buy them locally occasionally, but they could be as much as five dollars for a half
+dose. But she goes, she's a big, she comes from Europe and she's, loves to shop at Aldi. So Aldi
+has certain standards. So, which was it, because I was kind of get on or buying like all this plastic
+and stuff, but we recycle everything, but Aldi has a new program now, they're phasing out all their
+packaging is going to be like biodegradable the next couple years. So I mean, they are usually,
+and it's like, I think they're like non GMO like organic options and stuff too. And it was always
+kind of cheaper too. Have you shopped at Aldi? Just grab a box. Yeah. So we get a lot of stuff
+from there. Occasionally we'll go to Publix and stuff. But like I said, we get a lot of the meat
+from some of these companies like US Wellness Meats is great. We're eating their stuff now.
+Okay. And butcher box too. And butcher box. Yeah. Pretty good. Yeah. And I think
+it's really hard to find grass finished. Like you can get grass fed, but grass finished,
+a lot of times what happens is cows will, the last month or two of their life,
+they'll be put on the feedlot. They'll be raised like their entire life and a pastor, right? So
+they're pastor raised, but they'll be fattened up towards the end. And it does make them happy.
+I mean, you could take some of the pellets and stuff and, you know, I've taken a handful and
+our cows, I mean, it's like candy and it's like high protein and it's like everything, but it's a
+mixture of grains and things like that. So we just try to let them, if we feed them, if the
+pastor's not suitable enough, like this time of year is like the driest part. Now we're getting
+into the rain season, but we'll just get some, hey, like a combination of Timothy and alfalfa
+and things like that and spread it around and just make sure, you know, we don't feed them corn or
+how do you tell if it's grass finished or not? Grass finished? Well, it'll say it. Oh, it will
+say it. Okay. So butcher box is, they have grass finished beef and it's very hard to find. If you
+find it at the stores around here, you know, sometimes I post and promote butcher box because
+some of the affiliate links does come back and support our research. So I kind of justify it
+with that, but I also justify it that when they criticize, it's not that expensive. It comes out
+to like $7 a pound or $8, but it's really quality beef. And if you bought similar grass
+finished beef at a store, it would probably be more. It's just so hard to find, you know.
+But another thing is that they have to, the company sources some of their beef from Australia,
+so some of it, but they're now they're working with, or they did about a year or two ago,
+because I was asking them where they're getting their beef as a cattle farm.
+But I think they're working with smaller farms now to basically, you know,
+because it's becoming more popular and the demand will kind of influence the supply.
+Personally, if you were to be diagnosed with some form of cancer, how would you treat yourself
+personally? Would you use the standard of care with chemotherapy, depending on what cancer it is,
+and how would you alter your lifestyle and your diet?
+It's a bit of a loaded question. I know, sorry.
+No, I'm glad. I get asked this question a lot. It really comes down to the type of cancer.
+Like, I know friends and colleagues of mine kind of feel that cancer is sort of, you know,
+all one disease. And I think there's a lot of truth to that. But also understand that, you know,
+I have people that are close to me that have cancers, for example, leukemia, acute myeloid
+leukemia is an example. I know people with multiple myeloma, lymphoma, testicular cancer
+had one or two or three students or three people that I know, responded very well to the standard
+of care. And some of them did the ketogenic diet some didn't. So it really depends on the type
+of cancer. I got into this looking at brain cancer. So it made sense to me because I realized,
+oh, brain cancer patients have seizures and they're on heavy doses of anti-seizure drugs sometimes,
+but they're also put on something called dexamethasone, which is a corticosteroid that really
+disrupts your metabolism and elevates your glucose in a way that's feeding the cancer.
+These corticosteroids do. So I thought the ketogenic diet could be used for that. And then
+the more I started looking to it, I saw that Thomas Seyfried had published that a calorie
+restricted ketogenic diet targeted tumor metabolism in a way that was highly efficacious, at least
+in animal models. So it really I'm just saying this because it really depends on the type of
+cancers. A couple reviews have been written about the types of cancers. So things that are really
+metabolically demanding cancers. And these are cancers that would show up on a PET scan and
+FGG PET scan. So if someone has a type of tumor, a solid tumor in particular, that's really hot on
+a PET scan, and that means that it's sucking up massive amounts of glucose relative to the
+healthy tissue surrounding it. So what a ketogenic strategy does, and it could be used as an adjuvant
+to the standard of care, is that it lowers glucose availability to the tumor. And most
+tumors really have accelerated glucose metabolism. And that's driven in part by insulin and insulin
+signaling, like IGF1, the PI3 kinase, AKT, mTOR pathway, I don't want to go down that road,
+but it's activated, it's driven by glucose insulin and the insulin sort of pathway, right?
+So if we suppress the hormone insulin, we can do that with nutritional ketosis,
+especially if it's calorie restricted, that basically is knocking down a major driver of
+most cancers. Like it's pretty safe to say that I would say 80% or more cancers are really driven
+by this PI3 kinase, AKT, mTOR pathway. When these pathways are hyper activated and insulin
+being a driver for that, it accelerates cancer growth and proliferation. So one way to take the
+foot off the gas pedal of this cancer growth and proliferation is to knock down one of the main
+pathways accelerating it, which is insulin. And how do we knock down insulin? Through carbohydrate
+restriction and to some extent protein restriction. Also fasting, intermittent fasting, where we go
+through periods of time restricted eating. So if we were to do this prior to the standard of care,
+like chemotherapy or radiation, it makes the tumors more vulnerable to modalities that kill
+through what we call an oxidative stress mechanism. So if you limit glucose availability to a tumor
+and if you're in a fasted state, the tumors ability to create its own antioxidants, glutathione
+being a major one, is a bit impaired. So you can enhance the cancer killing effects of chemo and
+radiation if the patient is in a fasted state or on a ketogenic diet. We also think that hyperbaric
+oxygen therapy, which increases the partial pressure of oxygen in the tissues and thereby also
+enhances oxidative stress. And the oxidative stress is higher in cancer cells because of the
+aberrant mitochondria that they have, they spit out more of something called superoxide in response
+to increasing levels of oxygen relative to normal cells. So you'll have enhanced oxidative stress
+in cancer cells, also more free heme. And when it drives something called the Fenton reaction,
+you don't need to know that, but listeners may be familiar with these pathways. But it creates a
+scenario where oxidative stress is higher just by using something that's relatively non-toxic,
+like hyperbaric oxygen therapy within defined limits. And then if you give radiation or chemo,
+that could enhance the efficacy of that, especially in the context of a ketogenic diet.
+So radiation and chemo could essentially boost the effects of hyperbaric treatment?
+Yeah, well, the efficacy of radiation is proportional to the PO2 of the tumor, right?
+So if you radiate a tumor that's hypoxic, the radiation killing effect of the tumor will be
+dependent on molecular oxygen that's inside the tumor. So if you hyperoxygenate a tumor, or if you
+reverse tumor hypoxia, because a lot of tumors, they grow so fast that outstrips their ability,
+the vascular church can't keep up with expanding biomass. So the inside of the
+tumor, the core of the tumor becomes anoxic or hypoxic. But if you, with hyperbaric oxygen,
+the oxygen is transferred to the tumor, not by blood vessels, but it's in plasma.
+Hemoglobin is already saturated. So it gets oxygen to the plasma, and then you hyperoxygenate the
+tumor, reverse the tumor hypoxia, and then apply the stimulus, the killing stimulus. So that could
+be chemotherapy, it could be radiation, it could be immune-based drug too. We call this the press
+pulse theory. So if you Google like press pulse theory and a publication nutrition metabolism,
+this idea that you create a stress on the cancer cells by nutritional ketosis,
+drugs like metformin, intermittent fasting, exercise, meditation, things like that creates an
+environment that compromises the tumor's ability to grow or decreases its ability to grow.
+Being in a fasted state will also make the tumor more vulnerable by weakening its antioxidant
+defenses and also suppressing certain growth pathways, that PI3 kinase pathway. And then
+other modalities will work better. So that could be hyperbaric oxygen therapy could be used, but
+chemo, radiation, and immune-based therapies too will be more efficacious in the context of a press.
+So a press and then a pulse therapy can be delivered ideally like two or three weeks on,
+you know, three weeks off, something like that. It depends on the particular agents, but there's
+also metabolic drugs that can be used too. And some of these drugs are toxic like
+2-deoxyglucose, 3-bromopyrruvate, loneitamine. These are things that target the glycolytic
+pathways. And we use these sort of these things experimentally. But I think what patients who
+are listening maybe can go and look up the press pulse concept. And we just basically put a paper
+out as a concept. Here's an idea. We are working with different people that are moving this into
+the clinic. And some people are just doing it because right now there's not a whole lot of
+clinical trials that are incorporating this. Although I have to say that when I started
+studying this, the ketogenic diet, there was maybe two clinical trials. And now I looked this morning
+before coming, there was 39 clinical trials. And about many of them are ongoing or recruiting
+too. So now these are, many of them, a lot of them are top tier institutes like doing things.
+And then I looked up fasting. I had never went on to clinicaltrials.gov and putting cancer and
+then fasting. And hundreds of trials came up. Not all of them are relevant, but there were dozens
+of trials looking at the effects of fasting before chemo and radiation. Many, the first couple
+were using the fasting mimicking diet. So, Volter Longo, who's on the West Coast, developed a diet
+that's essentially used five days per month. And it's a hypochloric diet that puts the body into
+a state of ketosis, mild ketosis. And this type of diet can be used in conjunction with a standard
+of care. And it's sort of a commercialized version of a ketogenic diet, and it's mostly plant-based.
+So it has some unique aspects to it. One could formulate their own ketogenic diet
+or their own fasting mimicking diet just by going to the grocery store and formulating the foods.
+So the science is really ongoing and it's emerging, but they have dozens of registered
+clinical trials looking at the effects of fasting and cancer as a means to enhance
+standard of care. And patients should also, if they're interested in being part of these clinical
+trials, clinicaltrials.gov, that's basically the site that has registered clinical trials.
+So look up ketogenic diet and then whatever cancer you have, whether it be lung cancer,
+endometrial cancer, liver cancer, something like that. So look up to see if maybe a clinical trial
+is in your area and you might be able to participate in that.
+When they talk about the hyperbaric oxygen treatment, did they use
+those like tube things that like LeBron James gets into after his basketball games,
+where he lays down and like it's kind of like a coffin-shaped tube?
+Yeah. Is that what they use?
+Well, that would be, that's a monoplace chamber. And yeah, so that could be one of
+ways there's also a multi-place chamber that you could use. But if you go to a hyperbaric oxygen
+clinic, what they may do is most of these clinics actually, there's 14 different FDA-approved
+applications for hyperbaric oxygen therapy. Oh, really?
+One is decompression sickness. If you're a diver, you know, you come up with the
+bends, you go inside a hyperbaric chamber. The other is for, I mean, there's a lot,
+but the top ones would be diabetic wounds. So wounds, people who have diabetes, their blood is
+like sludge. So they're not getting enough oxygen and nutrition to the wound. So it begins to fester
+and grow. And hyperbaric oxygen therapy, hyperoxygenates the wound. A wound is hypoxic and
+the energy levels in that tissue are knocked down by like 90%. So hyperbaric oxygen therapy can
+restore metabolism. We also believe if you put someone on a ketone supplement or, and one of my
+students, Dr. Shannon Kessel did her PhD dissertation on the effects of nutritional
+ketosis and wound healing and is remarkably effective at enhancing the wound healing process.
+And we think if you couple it with hyperbaric oxygen, it would be, you know, diabetic wounds
+or chronic wounds. It's like a multi-multi-billion-dollar health problem right now that people have,
+typically with type 2 diabetes, but people have bed sores, right? Like these wounds, they don't heal.
+Nutritional ketosis is one. So hyperbaric oxygen is used for that. So you have multi-place chambers,
+you can get in, you go in, you read a book, you listen to music. Sometimes the walls of the chamber
+are transparent so you can see what's going on in the room. And then you have a multi-place chamber
+where you get inside the chamber. It's pressurized to like say two or 2.5 atmospheres at hyperbaric
+air and then you put the mask on and that's 100% oxygen and you breathe that mask and then you reach
+hyperbaric oxygen therapy levels. You take the mask off. So if you have a seizure,
+you could take the mask off and then you go from hyperbaric oxygen to hyperbaric air,
+which the partial pressure of the PO2 will be low enough that you won't have a seizure.
+Does that make sense? Yeah, that makes sense. So we're breathing 20% oxygen now,
+a hyperbaric oxygen chamber, you're breathing in a monoplace chamber, you're breathing 100%
+oxygen typically or thereabouts. And when you get inside a multi-place chamber, it's 20% oxygen,
+but you put the mask on, that becomes 100% oxygen and hemoglobin is already saturated, right? But
+the oxygen gets into the plasma and that's the benefit to wound healing. That's the benefit to
+attacking a tumor is that tumor vasculature is like erratic and not very good. So the tumor
+becomes hypoxic, but if it's in the plasma, it can penetrate that tumor. And then oxygen can kick
+on reactive oxygen species that can start to kill the tumor inside out. And then you apply
+most chemotherapeutic drugs, kill cancer cells through an oxidative stress mechanism. So if you've
+already caused oxidative stress and you apply oxyplatin or cisplatin or something like that,
+and then radiation too, then you have like, it creates a lot more die off on the tumor.
+And then being in ketosis will protect your healthy cells and also sensitize the tumor cells
+to more. So that was sort of, you know, some of the first publications that we did and people
+are following up on that. Wow, that's amazing. How many more studies have come out on how many,
+how do you mean the clinical trials you were saying that they're doing? Yeah, the clinical trials
+is really, you know, we're not doing any because we're more of a basic science, but people look
+at the research that we're doing and they say, Hey, you know, just some people give us a heads
+up and it's like, you know, your, your research kind of inspired this clinical trial. Other people
+were doing this research too. Dr. Thomas Seyfried was a huge pioneer and I just followed in his
+footsteps and just used his model system. Lou Cantley is doing some work with the ketogenic
+diet and targeting this PI three kinase pathway with different drugs. Dr. Adrienne Shek, she was
+at Barrow Neurological Institute, has really a pioneer in glioblastoma, which is the deadly
+form of brain cancer. And her work has inspired, you know, the Barrow Neurological Institute
+and the lead clinician there, Chris Smith, to sort of advocate that patients with glioblastoma,
+glioblastoma followed the ketogenic diet prior to them coming in and having surgery
+because it helps shrink the tumor and makes it a smaller target that they can resect it and they
+get better outcomes, you know, after, after surgery too. So I've been communicating with some of those
+patients. And obviously it's a super hot topic right now, the coronavirus. What, what sort of
+knowledge do you have about viruses like that and kind of like what's going on with it right now?
+There's a couple of cases in Florida. What, what would you say to people about that kind of virus
+and sort of like mitigating it or, you know, what is your knowledge or, or research, if any,
+on stuff on viruses like this and how to avoid them? Well, you know, I've taken the basic course
+like human or, you know, pathogenic microbiology, virology stuff like that. So from what I know,
+probably, you know, it, the people most concerned are people immunocompromised,
+they're very young and they're very old. So just the standard sort of things, wash your hands,
+stay away from people that are sick. There are many people that are asymptomatic. So we could be
+walking around and be a coronavirus carrier, but be asymptomatic and not be presenting. So that,
+that in that case that it might be good to just, you know, stay at home when, when you can, you
+know, because you don't know who a carrier could be. So I think that's important information.
+Our immune systems are really a function to some extent on our systemic and metabolic health,
+right? So I think nutrition is really key. We want to not over nutrition compromise the
+immune system, lack of sleep compromise the immune system, elevated blood glucose can
+compromise the immune system. So things like intermittent fasting, low carb diets, ketogenic
+diets can make the immune system more vigilant to be able to deal with these types of things,
+you know, if they happen. So we're better, better off to fight it, you know, in the context.
+I think there's some studies out there, you know, showing, I know there's studies,
+Adrian Scheck, the, the researcher that I mentioned showed that the immune system becomes
+more vigilant with a ketogenic diet in, in regard to anti-cancer immunity. So increasing
+natural killer cells and things like that, that can better attack, you know, the cancer.
+I believe that's, that's the case for viruses and microbes too.
+I know you mentioned earlier that when you feel like something coming on like any sort of bug
+or something, you will automatically go into like a two day fast or something.
+Yeah, I do. I actually pay a lot more attention to my sleep, staying hydrated.
+If I don't completely fast, I cut way back on calories and just go into a calorie restriction
+state. But typically, yeah, I'll, that's when I'll start and say, okay, well, time to do a
+short term fast and I'll fast for a couple of days. Yeah. Yeah. And I just hardly ever get sick.
+My wife will get sick, you know, multiple times and I'll get, I feel a little something come on
+and it'll never really hit or our lab just went to LA. It was kind of alarming that some of them
+got sick about how it really, and I didn't really get anything and, or I felt a little scratch in
+my throat and a little sniffles, but nothing ever happened. So I think my immune system is
+definitely a lot better now than it was when I was not doing the Q-jank diet. Back in college.
+Yeah. Like clockwork, when I would, you know, finals would come, I would almost always get sick.
+The end of November, right around that time. It was like, like clockwork and sometimes even
+in the spring with finals. So our immune system is really tied to psychological stress, I think
+can wipe our immune system out. I mean, looking back through his periods of time where, I mean,
+physically, I was doing everything right, but I was just put under a lot of psychological stress
+and it just like crushed me. Really? Yeah. And just a couple of times, you know, that I can't remember
+when certain life things just come up, you know? So I think people really need to pay attention
+and just kind of harder to, a little bit harder to manage, right? But, but be cognizant that
+our mental state and behavioral effects, behavioral health probably have the biggest impact on our
+immune system. So something a lot of people don't think about. Stated otherwise, yeah,
+psychological stress can be in a very powerful immunosuppressant and make you a vulnerable
+target to something like coronavirus. So our kind of philosophy is that we're like nature people. So
+we allocate a certain amount of time each day for creative downtime where we get out, we go in the
+woods, we explore things, we have a lot of property around us that we have that are just
+mostly forest. So we do forestry too and spend a lot of time just outside with our pets
+and unplug too from your devices. So I think it's important, you know, a certain time at night,
+I just put my cell phone on airplane mode and just unplug and we do some downtime stuff like,
+yeah, two or three hours before bed. Yeah, obviously better. So like super important,
+I think for people's psychological health, because we're so wired and just so attentive
+to our phones and that's kind of we're very reactive sort of species here and we do it and
+we don't even know that it's compromising our health. So I think it's important for people
+to recognize that. Yeah, I think I also it really resonates me when you talk with me when you talk
+about sleep and how much you pay attention to sleep. I recently started, I recently got a sleep
+number bed and it tells you like how you slept gives you like a score and how restless you were
+or whatever. And it's paying attention to that. I've really noticed a huge difference in like,
+you know, my cognitive clarity, you know, how well I feel during the day and, you know,
+getting sick less. It's a huge difference. And I keep going back for some reason on this podcast
+to basketball references, but LeBron James, I read all his interviews where he talks about
+his number one, his number one thing that's most important to him when training or anything like
+that or nutrition or practice even like the number one thing most important thing to him is sleep.
+Like, yeah, sleep cannot get in the way of anything. And he rigorously sleeps nine to 10 hours a night
+and takes two to three hour naps every day. And it's like, it's the ultimate. And he has,
+he has his own personal hyperbaric oxygen chambers he travels with. And like, yeah,
+yeah, that's a big topic. So hyperbaric oxygen can increase stem cell production. It also
+stimulates the release of those stem cells and those stem cells can go in and hone in on sites of
+injury and inflammation and enhance the repair processes. So it's debated on how that works.
+But if they hone in and they collect in a certain area, they also release various growth factors
+that can help in skeletal muscle protein synthesis and repair maybe anti inflammatory effects.
+So I'm not convinced of the science, but a lot of people send me papers and say, look at this,
+should I be using a hyperbaric like NFL players and things like that for that kind of stuff?
+Yeah. And I say, you know, it look, I haven't seen any big but clinical trials, but the basic
+science kind of says it's there. I know Steven Thaum, who's also funded by the office of Navy
+Research was one of the first to show that hyperbaric oxygen therapy almost works like
+this drug GMCSF, which is a sort of an activator of our stem cells and can recruit
+increased levels. And it's used therapeutically and cancer patients and different patients
+that it almost has the same ability as this is drug, which is extremely expensive to actually
+influence the production and the release of stem cells. So GMCSF, and I think it's
+lukine or nupigin, you know, if you go, these are very expensive drugs that are used for
+a number of applications, some of them experimentally for like neurological diseases,
+but also cancer patients and stuff use them for different applications. So
+so granulocyte, mono, yeah. GMCSF and GMCSF. So lukine and nupigin. So these are drugs I'm
+not super familiar with, but I became familiar with it when some discussions were about hyperbaric
+oxygen, we're referencing these drugs in relation to the ability of hyperbaric oxygen
+to recruit and stimulate the production and release of stem cells that can enhance,
+you know, tissue injury and repair. So so there is, I get a lot of questions about
+hyperbaric oxygen therapy in athletes and I think there's some, I just say the jury's still out,
+but I think, and I do that to be protective because my contracts are actually to study
+the negative effects of hyperbaric oxygen. So I study oxygen toxicity seizures,
+which are the seizures that are generated from hyperbaric oxygen being too high.
+So I study the negative, I built my whole career studying the negative effects of
+high pressure oxygen and why we need to avoid it and develop mitigation strategies against it,
+but understand that hyperbaric oxygen therapy is within a defined limit and that limit is set by
+the potential to get oxygen toxicity seizures. So within that therapeutic limit, it can have
+anti cancer effects that I talked about, you know, it can have, there's 14 different FDA approved
+applications. So an emerging application could be recovery of athletes, you know, from this. And
+I think there are these home hyperbaric chambers that you can get on eBay for like 1500 to 2500
+dollars. They may provide some benefit if you're a high end athlete and it gives you that
+0.5 percent, you know, benefit or if you're recovering faster, you know, that it may be
+something to invest in. I mean, science is pointing it to it, but it's not I'm not completely
+sold on. Is there any any benefit to someone like, you know, like you or I to have that in their home
+kind of like as a therapeutic thing for someone who just casually works out or wants to be healthier?
+Yeah, well, you know, I, I communicate a lot with vets. So people with traumatic brain injury
+and concussions. And I think sadly, this is an area that's not FDA approved. So I would encourage
+people to check out, you know, the use of hyperbaric oxygen for traumatic brain injury,
+concussions. We know that hyperbaric oxygen at very high levels is a stimulant to the brain,
+and you can overstimulate it to have a seizure, right? But when it's done at lower levels, lower
+therapeutic levels, it can augment and it can reduce inflammation. It can stimulate processes
+where the adaptive response is the repair of the injury. And when you have a concussion or a blast
+injury, it's rupturing blood vessels. So you have these hypoxic pockets. And when you go like
+these areas of the brain that don't have enough oxygen, that's what I mean by that. So hyperbaric
+oxygen therapy can restore oxygenation into those areas and start to enhance the healing
+process in the brain. So there's a lot of data to support it. And we will be presenting at
+hyperbaric oxygen therapy conference 2020. And we're a lot of vets will be talking about this,
+NFL players. And I think we need more research, but I think the research is pretty good with stroke
+injury and hyperbaric oxygen and animal models. And now some evidence in patients. So it's not
+an FDA approved application, but another consideration that needs more attention, federal funding.
+If you have a traumatic brain injury, a concussion or stroke, I think people should look into,
+I'm not going to advocate it because I need to stay within the realm of it. But I think people
+really need to look at the potential for hyperbaric oxygen therapy. And we're always trying to get
+research to study this, because I feel it's one of the most important topics that need to be studied,
+brain injury, traumatic brain injury and using hyperbaric oxygen, in addition to ketosis. So
+the two together, we feel would be very therapeutic for recovery of patients, especially if it's
+done immediately after, but even patients maybe that had the injury a while back, we think it
+would have some benefit if they start. Wow. Well, that's been a bunch of that's been a incredible
+amount of knowledge you just dropped. I really appreciate you doing this, man. I've kept you
+here for about two hours now. Well, thanks for having me. I appreciate having platforms speak
+about this stuff. Yeah, man. Absolutely. It's a privilege to be able to have someone like you
+on here. So hopefully we will get the opportunity to do it again in the future. And oh, yeah,
+tell everyone where they can find you online and learn more about what you're doing or.
+Yeah, go to, we have a company, Ketone Technologies LLC, but that company is more
+research and development, but we have a website that talk about what we do as a company. And
+also Keto Nutrition is really my main information website. I don't sell any products on that,
+but if there's products on there that I've used and recommend and that I use personally, and there's
+consultants on there, there's podcasts on there, like the Tim Ferriss, Joe Rogan podcast are on
+there and stuff. So it's more of an information website for people. And it's kind of like a
+one-stop shop. And we also have a blog. So check out the blog. We've hit a lot of topics that we've
+discussed and the blog will go into more depth and detail on each of those topics.
+What is the blog called? It's, if you go to ketoneutrition.org, it's a dot worksite.
+It's just the blog. So just on the bar at the top, just click on blog and it hits
+things from different types of ketone supplements to diabetes to all sorts of topics on there.
+So yeah, but it gets into a little bit more detail. Awesome, man.

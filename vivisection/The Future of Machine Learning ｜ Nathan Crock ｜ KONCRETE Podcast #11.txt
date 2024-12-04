@@ -1,0 +1,1431 @@
+Alright three two one. What's up Nathan Crock? How you doing man? I'm doing quite well. Thank you for having me here. It's been forever since I've seen you
+We went to high school together. Graduated in 2006. Graduated in 2006 like I was telling you before we started recording
+For some reason you and I were in a bunch of the same classes
+I have no idea why because I was way dumber than you and
+The one thing that sticks out to me was that you were showing me some diagrams of how you were planned on putting your
+Brain into a cyborg one day. Yeah, and then I never forgot about that. Yeah, well unfortunately
+I did as does my nonsensical ideas. I dream big and yeah do outlandish things
+And you sure this isn't the cyborg version of you here right now, and you're just not telling us. Of course not, okay
+All right, I believe you that's incredible man, so I had to look you up, and I'm glad that you
+Agreed to come on this super cool. Yeah my pleasure. I apologize in advance. I've been a little sick
+I can't really imagine what I sound like in the microphone probably like some glorious like a kidnapper
+filter right
+Bring the briefcase and the money to the boom to the bridge by midnight. Yeah, we could put some effects on some auto-tune
+Maybe or something
+So what is it so for those people out there who may not know and I actually don't know how to say it myself
+But what exactly do you do?
+So I do two things I do research and machine learning which is colloquially referred to as artificial intelligence
+We can talk maybe about the distinction between those two things and the second is I work
+I direct the new side labs, which is an R&D division of a machine learning company and Tallahassee
+so we have a lot of government contracts contracts big businesses agencies and
+We offer some very common machine learning services and our job in the labs division is to ensure that all the services that we are
+Offering our cutting-edge. We look up the latest research check out the papers go into the code and make sure that we're able to keep things
+As impressive and useful as possible to our customers
+What kind of things do you do there like to sum it down?
+Sure, what are you guys researching on and doing there?
+Yeah, so for example one of the contracts that we work on is with
+911 emergency phone calls, so that's a very big industry as I'm sure we can all imagine and they have
+thousands of calls a day
+Monitoring these calls is a very difficult
+Often they're not able to monitor more than 1% or less of the phone calls that actually come through for quality assurance
+So what we're doing is we take all of the calls and we train a speech to text engine
+So we take the audio transcripts and we the audio calls and we transcribe it to text
+Okay, then once we have all the text we use natural language processing techniques to analyze what's going on emotion
+sentiment keywords names
+Addresses what's going on and we can use this to filter and flag potential dangerous calls
+Maybe maybe somebody calls and says hey, I feel like I'm gonna kill myself right the telecommunicator
+Okay, well go ahead, you know something outlandish and a call like that should be monitored and that telecommunicator should be flagged
+So right the services we offer allow them to monitor their calls more efficiently and also improve training for example
+We can identify target words
+Maybe a telecommunicator uses a certain word and there's always a spike and maybe anger fear or something in the caller
+And we can I let the agency know that these certain words are probably not best to be used for calls of this type
+And so that's just one of the projects that we work on Wow and what
+What is the purpose of this company? I mean like what what's your what's the goal?
+Like what are you trying to develop like I understand like you guys are analyzing the calls the behavior of the people that are calling in
+But like what is the like the long-term goal?
+Sure, so I mean the people that come together. We would call ourselves a social entrepreneur as I suppose
+We all have some sort of outlandish idealistic notions of good and trying to impose that on everybody else
+Whether they agree with us or not as I think everybody actually does which we will probably get into when we start talking about what is intelligence and learning
+And so we try to take on projects that are consistent with our visions and ambitions of trying to improve things for the economy to do
+Good with machine learning
+okay, so
+essentially
+With 9-1-1 calls down the road. You think that maybe humans won't be doing that or we've entertained those ideas
+That's a bit further down the road
+We are working on what we call a language model and the field of machine learning where we take all these transcripts and we have a certain
+Algorithm or engine which looks at all the text and starts learning the intrinsic properties of what 9-1-1
+Domain phone calls are like and we can actually synthesize new speech with language models like that and
+Idealistically one would dream that down in the future. We could potentially
+Replace telecommunicators with agents. That's obviously a very saucy topic
+But yeah, the short-term goal is perhaps a training simulator
+Okay to help the telecommunicators get used to what certain callers might sound like maybe we can simulate
+Homicide calls or there even I mean you get you wouldn't believe the kind of things that we listen to in these 9-1-1 calls
+Like sometimes we'll just get some old lady. She's like, well
+My back hurts so I need an ambulance here immediately
+Yeah, all kinds in there to help me get her chocolates. I'm sure you get it all
+Yeah, so
+So, I mean the short-term goal would be perhaps a training simulator and then long-term idealistic goals would be
+Aiding and putting telecommunicators making them be a bit more automated, right?
+So, I mean just going back to high school. You've obviously been
+Extremely passionate about this for a long time. What what what was it that initially got you interested in all this stuff?
+What made you what turns you into this person you are right now? Yeah, that's kind of a long and tumultuous road
+But I can probably summer it a little bit more poetically than it probably was as we often do in media
+You know so again being like this social entrepreneur
+I've always had this again
+Unreasonable desire to just do good for no other reason that it just makes me happy
+And so when we're young and idealistic everybody's like oh world peace what a great novel idea that is and then as you grow up
+It usually just becomes a laughing point because such a thing is the often nonsensical and imaginary
+But when I was young I had convinced myself that
+The reason we don't obtain peace is because individuals don't understand one another and when I mean understand
+I don't mean in the sense of like you listen to me and you hear me
+I mean in the sense of like you feel what I feel and in such in the sense that if I killed somebody
+To truly understand me you would have to replay
+The feelings decisions and the actions that I did such that you would have literally killed the person too
+There's no deeper understanding than that
+So my ambitions were I'm gonna go into neuroscience come up with a way to map memories and then replay them on other people's minds
+So that they can learn other people's feelings again these big idealistic outlandish dreams. I love that shit
+So that was where I started what in what time is that?
+How are you when you start thinking like that that was probably middle school elementary school? No, that was probably a high school
+I mean shortly after high school perhaps. Yeah, you know in high school
+We don't really know who we are what we want we're trying to figure things out in life
+Yeah, your friends teach you what life is your parents teach you what life is. Yeah, that's a messy minefield of disasters
+Yeah, you used to be a boxer too, right?
+Yeah another one of those young you're not doing that anymore. I do it from time to time. It's good to stay healthy
+It's good to feel like you can protect yourself and your loved ones. Yeah
+I used to coach FSU's boxing team. So really, oh, that's cool
+Coach a little bit when I can you still do that you're doing that anymore or just dabbling it
+I mean we used to own a boxing gym
+So when we coached FSU's team we had the renegade boxing gym for a long time
+In fact, I'm participating in a savage race on Sunday with one of the old trainers from renegade boxing
+And our team name for the savage races, you know renegade boxing team. So that's awesome a little bit of nostalgia there
+That'll be fun. Yeah, no doubt. I want to try one of those one day
+We should try one. Yeah, I would die. I think we can make it. I
+Think you guys got it. The warrior dash is the way to go right?
+So check this out in the warrior dash. It's short muddy messy as barbed wire and fire
+All right, you run through this thing you have a lot of fun. You laugh you get messy
+You get dirty everybody's usually pretty fit when they go out there in the first place
+Yeah, and then you cross the finish line and everybody scream in as soon as you cross the finish line
+They hand you like a big chalice of beer
+You get like a Viking helmet and a huge chicken leg and everybody else around you
+Just like drenched and usually pretty fit and pretty often pretty sexy
+Yeah, it's got adrenaline and beer and meat and it's pretty great experience. Oh, that sounds great. What's awesome?
+That one's called the warrior dash. I'm checking that. Yeah, we definitely have to check that out. That sounds
+Definitely checking it out that whole getting into the boxing thing started when I was this was actually a middle school thing
+right so one of my big inspirations was Leonardo da Vinci and he is known as the Renaissance man, right?
+And so I'm like, that's me. I want to be the modern-day Renaissance man
+That's gonna be my big goal. And so I tried to do as much as I could, you know, I did combat
+It took me to martial arts boxing. Yeah, yeah dance play music study languages
+Sciences as much as I could to experience as much life as possible only to realize that in this overpopulated world of specialization
+The notion of a modern-day Renaissance man is just doesn't really achievable any longer
+The amount of time necessary to become a true master of any one discipline is a lifetime for sure
+Yeah, so you try to do a bunch of different try to do it all. Yeah, it's good to experience a little bit of everything
+Yeah, and so I might have
+Psychologically convinced myself that instead of being a master of one thing. I'm a master of being mediocre at many things
+That's all right. Yeah, right. I like it has master in the title. It's good enough. Oh
+My god speaking of stretching yourself, I just tried not eating for three days and that was like the worst experience of my life
+Good for you, man. I didn't I should have done it with other people who were doing the same thing, but I
+Was around people that were just gorging every day, and it was basically like torturing myself
+Yeah, I'll try it was like a healthy thing. I was trying to be healthy
+You know what I mean trying to clean out my my body my cells and yeah
+And gives you a little sympathy to people doing lint and Ramadan, etc. Yeah, right for sure
+He was gonna go 10 days. I was like I give you about four maybe five tops
+I made about three. I made it 72 hours here. Try that honestly
+I have and not more than a few days ago
+I was telling my girlfriend that I was gonna try and go seven days because seven just if eating too much crap and then
+There's the eggnog and then there's the beer and then I get gassy and then I'm just miserable
+And I just want to like cleanse myself
+And so I've psychologically convinced myself that fasting is somehow the way to do that right?
+I don't know. Yeah, it's like the rage right now everyone's talking. It's like the new thing to talk about and do
+So you have done it before I have many days
+Well, I did it back when I was in college one of my friends was doing the lent thing for yeah
+Catholicism and I just did it with him for a week one week seven days
+What do you do? I'll just drink lots of water. That's it. And yeah, but you can't be around other people that are eating, right?
+You can if you have discipline. I did not have enough of it
+So I often just avoided people when they were eating going out or something like that, but yeah, it was nice
+I mean it kind of changes your the first few days. It's like, oh, I got this. This is great
+You know, you have people who like to endure the the suffering a little bit
+Yeah, endure the hardships, you know, yeah turmoil and then that turmoil starts to like starts to screw with your psychology a little bit
+Everybody likes to think that they can endure hardships
+But the reality is is that it actually becomes like an intellectual war inside your mind
+Yeah, it's not as easy as just I'm not gonna do it because your mind is like convincing you that it's okay to do it
+Well, it's unhealthy for me to not do it. I need to eat or else I'm gonna kill myself
+And I don't want to kill myself. This is just a game, right?
+You play these games with yourself and it becomes very difficult and I learned a lot when I did it
+The hard thing for me was thinking about like having this many days left like I'm like I'm only
+One-tenth of the way through I'm only, you know, two-thirds of the way through
+I'm not even close to halfway through and I gotta go
+Five more days like that made it impossible for me
+But if I could have just thought about it like I'm just gonna go today without eating wake up the next day a brand new day
+I'm just gonna go today without eating like if I could have done that every day
+If I could have somehow tricked myself, I think they would have been way easier
+Did you nail it?
+There's a book by a Stephen King called the long walk. It's a great book
+Basically just about enduring hardship. Yeah
+And in that book I and from a friend of mine
+I learned the value of very valuable lesson when you're like running marathons half marathons training
+Yeah, is that and this just translates to everything in life is you just say just put one foot in front of the other
+Right. It's all I gotta do. I just gotta put my foot one foot in front of the other
+All right
+I'm here now
+I just gotta put one foot in front of the other and everything just becomes so easy then you you turn around you wake up
+You're 40 and you know you've built great. Well, it's amazing man. It's amazing man
+It's it really is the this the it's just scary to think about like having to take a thousand steps and try to like look at
+The top of the mountain. I'm gonna have to get there. Holy shit. I'm gonna die. Yeah, it's that like one foot in front of the other
+It's a lot easier. Thanks a lot easier
+So what's up with this AI tell me a little bit about some stuff. I don't know AI what is world's coming to an end man
+What is they say right super digital intelligence?
+Yeah, so a lot of buzzwords float around they often get misinterpreted by a lot of people
+Super intelligence digital intelligence is super intelligence digital medium
+But in general super intelligence is just any form of intelligence, whatever that means will probably need to define in a moment
+That soup surpasses humans and vast regard oftentimes
+So
+You know, let's actually take a moment and talk about what is intelligence, right?
+Like just curious like what do you guys how would you guys define intelligence if somebody asked you? I
+Would say it's just trial and error of failing or not failing and then kind of adding those up to
+Knowing which path you're gonna take next right the saying like if a brand-new baby
+Crawls off the couch and hits hits its face on the ground
+The first time chances are the next time it's on the edge of the couch
+It's not gonna keep crawling and fall off the couch, right?
+So that's just like a level of knowledge
+Maybe or that's one of the keywords that that is used in the machine learning definition. Okay. Yeah
+You're sort of revolving around the same principle and there is no academic like a hundred percent definition or rather
+There are many there's no accepted definition
+But a common theme among all of them is there's two pieces to intelligence
+One is a fundamental requirement to acquire
+Information you have to somehow just ingest
+Information and then two is you need to have some functional ability to act on that information and interact with the world that your
+Intelligence is embedded in be a digital or biological
+so
+One thing that I like to sort of interpret that is by saying
+The mind itself is embodied and then the body is embedded
+So let's just take the notion of the brain for a moment in outside the brain
+There's a complete universe of information
+We have absolutely no idea what the vastness of that information is because our brain all of our senses are just making tiny
+infinitesimal approximations to this vast amount of information that's out there as an analogy the
+electromagnetic spectrum, you know the you know of radio waves x-rays gamma rays visible light ultraviolet, right?
+You know all this whole spectrum
+We can only see an absolutely teensy-weensy little sliver of that and there's so much more information out there
+That's just literally not going into our brain
+All right, so so what we say is that the little bit of information that does come into the brain though
+We have to internalize it create an internal model of that information and then be able to interact and act on that knowledge in a
+intelligent way and how
+How do people determine how do you determine or how do people choose?
+Or do they not choose what gets input into there?
+What pieces of information are input into them? Is that just like they have a way is the people around it's just the right now
+You're getting all kinds of information the the light that's hitting you the sounds that are coming into your ears the feel of the table
+I mean every sensory medium is just ingesting information all day long hundred percent of the time you have no choice
+Okay, yeah, well, I mean obviously you have an alleged perceived choice. We'll get into this whole free will thing probably eventually but
+Allegedly you move yourself to another environment you change the stimulus that's presented to your system, but wow
+Yeah, so I've always thought to myself never really talked about it
+But like for instance conversations like this that get recorded and uploaded to the internet
+Hundreds millions of hours every day. Is that not just fucking training some crazy AI?
+That's gonna be able to download everything every bit of knowledge that humans have ever known in like two seconds
+That's the fun thing to think about
+I mean there's a couple of hurdles along the way the first and the most staggering is
+The need and the requirement to aggregate that information, right?
+So I mean as you know you get all these files you put them on computers you record from this microphone through the wire
+You have it here locally, but as you say there's hundreds thousands of hours of video
+Well for one entity to be able to or entity intelligent system to be able to ingest that knowledge
+All of that information must somehow be available to it to ingest in the very precise medium that it needs for it to be
+Ingested and that's a that's a very very difficult hurdle to overcome
+right
+Wow, yeah, so I mean for example, you might have heard about a lot of the
+Facial recognition image recognition, etc. Yeah for the longest time these image recognition systems could only operate on images of a very specific resolution
+They just didn't have an ability to generalize to different sized images
+So now you say oh, well, there's all these pictures out there on the internet
+Yeah, but only those that are exactly whatever
+127 by
+224 pixels can this one system ingest
+Alright, and so over time we learned about this handicap and we generalize to different techniques that allow us to you know examine different resolution images, but you know
+Basically transducing
+Information that's out there be a digital of physics or whatever it is into some system and then
+Aggregating it is a very very complicated system
+Let alone then learning on that information and being able to interact on it
+Just ingesting is a huge problem that we still are having a very hard time grappling with
+Wow, and you in general
+do you have more of an optimistic view of the future of this artificial intelligence or do you have more of a
+Concerned view kind of like versus the Elon Musk's outlook, you know
+He's very you know pessimistic about it very cautious about it
+And then like people like Mark Zuckerberg who are like, you know, why would you be scared of it? This is great
+This is helping us. Yeah, so there's nothing to be afraid of
+yeah, there's there's an underlying theme in a lot of the way that I approach all these problems and that is
+To truly understand something
+Be neither for nor against it and then the truth will be laid bare before you
+So I do the best I can to not really have
+Overwhelmingly strong opinions about things because that just limits the amount of information that I'll be able to ingest and to understand for it
+You know, there's some really outlandish examples that can sort of demonstrate this
+you know, let's say that somebody's walking down the sidewalk and
+they take you know a little knife and they stab an old lady and then
+You know, what is that? Well, what happened? Is it good? Is it bad? Why?
+You know, people like to analyze these things and try and throw labels on it
+But the reality is is if you zoom out enough, it isn't either good nor bad. It it merely is it just happened
+She's gonna without medical attention probably fall over and die
+You know, this is just things but let's zoom out a moment and say oh well
+What are some ways to interpret it?
+Well, if I didn't know anything and I just thought happened from the other sidewalk
+I'd be like this is horrible. How could this person do this? He took the life. Yeah, an old lady
+But little did I know there was information
+Unavailable to me that she had bombs on our chest and was about to blow up the whole city and some guy just saved hundreds and thousands of lives
+Okay, right. I see see how the ability to interpret this information is just you know
+Intrinsically subjective and that becomes very uncomfortable for a lot of people
+So when I think about the questions, you know about is it good or is it bad?
+I think it's both and it's neither depending on certain assumptions that people have about what is essentially right or wrong
+You can make an objective framework and then start arguing. Well, this is good or this is bad
+But if you change those assumptions now you have a different objective framework and now you can argue whether it's good or bad there
+So I try to be flexible to entertain different people's opinions about what is right or wrong and then we can really explore the possibilities
+Right. I mean, I don't really have it. I just kind of like I don't have an opinion myself
+I don't really know enough about it, but I assume like you know
+Substantially more than the average person does about the future. Sure. That's a good question
+I mean, you know have any kind of emotional like like reaction to it. I mean, of course I had emotions
+I'm not a cyborg just making sure
+I'm gonna have to ask your girlfriend to confirm
+We're gonna create a machine that scans your face and figures out if you are a cyborg
+But we didn't forest hasn't developed that yet for us
+but
+I mean no no no feelings towards, you know
+What could happen what what may not happen like you're not weighing towards one or the other like
+What are your what are your thoughts? It's a great question, and if I'm I'll just be entirely honest
+I feel all of them, right? I mean, yeah, and I do the best I can as a scientist to sort of
+Take in the feeling that I feel analyze why I feel it look at the repercussions of that feeling
+Then I take another feeling look at these and analyze it and try and get a whole picture, you know
+For example, I'm excited AI is an amazing phenomenon
+I mean how it helps us under to understand ourselves at such a deeper level is very difficult to communicate to
+People who haven't really been immersed in it for a long time, you know as Neil deGrasse Tyson says like
+Scientifically literate people just see the world differently a lot would take that a step further and say machine learning or artificial intelligence
+Literate people just see themselves and humans differently, so that's an exciting thing
+You know we might be able to share this thing these things we discover
+But of course everybody has many fears in sufficiently advanced technologies indistinguishable from magic and that warrants fear and caution
+Yeah, and you know we need to be careful and make sure that we have a lot of checks and balances to make sure that things
+Don't get out of control and we can talk about those things, right? You're very saucy topics. Yeah for sure
+Yeah, I feel like one day it's just gonna be just like the Terminator and
+Everything is gonna just be robots and we're all gone. Let's do a thought experiment
+Yeah, so let's say that I am an ardent environmentalist and I love the earth more than anything
+Okay, that's all I want so again, you know we talk about these values my objective values are the preservation of nature and in the earth
+Mm-hmm, so I developed some amazing artificial intelligence system that's gonna solve all the world's problems global war mates
+Gonna tell me how to fix it and tell me what to do, okay?
+And this thing starts learning it collects all this data learns about people and it decides well
+I think the earth would be a lot better if we just got rid of all the people right so it goes and does that
+So the question is is that good or is it which it should right?
+That's what it was supposed to do and the person who is environment is interested in the environment
+I should theoretically say well
+This is consistent with my values and it's achieving my goals and my ambitions
+So that's that's the problem with right and wrong is it's only subject
+It's only relative to your subjective value system
+And so people talk about well if what if robots come and take over and kill all the planets
+Well or all the all the people will provided that we are all interested in self-preservation. That's an awful thing
+You know clearly right I happen to agree. I'm I like living living is good. Yeah, it's not as good
+so, you know, I'm
+On that bandwagon as well, but it's just not as easy as something. It's quite as easy as is often advertised no
+It's definitely very complex. I
+Mean the same thing with with self-driving cars, right like with how do you train fun like the values like how the car has to
+Avoid hitting something getting into a car accident like I think force was telling me that
+One of the news I think it was Tesla or someone they were they were saying that they were training the cars to avoid
+Primarily avoid hitting other cars meaning that if it had the car has to decide between hitting another car or hitting a pedestrian
+Yeah, how do you?
+How do you do that? How does a human do that?
+right and
+The answer is that there is no answer once again
+And this is the thing that everybody hates and this is what I love about it so much because it makes us question these very important things
+that we all take for granted humans have an
+amazing
+Inclination to just be enamored with our own ideas and to just reaffirm our own convictions and
+Something like this just forces us out of our comfort zone makes us ask these really tough questions
+Yeah, how do you give a machine a robot?
+Morals you can't do that, right? I mean you have to you have to give them
+Every possible angle
+It's a very difficult question
+I'm gonna start off with an example of perhaps why and then talk about just a potential resolution
+Which is obviously not an answer. There's no one, but I'm just gonna give a stab at it
+All right, so for example one of the biggest handicaps that we've been facing in the self-driving car things is that the cars
+Are good. They're too good in fact
+the
+Many of the accidents that have been taking places with self-driving cars are just slow-speed rear-end fender benders
+Why do you think that is?
+Because the self-driving cars don't break the law and so they don't speed right while humans on the other hand do
+And so the self-driving cars forced to make a decision
+I need to merge onto this interstate, but all the cars are flying by me at 75 and I'm not gonna go faster than 65
+How do I do it safely and many times it can't and so there is the there's these big issues that it's faced with is
+How do you deal with as soon as you tell the car?
+Well, the only way to navigate that safely is to break the law, right? Where does that stop?
+Right, right, so so there it is you got to ask yourself
+To really understand
+When it's okay is you have to decide when it's okay to break the law
+So an analogy that I like to give for this is something that again a lot of people aren't really a fan of but
+Laws are more like guidelines, right? It's not something that we should follow for the sake of the law
+It's more like here's a description of the shared values and the shared fiction of the people that I have chosen to voluntarily
+Live with so if I'm gonna live with these people
+I have a responsibility to respect the shared value system of these people that being said
+It's just a suggestion. I'm not gonna stop at a stop sign if I'm being chased by zombies, right?
+It's not like this hard and fast law that you just absolutely cannot break, right?
+So what you what you would want to say is how do we teach AI morals?
+You give it the same value system as the average people in your society because that is what we've defined in
+General as what's right or right and wrong, right?
+Yeah, you can see the problems with that right away, right is there's a lot of sure who have some
+convictions about
+Certain myths because not myths as soon as a self-driving car runs over an old lady
+They're gonna try to say no more self-driving cars. We got a regular. We gotta ban the self-driving cars. They're killing old ladies now, but
+Human would have done the same thing potentially or you look at the statistics and you find that humans are killing far more people than
+Self-driving cars are right right on on average like you know per the volume
+I mean obviously for sure there's far more people driving than cars
+So you don't look at that stick you want to look at the percentage of cars that are actually hitting
+People and self-driving cars so far have been phenomenal. They're too good is the problem
+So we have to somehow teach them to be worse to be better teach him to break the law, right?
+Just like we do yeah, just like we do teach him to be as broken as we are
+Wow, man, that's that's it's crazy how far the same scum indeed
+Have you do you have one of those cars? No, I don't not yet once it gets a little more mainstream. You want one though?
+Do I want one? I don't know. I like motorcycles. Oh, yeah, me too. I want to get a motorcycle
+Yeah, I've been saving up for a motorcycle. What do you got? I have a 2015 Yamaha. I have zero seven
+Looking like Harley's fast bikes. Yeah, it's got like those yellow candied rims. Oh, yeah, I don't know why I bought it
+It's really not my style. I'm often times more conservative, but maybe it's a midlife crisis
+I don't know what I'm gonna
+Pull up to the campus on your on your
+Popping wheelie pop in a wheelie through the parking lot. I can see yeah, it's a little professor Kroc is here
+Bitches I remember back in high school. I had I had a 1987 Corvette coupe
+That's some of high school and there was
+Good old days, man
+You remember the intersection where there's the gas station right across from the parking lot that a little intersection
+Okay, yeah, yeah, of course everybody knows you got to go to the Circle K after school always
+Yeah, I pulled out there, you know
+Because everybody from school is like at that intersection or at Circle K or at the corn
+So that's we're just that's what life happens. You want to be noticed you got to be there right there
+So I was like, hey, I'm gonna be noticed and so I rolled down my window instead of blaring
+What was it give me if you will give me five?
+Doing some donuts in the middle of the intersection. Oh, yeah, such a hoople head. I don't know what I was thinking
+But you're young living life. I got a reckless driving ticket. So you did from that. Yeah, that pay that didn't work out
+I got what I deserved, of course, but it was still a good memory. Honestly, I'm probably still do it again
+That's awesome. You got to break the law sometimes and live life a little bit. Yeah
+Yeah, the self-driver car and it would have never did that. No
+Turn the volume down
+Wow, man, that's incredible
+What about have you have you?
+dabbled in like video games like virtual reality and and like
+Simulated reality anything like that or yeah, it's interesting you mentioned that so the lab that I work in at Florida State University
+Used to be called the visualization laboratory. Uh-huh is run by doctor
+It was run by Gordon or dr. Gordon Earl Ebacher. Who's my advisor. He's the chairman of the Department of Scientific Computing
+He teaches the introduction to game and simulator design course. Wow
+So in the visualization lab, we have all kinds of tools. We've got the Oculus Rift
+We got the HoloLens. We got the the Neuron the mobile trackers. We got we got all kinds of good stuff. Wow
+Yeah, have you ever played fortnight fortnight?
+No, but I watched your podcast with one of the world's best for fortnight players. Yeah, T foo. Yeah, how cool is that?
+He's a local kid. No way from right here
+Landish is that he's a local kid 17 year old millionaire
+Yeah, it's incredible short since it's insane man. That's a that's that's what we were talking about earlier
+You'd be a renaissance man. Are you get extremely fucking good at something that's something like that and and all those different
+Paths or neither is more right wrong than the other
+It's just a different life that kind of sadly for me
+I'm often sort of met with sadness that really all the facets of life that I'm just never gonna experience, right?
+Yeah, like I'm never gonna be a guy who just like surfs on the beaches of Hawaii
+I won't know like the emotional psychological phenomena that sort of overcomes you when that's that's who you are and I'm never gonna be a
+devout religious person who goes and just preaches what he believes in 100%
+I mean, there's so much life that I'm just never gonna get to experience and when you think of that
+It's kind of sad sometimes. Why won't you to experience it? You can go surf in Hawaii
+Yeah, but I mean what I mean is like a lifetime of that if I go do it a lifetime of it
+Yeah, so for I mean so for example, have you traveled before of course
+I mean to international or something. Yeah. Yeah. Yeah, you go and you meet these people and you see what it's like
+And it's cool and all right and you come back and you're like, oh my god
+That was the best thing. Yeah, but we really have no idea
+Right, we have such a short and this is where machine learning comes in again, right?
+We have a short exposure to information and that allows us to create a very ill-informed
+What we call prior opinion about what it's actually like because we're trying to take this information and
+reconcile it with our world view that we learned over here with our Western values and
+So we're taking what we think they're experiencing and fitting it into what we understand life to be
+But if you were over there and you were raised there you would see life so much differently
+It's just it's very hard to to describe
+I mean the epitome of it is is when you think about in a religions, right?
+We all have all humans come from the same cast 99.98 something percent similar DNA
+Yet just in the right environment the right circumstances and the right exposure
+You can be raised to be you know Buddhist Catholic
+Jew you know Jewish will all these different religions that are just exposed to you from a very young age
+And it just totally changes your world view. Yeah, so there's just infinitely many lives that we're never gonna be able to experience
+This is what we've got and we just make the best of it
+But right sometimes it's sad to just think about what we'll never see but do you think we live different lives like in different dimensions like
+What do you are you really? Are we in a simulation?
+You know interestingly the answer to both of those questions is the same
+There does not exist enough evidence either way to actually make a concrete decision
+We have to do what most people do which is what we have to do as a human
+And that's just choose to believe based on what's consistent with our values and what we've been taught and what we've been exposed to
+Right, so are we in a simulation? Maybe maybe not
+Life would be the same whether we were whether we weren't interestingly and am I religious?
+I don't think I'm religious. I'd say that I don't really have enough evidence either way
+You know some people are like devout atheists. I think it's oftentimes, you know, maybe as
+Dangerous to say that there is no God as it is to say that there is one because nobody can actually prove it either way
+They just choose to believe it because it's consistent with their values in their world view, right?
+And you I mean do you often think overthink to the point where you are like wow?
+I should like you were saying before you like I wish I could have you know
+Spend my life surfing on the beaches of Hawaii or
+Climbing Machu Picchu or doing this and that I mean instead of having like that versus like having like the narrow-minded like the narrow
+Tunnel vision of just going down one path and sticking to it like similar to like the video game kid
+Yeah, obviously never tried anything it do anything else. Maybe he thought about it, but
+Just stuck down one path from when you were a young kid when you got older
+Got lucky hit the jackpot people say all that kid's so lucky or whatever
+But like someone like you who was blessed and cursed to be so frickin smart that you think about all these different scenarios
+That you could have done is that does that make you kind of like is that what you said?
+It makes you sad. Does that make you sad sometimes sometimes, but you know as I said a little earlier
+I try to be consistent with this worldview and that is that it's neither right nor wrong
+I don't regret it. This is my choice. That was his choice if I would have lived a lifelike
+Well choice, so we don't have too much of a choice
+We're just sort of born where we're born
+Yeah, and then we like to have pride in that as if we somehow had choice over our nation of birth or something like that
+but you know we
+We live the life we live when we make the best of it
+You acknowledge the lives of others try and internalize it as much as you can see their worldview
+But we can't unless I finished my invention and make that mind machine where we can put experiences in different people's minds
+I think there's an episode of black mirror. That's like that. Yeah, they're for sure
+Have you watched that show? I've seen some of it. Yeah, where they have a little chip or something, right?
+And you could see people's like yeah memories. Yeah. Yeah. Yeah, there's also one in hitchhiker's guide to the galaxy
+They got that gun at the end remember
+I think that was the answer to the secret of life or something like that and it was just
+Hikers guided the galaxy. Yeah, I remember the movie, but I don't remember what the what the raccoon and shit. No, no, that's a
+Guardian that's a guardian of the galaxy. Oh, what was it by the way? Yeah, that's what I was thinking
+What was the other one called hitchhiker's guide to the galaxy? Yeah, and then at the very end there's the gun
+I don't remember what it's called
+But they make a joke out of it
+But basically it's like now men know what women are thinking because you know the women shoots you and then suddenly you know what she's thinking
+It's sort of a is that sort of how your invention will work, you know, I thought a lot about it and it's
+There's a lot of like really dangerous pitfalls to go into and you know, not only just
+Philosophical but also, you know
+Physiological like the neuroscience behind it, you know as I started studying neuroscience over the years
+I worked at the Max Planck, Florida Institute for Neuroscience for many years and learned a lot about how all this stuff works
+And it's just we are so incredibly far away from something like that. Really? Yeah
+Would it be more of a gun or it'd be more of like a
+Electric chair you sit in and like a thing goes over your head and you strap into it. What would it look like in your mind?
+Yeah, I mean and when I dreamed it up in my nonsensical
+You know ideas do
+It would be something akin to like a headset that uses something like, you know
+Magnetic fields to stimulate certain regions and certain neural pathways, but the problem is the following is that
+Every human being can be presented with the exact same stimulus
+Theoretically which they can't right because just different angles and everything but just theoretically they're presented with the exact same stimulus
+And they'll represent that stimulus
+Internally in completely different ways
+All right, so the idea of me somehow mapping the experience that you had
+Learning it and then somehow making someone else experience it
+I would have to know their entire mapping of their brain and somehow which neural pathways and spatial temporal patterns
+Represented different feelings and experiences and activate them in some crazy order. I mean, it's a it's really just a fairy tale right now
+But you know, you got a dream about this stuff sometimes to work towards the fun stuff. Yeah, exactly. I was gonna say that
+It's crazy. It's so deep
+My mind is being blown every like 15 seconds
+Yeah, I'm trying to follow along people want to try to figure out how to live longer and live forever
+Yeah, right, so I'm sure there's people out there researching and all that stuff and I can only imagine how far it's really gone already
+You know, do you think we're that far out from something like that?
+Well, there's there's I guess two main approaches to something like that
+You know at least from what people like to talk about one is the notion of just like putting your brain into something else
+And that's only a good idea in the short term because the brain is still biological and physiological
+And that will decay over time as well
+So it's not like you just keep putting your brain into a new body
+It's just it's right the brain is a hunk of meat also, right? Yeah, it's gonna die just like everything else, right?
+And where are we how far away away from that?
+I think very recently there was this very
+Controversial research that or operation that somebody's been trying to take place where they're gonna transplant one guy's head onto another body
+Oh, yeah, I heard about that. Yeah, I don't think it has happened yet
+And I don't really know how much truth there is behind something like that
+But that would be an example of where you're not necessarily putting somebody's brain
+Into another body, but you're putting someone's head onto another body
+And so I really don't know anything about medicine so I can't speculate on that
+But yeah, you know, you just wanted to know how reasonable it is it that's you know
+That's where that's at but the other option is uploading the brain into a digital medium
+Where it should allegedly persist well beyond the the constraints of the end of the biological system
+Then there's no there's no meat carcass that you have to deal with as you're just digital, right? Yes. Yes
+Well, uh, well described
+That meat bag was that what they call it the meat bags that we're trapped in for our whole lives
+Yeah, we're incredibly far away from anything like that even being remotely possible. Really? Yeah
+Um, yeah, I mean what we can do is
+measure some
+Patterns and neural pathways and then like make some, you know
+Very very weak predictions about what somebody's thinking or doing before they do it based off of, you know patterns that are taking place
+For example, there was another experiment where
+They had two, uh, I don't know if I'm going to cite this correctly, but they had two mice or rats hamsters
+something like that on on very far away from one another opposite sides of the planet for all I know and
+There there was an
+an electrode in the brain of one and it was navigating a maze
+And while it was navigating the maze it was sending the signals that it was experiencing in its brain to the other
+Mouse rat hamster wherever it was, but that one was not traveling through the maze and the goal was to find some cheese
+So the first one, you know got stuck and then eventually found some cheese
+And then they just let the other one loose in the exact same maze just duplicated and it went straight to the cheese
+So there is so he didn't hit any of the roadblocks along the way because he learned the the the route based off of the neural
+Activity that was going on in his counterpart. Yeah, so how what that's something they implant into these rats. What?
+How does that work?
+Yeah, that's a it's a good question. I mean so the fundamental
+premise of all this is that you're measuring neural activity, right?
+So you have what's called an electrode that gets very close to a soma cell body
+Sometimes it punctures it. Maybe it's in, you know, the axon of the dendrite to some part of the neuron itself
+And then as that neuron activates this electrode measures the voltage changes that's taking place
+This is something physical like you could touch when you say the electrode they put it that's something like
+Yep physical. Yes, they put in there. Okay, exactly. They shoot like a syringe in there into their head or something
+Or what a microchip. Yeah some time. I mean, there's a lot of different techniques
+But the general premise is always the following get access to the brain stick a needle in it
+Okay, and so I mean whether that needle punctures the cell or it's just right next to it and measuring small voltage fluctuations
+You know just near the periphery of the cell body or whether it's actually inside the cell body all modifies the results
+You know you have to clean up and denoise that stuff
+But that's the idea of recording the activity of one brain
+And then the idea of then sort of imposing that on the brain of another
+I don't know the science behind how that was done. So I'll do they do they take it out of the first
+Whatever the rat or whatever it is and put it in the next one or they have one
+They just record it right so every time the neuron fires and then they just upload or just digitally
+It's just digitally. So it's basically an electrical current. They're just measuring voltage changes and so each one has one
+It transfers to not all the neurons. Obviously that'd be an impossible. There's yeah, yeah
+Way too many neurons. There's more neurons in the brain than there are
+I don't know trees and one of the largest forests in the world. I mean, it's it's absurd
+But you that's a fucking crazy. Yeah, that's crazy to think about it's it's pretty exciting
+It's exciting. Yeah, it's fascinating to me. I'm torn man. I mean I get excited about it sometimes
+I can empathize with the fears and I don't feel like either way is right or wrong
+And I think we would be better off sort of embracing both and finding a compromise
+You know finds the best for everyone, but what do I know?
+What do you think about like
+Plasticity this plasticity does that does that mean that you can basically
+Retrain your brain to do things that
+It was like opposite of what it was originally trained to do like when you were developed as a young kid
+Like when your brain develops when you're young and you learn like you were said like you have certain pathways in your brain
+And you have a certain map of the way you see and the way you take take an input, right?
+This plasticity does that is that mean that you're able to change that stuff?
+Like for instance, you're able to change the way that you interact with
+All the elements and everything in the world to like explain that to me like I never really understood what it was
+Okay, I was right. Yeah, you nailed it right on the bug man. You missed your calling as a neuroscientist
+I knew I had something. I knew I had something in me right. I met you in high school. It is man. So
+Blast now you're talking my language like this is sort of the core of my research that that I'm working on and this revolves around the concept of
+representation learning, right? Okay, so
+The very first thing that happens as I said is that information needs to be
+ingested, you know, you get some electromagnetic wave of a photon it hits
+You know a cell a photoreceptive cell in the back of your retina
+That wave gets transduced into electrical signal, which then passes through some other cells and then goes to the optical nerve to the back of the brain
+Okay, so how does this wave get represented internally? Like what's going on with that?
+Well, the idea behind plasticity is that you have one neuron
+This is the soma the cell body
+You have what's called the axon, which is where it sends signals down the down the line
+And you have what is called the dendrites where it aggregates all the information from everything that it's listening to
+So what plasticity says is that one of the dendrites for example
+If it is listening to activity from another neuron say from this, you know, electromagnetic wave that it just received that it just experienced
+The the the strength between these two is able to change
+Right. And so what does that mean and how is that useful?
+Well, what that means is that as we start seeing sensory information over and over and over again
+Internally in the brain our ability to process it starts getting accustomed to that sensory input and we start recognizing that sensory input
+And we start finding patterns in that sensory input and this is one of the anticipating it, right? Anticipating it exactly
+This is one of the key observations behind, you know, one of the deepest parts of machine learning in my opinion
+Uh, which is representation learning. And so here's the example for that
+Let's say that I showed you a bicycle and I said
+Danny, what is this thing? What would you say?
+That's the thing you sit on and you do wheelies on there you go from
+Get to school on it. There you go. You might say it's a bicycle, right? And then I would go
+How do you know it's a bicycle?
+And then you'd say
+Because it has two wheels and handlebars
+Well, the motorcycle has two wheels and handlebars and a motor. So it's a motor bicycle. There you go
+All right, so the the idea is though is that we can keep asking these questions and they get more and more refined as to
+Why do we call this thing what it is start with maybe a coffee mug? There's another example
+Okay, what is this? It's a coffee mug, right? How do you know? Well, it has a handle. Well, so does a beer mug
+Right. Well, it's short. Okay. Well, so is a teacup
+Oh, well, you just keep asking these questions and it turns out that they're these very very very subtle features
+Of things that allow us to distinguish and disambiguate between them
+And so the question is
+How do we represent those features internally?
+And that's an active area of research machine learning artificial intelligence
+I have a hypothesis that it revolves around some of the fundamental concepts
+Old neuroscience that's sort of been forgotten in modern-day research, which is called
+Hebbian plasticity and so we can show that locally all these individual neurons that are making these local
+Hebbian Hebbian. Yeah. Hebbian plasticity. Donald Hebb. Okay. He's the guy. He's the guy who did it. Okay. Yeah
+He's like, hey neurons that fire together wire together. That's me, baby
+Yeah, that's his big catchphrase and so we call it Hebbian plasticity
+and uh
+Yeah, so the idea is that all of these neurons locally start changing their behavior
+Completely ignorant of everything else that's going on around them. And somehow, uh, which I'm trying to show in my research
+We get a larger aggregate order that arises from this local activity and the example that I like to give to this is uh humans
+We all just exist on our own and we're all independent and selfish and we make decisions on our own self-interest
+Yet somehow we have these magnificent shared fictions like corporations and religions and governments and nations and we just
+create these amazing
+Concepts all from our just individual needs a spontaneous order that arises chaotically. It's very beautiful and
+We see this in nature all of the time and I contend that
+The brain does the same thing
+I'm gonna have to re-watch this like 10 15 times over to catch everything. Oh, that's not good. Yeah
+You gotta I need to learn to say it
+More clearly. So if I say something that's not clear, you know, give me a hard time about it because it's my job
+No, it's not you. It's just so many different words that are not normally in my vocabulary
+Stuff that I listen to every day, but I mean, it's not your fault. You're accustomed to it. It's not it's the plasticity
+But I like it because I'm learning I'm definitely learning picking up little gems along the way for sure
+Well, I gotta go on a little diet tribe now that you just mentioned that but you know
+When you were saying I'm using a bunch of little terms that you don't understand and it's your fault
+Here's the reality, right? Is that
+Communication is another one of these spontaneous order things and it is just
+Fascinating like let's just take a moment and just appreciate the majesty of communication. Okay
+Internally in this just massive net of you know, so many neurons
+Um, I have some concept or some idea somehow mysteriously
+And then what I'm gonna do is I'm gonna somehow turn this signal into a pattern of neural activity that
+Oscillates the vocal cords in my throat that's gonna make slight little pressure changes and the molecules in the air
+These are then gonna travel to you and move little hairs in your ears
+Which is then gonna
+Create a neural signal which goes to a certain part in the brain
+Where you then interpret the language and then somehow put all these words together and represent that idea
+So I'm literally taking some crazy idea in my brain
+Transducing it into just waves through the air and then recreating it in your brain like that's just phenomenal, right?
+But which makes me
+Do the same thing create things that go on my face which project back into your eyeballs and make you feel a different kind of way
+And it just goes back and forth, right? Dude, that's you hit on a very important thing and that's feedback during communication
+Some people there's a lot of psychological disorders where they just don't have that capacity
+Where they just like talk and they're aren't even aware of what people are
+How they're interpreting what they say, but to what you said, right?
+Think about how much, you know, just sheer majesty goes into the ability of me to communicate some idea to you, right?
+The fact that I'm taking the effort to do that means
+That I am trying to put my idea from my brain into yours
+If I which means I have the responsibility to choose all of the words and to communicate the idea from your prior and your
+Perspective as best as possible
+It's just foolish of me to just speak in my own world in my own little vacuum chamber and expect you to understand me, right?
+So I have a responsibility to communicate as effectively and carefully as possible. Otherwise. Why am I even talking?
+I just want to hear myself talk. That's that's not that's not someone I want. I think a lot of people like to do
+I know a few people who like to do that. Yeah, yeah
+Normal podcast episodes. No, I think you're nailing it pretty good
+I mean you got to keep it on a certain level, but it's just my brain's working at super fast speeds right now to retain all this information
+He's a four-cylinder. Yeah, I'm running on fumes right now
+It's funny, man. There's like there's a guy that that we do a show I do a show with on on our youtube channel, right?
+He's a real estate dude big fat new york jew
+And he's worth hundreds of millions of dollars one of the richest dudes I've ever met
+And you considered him really fucking successful, right?
+Sure, I've fallen I've fallen him around for the past six years documenting
+You know here and there what he does making little vignettes and putting them on youtube and people fucking love it people just go crazy over
+They're fascinated with it man this big and he is no offense to ben if you're watching this
+He'll never watch it. He never watched any of our videos if he is literally
+Not not that ignorance is a bad thing. I don't think ignorance is a bad thing
+But he is the most one of the most ignorant narrow-minded mother fuckers I've ever met but he's so fucking rich and successful
+at real estate
+and and people think that his opinions are so
+They they've put his opinions so high above everybody else just because of that one fact that he's successful in real estate
+Yeah, there's a lot of interesting things that you brought up there
+I mean the first one is something that I'm rather passionate about
+trying to oppose and that's the
+the far too commonly
+Committed fallacy, which is the appeal to authority
+So as you said so many people just respect what he says as if he has some sort of an authority figure
+Knows what's right and what's wrong, and that's one of the lowest forms of reasoning, right?
+I mean there's there's no real internal judgment that's being made. They're not really
+Reconciling his information with their own internal model. They're just like taking it as as as truth
+And far too many humans in my opinion do that and I think we as a society would
+Benefit if more people took a bit more responsibility and discipline for what they consider to be
+True or not true, right?
+And the other thing that's really interesting is
+Yeah, he's a big obnoxious kind of guy and honestly, that's great
+And the reason is is because we need all kinds the whole world needs all kinds
+And there's one thing that's you know, we've learned in science and that's the vast majority of things on average behave
+What we behave as what we call like a Gaussian distribution and basically
+Just looks like a little bell and what that means is the majority of people are right here in the middle
+And it's high because that's where all the people are and as you taper off to the other ends
+There's fewer and fewer people out there
+But if those people weren't there this thing wouldn't be a Gaussian and it would start to become very very narrow
+and it would start to become very very
+Pointy and everybody would be all the same the same and the problem when everybody's the same is that people can't change
+right and so
+We intrinsically need people like that to adapt and grow and
+And I think as long as we have a tolerant mindset as we said before nobody's right or wrong
+We observe reconcile with our world model and make the best of it. You know, so it sounds like an interesting guy
+And I'd probably enjoy chair. Yeah, check them out. Yeah, man. We should have had him out here tonight
+It's an interesting thing like like we were talking about before though the communication part of it
+like he the guy's a really good communicator and and and being able to
+Being able to you know influence people and make them think a certain way even though it may not be true
+Well, let's talk about that for a moment. So at first you said he's very brash and he says what he wants
+And people just listen to him because of his uh his power and his money right does he actually
+Observe who he's communicating to and communicate in a way effective for them to understand or just use his platform
+And his power to convince people he definitely conforms to who he's communicating to then indeed. He sounds like a very good communicator
+Yeah, and and I mean it's
+It's yeah, it just blows my mind. I mean, it's a lot. It's a very similar to
+How like
+Donald trump can communicate to people how he can communicate to all the people who voted for him
+You know, he knows how to communicate to his audience, you know what I mean to get what he wants
+All right, and and this guy can do the same thing
+You know depending on who he's talking to like like he can be whoever he wants whatever he wants
+Just sounds like uh
+An edge case sociopath. Yeah. Yeah, and it's to get what he wants
+You know, I mean whether it's buying a car or a house. He's going to talk to that person
+He's going to get that he's going to get what he wants for the price that he wants
+Yeah, you know when he goes to get a car
+He's going to beat the guy up and the guy's not going to want to sell it for a price
+But at the end of the beating the ear beating this guy receives he will get the car at the price he wants it
+It's interesting like that's interesting social media too man like the communication through social media people can
+People can see something and take it their own way and put their own put their own story behind it
+And it makes them feel a certain kind of way and it may not be the truth
+Yeah
+Like we were talking about right before right before we started recording
+Yeah, we were talking about that a little bit early about social media in the comments and what did you say you did with that?
+Yeah, so it's it's pretty um
+It's pretty devastating to our social structure and and our ability to communicate with one another
+On a lot of ways it also has many strengths as everything does to unilaterally label anything as good or bad as often
+Evidence that somebody doesn't really know exactly what they're talking about but
+From the perspective of you know listening to individuals and respecting them
+It's a pretty terrible medium and it's causing a lot of problems and the reason is
+It's pretty simple
+Well, nothing's really simple
+Um
+But it's because there's no repercussions for their actions and it really comes down to what you were saying before
+Um, when I say something to you, I see your face and I get feedback from what I say and that tempers
+What I'm going to say it modifies
+The next words that I'm going to choose etc
+Like that communication medium that we have from face-to-face interaction is very very very different
+Than me just having my own self-righteous thoughts and just
+You know slamming my hands around like a monkey trying to vomit my my half-thought ideas, right?
+So, um, it's teaching us very bad communication skills. You know as I demonstrated earlier
+I'm kind of perhaps illogically enamored with the notion of communication and you know, the social media is not really, um
+At least in the human level not a very good
+medium for us to communicate but
+Again, there's all kinds of other very interesting things that it's enabled us to do for example
+We have been able to observe trends in data based off of certain people from certain regions and they say certain things
+Yeah, maybe they're saying completely, you know
+Angry aggressive vitriol and they're just like spewing stuff
+But we can still find passions and truths and opinions and we can look at these all globally locally regionally
+And we can start understanding better a lot of the social problems that we've been facing
+You know, unfortunately, we have a lot of issues with gender and race, etc
+And we can explore these a lot better with the medium of social social media. So
+It's it's got to strengthen those weaknesses, of course as everything does. Yeah
+I mean the commenters on these videos that are can be can be pretty brutal. These people are pretty ruthless
+Yeah, I mean unfortunately, I think in the long run that usually just looks what looks bad on them
+But I mean the reality is I mean maybe 10 people read their comments and then right nobody cares anymore because everybody knows
+There's just no real there's no real information or knowledge in the comments nowadays
+Right and so for those of you who are thinking about just writing nonsense
+Please take a little more responsibility in your year and communicating your ideas. Yeah, they're real
+Man, it's getting hot in here. Let me turn
+What happened to that? I think force is digitally turning the ac up because I see keep seeing it
+Come on and it goes up like one degree one degree
+And I think he's at home watching us
+Turning the ac up will turn the heat on us. He's pranking us. I think so
+I keep seeing that thing pop up and get hotter. I like him
+Yeah, he's funny. He got really really butthurt. He was on one of the first not one of the first
+But he was a few podcasts ago. He was he was talking to a buddy jack a friend of mine who um
+was he was very active on youtube about trying to
+Educate people on like the red tide going on in florida. Like basically he was being very vocal and
+talking a lot about like the politics behind the people that were
+We're responsible for creating the cause and effect of red tide with like the sugar cane
+the sugar cane fields and all the
+You know all the toxins and all the pesticides going into
+Lake Okeechobee and causing the red tide then we started getting into like eating and dieting and forest
+Is like he doesn't know anything about that and forest would be like why why when I go to mcdonald's and veganism
+And yeah, I mean he's like, well, you got to eat healthy, you know jack
+He's like you got to eat healthy. You got to care about the environment and forest is you know, he's like, wow
+I could it's cheaper to buy a dollar cheeseburger for a dollar and save money and that makes me happy
+And then people on the comments were just basically
+Crucified for us and they went on him. He won't come on the podcast anymore. Thanks guys
+Well, that's unfortunate and I'll be honest. I think that's one of the problems with social media is
+People get very very passionate about their ideas as I shared before. I mean humans have this incredible inclination
+We just love our own ideas. Yeah, and especially from the safety of our own laptop in our home
+Right, we are we are the authority of all that is knowledge, right? No consequences
+But the reality is is that forest isn't isn't entirely wrong, right? And the problem is is that
+Here's a great example. Um
+That i'm a fan that's uh, I don't remember his name. There's a great economist who who writes about this stuff all the time
+And here's the example. So let's say that there's a park
+And it's a beautiful park and people like to walk through it
+Okay, so right now our society has this very large leaning towards preserving society
+I'm sorry preserving nature and parks and the environment. So we all have a very strong bias towards environmentalism
+Okay, now let's say
+Somebody else comes along and he says actually, you know what?
+I'd like to knock down this park and put a parking garage on here so that I can park my car
+Right, and then we go. Well, we have a decision to make here
+We have somebody who wants to take down the park and put a parking garage
+And somebody who wants to just enjoy the beauty of nature and walk through the park
+And here's the problem is once again, we talked about earlier. There's no there's no notion of like an intrinsic right or wrong
+And so the problem is is that oftentimes people from that environmental perspective feel as though they have like a moral high ground
+Where they say no preserving nature is the right thing to do
+But you ask why why is it the right thing to do? You just choose that it's the right thing to do because it makes you feel good
+Well, I want to save the earth. But why well because it's fulfilling. Well, the reality is the following
+This person's desire to take down the park and put a parking garage is equally as valid as the individual who wants to preserve the parking
+Who wants to preserve the park?
+And so here's where the the the real truth comes from is the person who wants to preserve the park says well
+You can't take down the park because that is irreversible
+Once you take it down you can never get it back and they're true
+They're right there and there's a lot of truth behind that
+However, they overlook the fact that there's something else that is equally irreversible and that is time
+Every single day that this person does not get to build their parking garage
+They're going to have a day of convenience taken away from them. We have this sort of internal desire to say oh
+Well, you want convenience over me wanting to save the earth. So you're wrong and I'm right
+There's no reason for that. That's just an opinion once again
+When the right philosophy would be the following both people are equally right
+So what we should do is build some environmentally sustainable parking garage or something that satisfies everybody
+Instead of just being polarized and bickering coming from some moral high ground
+We just realize that everyone's right and try and find a medium that satisfies everyone's desires. It's very easy
+Right. You look at it from that perspective at least
+But wouldn't you say that the person that wanted the park is trying to look out for the earth?
+That's that's in everyone's
+That's in everybody's interest right because everyone lives on the earth and we want the earth to last longer and we all want to
+Live longer, right? Isn't that something that's a common value everyone wants to live longer and everyone wants the earth to be around
+Or maybe are you arguing that this person doesn't care about the earth as far as their life?
+Yeah, I would argue I mean there's it's complicated. Yeah, there's there's two things
+I mean one the notion of self-preservation is once again just an intrinsic desire
+It isn't right or wrong as I said before somebody wants environmentalism. It turns out that saving the earth
+Is is best done by killing everybody. Well, where do you draw the line? Right? So true
+right, so I mean
+You bring up a good point. I mean it is pretty complicated
+But I think that as long as we're able to find a happy medium where everybody is cognizant of the desires and wants of everyone else
+And as long as we realize that deep down
+Whatever we think or we feel is not intrinsically right or wrong
+It just builds us up to be naturally tolerant of others and I like to sort of I'm going to re-emphasize the significance of that
+Was just an example. Okay. The difference between
+being sort of
+Subjectively opinionated, you know based on what you think and feel versus objectively opinionated, which is complete right and wrong
+Is the difference between 99 percent and 100 percent?
+What does that mean? That's a small little pedantic detail. Nathan. No, it's not the difference between 99 percent and 100 percent
+Is the difference between somebody being very passionate about a religion and trying to share it with others
+But having conversations and then being an extremist who no longer needs to have discussions because they have the truth
+It's 100 percent
+their only responsibility now is to just pound the truth into the rest of the world because there is no room for being wrong
+That's the very thin line that creates a very dangerous
+society
+Situation in society so right and that even shows itself in this notion of just environmentalism wanting a parking garage or not
+As soon as one person is convinced that they're right. They're already wrong
+And a lot of people I think could benefit from just realizing how little we actually know and how absolute our own
+Our convictions really are
+I bet you
+Get into some serious
+Have you gotten a like to into a serious political debate with like a family member or a friend?
+When I was younger. Yeah, I was much less not recently. No, I mean because again, you just avoid them. I mean, no, not at all
+I welcome that would be like sport for you. I feel like no I welcome it and the reason is is because
+I see it as an opportunity to champion what I what I'm so excited and passionate about
+as tolerance and listening to them and accepting them as being different but sharing an equally valid alternative view
+And as the more people we have doing that the better our situation is going to become
+I mean, we are more polarized now than we've ever been half lead to blame for social media, by the way
+Um, and I think what we really need is just people to realize how little we actually know
+There's this thing called the dunning kruger effect. You guys might have heard of it
+It's a psychological phenomenon that says the less people know the more they think they know
+and uh
+Right, you know, we're plagued with that and via social media the less people know
+I mean, they go ahead and they they they google one or two websites
+I mean, I've fallen prey to this too. We all do right where I read one or two things. I'm like, oh, I see
+So this is how it is
+So no, you're not right because this thing said this thing which said this thing
+And we're just perpetuating the problem when the reality is is the more that you know
+The more you know, you don't know and I find that when I'm around like academics who dedicate their life to mastering something
+They're just incredibly humble about their knowledge because they see how much they don't know
+Right, you know, and when somebody doesn't know how much they don't know
+That's the dunning kruger effect. They can't measure their own incompetence
+Right, right. So they're stuck here thinking they know a lot because they don't know enough to know that they don't know a lot
+It's a very curious phenomena. Yeah, no, no, I'm definitely familiar with that. I didn't know the actual name of it
+But you know knowing that you don't know a lot is
+smart or that's that's
+Whatever whatever the best way to learn that's the best way to learn more right to know that you don't know everything
+So you're saying i'm smart because I know less than you guys
+But I know that I know less than you. Yeah, but you don't know you don't less. So you you're done. What if I do?
+There's a great quote. I don't remember the book that it's from but it's exactly that
+You know this person and I both don't know anything
+But I know that I don't know anything therefore. I'm smarter than he is. Yeah, there's a quote in the book
+I can't recall. I'm sure somebody in the internet and yeah, they'll find it. Yeah
+But yeah, it's a great quote and you're exactly right
+Knowing that you don't know is one of the wisest things that that can be done
+And what I'm so passionate about is that machine learning and artificial intelligence
+Studying that just gives rise to all of these just tolerant ideologies because you start understanding. What is intelligence?
+What is learning? What is memory?
+And we're all just prey to the sensory information that we receive we make these biased opinions based off of something
+We can't really control you understand the learning process how people make decisions and I don't know
+I just think that's why I'm so excited about us learning more
+Is because I hope that myself and others who know this stuff can come share
+These things that we've learned from machine learning and it's my hope that uh as the message spreads
+People might become more tolerant and maybe before I'm able to invent the machine where we actually truly understand one another
+We can just get a lot closer by being more tolerant and more understanding of differences among us
+Definitely sound like such a hippie dude. Who do you real?
+I've felt that though. Who did you like?
+Did you have anybody in your life either now or in your younger years like when you were you know in high school or
+Whatever throughout your life people that you looked up to that you kind of like tried to model yourself after people influences like
+Who are your biggest influences?
+This is kind of embarrassing
+One of them was Leonardo da Vinci, right? I was very young and just sort of enamored with this notion of absolute knowledge
+Knowing so many things so I pursued that and the other
+his name is bash the stampede
+and uh
+Yeah, who's bash the stampede. Yeah, he's he's the best man. He's he's who everyone should aspire to be like never heard of him
+Yeah, should we have to look him up here? This might be an appropriate look up. Does he have an instagram?
+How do you say bash? Yeah, there he is. He's popular, man
+okay
+There he is. Look at this guy the anime
+Okay
+Yeah, I don't know. I was 12 or 13 years old and oh, yeah, this this anime
+I mean, I don't know people like to again have very strong priors about things such as anime being right or wrong
+but um this one particular anime is
+is
+Surprisingly deep and they explore very very very deep like philosophical issues and this was one of those things that made me have this sort of
+irrational illogical
+Affinity for just doing good and doing right things
+So he's like this super essentially he's just this super powerful guy
+He has amazing abilities, but all he wants is to just live in peace and be happy
+But there's this other guy who wants him to suffer
+And so he always tries to do bad things to him and as a consequence everyone around him is always getting hurt
+And so it's just this whole video about this one this whole anime series about one guy
+Just with this heart of gold just always trying to do good things and help people save the day with his cool powers
+But all the while suffering happens inevitably and you know
+It tackles a lot of the philosophical ideas of you know, what's right and what's wrong?
+How do you feel about things and this is a beautiful show? That's super cool. That's wild. When did that show cartoons, man?
+That's a long time ago
+I just saw 2014 on there somewhere that I've seen I've seen this thing probably
+I mean, there's only 26 episodes. It's short and sweet
+You could watch it and I mean if you did a little a little weekend binge watching you could watch it in two weekends
+Really? Yeah, and it's it's just phenomenal. I've watched the whole series probably a good five or six times
+Shared it with a lot of my friends. Everyone who's ever seen it has just been enamored with it
+Really? I want to check that out
+Yeah, what was it on? What was it on? Was it on Cartoon Network? Was it on? That's super old, man
+I mean, this was 1980 something. I think it's when it came out. Oh, really?
+And so I caught a little later my friend. How are you? I'm 30. You're 30, right?
+My friend was an anime buff and so he's the one who introduced it to me. I was visiting him. Excuse me and uh
+Virginia and
+He was just watching I watched it there and just it starts off slow. Okay
+Got a build up. Yeah amazing like everything characters, but it's a great show
+All you guys who like it, you know say like and comment how great this show is. I know how I know how many of you think it sounds
+Super cool or how much you hate it on here
+Oh, we need both you need both need both a new balance. We need the gaussian gaussian gaussian
+Yeah, so Frederick Gauss. He was a mathematician. There's a fun little fable
+Uh, I don't think it's true, but so allegedly
+Um when he was in grade school the teacher punished everybody and said okay
+I want you to all to add up the numbers from one to 100
+And so they're all sitting there at their desks just like trying to do this thing
+And then within like a minute or two he comes up and gives the answer 500 or 5050
+And then the teacher's just like blown away and it turns out that allegedly he invented one of the summation formulas for arithmetic
+arithmetic series and you know
+Is this a kid he came up with that and it's an arithmetic series. You just add a bunch of things together
+Um, and so yeah, you add up one plus two plus three plus four plus five plus six
+Oh, okay
+And so that whole sum is equal to a small little formula n times n minus one over two
+And so allegedly he just discovered that formula when he was a little kid
+And then went on I think the problem was much harder than that
+But anyways, it's a fun little story and he went on to do many other great mathematics things such as great in the gaussian distribution
+Which is pretty much the foundation of all probable probability theory and
+Statistics and a lot about machine learning. So frederick gauss. He's a cool guy
+Wow
+That's amazing, man crazy. When are you gonna have something named after you like these guys soon?
+Or do you have something already? Nothing not yet. I don't know. I don't know about all that stuff
+What about tesla nikolai? Is that what's his name tesla tesla force was also telling me that him and
+Thomas Edison, I believe
+Have you have you do you know?
+They were both
+Similar, but thomas Edison was more about like being known for doing stuff for like being known for inventing
+Known about being more famous and I think it was bell
+Was it bell xander grand bell? I was like we should double check that but it was I thought it was the person who invented the light bulb
+But basically he was telling me that tesla invented something basically the the neuron or whatever to a bat
+Like he basically invented the the primal function of a battery
+Right not an actual battery, but like the primal function or however a battery operates like he somehow created the concept for it
+right, and it never got invented or it never came to fruition, but
+Whoever made the light bulb whether it was Edison or bell no Edison made the light bulb. He made the light bulb, right?
+the big famous
+You know
+Argument or struggle was between tesla and alexander grand bell. Oh, really?
+So alexander grand bell was like this big. Hey, you probably find it there real quick. He was the big
+Business guy. He was your your your friend from new york basically like alexander grand bell
+Okay, he's like trying to monopolize electricity making it available to people and his biggest flaw was that he was a champion of
+The direct current and so direct current has a huge problem. It's not able to propagate very far in the signal decays very quickly
+and nikola tesla
+Yeah, there you go
+And nikola tesla he was all about just making things free
+He was going to make wi-fi free for the world and he was just sort of idealist
+That just didn't really fit into the capitalist structure that america was coming up in and as a consequence
+He sort of ate it and I think he ended up like killing himself for something because he was really struggling with it
+But he was the one who was pioneering the alternating current and that's what we use today
+No, it's the oh the ac is what grand bell wants right and he did the ac
+Yeah, and ac is what we use today and it's been
+Phenomenal allows signals to travel much much further without losing as much power so we can get these power lines for miles and miles and miles
+What do you think I mean was it was tesla did he have some sort of
+Form of of autism or asperger's
+Where he where he didn't was like a very inclusive couldn't communicate. Is that the same I read a book on tesla's
+and it was by margaret something it was like a biography and
+I couldn't tell whether
+She was just like overly enamored with him and was sort of sensationalizing the stories or what it was
+It was sort of like a fictional retelling perhaps
+But she would describe him as being a person who would come and sit at dinner
+And he would like separate all of his peas to one side of the plate and put his cup here and his you know
+Silverware perfectly straight like this meticulous sort of yes demonstrating autistic type tendencies versus like obsession with detail
+Obsessive compulsive, etc. Right. So she did describe him that way
+Um, so if we want to take that as evidence or truth then I would say yes
+Right. Yeah, I find that fact. I just for some reason. I personally find that fascinating how like certain people who become
+You know turn into somebody like niggalite tesla who's who's so successful in one field like that. I always like
+am
+interested in their brain and like like the the
+Autistic
+Asperger side of people. I mean, I know people who have that and they're just like they get so focused on one thing
+It's like, you know, you have no choice to become the best in the world at this one little thing
+And then when it comes to having a conversation with somebody on the side of the road or
+relative, it's like
+You can't say two or three words to their
+50 words and it's not only the dedication but oftentimes, you know, autistic people have a disproportionately large amount of
+Neural capacity dedicated to that one thing
+So, you know while we use all of our brain for all of these things oftentimes people with autism
+They use a significantly larger portion of the brain for one specific task and that's why they've been
+You know
+associated with doing cool things like synergism where they like see and feel colors and senses all their senses mixed together
+And you know when somebody hears numbers they like the numbers have personalities to them and they like see and they have colors
+Etc, which is I agree. It's entirely fascinating
+But it's actually an interesting little nugget of truth under that and that is, you know
+The difference between mediocrity and greatness is just discipline. Honestly
+They have a little bit of a leg up because they have, you know, allegedly a larger
+Computational resources available perhaps, but you know, you take two people of varying skill
+One person's dedicated all the time. The other one's not you already know who's gonna be more successful
+It's really what it comes down to. How would you define discipline? Like what what creates discipline?
+What is discipline? I'm sort of an I like discipline. I like enduring hardships
+And no, that's what I would call it. I would call the willingness to endure hardships
+Right. Yeah to subject yourself to endure hardships and what makes somebody good at discipline
+Practice practice. It's literally it's just learned it comes with confidence and time and confidence is built by a few string of successes
+You just do it over and over and over again
+And then you start to associate the positive benefits of that enduring hardships
+And you start it's like a drug you become addicted to it runners
+Runners experience is kind of a thing, you know, you first go running for the first few weeks and your body's like what the hell you doing to me
+Man, oh, this is right. You don't want to go. Fucking fasting. Yeah, but after a while your body's like, oh wait
+I feel real good. I'm getting a lot of endorphins. Like this is good. You keep doing this
+Yeah, you're incentivized to do it more. So just practice man. It's everything
+What's something that I mean, can you give me an example of something that you've taught yourself to be disciplined?
+I mean, well, I mean, is there a difference between teaching yourself to be disciplined at a certain thing or general discipline?
+I don't think so. And so for example, I've tried to make a bunch of my
+Lifestyle choices revolve around training my discipline. So, um, I would take cold showers, for example, something that's not really enjoyable
+I sleep on the floor instead of a bed, you know, things that really sleep on the floor every day every night
+I have a girl here now
+She doesn't like sleeping on the floor. Well, she kind of sleeps on it. We have a happy meeting. We sleep on a beanbag bed
+So really in the morning. Yeah, I don't know in a bed. So why is this?
+Discipline it's just a small little thing
+You just sleep on the floor you wake up in the morning and feel refreshed and I don't know
+It's just part of training that mental discipline. So there's no there's no reason like
+Wait, wait, wait, wait, wait. It's discipline. I understand. But what's the benefit of
+What's the the physical it's good for you. Is it good for you?
+It has been observed that usually it's pretty good for your back, etc
+If you're willing to do it because that sounds like it would hurt that's what I was trying to say
+Yeah, I mean, I don't really know the science behind it to be 100% honest
+But I mean you can find evidence supporting whatever your ideas are, right? But so you found enough evidence
+That you think it's good that you think it's good. No, maybe not. I'll be honest. I gotta I gotta confess
+I don't but you're trying it to see if it's good then. I'm just doing it because it's hard
+All right. Look, so you climb you climb a mountain. You're just doing it because it's fucking hard
+You don't know if it's good or bad for you. It's simply discipline. It's just I'll tell you why I guess that happened
+I was in graduate school. I was coaching a boxing gym
+And you had to coach in the evenings I did research from like eight to five and then a coach from five to nine
+And then I go back to work some more and do some more things and I was in the lab until
+Two three o'clock every night and then I had to get up early in the morning and do it again and one day I was like
+Why do I I always have to go home like why do I go home? It's a bed. That's really the only reason
+It's like such a ball and chain like a shackle. I'm like, you know what? I'm just gonna go to sleep right here
+You just roll the chair out and you just lay on the floor
+You know such a liberating feeling like you can just whenever you get tired to think about it like when you're tired
+You're like, uh, yeah, I gotta go home now. Like why you know because you feel like that's where you have to go
+Right for some people that's fine. But I enjoyed the liberating feeling and the discipline of you know sleeping on the
+The floor was worth it for me. But here's an example like let's say you climb a mountain. Yeah, why do you do it?
+Yeah, it's fun. It's cool. Whatever. But you get to the top
+It was really hard and then you go back down and now you experience something else in your life
+That's hard. And what do you say to yourself? You're like, I climbed a mountain. I think I can handle this, you know
+That's why you just you just put a success right there and this builds confidence
+You now have a landmark a flag to compare the rest of your
+The rest of your challenges to you know
+So if you can challenge yourself to do something that's really hard and you can overcome it then and you can do that
+Doing multiple things
+Then you'll have the confidence to know if you come to another bridge that you think is going to be hard to cross
+You'll have the confidence to do it and you know you can do it because you've done other things and you know
+It'll be easier. Yeah, and and what's interesting is it becomes less
+And that builds a general discipline across all family and once you have the general discipline is no longer a choice
+It's who you are
+Right. So I think there's a quote Benjamin Franklin. Maybe he says, uh, you know greatness isn't born
+Greatness is learned you every single day when you're faced with a decision
+You say what would a great person do now?
+And then you do that until the day comes where you no longer ask yourself what a great person does
+You just do what comes natural as being a great person
+And so that's kind of how you think about discipline. You endure all these hardships, etc
+And that's just like your mind. That's who you are. Someone's asks you to do something and it's hard
+You don't think that it's hard because you're just like, oh easy. I've done. I do this stuff all the time, you know
+Yeah, that's fucking fascinating, man. But wow, why the beanbag?
+Why the beanbag? I'm curious. I I'm I wonder why the beanbag because we
+All right
+So the reason is because I slept on the floor and I didn't have a bed and I would always have like family and people come visit
+And I needed something for them. So I got this big beanbag that zips into a bed when you lay it out
+Okay, I've slept on beanbags. I used to have I bought two really big ass beanbags in my apartment in st
+P. They are I used to sleep on those at Danny's house. It was too big
+A lot of people slept on those things. All right. So there we go. It makes a lot more sense now
+That's cool. What are some of the other things that you've taught yourself discipline?
+Some of the things well, I stopped doing it recently
+Well, no, it's still halfway there
+But I would set my watch to a different time and wear it upside down
+Right. So I just every time I want to tell the time I have to do like a little mental arithmetic real quick
+And like tell the time backwards and it's just little things that strengthen your mind
+You brush your teeth with your left hand instead of your right hand
+Get your brain used to doing different things take a different route to school or work each day
+You know, just always expose your brain to new things. You're not like stuck in a rut. Wow. Um, that's interesting. That's fucking awesome
+I love that. I'm gonna try some of these things. Yeah, I just have so many ideas and stuff. That's crazy
+Yeah, let me know if it works for you, man. Yeah, let me know how that works out
+I will I'm gonna get lost on the way to work get fired from my job
+I'm trying to tell the time
+I'm brushing my teeth while I'm driving to work on a new route and I'm like trying to do it all at once
+The cops pull me over. They're like, why are you brushing your teeth with your left hand?
+And where are you going? I don't know where I'm going. I'm just trying a new route to work
+I might try it. Wow, man. Yeah, that's incredible
+I mean, I think if you think hard about your life, you probably subject yourself to some hardships unconsciously
+Yeah, you know, I mean in the common day-to-day things that you do
+There's something that you want enough that you voluntarily put yourself through a hardship to get it
+And once you identify those things you can just exercise them a little bit more and you say, well
+Yeah, I was gonna do this thing that was hard
+Now I'm gonna do that thing and then do five push-ups every time before I do it
+Just whatever small little things challenge yourself, you know for me. It's like I personally I feel like I've always trying to find like find
+What makes up some days when I wake up and I go through a day and I feel a fucking great full energy
+happy talking to people like
+Super energetic and then the next day I'm just
+Pissed off in a bad mood. I feel tired slow. I want to figure out like what makes me
+Like the first day and not like the other day
+So I like constantly tried to figure out like what patterns
+You know, what what path I took that one day and what I can replicate to make that thing happen again
+And I feel like I've never been able to figure it out. Well, there's there's a great idea
+And there's a lot of truth behind that. I think that there do exist some some general norms, which are good ideas
+but besides drugs
+I took a
+Systems biology course
+Yeah, and it's the notion of like studying the whole body as a system and each component is communicating with other components via
+You know dna of transcriptions, etc. Messengers and proteins all communicating
+You try and model this phenomena to see how things happen
+And for example, one of the phenomena that we studied is like the sleep wake cycle
+There's a certain part in the brain and that sleep wake cycle gets trained and tuned to the amount of light that we're presented with
+Which is why we're trained to get tired at night and stay awake during the day, right?
+And the idea is that
+There is just so much going on
+You're just not going to figure it out, man. There's just like randomness. There's just hormone random changes
+The weather changes you can't control that and for whatever reason some
+Uh, some bacteria or something flares up
+But not enough to make you sick but just enough to like make some hormonal response like stuff you can't see just anything
+Exactly. There's a few good rules of thumb eat healthy and exercise and sleep
+But that also that also pisses me off too because there's this one guy
+I know who's extremely fat and overweight and doesn't take care of himself
+I know he doesn't get as much sleep as I do and I know he doesn't do he doesn't exercise doesn't go to the gym
+And he's always got 10 times more energy than I do. You're like, why am I tired?
+I went to the gym 10 times this week. All I ate was broccoli and you have 10 times more energy than me
+Why is it genetics? Is it like, you know, it's weird. It's just a drive. He has to get that money
+It's discipline, man. Yes. I don't know. Yeah, there's a lot of truth behind that. I mean, there's just
+Discipline there's just a genetic disposition
+Yeah, who knows man
+I wanted to ask like what are some cool projects or things you've worked on like so
+What are some of the coolest stuff you've worked on or seen or like, uh
+Or whatever something like that
+something like that
+Uh, let me think about that one. That's a little tricky
+So can you narrow it down for me a little bit like I don't know like you say so you we're working on the
+9-1-1 calling thing or whatever, you know, whatever that is called program or whatever
+So like what are some of the things you've done over all these years like really cool
+Projects or things you guys came up with or like what are some of the things that stick out in your mind some of the fun
+The more fun exciting things that you like
+Yeah, unfortunately the majority of my research is kind of like more theoretical and philosophical
+So it hasn't been to apply to some more like, you know, what is learning?
+What is memory etc, but you're gonna get roasted for that question, by the way
+That's right. So maybe it's maybe it's things like you figure down or algorithms or whatever it is
+But in business you got to apply and nobody's gonna pay me to sit in a room and think right
+Let's have for the government and they don't even do that much anymore either with grants or it so
+Uh, we got we got a business and we have things so I can tell you about some of the stuff
+Some of the other things that we that we've done there
+So in addition something else that we're exploring right now. Let's see what else what's cool. All right, so
+The department of transportation is very interested in uh safety and maintenance of the roads highways bridges, etc
+So there turns out that there's some civil engineers who have just
+Myriad is a plethora of all kinds of data on this, you know
+They have speed bump sensors on the highways which measure the width of the axles the speed of the cars
+whether there's a trailer or not just all kinds of things and uh one thing that you might have heard
+There was a bridge that actually fell recently and it was a lot of deaths and injuries and there was a crack
+Like a full two inch crack in the bridge a few days before that people weren't observing
+So they had this big new initiative where they had to take drones
+And the drones are flying around these bridges and just taking pictures of all these things and monitoring
+You know what the bridge looks like but now they've got hundreds and thousands of pictures
+And what are they going to do just sit here and watch these videos all day every single day
+So we develop a machine learning algorithms and techniques which will
+Isolate and detect where there are cracks or damages and the degree of the cracks is as degree one two three four five, etc
+And that can uh, you know save lives and that's a really boring thing, isn't it?
+No, that's actually very fascinating because I work construction
+So that like kind of hits a certain spot that makes made some sense to me
+But like how do you so how do you come up with something or how do you implements?
+You just code some sort of program that
+Learns this thing and yeah, so I mean most machine learning algorithms have uh, they all follow the same formula
+Okay, you have a whole bunch of data. Yeah, you pass it through some
+For the sake of this conversation a black box and they're all network and it makes a prediction
+Yeah, all right
+Then what you do is you take a look at this prediction and you say whether it was right or wrong
+Or or rather how far away how far away it was from what you wanted it to do
+Then you do the most complicated thing and all of machine learning essentially and that's you
+Calculate the the error rather you use an algorithm called back propagation and that finds
+How you change the black box such that if you present that same
+Image or piece of information to it again the output will be closer to what you want
+And that's it. So you give it something it makes a mistake you go
+You made a mistake do it a little bit better this way present the same thing and it'll do it better
+So with those images we just show it all the images and it's just it doesn't know anything at first
+It's like a baby. It's just just touching things and guessing making all kinds of mistakes
+And we just inform it little by little. Well, this was wrong. This was right
+And then it starts learning those features that we talked about what are the features of a crack
+It starts learning to extract those features that define what a crack is and now it's presented with an image
+It's able to identify cracks
+Man, that's so crazy. It's cool. Like it just thinks for itself. It's just
+I don't know. That's so crazy. Well, no, that's that's actually a really important part, right?
+So these things that do really cool stuff
+They are super narrow like, you know, you go to a bank of america atm
+And you put your check in and it scans it for you automatically and detects, you know, and it seems super cool
+That that's all that thing can do that thing's not going to go outside and learn to play basketball or do your taxes, right?
+I mean, that's the notion of transfer learning and that's like one of the holy grails of ai that we've been exploring
+And we're very far away from really understanding that wholesome way
+So these and that's one of the things that I'd like to just sort of share with people is
+You know, it's okay to be afraid of, you know, ai and it's what it can do in the future
+But just remember we're really far away from any sort of terminator things happening and for the very far future as far as I'm aware
+Anytime we're doing any research with any ai that has the potential to do scary things
+You just unplug the ethernet cable. Okay. Yeah, so if it ever goes rampant or does something amazing
+All you got to do is unplug the computer, right? But as soon as you have a plugged into the internet
+Then allegedly I agree with the the concerns that are there, right? If something's like self replicating it gets into the internet
+That can be really dangerous no doubt
+But that's why we just exercise a little bit of discipline and restraint and unplug the ethernet whenever you're doing, you know
+Advanced ai research no big deal. Did you hear about um
+The face when facebook was creating that a new ai
+Uh, I think it was for customer support that was supposed to talk to
+Facebook users and try to like be
+act as a support for
+Facebook
+um, and it was an ai
+And I believe there was two different ai's
+Yeah, and they created their own language. I'm really glad you brought that up
+So that's that's like again one of the the problems in ai's sensationalism
+They didn't invent their own language and it was
+It was advertised that way and it was nothing even remotely that cool. Um, so really yeah
+So we're that's one of the and but that's one of the problems is what are you gonna do?
+I mean you're a consumer and you're supposed to trust the people giving us news and that's one of the problems
+And this genius forest over here. He's the one who told me they created their own language
+I was like blown away by it. The news article said that and it's cool to talk about
+All the news articles did say that yeah, so in their defense in his defense and everyone
+I mean, what are you supposed to do? You're not a machine learning expert
+You're not gonna like go and read the papers and the reports and look into what it meant
+So you're saying that they did not create two ai's did not create their own language define their own language, right?
+I mean we feel like they're in there like conspiring against mankind and humanity and they they advertise it that way for a clickbait
+You know, but what actually happened then? All right, so the the details. I don't exactly remember. It was a little bit ago
+Um, but in a nutshell, I mean the idea was basically that
+They were sending signals back and forth in a certain way that it seemed as though the responses were predictable
+So it sends a certain signal and then it interprets it and responds in a way that there was structure and meaning behind the things going back and forth
+It's not like we
+Discovered what they were saying and they're conspiring and they have their own language
+They just found patterns in the signals that they're sending back and forth with each other
+Just as much as the image acquisition thing I described you earlier is going to find patterns in what defines a crack
+They're just doing what they're programmed to do find patterns in the sensory input. That's all any intelligence system does
+But were they were they initially programmed or expected to communicate in any form with each other?
+I don't know the details of the full experiment. So I would have to exercise some academic
+Restraint here and right right right outs and not say what I don't know. So yeah, yeah, either way
+I mean, it's still pretty interesting to find out, you know that they were they were communicating in a way that
+They didn't expect them to and it was a I but who knows it could have just been clickbait headlines
+Yeah, yeah, I would for now I would um caution that is being clickbait headlines and
+unfortunately for the the unforeseeable future we all have to just suffer from that because
+We're not all experts in everything. You see someone. Oh
+Eating a piece of chocolate
+Makes you healthier and drinking a glass of wine. You see all these studies which are based off of poor statistics
+Which then some I think ah man, I remember who was like owl roker or someone he was like on some news thing
+It was super embarrassing. He's like, well, yeah, you know, I think what the thing is nowadays is you just you just find
+Whatever scientific publication supports your own beliefs
+Yes, I was like that is the exact opposite of what science is supposed to be
+Yeah, you don't just cherry pick evidence to support your own convictions
+It's the exact opposite
+Scientifically minded people change their own convictions based on the evidence
+You don't just go find evidence to make you feel good about what your own ideas are, right?
+Oh, yeah, yeah
+And so what are you gonna do when the people who are advertising the news think that way? That's crazy
+It's unfortunate. You think there will ever be a shift in like I hope in general population understanding this kind of stuff
+We're gonna keep championing these these ideas advertising just as many people as we can
+You know, maybe people start thinking differently. I think you should be president
+Anything. Oh, yeah. Hell. Yeah
+I'd vote I would never want that much responsibility
+But it would be good. Maybe you can clone yourself
+I already have a clone now because I'm a wait. I'm not a cyborg. You ever thought about cloning
+Yeah, of course, that's funny because then I can make an army of me and take over the world. Everybody wants to do that, right?
+For sure. Yeah, or I could uh
+Yeah, I mean there's lots of lots of fun entertaining things that can happen with cloning. What about um, what about elan musk's neural net
+I forget what it's called, but that's the
+Basically, he talks about on a phone. You're only output is your two thumbs and with right this net
+I forget what with the exact word for it is
+Yeah, I heard about it and uh like over your brain or whatever and basically you like live in facebook or you live in social media
+Super suspicious of it. It sounds like a great idea and I am super happy. What does it call it again? Neuralink. Yeah
+Neuralink neuralink. No, I'm really happy that he's someone's got to start doing it
+No doubt and it's a great idea and we'll get there eventually, right? Yeah
+But you know because this is the the fundamental technology behind that is very similar to what I was sharing with you before about
+Putting ideas in someone else's brain. You have to know where to send the stimulus
+You have to learn patterns in the electromagnetic, you know waves that happens as people think map these to some sort of functional output
+Like it's an incredibly difficult complicated task. Yeah, but we can do it. We've done all we went we went to the moon
+All right, we can do all kinds of hard things. So yeah, I like that. He's doing it
+But I don't think that's going to be happening anytime soon
+You don't seem to be you don't strike me as a big fan at Elon Musk
+Um
+I think he's doing really good things for the world and I am
+Very supportive of his missions and his ambitions
+Um, I've just read a little bit about him and he doesn't he doesn't really really intelligent things
+Like he surrounds himself with experts
+He knows what he doesn't know and he surrounds himself with experts and he's well informed
+Because he's humble and I respect that however
+Um
+But this is the case with pretty much anything as I think there's hundreds and thousands of people who can do his job better
+And most of his position is just luck and I think but that's the case with most everything in life
+I mean people who are where they are think about what their true qualities are such as your friend
+Who's really wealthy, right, you know, I don't think there's any really distinct characteristics that make one person shine
+Phenomenally more than other people. There's hundreds and thousands of people with the exact same characteristics
+But their life circumstances were such that I know they were born in Africa
+And for whatever reason they just can't come here and be awesome and champ and take over these things, right?
+So, um, and when I look at him, I think he's great and I like what he's doing
+But I just I'm sort of against I guess sort of the
+Um, the idealization that people have sort of made him to be like, oh, he's the big savior of the future kind of thing
+Right, right because I think that uh handicaps ourselves. It makes you feel like you can't do it or something
+He's just a guy who works hard
+Surrounds themselves by experts and got really lucky and anybody else can do that too
+But I still think what he's doing is great and I respect him. You know, I have nothing bad to say. I just yeah, yeah
+Yeah
+Do you ever think that you'll
+be as
+world-renowned as
+Elon Musk? I don't think so. Uh
+Yeah, I know I'm I like, uh, I don't know
+I just like simple things like sometimes I just think about like going out to just like a little farm or a small little village somewhere and just
+Helping people teaching math and some school and just like laughing with people and loving and feeling life a little bit
+But then sometimes I wake up and I'm just like I want to go climb a mountain conquer the world
+Right, so it's a tough balance to be able to find us right for us
+But I I'm not a hundred percent driven and just ambitious to step over people and change the world
+That's not me. I'm a little more of just uh, you know, like try gun like vash to stampede
+That's my guys right here
+That's the kind of guy I want to be you just want to live a happy life and make up this better and that's kind of what I want to do
+You know, so
+If it happens
+I'd be cool. I'll embrace it to try and help the world in whatever way, but I'm not really working for anything like that
+You know, yeah, it's not my ambitions. That's cool, man. That's really interesting. What do you guys want to do?
+It's a good question. It's a good question. I don't know what I I've always kind of wanted to do the same thing
+I bought like my only skill has ever been
+kind of like
+You know making videos with my friends when I was a little when I was younger in high school
+All I did was run around I ran around skateboarding with a video camera almost downed with what you've done here, man
+It's really impressive. Yeah, it impresses me even because I've known Danny since back then
+I knew him. I'm impressed that he did
+I'm one of the autistic people who stuck with the same thing since all I ever known and I just like I was on that path
+I had so much momentum. It's like why
+God
+Going another beautiful man was working for you
+Right. He found the part he was good at, you know, he wasn't always the best
+BMX or skateboarder
+But he was the best at filming everybody and putting it together and editing the videos together and it just yeah
+It worked out good
+And it's transitioned more into making it look cool to actually providing valuable context
+Very good. Yeah, because you got to limit society, right?
+So you got to find some way to make what you do valuable to others
+But I really like that you mentioned this right at the end because I struggle with this sometimes because I have friends out at
+You know facebook and google and they're like Nathan you got to come out here
+And you'll be challenged and you'll grow so much more and you'll really thrive out here
+And I have absolutely no doubt. I mean I've been out there. I went to the google brain project
+I've met some of like the astounding google brain project. Yeah, so it's a research group at google that does ai
+You know, I've gone there and that with them talked about them my research their research and
+It's these people are astounding. They think in ways. That's amazing and I love it
+but
+I think the notion of success is a little bit conflated in our world with
+Just status and prestige, right because for me success is just watching others
+Grow and and succeed. I like to teach. I like to share what I'm passionate about
+I like to just help others
+And so for me
+If I went to a small little village and just saw some people's lives, you know flourish and watch them be really happy
+That'd be success. Yeah for me. And so that's why I like what you're doing is
+You know, you know, whether you learn one thing or many things you're happy with what you're doing
+You're making a difference for some people and I mean, is there any other way to really define success other than that?
+Yeah, well, I mean it also has a lot to do with with your early life, too
+I mean like how you you were developed as a young kid like what you're
+What you were put up against growing up, right? I mean if you
+I mean, did you grow up with siblings or anything like that? Or were you an only child?
+I had two siblings. I was the youngest. Do you think um
+That had anything to do with how you turned out like with what you wanted to do like learning science or getting learning all this stuff like
+Like being better than your siblings competitiveness like a lot of times like how people grow up
+I feel like that has a lot to do with how they how they end up or the path they take
+There's a lot of psychological research behind
+Children and and where they fit in
+And you know
+There's correlation between being the middle child and being the troublemaker and then being the youngest and then needing attention
+And then being the oldest and then yeah, you know being somewhat altruistic sometimes because you have to help the younger siblings
+So there's all kinds of like a little interesting correlations none of them are absolute or anything
+But I would say that that evidence is enough to say absolutely you're up bringing the number of siblings you have in your position
+Among them is going to significantly
+Modify who you become and what you determine is success, right? Absolutely. Absolutely
+Well anything else we should cover. I mean we've been on there for like an hour and almost two hours now almost
+Yeah, probably about close to it. This was a good. This was good man. Yeah. Thank you
+Everyone who stuck through it with this is one of the best discussions. I think we've ever had yeah
+I can't rate rewatch this a couple times. I'm gonna watch it a hundred times
+definitely, man, I'm really
+honored and
+Grateful for the opportunity to share what I love. I'm very passionate about this stuff and it's nice to be able to have a
+You know a platform and a microphone to share what I love absolutely
+Yeah, man, I would love to have you on here again, you know eventually, you know next time you're down here
+Some cool shit you're working on down the line or yeah some new shit that's going on 2019 is lining up to be a very busy year for us
+We have a lot of contracts on the line. So awesome. Really? Yeah
+Yeah, everybody new Psy labs new Psy is a company in Tallahassee if you're looking for any data science or machine learning
+Services if you'd like to get insight as a service as we call it
+Please reach out to Nathan at new Psy dot co or google and contact your guys here. We'd love to offer some services
+Awesome. That's awesome, man. Cool. Well, thank you, brother. Yeah, my pleasure, man. It's good to call you a friend, Nathan
+Thanks, buddy

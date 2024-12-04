@@ -1,0 +1,1018 @@
+So if he's right and Jason Badoon is right, 70% of what we think is authentic Paul is not, it's not Paul.
+That's some dude pretending to be Paul, writing under the guise of Paul. Right?
+If, if, if Badoon and Vincent are right, then people like Bart Ehrman are reading or James Tabor are reading Paul's letters
+in their form that comes from around the 140s and treating that as if it comes from the 50s.
+They're a hundred years off. Right. You know, and they're getting, and they're treating 100% of this
+Paulian content as if it's Paul when only 30% is. Well, hello, everyone. Welcome to another live stream
+of History Valley. And today I'm joined by Derek Lambert from MythVision and Dr. Mark G. Bilby.
+And today we'll be discussing how the digital age is transforming scholarship. The pros and the cons of
+that and the cons has to do with more issues with platforming, perhaps on certain websites
+and what the implications of that might be. And we'll take it from there. So thank you both for
+joining me today. Can't wait to discuss this. Thank you, Jacob. I really appreciate you, man.
+Of course. Thanks for having the conversation, Jacob.
+So V, I want to start with this question to Mark and then we take off from there.
+How exactly is the digital age transforming new testament scholarship today?
+I think you guys are at the front lines of it. There's a lot of, you know, there's a lot of work
+that's gone on for the last 20 or 30 years in New Testament studies using technology,
+the Q project had databases that it created teams out of Pontifical Biblical Institute or
+University of Pennsylvania, they created digital editions of the New Testament back in the 90s
+and did, you know, massive like analysis, turning them into like lemmas, like the root words and
+part of speech tagging and all that. But now that's that's happening on a massive scale, right?
+There's there are huge projects to like transform the primary sources into really rich digital
+editions around the world. I don't know if you've heard about the project, but there's one called
+the universal dependencies project. And the idea is to richly tag all language, all historical
+language samples, and then be able to tie those things together. And and programs like chat GPT,
+the large language models, they use that this deeply interconnected multilingual data that's
+connected on, you know, terms like this term means this term, but also on syntactic the
+syntactical level, like the structure of language. And that allows these large language models to
+perform in a much higher level. So there's a ton of stuff going on behind the scenes. Not all of it
+is in New Testament studies as as such. But but you know, and New Testament studies, you know,
+lags behind a lot of, you know, the technological innovations that are going on in computer science
+and these sorts of areas. And how does this make a scholastic work on the New Testament more easily
+accessible to people if you could elaborate on that? Yeah, well, right now, honestly, the the
+the main issue is a lack of accessibility. And again, I think that's where the work you guys are
+doing is so important, because it's open. A lot of religious studies publications are not open,
+and they're not affordable. You know, if you publish with the premier academic presses, and
+many of your guests have done that, those volumes are often available only in print. And they often
+cost two or 300 or more dollars, you guys have probably seen this with your guests, like sometimes
+it's just not affordable to get access to certain books. So and I encourage them. And I know that
+this is like a lot to ask, but I encourage all the academics who only have their publications
+through these scholarly presses, whatever it may be, like Rutledge or you name it, to write a
+popular level book outside of it. And I know that they're like, Oh, man, there's some clout, there's
+almost like a social clout that comes with it, that I don't know about, because it's not my
+experience. I didn't go through the rigorous avenues that they do and have a certain persona
+they need to carry. But I tell them that because there are there's a lot of income, first of all,
+that they can make that is going to help them. But it also is kind of not affordable. Get us a
+$25 book and I can sell you 1000 of them from 1000 fans that'll love you more than 90% of
+your students that sat at your feet at these institutions, or we can sell you five to 10
+at $100 a piece. They're selling the libraries. That's what's ended up happening.
+That's right. That's exactly right. What ends up happening? I worked in libraries for eight years.
+And so I know behind the scenes how the economics of publishing works and on the publishing side.
+And most academic books have very minimal print circulation. And then they get scooped up in these
+digital packages. But even those have very restrictive rights about who can read them.
+So, you know, somebody like me went with my dissertation at UVA. It took me years to do
+that research, write it, got it published with the prestigious academic press, University of
+Strasbourg, old, very prestigious university in Europe, and yet probably altogether 500 copies
+of it were printed. Most of those are purchased by libraries. And then, you know, for academics,
+it's a good book. But in terms of broader readership, it's very limited. And people,
+you know, in many parts of the world, they can't afford, you know, it's $55. But even that's beyond
+the means of a lot of people around the world. So one thing I did, I was in my previous job,
+I was an open access advocate, I worked with an organization called Unglueit. And so their job is
+to flip individual books. So you can take any book. So I did this with that particular book by
+University of Strasbourg, which was printed, published by a press called Brepples, which is a
+very, you know, prestigious old publisher and religious studies. But we basically ran a campaign.
+We got a pre-agreed amount. So it was like $3,500 that Brepples would get if we raised that money.
+And then the book would become open access and digital. So, you know, essentially with $3,500
+with a group of people pooling their money, you know, it's through donations, like friends of mine,
+I donated some. But by putting together $3,500 and working with Unglueit, we were able to take a
+book that would be beyond the price of most people and then make it free and open for the whole world.
+Right. So more and more presses are doing this, like UC Press, MIT Press,
+they have massive open access. Rice is doing this. Rice University has a movement called Open Stacks.
+So they're publishing open content. But most religious studies publishers are not and they're
+not keeping up. At the same time, some religious, you know, DeGroeter is a big religious studies
+publisher. They just scooped up a press called Ubiquiti Press that published somewhere in the
+neighborhood of 100 academic journals, all open access. So the big publishers, the Elseviers,
+the Springers, they're buying up a lot of these smaller open access presses because they see
+that's where things are going. There's massive open science movements happening in the U.S.
+and in Europe where the public to, you know, you get Gates Foundation money, you have to publish
+that openly. But in religious studies, we don't depend on the big grant funders for our research,
+you know, or the government for our research funding. So often we don't have those same
+requirements. And so we live in this little bubble, you know, in religious studies publishing,
+where we're just not, we're not participating in these larger open access, open science
+movements and trends. And that just means that we're stunted, like religious studies
+publishing is stunted. And that's where you guys are like catalysts and change agents and disruptors
+to actually to change the economics of religious studies publishing for the better.
+You know, like there's people like Bart Ehrman, they can make a lot of money in mass market
+publishing. But then 99% of academics like Richard Miller, you know, you just interviewed,
+you know, those great interviews, like his book published by prestigious press, like,
+what was the print circulation of that book? Exactly. Maybe a few thousand before you started
+highlighting him. Now that you have highlighted him, my guess is that the demand for that book,
+both print and digital just went way up. Yeah, I'm with you. And look, you know, getting into my
+philosophy or kind of my motivation, like, why do you do this, Derek? I started this and I'm sure
+that, well, Jacob knows this, Jacob knows this. We, I'm going to call it going back to our fringe
+days, right, Jacob? We were interviewing, like, Jesus was the son, the grandson of Julius Caesar.
+I mean, like we were doing anything and everything and just kind of like into conspiracies and just,
+you know, French stuff. And what we've done is we've become more almost like formed into students
+of academia through this avenue of interviewing these amazing brilliant scholars who are convincing
+in their, in their rhetoric, in their, in their argumentation and the evidence they're presenting.
+They don't agree with each other, which is also really cool because we're actually getting,
+I feel like we're getting front row C access better than, like, you're going to get much more,
+I'd say, personal information if you were actually at the feet of some of these scholars.
+But like, if I had listened to Bart Ehrman, and then I can go and listen to M.D.Lewin,
+then I can go and listen to Richard C. Millen, then Elaine Pagels, and then Paula Fredrickson,
+and then the list goes on. You know, how often are students in these, these institutions
+actually getting that balanced critique of all the different amazing scholars right there?
+The people viewing it online are getting the greatest access. Yes, they're not going as deep.
+They're not getting into necessarily the sources as often. I mean, they go as far as probably some
+of them as we present. So if we present a source, they're going that far. Some might go a little
+further. But back to the motivation and philosophy to simply put, I, here's my little faith. I really
+believe that if more people on planet Earth actually were educated on material like this,
+classics, you know, humanities, science, everything across the board, religious studies,
+you name it, a lot less hate, a lot less BS that we see going on in the world.
+And I told this to my mom, like the way we, we have these us first, them kind of boundaries,
+we would be more sophisticated and expand our borders. This is just my, my two cents. So
+I think we're doing humanity a big service, but it all started with like me, Colin Jacob,
+after I got done working construction all day. Hey, bro, you want to do an interview? I'm tired,
+but let's talk about that weird book that guy wrote. And then we talked about it. Eventually,
+it became a life of its own. And now we don't even have control over, I mean, we do, but we don't,
+you know? Yeah, yeah. What you just talked about reminds me of like medieval university education,
+right? The idea of the university is that it is universal, right? That it's a community that's
+all inclusive for people to go from city to city. And you would be able to study universal language,
+universal, you know, the universe of languages, universe of knowledge. And so it was an ideal,
+like in the Middle Ages and up to the 19th and even early 20th century for students to go from
+university to university, you know, spend, spend a semester here, spend a year there, then go and
+spend a semester over there and go under the tutelage of that professor, right? And we become
+more insular and isolated in academics in the last 50, 60, 70 years. But if you look at a lot of
+the greats from 100 years ago, 200 years ago, they were at many different universities. And what
+you guys are getting and what you guys are in some ways making possible is this kind of
+global university kind of education, honestly, that is beyond what anybody will get by going to
+any single university. Like I recently came across Richard C. Miller just to kind of highlight
+something interesting. Yeah. You go online and the biggest proponent against mythicism, for example,
+would be Bart Ehrman. He's the most well-sold books, outspoken. Every Christian uses him,
+of course, because he's an atheist who then shows Jesus existed. And while one might agree
+with him on that, I tend to agree there was a guy. What he really did said, etc., those are
+different questions. But the argument is Richard C. Miller called it argumentum ad bartum.
+And so it's like, that's cool. Learn what Bart says. I do not discourage anyone. I really,
+I work for Bart. I mean, I'm a subcontractor for his courses and his podcasts and all that.
+But like, I encourage everyone to learn from Bart. But I also talk to Bart's students.
+And David Lillo was one of them. Ian Mills was one of them. Ian Mills lives north of
+me here in Washington state. And I plan on linking up with him again. And I ask him,
+hey, is Bart outdated on some of his stuff? He goes very outdated on several things. And then on
+some things, he's up to speed on. But there's some things he's just dated on. And this is his
+own students who were literally right there under him, who got to see that, okay, we've learned some
+things in the last 20, 30 years. And that's why I encourage people to do it is, you know, to keep
+hearing different arguments and not see an idol figure in their life. Oh, this is the man. He
+has all the answers or the woman who has all the answers. No, like, it's all a learning process
+and we can continue to grow together. I completely agree. Yeah, Richard and I talk about that on
+the phone as well. Just like the idea like Bart Ehrman is kind of the unelected president
+of New Testament studies. And he tends to, whether he wants to reinforce this or not,
+other people tend to cite him. And then that's it. There doesn't needs to be any Bart said it
+enough said hallelujah. Yeah, yeah. And for academics, you know, like I mentioned this
+with Richard, one of my academic specialties is the good thief, the thief on the cross,
+and how that story has been interpreted through the century. So I've spent literally a decade of
+my life researching that story and how it's been interpreted and various apocrypha, like legends
+about it. So if you go to Wikipedia today and you look up Dismas or the good thief, you'll find
+Bart Ehrman cited twice, because he's written a chapter, right? And or he might mention the
+good thief once. You'll never find it. You won't find any of my like extensive, well, you know,
+yeah. And that's just that's that's the problem we're dealing with here in academics is you have
+name recognition. And then that kind of overshadows. Yep, that's the problem. What you guys are doing
+is surfacing people who are making important contributions to scholarship and whose voices
+need to be heard. And you're diverse, you're helping to diversify the discourse in really
+important ways. There's two things we can't do way more. But I want to aim in that and just say
+Jacob and me, this is the problem we ran into Mark is so we love the big guys, the big girls,
+we want to interview them, they help get attention, they help grow. But I have said from day one,
+which is why I'm doing my courses, my MVP courses, I do my courses to help get the little guy, the
+little girl, the clout they deserve the hard work that they've done that gets buried by the popular
+names. It's almost like I said this the other day on a on an episode with Richard Miller, I don't
+know if I published it on Patreon yet, but it was like, pretty much how Christianity buried,
+how important the Caesars really were. I mean, you got to become a classicist and really dig
+beneath the Christianity to see how significant these figures were that they've many popular
+people have buried kind of the more serious, rigorous specialist in their particular subject.
+And they know how to pick those specialists, quote them or use some of their their words,
+make a popular level book and then boom, you never heard about the person that they're using
+in order to get that workout. So Jacob's been doing a great job on even better than I have,
+actually, on getting a much wider variety. I've been cautious because personally, I don't know
+if Jacob's able to read a million books in a week. I don't want to go in unless I've read
+some of their work, because I really want to be informed on whatever they they have before I do
+it. He's immersed in all this material all the time. So I don't know if he needs to even,
+you know, read it before he goes into the conversation. But we're doing two things differently.
+But I think we're accomplishing the same goal.
+I like to interview scholars that have just like you do with different opinions like, okay,
+does Q exist? Does Q not exist? Which order of the Gospels do you think?
+Do you think it goes like recently I had Thomas Longstaff on and he goes with a Grisbach hypothesis
+thinks it goes from Matthew Luke Mark. I know that most scholars would disagree with that order
+of literary dependence. But I find it fascinating to interview different scholars with different
+vastly different opinions on how to solve the synoptic problem, because I think it's important
+to know all of their positions. And I think that the only position I haven't interviewed yet,
+because I don't I don't think I don't think there's any scar right now that believes that
+is a Johanna in priority. But I know that there was a couple in the past that believe that
+but I've had people that have that thing that Matthew was first people. Most I think that Mark is
+first. And one person in particular that thinks Luke Luke was first. And that's Brad Young,
+the Jerusalem school theory.
+See, you're doing that you're specializing Jacob in the synoptic problem in a different way than I
+do. I'm like, I'm a fascinated like I'm fascinated with the whole legendary comparison and using
+heuristic approaches to seeing all of the legendary material. That really interests me. Richard
+Miller's book, you can tell, obviously, Mark knows, sucked me in, seeing apotheosis translation
+fables and comparing them and saying, Whoa, what's going on with Caesar and Jesus here?
+And you do too, don't get me wrong, you do all that and more, you just like to specialize on the
+synoptic configuration on what came first and how does it impact and in fact, and I guess the
+reason I have it really is I hear guys like John Kloppenborg and then I hear guys like Dennis R.
+McDonald with papious plus and then or Q plus papious and then I hear, you know, Mark Goodacre
+come on with his far and then I hear and like all of them out with me a billion to one in like,
+and I'm going and they, they all are like really confident in their conclusions and then I'm going
+like, I will maybe when I get really interested in diving down that rabbit hole myself, I'll like
+have this weird year where I'm into the synoptic problem, but I tend to almost give up before I
+go too, too deep and dwell too much on it because I'm going, how if these brilliant geniuses literally
+are dealing with the same problem and they come to radically different kind of positions
+on Q, what Q is, who came first? Did Luke and Matthew both know each other? Did they not know
+each other too sourced? Is it this and I'm like, I'm going to just try to tackle fundamentalism
+right now and get, you know. Do you know about the multi-redactional hypothesis regarding Q?
+Like there's a diagram in John Kloppenborg's book excavating Q. It's a very fascinating diagram
+because, and there's like different variations of the diagram. It gives it the same page,
+but it starts with Aramaic Q, then it gets translated into a Greek Q. Then there's two
+different Q's, Q Matt and Q LK, Q Luke, two different, two, two different Q documents for
+adapting the Greek Q, which is the hypothetical translation of the Aramaic Q. And then Luke
+borrows from Q Luke and Matthew borrows from Q Matt. Of course, well that kind of sounds like what
+Bart Ehrman does. Bart Ehrman argues there's an L source, there's a M source, there's a,
+and like there's specific material that you get here. And look, I don't know. I like to be honest
+with you, I don't know. And I'm going to go with where I feel I have more certitude at the moment.
+I'm kind of following my heart and my gut. And the biggest hiccup I see is like, I don't know if
+you relate to me. I know Jacob does, but Mark is, I'm looking and I think there's so much,
+there's so many people who are with huge YouTube channels that we're kind of in competition with
+who are peddling the idea that Jesus was unique. There was nothing like him. There is no comparison.
+And like any historical research, not theological, not faith driven, but historical research
+really shoots that down really quickly. And I'm not saying that there aren't unique aspects.
+I'm not saying there aren't unique things. Every religion has unique attributes, characteristics,
+et cetera. But that this is not wholly like popped out of nowhere with an insulated bubble,
+as if this was not built by the fabric in the zeitgeist or milieu in which it came up,
+Greek, Roman, Jewish development from its origins. So I'm into like, what kind of solid data I can
+do with like comparing linguistics and saying all of that. That's fun. But I got to get more
+cup of coffee to like even dive into the whole thing. It's like, it's too much for me right now.
+And never thing that I find very interesting is the multi-source theory. And that's the idea that
+Matthew, Mark, and Luke are independently reworking sources. And in that theory,
+which was a possibility by the scholars like a Boysmart and Burkett and others,
+they think that if you look at Matthew and you look at Mark, you're like Luke. And this is a
+more complex solution. It's not the problem. That suggests that if you look at Mark in many cases,
+he has more elaborations in his gospel than with Matthew and Luke, like the feeding of the pigs.
+The whole deal about the pigs, driving demons out and Mark, it's number 2000 pigs.
+But if you look at Luke's version of that story, and Matthew's version, now Matthew's
+version is a bit different. Luke and Mark are more similar. But what's missing from Matthew and Luke
+is the 2000. The number 2000 is not there. But that's just in Mark. And sometimes you'll have
+unique material. Mark disperses some of his unique material throughout his gospel,
+not necessarily isolated in one chapter. He puts sprinkles of it like salt and pepper and a little
+bit over here and a little bit over there. It's like buttering your sandwich. And in this case,
+Matthew and Luke are barring from Mark. They think that basically we have a problem.
+They're asking me to believe that he did the very difficult work of removing the butter from the
+sandwich. And Matthew and Luke surgically removed the unique material in Mark. Because sometimes
+Mark will appear to agree with Matthew. Matthew's wording, then he shifts to to agree with Luke.
+And this really gets into the Grisbeck stuff. Because the Grisbeckian scholars will say, oh,
+that's the conflation of, obviously, they'll say that's evidence that Mark knew Matthew and Luke.
+But in this situation, Mark would be familiar with Matthew Luke's sources or event with
+Matthew and Luke directly. You see, you see what happened there, Mark. If I can step back,
+actually, for a second, this actually relates to the theme of the topic. How does or can digital
+the digital age transform scholarship? Well, guess what? Like Google Scholar,
+you know, I met I met with the guy who founded Google Scholar. He was a specialist in voice
+detection and being able to tell voices apart. Google Scholar can tell your voice, Jacob's voice
+apart. If even if you contribute 100 words or a few hundred words to a publication,
+they can detect your voice because your voice has signals that are unique to you. The way you
+formulate sentences, the words that you use. So this is happening all over the place. Google
+Scholar, they're not doing this. It's not like there's a dude somewhere working at Google who's
+saying like these 30 people, right? Because a lot of people have the same names, the same last names.
+You might get hundreds of people on a physics publication. How do they keep all those people
+straight? You can use unique identifiers called orchids, which are common now in publishing.
+But Google can actually tell our voices apart because they know all of our voices that well.
+They can trace the distinctive signals, cluster them, and show that they're disproportionately
+present or clustered within our communications. So the big tech companies, they figured this
+stuff out more than 10 years ago about how to tell voices apart. Again, this is where New
+Testament Scholarship is completely lacking. And, you know, this goes actually to your main,
+you know, themes. You guys are about debunking myths or exposing myths or just bringing myths
+into the conversation that we're dealing with, borrowing of myths and broader cross cultural
+myths. Well, the biggest myths that are operational in New Testament studies are that four dudes
+wrote the Gospels. That is a myth. And it's only once you debunk that myth that you can start to
+do science. The other main myth that controls New Testament studies is that Martian scriptures
+are heretical and aberrant, that they are eviscerations. Once you get rid of those two myths,
+everything gets flipped upside down and you can start to do science. So this is where you need
+to have people like Marcus Vincent on. Jack Bull does this because they're actually doing science
+in terms of looking like looking at these texts phenomenologically. How many times does a word
+occur? What word is occurring? When does that word first appear? When do these two words appear in
+this combination? Right? How frequently in this subsection of a text versus this subsection,
+how can you start to stratify texts? Right? The thing, Jacob, you should bring this up with every
+single person who comes on your show and talks about the synoptic problem. Ask them to where is
+the proof scientifically? Can they validate anything that they're saying using statistically
+significant findings? Or if they just completely left out of... Why in the sciences? If you're
+going to come up with a new COVID vaccine, you damn well have to prove that using quantitative
+analysis. Absolutely. Right? There's no such thing as science without quantitative analysis.
+You can get a room full of scholars on and they can describe a cloud or a butterfly,
+all that they want. Right? You can have your own pet little theory of butterflies or what a cloud
+looks like. That's cute. That's not science. Right? Scientists dissect the frog. Scientists don't...
+It's not 10 different dudes or 30 different dudes looking at the frog and coming up with their theory
+of the frog relationships. They dissect the frog. Right? They get into it. They analyze its DNA.
+They analyze its biochemistry. Right? New Testament scholars don't, by and large,
+most vast, vast majority of them, they don't do science. They aren't equipped to do science.
+That's a struggle. What we need is to break through that. We need people who... There are tons of
+data scientists, right? Millions in the world. It's a huge growing area of industry. Undergraduates,
+graduates. Data science is one of the new core competencies that a lot of universities are building.
+Why is the New Testament... Why is the study of that series of texts done without any kind of
+scientific training? Why are no people in New Testament studies learning how to code in Python
+or R? Those are core competencies that high school kids now are being asked to do. To do
+linguistic analysis. To do text mining. To do trend analysis on what are the trending topics on
+Twitter? Well, you use computational linguistics. You use Python. You use R. You use other kinds of
+analyses to do that. But most New Testament scholars, as you mentioned before, they don't even
+know how to work a computer. We can't expect these people to be able to teach us anything scientific
+because all it really is is just idiosyncrasy. I'm not saying this is the beautiful thing about
+science. One person doesn't speak for science. Bill Nye is a cool guy. Science is done by a
+community. It's done openly. It's done in collaboration. I would love for you guys to
+ask that. Every time somebody brings up a synoptic problem solution, say, where is the
+statistical proof? Where is your quantitative proof for your theory? And if they don't have it,
+yeah. I'm not saying be mean. I'm just saying like that. Just take notes. Make sure you take
+notes. Yeah. Let me take a look at it. If we just want to have fun and smoke cigars and sit around
+and chat about different people's pet theories, that's cool. I mean, but that's fun.
+But if we want to actually understand the deep structure of human history,
+and that's again, where you guys are doing important, important work, but again, there are
+myths that are operational even in our assumption. The synoptic problem, that itself is built on a
+myth. The myth is that there are three texts and only three texts and we have to figure out how
+they're related to each other. That's a myth. There are dozens of texts, dozens of collections of
+data. And then the questions, how do we correlate all that? How do we make sense of it? How do we
+stratify it? How do we analyze it synchronically and diachronically? So even the synoptic problem
+is a myth. There is no such thing as a synoptic problem. There's just human communication.
+I find it interesting that it's a problem. I don't even think, I think that's the myth that
+it is a problem. It's because we're starting with, well, how do we fix this? It's almost like the
+diatestron. Tation's diatestron has already set us up for failure here because we're like,
+we have a problem here. We have these three that have common material. They look similar and they're
+using each other some way. We know that, but why is it a problem? Well, because there's no way they
+can all three be accurate, historically, reliably true and then testing what actually happened.
+That's the problem. And like Rick Miller says, if these aren't historiographies, what's your problem?
+So you're already starting with creating a problem that there isn't necessarily there.
+So there's so many myths, I would say, building into this because if they're not historiography,
+like Roman biography, written as historiography, but rather almost like mythoid, they're just like,
+they're not trying to convey history in any way, shape, or form necessarily, even though all fiction
+in the ancient world was anchored to verisimilitude. It had anchored to some reality, didn't make it
+history at all. And so like, are we starting with the wrongheaded question that it's like,
+oh, there's a problem. Why is there a problem? You have three different books written for probably
+three different purposes. Who knows? There's a lot of things that I think, depending on how we start,
+we're creating problems. But I understand what they're trying to get at, trying to figure out
+who's first and all that. But I'm just throwing it out there because I wonder.
+That is unitary authorship and isolation. And if we start looking at things in terms of data
+science, it's what we see is integrity of voices. Some voices are unique, and some voices have
+distinctive elements. But we also see cross-contamination. If I say something, and it actually
+impacts you guys, or if you say something, and it impacts me, or if I read a book, and that impacts
+me, it becomes part of my vocabulary. This gets to the core of the issue. What are we as humans?
+We are synthesizing machines. We synthesize signals. We take in signals. We synthesize them,
+and then we send them out. So what we need to be looking for if we're going to do
+you know, signals analysis and data analysis in terms of science is looking at synthetic patterns,
+and then as well as contamination and things like obfuscation. How do you hide your identity
+as an author? The author of the pastoral, most scholars say, that's not written by Paul. How
+did that person hide that person's literary identity in the guise of Paul? Marcus Vincent's
+works is about to make a giant impact on scholarship, because along with Jason Bedouin,
+he's reconstructed the apostolic on a Marcian. It turns out it's about 30% of the length of Paul's
+letters. So if he's right, and Jason Bedouin is right, 70% of what we think is authentic Paul
+is not. It's not Paul. That's some dude pretending to be Paul, writing under the guise of Paul.
+Right. Again, we need to be able to do, and the way Marcus Vincent's put his together,
+you know, again, he'll talk about this coming out with Narfrenka in July,
+so he'll be able to go into depth on this, but you know, it's by doing this careful,
+scientifically rigorous analysis of vocal patterns and showing that the patterns in the
+apostolicon are not only simpler and earlier, but distinct from what you get in the canonical
+redactor. The canonical redactor loves to throw out names of people, names of places,
+you know, Marcian's apostolic, none of that. Like, it doesn't give a care that Paul went here and
+there in the other place, and then you find the same patterns. Which makes me wonder,
+like, what we need to look for is patterns in the data, right, where the consistent patterns.
+Let me throw this out there for you, because recently there's been apologists who want to
+argue that Axe is just getting so much information accurate about geographic locations where Paul
+went. I'm like, well, you know, I've read Purvo, I listened to Dennis McDonald on Axe and stuff,
+and other scholars who've done this. Shelley Matthews is a great feminist scholar writing
+commentaries on it. Long story short, like, I think that this author has Paul's letters,
+but when I say that, I'm not necessarily saying he has all Paul's authentic letters.
+Like, this author could be writing in the, like, 130s, you know, AD and be using a pastoral Pauline
+letter that isn't actually Paul, that's saying he went to this place, he went to that place.
+Who knows? They may have somehow worked together in configuring Axe to make the geography work
+with their pastorals and giving a narrative of Paul. I don't know which came first, the chicken
+or the egg. You see it, I'm trying to get at it. Get Marcus Vinson on, ask him that question,
+what you just said. You know, I can't speak for him, but my guess is he would probably,
+or Jason Badun, they would probably agree with you and say what the Marcianite scriptures show
+is, you know, because there's no interest in all this geography, travel, all that stuff. It's all,
+it's all missing, not only from Marcian's apostolicon, but also Marcian's Evangelion.
+So the Orthodox view is, oh, you know, Marcian, the shipowner, he just hated geography so much. He
+took all that geography stuff out of his, or, right, the other way to put it is he's, he's
+witnessing a more simple and primitive version of this tradition, for tradition, and then it gets
+highly rewritten, deeply rewritten, and the canonical Axe and, and Paul's letters all get
+rewritten in a go. This is David Troubich, right? I don't know if you're familiar with his work,
+but he, he basically has argued extensively for 20, 25 years that there was a massive canonical
+redaction that happened that around the mid-second century, you know, it's a lot of his publications
+are in German, but there aren't some in English. But basically, he says like, you know, just look
+at these texts, they're all like tied together. Jack Bull brought this up with the letters, right?
+In Marcian's apostolicon, it's all Paul. He's the only author. But in the canonical version,
+it's Paul and Timothy, Paul and Timothy, Paul and Silas, and Tersias, and, right, you get all these
+co-authors. Who are those guys? And then those guys all link up with Axe, or they link the letters
+together with other letters. So that's what Troubich has shown is like, you see all these
+linkages, it's like hyperlinks going on in these texts. But those aren't just like,
+a few random little things, like they're all over the place, like there is a massive canonical
+redaction, when we say a Catholic or proto-Orthodox redaction of these texts. So, right, if, if, but
+Dune and Vincent are right, then people like Bart Ehrman are reading, or James Tabor, are reading
+Paul's letters in their form that comes from around the 140s, and treating that as if it comes from
+the 50s. They're 100 years off. Right. You know, and they're getting, and they're treating 100% of
+this Pauline content as if it's Paul when only 30% is. I'm sorry, that's, it's too much of a tangent.
+I'm just telling you, like, in a different way, I was kind of, in a different way, I was kind of
+touching on that in some of the older videos about the late dating of Paul. And I wasn't completely
+dismissing the idea that there was an earlier collection of Paul's letters pre-70. But
+the letters that, in the form that we have, I think a lot of the content in there was added
+later. If you take Dune's work seriously, or Vincent's work seriously,
+I sure do. A lot, there was a lot of content added afterwards. Now, if you just want to say
+Marcine was a heretic, and the scriptures don't matter, or he just cut things up, and just like,
+but if you want to actually- But you're playing theology, you're playing theology
+instead of history. That's a theological position. Marcine is a heretic. His scriptures are heretical.
+Therefore, we dismiss them. And me and Jacob aren't into that. We don't- Right. But if you
+actually just look at data patterns, I encourage you guys to do it for yourselves. Like, just,
+just count up every place name. Like, just take, pick your favorite thing, like place names.
+Count up how many there are in canonical Luke. Then count up how many there are in Marcine's
+Gospel. And then look at them proportionally. Right. And you'll see a massive discrepancy.
+You can do the same thing with participles. You can do the same thing with, you know, little
+words. You know, like, you can get fine-tuned in Greek, but you can also- The word people, like,
+that occurs almost 40 times in canonical Luke. It occurs zero times, or one, one time, probably
+in Marcine's Gospel. And if Marcine's Gospel is like 7,000 words, and canonical Luke is 19,000
+words, the ratio should be like one to three. That's a normal ratio. So if you see that ratio
+getting way out of whack, where it's like, oh, this is all over the place in canonical Luke,
+but it's hardly ever there in Marcine's Gospel. Either Marcine, like, just hates participles,
+just keeps taking out the parts and hates place names. And he just hates that stuff. He hates the
+word people. Ooh, Marcine hated that word people. Let's get rid of that. Ooh. Right. So, like, either
+you have this theory that Marcine's a redactor who just hates getting rid of all of these really
+common, deeply integrated features, right, pros and the accusative we brought to Jacob on our
+previous, like, Marcine's Gospel, it's usually like, you see this in Greek, like, you know, Jesus
+says two, it's in Greek. But in canonical Luke, it's unto, it's pros and the accusative, which
+occurs every 100 words. And then it turns out, if you look at what are, you know, called diachronic
+language patterns. So again, like, getting into a tangent here, but people who study diachronic
+language development, like engrams, have frequencies over time, they notice like the
+data is disappearing from post-classical Greek as you get into the second century.
+So what makes more sense? Marcine removed all the pros accusatives and retained all these
+datives, or the language was evolving to get rid of the data, and Marcine, you know, reflects an
+earlier time in linguistic development. That's so that, yeah, and this is what scientists do. They
+look at macro data trends. You look at massive environmental data, if you want to figure out
+where things fit in history, you know. Real quick comment, just a comment on that, Jacob,
+and then I want to let you, I don't care where the truth lands. This is the difference between
+what we're doing here at History Valley in Mephysian. We don't care if Irenaeus is really trying to call
+out this guy who actually did redact. There was a better loop than redact. We don't care if they
+were, well, I mean, it interests me. It's exciting to find out, but it's like, we don't care what the
+conclusion is. Like, if Marcine really did redact it, or if they added all this stuff to Marcine to
+try and squander the whole Marcine movement and like overshadow them, either way, it won't hurt
+my feelings. It's an interesting inquiry. I'd love to learn about it and find out whatever the
+conclusions are. But when you're dealing with the channels that are online that are educating
+through that kind of apologetic avenue, which we are not interested in doing, I don't care about
+people's faiths at the end of the day, meaning I don't have an interest in taking away what you at
+the end of the day helps you with your life, your beliefs, your system, your religion, whatever.
+But I want, like Dennis McDonald just said today in my interview, he said, I want to make you have
+an educated one. I want you to have, I want you to be intelligent. I don't want you to be a dumb
+person in the faith. And so this, this Marcine, I think, I think we're going to need to keep
+unraveling and find ways to simplify it because some of the language you use, for example,
+I can already imagine putting myself in a lot of the viewer's shoes like what, how, explain it
+better. I don't understand. Maybe we give visuals and we aid them in showing it. And maybe they don't
+have to spend eight years in an institution going through ivory towers to discover what you just
+said. No, no. In fact, I think it'd be great to have people on who are experts in data visualization,
+data science, right? Because, you know, what do you, like people work at newspapers like the
+New York Times, they're great at taking a huge amount of data and putting it really nice infographics
+that clearly illustrate things. How about some data visualization people? Why is New Testament just
+crappy in terms of our data visualization? Right? Who's doing that work? Why can't we have
+better data visualization in this field and not just like little cartoon characters or
+something like that? Like, let's, how do we visualize this data? And it's not just like four
+dudes sitting in a room. That's not data visuals, but that's the mental picture most people have
+when they're dealing with the Gospels. That's the extent of our data visuals at four dudes,
+four white, you know, four European dudes sitting in chairs writing these things.
+Talk about a white Jesus. Yeah, exactly. This is data. It's Middle Eastern linguistic data.
+It's Greek data by and large. There's some Syriac text, but by and large, we're dealing with
+Greek data. So let's get some people who are amazing at data science and data visualization
+to jump in on this, like interview those people, invite those people, and or ask the question,
+like, why is nobody in New Testament doing that work? Why is data visualization absolutely
+incidental? It doesn't matter if you visualize data hardly at all, except for like little like
+line charts, like very simplistic flow charts. That's about as good as we get. And like, why
+what's going on there? It's because we're not doing science, right? Scientists have to visualize
+their findings in meaningful ways.
+Questions real quick. You saw, thank you for your super chat discernment, Derek.
+And this one was given a discernment. Like over 30 minutes ago, I, they are that they
+always in the chat, you usual. I just call them you usual.
+But they're always in the chat. Yeah. Thank you for that super chat.
+Rose of Maffa. Thank you for your super chat, Jacob and Derek, you guys deserve your flowers
+for your incredible work and making these colors accessible. I've learned so much over the years.
+Thank you. Oh, thank you, Rose. That means a lot. Really does.
+Yeah. Thank you so much for the compliment and the flowers.
+No.
+Ramah, hurry up. Thank you for your super chat. The quote and war of a truth is surrounded by a
+bodyguard of lies. What do you think of the idea of the Roman Jewish wars contributed to Jesus
+being surrounded by these interpolation bodyguards?
+You want me to take a jab? Yeah, so I don't think that the Roman Jewish war has anything
+to do with interpolations that are going on in the text, but I think it could be used if you
+wanted to use it as some metaphor or something to speak of interpolations for, I would call it
+maybe power control in early Christ movements that struggle to retain power and to somehow
+overshadow the other Christ movements. Kind of like the Thomasine tradition. Some argue that John
+has who touched Jesus' body? Thomas himself, because they might have been some dosetic kind
+of group that did not think he had. He was more of a phantom or had no physical, necessarily
+body. I don't know. There's some who want to argue that know that this is proving his divinity
+in some other way. Because a God is the only thing, according to Richard C. Miller in my
+recent conversation, was that what made someone a God and how you knew is when they died and they
+were back and they were actually in the full body, because you could become a ghost or a phantom
+and be a normal human, but to actually retain the body was possibly a way of saying, this person's
+a God, like Hercules after he jumps on the pyre and gets burned to ashes and not even his bones
+are there. He goes up into Mount Olympus and next scene you have him having babies. Well,
+how's he having babies? His whole body burned away. Well, gods can do that kind of stuff.
+But the fact that he touches them, is this a jab? Are these groups interpolating and adding content
+or trying to stomp out like the canonical? We were just going into this, like the canonical Luke.
+What are they doing? If Marcian was the primitive one, I would bet you might find theological
+jabs at Marcianism in some way in canonical Luke acts. Like, without a doubt, we're not even getting
+into the second tradition, which is like six to eight, nine, 10% bigger of acts. There's an
+Eastern tradition. I can't remember which manuscript tradition that is, but like way more
+material in that acts. But I imagine we might find some stuff that really works. It's interpretable
+to jab at Marcianism, if that's the case. I know some of it might be subjective, but...
+If I can chime in here, Marcian's Gospel starts with Jesus coming out of the sky,
+right? Descending, he appeared. I have reconstructed that. In Greek, Afane, he appeared. No other
+editor of Marcian's Gospel has done that so far. But if you look in my online edition, you'll see
+we actually have like seven witnesses of it in four different languages. So, Marcian's Gospel opens
+with Jesus descending and appearing, right? What better way to go against Marcian than to have
+elaborate, elaborate birth stories, right? About Jesus' mother, about Jesus' relatives, about his
+hometown and where he... That's the opening of Luke. So, it's just to echo what you said, right?
+If Marcian's vision, and this kind of goes with what Richard Kerrio has noted, you know, Paul seems
+to believe in Jesus as a heavenly figure, heavenly redeemer, comes out of heaven, returns back to
+heaven. Well, Marcian's Gospel aligns with that, but it doesn't align in some kind of artificial way.
+That's... It's the natural opening to the text. It's just like the Capernaum, he comes out of the
+sky, and then that's where his ministry starts, right? So, what makes more sense? Like, Marcian
+got rid of all the stuff that made Jesus look like a human being, except in all kinds of places,
+Jesus does look like a human being he eats, and so on. Or that a proto-Orthodox redactor in the,
+you know, around the middle of the second century, started writing elaborate birth stories.
+You know, I think you interviewed... What did you guys interview, Tony Berg?
+That was actually Neil from Nazca Forman. Oh, Neil did. I really need to contact him.
+Tony's an expert on the infancy traditions, and particularly infancy gospel, Thomas,
+and the proto-Immangillian of James, right? These are elaborate stories about Jesus' birth,
+his parental lineage. Most scholars would say, oh, those are probably mid-second century,
+late-second century traditions. Well, in that case then, Luke is a complete outlier.
+It's like you date Luke in the 80s. You get elaborate birth legends in the 80s,
+and then nobody mentions them for 100 years. Even Justin Martyr doesn't mention any of these
+Luke and Nativity traditions. You know, amazing, beautiful stories. Mary's reciting amazing Greek
+poetry. Like, is that happening really in the 80s, or is there a mid-second century, roughly,
+and later development to just start creating amazing, beautiful, right? And it's, to me,
+like, this is kind of what, you know, Richard Miller was saying is like, to me, these texts are,
+you know, it's not to debunk them. It's not to debunk anybody's faith. Like, these texts are
+beautiful in their own right, you know, but they're beautiful texts amidst many, many, many other
+beautiful texts, including Latin and other Greek texts. So, but, you know, when did it start
+to become, like, trendy to have elaborate birth stories about Jesus? Well, probably around the
+mid-second century, based on all the external evidence. When did it become popular to have
+elaborate, like, Homeric allusions in the broader culture, according to Namah Kamadi texts,
+about the mid-second century, right? So, a lot of these things, we act like this was all,
+all these legends were fully developed right at the very beginning, but
+yeah, it took a while for Christianity to get its legs.
+And what's interesting is that the last time I had Bart Erman on, he said,
+he thinks the first two chapters of Luke are not original Luke. He thinks they were added later.
+And I had to ask Bart, you know, that kind of makes it sound like the Lord's Gospel. You take
+those first two chapters of Luke out, Luke chapter three, the very beginning of Luke chapter three
+looks like the beginning of the Lord's Gospel. It's a start. It's a start of a text. Luke 3.1
+reads as the start of a text. Yeah. And don't you love just this idea of historiography, right?
+Supposedly Luke is a historian who's going to get you the accurate history.
+Man, Richard Miller and me, we were recording at his house not long ago. That guy's amazing.
+I am so shocked nobody has, like, discovered him and made, so I just feel very honored to do what
+we're doing. But so I'm talking to him and he's like, yeah, Dennis McDonald stood up in an SPL
+meeting once and got, you know, he kind of called out the speaker on this, that the person was trying
+to argue about how historically reliable and this guy's a historian. And he's like, sir,
+chapter one, verse 11, there's an angel next to the altar in the temple that, you know, John's
+father sees, like, here's an angel dialogues with angels dialogue with how historical, like,
+the point is, is if you compare it like one Michael, there's your supernatural bias coming in.
+Okay, okay. But yes, I do have a bias. I admit that I am I'm a natural. I love Michael Landon
+and touched by an angel. He's great. It's super entertaining. Yeah. But you know, this is this
+is the problem with with approaching in this way is other historians who approach material like this
+will show caution. They don't let you get encompassed by the material like what we're reading here
+in the first two chapters of Luke, as if they're going to give you the accurate historical validity
+and then all of a sudden you have angels popping in and like crazy stuff happening and he's not
+going now this is what they said happens or this is what they say occurred. And so whether this is
+true or not, you know, like, there's historians who are making it and they're very careful.
+None of that's found. And that's somewhere deep into our recordings, which I'll be getting out
+on. Herodotus or Tacitus, they go through various scenarios when it's like, okay, what it what really
+happened here, they go through multiple scenarios, they weigh the pros and cons, they look at the
+evidence. Sometimes they do recount eyewitnesses, but it's also always a multiple hypothesis
+thing that they're dealing with. And then they settle on the most likely that doesn't mean that
+they were doing science, according to modern, of course, techniques at all, they were taking
+far better than one nation. But there's not there's not even the pretense in these texts of
+entertaining like more than one possible way. But the other thing, you know, Derek is just like,
+you get into Greek here, on the loss in Greek just means messenger, it doesn't mean angel,
+per se. Right. So if you read the plays of Euripides, you get frequently these Angelois,
+the messengers, they come and give speeches and they dialogue with the main characters,
+but then they leave. Right. So isn't it interesting that Luke's gospel opens up,
+you know, with two messenger events, like dialogues with messengers, like that's much
+more like a Greek play. Yeah, then it is. I do think it's like a natural.
+I do think it's a supernatural messenger because he's terrified and frightened,
+can't speak. Well, the messengers came out of the sky often, right? If gods were messengers,
+Athena will come down on a platform. This is where we get the phrase Deus ex machina,
+God out of the machine. In Greek drama, the gods were lowered onto the stage. Right. Athena to
+like stop. So and they go back up. Right. So a platform that looks like a cloud, right, carrying
+a God up into the air. What does that sound like? Well, it sounds like the ascension.
+Right. That's what people would have seen in front of their faces all the time,
+going to Hellenistic theaters. They would have seen gods rising and descending on platforms.
+They would have seen messengers rising and descending on platforms coming down. Like,
+where did Mary learn how to be such a great Greek poet? That's what I want to know, right?
+How did a Semitic woman from Palestine learn how to compose elegant poetry based on the Septuagint?
+Right. That's not historical. That's later, again, like, and it to me, it actually takes
+away from the beauty of the text. Like, that's an, the Magnificat is amazing poetry. I love it.
+I think the Magnificat is fabulous, right? But the idea that a Palestinian woman in the 30s wrote
+that or recited that, that to me, that it just dismisses the beauty of the, like, you're actually
+disrespecting the creators of that text, right, by treating it as if it's a historical account.
+No, no, it's a, it's a beautifully creative account, probably from like the 130s during the
+time of Hadrian, who was leading a Greek cultural renaissance around the Roman Empire.
+Sorry. Professor James, Professor James Tabor's in the chat, too. I saw, I was like, oh snap.
+Okay. Okay. Sorry. I'm gonna, I'm gonna, I'm gonna pull up what he said in just a second.
+I want to get to this super chat real fast. Rosa Motha, thank you for your super chat.
+If I was a millionaire, I would back what Jack Bull is saying, is doing. I would love to see what
+he comes up with. Oh, Jack's doing amazing work. And he's teaching me Greek, and I can't wait to
+fully know Greek eventually, because it's, it's really fascinating.
+But yeah, he really, he can use some support. He's, he has been struggling, which is sad to see,
+but he's, isn't he on Facebook? Yeah, he is. Yeah, he is. I think I'm friends with him. He sounds
+familiar. Yes. Give me the jack. I support that 100%. Please do. He's, he's his own amazing researcher,
+but he's also one of Marcus Vincent's protegees, and Vincent's work needs to go mainstream. Like,
+is he friends with you? I wrote, I edited the book, Classical Models of the, of the Gospels and Acts
+and tried to mainstream McDonald's scholarship, which it's great to see that happening now.
+Marcus Vincent's scholarship needs to go mainstream and Jason Badoon's
+scholarship needs to go mainstream. Yeah, he's friends with me on Facebook, Derek. Yeah.
+I'm going to be a multi-task and forget. Yeah, and Klinghart. I'm going to send you the link to
+the profile, the easier and Marcus Vincent on Facebook. Yes, he is. He doesn't have a Patreon.
+He's, he's a, he's a happily research, busy researcher. Okay. But Jack does. Jack has a Patreon.
+Jack needs support. Yeah. I've also heard good things are happening with Jack's job prospects,
+but I don't want to speak out of turn. Right. He's a, he's, uh, things are getting better,
+but, uh, but he still needs support. He's freshly minted, minted PhD. Like most of us
+struggle to find, uh, you know, academic positions afterwards. Did we get too off topic? Should we
+come back? Um, oh no, I don't think so. But let me pull up what James Tabor said here. This is
+interesting. It's interesting. Uh, just saying, hello here, free of my favorite people, just
+beginning to know Mark and his work with much more to come. Oh, thank you, James.
+James, take me to Israel. Take me to Israel. Oh, let me tell you those trips. You need to go ahead
+and walk for a few months before you go on those tours and get in shape. Oh, but there's a difference
+between going on just a tour and going with James Tabor to. He walks on water. That guy is, he's
+going. I'm like, hold on. Do you see him behind you? And you're like, oh, we got to wait for,
+he's up ahead of you next thing, you know, and you're having to catch up and.
+Yeah, I thought Masada was just a good exercise walk. I never even thought to wonder about skeletons
+at Masada. James, why are you complicating the picture for us? He does. He said something
+interesting about Matthew's gospel and a couple of more comments down. Ebeonites took out Matthew
+one through two. So that's interesting. So the opening with the birth narrative and the genealogy
+is missing from the Ebeonite tradition. Yeah, I see where he's getting that because he posted that
+about the time I brought up Bart's point that he thinks the first two chapters of Luke were not
+originally there. Yeah. And I've been and that's also when I then brought up. It looks like it looks
+more like the Lord's gospel. We took the first two chapters of Luke out. Yeah, let's just say like
+that could be flipped just as easily. Right. If the birth narratives in Matthew, which are imitating
+the Alexander the Great legends, Richard Miller's talked about that. If those elaborate like Alexander
+imitations are late additions, then the Ebeonites, you know, the Jewish Christians, you might say,
+they're actually preserving an earlier form of Matthew's gospel in that regard. So yeah.
+Oh, this is interesting. Wait until you get the DNA stuff from Masada.
+Okay. So yeah, so that's a whole different thing. I'm not even going to be able to speak on. I'll
+probably mess something up. I typically do. James can tell you how I always take what he says and
+then does something and I mess up and I don't get it right. But there's some DNA stuff they're doing
+about the bodies that were found there. Stay tuned. I think there might be relations to some
+serious people. Maybe I'm mixing some stuff up. That tour was a pain in my butt. Okay, don't blame
+me, James. But I think it has relations to do with a high priest or something like some really big
+where we have osuaries of people that are important. I think I might be connected.
+That's a case that's exciting. Yeah, James, help me out. Please tell me I'm not completely in the
+dark here in the chat. I'm paying attention. Please tell me. While we wait on that, Brian was here
+for your super chat. He says more data science. Absolutely. These are actually all great illustrations
+of how the digital age is changing scholarship. Like you might get up to the minute scholarship
+from James Tabor, one of the archaeological experts on Palestine. Like in that minute,
+like that's crazy that we used stuff to wait weeks and months and years to get results,
+you know, scholarly insights. So it's an amazing age we're living in. Exactly. It's just like when
+the cell phone was invented. There was a time when it would take months to get something,
+to tell somebody from a far off place like sending a letter down there. Then the telegrams came out
+and then the phones. I just want to echo what Brian is saying and say the way and I appreciate
+the gift. It's not to trivialize the gift at all. But why are there no New Testament positions that
+involve deep integrations with data science and competencies? Why are students not required to
+learn Python or R or any kind of statistical software? Why is the best data science related
+to these texts happening in computer science departments? Can I make a guess? And I'm going
+to throw this out to you. Tell me if I'm so off. I don't mind. But this is a complete guess. Tell
+me if you think I'm off because you may not know the answer. I think that 90% of the institutions
+that are teaching New Testament studies are doing so to make priests, to make people of the faith,
+to go teach and propagate their kind of traditions and stuff. It's very rare that I see
+rigorous, absolute, academic approaches to this kind of material. And this has been the
+concern even with SBL. I just dropped a video with Richard Miller who was saying he has a
+serious issue with SBL because he's like, they should divide it. And he said he spoke to the
+president, I don't know if this is a decade or two ago, he said we should have divided
+conferences or at least divided sections where here's theology taking place and over here is
+real historical inquiry. If you're in the theology section, they may not care to answer the questions
+that your tough questions might be. They don't have an interest in trying to answer that from a
+historical point of view. Here are our conclusions, these are our boundaries, and we can perfect our
+art within our theology. So I wonder if that's why they haven't put that money into educating
+each student in that direction because it's not, maybe I'm putting more words into Richard's mouth
+than he would, but it's not a serious field in many ways according to the way it seems Richard has
+conveyed it. I can agree with that. I went to seminary, I learned how to read Greek in seminary,
+I was considered one of the best, you know, whatever is my school. Then I went to UVA and
+started taking courses in the classics department and it kicked my ass because I didn't have any
+idea how to read Homeric Greek or Plato or Aristophanes, right? And it took a lot more work and a
+lot more training to go, you know, to be competent. Like, you know, you're in a classics course,
+you're doing sight reading of a hundred lines from the from the Iliad in one sitting and then
+you just estimate you'd be lucky to make it through like 10 verses in a class, right? So it's just,
+it's a completely different level of competency. So yeah, if we could just get rid of all so-called
+biblical Greek courses and just have everybody learn classics from classicists, but then I would
+also add on top of that instead of learning how to do, you know, literary analysis from people who
+have vested faith perspectives, you know, which is fine. Again, like we there's a there's a role
+for storytelling in human life and meaning making and all those kinds of things, but let's not pass
+it off as pseudoscience. And that's where we need data scientists to actually just kind of take over
+the field. And that's this honestly, it's happening in universities, they're retiring religion
+departments, they're retiring biblical studies departments, theological schools are going out of
+existence, right? They're disappearing by the dozens by the hundreds. And what's happening is,
+as these unfortunately, like I'm a humanist and I love the humanities. So, you know, for me this
+is sad, but what you're finding is people in computer science departments now and data science
+and, you know, decision making and so on, they're starting to encroach into these areas. And what
+I would say is like, that just needs to, that needs to happen in mass, we need to just take off the
+Band-Aid. So for any computer science people out there, data science people, please just take
+over New Testament studies. Because the people in it who are the wizards behind the curtain,
+we most of us have no idea what we're doing. That's that's a confession of somebody who's
+been in the discipline, who's trying to integrate it with science. We need scientists to actually
+just come in and take over our discipline. Please, soon.
+James Sabor says, think antagonists has many and
+oh, that's interesting. They found the, I wonder if they found the ossuary of antagonists.
+It's, it's big. And I can't remember what it is because he said so many big things on that trip.
+But then he goes on, he says, most, most New Testament positions, even secular ones run with
+theological models, Old Testament, New Testament ethics, blah, blah, blah. Jonathan Smith pioneered
+the right path, paths to approach both Jews and Christians in the late Roman period.
+And then he says, my PhD is from humanity, Chicago, not the Divinity School. Classics chair was on my
+committee. That's right. People who have done interdisciplinary, I did a similar program,
+UVA, Litwa did too. We're classics, Tanakh, Rebenix, and then New Testament. So we did not
+learn New Testament isolation. We were going to, we were going to bring up what happened to Litwa.
+Yeah. Yeah. Well, I don't know the ins and outs. I just know that he was, he was removed from a
+Catholic, you know, kind of like, I think you have to, I don't know if he had a sign on, but
+this is an institution that was faith. It's a faith, Catholic faith college. And I don't know if
+they had enough. I mean, his, his book that he was publishing at the time that I really started
+getting in depth with him was the evil creator and found Christianity's, which was a jab back at
+Bart Ehrman in a way. He thought, Bart, you know, he's playing in the same field with Bart, but
+to say he thinks Bart's wrong in his approach on second century Christianity's in some respects.
+But the idea is to vindicate those voices that were silenced under the, the quote,
+hereseology. And he's trying to vindicate them. And imagine your Catholic school hearing,
+you're trying to resurrect these people that their, their fathers, their founding fathers,
+so to speak, are against. So he ends up getting in trouble there. And what I did, just to get a
+little, little bit of a direction, what I've done with several academics, including trying to encourage
+Robin Faith Walsh, you name it, even James Tabor, who's in the chat. He really, I think that I would
+like to, James, correct me if I'm wrong, I feel that we've played a huge impact on inspiring him to
+start his YouTube channel, encouraging him to take that path and really try to make it more public,
+his, his insights. He's learned more than I'll probably ever forget, or he's probably forgotten
+more than I'll ever learn, sorry. This guy is like brilliant. He knows so much. And so he started
+going to YouTube route. Well, that's what, that's what Litwa did. And then also I got him on the
+Patreon, encouraged him to start having it to where he can have private people who really
+believe in what he's doing and support him financially. And he can communicate with them
+and he can offer them deals with books and whatever he wants to do. But it was, it's what
+we're doing, what me and Jacob are doing, I think, and others that are trying to set the path on
+getting the academics known to a popular audience and help them make a revenue stream,
+not just through their institutions, because their institutions could pull that card,
+like what happened to Litwa, and all hell breaks loose. You do amazing scholarship,
+publish all these books, do brilliant work, you can still get canned by a faith-based
+institution. So it's no job security in this field to be a great scholar or to publish prolifically.
+This actually brings up this kind of idea I wanted to not so much pitch to you guys, but just a
+different way of coming at it. A lot of publishers, if you're famous, you can get a good contract
+with a publisher. You can make some pretty good royalties. If you're an academic, no name,
+you're not going to get a very good contract. You're not going to get very good royalties.
+It's a system of the rich and the poor in publishing by and large. But what you guys are
+doing is you're in the middle. You're helping to elevate lesser-known scholars so that they
+have a name, they have a reputation, they have a following. Some people appear on your YouTube channel,
+all of a sudden, people love their work. People are following, people are supporting them. They
+know their work. Where's the leverage? If you go in and you start contract negotiations with a
+publisher and you don't have a solid reputation or an online fan base, you're coming off in terms of
+negotiation in a very weak position. But if you have a fan base, let's say we release a book open.
+I don't have something to pitch to you quite yet on this, but what if a group of scholars came
+together, they had this amazing book that they've been working on, and then they work together with
+you guys and say, hey, you guys be our marketers on this. You guys will each get 1% of the royalties,
+and then you get a million downloads of a digital book. You show that there's an
+audience for this book. Before you've given away all your rights, then you go to the
+publishers and you say, hey, there's a giant market for this book.
+You flip the script completely. At academic publishing, we're almost always negotiating
+from a place of weakness, and we treat our content. We work for pennies on the dollar.
+Academics do years and years and years and years of research. If you actually
+break that down in terms of monetary value, we're making two cents an hour for the work that
+academics are, that's crazy. Guess who's making a bunch of money? The big publishers. They're
+making billions and billions and billions of dollars. The profit margins for publishers like
+Elsevier, this came up in the news recently, a whole team in neuroscience, a whole team of editors
+resigned from a journal because Elsevier is making 35% plus profit margins. Amazon makes 3%,
+Walmart makes 3%, but big publishers sometimes are making in the 20s or 30s. It's a massive
+economy of exploitation of academics that's based on prestige, but that's where you guys come in.
+You guys are prestige creators. You're prestige elevators. You take somebody who doesn't have a
+lot of prestige, sounding like a Will Ferrell movie now, and you elevate them worldwide to
+worldwide prestige. Then all of a sudden, they have negotiating power, and that's where you
+guys could actually, instead of just creating courses, you can create book content. What if you
+created a book, helped create a book that had a million downloads and then did millions of copies,
+and you just got 1% of the royalties on that. That'd be a pretty sweet deal. It's not like this
+is atypical in the sciences. The latest scientific research, it's usually released now in what are
+called preprints. You want to read the latest COVID research because it's grant funded, it's open.
+It's a preprint open access. You can release content open all the time. That doesn't mean
+it has to be printed. Our whole model is based on killing trees and distributing copies of dead
+trees around to do knowledge dissemination. Does that really make sense in this day and age,
+in a digital age? Coders are sharing books immediately after they're written. In fact,
+you can create books using code. You can use R, Markdown, or Quarto. You can write a whole
+fricking book in R and publish it, and then continually publish it and update it with a new
+code. Guess what? Software developers know your code can get bugs. Your code can have a glitch
+in it, and your code that was working today is not working tomorrow. You have to be able to
+update the code. If we want to be able to lift religious studies and the humanities into a
+serious form of knowledge sharing, then it needs to become like code sharing, where we're uploading
+content. Not just to GitHub, because GitHub is a private company. You're counting on them to do
+all your keeping that data safe for you. We need to control our own means of production. We need
+to be more like, I'm a full capitalist, but we need to be hungry capitalists who are content
+creators, if that makes sense. I don't want to over speak there. I'll tell you what I've done.
+So I haven't tried to proceed and leverage myth vision to make monetary value from these presses,
+even though I've thought about it, never made that attempt. What I have done though.
+So much content for them. Oh, yeah. So these are the two things that I do. I do have an Amazon
+affiliate link, so I get chump change for every 1,000 books that they might sell through Amazon.
+I might make 30, 40 bucks. I mean, maybe up to 100 from Amazon, right, for whatever,
+which is just like gas in the car. When my wife needs gas, we need lunch, whatever.
+But what I do leverage them hundreds of thousands of dollars, probably.
+Oh, I bet. Without a doubt. This book, for example, though, I'm a lover of the material that they're
+printing and producing. And so this is Fortress, in case this is the manual told the latest, greatest
+of the manual told textual criticism in the Hebrew Bible. And like, I'll call them now,
+and they know me, and I'll say, Hey, I need a box with like 100 books, and these are the books I want,
+and I'll give them a list and they'll mail me a box. I don't pay for the publications.
+In fact, sometimes the books I'll read, then I'll contact them and say, get me in touch with that
+scholar. And I'll use it to keep producing the content, which helps sell them, you know, the
+materials. But that's why I encourage these academics to write a popular level book that
+isn't through a rigorous academic press, but go through their own self publishing or, and I know
+that diminishes their reputation. But they're not Bart Ehrman, in terms of accessing ways to be able
+to sell, you know, New York Times best selling. I'd rather put $15,000, $20,000 in your book,
+making an affordable book of your work, instead of giving it to the the academic press that is
+going to charge $200 to sell it to libraries, not thinking of the general public. Give me the
+general public, give me something I can sell that's affordable. And that's why I did the courses.
+Yeah, we put a lot of hard work into these courses that we do online. Yeah. And I agree,
+let's do academic should do more popular level works. But let's also not undersell the public,
+because there are lots of brilliant people out there who would love to read these books.
+But they can't build up a print library of thousands of books and pay $200 or $300 per book.
+So we also just need to reinvent academic publishing, where, again, like, we create the
+content. And before we've given away all our rights to the content, right, to an academic
+publisher, just based on prestige, like, Oh, I get published with this publisher. That gives me
+prestige, right? That prestige is a mirage, you know, by and large, like you can publish with a
+great press. And it can be crap work. That you're right, we do need to change the press. There's
+a lot of crap that's published, like real crap that's published by in religious studies, especially.
+There's so many books that are crap that are derivative, unscientific crap that are published
+by the leading presses. Right. So we just need to get much more intentional about, like, identifying
+people who can create legitimate content that's scientific or new insights, and then, you know,
+share that and not let publishers take, you know, like, I published an article with Harvard
+Theological Review, prestigious press, Cambridge University Press. Because my co-author was
+affiliated with Cambridge University, we were able to get the open access waiver cost, which is like
+$3,000 plus dollars waived. That's just because she worked at Cambridge. Right. If we didn't have
+that affiliation, we would have had to pay, pay them $3,000 just to publish our article. Right.
+That's not their cost. And they're making way more money on it. So this is also, there's a justice
+conversation here. There's a self-advocacy conversation here about how do we retain our power?
+How do we retain our rights? And then how do we become more effective? This is the problem,
+Mark. This is the problem, brother. I'm telling you, this is why I keep preaching saying,
+you know, if we can't get them to change and we want them to stop only aiming at libraries,
+okay? Like, there are so many people. We are the evidence. Our analytics are the evidence to know
+that are hungry for this information. Whatever their motivation, whatever their reason is,
+I buy Dr. James Tabor's books because it helps my faith. I buy Dr. James Tabor's books because
+it's critical and it picks apart that fundamentalism, whatever it might be.
+There are people starving for this and they're aiming at, you know, let's charge this library
+$200 because they're going to buy, we're going to get 10,000 books off the table by the libraries
+and make some money. If we can't beat the big man, which I've noticed that I don't know who to even
+talk to to even make that kind of change, then I'm encouraging the academics to self-publish or try
+to find a way to get their insights, you know, and they will make the money. They will be the ones
+who get one person at a time and one creative experiment at a time. So that's why, like, I've
+got various ideas for books, various, you know, books that I'm working on. I would be very happy
+to collaborate with, you know, a YouTube channel, you know, producer, host on some of that content
+and, and again, like, test the digital market, show that a book is popular and then on that,
+like, and it's not like distributing something digitally for free, actually empties or exhaust
+the print market. Turns out like a dissertation, if it really catches on, if it's good work,
+and it gets lots and lots of downloads, publishers are more likely than not to pick it up in print.
+Because guess what? People still like to read print books. Some people want the information
+quickly. They want to be able to do digital analysis. They want to be able to do text mining and
+searches for that. That's great. You want it to be digitally useful, but just distributing
+something digitally, and if it's very popular, that doesn't mean that you've, like, got rid of the
+print market on it. In fact, you have way more leverage to go and print it. Like, if it's a
+commonly used book and everybody loves it, a lot of people are going to want to read and print. And
+that's, if you look at the macroeconomics of publishing, that's what's happening is like,
+digital book sales are going way up year over year. Well, guess what? Print book sales are going
+way up year over year too. So they're not mutually exclusive markets. They're actually mutually
+reinforcing markets. I'll just put it this way too. There's a reason, you know, Bart and what
+we did with MVP courses started around the same time. He started launching his courses before I
+actually got to launch courses because of the whole debacle that happened with me and Robert
+Price. I already had a whole course with him done on anti-apologetic resurrection course. Never
+launched it. And I'm glad, looking back, that didn't happen for other reasons. But I don't
+want to get caught up on that. I just want to point out that the reason I think you see Bart
+Ehrman coming to me, going and looking for affiliates with large YouTube channels, because he
+knows it works. He knows that these crowds are hungry to come and sign up for us. Well,
+he's making good money on royalties from you. Very good. Yes. Yeah. But you need to know your
+value. Oh, I do. Yeah, I do. Every person who signs up through a link that I sell of Bart Ehrman's
+courses, I get a percentage. Yeah. So it's an affiliate program, which is also what I'm doing.
+I have an affiliate program. So, for example, Jacob is an affiliate of MVP courses. When he
+interviews academics that are doing courses on MVP, if you sign up through Jacob's link,
+you're helping Jacob. You're helping that academic. You're helping MVP courses. You're helping
+publicize for affordable costs this scholarship that is hiding in ivory towers at Yale, at Harvard,
+at Princeton, at whatever the place might be. You're making them have to change because they're
+eventually going to go, well, we've got to change up our methods. This isn't working. And they're
+going to have, they're going to be forced to do digital. They're going to be forced to do
+everything online at some point. Things are going to be different. And I think the old
+humanities publishers need to know there's money in open access. It's not like there's,
+and that's why you need to put a price on it. Let's say that you love certain volume about
+the Dead Sea Scrolls. It's super expensive. Most people will never be able to afford this.
+What's the publisher's price point where they know there's no way we'll ever sell
+sell enough print copies to make, is it $100,000? Is it $200,000? What would it be to actually pay
+the publisher to flip that so to become open? What's their price point? Because pretty sure
+in economics, everybody's got a price in terms of content. So what is that? And one idea might be
+if not just produce open content, but identify content that's really important, that's only in
+print, and it really just needs to be free and available for the general public. If it's a Dead
+Sea Scrolls, shouldn't that be publicly available for everybody? Why is that all locked down? That
+doesn't make any sense. What is that publisher's price point? Do we need to get you guys a half
+million bucks? What is it? And through crowdfunding and through popular channels, you might actually
+be able to do that. And you could start small. Find one book you really love that's locked down,
+it's under copyright, and the publisher's really restrictive. Find one book and say,
+I want that book to be free for the frigging world. I think everybody should be able to read that
+book. Go to the publisher, say, how much? 10,000 bucks? 20,000? What do you need? And then you raise
+it, you don't have to raise it all yourself, just set up a crowdfund around it. Right? Set up a
+crowdfund. I've never heard of this, by the way. Yeah, well, this is what Unglue It is about.
+Set up a crowdfund, crowdfund for that book, and with your audiences, you could raise $10,000 or
+$50,000, probably in short order. And then all of a sudden, that book is free for the world.
+Right? And then you've just done, you've managed the massive service. So then if we have the rights
+to... You're negotiating with the publisher, so Unglue It will help you negotiate rights with
+the publisher. They'll go to the publisher and say, hey, what do you guys need? Like, what's your
+price point? $10,000? It almost sounds easier to me, though. If I'm in contact with these academics,
+for me, it's easier for me to go, I know it's a lot of work, but just rewrite another book,
+pertaining to your work, more popular level. That's a possibility, too. For the creators,
+have a lot of power in this. Right. But they also need to know that the model can change,
+and that there are different ways to get to open. Got it. Right? And again, that's only going to
+benefit. Like, if you run a successful crowdfunding campaign, and you free up a book that millions
+of people will read, people are going to adore you for that. Like a book that's really rare and
+difficult to find. There's so many books like that, really difficult to find, super rare, out of print.
+Dennis McDonald, with his memesis press, he just started his new press, his book,
+Synopses of Epic Tragedy in the Gospels, he wants to be able to send that to anyone in the world.
+Amazon has limitations. They are not willing to send his, because it's a thick, big,
+six, 700 page book. They won't send it to Australia. They won't send it to certain countries,
+so they can't even get the book. So he's working on trying to make it into audible form,
+which is difficult because it's actually a tool rather than just a book. It's more of a learning
+index kind of thing, but he's trying to work into getting it into audible. But I imagine if
+crowdfunding came up with something, hey, Dennis, let's just make this thing purely e-book and make
+it free for anyone and everyone and downloadable. Maybe he can find enough funds to just make it
+all downloadable and free. Boom, disseminated across the earth. Now everybody knows about his
+monieses. If he's the copyright holder, he can always just tell everybody else what is his price
+point to make it open. If Dennis feels like that work, that took me this amount of hours,
+that much of my time, it's worth $100,000. Sorry for rambling. Name that as his price point,
+and then that could be paid to him, and then they could be free to the world. But what I'm talking
+about are kind of the more rare and out-of-print books. There are so many books in religious
+studies, they're out of print. The publisher isn't going to print them anymore, but the publisher
+still holds the copyright. And so most of us, even researchers, like hardcore researchers,
+we can't get access to the books we need because they're locked down under copyright and they're
+only in 10 libraries around the world. Well, what if we... So again, I would encourage you,
+there's a site called Ungluit. So they run these crowdfunding campaigns to flip books from closed
+access to open access for the world. And there's no reason all of your professor guests, any book
+that's under copyright with a publisher where they've given away their copyright, where they
+can't actually flip that to become open. If it's a really valuable book, everybody in the world
+should have access to it. It's not like... I've published several books, I get royalties checks,
+usually they're diddly squat for academic books. But if you make it open, then all of a sudden you
+have a massive readership. I think most academics, we're not in this primarily for the money. I think
+all of us want a fair wage or fair job or good paying, but we care about our ideas. So I think
+most academics, if they could know that their work is going to be read by people all over the world,
+they would be elated for that. So there is a path. That's what I'm here to tell you. There are
+multiple paths to get to more openness, which again, is how the digital age is transforming
+scholarship. Sorry, got to bring it back into the theme. I'm so glad you did.
+Yeah, it would be good because it not only gives the academics the financial support that they
+deserve, but it also makes it easier for the public to access books and without having to pay so much
+money. Like one book I bought, the Princeton edition of the critical edition of the Damascus
+document fragment two, I think it was a Damascus document two. And it's a wonderful book by James
+Charlesworth. And it costs like, I think it costs like close to 200 or around $200 to persons. And
+that's just one book. And it's sad because thousands, tens of thousands of people
+want to read it, but they don't want to read it for that amount of money. I mean, let's be honest,
+because they don't know the treasure that's behind it. And until you are really able to
+dangle that golden carrot and it's convincing enough, like, I like Mark's idea. And this is why
+Mark, I've been approved. I thought kind of, I didn't know some of the things you mentioned
+during this episode today, and we're going to have to be in contact after this. I do have to
+go soon, Jacob, but let me just make one comment that I'd love to let you both give me your two
+cents is I'm trying to fight this. I'm not looking at them as the enemy. I'm trying to be collaborative
+and work with these presses that are established that are doing great. Hey, they've got plenty of
+money to make in the world. But if they reduce the cost of the of the academic publications,
+reduce those costs, targeted them, made them ebook, whatever you can. However, they can try
+and improvise. Like, trust me when I tell you, we have a marketing plan here that is affordable
+because people love this work. And it's not, they're looking at it for money reasons, you know,
+the presses, the academics are looking at it more of like, what legacy am I leaving? Because
+they're not interested in, oh, how do I build zeros in my bank? Some might. And that's, that's
+their own prerogative. I like, I have nothing against that either. Most though that I talked to
+are more interested in, how do I leave a legacy? And I want that legacy to be enduring. There is no
+legacy when you're hiding in an ivory tower and you can't even help that you're hiding in an ivory
+tower. You want to be public. How do I become popular? Dennis McDonald had no clue. And I'll
+just give you a little TMI. Too much information. But when I first met Dennis, he told me he paid
+some book person $5,000, right, to help him disseminate his Mythologizing Jesus book.
+And he says, Derek, our first episode that I did where you didn't charge me, I didn't charge you,
+you just came on, I came on. Like, we recorded about my book Mythologizing Jesus. I sold more
+copies of Mythologizing Jesus than I ever did paying this person, whoever he was, I don't even know,
+$5,000 to try and help me get this book out there. Right. And I was like, well, we have a team, we
+have a mutual interest in, you know, so we both came together and we've teamed up and now I'm like,
+I love his work too. So it's a great example. And I mean, you're showing where the power is
+and then where the value at is. Right. Dennis is creating all this amazing new content.
+Right. That is valuable. You are bringing it to the masses. That's valuable. What actually
+do publishers do in this day and age? They've outsourced most of their work. They get other
+academics to do the editing. You know, often they get, they send it back to academics three
+and four times to do their own copy editing. Right. They aren't doing any marketing or minimal
+marketing in this day and age. So the publishers, they have academics do 99% of the work
+and then they make 100% of the profits or 99% of the profits. Right. It's a completely,
+yeah. And that's where what you're doing. And this is where academics can self-empower. You
+know, if you get away from the myth, here's another myth. The myth is like, if you publish with
+Brill, it's great scholarship. If you publish with DeGroeter, it's great scholarship. No, it's not.
+Some of what they publish is shit. Right. Some stuff, like that Dennis is publishing with a
+Mace's Press, that's more important than 90% of the stuff Brill is publishing. Right. I'm with
+you on that too. What professor, and you know, like when Erasmus 400 years ago was publishing
+seminal treatises on classics, on linguistics, on philology, did Erasmus need to go through
+Brill publishers for his works to be valuable? Give me a frickin' break. Who was Brill?
+He was a genius. Right. If his work is meritorious on its own as valuable content, it does not matter.
+The publisher is irrelevant. So we need to, there's this publisher mystique in academics.
+It's the same consensus policy as well. It's like that.
+I published with all the big religious studies presses. I'm telling you, like,
+the prestige factor is bullshit. Right. We just need that. We need to call out that myth,
+the bullshit of like the mystique. It's the Wizard of Oz. Wizard behind the curtains. You
+publish with Brill. You're amazing. Bullshit. That's just bullshit. You can publish amazing work.
+So what we need to do is create little cohorts of peer review. Right. Let's not get rid of peer
+review and like everything's a vanity press. No, let's not go that direction. We need rigorous
+feedback from each other. Right. We get better by sharing our work with each other and correcting.
+You know, I give many examples of this, but my work has been significantly improved
+before it ever was published by thorough feedback from my dissertation advisor, right, from all
+kinds of other people and vice versa. Academics know this. We're constantly helping to improve
+each other's work behind the scenes before it's even submitted to a publisher and even after it's
+submitted to a publisher. So let's make little cohorts, three, four, five, six, seven scholars.
+It doesn't have to be a press just to coat an academic peer review cohort
+and then publish with that cohort. And it doesn't matter what, you know, and publish it digitally
+and then create the digital audience. And then, right, once you've established that there's a
+significant digital audience for it, then go to a mass market publisher that will actually give
+decent royalties, not 1% royalties or 2% royalties. But like what I'm not saying we're the
+Obamas here, but when the Obamas go to get a book deal done, you better believe the publishers
+not offering them 1% royalties, right, because they have name recognition, right, and substance.
+So you combine those two things, substance and name recognition,
+and you have a lot of negotiating power. So that's really what this is about for me is like,
+how can you guys and academics partner more effectively? I'm sorry, I get too many tangents,
+but yeah. I'm with you. Well, I think we can close out there. We've been at this for an hour
+and 44 minutes, and there hasn't been any more secret chats so far either. And yeah, I thank you
+both for joining me today. This has been a really awesome discussion. Maybe we could have a part two
+about this someday later. This has been amazing. I just want to again tell you how proud I am of
+you, Jacob, pushing through, continuing to do what you do. The other day, your Robin Faith
+Walsh episode just always impresses me, you know, these conversations that are really a joy to listen
+to. And I'm glad you didn't give up early on. There were moments where you're like, I don't know
+if I want if I'm going to do you kept going. And so don't stop, keep going and anyone who enjoys
+watching you help support. I even became a member of your YouTube channel. It's not a lot,
+but it contributes. Everything adds up. And it's a way of keeping a community going
+so that we can keep educating and doing what we're doing. So
+well, thank you, Derek. I really appreciate it. Yeah, thank you, Jacob. Your channel just keeps
+leveling up every week. It gets better and better. Yeah. Thank you, Mark. All right, well, we'll go
+ahead and play the outro. Thank you. I thank everybody for sharing their questions. James,
+Taylor, I appreciate the stuff you said. And I'll see everybody later.

@@ -1,0 +1,627 @@
+All right. We are live here at Mid-Fusion Podcast. Dr. John J. Collins is with us. How
+are you, John?
+I'm fine, Derek.
+Oh, we're going to have a heck of a show. I can't wait for you to tell us what your
+thoughts are on this. And ladies and gentlemen, please welcome to the stage the one and only
+Dr. John J. Collins, a Bible scholar of unparalleled expertise and wit. He's got a PhD from Harvard,
+is the Holmes Professor of Old Testament Criticism and Interpretation at Yale Divinity School.
+And would you still say you still are that, even though you retired?
+I would add emeritus.
+That's right. Thank you for correcting me. And an impressive list of publications. I
+mean, go on Amazon. We'll show that in just a minute. But don't let that fool you. He's
+not one to shy away from a lively debate or a good pun. Dr. Collins is a master of ancient
+languages and textual criticism, and he has spent decades delving into the complexities
+of the Bible. He's here to share his insights and wisdom with us. So buckle up and get ready
+for an intellectually stimulating and entertaining ride. That being said, here's our intro.
+Dr. Collins, what do you think of that intro? It's a trip. Quick plug, and then we'll get
+into questions because you're the kind of scholar that I can ask a question. And I could
+walk away for 45 minutes and come back and be like, well, I'm about halfway through explaining
+this particular thing because there's so much to learn about all this. He has the book,
+the book particularly, that we're going to be kind of dealing with in this discussion
+is the invention of Judaism, Torah and Jewish identity from Deuteronomy to Paul. And though
+he's not a Pauline scholar, so to speak, you're in the category with me. And Dr. Collins, I'm
+sure you kind of have a sixth sense after reading all the different scholars in this field on what
+makes the most sense of you. And that's kind of what we're going to have you here today to do. I
+hope people will also support us on the Patreon and consider checking out our courses, our lectures.
+We now have online courses. A lot of the scholars that go to many of these colleges are now doing
+recordings. It helps them. And it also helps get this out to a more general audience. So the
+general public can learn some of the stuff that is inside of the ivory towers, as I call it, of
+scholarship. So Dr. Collins, again, thank you for joining me. I recently interviewed Yonatan Adler
+on his book. Yes, very good. Yes. So you thumbs up all the way on this work. Yeah. Yeah. Yes, I ran
+into Yonatan Adler at a conference in Sweden in May of 2019, I believe. And then he happened to
+be coming to Yale on a sabbatical. And so we spent a lot of time together. And he wanted to do this
+book, and I was able to offer him a forum in the anchor reference library. And his book is in
+a way complementary to mine. Exactly. We don't agree on everything. But we agree on the bulk of it.
+And but the main difference between the two books is I am talking about texts. He's talking about
+archaeology. It's amazing how they merged in his book. Yeah, he actually quotes you and he references
+you often. And I was quite impressed with how he's not denying that there weren't some small
+elite priest group or figures at some point in history. But there's like no evidence that the
+common people ever practiced the things in here. And even further, that anyone practiced anything
+in these laws that we're seeing. Because, you know, you talk about this before, and you mentioned,
+I went recently to Palestine, and I checked out the Holy Land, and I went down there in Qumran,
+I saw the pools and I saw, and I don't know why, but the one thing I kept walking away with while
+I had tour guide, Dr. James D. Table, was actually showing us this area. And he said,
+well, these Qumran sectarian sect, they all had tapeworms. And here they are doing these like
+baths. I don't know why this is the only thing that really, really sunk into my head. And I kept
+thinking about it weeks later. They all had tapeworms, and they're passing it around by dipping
+into the same sanctifying water that is purifying them. They just didn't know about germs. They
+didn't know that this would. No, it is possible, you know, that Dr. Table had a private revelation
+about that. Oh, I heard that. Well, I don't know the science behind why that conclusion. But
+the practicing of these baths all over the region, all of this emerges after the
+Maccabees in revolt. That's definitely right. Yeah. And, and you know, this is a dramatic
+change. And you see it in the literature too. I mean, that's really the thesis of my book
+is that now I would say maybe more strongly than Jonathan Adler that the Jewish law
+had been to a great degree formulated. I think, you know, at least the Pentateuch or the Torah
+was. And that there were priests who said you should follow this. But as far as we can tell
+even the priest didn't follow it. Very much. You know, what we know about the priest down to the
+time of the Maccabee in revolt isn't very edifying, to say the least. And it does not give you the
+impression that these were people who were worrying about the purity of liquid stream. So it's the
+kind of thing that they worry about in the Dead Sea Scrolls. And then, then you get the attempt
+of Antiochus Epiphanes to abolish the Jewish law. No, this is a complicated issue. We can talk
+about it. We can have another session on it sometime if you like. But what happened there,
+I think is that he thought Judea was in revolt. He wanted to make changes in Judea. Some people
+resisted that. And then there was fighting between two parties in Jerusalem. So his way of putting
+down the revolt is to deny them the right to live according to their ancestral laws.
+Now, this was kind of standard practice in the ancient world, that if you conquer an area,
+you graciously let people live according to their own laws. But every now and then,
+a king might get mad at the people of a town or an area and withdraw that privilege. Now,
+we don't have many examples of that, but we have one or two. So that attempt to suppress the law,
+I think backfired massively. And so you suddenly got people who were tripping over each other to
+show their zeal for the law and to show how they observed it in more detail than anybody else.
+This is the birth, I think, through which we should see what eventually what we're going to
+deal with is Paul. So I want to mention, I've got notes, and maybe they'll help guide us. Maybe
+they'll derail us. I hope they don't. They're in the vein of this book, your chapter specifically
+on Paul, on the invention of Judaism. Once again, get the book. If you haven't read it,
+you write so well, it's so clear, and it's fun. You start in acts, and oh goodness, that really big
+moment. So first of all, non-Mosaic literature in Judaism, it's very important to understand that
+Judaism is not like one thing. And our problem often in the future where we're at, and I say
+future from their standpoint, is we have this picture of rabbinic Judaism. And we're trying to
+look back and imagine, oh, it's just this unified thing. But we have to stop, I think, and I'm
+speaking for laypeople. Scholars have already recognized this, but we have to stop projecting
+and think rabbinic Judaism, Orthodox Judaism, Hasidic Judaism, or something is our interpretive
+model by which we should understand Judaism. And if we go back historically, there's non-Mosaic
+literature within Jewish thought. Can you briefly tell us about that as we start to approach that
+first century context? Well, you know, before the Babylonian exile, there wasn't what you
+might call a fixation on Moses. No, this was a people that had various traditions,
+and you had traditions about Abraham and the patriarchs, you know, and you had
+yet some traditions about Moses, too, as part of the general mix. Now, around the time of the
+Babylonian exile, and possibly in part a little bit before it, there was an attempt to draft a law.
+Now, a law is maybe not quite the right word for it, but, you know, an official document,
+like of what it meant to be a Judean. And that's the book of Deuteronomy in large part,
+and it's Deuteronomy then that kind of grew into the whole Torah. Now, according to the book of Ezra,
+which, you know, was supposedly written about the middle of the fifth century BC, Ezra comes
+back from Babylon, and he has this book of the law. But it doesn't actually seem to be exactly
+the same thing that we now have in the Pentateuch. And, you know, he may have gotten everybody excited
+about it for a weekend, but then as we disappears, and you find that a couple of years later, people
+are back to paying no attention to it at all. Now, when I say paying no attention to it, I'm
+mainly concerned about the kind of laws that you would say are ethnic markers,
+you know, the distinctive things. Now, religious festivals are a big thing.
+Sabbath is a big thing. Circumcision is a big thing. And certain purity practices,
+isn't much about those at all in the Persian period. So, it's really only after this encounter with
+Antiochus Epiphanes in the time of the Maccabees that people get really serious about making this
+our statement of identity. And that, I think, came through the Hasmonean kings, and Jonathan Adler
+would agree with that. They weren't necessarily very pious themselves, but, you know, they upheld
+the Jewish law as the standard for Judaism. You might make an analogy with the modern state of
+Israel, where a lot of the modern Israelis aren't especially religious, but, you know,
+they give special place and special honor to the conservative side, and to the traditional
+Judaism, because they want to identify with it, even if they're not interested in practicing it.
+Interesting. Oh, but now, you know, then I think after the Maccabeean revolt, suddenly you have
+a Jewish party in power. And at least by about 100 BC, the Hasmoneans make themselves kings.
+Now, so, and they say, in effect, and of course, you should observe the Torah. Now, you have some
+parties then who take that very seriously. And that's when we get the rise of sectarianism.
+And a lot of the sectarianism comes from people fighting over what's the correct interpretation
+of the law. Now, the Dead Sea Scrolls are probably our best source on this, but I think this is also
+what's going on with the Pharisees and the Sadducees and the kind of sectarian squabbles that you
+read about in the New Testament. And some of the time, this was very minute stuff. There's a famous
+document in the Dead Sea Scrolls for QMNT, some of the works of the law, which was apparently
+sent to a high priest, making the case, look at this, and you'll see that we are right, and the
+other guys are wrong. And many of us think, you know, this was written by Essenes, and the other
+guys were the Pharisees. Now, the kinds of things that we're fighting over is if you pour warfare
+from one class into another, and the second class is dirty, does the impurity travel upstream so that
+the first class is now impure as well? Now, you know, maybe they were gone to something, but
+that was something that would never have bothered me until I read it in the Dead Sea Scrolls.
+But, you know, this is the kind of thing that led these people to say, we just cannot live
+in contact with these other peoples. We've just got to set up our own way of life and keep away
+from them. Now, so you see, the Essenes were at one extreme of that. The Pharisees, you know, were
+relatively liberal. But then Jesus comes along and he's way out on the other wing.
+So this is what it's like today. It's almost like a repeat of politics today. So it's just in
+different format. So just to emphasize and make the point in the question was simply
+non-Mosaic literature. So we have like Enoch come in and Enoch's like focused on this figure before
+Moses. You could even argue Paul, as we're tiptoeing into this, while he references he's
+highly Abraham. He loves Abraham and it fits within what he's trying to do. So we're going to get to
+that. Just so our audience who may have never read, let's just say, E.P. Sanders or Paula
+Fredrickson or Matthew Teeson or N.T. Wright or any of these people you've read, you've been
+acquainted with different works. Can you lay out a brief description of the discussion of Paul
+and the various groups? You know, briefly, what are the arguments about Paul within the scholarship
+on Pauline literature? Okay, let me just back up a little bit because I got a little distracted
+when I was answering your last question. Yes, sir. But as to there being non-Mosaic literature,
+you know, if you pick up an Old Testament now and you read through the book of Proverbs,
+you're not going to hear anything about Moses. You're not going to hear anything about Moses
+in the book of Job, in at least the Astes. Now you may get a couple of things that remind you of
+other parts of the Old Testament, but there is no appeal to the authority of Moses.
+Now, this, I think, would have been typical of a lot of Judaism. You mentioned the Enoch literature.
+Well, now we don't know exactly who these people were, but there were people who thought that Enoch
+was your main mediator of revelation. And then after the Micah-Beard revolt, they say, no, it's
+Moses. And you get this too in the Dead Sea Scrolls, you know, that it all comes back to
+Mosaic, the Mosaic law. Now, then along comes Paul in the middle of the first century. And
+some of what Paul has to say about the law does not seem so nice at all. In fact, he seems to
+regard the law as possibly even an obstacle, or some people would read him that way.
+So freedom from the law became kind of the catchword. Now, this was the way Augustine read Paul,
+and most faithfully, it was the way Martin Luther read Paul. So that for Luther,
+the whole point of Christianity was to be free from the Jewish law. And he hung that on Paul.
+Now, I'd say this was probably the dominant interpretation of Paul even 50 years ago,
+or a little more than 50 years ago, 60 years ago. And one of the reasons for that is that
+there were a lot of New Testament scholars in Germany who were Lutheran and who tended to
+gravitate to Paul. And this kind of thing happens, you know, that were attracted to Paul.
+Now, I would say the first great protest against that was by Christus Tendall,
+who was Swedish. He was, well, I could say one of my teachers at Harvard,
+who was Dean of Harvard Divinity School when I was there, and I didn't work closely with him
+in particular, but I knew him quite well. And Tendall said, you know, that your typical
+Lutheran parody of Paul is that Paul says that the law is a burden, and nobody can keep it.
+And so Christ liberated us from it. And Tendall says the law wasn't a burden.
+The law, you know, gave people structure in life, people who observed the law were having a great
+time. They loved it. And Paul himself wasn't struggling under the law and looking to be freed
+from it. He had, as Tendall said, a robust conscience. And so he, you know, part of what he
+was doing was saying, we have a caricature of Judaism here. And you've got to appreciate that
+Judaism was not seen as a burdensome religion. Now, then in the 1970s, I guess, 1977, to be
+exact, E.P. Sanders published his book on Paul and Palestinian Judaism. E.P. Sanders, by the way,
+just died a few months ago, said to here, he was a man who had enormous influence
+on New Testament scholarship. And he was a good scholar. Now, on this question,
+Sanders said, you've got to think of Judaism not just as the law. And it's not the case that people
+are earning salvation by keeping the law. Think of it as a covenant. The law functions within
+a covenant. So you have to be already part of the covenant people to be concerned with the law at all.
+So that then I'll write your observance of the law affects your, whether you remember in good
+standing, so to speak, but it's more like a matter of maintenance. And there is also a kind of grace
+in Judaism. God is merciful. If you sin, you can be forgiven. So it's not all you break the law and
+you go to hell. Now, again, I think this had enormous influence. With all of this debate,
+very much in the background, is the Christian realization that something went horribly wrong
+in the Holocaust in World War II. And that Christians have a lot of their conscience with
+regard to Jews. We have not treated Jews well historically. Think of the long view of history.
+Christianity has been pretty awful to Jews. And so I think a lot of this new perspective on Paul,
+is a desire to atone for that, get away from it and be appreciative of Judaism.
+So I think, you know, Sanders was not himself a theologian, I would say. He was more a historian
+of religion. And now his conclusion was that, you know, Paul didn't think there was something
+fundamentally wrong with Judaism. The only thing wrong with Judaism was that it was not Christianity.
+And some of his critics made fun of him for that and said that sounds like a trivial
+reason. I'm not so sure whether it was a trivial reason, but it wasn't a terribly good explanation,
+actually, of what was driving Paul. And because I think, you know, when you read through the
+Pauline epistles, it becomes pretty clear that the law is not enough. You know, whatever,
+whatever else you say about it. There's something not quite right there.
+And the question that becomes, what is it? And that's where you mentioned Paul, you mentioned
+new perspective. You mentioned the Lutheran position. And then there is also Paul within
+Judaism, which goes so far to say, Paul was so about Judaism and so about the law that he didn't
+want Gentiles. And I read this in Paul, The Pagan's Apostle by Paula Fredrickson. Love the book,
+by the way. I love learning from all of these people. But it seemed to me a bit omniscient
+on her part to assume she knew Paul's writing almost antagonistic toward the law, the works of
+the law, to just kind of like dissuade his Gentiles from actually participating in it.
+So he's like, really, you can imagine Paul going to the Jews and going, listen, I love this thing.
+I love the works of the law. But all the dirty works of the law, they will not get you salv it to
+the Gentiles to try and dissuade them. And to me, it wasn't convincing, if that makes sense.
+I know. This is now, I would say, the extreme of the week. I wouldn't necessarily say that
+Paula is the most extreme of the group. But this whole thing started with John Gager at Princeton
+and Lloyd Gaston up in Canada. And they wanted to argue that Paul said there were two ways to
+salvation. So, you know, Gentiles have Christ. Jews just can keep the law. Now, I mean, that,
+I think, was well intentioned. But you can't defend that, I think, you know, when you look at some
+of the things that Paul says. Yeah, we are Jews by birth, and not Gentiles sinners.
+Yet we know that a person is justified not by the works of the law, but through faith in Jesus
+Christ. Now, as one of the critics of this new trend said, he does not say, and we know that a
+Gentile is justified not by works of the law, but by faith in Jesus Christ. I think it's perfectly
+clear that Paul thinks everybody ultimately depends on Christ. Is it fair just jabbing into your axe
+example at the beginning of your chapter in the Pauline part of the invention of Judaism?
+Is it fair to say that this is in that vein of Acts 21, where you're like, we hear rumors that
+you're saying that, like, Jews, even Jews aren't supposed to keep the customs, supposed to keep the
+law. And we know Paul, Paul never speaks, by the way, it's interesting. The author wants to, like,
+but we know Paul that you would not do that. He takes this vow with four others. But do you think
+that plays into this issue? Well, yeah, perhaps, I don't know, I hadn't really thought about it that
+way. But now, you know, there are a couple of other people then who went farther than Gaydru and
+Gaston. And Matthew Teeson, whom you mentioned, I think would be a prime example of this, and
+supported enthusiastically by Christine Hayes, who's here at jail. And Teeson's argument was that
+it was such a privilege to keep the law that Gentiles weren't worthy of that.
+Now, you know, the Magnus Zetterholm, who is another member of that club, brings up a midrash
+from a few hundred years later about Israel being married to the law, and you can't just
+give the law to anybody else. It would be like prostituting your wife. Right. Now, I don't think
+there is anything in the Paulan corpus that is even compatible with that. You see, all of that,
+you have to assume that Paul isn't saying what he means. In fact, that he is deliberately not
+saying what he means because he doesn't want the law to be attractive. Right. This is the same
+argument as saying he only believes you can become a Jew unless you were circumcised on the eighth day.
+Others in that you're screwed. You can't become one. Like you point out, like, can he not just
+say that? Yeah, sure he could have said that. But you know, I don't know that this wasn't a big,
+this was only a big issue for in a book like the Book of Jubilees. You know, after the
+Maccabeean revolt, you have a couple of books like Jubilees and the Temple Scroll that show
+this new obsession with the details of the law. Let's say. Now, that to my mind is just the other
+end of the spectrum from Paul. And Paul isn't like them in any respect. Now, one of the things is
+they are not interested in the salvation of Gentiles. You know, Jubilees, so Jubilees, the
+only good Gentile is a dead Gentile. You know, they want to separate from the Gentiles completely.
+So to say that Paul has that mentality is sheer nonsense.
+Wow. So you say, okay, there is so much good stuff here. And by the way, you're literally
+tacking off much of the notes that I had in terms of this. I'm like, okay, erase that so I don't
+come across it because I was going to ask like, I had one, Matthew Teeson, Christine Hayes,
+go too far on Paul. Yes, of course, let me erase that one. So that was a question I had on, you
+know, as I dive into this. How this is a good one. I think this is a good one. You right there in
+that previous thing also, you kind of said two way justification. No, that you're not like that
+doesn't say Paul in your estimation. How does N.T. Wright get Paul wrong? How is N.T. Wright wrong
+on Paul with his apocalypticism? Right, right. I know you remember the article you sent me on.
+Have you ever published that article on Mark? Because I wanted to share that and everyone's
+like, let me read it. It hasn't been published at the conference in Moscow in 2019. It may
+yet be published. I don't know. It's out of my hands, so to speak. Right. But I think,
+you know, I think, I mean, Tom Wright obviously has an exceptional talent for what we may call,
+and that meaning anything derogatory by it, popularizing. But you know, he communicates,
+he reaches a lot of people. And in order to do that, he oversimplifies. Now, that in itself
+isn't necessarily a bad thing, but it can lead to distortion. And I think, you know,
+this is what happens with the, like with the whole apocalyptic imagery of the end of the world,
+Wright is inclined to say, oh, they didn't really mean that. That's just kind of like hyperbole.
+Right. Yeah. And now on Paul, you see, again, I think it's partly that mentality.
+Because, okay, there are two things you need to keep in mind about Paul.
+First of all, he's a diaspora Jew. Now, we have a fair body of literature written in Greek
+by Jews in this period. One of the trademarks of that period is that they typically,
+they may talk about the law and they may attach great importance to the law, but they never
+or seldom talk about things like circumcision and Sabbath and purity laws and cash routes.
+And all of those things that are of central importance in the Dead Sea Scrolls.
+Even though, you know, the Greek literature will also cite Leviticus,
+but typically what the Greek literature tries to do is find the deep moral principles.
+Love of God and love of your neighbor, if you like. And so somebody like Philo. Now, Philo
+also works through all the laws in great detail, but he does so to show that they all have a
+spiritual significance. So if we don't eat a certain kind of bird, it isn't because we have
+anything against those, this particular kind of bird, it's because we look at them as symbols of
+greed or hostility or something. So that's like the vein in which most of this Greek literature
+is written. If I may just poke into this point, I thought it was Enoch, somewhere in Enochian
+literature that I was reading, but you would know right off the bat where they interpret things like
+it is said, don't eat pig. But really, the reason you don't eat pig is that pigs eat anything and
+they have no filter about what they eat or don't eat this bird, like you said, because birds are
+thieves. You don't want to be like a bird. You don't want to be like what you eat, because the bird
+swoops down and steals the food of the hard earned work of some other animal. And so don't be this
+thief or, you know, they analogize it. I don't recall anything like that in the Enoch literature.
+You get things like that in the letter of Aristias, which is a letter supposedly written by one Greek
+to another about the Jewish law and what a wonderful thing it is. And somebody explains to him,
+you know, that it's not, we're not superstitious, you know, we're not concerned about pigs as such.
+It's that, you know, it's what they symbolize. So that's the world that Paul is coming from.
+And I think that has a bearing on why he is not especially interested in the great minutiae of
+the law. You know, it shapes his mentality. At the same time, he is not only a diaspora Jew,
+you know, the great turning point for Paul is when he comes to believe that Jesus of Nazareth
+is risen from the dead and is exalted to heaven. And now this I would call an apocalyptic idea,
+because the resurrection of the dead was very much an apocalyptic idea. He was not saying that
+Jesus' soul is immortal and he's still, it's up in heaven somewhere. He was saying that Jesus died
+and rose so that that which died came back. Now this is an apocalyptic idea. It was, you know,
+it was, you know, a novelty in Judaism in the time of the Maccabees. Not everybody subscribed
+to it. Some people did. Now believing that gives him a whole new perspective, because where somebody
+like Philo would say, you know, that the way to salvation, if we may use that term, is to keep the
+law, but keep it with the proper understanding. Now Paul would say, no, it isn't at keeping the law,
+even no matter how well you understand this, we is not enough. You need something more.
+There is a new revelation and this new revelation comes with the resurrection and the exaltation
+of Jesus. Okay, this, I'm sorry, I have a poke in when you get me excited here.
+This, this is an interesting thing, so we can't prove, right? There's a lot here that's up in
+the air to understand, to try and grasp, because we're trying to put our finger on Paul. I titled
+this, Understanding the Apostle Paul. That's what I titled this video. And we're trying to get to
+what was meant, what was going on, why would he say this, why is this? And one of the things Paul
+claims in his own letters, or it seems he claims, is that he was a Pharisee. Now I've heard some people
+actually try to say he wasn't a Pharisee, but that he, you know, kept the law like a Pharisee,
+that he was a strict Jew in some way, he equates himself to Pharisee, whether he was one or wasn't,
+it doesn't matter. The point is they're very strict compared to, here we are with that spectrum again,
+right? You've got the kumran that seemed to be like the germ or the defilement will
+crawl upstream through the water if you pour it out to the other side that's like,
+get your donkey on the Sabbath and get it out of the, out of the trench. What are you talking about?
+So various spectrum here, and if he was more on a strict side, and then he's coming over to this
+Jesus side, that's more of the Christ movement, that's more liberal, let's use the term liberal to
+mean more relaxed on the law. Wouldn't this make sense? If we were interpreting Paul through what
+you're describing here, he was strict, now he's more relaxed, but he has some new thing too,
+a new revelation. Is that common or is that known in Jewish thought that there's a super
+seeding of revelation that can kind of usurp or I don't know if that's a proper term, but
+it has more power over the previous thing? Yeah. Now, it is certainly known. And I would say you
+have two major examples of it before the time of Paul. One of them was Enoch. Now there's been a
+big debate about this, you know, was Enoch a Judaism opposed to Mosaic Judaism? And I think
+probably not, but I think the people who liked Enoch said, oh yeah, Moses is fine. Moses, as
+Paul would say, is holy and just and good. But you need more than that. You need revelations about
+the heavens. You need visions about the Son of Man sitting on his throne of glory. And it's that
+those additional revelations, you know, that make the difference. Also the Dead Sea Scrolls.
+Now Dead Sea Scrolls without any doubt venerated Moses and thought that the Mosaic law was of
+central importance. But they also thought that they had a special revelation of how the Mosaic law
+should be interpreted. And they say this quite explicitly in the Damascus document. And that,
+you know, God paid attention to this segment of penitence and revealed to them the things in
+which all Israel had heard. So in the Dead Sea Scrolls, they talk about two kinds of laws.
+Those that are revealed to everybody. And then those that are hidden to most people.
+And the people in the Dead Sea Scrolls figured they had that which was hidden. Now in the case of
+the Dead Sea Scrolls, what's hidden, the extra revelation is the proper interpretation of the
+law. But it's still very much about the law. Whereas in the Enoch literature and in Paul,
+it isn't really so much about the law. It's something else. And it isn't necessarily really
+opposed to the law. But it's independent of the law and more important. There's another example,
+actually, there's a book called Forth Ezra. Have you ever read Forth Ezra?
+Oh, yeah, yeah. It's really quite a plea for help and a cry.
+It's a great book. Yeah, it's a great book. You know, if the canon were really inspired,
+Forth Ezra would be in it. And I could tell you a few books that shouldn't be. But we leave that.
+But in Forth Ezra, at the end of the book, Ezra is inspired to restore the law because it has been
+burned. But actually, the angel dictates to him a total of what, 70 books? So, yeah. So, you know,
+there are those that are to be made, sorry, of 94 books altogether, because there are those that
+are to be made known to everybody, so that the pure and the impure can all read them.
+And then there are the other 70 that are to be kept secret. And those presumably are books like
+Forth Ezra itself, or maybe the Enoch books. But it says, for it is in those that you have the
+secret of wisdom and the fount of understanding. That's the good stuff.
+So, you know, in that regard, again, Paul fits a pattern. Now, you can have two people who each
+think you need a higher revelation, but can disagree vehemently as to what that higher
+revelation is. So, it doesn't resolve the oppositions that way. But the pattern is there.
+Would the Melchizedek scroll, which by the way, I was in the cave, they found that in when I was
+down there, would that Melchizedek scroll kind of fit that kind of mysterious secret information
+in a way? Yeah, I think it would. I think there's a lot of stuff in the Dead Sea Scrolls,
+actually, that would fit that. Okay, so two things real quick. I do want to share.
+Let me stop screen here real quick. Just for earlier, I didn't get a chance to actually
+share this with you. Pertaining to the kumron, what I was talking about with them having worms,
+there's a few archaeologists that told us that kumron, the Essenes and the scrolls.
+So, if anybody's, I could try to send this to them. So, this is work that was based when I
+mentioned I went on a tour, actually, with Dr. James Tabor. It was wonderful. We learned a lot
+of great things. It was good to see some of the caves. But just to kind of vindicate what was
+being said there, I have an article. I could try to find a way to send it to people via email if
+you really want to know more on why they're saying when they found the latrines and the camp was like
+Northwest or something like that. Anyway, I'm ignorant. Don't take my word on it, but there is
+information on this if you're interested and I couldn't get it out of my head. Anyway,
+back to Paul and this is an important thing. Paul says the law of Christ.
+He does. What is the law? Yeah, what is that?
+Well, you know, it's related to the question of what does he mean by faith in Jesus Christ?
+Now, you know, when you read through, say, his correspondence with the Corinthians,
+it's quite clear that Paul was not an antinomian. Right. Paul wasn't saying you shouldn't have any
+law at all. Paul, in fact, has very strict ideas of what they should be doing and is outraged at
+some of the things that they are actually doing. Right. And then, you know, what he expects them
+to do by and large conforms pretty well to the Mosaic law, except that he doesn't pay so much
+attention to the ritual aspects. He doesn't think that those are important for the Gentiles.
+Now, so then what the part of the law that is still valid, I would think that probably
+counts as the law of Christ, but I think there's probably something that gives it its cohesion.
+Now, you see, one of the oddities of Paul is he does not quote the Gospels. He doesn't quote the
+sayings of Jesus very much. Every now and then he'll have a word of the Lord, but not very much.
+But he does, I think, have some idea of, you know, what Christ was about. And a nice example
+of it is in chapter two of Philippians, where he says that this mind be in you that was also in
+Christ Jesus. How even though he was Son of God, he emptied himself and took the form of a slave,
+and therefore God exalted him. Now, I think that's what he means by the law of Christ,
+you know, that that's what he means by the way you should live.
+Right. And he doesn't base his view of the way you should live on inherited sayings of Jesus
+or parables or anything like that, although they may all be compatible with it.
+He really extrapolates it from the fact that Jesus was crucified. It's somebody, you know,
+who didn't look out for himself, who gave himself up. And no, I mean, you could make a case that
+that's not a bad interpretation of what Jesus of Nazareth was about. But I think that's more or
+less the idea of what he means. And then I think when he talks about faith in Jesus Christ,
+and some people now would argue that should really be trust in Jesus Christ, you know,
+it's it presupposes, I think that you believe that he was raised from the dead. But the important
+thing is that, you know, you trust in that. You commit yourself to it. Or as he puts it in
+Philippians, let this mind be in you that he had. It's really imitation of Christ.
+Right. It's live like Christ. That's what he's saying. Now, again, at the risk of oversimplification
+here, it seems to me that Paul's essential revelation is that Jesus was raised and taken up to heaven.
+In other words, he got there. Right. Now, you know, you have no record. I mean,
+you could make a case for Moses, maybe, but you did not have at least a recent record
+of somebody who was raised from the dead and taken up to heaven because he was keeping the law.
+Therefore, I think Paul thought, you know, the law isn't getting it done.
+And it's not that there's something bad about it. It just, it doesn't get you where you need to go.
+And the fact that Jesus was raised, and you know, I assume that Paul did have a vision.
+Maybe he said when he fell off his horse, who knows, but I think he did have this vision
+and he did believe that Jesus was now alive and up in heaven. And therefore,
+if that's what you want, if that's what you want to get there, your best advice is try to be like
+Jesus. This, okay, this is a wonderful, I've got a few more questions from me. And then,
+if you don't mind, we've got some questions from our audience that are wonderful. And one of those
+is I recently had Dennis R. McDonald over. He has quite interesting thoughts. He talked about Q.
+And he told a story, we recorded his story, some given snippets away, but he pretty much says
+he came to find when he goes back to Q in his research that Jesus was killed in the Q document
+because of his view on law. And I thought, and I asked him, like, is that something that happens?
+And he says, well, if you take Josephus, what happens to James, and you see how these very strict
+particular parties were versus those who weren't, you do find accounts that seem to suggest that
+it was other Jews conspiring against other Jews because they didn't like them because of their
+views on the law. Do you think it's speculation? I get it, but you talk about have this mind,
+which was also in Christ, Jesus, right? Paul says these things. And is it possible that you,
+where do you fall on this, connecting dots back to this behind the curtain we call Jesus,
+because it's hard to get there, that he himself was in that vein and was actually, I know,
+post-holocaust. We don't like to get this way and point out, but it's not like there's an
+anti-Semitic slant. This is in-group fighting going on. So we have to understand these are Jews
+against Jews in debate. Do you think this goes back to Jesus? I'm not quite prepared to pronounce
+some Q. I haven't thought very much about it, really. And leave that one open as to what
+explanation you might have in Q. But in all the Gospels, as we have them, Jesus is executed by
+the Romans. This makes perfectly good sense. You have somebody who comes along with an excited
+crowd of followers who start shouting, Hosanna to the son of David and other inflammatory things,
+as he's coming into Jerusalem. And the Romans say, we've got to tamp this down. Cut this off.
+But we have several parallels for that in Josephus, you know, of more or less prophetic figures
+who gathered a crowd of followers. One of them went up on the Mount of Olives and promised
+that the walls would fall down. And this kind of thing, another one went to the Jordan and
+promised that the waters would part before him. And of course, those things didn't happen. But
+the Romans, you know, didn't laugh those people off as crazy. You know, they killed first and
+laughed afterwards. So, you know, they were taking no chances on any of that. So I would think it's
+overwhelmingly probable that that's why Jesus was killed. Then last question. The big question, though,
+behind that is, were the Jewish leaders complicit in handing him over?
+There is a very interesting passage in the Gospel of John, where the High Priest says,
+it is expedient that one man should die for the people. And what he means is, you know,
+if we let him go on, the Romans will come and destroy the whole city, which of course, they
+eventually did. And so I think that this also happened later on at the time of the war against
+Rome, that people, you know, were some of the people in authority were more inclined to hand over
+the rebels than to support them. And that's because they made a perfectly good judgment,
+I think, that this thing was going to end in disaster. So I think that's what I would say
+was going on. Now, could the High Priest also have been annoyed at what Jesus not having proper
+respect for the law? Quite possibly. And so it could play into it that way. But I don't think
+it's the primary reason. But no, I don't know actually what Dennis's argument is with regard
+to Q. So right, right, right. Sorry. And that and that was probably unnecessary to even mention,
+I was just leading up to it. Two things, Jason Staples work on Israel. Do you have a few sentences
+you could tell us that maybe you agree or critically? Because I know he takes some jabs
+at your work in his idea of Israel in his Old Testament eschatological view. He thinks they're
+still holding on to this idea like unanimously across the board that Israel, the Northern Kingdom
+in some way. There's like an eschatological fulfillment of all Israel. Anyway, what are
+your thoughts of his work? And then Paul, I've been in a Zoom meeting with Jason. He's
+quite impressive. After that, I went and got a PDF of his book. And it's sitting on my desktop,
+but I still haven't read it. Maybe we'll do a follow up and talk about that. And then
+I need to read it first. Right. That's what I'm hoping to hear your thoughts on that. I'm curious.
+Last one is we talk about you're the man on apocalypticism. I mean, I always refer people
+to your works. If they want to know what apocalypticism eschatology, they really Jewish style on this.
+They need to check you out. So you don't have to break down the argument because I know it would
+take a while. Do you think Jesus was an apocalyptic prophet? And that meaning he predicted things and
+they fell. And obvious Paul, I know you think that Paul definitely expected history to meet its end
+soon. And that didn't happen. So do you think Jesus was? You know, that is that's the
+64 million dollar question in the New Testament. And the problem is Jesus didn't write anything.
+Right. This was his big mistake. Either that or it's a stroke of genius.
+And it's what made him really fascinating to everybody ever since. Because you're never sure
+whether what you're reading is what Jesus thought or something that we're saying about him after he
+died. Right. So, you know, that's a difficult question. So for example, I would say that when
+you read in the Gospels about the Son of Man coming in the clouds of heaven, if you're assuming that
+the Son of Man is Jesus, that's got to be after his death. Otherwise, why would he be up in the
+clouds of heaven? He was there on earth. Did Jesus himself talk about Son of Man coming
+in the clouds of heaven? And do so without making clear who this was? It's entirely possible.
+But I think, you know, the fact that the early Christian tradition is so heavily apocalyptic
+makes it, it's hard to believe that they got him completely wrong. That there wasn't some basis for
+that in his dream. I liked the way you said that. Yeah. And the final one I had was sibling
+oracles pertaining to the book of Revelation. There seems, Revelation seems, and I mean the book
+Revelation, Island of Patmos, John, seems to be engaging, is aware of the sibling oracles work,
+at least in some respects with it may be a common source of Nero Redivivus and things like that.
+But it also seems to be anti-Pauline in some ways. It seems to take
+jabs at Paul in some ways. What are your thoughts about this book as it relates to Paul and the
+sibling oracles? Well, you mean that Revelation, you think, takes jabs at Paul. Right. I think
+Revelation 2 or 3, I think it is when they're talking. Yeah, I would think there just doesn't
+pay that much attention to Paul one way or the other. Maybe it's not. Revelation, if you like,
+is much more apocalyptic than Paul was because they think they're living at a point further along
+in the timeline. And so now everything is urgent into a greater degree than it was in Paul.
+That's maybe for another day. Yeah. Maybe for somebody who is more immersed in the book of
+Revelation. Yeah, I was going to mention the sibling, but your wonderful wife wrote a good
+book too on the myth of the combat myth. So I hope people will read that. Okay, question and answer.
+Constellation Pegasus says, how much science was Paul taught? Did Paul have knowledge of the Zodiac?
+These later Greek authors seem to have put some Zodiac knowledge in their writings.
+Was a Zodiac considered established science then or pseudoscience?
+I have, you know, I don't know of any evidence pertinent to that.
+Now, so, you know, I'm not saying that it wasn't that he didn't have knowledge of the Zodiac.
+I don't know of anything in the Pauline writings that shows that he did.
+And I have not, I don't know of anything that would make me think that he thought it was important.
+Thank you so much. You find some Greek writers who did.
+Right, right. Mark de Veldens, thank you for the super chat, Mark. Paul's sincerity to mission,
+is there evidence that Paul accumulate personal wealth or just expenses?
+Oh, I'm pretty sure he didn't accumulate personal wealth. I think he probably just about made it
+living off the support of his communities wherever he went. But, you know, he wasn't
+about to buy himself a villa in the Mediterranean and retire.
+Yeah, I've heard some people say his pretty confident of that, but she didn't make money out of it.
+Aaron's interest. Yeah.
+Thank you. Aaron says, just tuning in, do you think that Paul was inspired by Isaiah 53,
+for example, during his trip to Arabia, Galatians?
+Again, I don't see the evidence. I mean, why would you think he was?
+Now, I mean, he may have been inspired to some degree by Isaiah 53. If you take that
+passage in Philippians that I talked about, you know, that it's a common pattern which you also
+get in Isaiah 53 of that the one who humbles himself will be exalted. Now, you can have that
+without getting it from Isaiah 53. I think many people would have read Isaiah 53 that way, not
+necessarily as a prophecy, but just for the pattern of it.
+Thank you. Constellation of Pegasus, secret knowledge, the Dead Sea Scrolls say, that's bizarre.
+Oh, no. No, no, I mean, it's all the word Raz.
+Raz Mataz, I feel like, but Raz, which is a Persian loan word for mystery.
+And so, yeah, that they absolutely believe they have secret knowledge. And they also,
+in fact, sometimes say, you shouldn't tell this to outsiders. You guard your secret knowledge.
+But that's all fairly explicit. In fact, you can look up, there's a good book on mystery in the
+Dead Sea Scrolls. It makes me want to ask, did Paul, do you think, because he talks about
+mysteries that were unknown in ages past, but I think, again, this would have been common enough
+in the culture. You don't have to get it from the Dead Sea Scrolls. Is it possible, just on an
+author to you to get your thoughts that he got this from the pagan mystery religions that were
+around as well, because he's engaging Gentiles. And of course, people have often thought that he did.
+But I think, you know, the word, the whole idea of mystery, this would have been,
+if we talk about a zeitgeist, you know, something that's kind of in the culture,
+in the id, you know, say, you know, people use a lot of Freudian terminology without actually
+doing anything about Freud. You know, but some things kind of get in the air and
+mystery on would have been one of them. Thank you so much for that. Melody Joy. Revelation sounds
+anti-Paul. Would you consider the Gospels to be anti-Paul too? Mark 13, 21 through 22. Thank you,
+gentlemen. I could pull up Mark 13 if you want. I wouldn't necessarily think they're anti-Paul.
+You know, I think that by and large, they go at things a little differently.
+You know, for one thing, all the Gospels are much more focused on the life and teaching of Jesus.
+And, you know, the only thing that interested Paul about Jesus was that he died and was raised again.
+That actually is a little bit like Revelation.
+So, I wouldn't see either Revelation or the Gospels as anti-Paul.
+I'm curious to know if you think Mark is, is, Paula Fredrickson tried to argue that she didn't
+think that Mark and Paul, like, he knows Mark, or sorry, he knows Paul. But do you think that
+Mark knows Paul? I mean, your wife wrote the wonderful commentary, of course.
+Yeah, you have to ask her in the face. I could tell that Mark here.
+Right? Vesper says, Mr. Collins, I need you to ask Paul, please. I've been Vegas,
+definitely not. Yeah, I've heard a scholar actually say that.
+You know, whenever anybody comes up with a highly specific identification like that,
+you can safely discount it.
+Hmm. Thank you so much, Vesper.
+Minderbender, what do you think about the historical criteria many historians use to
+determine if a saying or teaching goes back to Jesus, multiple attestation, dissimilarity,
+does it work? Thanks.
+You know, they work to a certain degree. And the problem is that they don't work the same way for
+everybody. Now, you know, there was a movement maybe 20, 30 years ago now,
+if the historical Jesus, the Jesus Seminar, you know, which actually had people vote
+plausibility of sayings and that came in for a lot of ridicule. But I think, you know, they,
+in principle, in principle, I think they make sense. The dissimilarity is the most controversial of
+them. And I think, you know, it works to a limited degree. I'm just working actually today, I'm
+writing an article for a feshrift, and it's on Jesus and divorce. Now, you know, you have the
+Gospel of Mark says, you know, anyone who divorces his wife and marries another is
+anathema in effect. And then Matthew says, except in the case of Unchastity.
+So which of them was right? Well, I think, I think in that case, you can be very confident that Mark
+was right. Because, you know, everybody in ancient Judaism thought it was okay to divorce your wife
+if she was unfaithful. So when somebody comes along and says, no, it's not okay at all.
+I think that's a strong personality. That may not quite be proof that it was Jesus,
+but I think it makes it more likely if you assume that, you know, the reason we have so much interest
+in Jesus is he was a strong personality. He was an original personality. And so that which comes
+across as boldly original is indeed more likely, I think, to go back to him. But that doesn't mean,
+you know, you couldn't also have said things that agreed with what everybody else said. So
+in the end of the day, you're never quite sure. I actually had John Kloppenborg respond. I asked him
+this question, give me three dissimilarity arguments of embarrassment or almost things
+that you could tell the later Gospels are like, oh, snap Jesus. So they had to fix it. And it's
+what you're saying. There's certain things he said that it's like, let the dead bury the dead.
+What? It is a Jewish ritual to bury the dead. What do you mean? If you say something like that,
+yeah, you're hardcore to use my modern term. Wow. Okay, I think we caught up. We caught up on
+everything. I just want to simply round off this discussion on Paul. Give us a kind of a synopsis
+overview of what you think's going on with Paul in our episode today, if you don't mind.
+Well, you know, I suppose a lot of the current debate is about the Paul within Judaism.
+And I think all of that discussion is right in so far as you know, Paul was a Jew. His whole
+understanding of the world was within Judaism. An interesting book by Joshua Garroway,
+in which he claims, he talks about Paul's Jewish Gentiles. Now, of course, Paul never
+actually says that Gentiles should become Jews. But what he does say is that they get
+grafted into Israel. And this is why Jason Staples may be of interest here. Because, you know,
+in a way, Paul takes Israel rather than Judaism. And it seems even that, you know,
+he associates Judaism with the dependence on the mosaic law and on a certain style of interpreting
+it. And he wants to go beyond that. But he doesn't just say good human beings. You know,
+there's still going to be children of Abraham. So it's still within a biblical framework,
+you know, within the framework of a chosen people, so to speak, greater Israel, if you like.
+That's what's going on. You remind me of Catelle Berthelot's work, Jews and the Roman rivals.
+And that's a great work where she shows how even the Jews didn't agree on this. And one rabbi
+would make a saying and say, nope, you cannot say Deuteronomy 30. I can't remember the specific
+where it's like, 26, I think it is, where he's like, Abraham is our father. And he says, no,
+no, no, you can say Abraham is your father. But then another rabbi comes on and goes,
+you, what are you talking about? Have you not read the scriptures? It says that he will be
+the father of many Goyim and like the way they interpreted Goyim, rather than, you know, just
+nations. Yeah. Yeah. Wow. So there's a lot to study on Paul. Any recommended books? You mentioned
+one there that we should probably dive into about Pauline studies. Yes, that one by Joshua Garroway
+is one. Now I refer to a couple of other things. I probably have to go back now. There's a good one
+by a man named Frank Teemann, whom I don't know at all. And it's not a new book. It's been out
+for a while. You know, Paula Fedrickson, of course, is always tremendously engaging.
+Whether you end up agreeing with her or not, she's a good read and very much worthwhile.
+And, you know, I think the attempt to make Paul into a really orthodox Jew goes way over the top.
+You know, Paul was not a zealot for the law, but at least you can be sure of.
+But on the other hand, I think, you know, people are quite right to say that you have to understand
+him as a Jew. You're Daniel Boyarn, a radical Jew, true of Daniel as well as of Paul.
+Wow. Thank you so much for your time. I do want people to go get your book. It's always an
+interesting talk with you. I learned so much and I always consider ideas that I haven't heard. And
+you know what I find fascinating about you, Dr. Collins, that I, I guess I said this to Paula
+Fredrickson once that a lot of times people are like, I can't wait for this guild of scholarship
+to pass away and move on because where there's death, there's hope, she said. And meaning,
+we can't get into a new paradigm or really get into new stuff because so many people of the
+older paradigm aren't willing to shift or even continue their growth of learning. You, on the
+other hand, have been one of these people that I've noticed is still like, I almost imagine,
+till you're in the grave, you're going to be constantly shifting and like growing in your
+thinking on these things. And whether you're right or wrong on all of this stuff or some of this
+stuff, you're still trying to get there. And I think that's the takeaway. Yeah. Thank you so much.
+Thank you. Yes, sir. Thank you. Let's do this again soon. All right. Bye.
+All right. Ladies and gentlemen, what did you think of that show? I am always impressed listening
+and learning from Dr. John J. Collins. He has so many works that I've been studying. And you know,
+if you, on the internet side of things, many of you are engaging Christian apologists. And
+you know, if you take the scholarship, which hopefully you do it for more than just one reason
+as an anti-polymical work, but you know, Paul was wrong. So for your fundamentalist that want to
+come and jab at you, Dr. Collins work so eloquently just, yep, he was wrong. And you're like, okay,
+don't you see the implications? And to him and the scholars are in the ivory towers. I call them
+ivory towers because it's really very, very high concentrated information. You know, they,
+this is a given. They know this. I mean, very few people like NT Wright want to come on and try to
+pretend, well, it happened, but it didn't happen the way that you think it happened. And it's like,
+it's so impressive to see the scholars in the field just recognize things that when we're out here
+engaging Christian apologists and fundamentalists, these people don't. These people are pushing that
+it's still in our future. It's still about to happen. And you're going, and these are people,
+obviously that vote, that have a say in society and are living in a world in their head. I know
+because I was one that it's kind of scary if you were there. So I hope that the works that you see
+from the scholars that I bring on myth vision will help change the general populace. In fact,
+that's why we have courses now making it affordable for general public to be able to take a course with
+really good scholarship and yet get this out to a general public. And it helps the scholar too.
+So they make money from this as well. I just, I hope people get excited and enthusiastic about
+this work. And I hope you walked away from what you heard today from Dr. Dr. John Dave Collins,
+wanting to know more, wanting to learn this stuff more because I've told people I'm a skeptic.
+I'm no longer a Christian, but I do try to keep the conversation going across the aisle.
+And I hope that you will too, because there's nothing to be afraid of.
+Like nobody owns a monopoly on reading, researching and interpretation pertaining to
+these ancient texts. They're just as much yours as mine or anyone else. So I hope that you will
+journey with me diving deeper into this, get Dr. Collins books. Again, I can't tell you how
+fascinating his work is if you haven't read it. Please join us, go in the description,
+get some of his works, join our Patreon, help support us in any way you can. And even if
+that's a like, you can't afford a book, hit the like button. There's public articles he's written
+that are free. I don't know what to say. I'm excited and I hope you are too. Thank you everybody
+and have a wonderful day. And never forget, we are MythVision.
