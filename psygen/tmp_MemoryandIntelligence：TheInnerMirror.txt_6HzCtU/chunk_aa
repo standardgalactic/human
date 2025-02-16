@@ -1,0 +1,200 @@
+Hey everybody.
+So a couple of little housekeeping notes, reminders.
+I don't expect anyone to find...
+So I used to make videos in my house, and when I made videos in my house, the orientation
+was wide, and the camera was far away, and you can see all my hand gestures, and I'm Italian,
+so we kind of speak with our hands, though many other people do too.
+So back then, it was really good, and I liked making videos in my house.
+In fact, the story is more complicated than that in a way that I'm not at liberty to explain.
+But there are some mysteries about me.
+These days, I like to make videos when I'm outside, and right now I'm near where the
+owl nest is, and I'm seeing traces of owls, and I'm also near where the other day I stood
+on top of a yellow jacket nest like a complete idiot, but I like to make videos outside,
+and so what that means is you get the sort of, yes, I could turn the camera the other
+way, but it's much harder to carry comfortably that way, and even if I did that, you wouldn't
+see much of my hand gestures, so it wouldn't help a lot.
+So part of the thing that I'm here going to remind my viewers about is that you may feel
+perfectly comfortable not watching my videos, but just listening to them.
+Now I'm looking at the yellow jacket nest and the owl pellet that almost got me destroyed
+by them, which I secretly covet.
+I want to retrieve that owl pellet.
+I came back the other night kind of near darkness with my flashlight, but they were still too
+active for me to try to get that pellet with a stick, so I'm going to err on the side of
+caution as regards yellow jackets, and trust me, when I say, I encourage you to do the
+same.
+In any case, yeah, you don't really have to watch these videos, but you might enjoy listening
+to them, unless, for some reason, I mean, obviously, us humans, we are incredibly well
+adapted or developed to respond to human faces, so facial expressions are hugely important
+for us, and they are part of the penumbra of nonverbal signaling that is fundamentally
+important to human communication and that gets lost in texting, which is a habit that
+I generally abhor and am philosophically opposed to.
+I might even be morally and ethically opposed, but one of the things for those of you who
+know me that you will understand about my character and my choices is that I don't think
+we're going to get rid of our relationships with machines, and underneath that, we have
+an even more dangerous relationship, our relationship with language.
+We're not going to get rid of those relationships, at least barring some unforeseen, staggering
+catastrophe, which, you know, not entirely unforeseen, but barring some unusually significant
+catastrophe, we're going to keep having both language and machines, but particularly, we're
+going to have language.
+Because a little more of a question, there's stuff that could happen that could end our
+ability to create and sustain machinery, lots of different stuff, and some of that stuff
+might be coming, and we might, weirdly, it might be the result of our having invented
+machines, but essentially, in the present moment, we can't get rid of this relationship,
+so what we can do is we can learn to be more intelligent about it, and be more intelligent
+about both of these relationships involves understanding their risks and pitfalls in
+ways that are far more significant than anything we can generally learn in our culture, in
+our societies, and then selecting the behaviors that make us smarter, instead of what usually
+happens when we use machines, particularly when we use social media, is that most of
+the time, we get dumber every time we touch these things.
+Now, you could argue, well, Darren, where's the research on that?
+Show me the statistics, and that's one of the topics I hope to reflect on today, statistics.
+I've been working with computers since the 1980s, when they were first introduced to
+the common population, and I was a technician and programmer.
+I learned C and Pascal in the relatively, well, I learned C right about the time it
+was invented.
+I learned Pascal a little bit after that.
+I learned a little bit of assembly code for IBM 8088s way back in the day.
+That'll date me for those of you who know what that processor is.
+And I was never like, I wasn't a genius coder.
+My first coding project ever was on an Atari 800 donated to me very generously.
+I was so excited by this gift.
+And my friend, Martin Peters, who now I believe works for Google, and I used to hang out with
+these guys.
+Martin Peters, Andy Cogan, Ray Latham, Gregory Ward, Greg was the least geeky of us.
+Martin was an incredible math whiz, and he was so kind of, word I can't find at the moment.
+He was a wrestler, he was a big guy, boisterous, very funny, in the sense of being kind of
+awkward, loved these guys still to this day, they haven't spoken with any of them in forever.
+Ray went on to become a microbiologist, brilliant fucking choice, Andy met a woman and became
+extremely religious, which was the least likely thing conceivable if you had known Andy prior
+to that, and wrote a bunch of Bible software.
+I don't know what he's doing now.
+Martin Peters works at Google, and has for a good, I think, 20 years.
+But anyway, Martin gifted me with his Atari 800.
+And this kind of goes to the other, wow, it's weird, I didn't realize this.
+This goes to the other topic that I'm hoping to orbit and reflect on today, which is memory.
+So the two topics that I have in mind are memory and statistics.
+But computers, as you well know, probably, they depend for their operations on two crucial
+representations of biological assets or what I would refer to as biocognitive assets, though
+they could be thought of as biorelational.
+Those assets are memory and storage.
+In any case, my first program in basic on the Atari 800, back in the days when we had
+to save programs to cassette tapes, though there were very expensive disc drives available
+at that time.
+The first program I ever wrote by myself without instruction in anything, really, because I
+actually never went to high school.
+I'm a self-educated person, largely.
+So the formal word for that is an auto-deduct.
+It just means, I think, self-teaching.
+In any case, the first program I wrote was a Tic-Tac-Toe program that would beat you
+if it were possible.
+It turns out that Tic-Tac-Toe games have a dependency on the first move.
+And I discovered this when I was attempting to build this program.
+And essentially, I had to teach, not teach.
+That's the wrong word.
+See, this is the problem.
+We think we teach machines things.
+It is not so.
+All we do is fill them with numbers.
+That's not teaching, right?
+And the fact that software and algorithms can improve their response to certain kinds
+of problems that we pose them has nothing to do with learning.
+It's not learning.
+It's code.
+It's sheer.
+It's basically the manipulation of databases.
+That's all it is.
+It's the manipulation of databases.
+So I built a database in BASIC using arrays that would allow the computer, then, very
+primitive.
+What are those things?
+How much RAM do they have?
+So RAM is random access memory.
+ROM is read-only memory.
+And then we have, and those are usually chips, right?
+And now we have hard drives that are built out of memory that we call solid-state drives.
+That means instead of having a disk for storage, they use chips.
+They use what used to be RAM for storage.
+And RAM has all kinds of peculiar qualities when you start thinking about it in terms
+of engineering and physics and stuff.
+And all of these things, you know, they depend on electromagnetism primarily, right?
+So it isn't that there's ever a zero or a one inside a computer.
+What there are are charges.
+It's not my intention to talk a lot about computers, however, computers are technological
+representations of aspects, derivable aspects of biological assets familiar to our human
+experience, primarily the asset that is represented in computers is memory.
+Now everything that we do consciously, and even all the things we do unconsciously.
+So my capacity to speak and continue walking without having to think about walking, although
+a few days ago while following this device around, I stood on top of a yellow jacket
+nest.
+Thankfully, I wasn't stung.
+Got very lucky there.
+Because I wasn't paying enough attention to where I was walking, but I can walk without
+having to pay conscious attention to it.
+That doesn't mean memory is not involved.
+It doesn't even really mean consciousness isn't involved.
+What it means is the tiny fragment of consciousness that forms the consciousness of which we are
+aware and that we are aware with, like the part that is aware that we are aware, and
+the functions, the activities or behaviors that we engage with with that, those structure
+memory.
+Now what we refer to as evolution, which involves all of this astonishingly impossibly
+sophisticated ecological hyper structures, that can be understood as both memory in
+that it's alive right now and being instructed right now, moment to moment, but also as storage
+in that, now I want to be really clear about this, memory and storage are modest, extremely
+impoverished little derivations of features of biological relation.
+So it isn't that evolution is memory, it's that what we think of as memory is a representation
+of a tiny little fragment, you know, a little pie slice of the continuum of the astonishing
+array of forms and embodiments of meta-memory that organisms represent.
+And organisms themselves are a slice of something we don't have a word for because we've never
+well, most of us have never been anywhere near an experience of that, that of which
+organisms are a derivative continuum.
+But I assure you, there is such a thing and one way to think about it is time space, but
+and it's possible for humans to have access to that continuum, the continuum above organisms
+of which organisms are unique expressions and participating organs, yeah, organism, right?
+It's going to be a little traffic noise here for a minute.
+We can access this, but we don't have language about it because although we consider our
+societies to be advanced and they are in certain technological ways, they're unimaginably
+primitive, they're unexpectedly primitive in many other ways.
+So one way to think about ecologies is the anciently conserved embodiments and relationships
+of the history and future of life on earth.
+And when I'm walking through these gardens, that's the holophore, wow, that's the everything
+vehicle that I understand that emerges to my consciousness as what's going on.
+When I'm walking in the gardens, when I'm walking in nature, as opposed to the city,
+the city is more like a computer, the nature is more like a living being, a living meta mind,
+right? It's that continuum that minds emerge as expressions of, right?
+So it's the meta position of minds and intelligence.
+Today, as I was standing near a tree, a squirrel came around the tree and because I was standing
+so very still, it didn't immediately notice me.
+And by the way, one of the things you might notice if you observe animals carefully, but
+also insects, is that they will tend to track you with their right eye if they can, if it's
+relatively reasonable to do so, if they think you are a threat.
+And this turns out to be important. Lateralization in bilaterally symmetrical organisms, like
+nearly all of the animals and insects we know, is fundamental to our way of being in the
+world, to our nervous systems, and to our cognitive inclinations.
+You know, it's such a privilege just to be alive as a human being. Of all the forms in
+nature we might have experience of, the human form is unimaginably privileged in various
+ways. There are some ways in which it seems impoverished. For example, we don't have wings.
+And because we don't have wings, it's not likely that we think about the world and view
+the world and understand identity in the ways unique to beings that do have wings. And different
+kinds of beings have different relationships with wings. An eagle is a very different thing
+from a hummingbird is a very different thing from a bat.
+But we humans occupy a unique, apparently unique, niche in the evolution of life on
+Earth. And it's an astonishingly privileged niche. Unfortunately, it's so privileged that
+we are inclined to abuse it. And part of that inclination derives from our unique cognitive
+nature, the peculiar advancements of our corpus callosum. What we usually refer to as the
+hemispheres of the brain, which lie on the surface of the brain, and are both divided
+and bridged. I'm sorry, I said the corpus callosum? I got that wrong. Occasionally,
+I make mistakes in my videos and it's very embarrassing because you can't really go back
+and correct it. No, I mean the cerebellum, excuse me. It's the cerebellum, which is both
+divided and bridged by the corpus callosum. Or the cerebral hemispheres, right, is what
+I really mean. The cerebral hemispheres are divided and bridged by the corpus callosum.
+Sometimes I get so excited that my mouth is, it's almost like, like, like there's a race
+horse inside me, right? And it races ahead. It's so much faster than my mouth. And also,
+I want to slow down a little bit when I'm talking so that the experience of listening
+is more soothing and enjoyable. I think most of us have enough tension in our lives these
+days. So I'm going to try and slow down a little bit. But sometimes I'm so excited about
+the topic that my mind is racing ahead of my mouth. And my mouth is sort of racing ahead
+of my error-checking apparatus, although it's not apparatus, my error-checking behavior.
+And so there's all these little problems, right, that I have to contend with. In any
+case, I think of Earth in different ways for different purposes. But the ecologies I treasure
+them above all things. There's nothing as precious as the ecologies of Earth anywhere
+in time or space that I can understand. That I yet understand. To me, these are the fact

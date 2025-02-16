@@ -1,0 +1,69 @@
+So we have a lot of different frameworks in which we make discriminations where we impose intervals.
+And we're not very good at discriminating the frameworks, and we have all kinds of metrics and measurements within different frameworks.
+We tend to conflate them or forget to discriminate them in the first place, get them confused, and so on.
+But there's a kind of a universal sort of metric, and it's interesting that we think about it in a kind...
+We think about distance and measurement in a kind of backwards way, especially when we compare our habits to how physicists are able to think of it.
+And the way that physicists think of it is probably important for us, so I think we can learn something just from changing our perspective on distance and frameworks.
+I found these two little chapters in this book, Relativity in Common Sense, a new approach to Einstein by Herman Bollandy, was published in 1962.
+And I'd like to just read them to you.
+The first one's called Using Radar to Measure Distance.
+A special application of short radio waves that is of great importance in war and peace and of considerable interest to the physicist is radar.
+As is well known, the notion of radar is that you transmit a short pulse of radiation which bounces back from the target and the wave received gives one information about the distance and direction of the target,
+the direction being simply that in which the wave had to be sent out to be received back.
+A particular interest to us here is the manner in which the distance of the object is found.
+What one does is to measure the interval of time between the transmission and the reception of the pulse.
+Since one knows that radio waves travel with the speed of light, this interval is multiplied by the speed of light.
+Excuse me, this interval, multiplied by the speed of light, gives one total length of the path traveled by the packet of waves,
+which is to the target and back, and thus twice the distance of the target.
+The great interest of the principle of this method of measuring distances is that one does not use a yardstick.
+No standard meter or standard yard is employed.
+What one does is to measure an interval of time and then multiply this by a quantity, the velocity of light.
+We can then speculate a little about the true nature of distance.
+It is often very useful in physics to try to get away from the particular circumstances of our existence,
+in which certain materials are cheap and others expensive, in which the temperature variations are small around a mean temperature
+that is far removed from the very cold of space or the very hot of the stars and so on.
+In the present instance, we want to make only a very simple assumption.
+We shall suppose, for the moment, that the makers of radar sets have managed to become so much more efficient than the makers of yardsticks,
+that instead of rulers, one normally employs a radar set, measuring the time between transmission and reception of a pulse.
+If, then, we had grown up measuring distances through the measurement of times,
+if we had grown up without using inch tapes and the like, then I should guess that the whole notion of a scale of distance would not occur to anyone.
+Now, what he's saying is that there would be no parts to distances, there would be no scales of distances.
+The next chapter is the units of distance.
+One would always use time to express distance.
+This, of course, is done to a considerable extent in astronomy where, to get away from the awkwardly big figures arrived at otherwise,
+we measure the distances of stars in light years, that is, the distance light travels in a year.
+But there is no reason why this manner of expressing distances should be confined to the very large astronomical distances.
+We could speak of light microseconds, that is, the distance light travels in a microsecond, a millionth of a second.
+This distance is about 300 meters, or 330 yards, and is quite a convenient unit.
+A light millimicrosecond would then be a thousandth of this unit, and would be roughly equal to a foot in length, and so on.
+If we imagine, then, a civilization in which the yard or meter is unknown, and every distance is expressed as light second,
+or light millimicrosecond, or whatever the case may be, then the numbers of that sort of civilization, excuse me,
+then the members of that sort of civilization would look at one very blankly if one asked them what the velocity of light was.
+They would not regard this as a quantity to be expressed in meters a second, nor miles a second, as the case may be,
+but simply as a unit, the natural unit, of velocity.
+Velocity one would refer to as an object, excuse me, velocity one would refer to as an object moving as fast as light.
+All ordinary velocities would be expressed in terms of this standard.
+Thus, the velocity of a jet plane would be around one millionth, that is to say, a jet plane takes a million times as long to get from one place to another as light does.
+Similarly, a train or fast car might have a velocity of one part in ten millions, sixty-seven miles per hour approximately.
+In other words, by accepting the natural standard of velocity, the velocity of light, this civilization would have done away with a need to register
+both the standard time and the standard distance, and to use the awkward translation figure of the velocity of light.
+There would only be a time standard, and in this civilization, there would only be a time standard in this civilization,
+which would make life rather more convenient, and its members would regard us as people who work with distances and times in the most complicated and absurd way.
+Perhaps it might be worthwhile here to describe an alternative civilization, which has the same relation to ours as we have to the one just imagine.
+This is a civilization in which the direction north and south is regarded as holy and is measured always in miles,
+whereas the direction east and west is regarded as perfectly ordinary and profane and is always measured in yards.
+If people had been brought up to look at things that way from an early age, it would require a daring mind to suggest that there was some connection
+between distances north and south on the one hand and east and west on the other,
+and physicists would be employed to work these things out and would then arrive at the remarkable result that 760 yards of the east-west measure were,
+in some sense, equivalent to the mile of the north-south measure,
+and this figure of 1760 would acquire a sacrosanct meaning there, a little as the velocity of light has for us.
+Of course, we must imagine that in this civilization, their national physical laboratory would keep two quite different standards,
+a standard mile for the measurements of north-south directions and a standard yard for measurements of east-west directions.
+This would look absurdly complicated to us and unnecessary, but this I am sure is what we would look like to the civilization about which we talked earlier.
+The physicist has no hesitation in jumping to the simpler conclusion and immediately agrees, then, that there is really no point in using a standard of distance,
+all we need are standards of time.
+Again, there is the question as to what the value of the velocity of light is.
+The velocity of light, of course, is unity by definition.
+What we call measuring the velocity of light would seem to him a complicated and roundabout way of determining the length of the standard meter in Paris in terms of the well-known public standards of time.
+It's a fascinating little play on how metrics can be incredibly confusing and breed frameworks where there aren't any due to, how should we put it, preconceptions of perspective, purpose, approach
+or the framework in which we are asking or examining questions.
