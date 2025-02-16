@@ -1,0 +1,36 @@
+The text discusses the concept of validation and authorization across different domains, emphasizing their pervasive nature. The author begins by observing patterns in everyday objects like cars, which follow a consistent organizing principle. This segues into a discussion about how societal systems—such as traffic lights—use colors to regulate human behavior, reflecting our complex relationship with time.
+
+The author argues that time is not constant; it varies based on the meaningful events we experience. Different environments (e.g., streets vs. gardens) elicit distinct temporal experiences due to the nature and frequency of events occurring within them.
+
+A key theme in the text is how authorization processes underlie much of human cognition, social structures, and even biological functions like the immune system. The author suggests that these systems determine what belongs and what does not, drawing parallels between cognitive evaluation and physical health mechanisms.
+
+The discussion then extends to digital environments where authentication (a form of authorization) is necessary for accessing services. The author reflects on how nature itself has sophisticated authorization schemas akin to those we use in technology and daily life.
+
+Finally, the text touches upon truth as a product of disambiguation, highlighting its importance in both cognitive processes and practical scenarios like communicating effectively or maintaining clarity as light fades, impacting specificity and understanding.
+
+
+The text explores the limitations of binary notions of "true" and "false" in understanding complex phenomena. While these concepts are useful in certain contexts like mathematics, they fall short when applied to nuanced situations involving human judgment, beliefs, or opinions. The author argues that true/false dichotomies oversimplify reality, much like how pure black or white would limit our perception without shades of gray.
+
+The text uses the analogy of vision and color to emphasize the need for nuance and multiple perspectives in evaluating complex issues. Just as we rely on a range of colors and gradients to perceive the world fully, we require more sophisticated frameworks beyond binary thinking to grasp multifaceted human experiences and arguments effectively.
+
+The author also highlights the rarity and luxury of human sensory perception, suggesting that our faculties are not only precious but underappreciated in their complexity. This serves as a metaphor for recognizing and valuing diverse perspectives and insights when discussing complex topics, rather than relying solely on simple true/false evaluations. 
+
+Ultimately, the text calls for greater awareness of the nuanced nature of truth and encourages considering multiple factors—such as purpose, context, and perspective—in discussions that involve ambiguous or contested issues.
+
+
+The text explores how tools, such as cameras and human-made structures, shape our perception and abilities. Cameras, for instance, do not capture the world as we see it due to their mechanical relationship with light, perspective, and color. This discrepancy highlights a broader point: the tools we frequently use influence both what we can perceive and understand, and what gets overlooked.
+
+The discussion extends into architecture, where traditional systems are designed around familiar, rectangular shapes. An architect attempting to incorporate natural forms—curves, asymmetries, and irregularities—into building designs faces challenges because existing validation systems for construction projects aren't equipped to evaluate these unconventional structures.
+
+These systems are often binary; they either approve or disapprove designs based on established codes. While such codes provide convenience and safety, they limit creativity and innovation by enforcing conformity. The text argues that while we benefit from some structure provided by tools and regulations, there is a risk of losing the potential for novelty and deeper understanding when adhering too strictly to these systems.
+
+The narrative uses the example of an architect who strives to break away from traditional designs but struggles due to rigid validation processes. It points out that only those with significant recognition or genius are afforded some freedom from these constraints, suggesting a need to balance structure with flexibility in both tools and thought systems.
+
+
+The text discusses how innovative ideas, particularly in architecture, often struggle against established systems that validate projects based on existing schemas. Architects like Le Corbusier or Frank Lloyd Wright became famous because their radical designs initially didn't fit into conventional evaluative systems, which typically reject anything they cannot easily analyze as safe and stable.
+
+The speaker uses the example of square beehives made by humans to illustrate how human-made structures often contrast with natural forms, highlighting our tendency to "regularize" things. This metaphor extends to architectural design, where non-conventional blueprints are likely to be rejected not due to instability or unsafety, but because evaluative systems lack the means to assess them.
+
+The text concludes by suggesting that traditional binary evaluations (true/false) are inadequate for capturing the complexity of human thoughts and ideas, implying a need for more nuanced understanding. The speaker ends with a personal note about observing the sunset, wishing well-being to the audience.
+
+
