@@ -2,7 +2,6 @@
 *.mp3
 *.mp4
 
-
 # Ignore all .m4a files
 *.m4a
 
@@ -14,3 +13,5 @@
 *.tsv
 
 *.vtt
+
+baseline/
