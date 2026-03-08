@@ -1,0 +1,289 @@
+.
+├── The Functional Melancholic
+│   ├── 20250321 - Cosmic Absurdity： Why Are We Even Here？.json
+│   ├── 20250321 - Cosmic Absurdity： Why Are We Even Here？.mp3
+│   ├── 20250321 - Cosmic Absurdity： Why Are We Even Here？.srt
+│   ├── 20250321 - Cosmic Absurdity： Why Are We Even Here？.tsv
+│   ├── 20250321 - Cosmic Absurdity： Why Are We Even Here？.txt
+│   ├── 20250321 - Cosmic Absurdity： Why Are We Even Here？.vtt
+│   ├── 20250323 - Laughing into the Void： Optimistic Nihilism.json
+│   ├── 20250323 - Laughing into the Void： Optimistic Nihilism.mp3
+│   ├── 20250323 - Laughing into the Void： Optimistic Nihilism.srt
+│   ├── 20250323 - Laughing into the Void： Optimistic Nihilism.tsv
+│   ├── 20250323 - Laughing into the Void： Optimistic Nihilism.txt
+│   ├── 20250323 - Laughing into the Void： Optimistic Nihilism.vtt
+│   ├── 20250326 - Welcome to the Singularity： You're Already In It.json
+│   ├── 20250326 - Welcome to the Singularity： You're Already In It.mp3
+│   ├── 20250326 - Welcome to the Singularity： You're Already In It.srt
+│   ├── 20250326 - Welcome to the Singularity： You're Already In It.tsv
+│   ├── 20250326 - Welcome to the Singularity： You're Already In It.txt
+│   ├── 20250326 - Welcome to the Singularity： You're Already In It.vtt
+│   ├── 20250327 - The Life They Warned You About And Why I Chose It.json
+│   ├── 20250327 - The Life They Warned You About And Why I Chose It.mp3
+│   ├── 20250327 - The Life They Warned You About And Why I Chose It.srt
+│   ├── 20250327 - The Life They Warned You About And Why I Chose It.tsv
+│   ├── 20250327 - The Life They Warned You About And Why I Chose It.txt
+│   ├── 20250327 - The Life They Warned You About And Why I Chose It.vtt
+│   ├── 20250405 - Depression： the Only Sane Reaction to Modern Life.json
+│   ├── 20250405 - Depression： the Only Sane Reaction to Modern Life.mp3
+│   ├── 20250405 - Depression： the Only Sane Reaction to Modern Life.srt
+│   ├── 20250405 - Depression： the Only Sane Reaction to Modern Life.tsv
+│   ├── 20250405 - Depression： the Only Sane Reaction to Modern Life.txt
+│   ├── 20250405 - Depression： the Only Sane Reaction to Modern Life.vtt
+│   ├── 20250407 - Dystopia Now： It's Already Here.json
+│   ├── 20250407 - Dystopia Now： It's Already Here.mp3
+│   ├── 20250407 - Dystopia Now： It's Already Here.srt
+│   ├── 20250407 - Dystopia Now： It's Already Here.tsv
+│   ├── 20250407 - Dystopia Now： It's Already Here.txt
+│   ├── 20250407 - Dystopia Now： It's Already Here.vtt
+│   ├── 20250409 - The Self Is An Illusion： And Why That's Good News.json
+│   ├── 20250409 - The Self Is An Illusion： And Why That's Good News.mp3
+│   ├── 20250409 - The Self Is An Illusion： And Why That's Good News.srt
+│   ├── 20250409 - The Self Is An Illusion： And Why That's Good News.tsv
+│   ├── 20250409 - The Self Is An Illusion： And Why That's Good News.txt
+│   ├── 20250409 - The Self Is An Illusion： And Why That's Good News.vtt
+│   ├── 20250414 - Why Modern Stoicism Is A Joke.json
+│   ├── 20250414 - Why Modern Stoicism Is A Joke.mp3
+│   ├── 20250414 - Why Modern Stoicism Is A Joke.srt
+│   ├── 20250414 - Why Modern Stoicism Is A Joke.tsv
+│   ├── 20250414 - Why Modern Stoicism Is A Joke.txt
+│   ├── 20250414 - Why Modern Stoicism Is A Joke.vtt
+│   ├── 20250415 - Get In Loser, We're Embracing the Void.json
+│   ├── 20250415 - Get In Loser, We're Embracing the Void.mp3
+│   ├── 20250415 - Get In Loser, We're Embracing the Void.srt
+│   ├── 20250415 - Get In Loser, We're Embracing the Void.tsv
+│   ├── 20250415 - Get In Loser, We're Embracing the Void.txt
+│   ├── 20250415 - Get In Loser, We're Embracing the Void.vtt
+│   ├── 20250418 - The Slow Motion Train Wreck of Society....json
+│   ├── 20250418 - The Slow Motion Train Wreck of Society....mp3
+│   ├── 20250418 - The Slow Motion Train Wreck of Society....srt
+│   ├── 20250418 - The Slow Motion Train Wreck of Society....tsv
+│   ├── 20250418 - The Slow Motion Train Wreck of Society....txt
+│   ├── 20250418 - The Slow Motion Train Wreck of Society....vtt
+│   ├── 20250419 - Hypernormalization： The Invisible Dystopia.json
+│   ├── 20250419 - Hypernormalization： The Invisible Dystopia.mp3
+│   ├── 20250419 - Hypernormalization： The Invisible Dystopia.srt
+│   ├── 20250419 - Hypernormalization： The Invisible Dystopia.tsv
+│   ├── 20250419 - Hypernormalization： The Invisible Dystopia.txt
+│   ├── 20250419 - Hypernormalization： The Invisible Dystopia.vtt
+│   ├── 20250424 - The Joy of Less： A Minimalist's Middle Finger To Modern Life.json
+│   ├── 20250424 - The Joy of Less： A Minimalist's Middle Finger To Modern Life.mp3
+│   ├── 20250424 - The Joy of Less： A Minimalist's Middle Finger To Modern Life.srt
+│   ├── 20250424 - The Joy of Less： A Minimalist's Middle Finger To Modern Life.tsv
+│   ├── 20250424 - The Joy of Less： A Minimalist's Middle Finger To Modern Life.txt
+│   ├── 20250424 - The Joy of Less： A Minimalist's Middle Finger To Modern Life.vtt
+│   ├── 20250430 - The Death of Intelligence： Why Modern Society Celebrates Stupidity.json
+│   ├── 20250430 - The Death of Intelligence： Why Modern Society Celebrates Stupidity.mp3
+│   ├── 20250430 - The Death of Intelligence： Why Modern Society Celebrates Stupidity.srt
+│   ├── 20250430 - The Death of Intelligence： Why Modern Society Celebrates Stupidity.tsv
+│   ├── 20250430 - The Death of Intelligence： Why Modern Society Celebrates Stupidity.txt
+│   ├── 20250430 - The Death of Intelligence： Why Modern Society Celebrates Stupidity.vtt
+│   ├── 20250505 - The Drug You Didn't Know You're On.json
+│   ├── 20250505 - The Drug You Didn't Know You're On.mp3
+│   ├── 20250505 - The Drug You Didn't Know You're On.srt
+│   ├── 20250505 - The Drug You Didn't Know You're On.tsv
+│   ├── 20250505 - The Drug You Didn't Know You're On.txt
+│   ├── 20250505 - The Drug You Didn't Know You're On.vtt
+│   ├── 20250510 - The Loneliness Epidemic (And Why Dating Apps Made It Worse).json
+│   ├── 20250510 - The Loneliness Epidemic (And Why Dating Apps Made It Worse).mp3
+│   ├── 20250510 - The Loneliness Epidemic (And Why Dating Apps Made It Worse).srt
+│   ├── 20250510 - The Loneliness Epidemic (And Why Dating Apps Made It Worse).tsv
+│   ├── 20250510 - The Loneliness Epidemic (And Why Dating Apps Made It Worse).txt
+│   ├── 20250510 - The Loneliness Epidemic (And Why Dating Apps Made It Worse).vtt
+│   ├── 20250515 - I Work, Therefore I Am... Replaceable.json
+│   ├── 20250515 - I Work, Therefore I Am... Replaceable.mp3
+│   ├── 20250515 - I Work, Therefore I Am... Replaceable.srt
+│   ├── 20250515 - I Work, Therefore I Am... Replaceable.tsv
+│   ├── 20250515 - I Work, Therefore I Am... Replaceable.txt
+│   ├── 20250515 - I Work, Therefore I Am... Replaceable.vtt
+│   ├── 20250520 - Free Will vs. Determinism： Fight Me.json
+│   ├── 20250520 - Free Will vs. Determinism： Fight Me.mp3
+│   ├── 20250520 - Free Will vs. Determinism： Fight Me.srt
+│   ├── 20250520 - Free Will vs. Determinism： Fight Me.tsv
+│   ├── 20250520 - Free Will vs. Determinism： Fight Me.txt
+│   ├── 20250520 - Free Will vs. Determinism： Fight Me.vtt
+│   ├── 20250526 - Romanticizing the Apocalypse： Why We Secretly Hope the World Ends.json
+│   ├── 20250526 - Romanticizing the Apocalypse： Why We Secretly Hope the World Ends.mp3
+│   ├── 20250526 - Romanticizing the Apocalypse： Why We Secretly Hope the World Ends.srt
+│   ├── 20250526 - Romanticizing the Apocalypse： Why We Secretly Hope the World Ends.tsv
+│   ├── 20250526 - Romanticizing the Apocalypse： Why We Secretly Hope the World Ends.txt
+│   ├── 20250526 - Romanticizing the Apocalypse： Why We Secretly Hope the World Ends.vtt
+│   ├── 20250601 - We Can't Tell What's Real Anymore： And Why That's Dangerous.json
+│   ├── 20250601 - We Can't Tell What's Real Anymore： And Why That's Dangerous.mp3
+│   ├── 20250601 - We Can't Tell What's Real Anymore： And Why That's Dangerous.srt
+│   ├── 20250601 - We Can't Tell What's Real Anymore： And Why That's Dangerous.tsv
+│   ├── 20250601 - We Can't Tell What's Real Anymore： And Why That's Dangerous.txt
+│   ├── 20250601 - We Can't Tell What's Real Anymore： And Why That's Dangerous.vtt
+│   ├── 20250605 - Techno Feudalism and the New Class War.json
+│   ├── 20250605 - Techno Feudalism and the New Class War.mp3
+│   ├── 20250605 - Techno Feudalism and the New Class War.srt
+│   ├── 20250605 - Techno Feudalism and the New Class War.tsv
+│   ├── 20250605 - Techno Feudalism and the New Class War.txt
+│   ├── 20250605 - Techno Feudalism and the New Class War.vtt
+│   ├── 20250611 - The Death of Intelligence： Why Modern Society Celebrates Stupidity. Part Two.json
+│   ├── 20250611 - The Death of Intelligence： Why Modern Society Celebrates Stupidity. Part Two.mp3
+│   ├── 20250611 - The Death of Intelligence： Why Modern Society Celebrates Stupidity. Part Two.srt
+│   ├── 20250611 - The Death of Intelligence： Why Modern Society Celebrates Stupidity. Part Two.tsv
+│   ├── 20250611 - The Death of Intelligence： Why Modern Society Celebrates Stupidity. Part Two.txt
+│   ├── 20250611 - The Death of Intelligence： Why Modern Society Celebrates Stupidity. Part Two.vtt
+│   ├── 20250618 - The Collapse is Just the Beginning (Then Things Get Weird).json
+│   ├── 20250618 - The Collapse is Just the Beginning (Then Things Get Weird).mp3
+│   ├── 20250618 - The Collapse is Just the Beginning (Then Things Get Weird).srt
+│   ├── 20250618 - The Collapse is Just the Beginning (Then Things Get Weird).tsv
+│   ├── 20250618 - The Collapse is Just the Beginning (Then Things Get Weird).txt
+│   ├── 20250618 - The Collapse is Just the Beginning (Then Things Get Weird).vtt
+│   ├── 20250621 - The Optimism in Absurdist Philosophy.json
+│   ├── 20250621 - The Optimism in Absurdist Philosophy.mp3
+│   ├── 20250621 - The Optimism in Absurdist Philosophy.srt
+│   ├── 20250621 - The Optimism in Absurdist Philosophy.tsv
+│   ├── 20250621 - The Optimism in Absurdist Philosophy.txt
+│   ├── 20250621 - The Optimism in Absurdist Philosophy.vtt
+│   ├── 20250625 - Zen and the Art of Folding Chair Maintenance.json
+│   ├── 20250625 - Zen and the Art of Folding Chair Maintenance.mp3
+│   ├── 20250625 - Zen and the Art of Folding Chair Maintenance.srt
+│   ├── 20250625 - Zen and the Art of Folding Chair Maintenance.tsv
+│   ├── 20250625 - Zen and the Art of Folding Chair Maintenance.txt
+│   ├── 20250625 - Zen and the Art of Folding Chair Maintenance.vtt
+│   ├── 20250627 - Fear and Loathing in the Age of AI.json
+│   ├── 20250627 - Fear and Loathing in the Age of AI.mp3
+│   ├── 20250627 - Fear and Loathing in the Age of AI.srt
+│   ├── 20250627 - Fear and Loathing in the Age of AI.tsv
+│   ├── 20250627 - Fear and Loathing in the Age of AI.txt
+│   ├── 20250627 - Fear and Loathing in the Age of AI.vtt
+│   ├── 20250702 - Shame, Guilt, and the Rigged Game of Modern Life.json
+│   ├── 20250702 - Shame, Guilt, and the Rigged Game of Modern Life.mp3
+│   ├── 20250702 - Shame, Guilt, and the Rigged Game of Modern Life.srt
+│   ├── 20250702 - Shame, Guilt, and the Rigged Game of Modern Life.tsv
+│   ├── 20250702 - Shame, Guilt, and the Rigged Game of Modern Life.txt
+│   ├── 20250702 - Shame, Guilt, and the Rigged Game of Modern Life.vtt
+│   ├── 20250706 - Why I Stopped Searching For A Purpose (And Found Something Better).json
+│   ├── 20250706 - Why I Stopped Searching For A Purpose (And Found Something Better).mp3
+│   ├── 20250706 - Why I Stopped Searching For A Purpose (And Found Something Better).srt
+│   ├── 20250706 - Why I Stopped Searching For A Purpose (And Found Something Better).tsv
+│   ├── 20250706 - Why I Stopped Searching For A Purpose (And Found Something Better).txt
+│   ├── 20250706 - Why I Stopped Searching For A Purpose (And Found Something Better).vtt
+│   ├── 20250710 - The Dark Side of ＂Everything Happens For A Reason＂.json
+│   ├── 20250710 - The Dark Side of ＂Everything Happens For A Reason＂.mp3
+│   ├── 20250710 - The Dark Side of ＂Everything Happens For A Reason＂.srt
+│   ├── 20250710 - The Dark Side of ＂Everything Happens For A Reason＂.tsv
+│   ├── 20250710 - The Dark Side of ＂Everything Happens For A Reason＂.txt
+│   ├── 20250710 - The Dark Side of ＂Everything Happens For A Reason＂.vtt
+│   ├── 20250713 - Signs You Might Be A Functional Melancholic....json
+│   ├── 20250713 - Signs You Might Be A Functional Melancholic....mp3
+│   ├── 20250713 - Signs You Might Be A Functional Melancholic....srt
+│   ├── 20250713 - Signs You Might Be A Functional Melancholic....tsv
+│   ├── 20250713 - Signs You Might Be A Functional Melancholic....txt
+│   ├── 20250713 - Signs You Might Be A Functional Melancholic....vtt
+│   ├── 20250720 - Why We're All Experiencing A Midlife Crisis.json
+│   ├── 20250720 - Why We're All Experiencing A Midlife Crisis.mp3
+│   ├── 20250720 - Why We're All Experiencing A Midlife Crisis.srt
+│   ├── 20250720 - Why We're All Experiencing A Midlife Crisis.tsv
+│   ├── 20250720 - Why We're All Experiencing A Midlife Crisis.txt
+│   ├── 20250720 - Why We're All Experiencing A Midlife Crisis.vtt
+│   ├── 20250723 - Wealth Inequality： The Quiet Apocalypse.json
+│   ├── 20250723 - Wealth Inequality： The Quiet Apocalypse.mp3
+│   ├── 20250723 - Wealth Inequality： The Quiet Apocalypse.srt
+│   ├── 20250723 - Wealth Inequality： The Quiet Apocalypse.tsv
+│   ├── 20250723 - Wealth Inequality： The Quiet Apocalypse.txt
+│   ├── 20250723 - Wealth Inequality： The Quiet Apocalypse.vtt
+│   ├── 20250728 - Population Decline and the Quiet Rise of Anti-Natalism.json
+│   ├── 20250728 - Population Decline and the Quiet Rise of Anti-Natalism.mp3
+│   ├── 20250728 - Population Decline and the Quiet Rise of Anti-Natalism.srt
+│   ├── 20250728 - Population Decline and the Quiet Rise of Anti-Natalism.tsv
+│   ├── 20250728 - Population Decline and the Quiet Rise of Anti-Natalism.txt
+│   ├── 20250728 - Population Decline and the Quiet Rise of Anti-Natalism.vtt
+│   ├── 20250802 - Why Letting Go Is the Only Way to Stay Sane.json
+│   ├── 20250802 - Why Letting Go Is the Only Way to Stay Sane.mp3
+│   ├── 20250802 - Why Letting Go Is the Only Way to Stay Sane.srt
+│   ├── 20250802 - Why Letting Go Is the Only Way to Stay Sane.tsv
+│   ├── 20250802 - Why Letting Go Is the Only Way to Stay Sane.txt
+│   ├── 20250802 - Why Letting Go Is the Only Way to Stay Sane.vtt
+│   ├── 20250807 - Is The System Quietly Phasing You Out？.json
+│   ├── 20250807 - Is The System Quietly Phasing You Out？.mp3
+│   ├── 20250807 - Is The System Quietly Phasing You Out？.srt
+│   ├── 20250807 - Is The System Quietly Phasing You Out？.tsv
+│   ├── 20250807 - Is The System Quietly Phasing You Out？.txt
+│   ├── 20250807 - Is The System Quietly Phasing You Out？.vtt
+│   ├── 20250810 - The Price of Self Awareness.json
+│   ├── 20250810 - The Price of Self Awareness.mp3
+│   ├── 20250810 - The Price of Self Awareness.srt
+│   ├── 20250810 - The Price of Self Awareness.tsv
+│   ├── 20250810 - The Price of Self Awareness.txt
+│   ├── 20250810 - The Price of Self Awareness.vtt
+│   ├── 20250813 - The Truth About Money and Work.json
+│   ├── 20250813 - The Truth About Money and Work.mp3
+│   ├── 20250813 - The Truth About Money and Work.srt
+│   ├── 20250813 - The Truth About Money and Work.tsv
+│   ├── 20250813 - The Truth About Money and Work.txt
+│   ├── 20250813 - The Truth About Money and Work.vtt
+│   ├── 20250819 - Civilization’s Inevitable Collapse.json
+│   ├── 20250819 - Civilization’s Inevitable Collapse.mp3
+│   ├── 20250819 - Civilization’s Inevitable Collapse.srt
+│   ├── 20250819 - Civilization’s Inevitable Collapse.tsv
+│   ├── 20250819 - Civilization’s Inevitable Collapse.txt
+│   ├── 20250819 - Civilization’s Inevitable Collapse.vtt
+│   ├── 20250824 - Suffering Is the Price of Admission to Existence.json
+│   ├── 20250824 - Suffering Is the Price of Admission to Existence.mp3
+│   ├── 20250824 - Suffering Is the Price of Admission to Existence.srt
+│   ├── 20250824 - Suffering Is the Price of Admission to Existence.tsv
+│   ├── 20250824 - Suffering Is the Price of Admission to Existence.txt
+│   ├── 20250824 - Suffering Is the Price of Admission to Existence.vtt
+│   ├── 20250829 - Finding Truth In A Post Truth World.mp3
+│   ├── 20250901 - The United States of Collapse： The End of Empire.mp3
+│   ├── 20250906 - The End of Connection： Social Collapse In the USA.mp3
+│   ├── 20250911 - The Solitary Path： How You're Broken By Connection, and By Its Absence.mp3
+│   ├── 20250914 - Twilight Zone America： The USA Dystopia.mp3
+│   ├── 20250919 - How to Survive the Absurdity of Being Alive.mp3
+│   ├── 20250923 - The Divided States of America.mp3
+│   ├── 20250926 - From True Detective To True Perspective： The Case For Pessimism.mp3
+│   ├── 20250930 - The New Rise of Authoritarianism.mp3
+│   ├── 20251003 - AI Messiah Or AI Executioner？.mp3
+│   ├── 20251005 - How Wealth Inequality Broke the Soul of Humanity.mp3
+│   ├── 20251008 - The Life and Death of the American Dream.mp3
+│   ├── 20251012 - The Paradox of Freedom： The Psychology of Control in an Age of Illusion.mp3
+│   ├── 20251016 - After America： Notes From the Wreckage.mp3
+│   ├── 20251019 - Civil War： The Oligarchs Favorite Reality Show.mp3
+│   ├── 20251022 - Inside Every Cynic Is A Disappointed Idealist.mp3
+│   ├── 20251025 - The Uncanny Valley of Modern Life.mp3
+│   ├── 20251029 - The Reality Crisis： The Rise of AI Psychosis.mp3
+│   ├── 20251031 - Why The Middle Class Was Never Real.mp3
+│   ├── 20251103 - Meaninglessness For the Modern Age： How To Stop Searching and Start Living.mp3
+│   ├── 20251106 - Detachment： Loving Without A Leash.mp3
+│   ├── 20251108 - To Stay Or To Leave： The Brutal Reality of Modern America.mp3
+│   ├── 20251112 - Modern Life Is a Psychological Experiment (and We’re All the Lab Rats).mp3
+│   ├── 20251115 - The Rise of the Low Desire Society.mp3
+│   ├── 20251119 - The True Cost of Being Alive In America.mp3
+│   ├── 20251123 - Alan Watts： The Man Who Called Out Our Collective Delusion.mp3
+│   ├── 20251127 - AI and the Termination of Human Purpose.mp3
+│   ├── 20251201 - You're Not Depressed, You Just Saw Through The Lie.mp3
+│   ├── 20251204 - The World Feels Wrong Because You’re Paying Attention.mp3
+│   ├── 20251208 - You're Waking Up And They Don't Want You To....mp3
+│   ├── 20251213 - Why Your Life Feels Like It Never Started.mp3
+│   ├── 20251218 - You’re Not Broken, The World Is Just Structurally Lonely.mp3
+│   ├── 20251220 - When The System Dies, You Finally Get Your Life Back.mp3
+│   ├── 20251223 - The United States of Eviction.mp3
+│   ├── 20251227 - Beyond the Apocalypse：  Solarpunk Without the Fantasy.mp3
+│   ├── 20251229 - The Great American Unraveling： Why Refusal is the New Rebellion.mp3
+│   ├── 20260101 - Self Help for People Who Hate Self Help.mp3
+│   ├── 20260104 - The Denial of Death： The Architecture of Our Collective Delusion.mp3
+│   ├── 20260108 - Against Availability： On the Right To Be Alone.mp3
+│   ├── 20260111 - Twilight Zone USA： America's Healthcare Horror.mp3
+│   ├── 20260113 - They’re Planning a Future Without You.mp3
+│   ├── 20260117 - The Controlled Demolition of the Present.mp3
+│   ├── 20260121 - The World Isn't Ending It's Just Getting Weirder.mp3
+│   ├── 20260124 - Hauntology： Our Nostalgia For A Lost Future.mp3
+│   ├── 20260128 - USA： At The Threshold Of Revolution.mp3
+│   ├── 20260201 - Unsolicited Wisdom： Life in the Digital Panopticon.mp3
+│   ├── 20260204 - The Death And Rebirth Of ＂Someday＂.mp3
+│   ├── 20260207 - Is Human Consciousness A Mistake？.mp3
+│   ├── 20260210 - The Parasitic .1%： Anatomy of a Pathology.mp3
+│   ├── Authenticity vs. Love： The Architecture of Self Betrayal.mp3
+│   ├── How Fascism Actually Happens.mp3
+│   ├── The Dark Enlightenment and Cognitive Sovereignty.mp3
+│   ├── The Great Refusal Has Begun.mp3
+│   └── The Quiet Rebellion： Withdrawal As Resistance.mp3
+├── archive.txt
+├── cookies.txt
+└── file-list.txt
+
+2 directories, 285 files
