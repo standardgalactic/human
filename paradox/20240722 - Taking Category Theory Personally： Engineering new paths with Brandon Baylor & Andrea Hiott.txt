@@ -1,0 +1,972 @@
+This paradigm of we have today of wanting to label everything and think in a very binary,
+dualistic way is so embedded in the way we think and relate to one another.
+And as a child, that was something I grappled with just on a personal level.
+I was raised by a single mother and I didn't know my biological father until I was like
+11 or 12 years old.
+So I had this sort of question that lingered in my mind of like, who do I label father
+in my family tree?
+I was always terrified of the genealogy project in school because was it my grandfather who
+is like a predominant male influence, you know, fatherly figure in my life?
+Was it my eventual adopted father?
+Was it, you know, like I, so I struggle with the concept of a label.
+Why do I have to ascribe a label to this relationship?
+So I always struggle with labels, right?
+As a, as a child.
+And then the shift is in categorical thinking category theory isn't about labels like, like
+set theory is about, is it in the set or is it not that set theory is sort of the, the
+traditional foundation of math for the last hundred, 150 years where we, we assign things
+membership, right?
+Based on, on a label and category theory is the opposite.
+It's like, describe the role that the thing plays in, in my life.
+Like what's the role that I don't care what, what to call this person, I want to understand
+what's the relationship they have to me.
+And can I define things based on the relationship to other things?
+That's called the, in category theory, they call it the Yoneta perspective.
+One of the most powerful results in category theory was this Yoneta lemma, which says you
+can define an object basically by its relationship to other things, rather than trying to define
+an object by its intrinsic characteristics or its membership to a group.
+Hello everyone.
+Welcome to love and philosophy.
+So the reason behind this podcast and way making and navigability and pretty much everything
+I've been doing the past 10 years of my life in one way or another, uh, could maybe be
+explained in large part or some part as a motivation to find a new norm of understanding beyond dichotomy,
+to connect across ways of life and disciplines in love, to understand life's movement or the
+movement of life as cognitive, but not cognitive in the way we've thought.
+In other words, to notice the pattern beyond the paradox.
+That's how I've been thinking of it lately. Weirdly though, and challengingly to notice
+this pattern beyond the paradox or to explore this space beyond dichotomy doesn't mean we
+invalidate or erase those experiences that we call paradoxes or dichotomies or opposites
+or either ors, which is part of why it's so hard to explain.
+It's a little bit like trying to use dichotomy to get beyond it.
+Our language itself is sort of built in with all of this.
+So it's like trying to find the beginning and end of a fractal.
+In any case, what has been extremely helpful and also difficult in terms of my learning
+curve is to try to find mathematical understandings of how to do this mathematical theories, expressing
+how many valid paths can lead to the same place in a multi-scale level of space and time
+and areas of our lives. So in other words, to try to get past thinking in linear ways
+about paths and spaces, while also understanding that many different kinds of paths in these
+many different spaces can be understood in common.
+That's part of all this philosophy and science. We're communicating with one another so as to
+expand what's possible. But at the same time, as we do that, we perpetuate what is possible.
+So we can never pin down something objective in one measurement or one definition, because
+the measurement itself is a change. So you see this kind of process of what comes to be
+called dichotomy or dialectic or paradox or something, but it's this dynamic movement.
+So how can we understand this? How can we understand no one assessment or measurement is objective
+from every spatiotemporal position, but at the same time, measurement and assessment, when
+we know that that's what it is, is probably the most robust and meaningful way we can learn
+and share and know, at least outside of art and those sorts of creations like music and
+novels and things like that, which are also very important too, and are actually not disconnected
+from this, which would be a whole other theme. But today I want to think more about these
+theories and models, because today's guest is Brandon Baylor, and he's working with a general
+theory of mathematical structures and their relations, relation being a keyword, which
+is known as category theory. And the ways this is important to all this rambling I've
+done so far is that he and another of our colleagues at Hold On Labs, Esteban Montero. Esteban and
+Brandon have decades of experience in engineering. They're both graduates of MIT, and they've had
+a similar experience, as you'll hear in this conversation, in terms of trying to understand category
+theory in the ways that I'm hinting at above. They wrote a book called A Categorical Defense
+of Our Future, which does this really hard and, frankly, really bold work of trying to
+communicate how this theory can help us in a personal way, or how it helps us think through
+a mental framework that might be a better fit for the complexity of the world we find ourselves
+in today. And they're doing that in a lot of different fields, but I mean, in this field
+of engineering, that's really quite a bold thing to be trying to do. So yes, Brandon is an engineer.
+He's worked for some of the biggest companies in the world. But he's also a person who, as you'll
+hear, taught himself or went out and found the people who could teach him how to understand category
+theory in a really rigorous mathematical form. And then he did the hard work of thinking through
+his own life and experience with this framework almost as a tool, and then sharing that with us
+and with you. That's what he and Esteban do in their book. And it's just beginning. It's a hard
+process. It's breaking new ground. But I think it's a really important journey. And I really am
+thankful to Brandon for sharing his journey here and for living his life in a way where he tries to
+learn and grow and be vulnerable and talk about difficult issues. And at the same time, live up to
+very high standards as an engineer and in terms of the math. So that itself is already kind of an
+expression of this pattern beyond the paradox. So I hope you'll read their book, have a look at it,
+join this discussion towards clarifying and better connecting all these ideas. And I also hope you
+enjoy this episode and that it feels alive and loving for you or that life itself feels alive and
+loving for you today as you make your way. Thanks for being here. Hi, Brandon. So good to see you.
+Thanks for being here today. You bet. I'm happy to be here. So there's so much I want to talk to you
+about. And I'm going to try to start from a more personal place for me, actually, and see if we can
+get into this broad world of category theory. So I'm trying to do this podcast for research reasons.
+And there's so many different areas that I'm interested in or that meet relative to the
+philosophies that I'm doing and the many different kinds of work I'm doing. And it can seem overwhelming
+because I feel like there's so much information that is so interesting. And I try to think, how do,
+how can I make all of these seemingly different areas comprehensible or connect? I just put that
+forward. I wonder if you see that as a possible problem relative to what category theory
+offers us. Sure. So I spent the last, I think, going on 15 years working as an engineer and
+operations, dealing with systems and exactly what you're saying, this multidisciplinary
+background that I have seen this problem at coming from the angle of engineering, trying to integrate
+different disciplines and domains across the global organization. I've worked for a fortune 500
+company my whole career. It's one of the most resourceful companies, but still challenged to
+integrate. And how can it be that we continue to struggle putting our ideas together across
+different disciplines when we have so much access to resources and technology today? Right. So just
+kind of getting to the answer to your question, I think that's what category theory was really
+designed to do in the early days. So category theory started in the forties, right, as an idea to be
+able to transport concepts and theorems across the different vast domains of mathematics itself.
+So I think by its very nature, it's sort of meant to be that connective tissue that
+relates ideas together using different methods, different ways of sort of formalizing those ideas
+and sharing them. So I think category theory is well positioned to be that sort of language that
+helps us integrate the different domains of knowledge or systems or whatever it is that we're
+working on. So you've worked for a lot of really big companies. We're not going to go into
+all of that, but you've worked in engineering and management, solving problems, problem solving.
+I wonder when category theory came into the picture?
+I grew up in a small town and always knew I wanted to be an engineer. I had an affinity for math and
+science, and I love science fiction. So I was always drawn to technology and machines and innovation
+and new ways of thinking. So I knew I wanted to be an engineer, but I sort of stumbled into my career
+in the energy industry as an engineer. I would say that my disposition to sort of resonate with
+category theory, I think the seeds were planted in my childhood, and maybe we can come back to that.
+But I think the more straightforward answer from an engineering perspective is I had several examples
+as an early career engineer where I was trying to design a system in my domain, my specialty.
+And as happens a lot in engineering, I have to adapt to a changing requirement or a changing
+standard. And so I remember this one case very vividly in my early career, like second or third
+year out of undergrad, and I'm still learning, new engineer. And I basically had to read, I had to
+absorb a changing requirement into my domain. I came up with a new design. It was superior from a local
+content, a local sense, like it was faster, cheaper, safer. And so I got rewarded for that sort of local
+redesign of the system. And however, you know, even though I'm getting pats on the back, the sort of
+promotion, six months later, I get a call from a team that's like six degrees removed from me in the
+sort of workflow. And they're calling me like, what the heck, you just created all this more problems
+for us. And so that was an instance in my early career where it didn't sit right with me that how can
+someone be rewarded for sort of a local change? And yet it impacted the whole in a, in a, you know,
+it hurt performance as a whole. And so I always sort of stuck with me, I didn't have a vocabulary
+or training to articulate what to do about it other than, you know, you make better use of meetings
+and phone calls and tribal knowledge. And because we didn't have like a more formal way to sort of see
+that the implications of when we make a local change, how does it affect the whole? And so that was
+one instance, I've seen many more in my career, whether it was a safety related thing or performance
+related event. But, you know, I went about 10 years into my career with facing those experiences over
+and over again. And then I was able to go back to school, I was trained in complex engineering systems
+at MIT. And that was really an inflection point. And just, I had a new vocabulary and how to think
+about systems and integration, context, complexity. And so that was a real changing point for me to be
+able to start attacking this problem of how we think more holistically and manage and operate
+complex systems. Yeah, it's kind of amazing. You come into a new space and you have a new idea and
+you solve a problem differently. And this all seems very positive. It's what people want, right? It's
+what we're looking for. But that sort of sets into motion lots of different domino trains, right? And
+you can't really always see how it's going to change things. So this is really a fascinating
+thing. And I do think that, and we're going to get to it, that category theory can help us start to get
+a bit of a grasp on it. I guess first, I'm trying to set up some problems because that's a problem in
+engineering and management and business. But I think we see it all in our daily lives too. When you have
+certain conversations and you're trying to share certain things with certain people,
+and maybe you say something that sets a train of thought or an action pattern in motion that you
+really didn't expect that has either better consequences or worse consequences. So I think
+there's a way in which we can all really understand what you just expressed. But when this happened,
+you weren't thinking about category theory, right? No.
+This example. Okay. So I wondered, did it stick with you? I mean, I obviously did because you're
+telling it now, but it seems like that bothered you a lot that you had initiated an action that
+then had these consequences that were difficult for people, even though you'd come at it with the
+right intention. Is that part of the motivation that eventually went into you being so interested
+in category theory? And you can also feel free to go back to your childhood. Is there a way that these,
+did you have something like that in childhood too, maybe that stuck with you?
+Yeah, that's a great intersection because it did stick with me and it always troubled me,
+but I didn't know how to do, do anything about it. And so I, you know, I took a year off to go back
+to school. My, my company sponsored me to go get this degree in complex engineering systems at MIT.
+So I was equipped with state-of-the-art tools and methods for trying to tackle this problem,
+right? So I came back to the business. I tried to apply every single tool of systems engineering
+that I knew and that I had available. And, and also around this time that my, my colleague and
+partner Esteban Montero, who has, I'm sure we'll get into, has been my key friend and colleague on
+this journey since, since that time, because he did the same program many years prior. So I had this
+experience where I tried to attack the problem with this new skillset around systems and complexity,
+but nothing seemed to work, nothing actually scaled. And that was a hard, that was kind of a
+reckoning in my own personal reflection because, and this is where Esteban helped me, kind of held up a
+mirror to me. And because, you know, I had this great experience at MIT. It's, it was just
+transformational seeing new technology, this melting pot of all these different ideas and
+disciplines. But then you come back to the business and the corporate sort of culture and I, the old
+pattern starts to creep in and the short-term thinking. But if you really stay true to sort of
+the question of how do we think differently about this, you realize that none of the available tools
+actually scale or work in the way that we need to, to handle the class of, of challenges that are like
+volatile, uncertain, complex, ambiguous, like there is no system modeling tool out there or framework
+that actually tackles this. And that's really where, at the time Esteban was working with category
+theory on an effort to sort of try and represent different domains in this interdisciplinary project.
+And that's when I first found out about it and the kinship between what I had just learned from
+systems engineering, that it's all about the relationships and the connections between the
+components and like emergence. That's the kind of the goal is to understand those emergent effects
+and unintended effects of systems that we create and intervene. And here category theory was saying
+the exact same thing, but a different language, but the same, I could see the relationship. And so
+I sort of, that realization that nothing is available and here's this new kind of math and
+science at our disposal. That was the intersection that led me to really even try to learn category
+theory and understand what it could do for engineering as a discipline.
+So when you say solve this or the problem, is it what I'm trying to, is what, is it what I was
+trying to express of just feeling kind of like things are a little bit out of control or there's too
+much possibility and knowledge that you can't, you can't anticipate. I mean, if you try to think about
+what was bothering you and when you heard about category, what it lit up in a way, what's the nugget there?
+I think it's, it's all about the challenge of coordination and mobilizing collective action.
+And in a way that's because today, every time we try to do that, every time we try to integrate
+these different knowledge bases or databases or processes, it's always through a paradigm of,
+I would say centrality. Like there's always a central governing body or standard of how to call
+things. And, and the idea is that in business today is if only we could all align and agree by
+consensus on, on what to call things, then we can finally figure out how to coordinate our work
+efficiently. And so again, that works for certain well understood and predictable systems. But when
+there's, when you embrace the sort of ever-changing nature of contemporary systems that the need for
+adaptation and you realize that, that, that paradigm doesn't work. And so I was hungry for a way to put
+all these pieces together of knowledge, of data, of processes without that parent, like in a different
+way. And that's, I think what category theory does, it sort of serves as a connective tissue to be able
+to, to relate these domains, to preserve meaning as, as everyone's trying to, to put their work together
+and, and really understand what work are you actually doing when you integrate a system or a database or,
+or that knowledge that you're describing. So I think that's when I say the problem or the challenge
+is really about coordination at all scales, not just at the level of a, an individual, of a team,
+you know, at the scale of a, of an industry, right? Like we need to, we're trying to steer collective
+action to be more, you know, healthy and harmonious and, and beneficial to the planet and society. And
+we can continue to struggle to sort of, to do that, even though we all understand that we need, we need
+to change, you know? So what are the structures that can we create more awareness around, you know, those
+reasons? Yeah. In a way that's what a lot of the things that we've built, uh, are trying to do is
+get some order and find ways to translate different worlds. I mean, we, we could talk about this in
+language or we could talk about this in humanities, but let's think about even math. I mean, math in a
+way is, is, is it trying to kind of do that already in, in a sense? Um, because what I want to kind of
+get at is why category theory is doing something different. Um, there's so many different ways that
+we've tried to approach different problems and to integrate and to connect, but I feel like what
+you wanted and what category theory is doing is actually even beyond just labeling and, um,
+coordination is a good word, but yeah. So just to go back, had you studied math and engineering and all
+of this when you were younger? What was interest? What got you into that? Let's go back to your
+childhood first a little bit too, because I don't know much about you as a kid. I think of you as an
+engineer, a mathematician, thinking of all these, you know, all these particular ways, but what were
+you like when you were a kid? Were you also trying to figure out the world and connect things, integrate?
+Yeah. I love what you said. Um, I think that it really started this, this paradigm of we have today of
+like label wanting to label everything and think in a very binary dualistic way is so embedded in
+the way we think and relate to one another. And so as a child, that was something I grappled with
+just on a personal level, because I, I was raised by a single mother and I, I didn't know my biological
+father until I was like 11 or 12 years old. And so I had, I had this sort of question that would
+lingered in my mind of like, who do I label father and my family tree? I was always terrified of the
+genealogy project in school. Cause I don't know, you know, was it my grandfather who was like a
+predominant male influence, you know, fatherly figure in my life? Was it my eventual adopted
+father? Was it, you know, like I, so I struggle with the concept of a label. Why do I have to ascribe
+a label to this relationship? Yeah. And so I always struggle with labels, right. As a, as a child.
+And then the shift is in categorical thinking category theory, isn't about labels. Like,
+like set theory is about, you know, is it in the set or is it not that set theory is sort of the,
+the traditional foundation of math for the last hundred, 150 years where we put things that we
+assign things membership, right. Based on, on a label and category theory is the opposite. It's like,
+describe the role that the thing plays in, in my life. Like what's the role that I don't care what to call
+this person. I want to understand what's the relationship they have to me. And can I define
+things based on the relationship to other things? That's called the category theory,
+they call it the Yoneta perspective, because one of the most powerful results in category theory was
+this Yoneta lemma, which says you can define an object basically by its relationship to other things,
+rather than trying to define an object by its intrinsic characteristics or its membership to a
+group. Is it in, or is it out? Define it by its, how it relates to everything else. And that,
+that's the sort of like philosophical shift that really grabbed me.
+Let's sit with this a bit. Cause this is powerful. I think that as kids, we do learn that,
+right. It is something that we learn. It's that we learn, we should categorize and label things.
+There's all these kinds of ways in which society is structured that does label and where you feel
+like you need to be a member. I think it's part of what motivates a lot of our adult behavior too,
+is that initial feeling as kids, like, okay, we have to fit, we have to be members,
+we have to be labeled. And at the same time, all of us kind of know that no one label fits to anything,
+even in family relationships. So yeah, I guess I want to kind of dig into that just a little bit
+more because I think it's a place people can connect is, do you remember having the sense that things
+didn't fit in to labels easily? Or was it more a personal sense of you feeling like maybe it did for
+everyone else, but not for you? Yeah. I mean, this, this was something I maybe didn't articulate
+it this way as a kid, you know, vocabulary, but I sort of internalize it in different ways.
+And this is, you know, this is what kind of what category theory has meant to my life basically is
+this sort of, you know, sometimes you have this sort of, I mean, that was a traumatic experience.
+I would, I would dare to say as a, as a child. And, and you tried, as you grow older, you try to
+reason about everything intellectually. And it's like, I can just, if I can think through my, this
+using my brain and my mind and my intellect, I'll kind of relate to the suffering, I can deal with it.
+But I think what that shift in perspective, that category theory offered me was like,
+the capacity to just let go of the words of the labels. Sometimes there are no words to articulate and
+relate to that trauma or that suffering or that experience. And, and that's what category theory
+was inviting me to do, because it is, it's like the most abstract branch of mathematics. It doesn't
+actually care about the content or the label. It's all about the structure and how you encode meaning
+in that structure. And so here's this new language that sort of give me that spirit of
+non-conceptual, like embracing the non-conceptual and thinking at not even thinking, but like just,
+you know, something that words can't describe, you can't label these, this graph, you know,
+categories are represented as graphs often. But, so yeah, it really spoke to me in that sense,
+how I related to the world and, and just let go of trying to find this, like this ground to stand
+on through, through those challenging experiences. It's an interesting kind of intersection though,
+because when I think of you and when I was reading this part of the book, a boy who doesn't have a
+father already, you know, there and your grandfather sort of took on that role. And you had a cousin who
+made it clear that you weren't actually part of that group, that immediate group, like her father,
+it wasn't a cousin, it was your aunt who was really young. That's right. Yeah. So, and she made it very
+clear that like, you're not part of this group. You're not the, he's not your father. You're not that,
+you know, that's not your label, but he's your grandfather. You're like, it's almost like pushing you,
+just as kids do. I don't, so when I think of this boy in this situation, I imagine you have these
+kind of conflicting things of, first of all, you start to realize you're the man in your little
+group with your mom. That's a kind of like, almost like you need to find some way to control the
+situation or something. Also just that that was probably really traumatic and difficult and you need
+to find some way to get some grasp or control. Control comes in, you know, like it feels very
+precarious. So I can imagine you trying to find some control and that makes me understand why you
+might go towards engineering and maths, you know, because that's a way to control the world and
+understand the world and look, look into things and understand how they work. So I'm just putting
+that out there, but how did the engineering part come into being? Yeah, well, you know, I came back
+from my training at MIT, we were learning about complex systems and was trying to apply and well,
+I remember Esteban was using category theory and a knowledge graph technology to try and develop a
+new technology. And it was a real testament to his leadership there to be able to even bring that into
+a corporate setting in the first place, because it is so amazing. Let's just say, Esteban,
+who co-authored a book with you, A Categorical Defense of the Future, is quite a powerful force
+in the world. And he's been on the show before, but yeah, just go ahead and say that.
+Yeah, no, thank you. I mean, meeting him was an experience and I can, we can talk about that as
+well because I think he relates a lot of this. But, you know, so he introduced me into category theory
+and then from an engineering perspective and no one else really understood what it was doing,
+like what it could do, what it was, but they trusted Esteban because he's Esteban. And I was
+intrigued. I was, again, for all these sort of latent sort of things inside of me had sort of,
+okay, I'm intrigued. I want to try and understand this. And I struggled for many months on my own,
+trying to self-study. I was watching videos of David Spivak, you know, lecture on category theory.
+Was he actually at MIT with you guys? Or was that just, you met him later?
+I met him later. Yeah. I think, I think it was, I had come to MIT a little after he had left,
+I think. So we missed crossing paths in that sense, but afterward connected. And I was watching videos
+of Eugenia Chang, who has really popularized category theory in a more broad sense, which is just beautiful.
+Her exposition is fantastic. So I was building this intuition, um, without knowing how to apply
+it yet to engineering. And so it wasn't until I, um, S Warren, Sub Sub Moranian, uh, Professor Sub,
+Carnegie Mellon. He's a, he's a professor at Carnegie Mellon and Spencer Briner, a mathematician at NIST,
+the National Institute of Standards and Technology, that I had a shepherd, kind of someone with, who knew,
+knew this domain that could sort of help guide me through it and, and, and teach me and really
+describe how this might work in industry and in engineering. So I really needed that guide to,
+to take the next step forward. Otherwise I was, I was struggling. So you've had some amazing guides
+in your life and I want to get to them, but I was really like, I w I really wonder as a child,
+though, did you care about taking things apart and trying to put them back together? And like,
+before you met Esteban before just at the very start of it into your schooling, was that just by
+chance that you ended up in that already in that group of people that then sort of have definitely
+changed your life, but yeah. Can you kind of connect those parts a little bit? Yeah. Um, yeah, I, I just,
+I was just interested in, in the whole notion of engineering and because I love that, as you were
+saying, I was very driven by control and like, I want things to work a certain way. I love structure.
+I'm very disciplined. And so even as a kid, were you taking your bike apart and stuff or like,
+what, how did it manifest? I don't know. Um, yeah, I don't, I, I never really, yeah, I guess
+it was all sort of in my head. I love, I love playing chess. I love video game video games. I loved,
+um, so, so yeah, chess is like very formal. There's rules, you know, how, you know, what you're
+allowed to do, what you're not allowed to do. It's sort of, um, I love competition. I just,
+I played a lot of sports and, um, but you know, I think, I think this is important point,
+right? Like I sort of had this, this challenging experience as a, as a kid and I sort of internalized
+it, this, this, I internalized it as perfectionism, right. And like need for control. And that's what
+I'm trying to get a view of where did you feel safe and what kind of activities made you feel safe?
+You know, so, but it's, but the switch, right? Like how, how'd you go from that, that sort of
+utilitarian view of the world to category theory, like completely open. Yeah. Well, I think that,
+you know, I, I was sort of born into this, like feeling of inadequacy my whole life, because I'm
+wondering like, is there a person out there that doesn't want me, doesn't love me. And so I was always
+seeking that sort of validation and, and through a perfectionism. And so I, I wanted to be the best at
+whatever I did, whether it was wrestling or baseball or school or, but then in my late
+teens and early twenties, I sort of had these six series of experiences that just bring you to your
+knees basically. Like, and you have no choice, but to sort of confront that, that place, right. Of,
+of I would, you know, I wouldn't call it failure now, but like, yeah, I mean, just, just suffering and
+challenges and whether it's relationships or you didn't achieve a goal and you just reach these,
+these places where you have to sort of radically accept that the control is an illusion basically,
+and to let go of the ground that you think you're standing on. And, and, and I appreciate that there
+is no ground to begin with. And that, so I had that experience that propelled me in.
+Can you tell me about one of them or, I mean, that's a, cause it's, I was thinking of that when
+I was reading the book that there's a way in which, um, even trying to learn about it in the sense,
+like these things aren't separate. There's a kind of discomfort and a challenge about trying
+to get to the point where category theory becomes abstraction in a way that's empowering. So I was
+wondering, like, it's almost as if experiencing something like what feels like defeat in the
+moment before you have these tools to understand it or failure or what, or loss is a kind of portal
+into this space in a way. I don't know. So maybe could you think of one that doesn't have to be
+specific, but sure. I mean, I, I had a really, I mean, I was a devoted wrestler my whole high school
+career. And so many years building up to, to win the state championship, right? There's a goal.
+And I had like the most, just the closest match in the state championship mat and final in my junior
+year. And it was just heartbreaking. Right. Cause you, you literally spent years training and
+preparing for this moment. It feels like your whole life at that time too. I mean,
+yeah. So that, that was one. And then there's other things we're losing relationships and
+just, just other social things. And, um,
+even more, I think it all came together with sort of my confrontation with religion. Like I was raised
+Catholic, pretty devout Catholic family. And I was sort of the first to sort of
+break away from that. And that, that was a heavy moment for me. Right. Because your
+disappointment from my family and how do I, that was a true turning point for me because I had
+upended my whole framework on how I organized my life. Right. And so, oh yeah, that was a moment where
+I broke open, as you say. And, um, and I started to, I didn't, I didn't have anywhere to turn to sort of
+that, find that comfort. And so I, I think it materialized as like, um, I turned to like,
+I didn't, I mean, I meditate now and I'm very Zen now, but I, I didn't know about it until later,
+much later in my life. I, I, I use weightlifting and like the gym as that sort of, um, place where
+you start building the capacity to see through your own delusions in a way, like you go to the gym and
+there's no flattering. Like there's no, you can't, the barbell doesn't lie, you know? So it's, it
+became this daily practice for me of, um, kind of self disenchantment. Like, like it's not about
+attaining something. It's about just measuring your, your own sincerity of how you express yourself
+and, um, you do it for yourself. And, and that was sort of the, my meditative practice in the end of
+my twenties, um, that I think helped me sort of be able to lift the veil of those self-defense
+mechanisms that would prevent someone from leaning into category theory. That's kind of the point,
+right. The, the leap I'm trying to make is that to really embrace the philosophy and spirit that
+that category theory provided me, I had to be able to see through my own self-defense mechanisms. Right.
+And yeah, isn't that interesting? And it's also like what you described as a kind of discipline
+and ordering and rules, which I feel like that's also very important in the category theory and to you
+in it. So this is really interesting to me, this, it's not a dichotomy, but this,
+that discipline brings a kind of ability to open and feel more freedom. Um, even the weightlifting,
+right? You're it's, it's like discipline and it's daily, but you can have some control at the same
+time and you can develop a different way of being in the world. Um, I don't see that as completely
+different from what something like category theory can, can do, but yeah, I think, I mean, a lot of,
+a lot of people, it's a mode of self-improvement, which is fine. Like, but for me, it became a way
+to study the self. So that way I could sort of forget myself and see how I'm related to everything
+else in that sort of categorical way. It, it, and that's what category theory gives you discipline
+and formality and rules, but it's at like a higher level of abstraction. It's more about
+studying the connections and how we relate to one another. So I needed that sort of practice
+to, to be able to be open. I think, I think that mentality prepared me for category theory in a way
+that, um, you know, it, otherwise I, I wouldn't been able to see, you know, have that meta awareness,
+meta kind of awareness of, um, yeah, how, what, what it can do for me in the terms of engineering or life
+or, you know, so on. That's something too, that helps when we have these hard situations,
+like the one with your being, you know, not having your father around, um, and being seen differently,
+because, you know, the majority of people sort of fit into these little labels. And when you don't,
+you do start to realize, oh, there's actually a lot of different perspectives and
+ways from which the world can be viewed. It gives you a kind of, it's not a secret knowledge, but I mean,
+there's a kind of power power. And once you can sit with that space realizing, oh, you know,
+it's not how everyone thinks it is actually. Um, but I want to like, we'll come back to the personal
+stuff, but I want to really think because category theory is very practical and rule-based and, um,
+there's, it's very disciplined. So let's try to link like, okay, so you, you had this childhood with
+a lot of really rich, um, difficult, beautiful experiences. And then you did end up going to
+college. You did excel. I mean, you have excelled quite a lot in your life and a lot of things.
+Um, and you ended up in this environment in MIT where you had these very successful, um,
+fascinating people like Esteban sort of obviously noticing you because he, he would say the same about
+you that, you know, he saw something in you. So, um, let's go to that moment. Had you studied a lot
+of maths before then? Was it wasn't, was it a totally new to start thinking about math or was
+that something you were familiar with? Like other things, like other kinds of math and programming?
+Yeah, this was, yeah, this was a part of the journey, I think. And I had the very traditional
+engineering curriculum in school, right? So I, you know, calculus and algebra and so on. So
+nothing prepared me in my education for how to think in this sort of new abstract way. Not that
+it's fun. Can you help me understand what those were like for someone who's never had that kind
+of stuff? Like, what is that training like? Like, what did, what were you, what was that? I had to,
+I had to basically forget a lot of what I had learned, like the ways I was taught to think of
+math as a very utilitarian. There is an exact answer to an equation. There is one objective
+truth to a math problem like that. So all these other maths and all these other ways you'd been
+learning and engineering, all of them were, were built on that, that idea that there's one answer,
+there is a center. Right. Exactly. Okay. Yeah. I mean, and, and because that's it from the lens of
+engineering, it's problem solving. We have a problem to solve it. We're very practical, utilitarian.
+We don't have time to just sort of represent all these diverse views. Let's just focus on
+this one problem. We got the business to run. So I had to sort of unwind that conditioning I had
+over the years. And I mean, I went, I remember my first conversation with Spencer Briner. Like,
+he's like, do you know what a monoid is? Do you know what a group is? Do you know what, like,
+he's listing all these algebraic firms that I had no clue. And at that moment you could have,
+I could have ran away. It ran in the other direction because it's like,
+most people probably would have, but yeah, I was intrigued and, and I just had to keep
+going back. Like I had to buy books on like basic algebra. Like, what does it mean to think
+algebraically? What is algebra? The study of equations. Okay. I remember equations. I appreciate
+three X minus 11 equals 10. And there's a, there's a procedure to solve for that X and that, you know,
+that, okay. So I had some intuition of algebra and basically what category theory is,
+is like vast generalization of that. We've kind of forgotten like eighth grade algebra.
+That was like the ending point. And then we did all this like problem solving utilitarian type of
+math. Like, but if you stay with that algebraic idea and you extend it, not just to symbols X's
+and Y's, but to structures like patterns and connections and networks of things that are
+connected, what's the algebra of how to relate different networks together. And that that's sort of
+the idea. The equation isn't a symbol as an X or Y it's the abstraction is like comparing paths
+in a network and, and comparing whether or not they may not have the same labels, but they have
+the same structure. So you, you're given this more nuanced way to compare things and, and at the
+structure, the level of structure, that's the abstraction. That's really powerful and category.
+So this is kind of interesting hard for me, for me a bit, because I don't know math so much,
+but it sounds like, I mean, I would have thought algebra is very different from category theory,
+because I think maybe the way I was taught that it's very linear and there's only one answer.
+But actually, as you were saying that I was realizing there's always many, many ways that
+you can solve any problem actually. So if you take it in that big scope, right, you, you do actually,
+it already is many different paths, but is what happens that in math, it feels like what category
+theory would open, which is that there's many completely different paths to a similar goal.
+In the same way we were talking about, there's many different perspectives as a kid. There's no
+one being a kid with two labels of mom and dad. So I feel like math would kind of, most, most maths would
+go that, that route of linear and everything has a membership in a, in a place, but you're saying
+algebra doesn't do that. Right. Am I understanding that? Right. Okay. Yeah, no, I think category
+theory is like the algebra of algebras in a way it's, it's, it'll, it gives you rules for like
+relating different algebras and relating different domains in math. So it, it sort of sits at like a
+higher level than like set theory or topology or group theory, whatever you, whatever domain you want
+to look at. Because those things are putting things into labels, right? So something like set theory,
+there's members and there's definite groups. Is that right? And that's just the way it is or?
+Those fields of math crystallized to sort of form in a certain context to sort of reason about
+specific problems, like mathematically with logic and rules. And so they were kind of each specialized
+to sort of like group theories about the study of symmetry and set theories, the study of membership.
+And, and category theory sort of like helps you see that, hey, there's a pattern in group theory
+that relates to topology somehow. And if I borrow this idea from group theory, I can compare things
+in a topological way that I before would have been too, too hard to sort of prove in a mathematical
+sense. And so, yeah, it's, it's sort of category theories, just a generalization of that x equals x squared
+equals y kind of training we all had to, to apply a similar procedure and, and, and rules around
+networks, systems of relationships that don't have any inherent meaning. You're just thinking
+about the connections themselves and, and how they relate.
+So this is great too, because, okay, so I, I feel like if I'm generalizing a lot, but the kind of
+maths of life is more, has been more like linear, and there's your, your part of them of groups, and
+that's just how it is. And you have to find a place to fit. And category theory is, is actually like
+lifting the view of that and saying, well, you're actually members of many different groups at once,
+depending on where you're going to look, and we can see how they're all connected and how they all
+influence each other, which can feel like a computational explosion, right, which is probably
+why we had all those very structured, like, determined kind of places. But what's confusing is
+when you say category, to me, that sounds like you're putting things in boxes, there's members.
+Yeah, there's a, there's a, you said relational just now. So that's different, isn't it? But it is,
+like, can you help me understand that or explain?
+Yeah, I think it is confusing, the name category theory, just given our, the attachment of baggage
+to that word. I think a better term, and this is coming from Spencer and others who I've worked with,
+like, would have been relationship theory or structure theory, because it's really the study
+of structures that compose and, and, you know, how can I put two networks together to form a whole?
+And again, maybe you can see the relationship to systems and complexity, trying to understand how I
+put these parts together to form a whole. And so, you know, category theory gives you general
+organizing principles on how to do that. And what it's great about is specifying what context you're in,
+because what is context, right? Context is how things are related to one another.
+That's how I would define context and with context comes meaning. And so it gives us like,
+okay, I'm in this category, which is like this particular context. I know how things work,
+I know the logic, the rules, and then, but the beautiful part is that I can translate to another
+context and sort of map between them in a way that preserves structure and meaning. And so that's,
+that's real, the real beauty of it is, it's, it's, I would say, context rich,
+and content poor. Whereas almost all of our other, every information management system in the world,
+like our traditional ways of thinking are content rich, context poor. And that's sort of the idea is
+that in business, I'm back to business for a moment, like in engineering, we're really good at solving
+problems, but we solve those problems as point solutions. Like we come up with this great software
+or system or solution that works in a very specific context, context, but it's brittle and it can't
+adapt and compose with other things. And what category theory gives you is like a general,
+like the general view, like general solution that can specify the various contexts. So it sort of
+is adaptive in that way and, and facilitates flexibility of networks.
+So we can think of categories as relations.
+It's like a network of relationships, a network of like dots and arrows. That's pretty much it.
+So why, why is, why is that? I feel like thinking like that or understanding
+relations and that it's not, there's not, not this linearity. It's more almost like fractal or
+there's networks of networks of networks. It's very meta. There's models of models of models and
+structure. Like that's become very essential in a way lately that we try to begin to learn how to
+think and understand that. Um, am I wrong about that? I mean, why is it that these other ways kind
+of worked pretty well, but now seem less possible? Like they don't work as well now. Is it because
+there's so much more connection and knowledge or, I mean, how do you, what do you, how do you think?
+Yeah. Yeah. I think, I think we're in a historic moment in terms of the, the explosion of complexity
+and connect connections that have formed in the last couple of decades, really. Right. With the,
+the digital revolution and the internet and the technology that we have available, it happens so
+fast, right? Like other sort of foundational scientific philosophical paradigms took centuries
+to sort of develop. And here we are within a few decades, like this explosion where anomalies are
+becoming the norm. There's more uncertainty and volatility than ever. And we're just not equipped
+to deal with complexity. And I think the common response to that is in business, at least is,
+well, complexity is a problem. If we just simplify, well, you know, we can figure it out. We can,
+but I think the reality is that it's not optional, like complexities here. Let's start from a standpoint
+of confronting it and then recognize that you need more complex tools to deal with real complexity.
+It's not the other way around. You know what I mean? So I think that that's a hard sell in our
+current business paradigm, but that's something that I've been trying to drive and confront in my
+own personal life and professional experience. It seems something we all have to confront now,
+and we're trying to figure out ways to do it. Even if on a personal level, when you,
+I know you have kids and I don't know if they've gone into the social media, they're too young to be in
+your social media, but you'll probably have to think about it. But once you, so that what we
+were talking about of comparing yourself or not fitting in or being told you don't fit in as a
+kid or all that stuff that we all know in different ways and to different degrees does seem like it's,
+that has exploded in a way where there's so many options of who you could be or what group you should
+be in. And I feel like it can be overwhelming and maybe we need new tools to deal with it.
+The way I think about this as an example is the sort of rise of social media and the apps we have
+available today. Like I can go through a rabbit hole on the internet to find this little niche
+of like intersecting interests for me that it becomes so specific and customized to me
+that I don't actually, because we're so we don't have a way to relate that, you know, decompose view
+of my interest to, even though there's like, I like a certain type of music. Well, maybe someone
+likes the symphony and on the surface, my, my, if I'm like, I like rock and roll and like heavy metal.
+So like people would look at the surface and be like, if you look at this, this is the label,
+like, okay, we don't have anything related here, but actually at the structural level,
+what is the role that that music plays in my life? It evokes a mood. It evokes a feeling. I,
+you know, in both, both of those sub, sub, sub, sub, sub groups share some abstract
+form. And, and we don't have a way to even describe that today. And so what happens is I feel like we
+just keep getting isolated, isolated, isolated in our own little island with no way to relate to one
+another. So, so it's sort of, I think is driving more polarization, isolation. Now I'm not saying the
+opposite. I'm not saying we need to go back to like, everyone sits around a living room and
+listens to the same radio station or TV channel. That's like, again, that's kind of like centrality.
+Yeah. And as you said, we can't really go back there. It's not a,
+we can't go back anyway, but, but that paradigm still, that's what happens is people in business
+see this sort of explosion of complexity at the ground level. And their, their response is like,
+oh, well, let's just standardize. Let's all do the same thing. Why can't, why do we have to
+all be different? And so I think there's a middle path. Like, how can we embrace that uniqueness
+where everyone has their unique thing? Um, but we find ways to relate and compose our perspective
+so that we, we can enhance that sense of belonging and feeling our relationship right to each other
+and to, to, to our context. Yeah. It feels like it's almost like a transitional moment of trying to,
+you do say this in the book, you and Esteban about it's, it's a new way of thinking in a way,
+category theory, um, or does it, does it kind of help you think in a different way? And once you
+can start to kind of do that the same way, maybe you have to learn how to do the weight training or
+the wrestling or meditation or these, these disciplines, right? There's rules, there's way to
+do it, but then it opens up a different way to be in the world. Is that, would you say that is true?
+No, absolutely. I think that it, and we've done some actual case studies with, with some of the,
+um, you know, leading experts in the field in this, in an industry application, right? Because
+we've been, we've been trying to leave the forefront of industry use of category theory. And, um, in one
+of the case studies we did, we were able to show how to integrate two different, very different
+perspectives, um, in a way that isn't flattened, you know, semantically, like we tend to tend to see
+today. And, and what that means is that things can be true in one context and not true in another
+context. And that sort of, that confrontation with the paradox, right? Like we have to lean
+into those paradoxes and see beyond the dichotomies, as you say. So category theory gives us a, I think,
+a language and a way to, to actually do that in a way that's more formal and, and can be used in a
+technology, right? To be able to facilitate that philosophical shift as well. But yeah, it's kind of
+chicken and the egg. Do you try to get people to sort of see the philosophy of it? And, because the math is
+maybe terrifying because it's so familiar, like the rigor of it, but, or do you try to show an
+examples of how it works in practice? And then hopefully they, they see the foundation that it
+can create. That's something we've been trying to work through. So I want to think about how this
+can actually help business. There's different ways we could go into that, but in having talked to you
+before and having read the book and stuff, one, one, just let me generalize in a big way. But if we
+think of a company and different ways that a few different people could try to solve a different
+problem, when you have this explosion of, or things have gotten a little out of hand, everyone's working
+on a problem in a different way from a different angle. We could go back to your example of when you
+had this great idea and then it had some, uh, consequences at, at a different place, uh, that
+you didn't intend. Like there's a way in which category theory could have helped you by, how would
+it have helped you? Would you be, have been able to visualize, uh, different possible trajectories
+from that place you were in? Right. Yeah. You know, let me, yeah. So let me describe how we've been
+thinking about this. So, um, in the, I'll describe it in the abstract first. So category theory is all about,
+as we said, the study of relationships. So, and one of the key ideas is this notion of composition.
+We use that term a lot. And what we mean by composition is in a very basic, the most basic
+example, if I've got this object A and I know A is related to B and I know B is related to C,
+I can compose those two relationships through this new arrow called A to C. Like that's the, I know,
+if I, if I know A is related to B and B is related to C, I can infer and deduct mathematically that A is
+related to C. Category theory gives you the sort of rule system and the algebra to, to care, you know,
+to infer that, that composed arrow, because why is that important? Because that composed arrow often
+isn't represented in the decisions that we make in the business models that we create in our databases.
+We have all these sort of, that's what I said earlier about my example, someone like six degrees,
+six arrows over from me felt the effect and had to absorb my, my decision. If I could have had a
+technology that alerted me before I made the decision to say, Hey, when you do this change,
+you're going to impact this other team, this other person without the composition, without the, the
+formality that category theory offers for that network of relationships, we don't have a, there
+is no programming language today or, or system that would have given me that awareness, right? So that's
+why we think category theory is so powerful is the capacity to understand how your local decisions
+affect the whole and whether managing information or processes or people, or if that's the beauty
+of the abstraction, it's, it's generalizable to all aspects. And that's why I think it's revolutionary.
+Yeah. It's possible. It's just how to, how to, when you were talking, I was thinking about
+simulation, but it's more than a simulation, right? You're not cause simulations as I know them. And in
+my field, usually it's still feeling very linear and maybe there's the kind of graph, but there's not the
+graph of the graph, so to speak, or the way, the, a way of getting an idea of that there, because it
+does feel so overwhelming that there could be this computational explosion of so many possibilities and
+you can't explore all of them, but actually this does give you a way in a sense to do that. And the
+term I was thinking of was like contradicted meaning, I think where, so if you had been able to model that
+situation you were in from not just your position, but from let's say the position of the people who were
+eventually affected by it, which was really coming from a very different trajectory, you could have
+seen earlier on where those two things would have contradicted one another and caused, caused the
+trouble. Right. So it gives you a kind of visualization of not a linear thing, but more of a ongoing
+network of networks. That's, what's hard to get our head around, but you don't have to.
+No, exactly.
+Yeah, but it just would have showed that, right? Is that?
+Yeah, exactly. If we were all sort of representing our knowledge in, in this sort of categorical way,
+then it, by definition, like I would have been able to see the effects that propagated throughout
+the network as I I'm doing my job and trying to adapt. Um, we call that, uh, we call it real-time
+contradiction detection because there is a, there are very few commercial applications of category theory
+and software today. And one of them is called CQL, which came from Spivak at MIT and Wisniewski
+from MIT as well, who's been progressing it. They basically allow you to detect those,
+those, um, contradictions on the, on the graph in real time, basically. So if I make a contradiction,
+if I change my model in a way that creates a contradiction in the path of arrows, then, um,
+then it tells me, and I, you know, rather otherwise today I have to have tribal knowledge. I have to know the
+person. I have to pick up the phone and call them. We have to get in the meeting room. Imagine how
+there's not a meeting room big enough to sort of hold all the people who actually are impacted by
+our decisions. And so that's sort of where we were getting at was, um, if we could just even add a
+little bit of formality to the way we represent knowledge and information and data, we can, we can
+have a lot of, of advantages in terms of performance and business. Because those trajectories already
+exist, your colleagues could already had their, their situation. It's just, those things couldn't
+be kind of held in the same, in the same space. Um, it makes me think of something like a digital twin
+though, that we're trying to do now where we're, we're trying to kind of, they're called digital twins.
+Um, like for example, we want to simulate the planet and possible trajectories for that planet,
+right? So how is what's being done now, um, different from what could be done if, if category
+theory was able to be formalized in, in the way that you're talking about? Because what it makes
+me think of is we want, I want to have, and you do talk about this in the book, there's, there could
+be some way in which all of those different positions are represented dynamically. The problem
+is they're often statically represented, but every change changes something else. And that,
+I think category theory maybe could address. Yeah. Well, I mean, we, you can save the digital
+twin, the deep dive on that with Esteban next time, but, um, okay, I think first of all, the,
+the term twin is a bit problematic because it implies we'll actually be able to recreate an exact
+replica of this beautiful, unique reality in a machine, in a computer. So I think first of all,
+that the definition is a bit problematic, but to answer your question more directly,
+it's really a model. You want the sort of, you know, network of models that describe a system.
+And, and, you know, what's the model for safety? What's the model for production? What's the model
+for, you know, X, Y, Z. And today we, we don't have a way to sort of connect those models. Category
+theory is sort of one of the ways that we could do it to be able to say, because you have to think very
+clearly, like that's what abstraction is doing. It's like, forget all the other context. That's
+doesn't matter to this particular question I'm trying to answer. And let's think, let's reason
+about that it abstractly. And so if you wanted to create a model of a system, um, yeah, you need
+to look at different, different perspectives. And so category theory allows you to be able to say,
+okay, how does the model of safety relate to the model of production or to the model of
+lower carbon or, you know, whatever. So I think today we don't have that. And if you actually,
+I mean, I work on the ground and digital twin efforts and the challenge is still data integration.
+How do you compose these different perspectives? Because you could look at even a simple piece
+of equipment, like a pump in a facility and well, the production person has a perspective. So they
+have their own schema. The maintenance person has a perspective, the production person, the planning
+person, like there's like all these different perspectives. We don't know how to, to integrate
+them even with data bases, basically you're right. And so that's where category theory, one of the
+first applied use cases is around categorical databases, um, representing acknowledge that's,
+that was kind of the breakthrough at MIT with SPVAC and with Nesky was realizing that all the data
+schemas and queries and databases that we deal with can be formalized categorically like that, that,
+that jump unlocks a lot of potential. So maybe this can help me understand. Cause it's,
+you say often in the book that compositionality, compositionality is more than, uh, just integration
+or connection. Cause I think what you just described is actually really important and, um,
+nuanced because of course we know there are all of these parts that they're, let's just think of
+the planet, right? Like trying to save the planet from ourselves or whatever might come, let's say
+aliens come, whatever it is, you know? Um, if you try to model that, we of course know there's all these
+different factors, but we tend to still model it as one, one thing. And we just say these are
+connected and these are integrated. So how is like compositionality, how is it more than,
+how is it more than just integration? Yeah, that's a great, that's a great question. And
+it is tricky because the word integration has so much historical meaning and the connotation,
+right? So we, we do try to distance ourselves from it, but I think, um, as you say that today,
+we sort of are very good at decomposing things. Cause we want to, that's kind of how we're trained
+scientifically, like break things down into their composition parts. Decompose instead of compose.
+Decompose. We're good at decomposition. We know how to, and that's kind of get, get this in the
+labeling again, right? It's like take it apart. Yeah. Take it apart, study each part in isolation,
+and then assume we can figure out how to, the aggregated behavior of the parts is what the whole is.
+And so I think that's sort of the, and today, even with integration, it's like for one specific,
+what's the, what's the purpose of this system? Like, like you said, we're trying to fend off some
+specific instance, but, um, composition really gives you the rules for how, what's the recipe
+for putting things together. What's it's in the, how not in the, what's right. Not in, you know,
+and it's so, so composition in our mind gives you the, not just the sort of constituent parts,
+but like the rules for how they come together and, and how they both preserve their uniqueness,
+but also come together to form a whole where the sum is really the, the constituent parts glued
+together, not sort of flattened. And in the way that we would do it today, because as we were saying
+that the sort of paradigm of integration is always through like standardization and flattening of
+those perspectives. And so there, there's a way I think now to both preserve uniqueness and, and also
+show how it relates to the whole. And I think that's, that's the beauty of composition. I think
+without that, you will never see those unintended consequences we're describing. So that's really
+why we say composition can lead to a whole new theory of design, engineering design, so that we
+can understand the implications of what we're doing in a way that we struggle with today, because our
+intuition isn't enough, like with the complexity we face. And does that have to do with the center,
+not just being one center, but the center kind of being everywhere? Is that freeing us to not have to
+choose between it only being this way or the other way, but instead looking more at how all that
+relationality is going to determine in that, only in that second, that problem's best next step or the
+way to address it if you're in the company or something, but you did, that doesn't mean you're
+going to use exactly that the next time. Yeah. I think that's that the, the adaptive capacity of,
+of this sort of categorical approach is, is one of the key features. Because when you,
+you know, when you acknowledge everything is connected to everything else, when, when context
+changes in this sort of current traditional paradigm, you have to like restitch all the
+wiring and connection. Like you have to go and check and make sure everything is still holds,
+right. That has referential integrity. If the context changes and category theory helps because if
+the context changes, you just, you can map that old context to the new context with like a very
+standard operation and it's, it's known and you, you kind of get stuff for free.
+That inference I was describing before, like we don't have to carry around all the arrows that we
+can infer mathematically. Whereas today you have to carry all that baggage either in your model or
+in your brain. And, and that, that's, that's where it becomes non-scalable because you, you know,
+you can't possibly keep track of all the connections. So we need an accounting system, as
+Spivak would say category theory is like an accounting system of, of meaning. What are we
+tracking? And yeah, it helps us. You can kind of forget all the complexity once you sort of
+package up an idea and kind of think at it at a higher level. That's, that's the beauty of
+abstraction. Like even from, I think you mentioned programming earlier, like the trajectory of
+programming is like more and more abstraction. So that way we can package ideas and move them
+around and into units that are, we don't have to reason about sort of the lower level details. So
+that's, that's kind of how it works. Is it different from seeing patterns?
+I mean, is it because I could see that someone would just say, oh, you're just gonna, you're
+just, it's helping you recognize more patterns or something, but it actually, there's two things that,
+two words that come up a lot that I wanted to get into a little bit, like awareness and meaning,
+you know, you're learning a sort of practice. You're becoming more aware in a sense that you're not
+settling on one specific answer or one specific way you're learning. There's a kind of a fluidity
+or flexibility or something that's coming out of this. Does that make sense?
+Yeah, I think absolutely. That's why we, we love Esteban. I love kind of thinking about the world of
+mycelium networks as a sort of an analogy here, right? Where you can take many paths at once and sort of
+of where does the self begin and the whole you begin, you know, where does the self end and the
+whole begin? Like it sort of question makes you question your, the role of the self and the whole
+system. And that awareness you're describing, we, we kind of, we use the analogy of a mirror a lot,
+almost in a way that it's this sort of technology that we're imagining. It's like holding up a mirror
+so I can see how I relate to the whole and how does my action affect others? And that would change the
+way I make my way through the world. Right? So today we, because of the sort of dualistic way we're
+trained and thinking it's hard to see beyond ourselves. But I think this technology can create
+a sort of collective awareness in a way that we don't have access to today.
+How does that relate to awareness and meaning? I mean, we could even go back to something more
+personal because we were talking about how right now we categorize everything and there's members and
+something is right or wrong. And there's not a sense really of, there's becoming more so,
+but something like family, right? I also grew up in a religious kind of atmosphere and I think
+religion adds an even more, there's certain ways that things have to be done or it's wrong and
+there's memberships and there's not the sense that's one way it's done. If you zoom out, you could
+see how it's connected to this and that there's another way. And part of my, I don't know about for
+you, but part of like growing up and learning how to deal with the world was actually learning that
+there are so many other ways from which you can see things and you can accept who you are as you are.
+You can find other groups where you do belong, this kind of thing. So I don't know, like how do you,
+how would we relate it on that level? Yeah. As you said, I think there's a huge opportunity for
+belonging and connection and we don't have even, like I was saying about the example of music. I like a
+completely different genre, genre is a label, right? We're trying to, we're trying to capture
+the essence of this rich musical, you know, domain into one word and it's just not possible. And yet
+that's why we, that's how we label things as genres. So one genre of music may not have anything in
+common on the surface with another genre, but yet there is a structural, there is some overlap. And
+if we could see that overlap, it would feel like there's a belonging, even though superficially we can't
+recognize it today. So I do think that can help us find meaning in the world today. And because
+that's what I would say is awareness is the recognition that even that there is a connection
+there. It's there, it's just tacit today. It's hidden. There's walls standing between us. And
+I think a lot of that just is because we don't have the capacity to see beyond the dualism and all the
+other influences that sort of drive us to think in labels. So I hope that this whole shift in philosophy
+of seeing things based on how they relate to other things and seeing that there's a,
+there is a new paradigm, a new science and philosophy about it. That's, that's growing
+can help, can help people find meaning. Cause I think that's what it's all about.
+I think this will probably end up changing the way business is done. That's one level. We haven't
+talked about it a lot, but it's new, right? And it seems to be a little harder to get your head around.
+And that, I know that's one reason maybe people in business might, it might take some time for
+everyone to accept it. Cause it's really like changing, shifting gears in a sense. But do you
+think there's also an element of it being scary in the sense that you have to realize there's not only
+one path, there's always many right paths. Yeah. I think this has been my experience as well. And
+I think trying to tie a lot of these threads together is that the way we, the way we operate today,
+I think is a lot of times driven by fear and fear of the unknown fear of the complexity and yeah,
+just recognizing there is no ground to stand on. So I think that it's going to be a tremendous
+challenge to sort of, because this is why I'm so keen on like the analogy of the mirror and the
+study in the self, because as an industry level, we have to sort of see through our own self-defense
+mechanisms that, cause we put up labels to sort of deal with the fear. Right. And like illusion of
+control again, uh, is it good or bad? Like just simplify it for me so I can feel better about
+what's the right way to go. Yeah. So there's this like seduction of, um, of control and, and,
+but I think that, so I think it is going to be challenging sort of for our conventional,
+um, sort of paradigms and business. And, but, um, I think that's why Esteban and I are trying to
+open a new path of discourse and a new sort of community that lives between research and business.
+And so we have our non-profit organization, Holon Labs, and that's really where we think that
+they're, it's too hard to replace the current foundation of business while they're so successful.
+We'll put it that way. So we we've been in that arena for decades and seen the challenge
+firsthand. And so I think we need to grow a new path and that's what we're trying to do.
+The challenge is that the challenge is we have this analogy, Sub and I have this analogy. It's like
+category theory is so unique in this way where you can resonate and come at it and feel it in many
+different ways. And so we call it like, um, being key makers. Like there's this, there's this sort of
+metaphor in India where Sub is from, where there's like a thousand doors and like it's a maze with many
+paths and not all of them are real. And so like for each person we engage with, they have a different
+door that they have to go through to sort of see what we see, whether it's the personal side or the
+engineering side or the mathematical side, you know, it's, that's the fun and the challenge of
+it because it's the intersection of so many different things. It's fun though, to be able
+to flex the, the ideas and meet so many different communities. So.
+I do wonder what motivates you to, I mean, do you seem to have a sense of responsibility
+about it or something? I mean, it's almost like you've seen a better way. Esteban too. And, and you
+really want to share it with people. Does that make sense to you?
+Yeah. I think that once you see this as sort of the call of our generation, the call of our time,
+I, I, there's no going back. And I just, I feel compelled every day to, to put every fiber in,
+into this and try to develop a new scientific and philosophical paradigm for systems and integration.
+Um, you know, I'm hesitant to say that I'm, I have a goal of making things better. I like to approach it,
+um, by appreciating what we have and sort of just seeing things as they are and seeing the beauty
+in what we have today. But, um, I do want to develop more harmony and more healthy systems and
+more relationships. I think more relationships lead to belonging and meaning. And I think, um,
+yeah, once I had kids and felt this like sense of responsibility for what future they're going to
+inherit, it, um, it became, it became something I can't, can't put down now.
+I think that's why I brought the awareness and meaning in because
+there's so many levels to talk about this, the mathematical, the technical, the management,
+and those are all very important, but there's a real personal way that it affects you. One, a person,
+you start to become, of course, all those relationships are already there. And as we were
+talking about, a lot of it is this vulnerability or fear, or just being overwhelmed by the world
+that you can't see all those relationships or fill them or experience them fully because of
+all of that. So once you have a better way of being aware of them, that the awareness itself
+opens your experience. And I wonder, I mean, we could go back to when you met Esteban and all these
+people that have been so important in your life, but also remembering you as a little kid, and now
+you're a dad to two young kids and you're, you seem very much, your relationship is very important
+in your family and your life, seeing this in your everyday life, uh, this awareness and meaning
+increase due to this new way of thinking that's probably come in other ways too, but is really, uh,
+visible in category theory. Yeah, absolutely. I love this question and I'm gonna eventually relate
+it to meditation, but I'll, I'll kind of build up to that by saying, um, yeah, so, so meeting Esteban
+was sort of transformational for me in and of itself, because, you know, as I said, even me,
+I was sort of, you know, everyone, everything around me was sort of driven by goal-seeking behavior
+and, and control and, you know, getting things done, accomplishing things, attainment, like
+my whole life has been, well, the early 20, 30 years of it has been like, like that, but then
+I met Esteban and he was like the complete opposite. I had never met a person like so developed,
+honestly, like not just intellectually, but emotionally, spiritually, and someone who, who
+could gone and excel at anything, but chose to go, not just stay in the trench of like this, this effort,
+but like jump out of the trench and run towards the bunker kind of like on his own. It was just,
+I was just. How did you witness that? How did you see that in him? It sounds like you saw it pretty
+early. Do you remember seeing that first? Well, I was at MIT and they brought him in to speak to our
+class because he had gone through the program. And so he was the only person in the company who had this,
+this experience. And so like, Hey, come in and give these new scholars, some, some feedback on the
+program, what to expect. And, um, yeah. And I just remember, um, we would, he, he and I met personally
+later on and sort of, we both studied under Nancy Levison, who was like system safety expert at MIT.
+And she has a completely, she's reinventing the world of system safety and, but her philosophy
+kind of stuck with both of us. And we started finding these little philosophical overlaps and it
+became this deep connection. But, um, yeah, I was a little skeptical at first, honestly,
+the first time I met him because, um, he was touted as like the smartest guy in the company basically.
+And so immediately I was like a little skeptical, but, um, I never saw him lift a finger in terms
+of modeling something or computing, like, but yet his, he would drop these knowledge bombs like
+in out of nowhere. And it's just like, I'd go and do the homework. That's where I kind of like
+started to differentiate. I think myself a little bit was he would drop these kind of bombs on a
+meeting in, in terms of just challenging the current paradigms. Right. And you're like, whoa,
+who says this sort of thing? And is he right? Can he, can that be true? And we had these kind of
+very rich sparring sessions. And then I, I just realized that, yeah, this guy's the real deal and
+his, his range of, of, you know, knowledge and experience and his, and it's not just intellectual,
+like what really, this is what I'm getting into meditation. It was really in his capacity to stay
+open. Um, you know, I, I saw that I had the same, I had some, some, the whole, the whole,
+those life experiences I was describing to you, I could sort of put together
+and, and sort of help him on this journey. And so what's beautiful about it is I think what
+the paradigms is because we're talking about fear, we're talking about how does this change
+business? How does this relate to category theory is that for me, it's about not living a fear driven
+life. And it's about being fully open and awake and fully participating in life in ways that I didn't
+want to look back on my whole life and say that I was driven by fear and the unknown. And so I think
+seeing a person as developed as him, he was, I would call him, I call him kind of like my Roshi
+in the early days, like my teacher, but he always treated me as an equal and we have been partners
+in that way. But, he helped me sort of be able to step back and be fully alert on all things.
+And that's what category theory I think also does is it allows you to sort of separate,
+like get this meta awareness of how things related and what's your, how does the self sort of relate
+to the whole. And so I think that's been transformational for me, that awareness,
+right? Because without that awareness, yeah, you'll slip back into the old patterns of behavior. And I,
+so I've converted this to conclude my, my long spiel here. I had this sort of discipline of lifting
+weights, right? As a, as a meditative practice in a way, but it wasn't very, then I found Esteban,
+I found Zen and we were going to Dharma talks together and I actually started sitting meditating.
+This was one of those mirrors that he would metaphorical mirrors that he would hold up for
+me. And like, we would have these really hard conversations about the trauma in our life and
+the suffering. And he would be like, why do you have to label it? Cause I would say something like,
+well, I'm glad this happened to me because I'm better for it. And he was just like, can you just sit
+with it? Just let that, the pain be, can you not label it? Can you approach it without judgment?
+And that was a moment, an inflection point for me. And I realized I needed to
+develop a practice around staying open because it's so hard to maintain that without a regular
+commitment to, to a discipline. So that's why I turned towards sort of sitting meditation. And
+I think it gives the same effect as category theory in a sense of understanding the self so
+that you can forget yourself and see how you're related to the whole. So, and that's sort of that
+idea of emptiness, right? That we have talked about a lot before. So I, I have experienced
+in my personal life that awareness and I can, so I can know when I'm spinning back into these patterns
+that thrive the current structures that we live in.
+Katie Grant- It's another relationality. It helps to have people around you who are doing some,
+who are also trying to open and stay vulnerable, or who also are at least trying to sit with the
+awareness, the discomfort, trying to see from other positions. Because I do think it's, it's very
+challenging and it relates to the way that category theory is itself. It's a pretty small group of
+people still working on it, even though it has this transformative quality and there is resistance
+trying to bring it into business. There's resistance and there's good reasons for all of that. But in a
+similar way, once you start opening to the world, it does get easier, but at the same time you do
+encounter resistance because maybe you're entering situations where you can't explain fully kind of
+all of this stuff, but you're still going to follow through with it. Maybe you're not checking the
+same boxes that everyone else would have checked in that membership. And in the, if you're staying
+in the old kind of way of looking at it, do you feel like this is an ongoing thing for you or is it,
+because sometimes when you talk, I feel like it's so easy for you now or something, but you're not
+saying that, right? Or are you?
+No, no. I mean, it's incredibly difficult in terms of just staying in the tension, right,
+of the current business paradigm and then this new way that we're trying to crack open. We've
+touched on this, right? Like, I'm not sure it's going to happen from the inside. I don't know if
+a business is going to ever adopt fully what's available. And so I guess what that means for me
+is I may not live to see this come to fruition. I think they probably will.
+But if we, we don't have a, we're not, we don't have something we're trying to attain to be happy,
+right? But taking the journey is itself enough. And the fact that we even started the journey is,
+is, is enough of a, of the reward. So I think we've had to adjust our approach to,
+to staying in that tension. Otherwise you would turn around and give up, right? Because
+there's so much rejection and, and, and, you know, not in a bad way, just because people aren't
+prepared for it or the conditions aren't there or, but that's the progress of science and technology,
+right? The context has to be there. I think we, we think that there is opportunity for a transformation
+on all dimensions here for society. And, you know, Roman Republic wasn't replaced with democracy
+overnight. So it's going to take time. And, and I think that we're, we're trying our best to leave a
+contribution that, that we can build on hopefully, and, and, and really bring all the great work that
+the mathematicians and scientists have already been doing in this space to really put them on a stage.
+So that engineers like me in the future can have a bridge to new ways of thinking, new frameworks, and
+to relate more directly to life and then personally or professionally.
+Yeah. I think that's the application part. That's not like the applied category theory and starting to
+look at the world a little bit differently and try, even though it's hard to find examples that are
+already there all around us in nature and elsewhere. But also, as you're talking, I also want to be
+clear that I don't think you or Esteban or, or anyone is saying this is the only way or something,
+or that it's like, you found some magical thing. Cause it can feel like that too, as if the knowledge
+is somehow privileged or something. And it's not at all that it's almost, it could be meditation or it
+could be, it's more that you found something that brought you some peace and some it's widened your
+life. Is that, or I don't know how we, how would you say it? It's how it's changed your life in a
+positive way. And it's like, you want to share it with people. Right. And in business too, you can have
+a better business. Yeah. Yeah. A lot of the rejection that I've experienced in business and trying to
+promote this in a way is good because it allows me to study the, I don't, I don't sort of fit into the
+flow of things in business in a way. And so because I'm a little removed, I have a way to
+study the inner workings of organizations and coordination and teams in a different perspective.
+And so I think that the challenge has also given us insights in a way, right? That it's, so I'm not
+saying it's not easy. It's, it's come up with a lot of work, but it's been rewarding on the people
+I've met. I've met so many amazing people in the community of category theory and people like yourself
+as well. We're trying to, to understand and see how we can use it and promote it. So the relation
+I've acquired so many relationships that have enriched my life. And in addition to the sort
+of philosophy that has been transformational for me personally, it's really changed my, uh,
+my worldview in a short number of years, but it was hard work. I had to do the work to sit in that
+tension and unlearn what I had learned and think like a beginner in a lot of ways. I think that's what
+holds a lot of people back is, um, yeah, they're sort of trapped in their own expertise,
+their own, and they can't un, unwind their own assumptions. Do you think anyone could do this?
+Does it require some kind of special, is there a way of accessing all of this regardless who you
+are or what you've been through, or is there some? Well, I think, I think the confluence of experiences
+from childhood and personally, socially, tech scholastically have all prepared me for this in
+a way. So maybe that's hindsight bias, but if I could characterize it, I would say the kind of
+ingredients are our curiosity, kind of some new, new things like that. You can't run because it's
+new and the courage to stick with it when it gets hard and unfamiliar. And yeah, so I think,
+I think it's, it's rare to find like someone who can stick with it and stay open. That's the key.
+Not because it's, there's a limitation of them. It's, it's a thing about humans and the systems
+that drive us, right? It's the influences and structures that people want to live a good lifestyle
+and they want to get promoted. So what are they going to do? They're going to solve the problem
+that short-term and that's there. There's reinforcing loops that drive all that. So
+that's why category theory is like almost too good for its own sake. Cause it sort of reveals the,
+those delusions that sort of how we operate is sort of shows how we operate. And so that's why it's
+like, it's almost too good for its own sake to be applied right now in industry. So we need a new,
+that's why we're trying to lay a new ground to be able to, to build it up. I think we, we need to
+create an ecosystem of, of people working on this from so many different angles. There is a rich
+community of mathematicians right now that have, they've paved so much runway already for category
+theory and the tools and machinery. We just, and we have, um, you know, Eugenia Chang's done a great
+job sort of popularizing it in the sort of everyday language. And so there's like this void in between
+and, and I hope that we can, the work that Esteban and I have done and we can continue to
+do is build a bridge between, um, you know, help people with that on-ramp. That's a little,
+a little more easy to, to, to get on. And, um, and that comes with tools and new frameworks as well.
+So I think that takes a, it's no one company, no one person can possibly do this. It takes an ecosystem.
+And so I hope that we can continue to grow the network in the community. Um, I had the experience
+last year. I went to the, this thing called the adjoint school. It's the applied category theory
+school. I've only done it six times. And so that sort of shows you how new this community is.
+And I was the only engineer I think who has ever done the program basically. It's a six month, um,
+seminar program where it's led by the, from the leading mathematicians. And yeah, I think that
+that was a great signal of, of change where the, the mathematicians understand to truly apply if they
+need people with real domain industry experience in industry, people like, like us know that there's
+a whole new world of technology and science to, to be able to support. So building that bridge,
+I think is a key step and keep, keep laying the foundation for this new way of thinking.
+Well, everyone mentioned you or talked about you in this is always expressing a lot of gratitude.
+And also they seem to see you as a very strong person who can deal with a lot and handle a lot.
+And I guess we've talked a little bit about how you got there and what it all is, but you said
+something at the beginning, just to kind of close it off. You said, after becoming a father, you, you felt
+all this in a different way. I just want to kind of ask you a little bit more about that too. Has that
+deepened a lot of this as that, because hearing everyone talk about how steady and smart and
+responsible and all these things that you are and that you're able to deal with challenge and sit with
+challenge and explain things and, but you're also very good at your job and that's what you're used
+to with your life. You've excelled and been good, but I guess becoming a father must have been a whole new
+thing. Did it open something different? Yeah. I think one thing that has taught me about
+the philosophy of composition and is that I try to integrate all aspects of my life. It's not
+I'm a Brandon at work and I'm Brandon at home. It's like, how can I, how can I find intersections
+on all of this? And so that way I'm, I never feel like I'm separate, even decomposing my own life,
+but everything is sort of related somehow. And so, yeah, I think it's helped me as a parent in terms of
+the way I approach, you know, parenting. We, we, I think, I think, I think an actual tangible
+result of my journey and, and, and, you know, of course with my wife as well, but we started
+homeschooling our daughter recently. So I think just this realization that there is no one curriculum
+to fit them all. And like the appreciation for uniqueness in an individual, even my own kids, like
+we can create a curriculum and experience that's, that is healthy and meaningful to her. And my son,
+eventually he's only four, but yeah, I think just embracing the uniqueness and, and multitude,
+like we are multitudes and, and really living that through those kinds of activities, like the
+homeschool or how we choose to relate to the kids. And, and also there's another example I have
+the old me, like, you know, control oriented and perfectionist, the kids draw on the wall or
+something. And it's like easy to get frustrated, like, man, well, you're putting the things out of
+order. Like, what are you doing? And I, my philosophy has completely shifted in that way,
+because now I see that. And I think of a different context where sometimes the kids go to their
+grandparents for a week or two, and I just miss them so much. And I look at that grand picture that
+they drew on the wall. And it's like, I miss, you know, it's like, they're with me, you know, in a way,
+because it's so that a capacity to sort of see different contexts and just, just see things as
+they are and not judge them, like rush to judge like that, that ability to refrain, I think is all
+because of this sort of journey I've been on and how category theory has like rewired my, my approach
+to life. So it's just the beginning. It is. It really feels like it. It really feels like it's just,
+it's just opening. All right, Brandon. Thank you. Okay. See you. Bye. Bye.
+Bye.

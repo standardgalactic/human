@@ -1,0 +1,650 @@
+Hey everyone, this is just a little introduction to this conversation I had with Daniel R.A. Friedman of the Active Inference Institute, and I will link to that institute and to some of Daniel's work because he's done all kinds of things.
+As you'll hear, we start out talking about his work with Deborah Gordon on ants, which is in complex systems, which is really fascinating, and we lead into a talk about active inference, and along the way, we talk about what is an individual, what is collective behavior.
+Ants are a really good place to start when you're trying to understand what an individual is, where you can draw the line. Is it the ant? Is it the colony?
+We don't really mention emergence here, but we kind of dance around this idea, and of course, we get into trying to understand what cognition is, which is where this active inference model of Carl Fristen becomes relevant, and the work that Daniel's doing with the Active Inference Institute.
+Active Inference says that what the brain is doing, let's say, is minimizing free energy, and it talks about the relationship between perception, action, and cognition.
+Daniel lays it out here. He talks about how we can imagine this inbound and outbound statistical dependence.
+So if you think of something like the brain or the body, you have a Markov blanket, kind of an interface, a boundary, and then you can look at the inbound dependencies as perception, and the outbound dependencies as action.
+The second thing that's really fascinating for me, and that even though Daniel and I agree, I sort of push him a lot on it, is trying to understand a model like active inference as a model, as a map of the territory, not the territory, as a measurement of the process, not the process.
+Daniel explains all these first principle ideas of active inference in a way that's very articulate.
+We talk about the Active Inference Institute that he's developed, and what they're doing there, which is exciting, and I encourage you to check it out and look at their work, and also their papers.
+We talk about scale-free and scale-friendly, and all kinds of ideas that can seem, at least for me, it's a bit at the edge of my comprehension at times, but I like that space.
+And I hope you do, too, and thanks for being here, and thanks to Daniel for the great conversation.
+Hey, hi, Daniel. Thank you for talking to me about these themes today.
+Well, thank you for having this conversation.
+Framing it from going into a conversation about active inference and cognition, what got you into studying ANTS?
+I worked with ANTS from 2014 to 2019 during graduate school, so how did I come to ANTS?
+Well, I was working in a vinegar fly, also sometimes called a fruit fly, versophila, developmental genetics laboratory in undergrad, and was getting also interested in system science, complexity theory, all these kinds of cool ideas swirling around out there, seeming to connect dots and fill spaces between, give us ways to work with situations of interest that go outside of the theoretical, all these different things I was getting interested in.
+And from the fly genetics space, looked, what else was out there in insects, they're cool, they're everywhere, some questions are apparent about insects, whether it's a beetle or an ant or a bee, other questions may only reveal themselves through looking for a longer time at a species of insect or at perhaps interactions amongst species, insects or otherwise.
+And so I was recommended to apply to go to graduate school with Professor Deborah Gordon at Stanford and ended up following through with that.
+And Professor Gordon has had a 30 plus year long term field site in Arizona, New Mexico, US region, one of the few long term studies of ANTS.
+And also, I'm sure, I'm sure topics we can go into, but just here I'll say, takes a very deep and complex systems perspective on the evolution and ecology and development of collective behavior.
+And so pretty much on my first visit out to the field, walking around thinking, wow, five years of Pogonomirmex Barbados, red harvester ant, I should come to love Pogo.
+And so having the specificity of the dissertation and the specific questions that we were pursuing and the entry point of a piece of dirt, an area with a certain set of colonies of one species as an entry point with a long term history opened up avenues that we can explore.
+Yes. So I guess you were mostly focused on the genetics.
+Was that your main focus when you went in or were you thinking about bigger issues of action, perception, cognition, things like this?
+Or what was your sort of frame in those early when you first started?
+A great question. So my first email, my reach out email to Deborah was looking at some work that had connected behavioral variation amongst colonies.
+To their reproductive differences to their reproductive differences to fitness, which used DNA based methods.
+And I emailed asking whether CRISPR, a gene editing technique that was just becoming more used in the fly community at that time, had been applied to ants.
+Short answer was no, not in 2014.
+But in 2014, we actually did see that happen in other ant species, not our work.
+But it just showed how even in so-called non-model species, there was an introduction of bioinformatic methods, including like genetics and epigenetics.
+We did transcriptomics, so gene expression analysis on the brain tissue of foraging ants.
+We looked at neurotransmitter levels, specifically dopamine and the relationship between neurotransmitter levels and behavioral differences amongst colonies.
+We did not do any of the kind of epigenetics in terms of histone or methylation based studies and did not go too deep into the DNA based genetics, either like a genome wide association study.
+But to have awareness of the whole stack, even though it's outside the scope of any lab, let alone dissertation, we're never going to get to all the books.
+Complex systems doesn't mean that we're going to go into every single field and measure every single ant on the ground.
+But there's something nice to be said and done between having a field site or a field way and also a broader contextualization for a lot of different reasons.
+So you're already looking for big patterns.
+I mean, of course, when you're doing this kind of data analysis and you have to, but you're already focused on trying to see how that relationship.
+Worked.
+I assume you're looking at individual ants when you did these procedures, but also taking data and a wider sample.
+Individual ants.
+Isn't that the question?
+Is the individual ants taking a measurement of the colony?
+Yeah.
+For example, taking a blood flow measurement from the individual, you might abstract over the blood cells and just look at the rate and say, well, that's a single phenotype measurement we're making of this blood vessel.
+And then you might also be able to take the red blood cell perspective and talk about it from that side.
+Actually, so much and more rests on individuality, understandings of individuality and individuation.
+Yes, in our own reflexive self-narratives in the human social setting, but then just speaking in the scientific behavioral ecologist setting, which one is what we're going to call the ants.
+So even if we walk around with an understanding that there's multiple ways that we could talk about individuality, whether at the nest mate scale, the colony scale, population scale, and so on, in the way that we speak about it, in the framings that we prepare experimental plans along,
+and the kinds of assertions or hypotheses that we bring to bear on that specific system of interest, one of the beauties and mysteries that doing something as simple as how do these colonies regulate foraging across and within days,
+even just with flags and toothpicks and hand counters, there's like a whole universe of complexity that the individual and the team can unfold.
+I wonder, though, like, in terms of where you were setting your framework or your scope, if you already were beginning to sense that it's a little bit subjective, what you call an individual,
+or even, for example, some of those questions that you just raised can seem really magical if we start at this so-called individual ant level or some part inside the ant.
+I mean, it can just seem impossible to understand or magical, I guess is the word, but if you started at some other scale, it might not seem so.
+So if you took the individual to be the colony or something like that.
+So I wonder, were you playing already with those kind of ideas?
+Did you realize that this is a little bit of a subjective thing where we set the scale of individual, group, and so on?
+It's a great question.
+An early tension or question that I remember was thinking, well, when we use keywords or the papers that we're interested, they talk about collective behavior.
+But no one is saying that behavior is ever really done by something that isn't a collective.
+We know that bodies are made of cells and so on or however else we want to describe that relationship with bodies.
+So what is it that makes collective behavior?
+And it's like, well, obviously what's doing the work is not really collective, but collective is just the shadow of whatever that wouldn't be, would be individual behavior.
+But people who are studying one rat in the teammates, they don't call it individual or collective behavior.
+They just call it behavior.
+But also when they study social behavior, for example, even in a laboratory, they call it social behavior or just behavior, again, not collective behavior.
+So in collective behavior, I saw something like a yearning to potentially not just look at a more multipartite setting, but to explicitly map amongst scales of behavior in its occurrence so that we could implicitly or explicitly have individual behavior.
+But then we're focusing on another level of organization, what is collective and what's the individual, and then the way that that space or continuum gets metal pressed out by the keyword symbolic discrete ways that we have, which isn't even to criticize them.
+It's actually to bring articulation and clarity, then one other piece I'll add there is a lot of different frameworks, whether information theory or active inference or other are called scale-free, which is to say that the essence of the framework or the firmware or the kernel doesn't have a system of interest or a scale that it's grounded in.
+So you could do a linear regression with x and y-axis being millimeters, or it could be kilometers.
+So scale-free by itself actually does less work than I believe many ascribe to it, because again, a linear regression is scale-free.
+So it's kind of like, well, what else have you done other than just be scale-free because numbers are already that way.
+But that's not obviously the end of the account.
+And only recently through so many different conversations and collaborations have I also started to figure out and out the figure with Dean and talk about scale-friendly and understanding, well, there's actually an approach or a mediation
+that is the scale-free that is the scale-free that allows interoperability and allows us to go from n to n plus one or n to n minus one, not just to be outside of it and make something that's, quote, scale-free, which then always has to be scale-specified in the last mile to become a miracle.
+But then scale-friendly to me was like the connecting piece that took scale-free and filled it in with something that was more continuous.
+So maybe you have to tell me a little more about scale-friendly, but just to pause for one second.
+And I really like what you said about the scale-free because scale-free is very useful in terms of opening our minds to the possibility of nestedness and so on.
+But even when you have something like set theory or category theory or whatever, you are still having parameters and setting them.
+And the linearness of it, maybe we can just put this in the atmosphere.
+I think we're all trying to figure out ways to get out of this linear way of thinking, which even sort of structures our language and our mathematics and even scale-free and all of these terms.
+And we're all talking about multiscale, multidimensional nestedness, but we still seem to see things linearly.
+We can come back to that theme, but first I want to hear about scale-friendly because that's new to me.
+I think I need to read some papers.
+You have to direct me.
+As of today, I don't think you'd find a written case of it because it's part of an oral tradition.
+And really, in that way, an example of all the kinds of new words and spins and weavings of words.
+When you say linear, well, that can mean linear like a ruler or Euclidean geometry or something like straight in line.
+Although people often don't realize that generalized linear modeling can be both linear and have the appearance of a curve.
+For example, a lot of neuroimaging is done with general linear modeling, but that doesn't mean that it's being put a ruler over.
+But another kind of linear, not just the points that are on a manifold, is the linearization of speech as a constraint, again, connecting to the oral traditions.
+So there's a linearization of symbols on a string or of the production of speech.
+That's a different kind of sequential linearization.
+And so it's always about reading between the words, unpacking, all these different richnesses, like the finger pointing at the moon isn't the moon.
+The words don't bear the meaning.
+They're just written on the screen that then is for us to do the enrichment and unpacking of.
+In that also is time, right?
+The linear time that plays into all this, to the math, the language, and so on, too.
+But this beginning and end, you know, I think this is also even broader.
+What I mean, too, is that we, without thinking, we are looking for beginnings and ends to things in the same way that we're looking for a beginning and an end to what an individual and a community and a group is and all of this.
+It doesn't work so well anymore, but it's very hard to think without those terms.
+Great points.
+It's like, what does death refer to?
+Even if one takes a nuanced concept of individuality, then still, then what is death messaging?
+Those kind of linguistic notes aside, again, what differentiates scale freeness as something that we construct is like, it's an analytical representation.
+It says nothing.
+And that's what allows us to take it.
+Like the paintbrush says nothing.
+The pen says nothing.
+So a scale-free framework, linear regression, active inference, renormalization group, pattern languages.
+So it doesn't even need to be numerical, let alone formal, like category theory.
+It doesn't even need to be that, but just scale freeness.
+Maybe even emotions are scale-free or some other anything.
+But there's still some trajectory and some parameter and some landscape, some space, whatever you want to call it, that's been set, you know, by language or by the community or the group or something.
+I mean, the terms, right?
+So here are these different disciplines, which become embodied and realized through the people who you assigned into that hypothetical room, the neuroscientist and the psychologist and so on.
+And that actually reminds me of one of the philosophical works that Debra wrote, which was about Wittgenstein and ant-watching.
+And so in that one and only philosophy-ish paper, there's a very interesting discussion about how, well, we see something moving on the ground.
+Let's just put aside all the questions that lead us to us looking at the ground.
+But something's moving on the ground.
+So that's the individuation in the figure ground question.
+Okay, so we say foraging is happening.
+We see foraging happening.
+Okay, that Nesme is a forager.
+Like, that person is bringing something.
+They are a bringer.
+Okay, that is to move from essentially a named observation of behavior.
+That doesn't mean that it's how the Nesme or any other system thinks about it, but the human observer has called it foraging as a noun.
+I mean, sorry, as a noun construct of a verb foraging.
+But then that becomes attached to the corpus that carries it out.
+So that's why we talk about, will the nurse and the forager Nesme?
+Well, yes, but there's task switching and there's a developmental trajectory.
+It's not like they're born into one path or another.
+They all move through this kind of archetypal trajectory, even just in this one little sense.
+So that, again, reflects how we go from what we name and observe phenomenally in our sense making and then through action, through speech, but also internal action, which is attention.
+Through those kinds of actions, we then reify because it's not like that Nesme is going to say, I'm not a forager in a language that that namer might understand.
+Yeah, that's wonderful that you bring that up.
+It's something I think about a lot because I feel what I'm trying to do, what a lot of people I feel like we're trying to do is understand how to be an assessor or a measure from a scale other than your own, which is what we do, right?
+I mean, we build tools, telescopes, microscopes, all of this stuff to try to do this.
+But it becomes difficult to then say where the subject and object is and what kind of information we're really finding, for example, like to try to put it back to the ant.
+But if you're taking one individual ant and you've somehow, let's just say you've been able to develop some kind of device where you can actually be inside the body of the ant and sort of know what it's like to be an ant, get the sensory data of that and somehow translate it into something that you understand.
+I mean, it gets connected to how we think of self, too, right?
+Like, how do we start to understand that that measurement of the ant is within some particular trajectory, another position than the position we've been measuring from?
+And yet it's only still one possible measurement from that position, right?
+That gets back to this, how do we get out of this, for me at least, linear way of thinking that it's not that we found the answer of what the ant is, but we have found an answer.
+Does that make sense?
+There are a few thoughts on that.
+I think of two Bucky Fuller quotes.
+One is unity is plural and at minimum two.
+In this setting, that's the observer and the observed, which is also the quantum information setting.
+Let me think of Richard Rorty.
+Sorry, there's no truth, but there's truths.
+I think he took that from Buckminster Fuller, but yeah, go ahead.
+Possibly.
+I mean, it's very consistent with just this kind of omni happening where there's many centers.
+Everywhere is a center to itself, and that explains everything from, quote, physical phenomena like propagation through media, but then also could refer to other kinds of systems that are modeled using synergetics or tensegrity.
+Again, scale-free frameworks that can be used to say more because they are less opinionated.
+And so it's like the linear regression, active inference, synergetics, complexity.
+It's not going to have a stance, can't be expected to, and really wouldn't be desired to be expected to have a position on whether this startup should have this kind of structure or that kind of managerial structure.
+But perhaps what you're alluding to with the kind of disciplinary ways circling around something is, can we, among other things, shift our attention to the moon, not all the different fingers pointing to it, and then imbued within that, maybe essentially, maybe sufficiently.
+Unity is plural at minimum, there just isn't a non-relational stance.
+Expressions are relational assertions.
+They are not standalone declaratives, except in a very special controlled settings.
+So just taking a kind of like fuzziness, crystallizing clarity, and inner subjective alignment, rather than, well, there's actually just this and that, and then we see only blurring of these essences.
+We can see a sort of what's sometimes called bottom-up construction or arising, but also unfolding and change of what can be also properly called archetypal or pattern or top-down causal influence or whatever it is in a given situation.
+At the theory level, we're just building our toolkit and trying to respect the literature and other ways of knowing and expand the ways that we can talk about sense-making, decision-making, nested systems, like all of that.
+Just stamp collecting, insect collecting.
+Why not have more nuance and expressivity in the language?
+Yes, I think that gets to the need for, it's more of a cognitive shift in a way that's happening.
+You're kind of unsticking from this notion of one answer or one perspective or so on.
+But I also think a lot of what you said can get very, it can, you know, then we get into this trap of reductionism or something like this too, where, or even where it's just, there's no truth at all.
+I mean, that Rorty quote was, there are truths, but no truth, but it can easily become, there's no truths because you can measure anything from anywhere.
+And so anything, anything goes, which actually isn't, doesn't follow logically, but I didn't hear your second, the second quote you said you were going to think of too, but.
+Oh, I seem to be a verb.
+Ah, okay.
+That's the idea that we could even take a process or procedural or dynamical understanding of the self-reflexive construct of eye, obviously, and also other things.
+Why not?
+We don't even experience the visual scene statically.
+There's a temporal thickness, even division, moving an object fast.
+And we know about the blind spot and the vision and the color and the periphery and the eye saccade, all these other features.
+So we just kind of can pick up at the empirical and swap across and gap across with the theoretical and empirical.
+They're a dialectic because unity is plural and at minimum too, because we're not going to be able to put it all into one box because collapsing to one box is like a death state.
+And so having multiple, minimum two, not only two necessarily, but being able to have that.
+And anytime we see one, knowing that there's a minimum of two, if nothing else, then the agent in the niche, pretty general, pretty good one right there.
+One of my favorite quotes from Gregory Bates in, it takes two to know one.
+There's so many, so many mutations on that people could take in, run with.
+So then it's like, well, then what?
+But we're scientists or, I mean, I'm more of a philosopher, but I, I, I was in neuroscience labs and science is supposed to be objective and we're trying to find answers and it does matter.
+Um, so like, how do you take all this that we've been talking about, which can start to feel very, it starts to feel very beautiful and exciting, but also as if you're getting like disintegrating a bit in, in what's possible.
+So the lack of being able to kind of draw hard boundaries, I mean, do you ever find that tension or how, if not, how have you, how do you resolve it or how do you deal with that?
+First, I'm reminded of Hamlet melt, thaw and resolve itself into a dew and cyclic phase transitions and fractal phase transitions and like that oscillation.
+And yeah, there's a disintegrating and then there's also a synthesis phase, unless it's a runaway, which eventually must find another oscillation.
+So that doesn't mean we can always, at some level or way of the fractal cognitive fractal, we can't always perfectly predict where the wave is going to be, if it's turbulent or if it's an a hundred foot wave.
+However, we can use real time unfolding variational free energy recalibration in the moment.
+And we can also use our anticipation, expected free energy and planning as inference.
+And so we have a lot of the bounds, not to say the only ones or the exclusive ones, but there are some boundaries that can be realized that actually are the shadow or the framing of what might be called a fuzziness.
+Like, well, the probability of raining tomorrow might be anything.
+Well, anything like anything, anything, or like a number between zero and one, because we know that that's going to be a number, but just more professionally or pragmatically here, the research project is the container for that uncertainty.
+And so if somebody can find an arrangement or articulation with like their research work in terms of how much they're being rewarded and valued, and if that is working structurally within the envelope of the project,
+the work and the work and attention and dynamics and give and take and all that is beneficial, then that's an adaptive and a lucky and honorable position to find oneself in and help others be in as well.
+So at that structural understanding level, that doesn't mean that everything is fine in the experiment or doesn't mean everything's fine at home, all these different challenges, but those are the challenges within the bounded.
+And it's really a state of exception that breaks outside of that boundary.
+Yeah, I like it that you started with Hamlet, because there's something about, you started with this art, right, which or this expression that doesn't need to be quantified in the sense that I was coming at it with the science and how do we nail things down.
+And that is kind of already an answer in a way, and I think where you're talking from is from a certain perspective that, I don't know, a lot of people don't have that kind of a perspective, a way of getting outside of their work enough to see it in the way you just described.
+I guess I just wonder, did the ants help you get there?
+Again, different ways I could approach this.
+Getting outside of my work, I wouldn't say I did or do.
+I have made it the work, part of the work, just like scheduling is truly part of the work, and following up, and the before, during, and after of an activity is part of the work, the after and the before, and also from a neurological perspective, the during, like, includes sleep.
+That's something, and then, again, this isn't a solution.
+It's not solving for X.
+It may even be a precursor step to being able to differentiate letters at all, but those are fundamental cognitive steps because that challenge is a cognitive challenge, or it just, it can be understood as cognitive today.
+Or the patterns that are studied in cognitive science related to sense making and decision making are some of the patterns, but it doesn't need to be all that are important for this cognitive slash metacognitive task, which is just one way of knowing and working.
+It's not any person all the time, and it's many-to-many just like tasks are in the colony.
+So you already saw that as, like, integrated, the mental and emotional, and the scholarly, and so I guess what you're saying is you hadn't sort of separated that out.
+It was already for you part of the enterprise from the beginning, which is, that's interesting.
+I don't know.
+There's that evaluation of what did happen for me, which, again, who knows, and it can be, it can be both and, and then there's the transferability and that.
+One thing that it makes me think of, though, from what actually did happen was, like, being an undergraduate, doing fly genetics, it was clear the time and the space and the way that things had to be done.
+Oh, here's 10 trays of tubes that need to be tipped.
+It's just 144 times 10.
+It takes this long.
+Here's how long to schedule it.
+Listen to podcasts, listen to music, talk to a friend.
+And then in another kind of level or way, graduate school is like, okay, well, now there's some more agency, especially up front, like situating the qualifying exam or finding a question that's motivating or that's really curious.
+It seems like there's going to be epistemic value.
+And then that goes from there.
+So, like, that is the work itself, and some work is very structured, and there's definitely complexity about, like, showing up and being, like, authentically how we are, and also there can be authentically repetitive work that is essential.
+I like that.
+I like that.
+It's almost like the training was meditative, and that can be, yeah, that's a really fascinating way to think about school and the work and the lab work and stuff almost as a meditative practice that then can scaffold some of the other things.
+And especially when we get into these huge, seemingly chaotic or whatever, these bigger parameters of where something can seem fractal and you can just, like, as you were saying, there's just so much information or there's nothing that, like, one person can't deal with all of it.
+So, if you already have that grounding in a sort of meditative structure, I can see how that would really help.
+Let me say a little more on that.
+So, yeah, the actual pipetting and the fly flipping and ant watching and whatever it is that every other person in their playings and hobbies and trainings experiences.
+But then it made me think about, like, in the disciplinary way, there's kind of, like, the elevator of just, like, more or less hard.
+Or it's kind of like a tree, but, you know, it has some fundaments, and then it kind of bifurcates into the more arcane research sub-sub fields.
+And so, education is kind of spanning that whole tree, different disciplines, there's a whole forest, forest for the trees, and it's, like, whether it's an undergraduate level class or research presentation or a language model generating a performance art piece about a scientist, whatever it is, if it's the right thing for you to be in that listening environment,
+then, with attention, it can always just be absorbed with awareness, if not used as a catalyst.
+It doesn't even mean that what they say is accurate, that you would have said it that way, that they said it the best way that they could have, that it was most recent, that they mentioned this recent paper, did they, you know, do the list ABC or CBA?
+That's all critique.
+And there's a time and a place, and there's a way.
+And maybe there's even a job.
+But, like, for actually being there, and just, like, I just want to enjoy this lecture, and just, I'm not going to go into this area, I'm not going to be tested, those modes, but also even designing our own modes of attention and figuring out paths to get there, again, those don't really, that doesn't really rely on any specific research finding.
+No, but it does, you do have to know you can do that.
+I think that kind of gets back to what I was trying to say about some of it's just realizing you can do this, what you've described.
+Like, that actually, within itself, is quite a big thing.
+And some of this actually just is an example of what we were talking about at the beginning, that there are different perspectives.
+You and I, I think, have entered the world and experienced the world in really different ways.
+And I can't say what that is, but I feel like if I'm going to generalize really big, for me, it's more that I, the world was this kind of very emotional, artistic, I don't know, overwhelmingly emotional thing that I then sort of, through kind of hard work, realized I could structure or something.
+But I guess there's just different ways of waking up to the fact that you are a cognitive subject and then that you can actually start to take action about how you arrange and scaffold all that input.
+It can be overwhelming to want to experience the world in complete, full, in all ways, if you haven't learned a way of structuring it, not necessarily by being in the lab and learning that, but however you learn it.
+I want to kind of turn towards these terms of cognition and sense-making and active inference.
+So you've said sense-making quite a few times.
+We've been talking about active inference and so on.
+We've been talking about cognition.
+And this does relate to all we're talking about already, but with the ants or any subject matter, the action is pretty clear, right, from our perspective as we're measuring and assessing it.
+Perception and cognition, these words start to get a little more confusing, right?
+And as we're going to lead into a talk about active inference or even predictive processing or whatever, we're talking about action, we're talking about perception, we're talking about cognition.
+I wonder where, when you started to think of, if you started to think of those as different, or if you've thought of those as in a way that we've been talking about, and as I think of it, as kind of different approaches to understanding the same process rather than necessarily like different processes.
+Perception, action, cognition.
+Maybe you can just tell me a little bit about what your memory is of how you started distinguishing between those or not distinguishing between those.
+Yeah, a lot of levels and stages.
+When I'm today saying the things that were said earlier or heading into this more explicit section on active inference, I really do think about the active inference ontology as a dialect.
+In this case, a dialect of English.
+But it doesn't have to be English.
+It could be a programming language.
+It could be another natural language.
+So that helps make the toolbox, for me, separate from the deployment of the tool.
+Like, I may or may not know what every single hammer and screwdriver on the wall does.
+Maybe some are just painted on.
+They're just jokes.
+You know, maybe some are useful for multiple things.
+Maybe there's uses for one that haven't ever been done before.
+But certainly every bike coming into the shop is a new bike to fix.
+Every new question is a new one to address.
+Basic or advanced, totally noble, open and shut, seemingly only one answer or two answers, totally open, just an evocative question.
+So how did, especially looking back, now understanding active inference, only in the limited way I do, how does that help me understand how I was looking at perception, cognition, action, and impact in the niche?
+Well, the first thing that's not active inference that comes to mind is wondering why we had all of these ant colony simulations from myrmecologists, from insect and ant researchers, making simulations of different ant settings, and then also a lot of interest in the computer science and in the pure math space of, like, ant colony swarm optimization.
+So there's a lot of interesting models proposed for decades.
+However, seemingly, I don't know to what extent this is empirically borne out, but we could find out, it didn't feel like people were ever following long term on one type of model, like a group would tend to introduce different versions of a kind of research theme, but with like a first principles architecture each time, maybe by new students, or a new technology coming into play.
+But I wasn't seeing too much versioning, scaffolding, or synthesis, like somebody saying, well, actually, these two simulations can be understood as basically composed of, you know, special cases of this more general way of thinking about it.
+But through the general framings of agents that cybernetics brought into play, it was very clear that for things that are behavioral,
+we can think about them in terms of their inbound and outbound statistical dependencies.
+If something doesn't have inbound and outbound statistical dependencies, it's like, it's either not there for you to see and or not having a feedback effect.
+So it's not even just that it could be discounted, it's like, it will be discounted, because it won't be within your perception.
+Especially in the last years, especially in the last years, with the new tools that have been developed in active inference in the free energy principle, there are examples now of first principles, descriptions of perception, cognition, action, impact in the niche.
+This isn't to say it's the only first principles, or that first principles would be preferable, but this is a total synthetic first principles unifying approach to those diverse phenomena.
+And specifically, it involves a fourfold partition, where there's a blanket, or interface or a boundary.
+And there's two types of states on the interface, that just coarsely have dependencies going in different directions.
+And so with respect to a given system of interest, we can just analytically associate the inbound dependencies with perception, outbound dependencies as action, and then everything that happens on the other side of the blanket as cognition.
+So that's not an account of perception, cognition, or action, or impact in the niche for any specific system.
+But that particular partition, the fourfold partition, then is like a tool that we can take to now use that dialect and formalism on the GPU in the computer, or a bacteria in the glucose gradient, or ourself at this time, or this team at that time.
+So it's just like the tool that we're bringing to the table, not saying that the tool is the answer, identifies the problem, all of these different features.
+Once the tool is clear, it becomes a lot clearer at a meta level, what is the tool, what's the problem, what's the solution, what's the issue here?
+Not even saying that there are other tools, but I think it's a really fascinating area.
+And I really do think that there are some differences in the stance that active inference and potentially other related approaches may already be offering us.
+Yeah, I agree. I like it that you started out talking about these words as language, and that language itself is a system that we're using to assess, let's say, whatever, a process that's going on.
+And that none of those would be really stuck to the process necessarily, so much as the way that we're assessing it and we have agreed upon in inputs and outputs and regularities, be it mathematical or be it words.
+So are you sort of saying that the actual math or maths that Fristin or others have come up with relative to predictive processing, for example, are you saying you could almost see that as a language, too, that's approximating how to assess and measure a larger process in a way that we can all communicate about and agree upon?
+And in a sort of cybernetic, out of that lineage, connection, communication, finding common language, and so forth.
+That's quite the question or hypothesis.
+Certainly, as a technical instrument, it has some of those features that might be qualitatively summarized from earlier in our discussion, like unity is plural at minimum, too.
+So having relationality and the observer observed and dynamics on both sides of the screen, that's a really cool feature.
+However, it's scale-free and also potentially scale-friendly, so meaning not just that active inference doesn't presuppose centimeter or kilometer, scale-free.
+Scale-friendly in that we can make an active inference model of an estimate.
+And then 10 years later, we could say, okay, now let's do multi-agent simulation.
+So we just scale-friendly it into collective behavioral setting, and then someone says, well, I think we should have a tree.
+Okay, cool.
+Now, ant colony and tree.
+So that is composable and interoperable, so applies category theory very well in that area.
+And this is a way that we can talk about those settings.
+There may be other ways to talk about and work with those settings.
+These may not be all of the settings.
+Just being able to talk about something is not equivalent to making an adequate expression about it, especially in the embodied setting.
+So there's still a million clear caveats.
+Are there unknown unknowns caveats?
+Yeah, probably.
+But these are fundamental.
+But that's just like when people are like, well, maybe numbers don't represent things.
+It's like, okay, but that's not really a ding against any type of linear regression or active inference.
+And that may be a valid point.
+Maybe your valid point might be a useful point.
+But rug pulling all of numbers isn't doing a knock against any given model.
+They're just different scales of analysis.
+And so there's more to say there.
+But as our communication bandwidth, not just the digital bandwidth, but being able to speak remotely is quite helpful.
+But as our bandwidth and alignments and our reference frames through language and education and culturation, all these things increase, especially with sentient artifacts and augmented synthetic intelligence, that's unprestatable.
+Yes, and then we're really layering the themes we're talking about.
+But to continue doing that, I think, yes, it's all true what you said.
+But when it comes to something like the field of neuroscience or the field of cognitive science, when we're just trying to understand what is cognition, do you not think that what you just described is very democratic and fluid?
+And what I described, in a way, as just one way of possibly understanding a process, do you think we actually use it in the discipline like that?
+Or is it more that there's only going to be one answer?
+This is what cognition is.
+Because when you're talking, I agree.
+But I also think that's not really the way people talk about it in the literature.
+It's more we're trying to find an answer with good reason, because we want to solve some issues that people face relative to mental health, for example, or brain diseases or whatever.
+So, yeah, I just wonder, like, where do we pull in and out philosophically and practically?
+Yeah, a lot of good points.
+Well, especially as viewed from the inside and, like, the bottom up, ascribing intentionality to the scientific literature or a field, either it's not a relevant level of description, or at the very least, there's many degrees of freedom on whether the field of neuroscience wants anything.
+But this also returns to individuality and what things can want things.
+I find that it's very challenging and nuanced to separate out, like, again, the finger from the moon, for example, in the active inference area and in the Oxford English Dictionary.
+So it's not like this is a rare take, a term like sentience might be used to describe adaptive anticipatory or allostatic intelligent action, but not necessarily phenomenal awareness.
+But sentience can be used in both ways.
+Or belief has a narrower technical meaning in Bayesian statistics, just like attention, surprise, and all these other features do.
+But then there's this, we need a minimum of two, because belief, attention, precision were brought by analogy from cognitive science into statistics.
+But just the variable, the precision on a variable, or the attention on a variable, isn't the human experience of attention.
+And so then it's like, but why do we have the same symbol?
+It's like, what's wrong with symbols being min too?
+But we need to have a little bit more nuance sometimes, so that it's not like semantics, but everything is semantics, even if it's narrative.
+So, but people often mean that it's like a word game, saying that it's just semantics.
+It's like throwing up your hands like, oh, it's just a card game.
+It's like, yeah, we're playing a card game.
+It is semantic, now let's be serious, and sincere, and fun, and inclusive, and all of this, but let's do it then.
+Let's just do a subscript, if these are the two definitions, or let's have an open source repository.
+And if you want to use consciousness 14, or 19, or whatever, just make it clear, and then we'll know.
+However, these have, first off, these technologies don't always exist, or are not always in use.
+And they may fundamentally, but certainly in practice, have very high cognitive overload and burden.
+And stakes, frankly.
+Yeah, and high stakes.
+It's not really just a game, this, what we, how we define cognition, and how it trickles down to becoming, I mean, it has everyday consequences on all levels, whether why we fight each other, why we don't fight each other, or how we think of our, the boundaries of self, or how we address mental issues, things like this.
+So, gosh, I mean, maybe I can try to get into a lot of the stuff that I was thinking of when you were talking by asking this.
+When you're talking about active inference, how strict are you to something like predictive coding's relationship to active inference, and mental models, and things like this?
+Or are you, like, when you're using that word at the Institute, because you have a lot of different people come and speak from different ways of defining that word.
+But I guess, like, how do you see that?
+Are you strictly tied to something like Helmholtz-Fristin predictive coding tradition, or what?
+Great questions.
+So, I'll give a more limited answer than a broader answer.
+So, the limited answer will be about the relationship between active inference, predictive coding, and predictive processing.
+And then the second is, I think, a more general and important question, too, about, like, how we select and platform and what a field or whatever, what X Institute is.
+So, to the first point, active inference is a unified approach to modeling perception, cognition, action, and the impact on the environment.
+The specific way that sophisticated cognitive entities are modeled is with an internal world model or generative model that includes anticipation or predictions about the environment.
+So, that is often called predictive processing, whether it's a single layer or a multi-level predictive processing architecture.
+On the, quote, lower levels, you have more sensory information coming in.
+And then on progressively, like, higher levels, you have abstracted representations.
+So, computationally, if not biologically.
+So, predictive processing is referring to the bottom-up flow of sensory inputs as surprises the top-down imposition of priors.
+Now, predictive coding takes that last piece, which is encoded as surprises, and says, what if not just the architecture being laid out that way, but what if the messages that were being conveyed were about the difference between the expectation and the observation?
+So, you could have a predictive processing system where each level sends down, here's what my prediction is, and then this one sends, well, here's what my observation was.
+That wouldn't be predictive coding, though, because in predictive coding, only the delta is being sent up, only the difference between them.
+So, predictive coding is kind of like a wiring choice.
+Predictive processing is referring to any kind of predictive model with incoming sensory information, very common cognitive architecture.
+And active inference is a very unified approach to model those kinds of systems, but also it's more expressive.
+And so, it is in the tradition and in the lineage of predictive processing and predictive coding, however, it can be used to express other forms of cognitive models.
+The broader question, though, is very interesting and important, and I hope we can elucidate and be clearer on it.
+But the few things that come to mind, first, there are fractal containers.
+So, if somebody has an organizational psychology idea that's, like, cool, and it relates to, like, keywords that are in the active inference ontology supplement.
+So, it's, like, they're adjacent.
+This person is not talking about Bayesian statistics.
+However, they're talking about something that is, like, part of our broader topics of interest.
+Then creating, like, an org stream series and just saying, yeah, let's have that conversation and make that two-way street.
+Act like it's an active inference enthusiast's first time hearing about your type of organization.
+And for those who are familiar with your kind of organization, let's have the conversation.
+It's not a test that brings that in.
+Let's have multiple people hear multiple voices.
+So, being able to actually have the genre and the format and the location of deposition under our agency as well means that there can be spaces that are more informal, more adjacent, less proximal to active inference that absolutely can be held and have been some of the most important.
+And we also have, like, oh, this paper just advanced to capacity in active inference.
+So, then, however, it is that it did that, however, it is now entering into the mesh of the developing framework, like, in the last several years since we've begun the Institute, topics like Bayesian mechanics and category theory applied to active inference were not even on the radar.
+But now they're fundamental components in our education, and so, basically, being able to have the continuum and then having great community and ecosystem.
+Who first used the term active inference?
+It's a great question.
+Like, people have used them.
+I've done some limited keyword searching.
+There are people using the words in conjunction in the early 1900s, but not in the way that it's being used today.
+Using active inference to mean a process theory that describes cognitive activity, compatible or consistent with the free energy principle, is happening since the early 2000s.
+But we're going to have many, many fun literature analysis times ahead with speech and text analysis taken to a new extent.
+And so, I very much look forward to a much less anecdotal and immersive linguistic understanding of different languages and different syntax with overlapping semantics, obviously.
+Yeah, and in doing that, something I think about a lot is the original Helmholtz, when we're talking about free energy principle and all that.
+We are talking now more about this literature of the 2000s that's person-oriented, but it goes back to, they call it unconscious inference.
+But when you really look at the German, it doesn't even have to be inference.
+Unbewusste Schluss.
+And that's more like a conclusion or something, not an inference.
+Which gets to a point that I wanted to talk to you about, which bothers me a little bit, is the idea of inference sounding already kind of meta to me.
+It sounds, and especially maybe this is because I studied predictive processing, predictive coding, and so forth in neuroscience.
+So, it's what comes to mind for me are these images of brains with the priors up here and the, you know, sensory input coming in from the body here.
+And, like, this whole, it's all brain-oriented, and it's all representational and, like, taking those representations to be inside brains, which Fristen doesn't necessarily do, even though he models it that way.
+So, it's already ambiguous, but when I just think of it, it's these models of brains, and it's models in brains, and it's inference in the sense that, to me, feels like awareness of your knowledge or knowledge of knowledge, which bothers me because I think of something like the ants, who are also, I think, in these same kind of loops.
+And even that recent book with, I think, some of your colleagues talking about what is active inference, it's generally thought of as a process that doesn't start with humans, of course, and the human brain architecture, but as, you know, this ongoing kind of process that maybe has resulted in that, but that's not, like, the top tier or something.
+So, this, I guess, I'm just throwing this out to see if you have some way of elucidating it, because it bothers me a lot, the idea of inference sounding so top-down and so already contemplated versus trying to think of something like an ant just making its way in the world and having these loops or more, I would say, spirals, not really, like, circular action perception, ongoing ways of just processing their world sensorily that we can then assess as cognitive.
+So, that's a lot, but just, yeah, okay, I have a bunch of kind of short, funny responses, only in the spirit of comedy and inspiration, of course.
+Yeah, that's good.
+So, first, how any English word hits any person on a given moment should be, like, a tiny, tiny feature of professional argumentation.
+Of course, as a friend, I think it's always interesting to hear somebody's unpacking because it conveys richness that goes way beyond the topic.
+But when it comes down to what a term should be, one person's taken in one moment is like, it's like a self-ad hominem.
+It's like a self-own.
+Second, inference is what the algorithm does.
+It is a Bayesian inference algorithm if you use a Bayesian statistical engine.
+So, map, not territory.
+This is cartography.
+We're saying that the algorithm...
+Absolutely.
+Yeah, I have to stop you there, though, because that's already the mathematical, like we were saying, that's an assessment of something.
+Yeah, but the active inference, when we make it in RxInfer software package, it is doing inference.
+That's already representational.
+Right.
+It doesn't mean that it's inferring.
+Right, right.
+Which is aligning, perhaps.
+That doesn't mean any system of interest.
+It's probably wrong to say it's doing active inference in the way that the program is implementing it.
+Now, there are analogies, and that is what makes maps useful for territories, but the framework itself narrowly certainly does inference, but whether a bacteria in the gradient or whether a metronome on the table or whether a neuron or brain or a glia or anything like that do inference is literally a separate question than what the field should be called.
+But connected, and I love, I have to say, sorry, I know I'm interrupting you, but the map territory thing is great that you said that, because that's exactly what I mean is, as we assess, you know, it goes back again, we're layering from the beginning.
+As we assess another position, of course, we can say that's inference, but that doesn't mean it's inference from that position, I guess, is what I'm trying to say.
+And once we use these mathematical models or computer models, of course, it's inference because we've set that structure, but go ahead.
+Yeah, yeah, certainly it's inference from the constructed model that humans did create.
+Yeah, people certainly highlight the mammalian brain a lot, not just because it's an important system or region, but like, anytime I see, for example, chapter five in the 2022 textbook, it's like, well, let's give the examples.
+Well, all the examples are from mammalian neuroscience.
+Doesn't it start, though, saying this doesn't start with human brain architecture?
+What's so interesting in the way you say that, first off, it did start with human brain architecture, humans created active inference.
+The second thing is, the particular partition certainly does not rest on any specific system.
+This is, again, the key point, which is active inference says nothing about any system of interest.
+It's any more than a pen says anything about which language or which word you're going to spell.
+And so active inference is, but that bridge is often welded or paper machete over or just averted because maybe it's another understanding to think that theories say things about systems of interest.
+First, I'm sharing it, just as an expression of how I see it, to me, it's very clear that the theory of linear regressions being developed and people developing decades of ways to do linear regressions, including on dynamical and chaotic systems and nonlinear systems and all that, those decades of development said nothing about any given relationship between a behavior and a disease.
+And so, but there's the regression, but there's the regression right there on the paper, and it's easy to point at.
+And so similarly, being able to separate active inference for what it is, which is a scale-free, which is a system-independent framework and method and tradition, from anything that we want to say about any organ, they're two separate things, but they're complementary in praxis.
+And that's why often it's more clarifying to do one behavioral experiment and analysis, like how tall do I estimate the people are?
+The next three people, I'm just going to guess their height, and then I'm going to fit a Gaussian.
+Okay, that's what I did.
+That can show more about the scientific process than spending all this time going into theory or learning history, but then abstracting or disconnecting or coarse-graining from that fundamental experimental-based uncertainty.
+Yes, and I guess to kind of riff on that even a little more, what maybe bothers me is that we sometimes, I don't know, it seems to me from my perspective that we sometimes take the model as if it's the biology.
+I don't know, like, I feel like we confuse the representation, the language, for example, or the math, or the model, with the thing that we're assessing, in the same way that we might assume inference in the way that we were talking about.
+And I think that matters, and it's part of trying to shift the framework in the way that you kind of brought up at the beginning of understanding it as a framework that can be turned into many dimensions and scales.
+I don't know, I don't know, it just, there's something about, for example, thinking of the model having to be in the brain, or the brain itself even having to be necessary to understand this process that matters for me, which is, because I think, aren't you, are you also trying to understand how this continuum plays out in all kinds of forms and scales of life and species,
+rather than just having a model that applies, rather than just having a model that applies only in one area?
+I mean, isn't that part of the Active Inference Institute's kind of notion of translation too, or even your own work?
+Yes, and not that it's the only one, but we have one of those, which is the scale-free framework of Active Inference, which says nothing about any given system,
+and then every last mile for us to flourish into and live and die or ride or not about anything, which is what some people sometimes also highlight about free energy principle as a theory of everything with a space there,
+because it's not giving an account of like, what some other theories of everything project themselves or assert themselves to do, which is to provide a totalistic account of all,
+but rather, we can provide our account of anything, and if something cannot be identified as a thing by that modeler, it won't be included in the model.
+And that's often called a deflationary approach, because it is more procedural, it's more descriptive of a scientific method or an analysis method,
+rather than something that explicitly talks about cosmology or human psychology or anything like that.
+And that's why it's the first principles account, because it brings us from zero to one or zero to two to be able to utilize,
+not because it gives us some grander scaffold to hang anything.
+Yes, I agree.
+And of course, that a lot of the criticism of Active Inference, which I'm sure you've heard, is that it's way too general and so on,
+because it's like, okay, yeah, there's something very exciting about the words Active Inference, even, it's just there's something very exciting about the notion of it,
+especially because we are able to become aware of our own inference.
+And so there's these kind of layers.
+But I still, I feel like I want to push it a little more, because there is a reason that it gets into all this math and to predictive processing and predictive coding.
+And like, I mean, if we take seriously what the idea of cognition and trying to understand it and trying to understand that it's something like an insect and something like a plant and something like a human all have cognition without necessarily attributing the same cognition to those different systems,
+which is usually what happens, right, we say, if we say they all have cognition, we're assumed to be saying it's a cognition, the ant and the human are thinking about themselves in some way.
+And I find that is very, something that I think could be clarified and improved.
+And to do it, you really need some kind of specifics.
+So I guess what I want to ask you is, how do you think of cognition?
+When you were studying those ants, did you think of them as cognitive?
+Or do you think of cognition as an almost more dualistic sense of, it's not behavior, it really is something other than behavior that we might call only like mind, not action itself and behavior?
+Great questions.
+There might be some systems where those differentiated accounts are indistinguishable.
+And there might be other systems that those are highly distinguishable accounts.
+Some work over the recent years by Lars Sandvitt-Smith and others framed attention as internal covert action.
+To me, that was a big jump because it showed that instrumentally, we could analytically study action on both sides of the blanket without wondering whether it was experienced.
+Now, our experience may be a fundamental mystery.
+It may not be.
+It's something I've also thought about.
+And also, I wouldn't want my personal experience or any one thing's experience to be the beginning and the end of an explicitly intersubjective framework.
+So, when I hear cognition, I see it as a keyword, as a token that is very coarse-grained, always needs to be described, whether it's cognition in the abstract, system independent, or if it's system specific.
+If it's abstract, then the sport and the joy is making it system independent, just like linear aggressions don't mention anything specific about any disease.
+But then if we're going to be deploying cognition about a given thing, usually the claims are specific enough where it can just be operationalized and it's a non-issue, at least not a theoretical issue.
+Like foraging in the abstract versus one meter away from the nest entrance, that moves something that is, in theory, open to, in practice, actual.
+And I just find that a huge amount of settings where cognition is used to point at, whether it's cognitive science or cognitive security, in the actual description, there's a lot more clarity.
+And it's a different kind of thing than the abstract, which is essentially always open, always could be generalized, or always could have a counterfactual.
+That is its own kind of conceptual clarity.
+Being able to propose new variants of a theory is what we want.
+Generality is what we want.
+Expressivity there.
+And then there's a different dual or complementary imperative if we were talking about the cognition of any given thing.
+If someone says, well, that fence post, it's like it's doing cognition.
+It has no affordances, no capacity for action over the timescale I'm modeling it, and it's doing a perfect inference on where it should be, and it wants the same thing as I want.
+And someone's like, well, cool.
+I just think of it as the fence post being there.
+Okay, cool.
+So then cognition did nothing in that setting.
+And also, if we look deeper, we find that there's many settings where behavior, cognition, and these very coarse terms are just being used for indexing and evocation, not being, at least I don't understand them or interpret them when I hear them as being assertions about the theory more generally.
+But sometimes, even within a sentence, people are using things in multiple different ways.
+Studying different creatures in the world, and then also going to this level of Active Inference Institute and humans speaking about all of these things, have you seen some kind of continuity in patterns?
+I wonder what you think of something like just taking any agent in the way we expressed at the beginning, and from that agent's perspective, as it makes its way through the world, however it's doing that, in terms of sensing the world and making something of it.
+Or that, I think, is continuous with making sense, too.
+I actually think we can start to understand that as a continuity, our experience of the world actually being continuous with something like the ant, sensing the world and making its way through the world.
+How does that feel to you when I say that, or what comes to mind?
+A few things.
+The broader context, even though I saw many different arrangements of pixels on the screen and many different positions of nest mates on the ground, gravity was in effect.
+The U.S. dollar was in effect.
+The logistics of scheduling were in effect.
+Transportation, bodily movement, sleep.
+So, overwhelmingly, there was continuity in approach, given the buffering or the containing of variability that was hand-in-hand with developing that capacity and developing the capacity to describe it, which are, of course, separate things.
+Because some people look at the blanket, the interface, Markov blanket, however they want to say it, and they think it separates, when actually it's what intermediates.
+And that is the dialectic of the mediator.
+It both intervenes between and it connects.
+And there's no reason to come down to one side of separate or connect in principle because it can't be done, and then in practice because it's irrelevant because they're describing the same element.
+Right. And would you agree also you could redraw the Markov blanket, so to speak, from a different – if you change to another agental or agent-based perspective, wouldn't the Markov blanket itself also change without erasing anything that you found from that position as truth?
+Absolutely. Absolutely.
+Absolutely. There is a blanket around every node.
+There's an interface around every element, and which one we tag as internal, which then dictates which ones are inbound, which ones are outbound, which ones are external.
+That is a secondary choice that's not on the table.
+Patterns across the areas, most recently working with RJ and others, where we've explicitly taken the pattern language approach to composing our understanding of cognitive settings.
+That helped make it exoteric what various people just in this one corner were grasping at implicitly, and that's happening in many different ways, which would only be right and relevant.
+And so, yes, there are some similarities between being out on the physical field and being in an intellectual field, and another piece of the puzzle that, like so many pieces, is only understandable later, is Mike Levin and Chris Fields' work on competence as navigation in arbitrary state spaces.
+I love that paper.
+Just to push a little bit more, what about in the subject matter, when you're studying the ant, do you see any patterns in literally the way that the ant or the ant colony makes its way, which I think of as cognitive, and the way us here in these online team spaces, or you've written about war, these kind of spaces that seem mental or emotional
+or somehow distinctly human, or somehow distinctly human, the way we make our way through those, have you seen any continuity and patterns in those what seem like really different spaces?
+I mean, that speaks to Levin too.
+It should be, and it should be, and it will be unpacked for so much longer, but I think about Nestmates using the rate and type of interactions to make local decisions, people getting local interactions about which stocks to be bullish on, or what kinds of events are happening with what frequency where.
+So rate and type of rate and local agency that then gets deployed to whatever ends it is, that's one.
+Another important pattern that has complete continuity is between the stigmatic, the niche modification, and the semiotic niche modification, whether through chemical pheromones, semiochemicals, or whether digital niche modifications in our information environment,
+that there's this articulation between what is the pheromone on the ground, or the digital data on the hard drive, and then the sentient entity who responds and unpacks that pheromone distribution, responds and unpacks that information distribution.
+And so being able to separate where are we talking about the dead information in the niche, and then with that being crystal clear, because it usually is pretty clear, now what is the complexity of the body and the mind?
+But let's start with what we can already say is the modified niche, and that opens the door to a much more open investigation of what that active entity's cognition is, which doesn't even need to be stated.
+And it may be helpful to go in with a minimal assumptions of what that active component is.
+That makes me think of something like art or Shakespeare or digital space in terms of the new world of social media and looking at that also from that same angle that you just applied in terms of like pheromones or trails or trajectories that are followed more and more or broken or even with the foraging idea of what's close by and what's far away.
+I have to ask you one little clarification question and again it could be a whole episode by itself but you speak of affordance a lot and a lot of people do in this kind of world that you know that some of the worlds we share, but there's rarely any talk of Gibson and when it comes to perception and action I mean.
+that's a you know of course that word comes from an important history and I just like do you do you see do you think about Gibson and do you see that as.
+Co like making sense with active inference and these bigger themes that we've already talked about or do you see that as just.
+You know you've taken that word and it's you know you've taken that word and it's in a different context.
+Great question.
+Great question.
+Here I will point to the work of.
+One of my intern colleagues Paolo say.
+And what Paolo did was in the English and Portuguese corpus investigate the term affordance.
+And I believe the conclusion is clear enough for me to work with which is that while Gibson and the ecological psychologists highlighted the experienced potentiality of relational action.
+And in their usage of affordance what we can call affordance to within a schema that was later made Gibson at all highlighted the experienced perceptual component of affordance.
+Whereas in active inference affordance is used more along the lines of policy from control theory, which is to say capacity for action still relational, but it deemphasizes the perceptual.
+And so actually the problem that the ecological psychologists were setting up to do was why certain capacities were perceived.
+Whereas active inference removes, let alone the consciousness and awareness, it doesn't even need to be perceptual at all.
+And so it picks up with the word because the relational capacity for action is the key phenomena, but it left the baggage of being used to account for perception.
+And then just begging the question and then just begging the question, well, why does the one that come to attention end up being the one that's selected?
+And so it's absolutely there in the citation trees and it's in some of the papers too.
+And on a last note there, I advocate for a move away from last names and the ideas and the specifics of the literature citations will be much clearer than invoking keystone names.
+Who will still get more than their recognition through the bibliographic and the meta analytic, but there's nothing about a Markov blanket that's helpful to somebody who doesn't know it.
+Or any of these kinds of books that catalyzes education and accessibility and rigor except in a very small and cultured set of people.
+I think they are name drops mean there are ways of us showing each other what we've read, which isn't always like a bad thing, even if it's annoying and annoying thing.
+But, you know, we do need names to partitioning set on a graphical model instead of a Markov blanket or some other formally equivalent expression.
+It's actually much more clarifying if you say it like that.
+You can actually know what it is just by hearing the term.
+All right. Well, I want to go back to the active inference Institute, but also your postdoc work.
+A word that comes up a lot in there is service, you know, or serve.
+I think it's like serve, act, infer.
+Isn't that your the motto of one of the of the active inference Institute?
+And also in your postdoc for surf.
+Okay, sorry.
+And then in your postdoc work service was a really big word in there.
+I think if I'm remembering correctly, and you do a lot of engaging team with teams and you and you look at this a lot.
+So I guess I'm wondering where that comes from and why that's so important to you and how that how you see that fitting with these other things we've talked about.
+Big question.
+I.
+Try to do slash be the zero with level response to that curiosity.
+And don't necessarily know what can or should or must be said beyond that, but I'm very happy and honored and blessed to be able to be where and how I am.
+And I respect other people's journeys and works in ways.
+So let all the action, inference and service flow from there.
+Is it a way of opening, making sure things remain more open ended somehow?
+It's very important.
+It's a stance almost that isn't something that you hear in this world a lot.
+So I'm sorry to push you on it, but it's well, the open endedness with action and inference, we already have too much open endedness.
+So if it's the other way around, this actually connects it to to what that's one piece.
+Another aspect is the two stroke engine.
+Okay.
+So the framework is unity, but also at minimum two.
+So we have the two stroke engine across the boundary.
+So now we have the information engine, but is it going to be a dud?
+Is it going to blow up in our face or is it going to be a real something that we can use to do meaningful work from information entropy and perspective divergence?
+But if it is going to be an information engine or a synthetic intelligence risk engine or whatever aspect it is, then where are we going to go?
+Who's going to decide?
+How will we know?
+So having something that does action and inference is a capacity, but then for and how and by what must be even before realizing any given stage of whatever as a capacity.
+And the wise continue to implore a deeper view on the technical why.
+Very good.
+It opens up to the word that we don't dare speak, but the idea of love, not something often said in science.
+The openness and the connection, but also the beyond what can be said with words to just go to Wittgenstein since the name did come up.
+To be silent about that, which we cannot speak or whatever.
+But it can it can be the case that love is a map of a territory and we can bring all of that to bear.
+And then we really need to be in the field.
+And it's like any amount of theorizing, oh, love is a cognitive pattern or as a historical object.
+It is all of those things.
+And it's a pointer and it's a referent and semiosis.
+It's like, yeah, and that whole sphere is like one mode or regime or culture or way.
+And there aren't even just two ways.
+So then it's just an opening.
+And yeah, we could probably have an opening for dignity, for honor, for any word, truly any word, especially if you're linguistically oriented.
+But why not some of the most evocative and meaningful spaces that are like vast and relevant enough to just be like, you can just pour into it and flow through it forever.
+Do you find passion in what you do?
+Are you passionate for it?
+Is it have you ever had to cultivate that kind of a motivation or I guess I'm I think this stay the active inference and service is some there's a balance there, too, in a way of staying motivated and in work.
+So, yeah, just last thoughts, if any of that comes comes back around to how how there might be some kind of multi scale fractal nature of of thinking about about the passions that stay with us through our lives and our work.
+It's really a great question.
+I'm not sure how much I can say or even internally describe, but I think it's a huge question.
+And it's a team and a civilizational scale project, and it's a personal and a family and a professional project.
+And so through that kind of plurality and be like there just aren't shut doors like even a data measurement is just the opening.
+And so convergence and divergence and then how do we way finds in that?
+And focus on like the dialectic of the light and the dark with our flashlight or like our foundedness and our unfoundedness and all of that, which will always be there.
+So whether we're in the brightest room or the most totally mapped space or the real unknown unknown state of exception, all those features.
+So that's part of I guess our culture and way and why it's so fun to explore it with you and I'm sure to hear from all the others that you'll talk with.
+Like, I would love you're you're curious about how we invited people to the Institute.
+I want to connect the dots.
+Amongst love and philosophy minimum of two and amongst the guests, and that's the real social and the enacted.
+That's not just somebody prompting a language model to make something fluent but hollow.
+So I wish you I wish you well on this journey.
+Thank you very much.
+I wish you well on your journey, too.
+And thanks for for talking about all this and opening new spaces for people.
+I'm sure.
+We did it now when it was now.
+We said it how we said it then.
+Wonderful.
+Thank you, Daniel.
+I hope you have a great evening.
+Okay.
+Peace.
+Bye.
+Bye.

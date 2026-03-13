@@ -1,0 +1,1381 @@
+Hello, everyone. This is a conversation, a PhD conversation with Paul Kelly. Let me just say
+from the start that I'm not a panpsychist or an inactivist or any other ist or ism,
+even though those words come up here and it might sound like I'm one or the other. I'm not,
+although maybe that means I'm both or everything. I mean, to get beyond dichotomy
+is to talk about what we are in different ways. So maybe I'm both, maybe I'm neither. Maybe both
+of those at the same time in some interstitial place. In any case, the point is I find all of
+them helpful in different ways, depending on what I'm looking at or trying to understand about the
+world. And Paul and I get into this in terms of modeling cognition and what that means. And he's
+gone really deep in his scholarship and research and understanding of these topics. He's really
+clear about them. He really almost sees the world differently, at least when people talk about
+the word model. And he tries to explain that and does explain that very well here. These two different
+groups, again, depending where you come from, but roughly you can sort of divide it into a mechanistic
+and a dynamical approach to modeling cognition. So we talk about what these are. And I'm not an insider.
+This is a little bit of insider baseball, so to speak, insider modeling, but I am not an insider
+to modeling, at least not this kind. So you don't have to be an insider to learn about modeling cognition.
+You don't even have to follow all this. Don't have to follow baseball, so to speak. But we talk
+about that. What is a model? What does it mean? Why do we need them? Why does it get confused
+for map and territory? You know, if you listen to this show, I'm a little bit obsessed with trying
+to figure out how we confuse our maps and our territory and how both are important and how to
+distinguish between them. So we touch on that issue here in terms of modeling cognition and what it means
+to be mechanistic or dynamic. Why do we think we have to choose between those? Is there another way to
+look at this? That's part of the research I'm doing, too. I learned about surrogate reasoning, quite an
+interesting term, which Paul talks about quite a bit here. And even more interesting, once we've gone
+through these terms, we get to this example of climate science and how in that avenue, we might already be
+finding a different way to think about modeling that's not either or mechanistic or dynamic.
+Paul brings this up. It's really illuminating. I'm very thankful to him for that and for that example.
+And for this conversation, it's a long one. I'm just going to leave it as it is.
+And I hope you're having a good day out there, wherever you are. And thank you so much for being
+here with us for a little while. All right. Be well. Bye. Hey, Paul, it's good to see you. Thanks
+for coming on to talk today. Yeah, it's good to see you, too. Where are you? You're in Wisconsin.
+I am in Madison, Wisconsin. So we're going to talk about a lot of big subjects today. And I just want
+to say from the beginning that I am definitely not caught up on all the papers and references. But that's
+the point of having these conversations is to just open up new doors. And also, I'm going to be asking
+you a lot of big questions, which doesn't mean that you necessarily have to have all the answers to
+them, because there's a huge, huge amount of literature behind this idea of modeling cognition,
+I guess. Is that a fair way? Do you think of yourself as studying that or thinking about that?
+How to model cognition? Yeah, I think that that's a good question to start. And
+I imagine the pressing questions that leap to mind when you phrase the question that way are,
+what does it mean to model something? And what is cognition? And these are two very
+big questions and very controversial questions. But the idea that we could model cognition in a
+particularly fruitful and perhaps even explanatory way has become a really hot topic in the last couple
+decades. Yeah, definitely. And yeah, it's sort of it seems like we're assuming we know what cognition
+is if we think we can model it in a way. But then in another way, the whole point of trying to model it
+is to find some understanding of it. So do you think about that much? Or do you just assume you know what
+cognition is? Or do you feel like you're looking for what cognition is? Or do you just not think
+about it too much? Well, I'm interested in what cognition is. And nobody seems to have a clear
+sense of what cognition is, from what I can tell. Nobody also has a clear sense of what it means to
+model something. So there's a sense in which these two concepts, using them together, the ways in which
+the concepts can move in terms of our uncertainty is in both directions. Yeah, what cognition is,
+whether or not there could be even a strict notion of cognition that's defined in a particular way,
+the way that philosophers often think about providing a definition of something is by advancing
+conditions that are both necessary and sufficient for the thing to be present.
+And there's lots of examples to try to illustrate this. One of the most
+common historical ones is the term bachelor, right? If you try to analyze the concept bachelor
+and provide conditions that are both necessary, that are required for something to be a bachelor,
+and sufficient in the sense that if those conditions were present, that would be enough to guarantee
+that the person was a bachelor, you get something like something is a bachelor if and only if it's
+an unmarried man, right? Right.
+Those conditions are individually necessary and jointly sufficient for being a bachelor.
+Whether or not we could do something like that to sort of capture the essence of what it means for
+something to be cognitive in terms of a state or a process is much less clear. And people have tried to
+propose definitions over the years and it's contested. And maybe there's a sense in which
+that's a problem because there's this fundamental notion of cognition, which we're deploying that we
+don't have a clear definition of. Or maybe practically speaking, we don't need a strict definition.
+In the absence of necessary and sufficient conditions, we can still do good inquiry and investigate
+something about the mind, even if this concept itself isn't well-defined in a strict sense.
+Yeah, exactly. There can be a way to think of it in terms of regularities or things in common.
+But even with that bachelor example that you started with, I feel like we already assume a certain
+set of references when we start to even ask if something is necessary and sufficient. But we won't
+get into all that today because I want to talk about modeling cognition. But before we really dig
+into what a model is, how did you start get into thinking about all of this? Like what brought you
+to philosophy and to thinking about models of cognition? Yeah, I mean, I got into philosophy by
+taking, which I imagine is the case for a lot of people, an undergraduate class in philosophy. And
+prior to that, I'm not even sure I really knew of it as a discipline. And surprising to me that there
+was this field where people were asking these very abstract general questions, and that there were
+these people, philosophy professors, who somehow made a living doing this, just sitting around and scratching
+their head and talking to each other about these big general ideas. And it really intrigued me. And the
+more I got interested in philosophy and the more classes I took, I started to become interested in
+questions about science. And there's a sub-discipline in philosophy, the philosophy of science, which I
+became attracted to. In the philosophy of science, there's lots of different questions that people ask. What
+science is, how science proceeds, if there's a scientific method, but also the achievements of
+science, the successes of science, how science can help us understand the world or can give us truth
+in some meaningful sense. And a lot of philosophy of science over the last couple centuries has been
+focused on trying to make sense of the notion of a scientific theory. Scientific theories seem really
+important. They seem to be something that we develop and construct and use to try to navigate the world
+and maybe understand or explain things in the world. And philosophers of science have spent a lot of
+time thinking about theories. But in the last couple decades, people have realized that in actual
+scientific practice, sometimes theories are referred to, but there's another term model, which practicing
+scientists use constantly, and oftentimes without much reflection about what they're actually talking
+about. The way that the term model is used by someone who's an economist or someone who is a cognitive
+scientist or someone who is modeling the spread of COVID and the spread of disease, they're all using
+this term model. But there's no general consensus among the scientists anyway about what this means or how
+it supposedly represents the kinds of things in the world that scientists take them to be representations of.
+So all these questions that philosophers of science have been spending centuries talking about in
+terms of theory, about how theories are confirmed and how they represent and how they help us understand,
+can now be reframed in language of models. And so we have additional philosophical work to do
+to try to figure out what these things are and how they enable us to have a sort of scientific
+understanding or picture of the world. Right. So we want to understand what's going on in the world.
+I mean, just in a really general way, we're trying to figure things out. We start to become aware of
+ourselves and that something is going on and we start to try to understand it. And people have come
+up with all sorts of theories since there were, I mean, we can go back and back and back about what's
+really happening. What is life? What is mind? What is all of this kind of stuff? And there's a lot of
+theories about it, as you said, but when did we start making models in the sense of what I think
+you think of as like, not mental representations, but external representations? When did we start
+and trying to understand cognition through models that were not mental models, not something that,
+I mean, something that we can share externally as an object or as a diagram or as something like
+that? I mean, did that start? Do you have any idea about the history of that? Have you studied that
+much? Thought about when we started to do that? Probably I gave men, well, I know drawing stuff in
+the sand, you know? Yeah. I mean, I think it's a great question. And it really, in many ways,
+cuts to the core of what we were talking about just a couple minutes ago, which is that we're not even
+really sure what models are. Depending on how we answer that question will obviously impact our
+assessment of the historical question of when we started this practice of modeling.
+I guess that's what I'm trying to get into a little bit, too, as you answer this question,
+is trying to understand because, you know, we're coming at it. You've read all these papers about
+what modeling is. People discuss it and discuss it and discuss it. But if we're just going to start in
+a really general place, you know, where did that start? And then why did it become controversy
+about what a model is? You know, is it just language that we're just fighting over definitions?
+Or I mean, how do you see that kind of process as you're answering that other question about
+where it even started? Yeah, I don't think it's just arguing about language and how we use these
+terms. I think there is fundamentally a difference in the kind of, to use a word you just used,
+the notion of mental representation, which has been actively discussed in philosophy and in the
+sciences, psychology and so on for a very long time. And this idea of a model-based representation.
+You see those as different things? Yeah, I see them as different and I also see them as both different
+in terms of what they're referring to, but also they might require very different philosophical
+analyses and proposals to try to make sense of what's going on. So the notion of mental representation,
+one obvious kind of mental representation is the notion of a belief, right? And there's
+been a lot of philosophical work trying to make sense of what it means to believe something,
+whether or not particular sort of physical arrangements of things in the natural world,
+maybe a brain state or a brain process could be about something. The common term that's been used to
+talk about this notion of mental representation, especially in terms of belief and so on,
+is the idea that such states have intentionality. Intentionality is a fancy philosopher's way of
+talking about something being about something else. There's so much controversy about even that word
+too and what it really means. Are we going to go with Britannia? Are we going to go, I mean, but,
+and it's right what you're saying. I guess what I'm trying to get at before we get into all that is
+mental representations already require something like language, something like this, what I was
+talking about, this external space where we've communicated about something to even start thinking
+about what a mental representation is. It doesn't mean that we didn't have what those words are
+referring to before, but there's some way in which all of this language and thought and philosophy,
+trying to understand all of this stuff, I'm trying to get at sort of, do you think that there was a way in
+which it was something like a model was required before we could even notice that we have something
+like a mental representation? I don't think so. So I think historically speaking, we can think about
+it this way. So there are very sort of simplistic, if the scientific picture of the world that we have,
+where there's this evolutionary process and that life develops and becomes increasingly complex,
+and the kinds of mental abilities, or dare I say, representational abilities of these various
+organisms get more and more complicated. There was a period of time where physical states, if
+mental representations are in fact, you know, physical arrangements of these natural properties,
+they emerged in the world, right? There was a period of time where there were no mental representations,
+and then there's a period of time where mental representations came into the world.
+I don't know if I agree with that. Okay.
+Yeah. Depending on your particular view about mentality, right, you might reject that if you're
+like a panpsychist or something. But it seems to me that that's a plausible view. And then later on,
+we get this complicated epistemic practice of modeling. And perhaps it depends on having certain
+kinds of mental representations available to the organism. But this practice of using a phrase that you used
+previously of externalizing our reasoning, right, and pointing at a particular thing which we take to be
+a representation of some other thing, that's in many ways the hallmark of what modeling is. And so
+over the last couple decades, my sense is that the convergence of people writing about this topic
+has sort of developed on the idea that what defines modeling as a kind of representation,
+in contrast to say mental representations, is that it engages in what's come to be known as surrogative
+reasoning. And surrogative reasoning is where you take something to be a surrogate or a stand-in
+for some other thing. And then you reason about the surrogate. Maybe you manipulate the surrogate.
+Maybe you see how the surrogate behaves and so on in various interventions. And then based on your
+observations of the surrogate, you make inferences about the target, the actual phenomena that you're
+trying to explain. And so that kind of process requires a much more elaborate kind of mental
+set of faculties, right, where you can imagine that this thing, the surrogate, is like this other
+thing in certain respects. The surrogate itself could be a math equation, it could be a diagram,
+it could even be a physical object. Imagine a model train set, right, which is taken to be a representation
+of say a larger train. The crucial thing is that mental representation, which we might describe in
+terms of intentionality and try to naturalize in the way that various philosophers have tried to do,
+in many ways refers to states that just sort of emerge out of the physical interaction of, I don't
+know, our brains and the environment that we're in. But then there's this complicated epistemic
+practice of modeling and modelers, which comes significantly later, it would seem.
+So I guess, what do you think, when you're using the term mental and mental representation,
+of course, we know there's this large debate about whether or not we can think of representations as
+being in the brain or if they're in the body. So I guess we should clarify a little bit, like when
+you're thinking about mental and representations, are you really talking about states of the brain or
+something like that? Or are you talking about only in the more philosophical sense of the way
+those terms are used to think about propositional states and beliefs and so on? Are you like really
+sticking to the literature? Or are you thinking there's something in the body and in the brain that's
+also a representation and that being like the distinction between this model, for example?
+Yeah, I mean, it's a great question. In many ways, it connects up with the earlier question about
+what cognition is. And what a model is, because I think of Carl Fristen, who says we don't have
+models, we are models, you know, so it can be used in so many weird different ways that
+I wonder how you see it. Yeah. Yeah. I think that in addition to trying to define what cognition is,
+there's another closely nearby related question, which would probably be informed depending on how
+we define it, which are the boundaries of cognition, where it is, right? If we define cognition in a very
+particular way, maybe we think that it's in the brain. Or maybe if we define cognition in a slightly
+different way, it seems to apply to processes and states that extend beyond the brain into aspects
+of the body, or even more radically into aspects external to our physical body. And you have the
+extended notion of cognition, right? Which particular view do I adopt? I'm not sure. In many ways, I think
+it's an empirical question. It's a question on which of these kinds of theoretical frameworks are going
+to be the most successful and fruitful in trying to investigate the plurality of different kinds of
+phenomena and questions that we are interested in as reasoners. Fundamentally, what is a belief or
+a state like that? I think the philosophy does say something significant here. It seems to be that a
+belief, amongst other things perhaps, is at least a particular attitude towards the truth value of a
+proposition, right? Where a proposition is a thing that we utter or that is capable of being true or false.
+So there are lots of things that we utter, like questions or commands and so on, that don't have truth
+values. If I ask you, what time is it? That particular utterance isn't true. It isn't false. It's
+neither. It doesn't have that property. But some things that we say can have truth values. The sun is
+larger than the moon, right? That is in fact true. That's a proposition. And I could have a belief about
+it. And I think that philosophy can give us some sense of what beliefs are, or maybe other states like
+desires and hopes and fears and so on. And then there's this joint enterprise with the actual
+empirical inquiry of trying to figure out how that's possible. And there can be a give and take on both
+ends. Maybe the philosophers have a sort of overly simplistic and sort of a empirical conception of what
+these various concepts are that could be informed by the science. But it's also true that the scientists would
+probably benefit from being familiar with the way these terms have been developed and analyzed in the
+philosophical tradition as well. And so trying to have this be a joint enterprise of both philosophers
+and scientists, trying to hone in on the best and optimal understanding of these different concepts is,
+I think, clearly the way to go. Yeah. And even just for everyday life and people, it can help to
+learn how to think critically, just in a way it, I don't know if you would say it's modeling it, but to
+start to model your own thought process in a way you don't have to be doing it in a necessarily analytic
+philosophy or logic way, but it can help, right? To learn those ways to think about belief and so forth
+too. Even if you're not trying to be a philosopher or a scientist, there's a way in which that critical
+thinking about it, drawing attention to it can be helpful. But let's get to how you got into this idea of
+modeling because you're really looking at models of cognition, right? And different forms. Like
+I'll let you, I mean, I think you're focusing more on dynamical models of cognition. Is that right?
+Yeah, I'm interested in dynamical models of cognition, but also just the bigger question of
+models trying to explain any kind of phenomena. So even the idea that models could explain
+non-cognitive phenomena, like just physical phenomena. There are lots of different kinds
+of models that are used in psychology and in other types of cognitive sciences and neuroscience and so
+on. But there's also other fields out there. There's there's physics, there's economics and so on,
+and they all use this term model. Yeah. Is there a unified analysis that we can give of what models are?
+And is there a related unified analysis of how these things predict, describe or explain the
+things that these scientists are taking them to do? What is it about that that's so interesting to
+you? What do you think? What's what's behind that? What are we trying to do with all these models?
+Because you're right. It's I mean, I don't know. I haven't done a keyword search, but that is a word
+that everyone uses in all disciplines. And it's very important to the way we come to believe in things or
+think of things as facts and so on. So in your own interest in philosophy of science and thinking
+about this, do you have is there something that really motivates you about that or is it just
+curiosity? I think it's two main things. The first is that as a philosopher, alarm bells go off in my
+head when someone starts appealing to a concept that it's not clear that they have a precise notion of
+what it is. Sometimes that's fine. As we mentioned earlier, it could very well be that we have
+various concepts we appeal to that can do good work and that can be genuinely scientific, but don't
+have clear boundaries. So the notion of species, for example, in biology is a common one. The boundaries
+between species isn't well defined, but we still think that scientists aren't misspeaking when they
+talk about species existing and reason with the concept. However, I sat in on a psychology lab for the
+last semester. And every single week at the meetings, the psychologists would give presentations
+and they would use the term model. They would say, oh, I'm using this model or I consulted this model.
+And I think it was like the first meeting I raised my hand and asked, well, what does that mean?
+And I realized I was the outsider. I was the philosopher stepping in.
+The philosopher has arrived. Yes.
+Yeah. They started proposing on off the cuff because they clearly hadn't thought about this in any
+detailed way potential definitions of what they meant by model. But each one of them either didn't
+represent the way that they were using the term previously or was easily susceptible to counter
+examples of how this term is used. So practicing scientists are using this concept without a clear
+sense of what it means. And I think that given that I think philosophers can do good work to help the
+scientists working with them, obviously, to try to hone in on a particular conception that captures
+their ordinary usage, but also gives us an illuminating account of how this epistemic object
+works in the right way. Yeah. So that's the first reason. The second reason I think that talking
+about models is valuable is because there are big questions in the philosophy of science that relate
+to big questions in philosophy writ large, right? As you said, we want to understand the
+world and we want to understand our place in it and what we are fundamentally. And insofar as science
+can help us answer those questions, or at least make traction on trying to answer those questions,
+this notion of model seems really important. People try to model internal states that we have,
+external things in our environment, and trying to think through this complicated epistemic practice
+that scientists engage in and the philosophical implications of it, as well as the assumptions,
+can give us a richer sense of our understanding of the world and how we come to it and how we can do it
+better. Yeah, I definitely agree with that. And I guess that's why I was pushing about this external
+representation thing and this trying to think of a model as almost a shared space where people can come
+come to clarify and observe the kinds of things that might have annoyed you about that psychology class,
+that it wasn't that those people are wrong necessarily, but they've come from a particular
+place of reference and trajectory. And if the term model has just been supposed, assumed, never really
+thought about no attention, just not turned to it, then there don't think about how they're using it.
+And they just assume and in a kind of way we use cognition to that it's clear what is meant by it.
+But, so I guess I really agree with you about the role that the philosopher can play that you could
+play in, in clarifying that. But I do want to push you a little bit. What do you think? Is there some
+kind of danger in not understanding what a model is? Because for me, something I think about a lot,
+and the reason I'm bringing this up, is how we confuse the model with the process itself.
+And as we get into your work, I would, I mean, that's something I feel like happens a lot. I don't
+know, maybe you don't think it happens a lot, but where we, this kind of messiness that you were
+bringing up can become a kind of, that we're assuming we understand really important things
+about the world that were actually just perhaps only one representation of how it might have been.
+But we end up, you know, in wars over these kinds of things or, or so on. So I don't know,
+that map territory confusion, does that relate at all to any of what you were just saying or?
+Yeah, I think that that's, that's well put. I think the dangers, insofar as we don't reflect
+on what models are, there are a variety of them. And in many ways, we could sort of distinguish the
+different dangers in terms of the different kinds of models that are out there. I mean, earlier,
+you alluded to the idea that sometimes the term model is used in a way to capture sort of model
+behavior or some model that's taken to be sort of illustrative or an exemplar of some kind of
+practice. That's a way that people use the term. And that's a sort of normative conception of what
+the model is tracking, right? That we ought to engage in a particular practice or structure our
+actions in a particular way. Like the model behavior or role model, that kind of use of it,
+is that what you mean? Right, exactly. And so that's a usage of the term model. It's not obviously
+exactly the same as the sort of scientific notion, right? But they're clearly related.
+Because as you said, these are different representations. There are things that we
+use to try to understand and try to triangulate and guide our various actions in a particular way.
+And they perform important sort of epistemic roles in our reasoning. And if we're not reflective about why
+we have the particular kinds of idealized roles and models in mind, we could be led astray. Relatedly,
+in the scientific case, oftentimes, I am also frustrated by similar kinds of areas expressed,
+where it seems like various people are perhaps conflating their representation, the model, for
+the thing they're trying to represent, be it, say, the world.
+Yeah, or the brain. Or the brain. So to take a very sort of clear example, I think,
+of this being the case, there is a certain kind of model, a certain kind of surrogate that we could
+use to try to describe some phenomena, which is sometimes described as a mechanistic model. And the
+defining hallmark of a mechanistic model is that it posits various kind of structural relations between
+various components. There are spatial and temporal relations between them. And the interaction of
+those various things are taken to produce a particular phenomena. Now, this is an extremely
+successful kind of model. Oh, yeah. And it's built off a particular kind of analogy, historically
+speaking, between, say, the clock and how the clock works, and why the hands move that they do as they do.
+That's the phenomena. And those are the mechanistic details underneath. Now, there's lots of different
+kinds of phenomena that are extremely well understood in terms of mechanistic models. But
+oftentimes, people take the success of these kinds of models as reason to think that the phenomena
+themselves or maybe all phenomena that we could possibly encounter are always mechanistic or can
+always be explained solely in terms of a mechanistic model. And that, as you pointed out,
+confuses, perhaps, one critique someone might offer, facts about the model for facts about the world.
+And this hasty generalization that all phenomena or all constituents of the world are best understood
+in terms of mechanistic descriptions and explanations might not be correct.
+Yeah, that's very well put.
+There are lots of different possibilities of the different kinds of models that we can deploy.
+And there's also lots of different kinds of epistemic aims that we might have in mind.
+For people who don't, I mean, epistemic aims, you just mean, I mean,
+epistemic is like the theory of knowledge and so on. So we're back to this idea of trying,
+of theorizing or coming up with some kind of a knowledge trajectory, right?
+Yeah. So different kinds of epistemic aims is just a phrase to capture. There are different purposes
+that we could use a model for. And some of them are specifically to try to gain something related to
+knowledge. So maybe we just want to accurately describe some phenomena.
+Maybe we want to try to predict the phenomena. Yeah.
+Maybe we want to try to explain the phenomena. Or maybe we want to try to understand the phenomena.
+And philosophers have tried to spend a decent amount of time trying to make sense of what those things
+are. And there's all these new questions, which are how models might facilitate these various kinds of
+cognitive achievements. So the mechanistic approach might be a good one for various kinds of phenomena,
+but a danger involved with this kind of reasoning, which depends on a sort of potentially overly
+simplistic account of the types of models or the kinds of things we can use models for is certain
+assumptions about the models directly contributing to our metaphysical picture of what the world actually
+looks like. And so I think you're right that oftentimes people conflate the map for the territory,
+right? They conflate the model, the representation for the thing that it's supposed to be a model of.
+But there's also an interesting sort of feedback loop, if you think about it, between these two things.
+If we look at the history of science, people would develop a particular theory or a particular model
+of the way the world is. And insofar as it was successful, it would inform their metaphysical picture of the world,
+which would then contribute to later developments of the epistemic enterprise of trying to figure out
+the way the world is. And that in and of itself, I don't think is illicit. I don't think that that's
+epistemically vicious. I think there should be this feedback loop between our sense of the way the world
+is and the way we reason about it. But we need to do it very carefully because underlying assumptions
+might make us presuppose facts about the world that aren't warranted by our reasoning.
+Yeah, I think that's very well put. And you can't separate it. I mean, I think of something like
+how the world changed with the theories of Einstein or something with quantum physics. Once there is some
+kind of new proposition about how the world works that can be somehow understood on a public level,
+it does change whatever we mean by cognition and consciousness in a very big way. And you can't
+really separate all of that. But as you were talking, I was thinking about this idea of mechanism
+that maybe we can dig into it a little more. I was remembering this 1998, or I tried to look back at
+it just before we came on paper by, I can't even remember the authors, but I know Carver is the last
+author. And it's the one that's always referred to about mechanism these days. I remember my master's
+test to get into school for neuroscience. One of the papers that you could write about was the one,
+what is it? It's like mechanisms, thinking about mechanisms, thinking about mechanisms. Yeah.
+Yeah. And I don't know how you feel about this. And this is, this is a sloppy way to put it. But
+in that paper, one of the mechanisms that they describe is the neural polarity. It's definitely
+depolarization of neurons in some kind of way that is the model. But this idea of mechanism,
+that first sentence, I did write it down. Okay. In many fields of science, what is taken to be a
+scientific explanation requires providing a description of a mechanism. There's already a
+lot of the words that you brought up in there. There's explanation, there's description, there's
+mechanism. And in that, in that paper, though, I think is the definition where it describes mechanism
+in the way you just unpacked as like activities and entities, right, that are structured in a certain way.
+And we have these space time, I'm sure you can describe this much better than me. But
+maybe you can talk about the importance of that paper. And is that where you think,
+is that where we're really looking at for this definition of mechanism now? Because of course,
+in that paper, they say mechanism has been used for years and years and years, and so on and so forth.
+But I feel like at least in the little world I'm in of neuroscience, it's always gone back to that
+paper. So when you say mechanistic, what are you kind of like, what's your references? Is that,
+is that one of the papers? Or is there something I'm missing?
+No, that's, that's exactly right. So that paper, I think, is one of the most cited,
+recent philosophy papers of the last several decades. Yeah, so it's, it's this paper thinking about
+mechanisms. It's this co authored paper with amongst other people, Carl Craver and Lindley Darden,
+and Peter Machamer. And it's, it's come to be known as an extremely important touchstone
+in the discussion about mechanisms, and also discussions about models. In many ways, the
+conversation about models, I think, is, wasn't quite as developed at the time. And so a lot of
+these discussions were focused on what it means for a mechanistic model to explain. And the conversation
+has sort of taken a step back now and said, well, what is a model to begin with? Mechanistic models
+are one type amongst others. Your question of, well, what is a mechanism? And what are mechanistic
+models is a really good one. And even among people who are sometimes described as members of the new
+mechanists, people who think that an extremely fruitful way of thinking about explanation, description,
+and scientific practice across the board, especially within cognitive science, is in terms of mechanistic
+perspectives, disagree with each other about what mechanisms fundamentally are, and also the
+relationship between models and the normative constraints that a commitment to mechanism would
+require. So that paper in many ways sort of kicked off this entire cottage industry of people talking
+about mechanisms in a lot of detail. I actually had a conversation with Lindley Darden, one of the
+one of the authors, who said that they had worked on this paper for two or three years, trying to revise
+the precise wording very, very carefully before it got published. And even so, there are people who are
+in the mechanistic camp who think that there are confusions and problems with it. One person who has done
+a lot of work on this is Stuart Glennon. Stuart Glennon is a self-identified member of the new
+mechanists. He wrote a book a few years ago, trying to provide a very accessible overview of the sort of
+mechanistic approach. And he's become well known for being an advocate of a view that's sometimes called
+minimal mechanism, which is trying to distill down, just to the bare essentials, what we mean by a
+mechanism. And then a mechanistic model is understood to be an attempt to represent that,
+that particular thing. So whether or not there are precise, necessary and sufficient conditions for
+being a mechanism is controversial. But the general idea, I take it, is that in actual scientific practice,
+especially within certain fields, like cognitive science, people talk in terms of mechanisms. People
+use this phrase. And moreover, their assessments, their judgments, that a particular phenomena has been
+adequately explained often depends on their sense that they've identified a mechanism that produces
+it or underlies that phenomena. So something like neuronal depolarization, which I think,
+if I'm wrong, I'm very sorry to the authors, is what they use as a big example of a mechanism in that
+paper. So it's become that we try to identify certain mechanisms. But those are defined as entities and
+activities, right? They're not, I'm trying to lead towards trying to get a little bit of a definition
+of what a mechanistic model is, so that we can then look at what a dynamic model is in contrast,
+if it's even possible. Yeah, so the general convergence, my sense is that what a mechanism
+is fundamentally, and this comes from Stuart Glennon's like minimal characterization, the bare minimum
+that needs to be the case for something to be called a mechanistic, you know, representation,
+is that it specifically refers to entities and relations, the interaction of which is taken to be
+what produces, underlies, or there's a few other kinds of verbs that specifically are trying to
+capture certain kinds of relations, the phenomena. And the general idea is that when a model is mechanistic,
+it tries to represent the phenomena, but then it also has this other thing that's represented,
+which is taken to be what underlies, right, the phenomena. And to connect with our previous
+conversations, this term wasn't popularized or wasn't, you know, widely used, but really what's
+going on is that what's underlying this in terms of the model is the surrogate. It's the diagram,
+right? The diagram that the scientist puts forward is supposed to try to make posits about the various
+kinds of parts and relations that are really there in the world that produce or underlie,
+right, the phenomena that you're trying to investigate as a scientist.
+Okay, so let me just dumb it down for myself a little bit. So you have something like a process.
+The phenomena, I think, is what you're also calling it, or what it's also often called in the literature.
+Okay. That's the actual ongoing, let's say, neuronal depolarization that we've named neuronal
+depolarization, but it's just going, going, going. But we're saying, okay, that's a mechanism.
+And then we're going to model it in the way that you just described with this kind of
+surrogate or external thing. So the mechanism isn't the model. The mechanism is sort of the process,
+but I feel like that all gets very confusing. I feel like often just already, even with trying
+to make, take something out of the body and call it a mechanism is already a model. I don't know.
+I mean, that's very messy, but I really, I do want to get into it a little bit because I think it also
+connects a bit to the more recent, I guess you could say, trend towards dynamical systems,
+complexity, and those kinds of models, which already start in that place that I just described of
+understanding we're always working with processes and that there is no kind of system that you take
+out of its other possible connections to other systems. But for me, this overlaps a lot with the
+mechanistic and the, and the dynamics. So I don't know in your, in your research, how you've,
+or how people distinguish those. Um, I did read a little bit of this Gervais paper that you talk
+about, um, in your own work some, and I think in that paper, the distinction is sort of between,
+um, like a discrete, like with the mechanistic model, you can have these kind of discrete series
+of, um, operations or something. Whereas in the dynamic model, it's more like
+describing the changes itself. Um, but I still don't really understand this at all. Maybe you do,
+maybe you can help me. Yeah. I mean, those are, those are great questions. Um, the first part
+about, well, what's the difference between the mechanism and the mechanistic model? So let's,
+let's pick an example so we can get traction on it that we seem to have a more intuitive grasp of it.
+So take my watch, right? Let's take the paradigmatic phenomenon. Everyone loves to think about the
+watch. It's a good one. Everyone likes the watchmaker, right? This is the clockwork universe. So
+here's a phenomena. We could describe the movement of the minute hand and the hour hand on the surface
+of the watch face. That's just the description of the phenomena. And let's say I want to investigate and
+I want to simply describe that in a compact and efficient way. I could develop various math
+equations that talk about the behavior of these things and how they relate that one moves around
+the whole clock face. One at every hour and the other one, every 12 hours and so on. Right now,
+let's ask another question. Why, why do the hands move the way that they do? And to try to answer that,
+we wouldn't just have a description that's accurate of the phenomenon, right? We would also want to dig a
+little deeper and create a representation. Maybe I write it on a piece of paper or maybe it's in my
+computer or something of say the movement of my watch, all the various gears and springs and so on
+inside of it. Now, what we don't want to confuse ourselves with is the difference between the diagram,
+the surrogate, and the actual physical mechanism underlying my particular token watch. One is a
+representation that we develop and construct and intervene upon to justify or facilitate inferences
+that we make about this thing. So we should always keep in mind the difference between the model,
+the surrogate in this case, the diagram, let's say, of the various components and the actual components
+themselves, right? Those are very different. And keeping that in mind, people, I think of a particular kind of
+psychological persuasion or inclination are inclined to view things in a mechanistic way and are inclined
+to prioritize the consideration of mechanistic models and hypotheses over other kinds of models
+and hypotheses that we might have considered. And so you alluded to an entire other class of models
+that are explicitly not mechanistic, which are called dynamical models. Now, the kinds of questions
+that motivate investigating some phenomena mechanistically in many ways are assumptions
+about, hey, let's think about it as if it were a watch, right? Let's think about processes inside the
+brain as if there's essentially a movement, these various springs and gears and levers inside the brain,
+which would explain, you know, the depolarization of neurons or something more complicated like long-term
+memory or something like that. But that's not the only way that we can think about it, right?
+The selection of the mechanistic model was a selection of a variety of different options.
+We could have tried to represent the various processes inside of this watch,
+not in terms of positing particular components defined by their spatiotemporal location,
+but perhaps simply in terms of functions of these various components without making any claims about,
+physically speaking, how they're instantiated. Or maybe we talk about the various landscape
+of different trajectories that the various objects inside of it seem to move, or that the object as
+a whole seems to move. Maybe we flesh out the various possible states that it could be in,
+and then given that abstract sort of landscape, we can see that it sort of converges and ebbs and flows
+in particular ways. Now, that kind of model is not a mechanistic model. It doesn't make specific
+posits of structural components and relations, and it doesn't decompose in the right kind of way where
+we can zoom in on one particular thing and talk about it in detail. It's this kind of complicated,
+smooth terrain. And there's been a lot of debate in the last couple of decades from people who are
+sympathetic to mechanistic models and people who come from dynamical systems theory, who develop these
+state spaces and so on, about how to make sense of these models and what epistemic work they can do.
+Mechanists, for example, often will say that dynamical models might be helpful in describing
+a phenomena, and maybe they can help inspire future avenues of research, but they can't explain anything.
+To really explain something, you need to get down to the nuts and bolts. You need to talk about the
+gears and the levers. And so there's this worry, I think, from people who are sympathetic to the
+dynamical systems approach, that this is presupposing certain normative constraints on the kinds of
+things that can do explanatory work, given antecedent assumptions you have about the nature of the
+phenomena itself. Maybe there are certain underlying philosophical assumptions about everything being
+like a clock that maybe if we reflect on, we can realize might be incorrect.
+Right. I think that's what is so attractive about thinking of mechanisms, about the paper, and about
+also starting to think of something like the body or the brain in a mechanistic way. I think there's an
+excitement to think about it like as if it is a computer or as if it is a watch. And there's actually
+that can be very beneficial. But I think what bothers me is that that is already to me
+what I was trying to get out at the beginning, an external representation. It's not actually the
+process itself, but it's taking that territory, mapping it, and then thinking the map is the
+territory. It seems to me quite often, even in something like neuroscience, where, of course,
+it's very helpful to say this is a mechanism, something in the body, like with the nervous system,
+neuronal depolarization or whatever, but you haven't actually extracted that in any way. And
+it's not your watch. I mean, the watch is a great example. These are easy examples because they're
+actually already externalized. They aren't dynamic processes to begin with. I mean, something like
+time and all of this, we're in a way modeling that already just to create by creating the watch.
+So we're like meta, meta representing when we use the watch as our example or the computer as our
+example, which is what I was trying to get out with that mental representations thing. Like
+to know you have a mental representation in the way that philosophically you need something like
+language, which for me is also the model or representation. So I know this is getting messy,
+but for me, and I don't think I'm completely alone. I mean, even in Gervais, he's saying
+dynamical and mechanistic can be very similar. But I feel like what the mechanistic literature is
+helping us understand and describe is actually not mechanistic, which is very weird way to say it. And
+that actually it's very helpful. It's one way to understand a process and modeling it dynamically is
+too. But in both cases, you have some kind of process that actually isn't itself mechanistic.
+Does that make any sense at all? Or can you kind of like show me where maybe others have addressed that?
+Yeah, I mean, I think that I think that that's right, that one potential upshot someone might take
+from this conversation about mechanisms is that the actual processes in the world are perhaps much more
+complicated than a sort of what you might think of as naive mechanistic kind of approach is able to
+capture. I think also in the mechanistic literature, though, to sort of flesh out some conceptual
+distinctions that might be helpful. Very often, mechanists will make claims and use the term mechanism,
+but will actually be referring to different theses. And it's not entirely obvious that that's what's
+going on. So Arnon Levy has a paper from a few years ago called Three Kinds of Mechanism. And he
+distinguishes three ways that one could be committed to certain mechanistic commitments. The first one he
+describes, if I remember correctly, is sort of like a metaphysical mechanist, right? You think that the world
+and the things in the world are composed of mechanisms. That's a particular thesis you could have.
+And then you might hold different views about the best way of investigating those things. But that's a
+particular metaphysical thesis someone could accept. One could also be what we might call an explanatory
+mechanist, right? They think that the best kinds of explanations that one can provide are mechanistic
+explanations. Maybe they're not the only kinds of explanations, but they're the best kind and we
+should actively seek them out, something like that. Or you could be what he refers to as a strategic
+mechanism or a methodological mechanist, which is to say, as a practicing scientist,
+I have lots of different hypotheses I could dedicate my time to, but I'm going to prioritize
+the mechanistic hypotheses. Because I think that strategically speaking, that's the most effective
+way of perhaps obtaining explanations or tracking metaphysical relations and so on. So these are
+different kinds of commitments that we would all term as mechanistic. And the relationships between
+them and the justificatory relationships between them might be complicated, right? Someone might say,
+well, the reason why I should prioritize mechanistic hypotheses over others is because those are the
+explanations that I want. Why do I want those explanations? Because I think they track the
+metaphysics in the world, right? And so on. But each one of these can come apart, right? Someone could be
+committed to the metaphysical picture, but not the explanatory picture or not the strategic picture.
+Imagine someone who is pursuing dynamical systems theory, which just to specify that in a little
+bit more detail, is a specific approach that doesn't view things fundamentally as, say, like a watch,
+but more in terms of a dynamical system, a system that changes over time and trying to flesh out the
+possible states that the system can be in, and also trying to map particular kinds of trajectories that
+similar systems tend to move through that state space. Maybe you want to approach the world like
+that, but also think metaphysically, there's just mechanisms out in the world.
+I don't even know what that means, just mechanisms out in the world. I mean, what does that mean?
+So Carl Craver, for example, who's one of these, you know, extremely strong advocates.
+When people talk about the new mechanism, Craver is always the person that people discuss. Craver is of
+the opinion that the world fundamentally is composed of mechanisms. The phrase that he sometimes uses is
+that ontically the world is composed of mechanisms. And there are mechanisms that produce phenomena over
+extended periods of time. And there are also mechanisms that constitutively underlie phenomena
+at a particular time slice. So all kinds of things in the world are parts of mechanisms.
+And he takes this metaphysical commitment to, in many ways, inform his particular views about the
+normative scope of what kinds of explanations scientists should be pursuing or should accept as
+genuine explanations. This is, in many ways, the resurgence of this sort of clockwork picture of
+the world, right? Where the world literally is this extremely elaborate set of causal interactions
+between component parts that, if we were to reference properly, would explain, you know, the phenomena.
+It just seems to assume that those parts are static. And I think we know pretty well with
+our science that there's no static part. And I mean, first of all, Craver, I think this literature has
+brought so much to us. So I'm not trying to say it's like wrong or bad or something like this. But
+I do think there's a way in which just thinking of everything as a mechanism is a little, it doesn't make
+a lot of sense to me anymore, because, which is, again, what I'm trying to get at is because the mechanism
+is our way of representing this ongoing process to try to understand it. So if we just say everything is a
+mechanism, okay, it just means that we can model everything, but all those things are still
+changing. There's no one static mechanism and something like an ontic explanation in the way
+that he would use it. Once you add explanation to it, you've mechanized it and you've modeled it in a
+way. I know those aren't the same words, but to me, you've, you've used some kind of representative
+system or you've made a representation of it. It's not just the ontic anymore. It's some kind
+of little snapshot of it, of it. And all that can be very, very, very good. It just, I don't,
+yeah, it's, it's a wording. I don't understand, but I could go on about that forever. But what I
+want to get at is your work a bit too. And so we have these two camps. I mean, I'm generalizing in a
+very big way, but after all this time in literature, it's been what half of, I mean, 50 years or something
+of thinking about mechanism. And 1998, I think was that paper, thinking of mechanisms. And there's
+been these kind of two camps. Can we generalize it and say, there are these mechanists. And then
+now there's kind of people who think about dynamical models and those things seem, as you said, they,
+they don't go together or do they, I don't know. But a lot of the criticism of the dynamic model is
+coming from the mechanist, right? So could you unpack that a little bit? Like why, if I'm a mechanist,
+would I not want to also accept that something could be, that dynamic models could be explanatory
+or descriptive, or yeah, maybe we can also go into what those words mean a little bit,
+but maybe you can just help me understand what are those two, what's the tension between those two
+as they've evolved up, you know, to this point? Yeah, it's, it's a great question. There's been this
+sort of emergence of a variety of different schools of thought, but two of them that over the last two
+decades or so have disagreed about these assessments that scientists should make concerning how we
+should assess models are what are called the mechanists, which are philosophers and cognitive
+scientists who think that approaching this conversation with an awareness of how philosophical
+of science, philosophy of science debates about mechanistic explanation have sort of played out,
+can inform this discussion. And then people who are dynamical systems theorists, people who say,
+let's have the kinds of models that we develop be ones of state spaces and trajectories through
+terrains and so on. Now, mechanists are of the opinion, and they're explicit about this in their
+writing, David M. Kaplan explicitly in several of his writings, describe a phenomena in some compact,
+efficient way, it might be super helpful to start by trying to represent the possible states that say,
+if the phenomena is some system, for example, and the way it behaves, just the states of the system,
+and maybe getting a sense of the various trajectories that move through it and various areas of the
+landscape that the system tends to converge to. That's very interesting in terms of describing the
+phenomena. And in many ways, it might be really illuminating. If we just have a bunch of data points
+and we don't see any sort of pattern between them, representing them in terms of a landscape might
+be very fruitful. The mechanists agree with that. Maybe, moreover, such a representation might be
+predictive. Maybe if we have this terrain, the various possible states the system could be in and
+the trajectories, and we say, what would happen if the system started in this particular state? Where
+would it likely go? Let's make a prediction. That model might facilitate those predictions.
+But what the mechanists want to say is that there's something special about saying a model
+is an explanation or that it explains a phenomena. And that is different than simply describing the
+phenomena or predicting the phenomena. To say that you explain the phenomena on the, say, mechanistic view,
+you need to have good reasons to think that you're tracking the causal structure of the world that
+produces the phenomena. So let me give an example that hopefully will intuitively track these distinctions.
+Imagine, you know, it's a long time ago and we're cavemen, to use the thing that you alluded to,
+and we look up and we see the moon, right? And each night, the phase, the moon looks slightly different.
+It has different phases. And then, moreover, we look at the ocean, and the ocean seems to come in and out
+at a particular rate, a particular pattern. There's tides, right? Now, we could describe, say,
+the movement of the tides in a particular way, right? Maybe some math equation.
+But then, in addition to that descriptive account, when we realize the moon's phases seem to correspond
+or correlate in a very interesting way to the tides, we could predict the tides and how they
+would move on the basis of the phases of the moon. That's a very interesting model. It's a correlation,
+though. It's fundamentally a correlation. To say that you have a model that explains the tides,
+right, you would have to supplement that predictive model with some kind of causal oomph.
+It would actually have to represent something like gravity, right? Some sort of causal mechanism
+by which this particular process unfolds. So developing an accurate description of the
+phenomenon is the first step in inquiry. And having a predictive model is extremely good,
+insofar as prediction is the main aim that you want. But explanation is something that's special.
+And what the mechanists want to say is that when we start talking about explanatory models,
+only one kind of model is going to fit the bill. And those are mechanistic models because the world
+itself is composed of mechanisms. Dynamical systems models might be really helpful in describing,
+might be really helpful in predicting. But when the rubber meets the road, when we want to try to
+explain what's going on, the only game in town are mechanistic models and representations.
+That's what the mechanists want to say. And as you alluded to, people who are proponents of
+dynamical systems theory often object to this characterization. And they say, well,
+there are various kinds of metaphysical assumptions that the mechanists might be making to try to advocate
+for this constraint on the kinds of models that we would deem legitimately as explanatory. And so maybe
+this is unjustified. But then there's this lingering question. Even if that's true,
+when is a dynamical model more than just a predictive model? When is it actually genuinely
+explanatory? What, if anything, makes it the case that appealing to some dynamical feature of the
+terrain of the state spaces provides an explanation as opposed to merely a more accurate prediction?
+So even if the mechanists are mistaken in terms of overtly restricting the class of explanatory models,
+there's still important, interesting philosophical work to be done in explicating or unpacking what
+it means for a model, regardless of the type, to explain anything as opposed to merely predict or describe.
+Yeah, that's, well, but I think, I wonder about something like, I mean, that's a great explanation
+you gave with that we need something like explanatory, like gravity, for example, you said. But even we
+could, there are always ways we can zoom in and out of different scales and start to understand that
+something like gravity is a little bit of a prediction or it's, it's a probability
+in a particular landscape. Because, you know, you go to the moon and it's going to be different. Or
+if something changes with certain conditions of regularities on the earth, it's going to be
+different. So I feel like those, a lot of the mechanistic models are assuming things don't
+change. And I feel like, I mean, this is a very general, and I feel like the dynamic systems is
+assuming everything's always changing and you can always see it from many different places. And I
+don't see that those need, I see that as the, as a primary conflict. Not that both aren't actually
+great ways of understanding the world, but I don't know. What do you think about that?
+Yeah, I'm not so sure. I think that there are different kinds of explanations we can give
+and a common distinction that's made is between providing a causal explanation of something and
+causation is a kind of thing that occurs over time. So a particular event happens, which then causes
+some other event to occur, right? One billiard ball hits another billiard ball at T1, which causes the
+second billiard ball to move away at T2, something like that. It's extended over time.
+That's also a very linear way of, of looking at things too. I mean, causation too, we could debate
+forever, but yes, you can always kind of in a linear way, say this happened and then this happened.
+But go ahead.
+But the, the, the main point is just that causation extends over time, right? That's a kind of thing
+that extends over time, but that's not the only kind of explanation we can give. Interestingly, over
+the last, I don't know, century or more, philosophers of science have recognized there's another kind of
+explanation that's sometimes called constitutive explanation. And this is where you explain something
+at a particular time. So why does the vase have the particular structure that it does at T1?
+No reference to T2 or anything else, just the T1. And maybe you zoom in and you focus on the
+arrangement of the various atoms and so on and things, the pieces of the, you know, the vase.
+That's what gives us its structure. That's what explains its structure at T1. But it's not
+a temporally extended claim about causation. So one might read the mechanists to say, oh,
+the mechanists are just trying to promote an account of constitutive explanation. They're
+focused on the components and the relations at a particular time. Whereas maybe dynamical systems
+theory talks about temporally extended processes. But I'm not sure that's entirely quite right. The
+mechanists think that their models aren't necessarily limited to representing processes
+or states of affairs just at a particular time slice. They think they also can capture the behavior
+phenomena over time. So take a mechanistic model of the movement of the watch. It's true that we can
+sort of pause our playback of the watch at a particular time and just zoom in on particular gears
+and levers. But we can also, depending on how elaborate the model is or the surrogate,
+play it forward and actually watch how the various components interact over time.
+So it's not seemingly essential to a mechanistic model or mechanistic approach to investigating
+a phenomena that you only look at a particular time slice. They often talk about phenomena occurring
+over time. Dynamical systems theorists do that too. And maybe they have better resources to try to
+accommodate this sort of temporally extended kind of notion of the phenomena being extended over time
+and space and so on. But I'm not quite sure it's right to say that the mechanists don't have any
+resources to talk about things extending over time and that they're inappropriately prioritizing sort of
+synchronous or constitutive kind of approaches to things. Does that make sense at all?
+Yeah, it makes sense. I guess I wouldn't say that they're necessarily trying to do that. I'm just
+I'm trying to understand really why you would have to reject the dynamical model approach if you're a
+mechanist. Exactly. I mean, maybe we can get into the 3M, for example. Maybe that would help illuminate
+this a little bit like and towards because you've found a resolution, right? A little bit between
+between these. So I guess there's two things we need to talk about if you still have time.
+Sure, of course. Yeah, is just maybe a little bit more about
+explanatory, like why that's so important. And I guess we could bring in the 3M a little bit too,
+or I don't know, how would you like to move a little bit towards what you've done to show?
+Yeah, so the main kind of normative principle that has emerged among the mechanists that, if correct,
+definitely precludes dynamical models from being categorized as explanatory is what's called 3M. And so
+the 3M principle is called 3M because it stands for the model to mechanism mapping requirement model
+to mechanism mapping. So there are three Ms there. And the precise wording of the 3M principle has
+changed over the years where mechanists proposed it and then they tried to tweak it and then they
+revised it and so on and so forth. What's interesting about the 3M principle, the way that it's proposed,
+at least initially, there's a footnote. And the footnote says,
+we take ourselves to say that this restriction on what models can explanatory specifically applies to
+cognitive science, but we see no reason why it shouldn't be extended elsewhere.
+So it seems like the authors have this idea in mind that maybe this is a restriction on
+models being explanatory in science across the board. Unless we're given reasons to think otherwise,
+maybe we should just accept this as precluding other kinds of models, regardless of the discipline
+that they're being developed in. The particular details of the 3M principle and the precise
+wordings, we don't need to get into. And moreover, the wordings themselves have changed over the years.
+But the general idea is that it establishes
+a necessary condition for a model to be explanatory. A model is explanatory only if
+it satisfies certain constraints. That's what I meant by static. That's the static that I meant.
+I didn't mean in the world so much as in the way that we need always this, but go ahead.
+Yeah, I think I see. So by static, you mean that the proposal they're making is making a very
+static or restrictive demarcation, right? Between types of models, right?
+Yeah. Yeah. Yeah. And that's right. If the 3M principle is correct, whenever we have a model
+and we have the sense that maybe it's explanatory, we should consult this principle. And if the model
+fails the principle, it's not explanatory. Our initial sense of it being explanatory wasn't right.
+So it's an interesting discussion, right? Trying to figure out what normative principles
+we should adopt that constrain our assessments of what kinds of models we categorize as explanatory
+as opposed to predictive and descriptive and so on. Right. I mean, like for me, 3M is really helpful,
+but it could be one way to do it. It doesn't have to be the way. And, you know, if you look at from
+a dynamical systems approach, maybe if you're changing the references in the context in which you're
+doing this process, you would need to change that a little bit. But in any case, yeah.
+Yeah. So you might think that the 3M principle is a good way of unpacking necessary conditions
+for a model to be explanatory in a mechanistic sense, right? And interestingly, I mentioned that
+among new mechanists, there's disagreement about various things. Stuart Glennon, who is clearly a
+a mechanist in his book, calls it his view, 3M star. And 3M star is essentially the same,
+but he specifies this is just for mechanistic models. Whereas the original formulation is
+not qualified at all, right? It applies to all models across the board. Okay.
+It could also well be that you alluded to that if that's right, maybe we should be what we might
+call explanatory pluralists. That maybe our judgments about what kinds of models are explanatory
+depend on the kind of model it is, or maybe the kind of discipline that we're coming from.
+Maybe the kinds of models that can do genuine explanatory work in cognitive science
+are different than ones that can do explanatory work in economics,
+or sociology, or virology, or something like that. Maybe that wouldn't be too surprising.
+But what the- Maybe you can get to the same place
+with different models, like in category theory, that kind of shows us, right? If you,
+which is something closer, you can sort of zoom out and you can see,
+you can get the same answer with two different models. And it's valid.
+That's definitely true. Yeah. Yeah. So, so insofar as we're thinking about this kind of inquiry based
+on particular questions that we ask, and then we consult these surrogates or these models to try
+to answer those questions, we could get the same kinds of answers, even though the models that we
+consulted were very different. Yeah. Yeah. Right? That's, that's definitely a live possibility.
+Thinking about our inquiry in terms of asking questions gets very complicated.
+There are particular views that think that questions are really fundamental to this process
+of inquiry. Mechanists like Carl Craver are in many ways, I don't want to say dismissive,
+but think that people have overemphasized the importance of questions in terms of our scientific
+inquiry. And he's an advocate of, as we mentioned earlier, the ontic conception of explanation. He
+thinks one usage that is of the term explanation, which is totally plausible and maybe is the important
+one, uses the term explanation to refer to the things in the world, not our epistemic practices or
+representations about them that we would ask questions concerning or something. But with that
+aside, the 3M principle is an attempt, right, to make a proposal about how we should constrain our
+judgments about what models are explanatory. And in many ways, that's very fruitful, right? It's,
+it's gesturing towards a conversation that's worth having. But even among mechanists, some of them think
+it's too restrictive. Some of them think it should only apply to our evaluations of mechanistic models and
+not models across the board, right? Stuart Glennon with his 3M star.
+Yeah. So if you have the watch again, and you have the 3M, you're basically mapping the parts of
+the watch as you described it to the model itself, right? Or, or how would you like, how would you
+illustrate that with the watch?
+Yeah, so, so the 3M principle, a lot of people have responded to it. And I think a lot of the responses
+often misunderstand what the principle is saying. People will say things like, oh,
+the 3M principle requires that a model not only be mechanistic, but be perfect, that it perfectly
+maps every single component to some posit within the model. But that's not what the principle says.
+It's just a necessary condition that there needs to be at least one mapping that is successful.
+And that seems like a really low bar, right? What the 3M principle says fundamentally is that
+here's a necessary condition on a model being explanatory. There needs to be at least one
+posit, I don't know, a gear that is actually in the mechanism that underlies the phenomena. If
+your model doesn't even successfully pick out one gear that's in the mechanism, there's no way that
+it could be explanatory, even partially, because what it means to explain is to track that thing,
+the mechanism underneath the phenomena. So it's incorrect to say that the 3M principle,
+if we accept it, requires that a model be perfect, because if that's the requirement,
+no model is ever going to be explanatory, right? No model's perfect. Even the most robust,
+clear mechanistic model of, say, the movement of my watch will have some imperfections, won't
+accurately capture every single atom, right, in the particular right place. So that's too much.
+There's an entire separate literature that the mechanists have developed trying to make sense
+of what do we mean when we say that a mechanistic model is complete. And so that gets really
+complicated. But the 3M principle is not that. The 3M principle is just saying, listen,
+to say that a model is explanatory, there needs to be at least one mapping.
+But can you give an example of one that is, that fulfills it? Because, I mean, the watch for me,
+you would have to map the watch to time or something to really make for it to matter. I mean,
+if you're going to create a model of a watch, I don't know. I mean, can you give me an example of
+where that's actually valid, that that works? It was not necessarily, but there's at least
+this mapping, as you just described, of one, one to one, some simple.
+Yeah. So taking the watch, mechanistic models and models in general are usually thought of as being
+composed of two main parts. The first is a representation of the phenomena.
+And if that's accurate, that's great. And if that's all you have, you have just a descriptive
+model. So are we talking about drawing it on a piece of paper, a watch? Is that going to work?
+I mean, what's... So in the case of the watch, imagine I'm just accurately describing the movements
+of the hands on the face. And that's all I'm doing. I'm just saying one moves around the whole thing
+every hour and one moves around it every 12 hours.
+So just what you say can be the model, just your...
+It's as far as the model. So the model is just a representation of something. And if all the model
+purports to do is just describe, then that's all it does, right? And so I could have a math equation,
+which describes the movements of the watch hands. And I'll be like, that's my model,
+and that's the phenomena. And it captures it in a really compact, nice, elegant way in the math
+equation. The equation by itself doesn't seem to explain anything, right? It describes accurately
+the phenomena that I'm interested in. And that's great. That's a good place to start.
+However, in addition to just describing a phenomena, there's this other part that we can also have
+to make it, say, a mechanistic model, which is a surrogate, a diagram with a bunch of various
+components and relations and so on that we think bring about this phenomena, right?
+And if that... What the 3M principle says is that that's how we're going to... That's the thing we're
+going to zoom in on to evaluate if this mapping occurs, right? There's the thing in the world,
+the movement of the watch. There's the surrogate, the diagram that we're putting forward,
+and there's the phenomena itself, right? And our representation of it.
+What's the phenomena itself if it's not the watch? What's the phenomena? Time?
+So the phenomena is just going to be the... Moving of the hand.
+The movement of the hands, right? Just the movement of the hands, right?
+Now we can ask, why did the hands move the way that they do? And to answer that,
+what the 3M principle says is that our model, to be genuinely explanatory,
+needs to have at least one of the posits, so one of the gears that it says, actually in the mechanism.
+If my model posits a bunch of gears where there's just no mapping whatsoever,
+it just totally misrepresents what's going on underneath here.
+I mean, let's say it thinks there's a computer inside of it, or let's see,
+it says there's a bunch of sawdust just underneath here. There's no mapping, and so it's not explanatory.
+And so what's interesting about the 3M principle is that it imposes this constraint
+on the kinds of models that can satisfy it. Dynamical models, which just don't make posits of particular
+components like gears and levers and springs, are going to fail even that low bar. They're not
+even going to have a single thing mapping over to the underlying mechanism, right?
+Yeah.
+In the case of the watch, it's very clear there is a mechanism, right? I can crack it open,
+I can look at it, right?
+Yeah, because it's already itself created as a mechanism. So, I mean,
+Yeah.
+I think you referenced Greg Callender, who's actually one of my, he's my philosophy of science
+advisor. And some of his work where they talk about, you know, you could have a salt shaker
+or something, is that the one where you've decided that this represents Paris on the table as you're
+discussing how far Paris is from Berlin or something. And that can represent it. So there's this kind of
+context that's also important, but I mean, I don't want, I don't mean to get out of the,
+out of the discussion, but I, instead of the watch, maybe we can think about the planets. And if you make,
+because we all know this as a kid, right? The planets, I mean, then we have something that's not the
+watch because the watch to me is already a mechanism that's externally replicated, but the planets aren't.
+But then we create a replica of it. Like with styrofoam, I think is one example you use
+of the planets in styrofoam. And so then the model is, the mechanism is the solar system, right?
+The model is the styrofoam. Is that right? And where's the, where, how do you, what's 3M? Can you
+explain 3M with that example? Yeah, sure. I think, so maybe, maybe this will be helpful to get a little
+traction. So, so Glennon, I think very helpfully proposes what he calls the, the model's first
+approach to understanding what mechanisms are. And he wants to say that mechanisms
+are individuated by the phenomena that they produce. So in the case of the solar system,
+there's a whole host of different phenomena. We could, we could zoom in on, right? So I might
+want to have the phenomena be the rotation of Jupiter. Yeah. Or I might want to say it's the orbit
+of Venus, et cetera, et cetera. Right now, those are particular phenomena. And in fact,
+they're particular propositions. We could write them down, right? And they're in fact true,
+assuming they are true and our representation of them is right. Yeah. And then we could ask,
+once we have this proposition in mind, what explains it? And the mechanism on the mechanistic view is
+what's going to be the causal processes and also constitutive relations that lurk underneath,
+that make it the case that the particular proposition that we're investigating, the phenomena,
+is true. The solar system is an interesting one because it's one that we're familiar with.
+And it's also one that is governed seemingly by gravity, which we alluded to earlier. And even
+though mechanists sometimes talk about gravity as a mechanism, Glennon calls it a fundamental mechanism,
+it's in many ways a limiting case. Because remember back to how we described what a mechanism is,
+it's a bunch of component parts that interact to produce something. But gravity doesn't have parts.
+It's this fundamental force, insofar as it exists in the way that we think about it,
+that causes things to move in particular ways. And so...
+Or it's an interaction between a lot of other parts, which we...
+Yeah. Which we call...
+Yeah. And so what Glennon wants to say is that there are limiting aspects where the mechanistic
+approach in some ways sort of breaks down and gravity is one limiting case, where there is
+just no deeper level in which there are parts that seemingly bring it about. Unless maybe there's
+some complicated quantum interaction that produces gravity or something.
+Yeah. I just think once you're talking about anything that hasn't already been produced,
+like a watch or some kind of thing that's already a machine that's produced,
+then you get into this problem. But I will save that. I will bracket that,
+because I want to come back to... Okay, so we have 3M. And basically, if I'm a mechanist,
+I would say a dynamical model doesn't satisfy that, right? It can't possibly, or could it?
+That's right. It can't. It just fundamentally, constitutionally, the way they're set up and
+the kinds of posits that dynamical systems make just are never going to have this mapping.
+But here's an interesting point. It's not just dynamical models that get excluded by this.
+Because of the specific requirement that the posits be not just successfully mapped,
+but mapped to structural, physical, spatio-temporally defined things,
+there are other kinds of models that also don't satisfy the mapping that are very common in cognitive
+science. So-called functional models, for example, that describe something solely in terms of inputs
+and outputs of particular components, let's say, but without making additional claims about the
+physical properties of the components themselves. A lot of people, I think, have the intuition that
+that kind of model is at least capable of providing some explanatory power. But 3M would say no. They
+would say, that's a good start, but you need to do more. You need to tell us about the actual gears,
+tell us about the physical properties. If you don't do that, the mapping's not going to obtain,
+you're going to fail this normative constraint of 3M, and the model won't be explanatory.
+So this relates to, you mentioned the Gervais paper. I think he talks about the idea of upgrading
+a model. And so insofar as you have a dynamical model, sometimes what a mechanist might say is,
+that's great. That's a first step. Now put mechanistic detail into it. Convert it into a
+mechanistic model so it satisfies our principle, and then it will be explanatory.
+Okay. Now that's definitely one way of doing it, right? You could have a dynamical systems model
+and also add in a bunch of claims that might satisfy this mapping. But when you do that,
+what you do is you change the kind of model. You make it a mechanistic model to satisfy this
+requirement, which we all agreed from the get-go, mechanistic models can satisfy the requirement.
+The question is if a model that doesn't have this mechanistic structural detail is still
+plausibly construed as explanatory. That's the main disagreement.
+So there's this judgment, I guess, by a mechanist, some mechanists, or all mechanists,
+I don't know, that dynamical models are non-explanatory, right? But you seem to just be
+hinting that there are models that could be mistaken, actually, and that we could maybe show that in
+a pretty easy way, right? That they could be maybe explanatory. Would you agree with that? I mean,
+first of all, do all mechanists think that dynamical models are non-explanatory?
+All mechanists that I'm aware of, however, I recently learned at a conference that I was at in Florida
+that in a recent talk, Bill Bechtel, who is historically a strong advocate of these various
+mechanistic approaches, was asked explicitly about contemporary dynamical systems theory and if they
+could be explanatory. And he said, maybe. It's possible. He's the only one that I'm aware of.
+And everybody at the conference was very surprised. And people tried to qualify and said, well, it was
+just at a conference. He didn't put it in writing yet. But there maybe is some progress on this issue.
+However, the main core new mechanists like Kaplan and Craver especially think no. They're in writing
+in multiple articles proposing the 3M principle, but also explicitly engaging with certain
+dynamical systems theory models and just saying, listen, these things just can't do it. They can't
+be explanatory. Okay. Well, this is just, I mean, on a really general level, if you're listening to this,
+this just seems crazy because we can use dynamical models to help us understand things. I mean,
+that's just, that happens, right? So is that not a form of explanation? If it's helping us understand
+something, does it really have to be something like gravity, which by the way, as we've already
+discussed, isn't, I don't think fully explanatory either in meeting all these conditions, but that
+would be a whole, that would be two hour discussion, but just, okay. So you've written about this too a
+bit. If we just understand something in a certain way, if, if the model is helping us understand
+something, can we, can that be a form of explanation or do we just have to throw, that also doesn't work
+for the mechanism or, or for the literature? I think bringing in the notion of understanding
+is probably a way of illuminating this conversation in a really rich way. So this debate has been phrased
+in the language of explanation. The 3M principle is proposed to say, listen, here's a constraint
+on the kinds of models that can explain. And there've been a couple people, Gervais, you mentioned
+also my, my advisor, Larry Shapiro have said, listen, maybe we should just sidestep this issue
+and say, these models can clearly help us understand. And that's good enough, right? That's a good
+kind of epistemic or cognitive achievement. And we can sort of move on. But interestingly,
+there's this other related literature on the nature of understanding as a mental state and
+the different constraints on it. And one popular view among people who write about understanding
+is that what it means to understand, at least when that use the term is used in the scientific
+context, scientific understanding is to grasp or recognize in explanation.
+So if that particular view is correct, then conceding that dynamical models can provide
+understanding implicitly commits you to the idea that they're at least somewhat explanatory.
+You're grasping something that's explanatory. And as you point out, I think intuitively,
+there are facts that can be represented in a dynamical model, which intuitively really seem
+explanatory. So take, for example, imagine a piece of paper, right? And imagine I drop a piece of a
+drop of water on the paper, and it moves in a particular pattern as the paper moves, right? So
+why does it behave that way? Well, you could try to give a mechanistic explanation as to why it behaves
+that way, given the structural nature of the paper and the physical properties of the water and so on.
+But imagine the paper is folded and the water like dips into the crevice. Well, it seems like appealing
+to the shape of the paper, the terrain, the landscape explains why the water pulls where it does.
+Maybe not completely. Maybe it's not an exhaustive explanation. Maybe it's compatible with a whole host
+of other kinds of explanations we could give. But by itself, it seems to be doing some explanatory work.
+And moreover, when you learn that the paper is curved, it seems like you understand
+why the water behaves the way that it does, because you're grasping an explanation,
+or so these proponents of this view would say. So I think that examples like that seem very intuitive.
+Our intuitive judgment is that it's appropriate to deem such things as explanatory,
+but it runs into tension with these normative principles that mechanists are advocating for.
+I mean, I also just think on a really, I mean, to get out of philosophy, out of this world of philosophy,
+which is we have to be very precise about all of this, but just thinking of dynamical systems in the world,
+or something like complexity theory, or fractal, I mean, if you really look at the math of it,
+you can see that it's actually had explanatory, the math has explained things that have helped
+us create new mechanisms electronically. I mean, you can look at actual kind of devices,
+you know, that this is at least facilitated understanding enough to create some new mechanisms
+in the world. I'll just leave that to the side right now. But I mean, if you just even look at
+Stephen Wolfram and that whole kind of thing, and the technology he's created out of it, I mean,
+there's obviously some understanding going on, but I'll leave that to the side right now, because
+I think there's also another way in which you've maybe shown that this is mistaken to think of
+dynamical models as non-explanatory. I think there's even two more ways, and one has to do
+with this motif, right? Driscola, or I'll let you explain it, but what's another way we could maybe
+think about how this might be wrong to judge dynamical models as non-explanatory?
+Yeah, so in the recent sort of explosion of interest in machine learning systems and artificial
+neural networks, everybody talks about AI and chat GPT and so on. And the way that these systems work
+is very unclear. Interestingly, what's fascinating about them is that they are able to seemingly
+perform various kinds of tasks, various inputs generate various outputs, but the way in which
+they're doing so is not clear. Right. Related to our previous conversation, or at least the
+conversation earlier, people refer to these things as models. But there's also this other conversation
+trying to model what the heck is going on inside of this model. Yeah, it's very meta.
+It's very unclear. And so one way that we try to understand these things is through dynamical systems
+theory, where we try to make sense of the various state spaces that these systems are in, either
+physically or conceptually, and then try to map the movements through them. And what's really
+interesting is that there's been a recent development where if you take one of these systems and you train
+it to perform a particular kind of task, and so it gets quite good at it, and then you, at a later
+time, deploy it to try to perform a related kind of task, it'll be much better at that related task
+than just an untrained network. And intuitively, that's not terribly surprising. But from a mechanistic
+perspective, it is surprising, right? Because the mechanistic details aren't known to us and also
+don't seem absolutely essential to explaining why the particular thing is better than an untrained
+network. Right. And so there's been this development of this new idea of a dynamical motif.
+And the idea is that when you train the network to perform the original kind of task,
+it constructs a certain kind of conceptual kind of state space where things are represented
+prototypically or as exemplars or something that in many ways constitute its capacity, why it's able to
+be effective at this input and output task. And then when you deploy it on this new kind of task,
+it exploits or repurposes those kinds of dynamical properties. It exploits the various attractors or
+the prototypes or so on that it's representing. But notice what we've done. If we can see that as an
+explanation of its capacity, we're appealing to dynamical properties. We're not appealing to nuts and
+bolts. We're not appealing to springs and levers and gears. And so such an explanation would once again
+fail 3M, but that seems implausible. Right. You don't have these discrete parts,
+or what I was getting at by the static way of mapping. And yet you still have what could be
+understood as a mechanism if it weren't so determined to be stuck to something like that mapping. I don't
+know. But yeah, that's... Yeah. So one important point perhaps to note is that it is possible that
+there's a mechanistic explanation for why the systems behave they do, but it would be so complicated.
+The kinds of... What would constitute a component is entirely unclear. The kinds of interactions that
+are inside an artificial... It just seems like a waste of energy. I guess that's what I'm trying to get at is
+that it's not that these are wrong. One is wrong and the other is right. Like I don't... It's a little hard for me to
+understand why we have to say it's wrong. It's just the dynamical approach might be better in this case for
+understanding than a mechanistic. But if you really wanted to dig into some certain part of that, maybe
+a mechanistic mapping would actually be helpful too. But yeah. But that's not the only... I mean, there's also
+other areas of society and science which are using models that I think in a way that that term would...
+you would agree with. It is a model that are explanatory, but that would still be rejected by
+this notion of mechanism. Isn't that right? Something like... I think you talked about equilibrium
+models or something like that. Could you maybe illuminate that too a little bit like that other
+possibility? Yeah. So in addition to there being a seeming tension between the acceptance of 3M and
+these intuitive judgments we have about what kinds of models are explanatory, like the bent paper example
+with the water, or actual scientific practice in the case of this posit of a dynamical motif explaining
+the behavior of these artificial neural networks. There are also, if we extend 3M to areas beyond cognitive
+science, there are other kinds of models that also just get excluded from the category of providing an explanation.
+One particular example, which I think helps illustrate this, is an extremely successful
+kind of model in economics and biology called an equilibrium model. And an equilibrium model can be
+used to try to represent the dynamics or change of, say, a predator and prey relationship over time in a
+population, why they ebb and flow as they do, or in economics between supply and demand moving as they do
+relative to each other. There's a fascinating relationship between these various kinds of
+variables, and they seem to converge on what are called equilibrium points. The systems tend to sort of
+hone in on particular kinds of areas of the state space over and over again. And these equilibrium models
+posit equilibrium points, but these kinds of posits seem very similar, if not pretty much the same,
+as the kinds of posits that you get in dynamical systems theory about attractors and repellers and
+state spaces and so on. And so I am suggesting that we not throw the baby out with the bathwater,
+that if we accept the 3M principle and we take it to apply to all of science, it precludes these models,
+which are deemed explanatory. But why shouldn't we as cognitive scientists, or as people investigating
+cognition or some mental process, try to employ all the various kinds of models? And why should we
+think that that kind of enterprise in cognitive science is unique in that only mechanistic models
+are the permitted ones? It seems like special pleading on the part of the mechanists to say,
+no, it may be the case that in economics and in biology, you can appeal to equilibria points, but not
+here, not here. It's not explanatory. Why? It seems like that's an arbitrary demarcation that needs a justification.
+Yeah, I would agree. Especially if we go zoom out to the, why are we really doing this? And
+what does it really, why does it really matter? And yeah, it would seem that we would want something
+that we would want to be able to get to answers in many different ways. Not only one way or,
+and it seems like we already do that, right? I mean, I think you say this, it's the things you've just
+described are very consistent with what we're doing in science. And already, I mean, they're there.
+So if they don't fit so well with this very strict mechanistic model, it doesn't seem we even have the
+choice whether we reject them or not. It just seems we need to maybe open up, open up the discussion
+about what, that there could be more than one kind of model. Or do you see it like that? Do you see
+this as a real choice? Do we have to choose between something like a dynamical model and a
+traditionally mechanistic? Do you really think that's a choice that has to be made?
+I think choice arises when it comes to models in different ways. So imagine you're a practicing
+scientist and you only have so much time and energy on your hand. What kind of model do you
+want to develop to investigate some phenomena? Maybe you want to develop a mechanistic model,
+or maybe you want to develop a dynamical model. Those would require different kinds of pursuits
+and different kinds of skills. Sure, but that's not an objective choice. I mean,
+you're not saying one is wrong and the other is right. You're saying this one fits better here,
+which is wonderful. I mean, that's very practical. Yeah. I also think that when it
+comes to this other issue of do we need to choose a particular kind of model as being genuinely
+explanatory, perhaps 3M principle is setting up a false dichotomy. I think maybe it's helpful to
+import in a recent kind of development in another field that talks about models constantly, which is
+climate science. So the philosophy of climate science, which has become very important and is very
+significant, has converged generally on this idea that no particular climate model is by itself just
+true. Rather, you can't simply just evaluate models, climate models, or in many ways models across the
+board, just in terms of their truth value. Insofar as the model refers to the surrogate, like a diagram
+or an equation, it doesn't even really make sense to say that it is true. The surrogate, what is true of the
+surrogate is that it has a particular kind of relationship to the target in certain degrees
+and respects. And so the general terminology from Wendy Parker, amongst others, is that we should
+evaluate models as being adequate for purpose, this adequacy for purpose account of model evaluation.
+And so an individual model, insofar as our purpose is to simply describe the phenomena,
+a particular kind of model might be well suited for that purpose. But if we want to predict the
+phenomena, maybe a different kind of model is what we want. Or if we want to explain the phenomena,
+maybe a different one. Or maybe, to use a term that's come up a couple times, if we want to
+understand the phenomena, which is a different kind of constraint on the kinds of mental abilities we have,
+it requires a different kind of model. In climate science, in particular, the kinds of models that
+are being developed in terms of software simulations and so on are so complicated. No individual agent
+like you or me could represent what's going on in there. Even so, we might think that that model is
+tracking an explanation, but we might need to dumb it down and simplify it so that we can understand it.
+Understanding requires a certain mental state being present in a particular agent relative to,
+say, some model or some phenomena or surrogate. So I think the conversation, in many ways,
+about explanation, presupposed a bunch of things about the purposes of what models are for.
+That what are models for? Oh, to explain. And how should we explain them? Oh, mechanistically.
+But once you take a step back and realize there are different kinds of models and different kinds of
+ways you can use them for different ends, the conversation becomes much richer.
+Absolutely. Yeah. And I would say it's even urgent. I mean, I'm glad you brought up
+the climate science because there's this either or thing that we were talking about at the beginning,
+how these theories and models actually affect everyday life in a very real way too, once you
+zoom out. And having to choose between something like a mechanistic model and a dynamic model might
+seem like we don't need to worry about it too much. But I do think it is connected a lot,
+right? Because we are using this in our science and it is informing just overall how we see the world.
+And if we always think we have to choose between these rather than what you just described,
+which model is best for the purpose, that's a very different orientation with which we're just
+coming to a problem. But I can also understand how something like the mechanistic viewpoint, how it's
+given us so much. And if you're really, I mean, if you're in academia and you're really invested in
+that and you've built your career on that, then you probably feel like that needs to continue in
+a certain way. So there's a lot of complicated stuff in there. But somebody like Wendy Parker,
+who I don't know, and I'll definitely look it up now, but would she believe you have to choose
+between something like a mechanistic and a dynamic model? I don't think so. I think what Parker is
+going to say is that take climate science as a clear example. That's the primary thing that she
+works on. When we develop these kinds of models, we need to be clear about what phenomena we're
+talking about and also what particular thing we're trying to achieve. If we're only interested in trying
+to have the model represent, just give us accurate predictions about sea level rise in 100 years.
+That's the only thing that we want the model to give us a prediction of. It could be that the
+particular things we need to build into the model to get that accurate prediction might involve
+complicated causal stuff involving the greenhouse effect and some things like that. But maybe not.
+It could be that there are other variables, proxies, which are caused by similar kinds of
+processes which would generate accurate predictions. If all we care about are the predictions, that might
+be good enough. If we want to try to explain why the sea level is rising right now or why it will
+rise in the particular way that it will in 100 years, we might need to employ a different kind of
+model. In many ways, I think what Parker and people who are advocates of this adequacy for purpose
+view are going to say is we need to be very specific about the kinds of questions we're asking,
+the kinds of aims that we want to achieve, and then also, given that, the kinds of models that we
+select. And the kinds of instances that we make on the basis of our models should be very explicit
+and very carefully worded. And we shouldn't presuppose that one particular kind of model
+or one particular kind of aim is the end-all be-all. In many ways, and I think this is an insight not
+just from Parker but from the modeling literature generally, it just doesn't make any sense to say that some
+model is just true to court, without any qualification, without any context. Models
+can say true things, they can imply true things about certain systems in terms of them being like
+them in particular degrees and respects, but the object itself, say a math equation, without any
+qualification, or the diagram without any qualification, isn't true. It doesn't make any
+sense to say that it's true. It's not the kind of thing that has that property.
+But again, it's back to that territory map confusion, which I really think is at the root
+of a lot of misunderstanding that reverberates into very urgent problems, especially thinking
+about something like climate change, where we think there's going to be only one answer. We have this
+model of, there's one model that we have to choose, like we have to choose the right model, and we have
+to, there's not a kind of plurality or a way of understanding that there's many different positions,
+that there's many different ways to get to an answer, that there's many different trajectories.
+I mean, that's what I'm trying to do in my work too, is find out a way, how can we think about positions
+from different scales, and how, what I hear you saying when you, or with Wendy Parker too, I'm definitely
+going to read that, is you have to understand what landscape you're working in. What's the position
+from which you're measuring? What's the goal? What are you trying to figure out? I mean, all of that
+matters for the model you're going to use, but also the answer that you get. And you don't just stop
+there. I mean, there should, that's what science is. We're trying to understand from many different
+positions in the most rigorous way possible. And I guess I could be a little more biased towards
+something like dynamical systems, because the math, or, you know, like I mentioned category
+theory or something, or it's at least more in that orientation where you can start to understand
+mathematically or whatever, on whatever level, how to hold many different models as plausible,
+without needing to choose them, but rather choose them according to what landscape you're in and where
+you want to go and so forth. So I don't know, does that, to bring it back to your work, I mean,
+is that connected at all to this unificationist account? Is that completely something different?
+Would that also jive with this theoretical hypothesis approach that you're coming at where
+you need both the model, the map and the context or the theory? I mean, are you,
+does that, does that resonate with, with where you're going to with your research too?
+Yeah. I mean, I think it does. I think a important topic, which I think people are just starting to
+really dedicate a lot of effort to try to figure out is there's this common scientific practice
+referred to as integrating models, where you have different models, perhaps of the same phenomena,
+phenomena, and then you try to integrate them into some general model. Another possibility is that
+you have multiple models of the same phenomena, which makes slightly different kinds of claims
+when you interpret them. Wendy Parker has focused on that because when it comes to climate models,
+there's not just one, right? There's a variety of them. And then there's this practical question
+of how to either integrate them or take the judgments or the verdicts from these models,
+the inferences we're making on the basis of them and make square them with one another.
+Insofar as one model makes a prediction that's in tension with another, which one should we
+give more credence to? Is there some sort of normative discussion to be had about weighing them
+off one another? That can be a really complicated one. And it's also exacerbated by, as you mentioned,
+the importance of the discussion, right? These are significant, there are significant practical
+upshots depending on whether we think climate will change in a particular way in a particular time
+period. And communicating that to the public is really difficult. With that said though, sometimes
+at first blush, it might appear as if two models are in tension with one another, but if you dig deeper,
+they're not. And so if we think about these models in terms of the way that I'm advocating for,
+and I think is consistent with the modeling literature in general, is that these things
+in terms of their metaphysics are just surrogates, right? We take the diagram,
+the equation to be a stand in for something. And then here's the crucial point. We as modelers
+interpret those surrogates as indicating certain propositions being true. We engage in an inference
+and we say, because the equation moves this way, the phenomena will behave this way and so on.
+That kind of inference is often very not, it's not explicit in the science. People just take
+themselves to sort of read off from the model some fact about the phenomena, but it's actually an
+interpretation. It's actually an inference from this surrogate. And once you realize that,
+and you make explicit what the surrogate has built into it, it could be that the propositions you get
+out the other end aren't incompatible. Maybe they're making different kinds of claims about the
+phenomena and can be integrated in a particular way. Yeah. And there's often, you can find that there
+are patterns overlapping, but once you have a way of being very clear and specific about what
+regularities were studied, what went into it, you know, in the way that you were describing with
+Parker or really, what's the question? What's the landscape? What's, what are we actually dealing
+with instead of everyone just assuming as we often do that we're all coming from the same space. And then
+of course, a model looks, or the findings from another model might look very much in contrast with ours,
+because we're taking our landscape as the landscape from which that model was done, which is almost
+always not the case. So it's more, I think that's where the math becomes helpful and something like
+a lot of the math that's associated with something like complexity and dynamical systems, because
+you do start to get ways of being able to, in the way that we started this discussion with,
+put something, it represents something externally, model it in a sense that can be understood better,
+that you can start, you know, you can start to understand that there are many different
+approaches getting to the same spot. That is a very hard thing, I think, for all of us to understand
+as scientists and philosophers, but also everyday life, right. But it also feels very crucial,
+in a sense, if we're going to deal with some of these urgent challenges that we face right now.
+So, yeah, I don't know. I mean, we've been talking now for a couple hours, but I'd like to hear, you
+know, what your thoughts are on that. And also just this, where are you going? What's, you've shown that,
+I think, with your work, you're showing that this criticism of the non-explanatory,
+of the dynamical model, by the mechanism perspective, has, can be challenged, clearly.
+But then, what's the step after? Like, how does it all fit together? I don't know if it has to do
+with this unification account, or, or what, but I wonder, like, how you're seeing that in your work
+right now. I feel like it's probably connected to this Parker and everything we're talking about, but
+maybe we can clarify it a little bit. Yeah. I mean, I think it is, it is, at
+least if, if my current thoughts about it are on track for anything, they are all connected.
+This question of, of what models are, the different kinds of aims that we can deploy them for,
+and also this unificationist account that you alluded to, and also these conversations about
+the relationship between explanation and understanding. I think that they're all sort of
+intertwined in a really complicated way. And I think that these different kinds of literatures,
+like the literature and the philosophy of climate science and modeling there, and this literature
+about mechanistic explanation and the normative discussion about what principles we should accept
+about that, can really fruitfully, you know, be put into conversation with each other. I think maybe
+a way of thinking about it from the way that I'm sort of coming at it is, in actual scientific practice,
+there's this phenomena that's been identified referred to as model transfer. And this is where one
+particular discipline, I don't know, say it's physics, you're developing the ideal gas law,
+for example, realizes there are particular patterns that accurately describe the behavior of some kind
+of system. And then there are other people working in very different kinds of disciplines, say, I don't
+know, population genetics or something. And they look at the ideal gas law, and they look at the
+populations, they go, wait a minute, it looks like this could helpfully describe, I'm using that word
+specifically, describe the behavior of this various population and the dynamics. So the model, in many
+ways, that's a incorrect way of speaking, the surrogate, right, the equation is now being deployed to have
+a new target. It's representing something different. Now, when that's done, that's really interesting in
+terms of scientific description, right? Maybe this new model transferring over can describe the behavior
+of this population. But it seems like there's another deeper question, which is, can it explain?
+If it explains in the case of the ideal gas law and the behavior of these various gases, does it also
+explain when it's deployed over here? What needs to be the case for it to be not just a mere description
+of the population, but accurately tracking some explanation, and maybe providing some understanding
+as well. And it seems to me the resources from dynamical systems theory can perhaps
+give us a sense of, to use a fancy philosopher's phrase, in virtue of what? These models are
+explanatory. Yeah. And they're explanatory in virtue of or because they're tracking various dynamical
+states and processes that are occurring within, you know, the underlying structure of the phenomena.
+The dynamics of the ideal of the gas and the dynamics of the population might have similar kinds of state
+spaces, might have similar attraction points and similar trajectories. And if that's true,
+then identifying that through this active model transfer isn't just merely descriptive. It could be
+explanatory and might provide genuine understanding. So I think that when that's done,
+the kind of explanation that you obtain, we have to think about. There are different accounts of
+what an explanation is fundamentally. The mechanists are in many ways committed to this ontic conception
+of explanation. There are other accounts though. There's the pragmatic account of explanation,
+which views explanations as answers to why questions. There's also other accounts like the
+unificationist account from Kitscher amongst others. And the sort of hallmark of the unificationist
+account is that what it means to explain, at least often, is that you're coming to recognize that the
+particular instance is an instance of some more general pattern or structure. And the way that Kitscher
+frames it is in terms of argument forms. You come to recognize that a similar argument or a similar
+principle can be deployed within different contexts to do explanatory work. And perhaps I'm thinking
+that could be a way of making sense of this idea of model transfer and dynamical systems. Because
+what you're doing when you transfer the ideal gas law into a biological context is you're recognizing
+and unifying in some ways this pattern, right? And the hope is that recognizing this pattern
+isn't just purely superficial. It's not just descriptively the case.
+Dynamical systems theory might give us reason to think that it's actually representing not just the
+superficial behavior, but actual aspects of the processes underneath that are explanatory if they
+exist. Yeah, I think that's very well said. And I'm really on board with that because, I mean,
+in my work and actually with a lot of people I've talked to
+a lot of people I've talked to as part of the research, we end up coming back to trying to
+figure out, trying to focus more on patterns instead of parts. I think though we needed to
+focus on parts, even in kind of this literature in the 90s and early 2000s of mechanism, it was
+important to focus on the parts, observe them, notice they're there. That's not, none of that needs to be
+said. That's not bad. There's no, you know, we learned a lot from that, but now we're trying to
+understand more patterns and we have more tools and technologies like with dynamical systems and maths
+to start to look at patterns in a different way and make it a little more rigorous in terms of
+how we can understand across disciplines, as you were saying, what those patterns can show us about
+how to be healthier, how to address certain urgencies, those kinds of things that really do
+matter and that, you know, we are actually trying to understand with all this. But also just on an
+everyday sense, when you were talking, I'm thinking that's how it works when you just connect with other
+people or when you have a kind of a good day or something, what you're really doing is, you know,
+connecting certain patterns. So I think there's a lot of different scales of why this matters and
+why it's important. And I'm glad you're working on it in the way that you are. What's the main
+challenge or obstacle just to end that you feel like you have to deal with? I mean, we've talked a
+lot about the mechanistic and the dynamic butting heads or something. Is that really fair to say that's
+the main issue that you're trying to reconcile? Because I looked briefly at your prospectus for your PhD and
+you've actually, it seems a lot broader than that. So I guess like just to end maybe,
+yeah, what's like the bigger state space or landscape that you're looking at now and trying to,
+what's driving you? What's driving the research right now?
+Yeah, I think you're right. I mean, the questions I'm interested in, I think, could be expressed in a
+much broader way. And the debate or the disagreement between people about mechanistic models or
+dynamical models and if they're explanatory, and in many ways is just a case study. It's just a
+particular instance that illustrates the complicated kinds of philosophical assumptions that are at play
+in these kinds of assessments. The very general kinds of questions that I'm interested in are questions
+about models and what they are and how they represent anything. How is that possible? And to
+connect to the beginning of our conversation, how is this notion of representation the same or different
+or related to, if it is other notions of representation, right? You've alluded to the
+idea of maps throughout this discussion. There's also, there's paintings. There's also beliefs and desires
+and so on. There are arguments. There's all these different things that we think represent other things.
+Is model-based representation its own kind of thing? And does it require some sort of unique kind of
+analysis, perhaps different from these others? And then, relatedly, I want to know what it means
+for a model to explain something. There's lots of different conceptions of what explanation is.
+There's the ontic explanation, the pragmatic one, the unificationist, and so on. And fundamentally,
+I think there's a philosophical kind of urge to try to understand the world. And we think that science
+is in many ways a good or maybe even the best way of going about trying to obtain an understanding of
+the world. Models seem fundamental to that. And so trying to figure out what's going on is really
+essential. There's a whole host of different assumptions that are perhaps at play in this.
+You alluded to the idea, which I think is really well put, between patterns and parts. I hadn't thought
+about that before, that maybe really what's lurking in the bottom here, in terms of the disagreement that
+we've been focusing on, is that the mechanists think that parts can do explanatory work. And the
+patterns that are picked out by these other approaches aren't doing the kind of work that
+we want it to. But maybe patterns can do explanatory work. And maybe, this is a very speculative,
+philosophical view, maybe parts in many ways fundamentally are just patterns.
+Yeah, I think so. I mean, you know, that goes back to physics, right, with the particle and wave. And
+you can study them both ways, and both ways are good. But yeah, choosing between them is not possible,
+I guess. So I just have to ask... Go ahead. Go ahead. I was just... So the big general question
+that you asked is, what am I sort of struggling with now? Or what am I sort of looking forward to
+in terms of this? I hope that I can sort of move this discussion forward in a particular way. And
+also, hopefully, I think it's very abstract right now, trying to make it more practical. I think
+contemporary discussions about the importance of AI, and normative questions about these machine
+learning models, and the various assumptions that are built into them, and how they're deployed,
+there's good philosophical work to be done there. Because people are taking these things up,
+and deploying them for particular purposes that have real, consequential, practical upshots,
+in terms of climate science, but also in terms of using these kinds of things
+to try to assess people's rates of recidivism, and then determining sentences for their prison
+sentences on the basis of the output of a model, without any real reflection about what these models are,
+the various assumptions involved with them, or if they should be performing this kind of role that
+they're taking them to do. So I hope to sort of move this conversation, not just in the abstract
+about how we should investigate cognition, and so on, but also have a sort of robust, philosophically
+informed discussion about how models are playing a significant role in our everyday life, and we'll
+continue to do so going forward. Wonderful. I think that's very important, because it is one of those
+things that gets accepted and used even in courts, and so on, without actually being well understood,
+and part of zooming in and really understanding that is what we need to do to clarify these problems.
+So I wish you a lot of luck with that. I have three just really quick questions. What's the difference
+between a surrogate and a model? I mean, you don't have to go into a big explanation, but you seem to not
+use them interchangeably. But I have trouble not seeing them as, I mean, a surrogate is standing
+in for something, right? Which isn't, like, a model could be applied to many different things, or I
+don't know. Maybe you can just clarify that, because it's bothering me a little bit.
+Yes, it's a great question. The term model is the thing that is just sort of ubiquitous,
+that people use across the board. And as we said earlier, there's often not really general consensus
+about what it's supposed to be referring to. The literature on what models are has generally
+converged in this idea that the defining feature is that models are used with surrogative reasoning.
+And so surrogates are the things that stand in. Are the surrogates the model, or is the model
+something more than that? That's controversial. People who program models or develop models will
+often refer to the equation, or the software, or the object as the model. But there's a sense in
+which, if we're speaking precisely, and you're literally just referring to the object,
+then maybe you should say the surrogate. What additional things need to be present for it to
+be a model? Well, there's different proposals. You alluded to this idea that maybe there needs to be a
+theoretical hypothesis in addition. So take, for example, a set of styrofoam balls that are arranged in the
+arrangement of the planets in our solar system, right? Just by itself. Is that a model? Well,
+it's just a set of physical objects that have certain kinds of relations to the planets in the
+solar system. That relation obtaining by itself doesn't make it a representation, right? Because
+the spatial relationship between the various balls and the planets also obtains between the planets and
+the balls. But we don't say that the planets are a model of the styrofoam balls, so that relationship's
+symmetric. The representational relationship is asymmetric, right? The thing is a representation
+of something else. So what does that additional work to make it about something? Ronald Geary has
+proposed a few years ago that it's a theoretical hypothesis. So it's a proposition that someone
+asserts, they say, that set of styrofoam balls is like those planets in this particular way.
+And once you can join the theoretical hypothesis with the actual referent, the surrogate,
+then it becomes a model. So a model has two components. It's the thing, the surrogate,
+but also this suggestion, this proposal, this hypothesis that it has this relation that obtains
+between it and its target. Yeah, you can't pretend those are detached, I guess. I mean, it also goes back
+to this Parker thing, too, where you need to, or what we were talking about, where, you know,
+what's the purpose, what's the landscape, all of that matters, actually, for even something like
+how you're going to notice the relationship between the styrofoam balls and the planets.
+So it's weird that we would just dismiss all of that and not think of it, you know, it's not detached,
+so. It's not detached. On this view, the theoretical hypothesis is a constituent. It's a part of what makes
+the thing a model. And to see that, recognize the fact that the styrofoam balls, if I attach
+a different theoretical hypothesis to it, would just be about something different. I could say
+this represents the hydrogen atom. Absolutely. It's the same surrogate, but the target is
+different because of the hypothesis being different. Right, which is why you need that
+that space, that landscape, that embeddedness as part of it. And also, I think that connects ontic
+and epistemic kind of, we can go into it a lot here, but that too, you would need, I mean, it's a,
+it's a bridge toward understanding that differently. But here's the second question,
+because we already talked a long time. Do you think language is something like a model? I mean,
+how do you, I know that's a huge question, but just, I can't help but wonder, you know,
+because we, when we were talking about the watch, you were saying like, oh, I could just tell you this,
+and that's a kind of a model. So is language itself a model? Or how do you see that?
+Depends what you mean by language. I think if what you mean are like,
+A language, I guess, like an alphabet, yeah, yeah, like English or Spanish or,
+because you've externalized, right? It's in a way, it's what we've been talking about, where you've
+created this thing that's symbolic, that then becomes a kind of connecting space to explore
+and yeah. I think in general, I'm going to say no. And here's, here's the reason why.
+If the defining feature of model representations is surrogative reasoning being deployed on them,
+where you investigate the surrogate and the structure of the surrogate or properties about
+the surrogate are used to infer properties about the referent, that's not the case with language.
+Take the word atom, A-T-O-M, right? And writing it on a piece of paper. And now imagine zooming in and
+analyzing the letter A and the letter T, right? And trying to manipulate the letter T in a particular
+way. It's not the same kind of thing. I'm not using it as a stand-in for the thing that I take it to be a
+representation of. So linguistic reference, linguistic representation, or when you combine
+various linguistic components into, say, a proposition, like a sentence, propositional
+representation, which could be beliefs or desires or something, that's just a very different kind
+of representation than the external model that is, say, a physical object or an equation that
+I'm using as a stand-in that I investigate itself. So the kinds of reasoning that's used when we deploy
+models seems fundamentally different in many ways from the kind of reasoning that we deploy when
+we use language. With that said, language is often used to express what are called arguments,
+chains of reasoning that have a particular relationship, premises to conclusions. And a
+lot of people think that maybe when we reason with models, even though it's not explicit, we're
+actually deploying and appreciating certain arguments. So maybe there is a kind of intimate
+relationship between language and model-based reasoning. But at least at a superficial
+characterization, they seem very different. Yeah, I guess the language seems representational. I mean,
+I think we could agree that language is representational. And that's probably more what I
+was trying to say, I guess, about that common space that it's represented. And so it's like a sort of
+third thing that we can then agree upon. But then maybe something like an argument could be understood as
+a model, which, I mean, I don't know. Perhaps. So if the defining feature is that when we have a model
+at play with a surrogate, we zoom in and investigate the particular dynamics of the surrogate, with a
+sentence, it's not clear that we do that. Sentences are clearly representational. Words are clearly
+representational. But if they're representational in the same way that models are, it's not clear.
+Arguments are an interesting case because we do zoom in and focus on the structure in a particular
+way. And we maybe manipulate the argument, move the pieces around. So it's closer to the kind of
+reasoning that takes place with the model. But it's not clear that it's at least a paradigmatic
+instance. Perhaps it's a limiting case. Very interesting. And the last thing that came to
+mind that I just want to ask about is something like a book or a movie or something like this, where
+again, you, we have this kind of, I mean, I'm thinking of like scientific papers. And we've
+been talking a lot about how when we create models and we create theories and so on, it's,
+it's changing and it's important. But so too, when we create something like a movie or a TV series or a
+book, and I just, I'm not sure how to, if those connect at all, or if you've thought about that in
+any way of where's the representational or the modeling going on, it seems like something like
+a dynamical model would be able to look at something like that in a different way than a mechanistic
+model, which is what made me think of it. But yeah, it's chaotic what I just said, but I'm just
+throwing it out there. Have you, have you thought about, have you thought about anything like that?
+Yeah. So it's a really interesting question. So there's lots of different kinds of representations
+and trying to evaluate in virtue of what they are representations is really complicated.
+It's sort of, I think a really interesting point to note that the modeling literature and the recent
+development of it often initially emerged out of conversations that came from aesthetics because
+in aesthetics, people were saying, well, what does it mean for something to be a representation,
+right? What does it mean for the Mona Lisa to be about Mona Lisa? Oh yeah, definitely.
+And so there's this really interesting conversation to be had about aesthetic objects that we
+construct. So imagine the book that you have in mind is a piece of fiction, right? Or imagine the
+movie is, I don't know, a sequence. I don't want to, I don't know particular views about the metaphysics
+of movies and what they fundamentally are. If it's the film in the projector, or if it's the images
+projected on the screen or something, but imagine a world where you have those physical
+objects, but there are no more minds anymore. Something cataclysmic happens and there are no
+more minds, but there are these physical objects in the world. Are they still about anything? It's not
+clear, right? There are definitely various objects. They definitely might have certain kinds of
+relations that obtain between them and things that did or didn't exist at a particular time.
+But for something to be about something else and to be a representation, there needs to be,
+it would seem, an extremely important sort of feedback loop between the thing that is recognizing
+it as a representation or the thing that's asking questions about it that makes it a representation.
+And so in this debate about models, there's a disagreement between what are called inferentialists
+and representationalists, where the representationalists think the representations are out there
+and then we recognize them and we reason with them. Where the inferentialist says,
+well, what makes something a representation is that there's beings like you or me who are asking
+certain kinds of questions and that process makes it a representation. So if we imagine a world with
+no minds on the inferentialist view, there are no representations. There are no models. You could have
+scribblings on pieces of paper or you could have various diagrams and equations written down,
+but if no agents are there to recognize it as such and reason with them, they're not about anything.
+So it's a complicated question and it cuts to the core of what it means for anything to be about
+anything else.
+It's fascinating. And I actually think it could be addressed in a similar way to how we
+dealt with this dichotomy of mechanistic and dynamic and ended up getting to patterns. I think
+you could get, look at something like that dichotomy you just laid out too, in terms of patterns and the
+Susan Parker view as what I'm calling it now, even though I've never read her, but in asking these
+questions of actually what are we measuring and what are we thinking about? And then you always
+have some agent or observer because that's the space that you're in. So yeah, maybe the pattern
+patterns instead of parts makes more sense there too, but that would have to be a whole other
+discussion. For now, I'll just say thank you very much for this and you've given me a lot to think
+about and it's very rich what you're doing and I wish you a lot of luck with it. I think it's important.
+Well, well, thank you very much. Thank you for having me on. I enjoyed, enjoyed the conversation
+and had me think about things in ways that I hadn't previously. So I appreciate it.
+Well, good. I'm glad. All right. Well, have a nice day there in Wisconsin. It's night here,
+so I got to go have dinner. Have a good, have a good night. All right. Bye.

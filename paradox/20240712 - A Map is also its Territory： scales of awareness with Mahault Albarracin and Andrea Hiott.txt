@@ -1,0 +1,908 @@
+Well, thank you for having me.
+So I'm very interested in the work you've been doing lately, there's so many papers
+you've been writing.
+And to get into that though, I want to think about your personal trajectory because the
+papers that I want to talk to you about are a lot about cognitive computing and active
+inference and modeling and technology and AI and all these sort of subjects.
+However, I seem to have discovered or heard that you started in more humanities and sociology
+and even something called sexology, which I'm not sure how to define exactly.
+So could you help me?
+So I'll start by defining what sexology is because it is a concern that sexologists themselves
+coming out of university are trained to answer.
+Oh wow.
+Okay.
+I'll start with that and then I'll tell you about my path.
+Sociology is basically an amalgamation of a lot of fields.
+You can go on biology, psychology, anthropology.
+We do a lot of sociology as well, sometimes linguistics, sometimes media studies.
+And effectively it's about the topic itself.
+So anything that touches on anything related, even tangentially to sexuality, like pregnancy
+or diseases, it can be couples therapy.
+It can be wellbeing.
+So these are all the topics that are touched on.
+And so we dissect these topics from multiple aspects and try to find the connection points
+between the fields that find areas of, I want to say synergy, but mostly impact.
+Because what we are more and more going towards in the social sciences field is psycho-ecological,
+biological approach where you can't just see one in isolation.
+You have to take it all into account and that creates a problem because it's a great, it's
+a great desire, but don't have the right bridges, the right paths between the different fields
+of study such that sometimes the languages don't match.
+Sometimes we think the languages match, but really we're talking about different things
+and sometimes the methodologies themselves aren't even aligned.
+So we couldn't even try to measure the same thing if we wanted.
+And that goes beyond the problem of scale.
+Oftentimes when you talk about a field, we're talking about related things, but they're,
+they're acting at a different scale.
+So for instance, we're talking about psychology and then sociology in general, we think we're
+talking about phenomena that act on say the individual scale.
+And then we're talking about topics that span multiple people, multiple individuals, and then
+even institutions and countries that become their own groups.
+So we are lacking the tools to understand the ways in which these things interact.
+So that's, I think, gets to how I started my path and where I am today.
+I can see that.
+Yeah, right?
+Like, I started in sexology because really I was interested in psychology, but I didn't
+want to do just what my understanding of psychology was at the time, just like more than 10 years
+ago.
+So I really thought that I wanted to get into something practical and useful, and that would
+get to the root of what is being a human being.
+And to me, sexuality, there was something fundamental about it that spoke to the deep connections
+that we can make with other people and therefore something transcendental about the way that we
+relate to one another.
+Unfortunately, it was a bit let down.
+The field is not what I thought it was.
+It mostly talks about, you know, communicable diseases and, you know, the kinds of things
+you do when you're pregnant and what happens to your body.
+And all of this is massively important, but not exactly what I went into it for.
+So then I did my master's thinking, let's push this a little bit further.
+Let's go into culture.
+Let's try to understand how culture is this sort of framework that shapes our perception
+of reality and therefore perception of each other and how we might exchange through these
+cultural artifacts.
+And I got a little further to closer to where I wanted to go.
+But then again, I was limited by the fact that the fields are hazy and a little bit blurry.
+They mean to be blurry.
+It's on purpose because they mean to be inclusive and try to not apply a frame of reference that
+is not appropriate to phenomena that is poorly understood and that may not be where the researcher
+is coming from.
+So they acknowledge that there is a bias from being human and existing in the world that
+you can't really get away from.
+And so we try to acknowledge and pull the bias away a little bit by keeping things a bit
+blurry, not defining too much, letting the definition stem from the people, the cultures
+you're studying.
+But that doesn't give us a lot of explanatory power.
+It doesn't give us a lot of predictive power.
+And so it's, it stays a bit there, you know, it's like, okay, let's make a description.
+It's beautiful.
+It's poetic.
+It's abstract.
+We can't do anything with it.
+And I find that that also leads to a perception from the, let's say, hard sciences, the life
+sciences, that it's useless, that it's not even science.
+Oftentimes we separate these sciences because they don't even consider social sciences to
+be a science.
+I'm saying that it's a broad thing.
+Not everybody thinks that way, but I've really encountered people who wouldn't even
+qualify the humanities as a science.
+And so I was a bit flustered by that.
+I wanted to go further.
+I wanted to find what constituted building blocks.
+And anytime I mentioned the word ontology, I was met with heavy criticism because they
+were like, no, no, no.
+Ontology is an essentialist concept.
+We are not essentialist here.
+We're constructivists.
+And I believe that.
+I believe that things are constructed.
+I believe that culture shapes the way we engage with reality.
+And the culture itself is a construct of interactions and phenomena, which is why I'm very interested
+in neomaterialism.
+But I don't believe that this means you can't come up with essential processes, essential
+building blocks that lead people to potentially predictably make certain assumptions or predictably
+think in a way that will lead them to act in a certain way.
+And so that's how I got into trying to think further and find paradigms that were heading
+in that direction.
+And I found predictive processing.
+I was engaged a lot with a community at that time that was really involved with AI, even
+though I wasn't part of that community.
+But at the same time, I was learning how to program.
+I built a company, a sex tech company.
+We were doing, at this point, at this time it was web development, but therefore I was
+getting more interested in it.
+We were linking patients with sexologists who wanted to give them care across the country
+because one of the main issues is access.
+In rural areas, you don't have access.
+And so because I was learning how to program, because I was learning about this community
+and AI and their concerns, I started reading about cognitive theories that had these building
+blocks, even though they weren't specifically interested in social sciences for now.
+And that's how I fell in the work of Maxwell Ramstad and Carl Fristen, who were starting
+to discuss niche construction, which was very reminiscent of ecological theory, which I was
+very familiar with having studied in my master's.
+So I was seeing that they were making these connections and I brought into the field the
+notion of social scripts.
+And we formalized this and now we have some degree of the building blocks.
+And the missing piece still, to some extent, is how you map across scales to get an emergent
+feature, because active inference is scale-free, but it doesn't give you emergence per se.
+You still need to understand the historicity of a system in order to understand how certain
+things emerge at a given scale through some attractor dynamics.
+Okay.
+Wow.
+There's so much in there.
+And now I can sort of understand how you got into this because it is, there's a kind
+of strange set of constraints in both these areas that you're in.
+I mean, I've kind of been in both too and more philosophy, but I think it's similar in
+a way.
+We're trying to take account of multiple perspectives, like something like constructivism
+that you said, where we kind of understand having read so deeply and like tried to see
+from so many perspectives that everyone's got a little bit of a different trajectory.
+And even when we're in a shared space and looking at the same object or in the same
+encounter, even we're perceiving it differently.
+And so you kind of start with that.
+And then you feel as if you can't really put any, anything seemingly objective or ontological
+onto that.
+And then on the opposite side in science, it seems almost, this is all I'm generalizing
+in a big way, but it seems like we take away all of that stuff and try to get to something
+that's very distilled that will kind of work no matter what.
+And, and then that also ends up in a strange constraining place, which I think something
+like active inference is starting to explode a bit.
+And it kind of, for me, has to do with the possibility of modeling.
+And to get into this a bit, I wonder, are you the one who brought in the idea of the
+phenomenology into all of this?
+Because I've started seeing that word coming a lot.
+And I wonder, did you study some of that early on or was that someone else?
+So I'm not the one who brought it.
+That was definitely a Neil Seth, Maxwell Ramstad, and a group of other researchers who really
+started getting familiar with this.
+They wrote a paper, I think on the computational accounts of generative passages.
+This is not the right title.
+I'll send you the paper later.
+But they started it.
+They were very interested in computational phenomenology, but I am also interested in it.
+And I've done some work in that field.
+And my main interest was how phenomenology becomes shared.
+So intersubjectivity and how it can become shared is through the common constructs that
+we have that allow us to parse reality at all.
+And those can be very basic, like time and space.
+You start with that from those basic constructs.
+Then you extend on qualitative expectations.
+And those qualitative expectations then become sort of constrained and patterned.
+And that's how you get to potentially, you know, scripts and culture and language and
+anything like that, that has something that can be hooked onto that allows us to compute
+further than just the momentary thing that's happening.
+So I don't know.
+I just want to say something and see what you think.
+I feel like in a way we're kind of stuck in like a flat world understanding where let's
+talk about something like sentient behavior is sort of what we're trying to understand
+in a way, right?
+Or what you are trying to understand with active inference modeling and so on.
+And this goes into cognition.
+Maybe you can correct me on that.
+And but in a big kind of way, we're trying to understand sentient behavior and cognition
+and all these bigger issues come out of that, of how communities form and different sort
+of pretensions and so on.
+But it still seems like to me, when we talk about it, maybe just in everyday life, when
+we think about behavior or cognition, we still have a linear sort of model of, you know,
+we start with a cell and we end up with AI and that it should all fit together on a kind
+of a line somehow.
+And I feel like what you were kind of expressing with the humanities and this constructivist
+multidimensional view is very hard to kind of fit into that way of thinking or modeling
+in science.
+But I feel like reading your papers, especially the ones on scripts, the polyseemist idea and
+the, I mean, there's many, many things where I'm starting to feel like it's opening up and
+becoming multidimensional.
+I don't know, just saying that, does that, what does that correct me or how does that strike
+you?
+No, no, I think it resonates a lot.
+I mean, the problem, the problem we face with science is that you're trying to establish
+causality.
+That's the thing, right?
+It's easy to establish correlation, but causality is tough.
+And so what you're trying to do is like move away all the possible noise to find one strand
+of possible causal relation.
+So obviously you want to try to make it as linear as possible.
+And ideally you want to make it reductionist because then it's simple, right?
+If you can start with a thing, you can just kind of like start it and it'll become what
+you need with this one principle.
+You don't have to, so that would be ideal.
+But again, this is what I was saying about the emergent structures that only occur on a
+given scale.
+Because we can't yet predict this very well, we are unable to fully grasp how different
+factors come in.
+But we are indeed interested in it.
+And I think that's what Varela was trying to get to with the ecological sciences.
+We are trying to do the same right now.
+Active inference is basically also heading towards having a proper understanding of how different
+kinds of observations lead to some types of beliefs.
+And those can be obviously as varied as you'd like.
+They can take in different kinds of factors, different kinds of scales.
+And they feel like because it's being applied in different fields at the same time, we are
+getting some way to sort of hook all these things together.
+But we haven't quite yet found the proper way to hook them.
+We have a language.
+We have a common language, active inference.
+We have a common set of processes, which eventually all lead back to cognition and fundamental
+principles of how information is encoded on boundaries, which itself is pretty fundamental.
+So in a sense, it's reductionist in that sense.
+But it doesn't necessarily entail that there are no emergent features.
+So the key, I think, what someone will have to come in and do is find properly how these
+things can be connected.
+What my work is trying to do is show that the scales are an illusion.
+That's the work that Maxwell Ramsett has started.
+I'm trying to show that even the internal, external boundary idea is just a function of
+measurement.
+It's not, it's also just an illusion.
+So if we, if we start to understand this and we can cast away these artificial boundaries,
+then maybe we can find the true way in which things interact and therefore the ways in which
+difference, different modeling ideas that are in active inference can connect to one another.
+But we're very far from finding the answer.
+A lot of work still has to be done.
+But I do feel like what's happening is that there's a scaffolding of, of something like
+mathematics, but also just language and description that's come towards understanding
+something, some very basic things like how a body encounters the world.
+So with active inference now through mathematics, but also through, you know, English or whatever
+language we speak, we can start to talk about it.
+It might not be exactly the right way, but we can think of it as, you know, minimizing surprise
+or basically a body moving through its encounter, aligning to those regularities.
+And then when something is against those regularities, having a kind of a different response, you
+could probably explain it better, but, and once we can start to understand this a little
+bit, is it more possible than to begin to understand that multi-perspectival or constructivist
+idea of that every agent would be a different spatiotemporal position, of course, and thus would
+have a different encounter, even as many of these regularities are, are shared.
+Not precisely.
+That's exactly the point.
+That's exactly the point.
+I think this is why this notion of objectivity is flawed by nature.
+Objectivity shouldn't mean what we generally think it means.
+Obviously, any, like you said, any body in the world will necessitate a different perspective.
+If only because I'm looking at this rock from here and you're looking at it from here.
+So our experience of the rock, our regularities related to the rock will be ever so slightly
+different.
+The reason we have a language is because we're constantly trying to collapse these differences
+by hooking up to common experiences and trying to peel away what constitutes an error of the
+difference between our perception.
+That's what communication is.
+We're confronted with this never-ending paradox that what do we hook on to?
+At one point, there's going to be an irreducible difference in our experiences.
+I think that's what Slavoj Zizek is trying to get to.
+Whatever you think of him as a scholar, he does sort of point at this idea that at the core,
+there is nothing because we can't, we can never, it's a never-ending, I think Dorito
+is kind of going in the same direction, it's a never-ending swapping of different things
+which there's nothing behind it.
+I think the answer lies in phenomenology and the fact that we're not individuals that have
+seen only one thing and that we are capable of sort of placing ourselves temporally within
+the perspective of another agent.
+And because we're capable of doing this temporal swapping, we're also capable of abstracting
+away what might constitute some degree of difference and only focusing on this statistical
+regularity that we have both experienced.
+And it's because we are temporal agents and not simply, you know, agents that only focus
+on one point in time.
+That being said, math isn't sufficient.
+That's why phenomenology here is critical.
+Qualia in itself and understanding the relationship between matter and information and how matter
+translates to a representation is not yet a fully solved question.
+And I think it's going to be the, I mean, it's always been the critical question, right?
+It's always been the critical question, but we're so close.
+I think there's two things that come to mind there.
+And it's back to that, in one way, that flatland thing I was trying to say, where I think we're
+smooshed into this binary way of thinking.
+This is a lot about beyond dichotomies and you've already sort of pushed us past them quite
+a few times in the way that you're trying to talk.
+But I do think like the two things are, one is the self-other thing, right?
+I can see what you're saying about Shlav Zizek and all this.
+There's nothing there.
+We could see it that way, but we could also see it that we have a kind of a strange idea
+of what we are, that we've taken the Markov blanket a bit too seriously, for good reason,
+to survive.
+I mean, we couldn't have even gotten here if we hadn't.
+So it's not to say that we did something wrong, but we're in a different place now,
+right?
+That maybe we can reimagine what is the self actually and what is the body actually.
+And we can start to understand that there's a power in that community.
+You know, you write a lot about community intelligence is almost the only kind of intelligence.
+And in a way, if we could kind of have a different realization as the spatiotemporal agent that
+we are, it might shift a bit what's possible in those realms.
+And I think that's also connected to that flat world sort of understanding that we have
+in the modeling too, that because if we could understand that everyone has this unique
+spatiotemporal trajectory from birth to death, and if we could model it somehow really, like
+literally, we would see that there's so much overlap and that there isn't a gap actually
+between all of this stuff.
+It's just how in the world do we visualize that and model that and put language on that?
+Yeah.
+I mean, I think we're getting to the point of like, do we need to recreate the universe
+to understand the universe, right?
+Well, we're sort of doing it right with digital twins of everything and spatial web.
+Like it's a lot of people are like, well, you need to make a map, not a territory.
+And it's like, well, maybe what constitutes the map that allows you to understand what
+is fundamentally just a map, right?
+Like literally everything you perceive is just a map.
+So what we're trying to get to is as close to a map as a map is.
+It's so eventually.
+Exactly.
+That's what I mean by if we can understand it's both, that's the dichotomy.
+It's either a map or it's a territory.
+That's the way we think right now.
+It's either I or other, I mean, but it's so hard for us to open, like that's the cognitive
+shift.
+Where's the third space or, or even the multiple space where both of those are okay.
+You know, map and territory are not a choice.
+They're different ways of understanding a process that's kind of inseparable.
+No, absolutely.
+And I mean, again, it's like this map territory idea gets back to, again, information and matter.
+And effectively, there may not even be a real difference between information or matter.
+Now we're getting into like, like physics and I'm not going to go there too much.
+I will refer people to Chris Fields if they're interested and he will have much better things
+to say than me.
+But effectively, I think what we can, what we consider to be a territory at a given scale
+is just a map at another or, and so that distinction is really just a function of your
+perspective and the way that you measure reality at this, at this point in space and time.
+But it's still important.
+That doesn't mean it's not like it suddenly becomes meaningless.
+Right.
+You know, that's, that's kind of what I mean as well.
+Like, I feel like people put valence upon certain terms.
+Like you, you had to sort of shield yourself from criticism by saying, it's okay that we've
+made this blanket important.
+It was, yeah, of course it is.
+Every, every process is effectively natural just by virtue of existing.
+So we shouldn't put a label on it, but we should, every time we qualify something as
+bad or good, it's relative to an objective that we had and that is being hindered by this
+thing.
+And so you could say that relative to this thing, this is not helpful in this local scale,
+but if you blew it up to maybe 10,000 years, maybe it would be because maybe this is a calling
+mechanism or something of some kind.
+So like we don't, we can never say something as blanket as that.
+We can identify tractors relative to a state we have identified as preferable right now from
+our perspective, but obviously these things change.
+So if you're talking about the distinction between like, or, or the ways in which we
+are focusing on what constitutes our mark of blanket, I agree.
+And I don't think this is a new idea or that, that we need to focus on the community.
+I think religions, at least a lot of them have been saying this for a long time.
+I'm not going to talk about Judeo-Christianism, although, you know, there's interpretations of
+it in that sense.
+I'm really talking about more about Hinduism and Buddhism and the religions that preceded them.
+It was very much about this idea that this, this mark of blanket is an illusion.
+You are hyper-focusing on what constitutes the ego and you're, you're kind of missing
+the, the force for the tree.
+And if you understood that this boundary can be relaxed, that you can sort of shed that
+even in your own mind, which is something that I know Lars Senved writes a lot about,
+about meditative practices, they do, yeah, Jonas Mago as well.
+You can relax these and effectively your, your feeling of boundary goes away.
+Maybe effectively your boundary does go away because boundary is a function of measurement
+to some extent.
+So, yeah, I think this isn't really a new idea.
+I think a lot of our scientific concepts have been like largely influenced by these ideas.
+I think it would be, I think a little, a lot of hubris for us to say that we've come up
+with this.
+In effect, like Foucault kind of nailed it.
+I'll do through as well.
+We never really get away from prior philosophies or ideologies, kind of build on top of them,
+even if you push them down.
+So it's the same thing here.
+I think the one is all or all is one is definitely central to this idea.
+It's just that now we have very formal math to put on top of it.
+Sure.
+I mean, even kind of something like what Slavov Zizek is saying and, and the Buddhism could
+be understood as different ways to a similar place in a sense.
+I mean, all of us are in a way trying to grasp it and also at the same time changing it.
+But as you were saying that, it does make me think that there is an importance to an understanding
+that the representation, which I think is what it usually meant by map, isn't the process.
+I don't know.
+I think you might push back on that or maybe, maybe you agree, but I do think sometimes we
+confuse the representation of all of this, like the actual maths or the language or the
+image or the marker itself with the action that that marker is creating in the world.
+Do you see any distinction there or do you still just kind of say it would all be, you know,
+the same?
+I'm not sure I understand the question.
+I feel like I might have an inkling, but I can answer one part and then you'll have to
+maybe clarify.
+Yeah, I can explain.
+So to me, a representation can be a process, the process of representing and representation
+is simply a momentary byproduct of this time of representing.
+And you could qualify a representation as, let's say, a manifold or a path, but it's still
+a function of this action of representing.
+And therefore, I don't think they're differentiable.
+Like, for instance, the self.
+I know that there's been a lot of theory that push in that direction, suggesting that the
+self is selfing.
+It's not a thing which exists.
+It's a process of engaging with reality and through the boundary, therefore having a sense
+of what constitutes what you need and how you can act relative to what you need and what
+are the constant elements or more consistent elements of what you need over time.
+And that's why we have a sense that something core to us remains, but over time we change.
+We can see that nonetheless.
+You are not the person you were 10 years ago, hopefully.
+So can you clarify your question?
+Like the ship of Theseus a bit, you know, all the parts can change, but there's a pattern
+that remains.
+I think I really mean it in a literal sense.
+I mean, of course, this word representation in neuroscience, we use it one way and philosophy
+we fight about it in another way.
+It's like, but I really mean it as re-presenting.
+So let's try to go back into the personal a bit, like something, you know, about with
+social media or something where there's an image that is itself not ever static, but that
+we might confuse that image with the actual trajectory to which that image is connected,
+I guess, you know?
+Yeah.
+Okay.
+So that's, okay.
+So there's multiple ways to tackle this question.
+In neo-materialism, the idea would be that everything is about how things interact.
+So effectively, you should always separate the interacting elements, but at the same time,
+there is nothing that exists prior to that interaction.
+So in that sense, the image is its trajectory.
+There is nothing that precedes its trajectory because it's not a thing in itself.
+It's a thing which has effects in the world.
+There is another way that you can consider it, which is there are multiple paths that can
+be taken and will sort of find a connection point, even if they are not aiming from the
+same direction and they're not going in the same direction.
+And in that case, you could say, well, yes, okay, so that point here is essentially meaningless
+because you could have taken it from that vector or that vector.
+And therefore, the image in itself doesn't necessarily contain anything, which dictates
+the vector you're going to take.
+So I'm going to, I'm sort of going to caveat that in two ways.
+The first way is that, yes, you could have taken multiple vectors, but there's a finite
+number of vectors that go on.
+It's not exactly true, but let's assume that given some regularities, there's a finite number
+of vectors relative to all the other vectors that go through that point.
+So it is constraining in any case, it is constraining.
+For instance, an image will be perceived, and I know this sounds silly, by people who
+can perceive it.
+This means anybody else who can't probably will not be affected by the image in the
+same way.
+So there is a regularity here.
+There is a constant.
+Sure.
+I think there's affordances of insects not going to encounter that the same way.
+But the second thing is there's other regularities.
+Like, for instance, you could say that this is a pink shirt.
+This is just a pink shirt.
+There's nothing in the shirt that says anything more than it's a pink shirt.
+It's not even really a shirt, actually.
+It's just cloth.
+But I know that it's pink.
+You know that it's pink.
+And most men in North America know that it's pink.
+They therefore most likely will not wear this sort of cut with the shoulders and the pink.
+Some might, but in regularity, they will associate this very traditionally with femininity.
+And you could say, well, it's not contained in the shirt.
+It's like, well, it's true.
+But the historicity can't really be abstracted from everyone's cognition because they exist
+in a world where that historicity shaped their cognition.
+So it's not quite true that the images should be separate from their trajectory because part
+of their trajectory was already defined by the patterns that we gave them.
+So I don't know.
+I hope that answered the question to some extent.
+I mean, it's more just a topic I try to explore.
+But yes, I mean, I love what you're saying.
+It's just, I guess my, I think there's something different about something like a language or image
+because of the intersection of all the different trajectories in this kind of way that isn't
+connected to a body, one body.
+It's so like, as you described your shirt, that's, that's a very interesting.
+And of course it depends on all of our, as humans, all of our trajectories of how we've
+been taught what pink is as kids.
+And like, you can't separate it from every moment of our life, exactly where we live and
+so on.
+And of course, in different geographical or emotional or conceptual spaces, we'll have
+different understandings or experiences of, of that shirt or a doll or whatever we want
+to talk about.
+But I think we, something happens in society all the time.
+I don't know if you agree that we assume that we're all experiencing that shirt.
+Your shirt is now the object of, of this conversation, but we all experience that shirt and we think
+everyone's experiencing the same way we are.
+And so what I'm trying to do is like, I don't feel like we pull it apart enough to understand
+that, yes, it's connected to trajectories, but not one trajectory.
+And that all the time, everything that we're encountering is being processed differently
+according to each space-herotermal point.
+So there's a sort of system three, I like to think of it, you know, instead of fast and
+slow within the body, it's more of a community, you know, Daniel Kahneman kind of processing
+that's going on.
+And I just, I feel like if we could put some focus on it like that, it could be helpful.
+Absolutely.
+And I think, okay, so let's talk about maybe a topic that's a little bit, it shouldn't
+be, but it is controversial.
+And explain how that factors into the question.
+What has the queer community tried to do by calling themselves queer?
+They've tried to take a statistical pattern and sort of nudge it away from where people
+want it.
+So this isn't saying that there are statistical patterns doesn't mean they're set in stone.
+It just means when you take a population, they're likely to be on some distribution to
+think in a certain way.
+But you can push the distribution somewhere else.
+And that's why I like this statistical manifold, because it doesn't really, first of all, it
+doesn't say that you and I will be on the same spot.
+It says we are likely to be within a range, most likely, but we might be in different points
+on the range.
+And then it says, well, okay, if this constitutes an attractor and I know how much, what factors
+contribute to it being an attractor here, I can use these same factors and push them over
+here.
+And I think that's, that's kind of brilliant and beautiful and empowering because now we
+know, well, we can just reappropriate a bunch of things.
+I can decide that pink is not a feminine thing.
+In fact, it's not, it doesn't represent that at all.
+Now, the problem is I don't control every factor.
+Like I'm still going to get perceived as a woman.
+And so, well, by virtue of association with a woman, okay, but I can make or ask people
+who engage with me if they are not considering themselves women to wear pink.
+And I enjoy that and it makes me happy.
+And if they want to contribute to that, they can.
+And lo and behold, most of my boyfriends have worn pink.
+Like it's, it's no longer associated with femininity to them.
+It's just associated with happy and joyful and cool.
+I was about to say, I'm usually pretty cool guys wear pink these days.
+Right, exactly.
+Yeah.
+But it's, that actually speaks to something really fascinating too, is that how these
+prior, these statistical regularities can shift according to something like awareness.
+It's another topic I wanted to ask you about a little bit is like, do you see a difference
+between this cognitive and the kind of conscious or being or awareness or attention?
+Because you were talking about Buddhism and all of this.
+And I think in some way, if you start in that tradition, you're aware of everything as one
+and the whole and so on.
+And there's some kind of way in which the dichotomy side of things that the reductionist side
+of things is kind of, I don't know, not as familiar.
+And then, you know, vice versa, if we want to give these big kind of awful generalizations
+of different religions or parts of the country where you start with a more reductionist and
+the idea of thinking of everything as whole is different because you're, it's about the
+individual and, and all of this.
+And it seems like the thing that changes that is what you're just describing with in terms
+of the shift.
+Like we want to shift pink is going to be cool.
+And, you know, who knows in 200 years, maybe only guys wear pink because it's shifted all
+the way to there.
+But what does that?
+Is it something like awareness?
+And I want to try to link this, you know, to the active inference work, but I wonder how
+you see that, like consciousness, cognition, intelligence, are those different?
+Where's the attention in that for you?
+Oh, no, I mean, I, in general, consciousness is broken down.
+Awareness is just one part of it.
+And I think that's probably correct in the sense that sentience doesn't necessitate awareness
+per se.
+I don't think, I think you could have, well, I mean, awareness in the sense of an integrated
+perception, an integrated qualitative perception is more what I'm going to say.
+Yeah.
+And I should have, I'm sorry, I don't mean consciousness the way it's always talked about
+where it's like, you're aware of yourself.
+I really just mean the feeling of being alive or being alive, being itself.
+And that can, of course, you know, become being aware of your own self as a self and all
+of that.
+Yeah.
+I mean, see, this is an interesting question because it gets to the core of what constitutes
+qualia, right?
+Like, is, is qualia only this right now, what we think we're experiencing together?
+Or does it go much deeper in our cells to some extent conscious and have some degree of
+qualia by virtue of being able to react to, into information in a way that like pushes
+entropy away?
+Because, you know, lots of things react, like potentially if you kick a rock, it moves, like
+it has, you, it has had a reaction to what you did.
+It's just not a reaction that effectively felt like an action.
+It didn't feel like it had control over where it intended to go next relative to where it
+wants to go.
+And there's a lot of words in there, right?
+Like want to go, like the, the notion of wanting seems to be central to what we consider to
+be life or consciousness.
+So if, if these are more, we consider to be consciousness along Mark Solms, maybe a lot
+of things might be more conscious than we think.
+And they may not require what we understand to be awareness.
+But if we break down awareness to its more, most central component, i.e. there is some
+information that is encoded and acted upon, or at least gained more precision.
+I feel like that's, that's closer to a panpsychist even conception of what constitutes consciousness.
+It feels like something's missing though.
+Like if, if awareness is all that's required, then what happens when you meditate and you
+become sort of like flatly aware?
+Are you not conscious anymore?
+Is it, is there no precision here?
+What, what constitutes like the, the very nature of a color or something?
+Is it, is it that you break reality apart somehow and you encode it such that it has
+differentiability?
+Is, does it, is it, is that required?
+I don't really have the answers to this question.
+No, of course.
+We're aiming in a direction, but obviously this isn't solved.
+Well, so yeah, I guess like you said something earlier about it, not, nothing being said in
+stone and I kind of think sometimes we do think of representations as set in stone, like the
+colored, you know, is, is what it is, or the math, even when we, when we represent something,
+we just assume it's static.
+And in a way it is static in this weird universe that we've built of language, right?
+It does move, of course, language changes, words change, but in that kind of, if you just
+take a very tiny slice of it, it, it seems static relative to every, everything else.
+And I guess, you know, when you talk about qualia or something, that's digging into that
+a bit of, I don't know that I really think there is qualia actually.
+Like, I think, what if we just go back down to the very basics and think of something we're
+always measuring or assessing.
+So this is a measurement or assess an assessment already, but we do that.
+The body does that with itself, right?
+And that could be something like qualia, or that could even be something like thinking.
+And that's kind of different than me verbalizing that in language, but the action itself,
+it feels to me, the same kind of action of an agent moving through its environment in an
+active inference sort of way, adjusting to regularities, you know, all the stuff that
+active inference describes.
+I don't see how that doesn't also apply to something like me as an agent who now has
+language, considering myself as an agent and thinking of my own thoughts.
+To me, it seems like the same process.
+I mean, I agree.
+Effectively, everything is recursive, right?
+Like, I know that Maxwell really likes this idea of, oh crap, you know, when you have
+these figures that are recursive, I forget.
+Fractals or?
+Fractals, thank you.
+I love fractals.
+Yeah.
+So he's passionate about them.
+And to him, that's how you can perceive time and reality and space.
+And I think I agree with this.
+It's all quite recursive.
+So the notion of saying words and hearing them back, if only for yourself, but also from
+others and getting pinked back, this is a very fractal pattern where we're going to
+get more and more precise.
+So I think there's something to that nature.
+And if we go back to your initial question, which was how does awareness and consciousness
+factor in being able to shift societal patterns?
+Um, I think it gets to an interesting question of whether a group can be conscious as opposed
+to just individual units within the group of conscious.
+And then they produce patterns, emergent patterns.
+And I think Mike Levin also gets to these questions as to whether intelligence and therefore
+to some extent, potentially sentience can happen in the relationship between nodes.
+And I agree with that.
+That's what you said earlier, right?
+The intelligence happens within communities, even if it's communities of cells that exchange
+information.
+Here, I think that there's a possibility that what we're experiencing is just not fully
+being at the level of the sentient layer that is above us potentially, but we are getting
+some messages from it, some signals from it, which constitutes culture.
+And so what we're doing at this level is telling it, whoa, this doesn't work for me.
+Oh my God, move, move, move.
+And, and, and when this pattern agglomerates enough, when there's enough of a signal, it
+gets passed upward and potentially that's when it starts shifting like an Ising model
+type thing.
+So I could totally see how by being the only way for you to move things somewhere else
+is by being able to measure what the thing is now.
+So yeah, I do believe that in this sense, there's a degree to which awareness factors in our
+capacity to move things because I think awareness or focus gives you the, the capacity to, to
+add precision to determine how far away from your desired or preferred state you might be.
+Um, yeah, you mentioned Michael Levin and we could think of it as kind of, as, as ways
+where we're navigating like intelligence, we could think of it as the way that life or being
+or whatever we want to call it is making its way or navigating, whatever the encounter is
+that, and it could be at different landscapes.
+It could be in the geographical world, you know, as an insect doing whatever, or a human, it could
+be in conceptual space, it could be in linguistic space, morphogenics, all these spaces, right.
+That, that we are setting as we're measuring.
+And I guess something like that, what you just described, which is a very important issue.
+It's kind of in the human social space and that space, perhaps changes through communication or,
+you know, you talk about potentiations and it's a change in potentiations, I guess, or
+pretensions, am I saying it wrong?
+The Herschel, the Herschel idea of like,
+Pretension?
+Opportunity, yeah, right, thanks.
+So, in a way, when something changes in society that's changed in the laws or something, such
+as the way women are treated or what our rights are, it, what has changed there?
+Is it that in this navigating space, certain spatiotemporal agents have expressed through
+the system three languages or whatever, what's happening and that it's wrong and somehow
+spread that through, through the group so that the group itself understands that it's
+wrong?
+Or, I mean, this is all very hard and awkward, but I just like, you know, how do we get an
+idea of what's, what's happening there in terms of something like changing, minimizing surprise
+or changing the priors or?
+So, to me, it's akin to structure learning, where you're essentially carving different ways
+that you can have observations mapped to states or different ways that just states in general
+are carved.
+And then you do Bayesian model selection, where you determine that a model actually
+works better for you to minimize free energy.
+So, I think that's, that's what it is when you add a new state, for instance, like when
+you're, when you're saying there's a new concept, here you go, you're now proposing that there
+may be a better way to measure reality.
+And therefore...
+It's coming out of something, right?
+Like it's a script to, you're changing the script.
+So, it's not that you just proposed a new concept.
+It's that you've together shifted the script's regularities, right?
+It's embodied.
+Exactly.
+It's embodied.
+None of this is fully one or the other.
+It's, it's completely connected.
+And this gets back to the historicity, right?
+Like I, there has been historically groups that feel a lot of error and eventually it gets
+to the point where they, they have to act on it.
+They have to do something about it.
+And because some slight, subtle shifts happen in other places, they get more and more and
+more of an opportunity to have a policy that is going to actually phase shift them away
+from the prior situation they were in.
+Unfortunately, those phase shifts are never as clear cut as we would like them to be.
+It seems like anytime you really integrate a new concept, a new, a new script, let's say,
+it does constitute a phase shift, but there are still things left over from the past.
+So we can see it in the historicity of the US, for instance, right now, a lot of people
+saying, oh no, no, this thing is over.
+It has been over for 200 years.
+And the rest of the people are like, maybe some concept seems to have changed, but there
+are still a lot of artifacts from the past that have followed us regardless of this ability
+to break the representation in different ways.
+So it's not, I don't think it's as simple as we change the representation and the embodiment
+will change. It's more like there's errors.
+You change your model of the world and thus you will now have also probably to change
+your actions because with a new model, it may be possible that the prior policies you
+were on no longer fit.
+And so now you have an uphill battle to get the rest of the system to follow you to actually
+changing this policy.
+So I think this is what we can observe and I think it gives a lot of credence to this
+idea that social groups in general act like their own Markov blanket, like their own agents
+to some extent.
+Yeah, sure.
+It's again where you're setting the scale of the Markov blanket.
+But that's very fascinating to think about in terms of the role that technology plays in
+that change.
+So something like one of these movements where people are treated wrong and clearly,
+you know, seen in a way that's not accurate and they have to change that by coming together
+and, you know, shifting the regularities more or less often with something like, you know,
+force, whether through language or image or whatever, often technology plays a really big
+role in that.
+I mean, because as you were talking, we have to remember all that's developmental and there's
+no gap, it's all coming from many trajectories joined together and technology has been a
+way that people, like the first images of, you know, when people saw it and they knew
+it was real or something or, radio, TV.
+Now, you know, we can go all the way through the internet into something like AI.
+So two things as we kind of wind down is I wonder how you see the role of, of technology
+in this and, you know, it does relate back to your own work and where you started and where
+you are now, but you're now using technology in a way to maybe help open up some of this
+community change space, or I don't know, maybe that's too idealistic, but I would just wonder
+what you think about that.
+And yeah, I'll just leave it there for now.
+So this is a sort of grandiose idea, but if we understand consciousness as the capacity to
+integrate information such that it is encoded on a form of boundary and that boundary is sort
+of aimed at potentially maintaining the agent that has the boundary and you consider AI to
+be anchored within a system, I think what it says is that there's a possibility to make
+more manifests, this integration of information through what AI can do, which is basically integrate
+information and synthesize this to do something useful, which is what cognition does, right?
+That's what we do.
+We're trying to get to that.
+Unfortunately, currently we're getting to a point where we can only integrate certain
+kinds of information.
+And when we do integrate it, it can only do a certain kind of thing.
+Like it doesn't do everything.
+It does one thing very well, or it does another thing very well, but not both at once.
+And it can't generalize from one to the other.
+We're trying to get towards that.
+That was what people thought they saw in chat GPT.
+They thought they saw a generalist.
+Turns out it's not exactly a generalist.
+It's more like a really, really, really, really good language machine that because
+language is structured and generally what you feed into it is structured patterns of
+language.
+You don't just feed it garbage.
+It tends to have encapsulated some of these regularities, but it hasn't encapsulated the
+the understanding, the causal layer that allows you to understand that because thing is this
+way, another thing is this way.
+That's not quite what chat GPT has or GPT in general.
+None of the others do either.
+LLMs in general.
+We are getting towards a point where we might, but the point is it may become this sort of,
+you could say conscious, you may not want to say conscious.
+You could say overarching layer that integrates information.
+And that's kind of beautiful, but at the same time, a little scary because I think I know
+who I am.
+I think I know what groups generally think I belong to them.
+I don't know what boundaries are encapsulated within the system that is bounded by a given
+AI system.
+So when you, when you, when you're sick, when something goes wrong with your body, your body
+fights it, it tries to get rid of it because obviously, right, you want to maintain your
+regularities.
+I think everybody is sort of seeing AI in this way and see, and that's why you saw the emergence
+of Grok, which was a non-woke AI because people were like, well, I want to be the thing
+which is represented in that boundary.
+I don't want something else to be represented.
+People are very afraid of biases in AI because they're like, well, if AI is going to be this
+integration layer and it thinks something is good and I don't constitute what is good,
+it's going to discriminate against me.
+And we've seen that we've seen AI discriminating against sub-communities because the historical
+data chosen had this pattern of discrimination that identified these groups as groups that were
+not part of what is represented in the AI.
+I think that's clear sometimes that the LLMs at least are trained on data and it's just
+like we were talking about with a life, you know, as, as we develop, we're sort of, everyone
+says stuff to us and they tell us pink is for girls.
+So that's what we spit out unless we see another option or someone, you know, breaks that open
+and, but with the LLM, it can't learn anymore.
+So it's just whatever you've put into it, it's just going to stick on that.
+So, well, I mean, there are our LHF patterns, so, you know, we, we could, the problem is
+we haven't figured out how to do it.
+Well, so the continual learning is not exactly continual.
+And that's kind of what active inference AI is sort of trying to do, right?
+Right.
+So that's the thing.
+So active inference is supposed to be non-static by, by very nature.
+And so you, you would constantly have a system that adapts to its surroundings.
+But I think this notion of a biased AI needs to be a little bit flipped on its head.
+And maybe what we don't need is an unbiased AI, maybe what we need is a lot of very locally
+biased AIs that just focus on this perspective that understands it has a perspective and is
+couched in that such that we would know what to use at a given time.
+That's a wonderful idea and so dangerous and so wonderful because it really matters then
+that everyone understands that they're biased, that the AI is biased.
+So that's again, that awareness thing of how do we, because that, that's actually really
+smart what you said.
+I mean, that, that could work if everyone understood that it's biased.
+It's kind of like with the social media where we, people don't understand that they're in
+a feed that's giving them an orientation of the world.
+But if we understood that we could even play with it and look at all the orientation.
+So there's always a scaling too of awareness, I guess, to go back to that.
+No, absolutely.
+I think it is.
+I think the key question is who gets to define the bias that we're going to adopt for a given
+situation.
+And that's not a solved question, that that's where we get into ethics.
+And again, I think technology is starting to wake up to the fact that they need ethics
+in order to do anything because their power can no longer go unchecked.
+Like lots of companies have ethics boards now.
+So these tools are coming.
+I hope they come fast enough.
+Yeah.
+And there's a transparency in active inference AI, at least that's, they're trying to build
+that in your, you know, so it's, people are aware of it.
+It reminds me of like the priests who used to only be able to once to read so they could
+sort of dictate what the Bible said.
+And then everyone learned to read and it sort of changed.
+I mean, maybe we're there with AI in a weird way and who knows, but you know, just to kind
+of end it and come back to your own, you know, we started with, with your, your story and
+I wonder those problems that you started with and ideas and questions, have you found, you
+know, in learning to code and going through all of this really hard work?
+I mean, this is not easy to digest all the information you digest and like what, how has
+that changed your own trajectories and paths kind of in the scope of what we've been talking
+about or has it, I don't know.
+So initially I started with a very deep love for postmodernism and then I had to exist in
+different circles that were very much not postmodernists and it, it changes your perspective on things.
+It makes you qualify things differently.
+And now I'm sort of going back over the pendulum where I'm like, hmm, this qualification of these
+things I used to like had a purpose.
+They were trying to do something which was pushed back on the possibility of critique
+and pushed back on the possibility of control of what they're doing because they want to
+maintain a certain order of things.
+And so now I'm sort of going back over these things and having perhaps more nuanced perspective
+over my previous leanings, but I'm still finding that these tools are useful, like constructivism.
+These are very, very useful frameworks to understand what's going on and how we might be
+able to counter it, such as educate everybody, just give everybody the tools to understand
+what's going on and use them as well.
+Don't just let it be in the hands of a very select few who then get to decide without your
+input.
+And therefore maybe you'll be on the lucky side, but maybe you won't be.
+Does that have to do with self-esteem too?
+Another topic that you've written about, does all that stuff you just said, having that
+and bringing that back in, do something for the phenomenology of the spatiotemporal sort
+of awareness within the Markov blanket in terms of empowering or giving some?
+Yeah.
+I think, I think self-esteem is, is just a tool, a tool that enables you to either try
+to fit within the group.
+If you find benefit to it or flip against the group.
+If you find that this isn't working for you and there are obviously psychological factors
+that either keep you within a low self-esteem or allow you to try to flip such that you can
+now grow your self-esteem relative to another group.
+I think that's why it's important for certain movements to say X is beautiful, because it
+doesn't matter whether they believe it or not, it doesn't matter whether others believe
+it or not.
+What it is, is a social tool to help them grow their self-esteem, to create enough momentum
+that they can now be represented in something where their interests and beliefs are forefront.
+All right.
+That's good.
+There should be more questions, but it's over, the hour is over for now and that was, that
+was a fun ride.
+So thanks so much.
+I really appreciate your perspective and the work you're doing.
+Well, thank you for reading it and chatting with me.
+That was great.
+All right.
+Be well.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.
+Bye.

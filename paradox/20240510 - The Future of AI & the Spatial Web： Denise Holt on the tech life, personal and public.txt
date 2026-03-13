@@ -1,0 +1,547 @@
+space itself becomes a domain and the modeling language is what's used to program those spaces
+and it can program all kinds of things the ontology for the programming language it takes into account
+activities it takes into account credentials it takes into account all kinds of aspects
+multi-dimensional aspects about those things and what's occurring with them over time in that space
+and with whom and who has access who all kinds of things like that like if it can be measured
+in uh physical or digital reality it could be programmed using the the hyperspace modeling
+language hi denise i'm so glad you're here today hi andrea thank you so much for having me i'm
+excited to be here i am really excited about your work i have to say sort of found it through my
+collaborations with active inference groups and i really love what you're doing the podcast the
+sub stack so i really want to know how you got here how did you get into this well versus ai they're
+leading this whole effort with the active inference methodology being used for ai they've got carl
+friston as their chief scientist not a bad chief scientist i must say right so um one of the original
+founders dan mapes um is a long-time friend of mine and so i've known that he when he and gabriel renee
+started versus back in like 2017 ish um i knew about it i knew what was happening so i've been kind of
+following along in the shadows watching because i knew what the vision was i knew what when i did unfold
+and grow and expand and um they wrote the book the spatial web back in in 2018 i think it actually
+was published early 2019 but that laid out this whole vision and then they started um collaborating
+with carl and it all just expanded from there so about two years ago talking with dan um we hadn't been
+in contact for a little while and we were catching up and he was telling me that versus had just gone
+public up on the neo exchange up in canada and that the platform was going to be launching to the
+public within like a year and a half ish that was the project projection at the time and i was like oh
+okay there's a transition mindset here people know about this at the time i was really heavily working
+in the web 3 space and you know in technology for my adult life i've always been kind of a tech nerd
+and like when um back in like 19 i want to say like 1998 ish i was using photoshop and i started really
+getting into these 3d graphics programs back then like ray dream studio and bryce and all these rendering
+time was painful yeah so that was actually one of the big motivators that really got me diving into
+technology was i was using these programs on more of a creative side but to be able to actually make
+them useful with a home computer i just started building my own computer yeah i think that's what
+i'm trying to figure out about you a little bit what's the driving motivation because when i listen to
+your podcast the spatial podcast i i think it feels to me that something is motivating you more than just
+that you want to be a podcaster yeah so no and i have a lot of so what i've done i mean i have my
+podcast but the way i've done all of my writing around this and um the podcast and yeah you're a
+writer first we should say that i write a lot better than i speak well you clarify things very
+well we'll get into it a bit but this deep learning versus spatial web active inference um ai i mean i think
+some of your writings on that clarify it really well but we'll get into that but anyway yeah yeah
+so what i've been what i've been building is a media vehicle around all of this and it's because
+i have a bigger vision with it when a lot of it has to do with the technology that's coming out
+with versus in their platform i really see that when their platform comes out and it enables anybody
+to be able to build one of these intelligent agents these active inference intelligent agents
+um within our internet because that's what's happening with their platform our internet is
+is expanding into this 3d digital twin space so it's going from the worldwide web to include all entities
+and the programming language makes context into all the things in the spaces and relates them to
+activities and it's all credentialed and permissioned and everything that informs the ai that coupled with
+the internet of things sensors everything that's going to give these active inference agents the
+real-time information to learn from their perspective within the network all of these agents are going
+to be aware of each other they're going to be aware of the network it's gonna i feel like we're about
+to see this explosion of development yeah it's almost i mean it's what we we should probably back up a
+little bit because when you say the vehicle you want it to be a vehicle do you mean sort of a place where
+people can come and start at as a beginner or any place yeah and so at this point yes education i feel
+like is the most important aspect because there's a lot of people that are building amazing technologies
+and one of the biggest problems especially with the web 3 technologies with the extended reality
+technologies is that they're all just disparate technologies it's really hard to bridge that
+interoperability gap and that's what the spatial web is going to do so it's going to do that and
+then also empower everything with ai so to me it's exciting because all these people that are building
+these amazing products within those spaces i feel like they need to know this is coming because it's
+going to solve a lot of their problems it's going to expand their capabilities and i feel like it's going
+to usher in this um kind of augmented reality mixed reality existence that we've all kind of envisioned
+but the foundation hasn't been there and this is yeah so like let's try for people who maybe even
+haven't never heard of spatial the spatial web yet or web 3.0 even because there's a wide variety of different
+people who are going to probably watch this but so what do you think of as 3.0 or web 3 and web 3.0 maybe you can help
+me and others understand what that means yeah so that's a really important distinction so um to me
+web 3.0 refers to the technologies themselves right the um so you mean like augmented crypto okay blockchain
+crypto augmented reality virtual reality internet of things um all of these technologies that kind of
+enhance that web 3 space web 3.0 is simply the next evolution of our internet protocol so um the worldwide
+web that's web 2 mobile with the worldwide web was 2.5 and we are about to evolve that into web 3.0 which is
+also called the spatial web and what's interesting is versus actually created the protocol but they
+donated it to the public because nobody could own the internet it's just that the protocol had to
+evolve into into this 3d digital twin kind of space to where like it had to become a spatial protocol it
+had to take us away from a library of pages and documents like the worldwide web um it had to take us
+take us away from the concept of the internet has always been this decentralized vision but it's
+impossible with the worldwide web because all the transactions take place under the umbrella of
+whoever owns the domain and the domain is the website so it's a centralized transactional process right
+right um so you don't you it's self-sovereign identity is impossible um security is really difficult
+the worldwide web is the most unsecured environment to even try to be using all these technologies in
+because um the only permissions you the only permissions you're granting within the worldwide web
+is do you agree that they can have all your information and data or not there's no nuance to it at all
+how long will you pay for whatever service or right right so um what's really interesting with the
+spatial web protocol which is hstp hyperspace transaction protocol and hsml hyperspace modeling language
+um so versus they've developed the protocol about three and a half years ago donated it to the public
+to the ieee which is the largest core standards body in the world they develop core standards for
+anything that's like a public good as far as a technology that's going to be used globally
+that's wonderful what is the protocol though for people who have no idea what we're talking about
+what's like maybe we should even let's just think like let's think of a little narrative of
+so we have we'll skip the invention of the internet and so on up to kind of the fact that it's a part of
+all of our lives and we're all using it we're all embedded in it we all sort of take it for granted that
+this is what happens like that this is just the way this kind of technology works that you go to
+a two-dimensional or whatever depending on how you're looking at you go to a page and that's what
+uh the web is it's that's html and all these different coding languages are writing these uh
+things that end up just being pages that you visit um and there's always a medium someone owns the
+service usually and you have to kind of go through them so that's kind of what you're saying is
+you're basically handing over your data and rights in this way and we've just assumed this is the way
+it is right this is how it goes yeah and what you just said is that and i think i've heard or seen
+it somewhere maybe you wrote it or dan or i don't know someone that instead of the page in this whole
+way that i just described we're going to start thinking about space itself as the interactive um
+environment i wish i had the i guess like instead of programming a page you're going to program
+the space i think that's what the quote was that's a completely different flipping weird
+way of thinking about this thing that's now become normal for us which was also very weird when it
+first came out the internet so that's what this like you just talked about um hsml which i think
+is so cool even just the name hyperspace modeling language oh my god as someone who knows a little
+bit about programming it's like it's very exciting but um for someone who doesn't know anything about
+like what this means how would you just you've done it in your writing and i'll link to it but just
+how would you kind of introduce them to what what's going to change what could change what's happening
+with spatial web so you know instead of having website domains all entities become a domain so people
+places things um they become domains that are programmable and you're not going through a medium anymore is
+that right yeah the space itself becomes a domain so um and the modeling language is what's used to
+program those spaces and it can program all kinds of things the ontology for the programming language it
+takes into account activities it takes into account credentials it takes into account um all kinds of
+aspects um multi-dimensional aspects about those things and what's occurring with them over time
+in that space and with whom and who has access who all kinds of things like that like if it can be
+measured in a physical or digital reality it could be programmed using the the hyperspace modeling language
+the spatial web talks about being natural and and the way you just described that that sounds like a
+human life that kind of develops and you have a history and a trajectory which we don't have in deep
+learning you just have a or programming it's totally different way of thinking about it um does that make
+sense for you because i think a lot about how we each have these kind of paths in life and so on and so
+forth and um something like a deep learning ai has has not anything like that um right yeah no and what's
+really fascinating though is that you're programming these attributes about the physical life but also
+about a digital realm too right so sort of that means that everything then becomes a digital twin and then
+you can run simulations with the digital twin you can do projections you can um you can run simulations
+to find out all kinds of things tweak parameters and stuff and it's going to um really give us a lot of
+control with this simulation aspect of it businesses will be able to run real time real simulations based off
+of real data and real things and um make better decisions we'll be able to address things like
+climate change problems and stuff and run simulations of our planet and really be able to see what we
+need to do to what degree to get the results we want when you think of smart cities um city planners
+will be able to run simulations and really find out what's going to be effective what's going to make a
+difference for the population for systems within the city in a way it's um giving us
+better predictive processing skills by sort of yeah by having this twin simulated layer but i guess
+what i'm trying to envision is like do you okay so do you imagine i could just walk into my garden
+and simulate what i might do there in that space or would it be more like similar to something that
+we're used to where i would go into a vr environment or even something just normally like a computer screen
+and simulate what's the difference in the way that everything is linking together i i think what we
+need to really take into consideration is that um a lot of things are going to be evolving over the
+next even just the next couple of years trillions of sensors are coming on board over the next 10
+years and those are all sensors that are going to play a part within this network as far as ai is going
+to be able to interact with it with the information coming in off of those sensors um it's going
+to be imperative that we have ai to help us parse all this information and then devices are going
+to evolve i mean we've already seen the apple vision pro and you know what that kind of does um
+there's going to be different types of of devices that evolve once it's like with any technology once
+there's new capabilities then people start refining how you're going to integrate with it
+some kind of wearable perhaps or some kind of i mean we already talk about this the biological
+not implantation or something but more no but like the you already see stuff like with the little
+retina things all kinds of implants and stuff for percusins i mean it's there's plenty of examples um
+but i guess what i would like to try to clarify before we talk more is what are the kind of main
+goals of spatial web or maybe not even goals but priorities that are different from the deep
+learning world because we've already tried to mention them a few times but so what it enables
+is a completely different type of ai than deep learning because it it enables distributed intelligence
+at scale so the big difference is obviously you've got deep learning and then you've got the active
+inference and they function completely differently they're two different methodologies but what the
+spatial web does is it gives this common language for all of the ai to the intelligent agents to
+communicate with each other across that network so it it enables a network where you can have multitudes
+of these intelligent agents that are all learning from their own frame of reference within the network
+people will be developing these intelligent agents humans will be developing these intelligent agents and
+imparting their own knowledge into them right so it's going to preserve all of these all the diversity
+of knowledge throughout our world um you've got deep learning a monolithic machine that is trained off of just
+trillions of pieces of data that are intended to to get it to output something that seems appropriate or
+matches kind of your expectation of what you're hoping to get it out of it right but all it's doing
+is reformulating what it's been fed right and spit it out right it can't come up with new information
+it can only draw off of the information that's there right now in the spatial web with these active
+inference agents they're learning based off of real time data they're learning based off of the real
+world that is constantly evolving and with the way active inference works with the action perception
+loop and they're actually really learning yeah they're they're able to they're able to adapt with
+all that new information they're able to then share it with each other learn from each other so then you
+have this distributed knowledge that grows into this ever evolving collective intelligence
+and that's really the difference yeah very well said i guess um so with something like deep learning
+you there's a programmer who's putting in the information and yes we could we can train it on tons
+of data we can put all the data in but it's still once you put it out then it's trained on that data so you're
+gonna have to do a whole update like chat gpt4 or whatever you have to keep updating um but what
+you're saying is this this um ai a spatial ai would be more about the space itself continually updating
+itself much the way the real world already works i mean that we all sort of um dynamically interact
+and update one another's um yeah mark of lingots or whatever but is that kind of the yeah yeah when
+you think of our human knowledge it grows because we have a diversity of intelligences that are
+sharing with each other but also pushing back on each other and challenging each other and that's
+how the information gets tested and then what's right sticks and then it grows um it's the scientific
+method right yeah and that's really the difference and that's why when you just have one brain
+it's not going to grow its knowledge beyond what it knows how can it it can be introduced to more
+information that then is in its bank but those machines they're they cannot adapt to new information
+just like you said they're because of the way they're trained they take a lot of adjustments to
+to to get it to actually um yeah yeah do whatever we want it to do write a paper exactly they're very
+useful but they're tools and i think what we're gonna see is that they're not going away but they
+will also come on to the network as tools just like every other every other technology i don't know if
+you've seen this i wonder in your experience i i also wonder when you first started like encountered
+ai and i don't mean using it but thinking about what ai is and um becoming part of the creation of
+it or whatever but well i've been a nerd for a long time okay so you always yeah i was reading asimov
+and heinle okay that's great yeah we're all a lot of us start with sci-fi um yeah but i guess um
+i wonder if you've seen this like with people who aren't nerds about ai i i'm i'm not i've become
+more so but when you just are like in your normal life a normal person doing their normal job who
+doesn't need to think about ai every single day but now most people do because it's suddenly
+everyone's thinking about ai or they see ai doing art or they realize ai can write their paper for them
+it's changed right in the past few years in a big way with language really chat gpt that i think that
+really brought it to the surface for most people yeah and i guess people seem to imagine that it is
+learning in the way that you described the spatial web it's it doesn't seem that it um people really
+understand that it's actually very language based in terms of this kind of that you're putting in
+the representations and that's all that can it can give you back yeah i mean people definitely
+misunderstand what's actually occurring there because it's what's a parlor trick yeah it is i
+mean it's it seems magical if you don't know yeah it's really good at making people think that oh my
+gosh it must be thinking because i asked it this and it gave me an answer and but but the reality is is
+if people really understood that the way these language models are working it's not hard to recognize
+you give it enough training data it's not hard for it to start recognizing the patterns i mean we've
+got 26 letters in the english alphabet and you find that certain letters tend to follow each other certain
+words tend to follow each other and then you train it on specialized data like legal data or whatever
+then it starts to learn patterns that are of things that are said over and over so you give it a prompt
+it's gonna search through its database and go okay well this is probably advice and sound appropriate
+but appropriate and accurate are two different things appropriate doesn't mean that it's understands anything
+um so it's like if you ask me a question and i just search on the internet and tell you what i find
+i don't have to understand it at all it's kind of the chinese experiment thought experiment and philosophy where you're just
+it's just take it it is um the way that language works if it didn't have all those very repeatable
+regularities and patterns it wouldn't be language so the machine as it's built just learns those and
+then can reproduce them but spatial web how is it i mean i know it's going to use this it's using active
+inference ai so maybe we should talk about that what's like what do you see how would people begin to
+understand that is it more like how they're actually imagining the current ai yeah so the thing is
+these active inference agents they actually can um do causal reasoning right they the way it works
+within the free energy principles it's constantly trying to uh it's taking in sensory information
+and it's trying to predict what was causing that right so that it can minimize surprise i guess
+what's your like one one sentence idea of the free energy principle yeah i mean basically you said it
+it's taking in sensory information and then acting on it to make better predictions yeah to make better
+way yeah i think we can it's generalized but we can just for people who don't know what haven't heard it
+if there is that it's pretty simple it's what we're doing and when we we're moving through the world um
+we don't want to we want to develop certain habits and patterns so that we can continue moving through
+the world so that we can exist that's what we learn how to walk we learn how to talk we learn all these
+kind of um ways of being in the world making our way in the world and you can think about that as
+the body minimizing surprise and just aligning with the world in a certain way um daniel friedman
+he actually gave me the most simplistic example which i've been using with people because actually
+it does kind of give you that understanding he was like okay say you have a wooden table right you
+think it's wood um and or it's wood but you're wondering is it rougher is it smooth you have to
+touch it you have to actually act on it and find out and then that gives you more sensory information
+and oh it is smooth or it is rough now right but it's that whole um next time you know curiosity by acting on
+your environment so that you can get more information to gain that understanding and yeah
+great so the spatial web would be using a kind of it would instead of deep learning which where you're
+just training the agent on on data that pictures or words or whatever um what's happening with the active
+inference so it's taking in real-time information through sensory data in like iot sensors
+so you have cameras you have robotics you have devices all kinds of things that are feeding
+real-time information um into the network and then you also have all of the um hsml that has been
+programmed into the network with providing context for all of the entities in the spaces and their
+interrelationships with each other so so when in active inference when you're taking in these the
+sensory information you're measuring it against what to be true the model that you've built of
+your world right and it starts out as an infant it's just your mother and then you start opening
+up to the room around you and the other people in the room and as children evolve and we evolve into
+adults we start getting into more specialized intelligences but you know it's that expansion of
+our own world model by this constant interaction with our environment and learning in that way that's
+how these active inference agents are going to learn they're going to be constantly taking in real-time
+data through uh sensory input measuring against what they know to be true which is the the model they've
+developed from all of the context baked into all the things in the world around them yeah they'll be
+operating from their own frame of reference like whether it's like right now i'm here i'm sitting
+in my house and so this is my frame of reference my frame of reference expands on things that i learn
+things that i've studied things that i'm my own programming basically yeah i mean this is what i call
+like a way making or i think of as navigability in terms of just that throughout our life we're born and
+we go through all these experiments and we do develop what you could call a model um even though
+it's not like a static thing that's sitting inside your body it's more your body itself in the
+interaction ongoing um but you develop a way of being in the world so as to keep being in the world
+and so i guess what this is going to do is help in a way extend that so it's almost um we almost
+have to kind of rethink what it even like it almost feels weird to call it artificial intelligence now
+even though of course it's in that um scope yeah to me yeah to me when like with because my whole
+channels are spatial web ai but to me just because of what you just said and i mean if you listen to
+gabriel renee or any of the versus team they're like doing natural intelligence not artificial intelligence
+so to me it's like autonomous intelligence that's good i feel like that's what ai is going to be
+transitioning into actually meaning when it's referring to this when you'll have autonomous
+intelligence systems um is it still human centric though because i hear the word natural used a lot
+and it's almost like natural versus artificial and of course with carl's work and active inference i mean
+it's literally building from a living dynamic biological system so it's um but i wonder is it
+like do you really how do you think of that do you see that as a kind of a dichotomy that
+um or is it blurring a lot this idea of natural and artificial is it what is the natural part
+well the natural part is because the way these intelligent agents learn is the way we learn the way
+life burns the same way that that biological systems learn according to active inference which is
+based on the free energy principle and free energy principle is how neurons learn um so that's why
+it's termed natural intelligence because it's the intelligence of nature now um which is another
+confusion because deep the deep learning people think it comes from the brain but it's actually not
+not really the way that life works it just has the name like that it's just yeah yeah no it's
+engineering it's inspired by but of engineering yeah versus science right you know i mean that's
+really the difference what's really interesting is that um jeffrey hinton came from a university
+college london carl friston university college london at one point they worked across the hall from
+each other that's crazy but you know jeffrey hinton focused on um an engineering approach and carl was
+like no i'm yeah and like you were saying before it's it's not either or i mean we have this ai
+traditional ai deep learning it's pretty amazing that we can use it to better understand things to
+save ourselves time and energy um for as far as like um the only approach to ai it's just not sustainable
+energy wise yeah and that's really interesting is versus just gave a demo a few weeks ago
+demonstrating what they've so they've been doing these ai benchmark tests that are like really
+important within the ai industry because they know something so like looking at the go
+yeah okay games and stuff yeah like atari challenge yeah and what was really interesting is um in one of
+the benchmarks which i think was playing pong right all right you know the fastest best deep learning
+machine could get to human level performance within two hours they did it within 12 minutes
+and they did it at like one percent the model size and they did it on a standard laptop using a standard
+uh graphics card so that's it's real yeah that's a huge difference too that means that um that means
+that all of the energy resources required for the ai is distributed yeah among our devices we're already
+using right incredible yeah so much more like the body learns because you can't yeah you have to learn
+in that kind of a at that kind of a pace too as you're talking i'm realizing it's spatial
+web but it's also spatio-temporal i mean there's a whole time um paradigm shift happening here too
+yeah it's exciting to me and that's why like um because i think maybe because i've seen like the
+vision unfolding and i've kind of knew it was coming right yeah you know to know that they did it
+and it's even bigger than anybody imagined and it's just it's exciting to me because i've known what
+this the potential of this could be i and i think i think once people start to see
+really a clear understanding of what sets their technology apart from what is happening in the um
+the deep learning world i think that there's going to be a lot of light bulb moments this year where
+people are going to start really understanding oh this is dan mapes he refers to um the this collective
+intelligence within the network as a um nervous system for the planet i mean yeah it's pretty
+interesting i think we i mean we already gosh it's already been some time but i really um i really
+think it's important to talk about that idea of transparency that idea of energy efficiency you
+talked about it a little bit already but this that people could own their own data um there's all these
+things now that we assume as i was saying we have this kind of system and we assume it has to be this
+way that we have to give over our data that we have to go through a middle we don't really own our
+domains all this we just assume is the way it should be also what you were just describing about
+the efficiency the time we spend so much energy and it's not transparent all these things i guess
+when i was asking you about what are the kind of visions of spatial web i see there's a bigger there's
+a philosophical vision too and a value based and we haven't mentioned that word yet but there's a
+value shift right now we take for granted that we just are addicted to our phones and our computers
+but those are algorithms those are things that those are that's on purpose um doesn't have to be that
+way right isn't this opening up like another way for people to imagine how that they could use technology
+yeah and i what i think it's going to do is it's going to integrate itself um into our daily lives a
+lot more naturally um because it will be we'll be interacting with sensors and interacting with all
+of these different um elements of it and we'll have so everybody's going to have their own active
+inference agent personal assistant that's going to be able to help parse all this crazy amounts of
+data that we are that we encounter it's going to be able to um help us navigate all of this information
+according to our own preferences and desires too right now like you said we're all subjected to these
+algorithms that are predatory yeah they're built to be i mean that's the way they're built because
+that's how they get attention and money and we're going to have a lot more control over our data
+because we'll be able to um we'll be able to decide how and when it's shared and for how long
+and with whom and um people will still trade data for um access and different things like that but the
+difference is you'll actually control a lot more of the nuance with it and you'll be able to decide
+and there will be a value exchange that actually rewards you directly yeah i mean it sounds
+wonderful but how i mean for i can imagine people listening and they're thinking this sounds great
+but i don't see how it's gonna protocol and the way the protocol works right so the way h hstp hyperspace
+transaction protocol um every all entities right so people places things spaces every entity has an
+identity and and uh it becomes a domain and so is it kind of a blanket sensor that just goes over the
+whole earth or something i mean i guess i'm trying to understand how there's going to be a registry
+right and the um to be able to access domains through activities um it will require credentials right so
+um credentials that can prove identity or ownership or um authority or um i mean all of that right so
+so there's more transparency not less right because the control is in your hands it's in the user's hand
+so um i will be able to control who can have access i'll be able to go to the doctor and tell the
+doctor like okay you can access this information this guardrailed amount of information for this long
+you can put an expiration on it there the spatial web enables um zero zero trust architecture right so
+because it's going to be powered by ai within it too there will be able to be confirmation of certain
+um aspects of data that where you don't even have to reveal it to a source you don't have to reveal
+the sensitive data but it can be confirmed within the network so it completely protects your your private
+data there there's so much privacy protection one of the things um that dan told me a while back that
+when he and gabe were really contemplating um how to do what this protocol would need to be
+they really wanted to solve the three main problems with the world wide web which is like hacking
+tracking and faking right so surveillance um the whole hacking and um hacking tracking and faking that's
+yeah good way to say so it is it's secure and it truly is decentralized and so the power then is in
+the hands of all of the individuals everybody within the space your ai agent your personal agent is
+going to be able to know all of your details and know you so well but that will be guardrailed um
+it's not going to be accessible unless you give permissions and it's nuanced permissions it's not
+just oh you can access me it's like right now that's what we have you can access or not yeah or you just
+give your data away the blanket statement yeah i think that's um i mean i think people just assume
+that's the only way it can be too and it's kind of amazing to realize how much we just sign away all
+of that stuff for whatever the next five years or forever or whatever and this is more like a
+disappearing message or something where you can share it for the amount of time it needs to be shared and
+then it's not there anymore and that's possible with this technology that's clearly um yeah there yeah
+and then when you think about like even what that's going to do for for business and for like big
+enterprise organizations one of the issues that enterprise organizations have right now is um a lot
+of them are saying to their employees don't use these llms don't use chat gpt don't use them and the biggest
+reason why is because of the privacy concerns yeah and an enterprise organization has all this
+proprietary data that's opening their data up to a third party that is not part of their organization
+yeah now with the spatial web you can guardrail any aspect of the data because you can guardrail the
+domains you can guardrail the data as domains and so when you've got an enterprise organization
+that enterprise that can be within the network and guardrailed off to where the capability is still
+there to build agents within that guardrail part of the network it can learn off of all of that data
+it can access the network but it can protect all of the data within that enterprise right that enterprise
+can decide who in their organization can access what data that enterprise can decide what data is
+allowed to be accessible by the public or what parts of the public or memberships or anything like that
+enterprise most enterprises have several disparate data lakes right where they've got data from this
+part of the company data from this part of the company and there's no way to join those data that's
+like those silos you were talking about before now with this the data is all good they can build these
+intelligent agents that can share the data learn and they can create they can gain insights that
+they never had before in their uh companies but it all stays proprietary and it's not private and
+transparent weirdly yeah yeah so it's really interesting i mean i think when people really start to
+understand what's happening here and what's being built and they start to really think about the
+implications of it they're gonna see that it's it's pretty powerful and what do you see what do you
+when you're thinking it's powerful what do you envision like what would be your kind of
+one one scenario that's makes you i don't know that it's happy or good or for the future once people do
+realize this because it is a lot to think about all these terms and it's hard to get your head around but
+like how do you imagine that this could in your own life or your someone's life change how would it
+change their life for the better yeah so it depends on how like near or far in the future you want to
+go um although when i say far in the future to me that's just like five years because okay let's go
+there five years but let's go five ten years best case yeah five ten years i mean honestly i feel like
+it's going to really shift the way we um experience life as humans and i think that it's going to
+enable us to shift in all kinds of ways um the all of this technology it's going to usher in this
+realm of abundance i feel like it's a transaction protocol it's blockchain agnostic all blockchains can
+work within it all um i feel like we're already seeing a shift away from fiat into digital currency
+and i feel like within the spatial web then we're really going to get to that value exchange position
+right to where if our idea of what we've had for money i think will completely shift so um i feel like
+everything that we um that we understand about the way we interact with each other the way we interact
+with technology it's all going to um i think it's just going to change into a way like i i know a lot
+of people think um when i talk like this that it's um it sounds very utopian but um i definitely see that
+there can be so much good in this i i think that right now as a society we've been so used to kind
+of scratching and clawing for existence there's been this competitive nature because of that right
+um we we have a society that operates off of ego and um there there's just so much um it's funny i so
+maybe this just popped into my head but the i forget who was i i think it might be in like c.s lewis's
+like some of his writings and stuff but it was a distinction between aspiration and ambition
+and it says ambition okay yeah aspiration is high um ambition is just higher than someone else like with
+ambition you're just trying to be higher than the next person but um but aspiration is high right so
+the ideal it's the ideal that you're going for your own personal best and i think that we're gonna
+we have the potential to kind of shift as a society to where we're kind of like looking more outward
+we're more community focused we're more we're less we're less in that vein of just trying to get
+better than the next guy or get the the next thing to higher up to where i don't know and maybe i don't
+even know as you're talking i'm thinking about how technology is such a big important part in so many
+people's lives personally but also work and how it does depend on this kind of judgment um likes follows
+how you look on instagram or whatever i mean we've really gotten stuck in a way with uh what the
+algorithms have the parameters parameterized for us what's that it's that reward function the
+dopamine and all that but just also that we i i wanted to talk about this idea of a sense of self
+um you talked about it with um mal i think but i'll just have to link to it but there's this um there's
+also this the way you were describing the agent or the ai or the um the technology it's kind of going
+to develop a bit of a sense of self because it's biological but because it's interacting with us
+it's also opening up how we can see ourself in the same way that the old technology the stuff we're
+still using now which is great but also has really limited in a way um the ways we think of self so when
+you said you see it opening up our experience of the world it made me think like maybe we're gonna
+look around ourselves again and notice the space we're in um and start thinking of self differently
+as more spatial instead of clicks and likes and images on screens and all this yeah i would definitely
+agree with that i think it's going to to that point i think it is it's going to be able to enable us to
+interact with technology more in the world yeah it will take us it will take us from being um tethered
+to the devices which is yeah do you experience that in your life are you also oh my gosh if i leave
+if i don't have my phone like say i accidentally leave the house which never happens anymore
+if i leave the house without my phone it's like oh my gosh you feel naked you feel like
+a part of you is missing and i know everybody feels that way your battery dies on your phone oh my god
+have you experienced any kind of like disconnection from space the world because i keep coming back
+to this idea of natural and i start i wonder if this is also gonna be um an advocate so to speak for
+other beings and forms of life um in a way have you ever thought about that like or in your own life do
+you have you experienced some kind of way in which your focus has gone more toward technology and
+could open up ecologically through something like this technology well so to me it's not all negative
+because in that vein i actually so i live in south lake tahoe right now i've been up here since the
+beginning of kobe wonderful um when i came up here it was with my ex-boyfriend we have not been together
+for the last two years so i've been here by myself but all my friends are like in the bay area or
+southern california or the rest of the globe right so um and because i was up here for the
+first two years with him it wasn't like i was out trying to make friends so i it feels kind of
+isolating up here but you know i've also been working really hard for the last two years and so the
+solitude i've been embracing it and just keeping my head down and building and stuff but a lot of my
+social needs are met through technology right now that's how i'm keeping in touch with my friends
+and we do the same silly stuff as everybody else just send each other memes and all kinds of stuff
+you know but those are little touch points of connection and i think they're important because
+you're not just sharing something you're sharing things that you will find like a common laugh or a
+common heart string that you're pulling together that kind of stuff it's beyond just sharing benign
+images but um but and like facebook and stuff like that that really that helps me feel connected with
+the people in my life even though i'm not near them so i think that's really cool now the way this
+technology is evolving yeah it would be pretty cool to be able to like jump into a space and feel
+like i was in the room with my friends and yeah we could all just like gather like that or like i've
+thought for years like why is teleportation still not a thing all those sci-fi books made it seem like
+we'd be having it by now yeah yeah maybe it's just maybe this is teleportation that we're gonna so
+yeah that would be exciting i think it's great you brought that up because um i mean technology
+is wonderful and it's not either or and we do uh connect very deeply through technology um it's not
+that we in a way that it's opened up ways for us to connect and um i don't know do you think that's
+kind of the point of it in a way i do so um it's interesting um because i have friends that they
+get they feel very pressured by technology they feel um i think that a lot of i think a lot of it
+has to do with the fact that we're all individuals and we all have different psychological makeup we all
+have different experiences and traumas and different things like that we're emotional so i know some
+friends that they feel a lot of insecurity and a lot of um pressure from social media to where it really
+deters them from wanting to have a whole lot to do with it because otherwise then they kind of get
+sucked into this rabbit hole that makes them feel really bad about themselves yeah yeah and i've always
+kind of approached social media differently than that because to me i've seen it more as the
+positive sides of it of like oh great like when my kids were young uh family members were always
+wanting me to email them pictures right now you could just check my facebook it's a bulletin board
+that you feel like you're involved to email you know 100 people you just for me and we can all keep in
+touch that's true so like to me i've seen a lot of positives i like even with like facebook with
+the facebook memories and stuff like that's cool to me i love seeing stuff even like things that you
+maybe wrote as like little like posts 10 years ago now right and it's like oh my past self is
+giving advice to my future self because that's like resonating with me aspects of it that maybe nobody
+even considered but um it's kind of unfolding that way so i tend to like look at those parts of it
+and the positive sides and then also too like when i first got a smartphone i turned notifications off on
+everything because it killed me like the i was like i can't be interrupted every second of my day
+like i just can't so i think part of it is taking control of the technology and making it work for you
+right because to me that was too much of a distraction it's like okay well i'll check my
+email every 10 15 minutes during a work day i'll i'll do these things but i don't want it dinging me
+constantly because then it'll drive me nuts yeah um i did the same and as you're talking i'm thinking
+maybe there's because i know a lot of people who are really familiar with technology do these kinds of
+things and don't take it as seriously as or don't get as sucked into the um the aspect of it that
+where you're comparing yourself and feeling bad but those are real spaces for people but do you
+think there's something about having thought about technology worked with technology for so long that's
+given you a way to um have that kind of distance or space to be healthy about it and enjoy the emotional
+side of it without the judgmental side um or is it just you like your personality or i i really don't
+know um because it's really kind of hard to say because i've actually had kind of i i'm definitely
+somebody who embraces change when a lot of people have a fear of change right and i think that comes down
+to the free energy principle that fear of that uncertainty a lot of people that that creates
+this sense of fear because they're uncomfortable with it you like the surprise maybe a little bit
+yeah to me in my life that's where i've found possibility possibility lies in the the surprise and
+that's kind of like in physics could always go one way or the other so um but for the last probably
+i would say probably at least since like 2008 2008 ish watching what was happening with technology
+and seeing things that were unfolding and things that were starting to really wake up um with these
+emerging technologies i have just felt like lucky to be alive right now to be able to witness this
+and you can't stop any of it so find your place in it then you actually have this opportunity to
+make a difference and so i've been so preoccupied with that mental state that i think it lets me
+embrace all these things in this way that's very beautiful yeah i think people maybe who aren't that
+entrenched in that kind of a excitement over it all um then maybe they get preoccupied with other
+aspects of it and um it has a different effect on their mental state and there's something about
+understanding how it works even when we were talking about the deep learning and understanding
+that you're just being fed a bunch of stuff that was trained like once you kind of understand that
+it does take uh it does give you at least for me i guess i'm speaking for myself it's easier to
+not take it so seriously and to understand it's it's it is just what it is and maybe you can um
+use your own agency to decide how you're going to use it but yeah and you can kind of laugh at
+it at that point yeah you can like there was a meme that i saw and it was probably a couple of years
+ago now but it was like my favorite way of shopping is just to call out what i want and let
+you know be an ad for it right right that's great and it's that it's like what you're talking
+about it's the understanding of the underlying of how it's all working so it allows you have a
+playfulness with it i think that's very healthy um yeah well so i guess to end i want to hear about
+what you've been working on all these years i want you everyone to kind of know but this is called love
+and philosophy it's really beyond dichotomy too but i wonder about that word love like we've been
+talking about all this technology and stuff but do you feel like when you look at these this what
+you're doing your work and um what you're sharing with people it's a big word i know but does it feel
+like that or like passion or like something that goes deep in you oh yeah yeah yeah i'm definitely
+very passionate about what i've been doing and it's because i do see a good outcome from all of this i do
+see like the good that that can come from all of this technology and with what i see that versus
+has been building and doing too i feel like they're doing it the right way they're doing it with kind of the
+benefit of humanity and mind it's very mindful and yeah yeah and to me i see a lot of promise in this
+next era of computing whereas we've been kind of in the state of like the technology has been taking
+advantage of all of us oh yeah i feel like we're moving into this space where that's going to shift
+and that's pretty exciting and that me i just see that can only result in so much good well thank you for
+your optimism and for it feels like it's a very authentic place that you're coming from um and
+just kind of to end like tell us what you're doing i'm really interested in your sub stack for example
+i found some very interesting articles there which i wanted to talk about but we're out of time but
+what would you like people to know or how can they find you well so um yeah so education right now is
+my focus on this space and so i've been doing a lot of writing i've been doing a lot of podcasting
+this year in january i started a sub stack excuse me because um i wanted to be able to kind of have
+a space where we could build community around it there's so many people i've been meeting who are
+interested in it they're working on projects or there there's a lot of people who are either coming from
+the developer side or the the education side or the research side or even the investor side right
+and they're all curious they all want to know and so i wanted a space where people could find synergy
+and kind of connect with each other and we could all learn together so so yeah i started the sub stack
+and then i've also been hosting these learning lab live sessions so monthly i'm creating a new
+presentation every month that's an educational presentation to kind of introduce these concepts
+and walk people through it and i do two different days with two different times so that people could
+try to i've got people coming from all over the globe so um that must be exciting wow yeah it's been
+great yesterday was the first one for this month so we did it last month there were two sessions this
+one was the brand new presentation um it's like a 40 minute presentation and then about 45 minutes of just
+open discussion and everybody's been participating it's been so fun the discussions become my favorite
+part so you present um on some particular almost like a class or yeah and that's one and i'm going
+to be using the videos form for a larger curriculum that i'm building around this okay yeah and this
+month was on the spatial web protocol that's what the presentation is for this month and it's an overview
+it's a very in-depth overview but it's the beginning of what i'm creating for like this e-learning class
+around the actual protocol uh itself because it's very detailed and it's going to be um it's going to
+be made public soon so when it is then there'll be something that people can actually learn from oh good
+so at some point that's where my focus is right now there's already a lot people can learn you already
+have given you have a ton of content um just explaining what this is and i encourage people
+to go i would say read it and listen to the podcast and will there be a way so if i join i was telling
+you i was trying to do the sub stack but it didn't work quite well but once i joined can i go back and
+look at the are you recording the lectures that you gave and you'll have them in an archive or something or
+yeah so they are being recorded um i'm still trying to figure out how that's going to work because
+the classes are for the paid membership on the sub stack and so i have to be able to host them
+in a way that can be accessed by that sector so i'm figuring that out um but yes they probably goes
+into the classes anyway at some point so yeah but it's it's exciting because right now people are
+starting to find out about this i mean it's i think the book came out in 2018 2019 spatial web but
+that's actually not that long ago for these kind of things it feels long when it's happening but
+it's starting to really break now and it's great that you're right there riding the wave and helping
+people understand it so thanks for that and i'll be sure to link to all this um oh thank you so much
+andrea i appreciate it and thank you thank you for having me on your show this has been a really
+real nice that's been a really nice conversation yeah it's been fun to talk to you is there anything
+that you want to say before we go we didn't talk about yet that we should touch on real quick or i
+mean my my one thing that i will say is i want people to get excited about this because the opportunity
+it's not like it's not like this is something that's distant in the future this is all unfolding
+this year right now versus a genius platform it's in beta with a closed beta but they're opening it up
+up to the wider developer community this summer so yeah it's upon us now is the time yeah if you want
+to be at the forefront okay well that's good to know i'm glad to hear that and i wish you lots of
+luck and i'll be following you oh thank you so much same here great thank you bye-bye bye

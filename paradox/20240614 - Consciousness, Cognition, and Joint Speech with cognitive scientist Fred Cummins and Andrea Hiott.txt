@@ -1,0 +1,3376 @@
+Okay. Hi, Fred. Thanks for being here.
+Hi, Andrea. How are you doing?
+I'm good. I really appreciate you taking some time to talk about consciousness and cognition a little bit today.
+Great stuff. They're both big words, complicated words, and they're very different words.
+Indeed. So maybe we'll just let it get messy today.
+It would get messy.
+Okay. So I just want to ask you a little bit about your trajectory. I know a little bit about it.
+I think you've been in many different countries. I think at some point you were a nurse.
+I even think you might have studied with Douglas Hofstadter. Could that be?
+Whose book you have? Just right behind me.
+Which book do you have there by Douglas?
+I have Gödel Escherbach, which is very important, and Strange Loops.
+I have both of those and several others. I have a lovely book by him called The Tome Beaux de Marot,
+which is on translation and includes hundreds of translations of one rather weak French poem,
+but it's an excellent vehicle for exploring the mystery.
+Oh, really? I didn't know that.
+Very, very good.
+Yeah, Doug was really important to me. I was a nurse in the 80s,
+and I read Gödel Escherbach and decided, oh, the hell with it.
+I'm going to have a look at this cognitive science thing.
+I'm going back to college, and there was no cognitive science degree,
+so I did computer science and linguistics together, which was possible.
+And then I had good fortune to go to Indiana University, take class with Doug, get to know him.
+But Indiana University was a hotbed.
+We're talking now in the 90s, early 90s, and everyone was into dynamics.
+We were all going to clarify everything because cognitive science was a mess as usual.
+We were going to clarify it by using dynamics,
+where everyone else was arguing about good old-fashioned artificial intelligence
+versus sub-symbolic processing and connectionist networks.
+Oh, wow.
+We just discovered this new mathematics.
+Maybe you can paint this a little bit, because for me, this is a really interesting time.
+The 90s, before there was really such a thing as the cognitive science department
+and the neuroscience department, although they existed, right?
+And yeah, when you say it was a hotbed of what?
+And dynamic, you mean like dynamic systems, all of that was getting started, right?
+That was kind of...
+Yeah, well, Indiana University had a particular flavor to it at that time.
+It had a highly interdisciplinary program with a lot of really great faculty,
+but distributed all over many, many different departments.
+And what they...
+In order to sort of give a common esprit de corps, I suppose,
+to the cognitive science community, dynamics was the thing.
+We were attuned to, aware of the emerging results in non-linear dynamics,
+chaos theory, fractal theory, attractors, strange attractors, chaos,
+catastrophe theory, all these things,
+because new results were coming out in an unbelievable fire hose.
+But we didn't know what to do with them.
+So we were doing connectionless modeling like everyone else,
+which was kind of the spirit of the time.
+But we were coming at them with the tools of dynamical systems,
+looking at recurrences, recurrent networks,
+their evolution over time.
+We didn't know what the hell we were doing.
+We were making but a seat of our pants.
+Our professors didn't know their dynamics either,
+and the students were teaching the professors,
+and it was all a bit of a mess.
+And we still...
+It didn't become, as we thought it would,
+a rallying cry for cognitive science,
+just because cognitive science pulls in too many different directions.
+There never will be one rallying cry.
+But it did turn out to represent a huge contribution
+that has been made use of by all those vast areas of cognitive science
+that are not committed to understanding mind as software.
+You know, we say it's representational software doing computations.
+There's vast other areas of cognitive science
+that creeps into every area, as it should do.
+And, yeah, that was pretty much it.
+I got my PhD in 97, did a couple of postdocs,
+one in Evanston, Illinois,
+and one in an artificial intelligence lab in Switzerland.
+And I came back here,
+and I've been sort of running the cognitive science program here
+ever since.
+We have a small little program.
+Idiosyncratic in character.
+I think every cognitive science program is idiosyncratic in character.
+It's going to depend on who's responsible
+for trying to hold these horses together
+that are pulling in so many different directions.
+I want to know what you think of as cognitive science,
+because I want to lead into, like, this idea of cognitive.
+Kind of an impossible question.
+It's perfectly answered.
+It's answered with a single word, epistemology.
+And when I took over the cognitive science program,
+the program had been set up the year before I arrived,
+and it described cognitive science
+as the creation of computational models
+of internal mental processes.
+So I had to scrap all the propaganda
+from the department entirely,
+and I choose to describe it now
+in a term that makes it clear
+that the enterprise is not born in 1973,
+is not born in 1945,
+but has a many thousand-year-old history,
+which is the relationships between
+knower, known, and the means of knowing.
+Those three together.
+The knower, the known, and the means of knowing.
+Now, when you articulate it like that,
+it allows you to make contact with this kind of,
+must be said, narcissistic inquiry.
+What kind of a thing am I?
+What is knowledge to me?
+What could I know?
+It makes contact with a lot of ancient philosophies
+and a lot of philosophies in different traditions.
+You'll find this articulation,
+knower, known means of knowing.
+You'll find it in Indian religious formations.
+You'll find it in Judaism.
+You'll find it in the Arab world.
+It's one of the ways
+that many questions around God have been developed.
+Any question around the nature of the human
+is going to be very close to questions around God,
+because we like to think,
+we have a habit of thinking of ourselves
+as semi-divine, let's say.
+Do you think that that has to do
+with the way that we come to recognize
+that there is those three parts?
+This understanding of nature or God or something
+and having some kind of dialogue with the world
+helps you understand
+that you can have a dialogue with yourself?
+Yeah, well,
+it doesn't clarify things
+to use those three terms,
+knower, known, and means of knowing.
+What it does,
+it makes it clear
+that any further inquiry
+will require you to make some specifications
+to say what the hell you think you're talking about.
+What do you mean by knowledge?
+What do you mean by a knower?
+What do you mean by the acquisition
+or exhibition
+or having of knowledge?
+All too often, of course,
+in classical cognitive science,
+the knower has been assumed
+to be the psychological subject,
+the individual person
+as constructed within some discipline
+like cognitive psychology.
+Casting it in that maximally general fashion
+allows you to consider other ways
+in which you might consider the knower.
+It could be collective,
+it could be animal,
+it's not necessarily the individual person.
+I basically tried very hard
+to keep cognitive science
+away from the premature specification
+of the individual
+or of the person.
+Whether a person is an individual,
+I don't know.
+I think a person more
+as something that we co-construct
+out of mutual respect
+and recognition
+without any essentialization.
+So when I say person,
+I don't mean human
+and I don't mean
+or so many other things
+that we get mistaken for.
+I don't mean system,
+organism or animal.
+The cognitive science literature
+very often doesn't know
+what it's talking about.
+Well, here's where it gets
+very messy for me
+and so what I'm sort of
+trying to figure out.
+We don't want to make
+this distinction of
+the individual or the subject
+or the knower
+in some kind of absolute sense,
+which is actually the way we do
+in daily life, kind of.
+We assume there's a self,
+there are these boundaries, right?
+And that it's some kind of clear thing.
+And the more you dig into this
+from whatever angle,
+whether it's philosophical,
+scientific or spiritual,
+to be honest,
+you start to find
+that that dissolves.
+So that's where we kind of are,
+but we still need to talk about it.
+So when you set something forth
+like the knower,
+the known and how it's known,
+what was the three things again?
+Means of knowing.
+Means of knowing.
+Right.
+For me, that makes a lot of sense
+in terms of something
+like critical thinking,
+like starting to understand
+this process,
+clarifying,
+being able to communicate.
+It's really important
+in the way that science
+and philosophy are really important
+and the way critical thinking
+is really important.
+But where's that balance, right?
+Where you can understand
+that there is no knower,
+there is no individual,
+and yet you're creating
+this kind of almost
+what I think of
+as a representational system,
+something that is kind of
+like a drawing or something,
+a thing that we can both
+look at and understand.
+How do you not get it confused?
+And how do you like
+think about that or teach that?
+Does that make any sense?
+Yeah, it's frustrating
+sometimes for students
+to approach things
+in quite this general fashion.
+But what we then do
+is as we home in
+on this body of work
+or that body of work
+or this form of inquiry,
+these experiments
+and these findings,
+if we realize, recognize
+that we've contracted
+this question,
+we've ruled out several options
+and we're choosing
+to focus on this,
+we're going to assume,
+let's say,
+the psychological subject
+or just an uncomplicated
+everyday version
+of the person,
+for example.
+We can assume that,
+but it makes us aware
+that we're doing that
+and that our discourse
+thereafter is contracted
+and it's relevant
+to a delimited situation.
+Just as the terms
+that I use when talking
+in a hardware store
+are different than the terms
+that I use when talking
+to the doctor.
+Yeah, I would call it
+a landscape.
+You're sort of setting forth
+what the parameters are.
+Would you consider it
+close to something
+like Dan Dennett
+would call the intentional stance
+or something like that
+or do you?
+Dan Dennett's intentional stance
+is one of the things
+we have to play with.
+Okay.
+In general,
+I'm not looking for answers.
+You're not looking for answers?
+No.
+Are you looking for anything?
+I'm trying to improve
+my questioning.
+I'm trying to stare.
+I stare at the world.
+I'm trying to improve
+the quality of the staring
+to see more.
+Why?
+What does that do
+that keeps you interested in it?
+Well, who wouldn't
+be interested in it?
+You want to see
+what's coming into being
+and that includes
+your own coming into being.
+Yeah, I agree.
+Whatever way you choose
+to cash that out.
+It's not only seeing,
+it's sensing, I guess, too.
+It's hearing, being,
+feeling, all of that, right?
+In a noetic sense
+rather than the trite manner
+in which visual perception
+is discussed in cognitive science.
+How do you see that
+as relating to this tripartite
+kind of thing of,
+is that,
+and the dynamics
+that we mentioned
+at the beginning
+because it's kind of a process,
+isn't it?
+And the more you stare
+at something
+with all your senses,
+the more you become alive
+in a weird way
+and the more you also
+lose your boundaries.
+So it's,
+at least in my experience,
+I don't know about in yours,
+but.
+Well,
+I sent a few people
+a Christmas card
+and I kind of like
+sending Christmas cards.
+There we go.
+I said,
+behold the cognitive sciences,
+neuroscience,
+philosophy,
+psychology,
+computer science,
+mathematics,
+linguistics,
+anthropology,
+semiotics.
+The list is extensive
+and incomplete
+because this field
+takes upon its ambitious shoulders
+the task of knowing
+about knowing,
+of speaking
+in a scientific register
+about the mysteries
+of know or known
+and means of knowing.
+Notice that I've
+already factored in
+the fact that science
+is only going to have
+partial answers here.
+Nobody entrusted
+this sacred charge
+to an established authority
+with a proven track record.
+Nobody granted
+a motley crew
+of naive researchers
+the license
+to make pronouncements
+upon the constitution
+of the person,
+its relations,
+its possessions,
+inhabitations,
+spirits and soul,
+its possibilities,
+ecstasies and terrors.
+Yet here they come
+fresh-faced and eager,
+pens at the ready,
+degrees and certificates
+in hand.
+Who has the arrogance
+to call themselves
+a cognitive scientist?
+So I think it's necessary
+in the cognitive sciences
+to realize
+that you're being
+that arrogant
+in the hope
+that you might
+be a bit more humble.
+pronouncements.
+Other people
+are all too willing
+to tell you
+who you are.
+I don't like that.
+Well, it doesn't have
+to do with
+that we have
+this kind of feeling
+that everything
+is a bit chaotic
+if we don't
+hold to some kind
+of something definite.
+Of course,
+it changes
+the more you study
+and as philosophers
+we try to figure out
+ways of finding
+our balance
+in this world.
+but if I'm thinking
+of me
+as a young student
+when I was
+a first student
+or one of your
+I don't know
+if you teach
+first year
+but an early student
+where you
+it can almost
+be really jarring
+to understand that.
+Yes.
+I mean,
+the way
+in which
+we've now
+been discussing it
+is not going
+to be the basis
+for an undergraduate class.
+How would you start?
+How would you
+ease people into it?
+ways.
+I'll tell you
+what I do
+in an undergraduate class.
+I use the same graphic
+on the board
+in every single lecture
+as we survey
+a vast range of topics.
+On the one hand
+I contrast the vertical
+and the horizontal axis
+and I say
+this vertical axis
+is our aspirations.
+It's us believing
+the best we can be.
+It's going to be rationalism.
+It's going to lead
+to the idea of man
+as a distinguished species
+and it's going to run
+right through
+all of the quite
+you'll never get away
+from it.
+It's going to be there
+the whole time.
+And horizontally
+is the qualified
+ignorance of the empiricist
+when since Darwin
+we're forced
+to recognize ourselves
+within the natural order
+and not outside it
+and we frankly
+don't know
+what to do with that.
+It's an enormous challenge.
+And I say
+this tension
+will accept
+this tension.
+It's going to be there.
+We're going to uncover stories
+and we'll spot
+oh that's the aspirational being.
+I mean Chomsky
+Chomsky and Descartes
+are the two most
+vertical people here
+for example
+whereas embodied
+cognitive science
+that doesn't have
+answers to most
+of the questions
+people want
+because if they actually
+want psychology
+and not cognitive science
+it's going to be
+a little bit
+less sure of itself.
+And together with that
+I give them a timeline
+with three dates
+1600
+just so we can point
+to the approximate onset
+of scientific modernity
+the undergraduate students
+have no sense of time
+they don't know any history.
+So 1600
+we can point to
+René Descartes
+and we can say
+we're talking about
+science
+when science became a league
+as it were.
+1850
+we point to
+the death of God
+and Charles Darwin
+and we say
+this is the point
+at which
+industrial revolution
+changes everyone's lives
+prior to this
+God has to be
+in the discussion
+you cannot have
+a theory
+a natural theory
+but it's not compatible
+with the dominant
+political theology
+after this
+you can no longer
+appeal to God
+in your science
+because you won't
+get published in science
+if you appeal to God
+so it's a real
+bordership
+and the third date
+I point to
+was 1945
+which I think
+should be year zero
+that's the atomic bomb
+just in case
+we were thinking
+science just produces
+good things
+and it's also
+the end
+of the cataclysm
+of the first half
+of the 20th century
+and at that point
+man as an ideal figure
+should be dead
+we still encounter
+this dream
+of man characterizing
+human nature
+it's always man
+and I don't try
+and pretend
+that making that
+gender neutral
+is going to change
+its silliness
+but that's when
+the cybernetic era
+is born
+and I point out
+that they all think
+and speak a language
+that is entirely new
+that was born
+after 1945
+it's the language
+of information processing
+communication control
+and computation
+and that's their natural language
+they think of themselves
+using this
+but it's important
+to point it out
+that when we're talking
+about I don't know
+minds perception
+you know
+the human stuff
+these ideas
+are much much much
+much older
+and if they are expressed
+in a modern idiom
+that is just a re-expression
+of old questions
+it's not that we finally
+figured out who we were
+once we discovered computers
+in 1945
+or something
+that would be silly
+so that periodization
+and the acknowledgement
+of the tension
+between our aspirational being
+and our epistemic humility
+that's how I structure things
+in undergraduate class
+it allows me to bounce around
+and show that this theory
+is useful in this way
+and show how thinking changes
+for example
+like we keep coming back
+to the 1980s
+as the peak
+of computational thinking
+when genes
+become code
+become nature
+and people are going around
+looking for a language gene
+and they're separating
+identical twins
+at birth
+and all this insanity
+which is tied
+to a very specific period
+1980s
+around about
+and I point to
+paradoxes, puzzles
+and perplexities
+of our contemporary situation
+and I say
+I point out that
+the naive reliance
+on the computational metaphor
+has worn off
+somewhat
+although we think
+and are engaged
+in building a world
+using contemporary means
+there's room
+for lots of alternatives
+then
+and that's what I try to do
+is leave them room
+for lots of alternatives
+yeah that's a good approach
+I can see myself
+getting hooked
+by thinking of it like that
+but now coming back
+to where we are
+there's something about it
+that I want to
+not push you on
+but just ask you about
+because that's kind of linear
+right?
+and you started talking
+about dynamics
+well we were talking about
+teaching undergraduates
+you have to
+exactly
+you're simplifying
+so we have to start there
+that's kind of
+we don't have to
+but that's where we are
+usually
+that's the way the world
+is kind of assuming
+things move linearly
+and there's
+I mean
+the way you laid it out
+you could imagine
+there's a kind of progression
+though I don't think
+you'd probably say
+it's necessarily
+like a progression
+it's a change
+right?
+no I only use
+these landmarks
+because they
+they're relevant
+to everything we discuss
+yeah
+but that's what I want
+to get at
+why is it relevant?
+it clearly is
+is it a change
+in the way
+like how do you see
+that change
+in
+it's a change in thinking
+it's a change in the tools
+it's a change in society
+there's millions of ways
+we could look at it
+right?
+but
+if we're just thinking
+of it as cognition
+a change of cognition
+I'm
+I'm like wondering
+how
+how you
+you think about that
+what's cognition?
+yeah
+that's exactly
+what I'm trying to get at
+because I could have
+also asked consciousness
+is it a change of consciousness?
+is it a change of awareness
+of others?
+it's a change
+now we have to keep
+those words separate
+yeah
+consciousness and cognition
+should not be confused
+with each other
+but they are
+I'm so glad you said that
+yeah
+they are in most people's minds
+because cognition
+makes you think
+my mind
+my thinking
+my consciousness
+yeah
+but then
+when that word
+gets elaborated
+particularly in the
+scientific register
+but not only
+it becomes instead
+the means to solve
+problems
+the means of achieving
+goals
+of overcoming
+nothing to do
+with consciousness
+whatsoever
+well this is the way
+cognition is often used
+as thinking
+which means
+problem solving
+emotions aren't
+usually counted
+in there
+motivations aren't
+usually counted
+they mean much more
+by cognition
+than we cash out
+when we treat it
+in the literature
+we treat it
+as if it was
+problem solving
+and we talk
+I mean that's how
+we talk about ourselves
+for example
+if you're getting a bit
+older like me
+you might speak
+of cognitive decline
+and what does that mean
+it means you're not
+meeting some standards
+you're failing to meet
+some standards
+you're failing at some task
+and to fail at a task
+no animal has ever
+failed at a task
+only humans fail
+at tasks
+because only humans
+invent the concept
+of failure
+so we've invented
+this self
+bondage
+of goals
+we need to meet
+in order to be
+cognitively
+intact
+now consciousness
+is not
+that
+what consciousness
+is
+I certainly
+cannot answer
+but I can say
+that I have looked
+at more than
+the scientific literature
+and the scientific literature
+knows nothing
+of consciousness
+there is expertise
+in consciousness
+this has been handled
+in spiritual traditions
+and philosophical traditions
+because those
+are not cleanly
+separable
+they could
+it's only in Europe
+where philosophy
+and theology
+and our particular
+political developments
+that had the churches
+and the state
+and all those
+religious wars
+it's only from here
+that you would choose
+to separate philosophy
+theology
+in general
+good living
+advice for good living
+good thinking
+but when you review
+human thinking
+in a larger sense
+you find consciousness
+has been a theme
+has been thematized
+in very many cases
+what is meant
+by consciousness
+is nothing less than God
+and then the individual
+will be a contraction
+of that
+so a contraction
+of something
+much larger
+but then
+we are in theological
+grounds here
+everyone likes to throw
+tomatoes at Descartes
+but I don't see him
+as theologically relevant
+and he was trying
+to clear a space
+for
+religious wars
+were raging
+during his entire life
+he was clearing
+a space
+for rational thinking
+I have great fondness
+for Descartes
+and I'm not a fan
+of throwing tomatoes
+at him
+as most people
+seem to do
+I'm still trying
+to understand
+what I should think
+of Rene Descartes
+and that's actually
+where I'm going
+next in my work
+oh
+yeah
+but it's not the
+cogito I'm interested in
+it's the zero
+on the coordinate plane
+which is the same
+cogito
+interesting
+when you spot it
+as being the same
+thing as the cogito
+and you realize
+it changed mathematics
+you realize
+hang on
+things
+consciousness
+and maths
+and everything
+have got totally
+mixed up
+he's certainly
+not doing psychology
+you see
+we tend to
+mock something
+we understand
+as Cartesian dualism
+that thinking stuff
+and the extended stuff
+and we say
+look
+Descartes has this
+thought bubble mind
+it's a secret interiority
+Descartes didn't do that
+we've done that
+in the wake of Descartes
+in developing stories
+of the individual
+through European history
+I mean we've gone through
+things like the French Revolution
+since
+we always like to follow
+these paths
+of the great philosophers
+and the standard to go
+I'm sick of this story
+to go from Descartes
+to Hume
+to Kant
+but we had the French Revolution
+in there
+that was just as important
+in this characterization
+of the individual
+that lamentable story
+of how we came
+to think of minds
+in a particular way
+has been developed
+in ignorance
+of the manner
+in which the body
+has changed over time
+the history of the body
+needs to be considered
+together with any history
+of the mind
+because what you think
+a body is
+is something
+that is itself
+a product of your time
+of the kinds of thinking
+that are available to you
+if you're in a society
+in which there's
+well-paid doctors
+and hospitals
+you're going to
+and health insurance
+and
+all these good things
+you're going to
+think about your body
+rather differently
+than someone who grew up
+in very different circumstances
+at a very different time
+and where you
+where you grow up
+culturally of course
+yeah
+affects where you think
+the boundaries of a body
+might be
+or
+an individual
+or whatever
+people are produced locally
+necessarily
+and so I don't
+I don't
+traffic
+in
+globalizing stories
+universalizing stories
+stories about
+all people
+at all times
+or the world
+the world is an abstraction
+I can't really handle
+in my personal life as well
+I can't handle the idea
+that there's
+a world
+and that we all know
+what that is
+and that it's all
+it's all going on
+at this time
+on this day
+and everywhere simultaneously
+you mean the way people
+just talk about
+the world all the time
+yeah
+we see ourselves
+as locked
+into a temporal evolution
+and we're snagged
+with our birthday
+and our death day
+are snagged in there
+which is a very funny thing
+I mean it's interesting
+we talk about time
+and
+I think
+what I guess
+what I've been trying
+to figure out
+is a way to
+do what
+you were talking
+about doing
+at the beginning
+is
+know where we are
+before we start
+like realize
+what we're doing
+before we begin the act
+because as you're saying
+everything's got so complicated
+and
+everyone uses these words
+in different ways
+and we assume
+that we're all using them
+in the same way
+and
+even something like Descartes
+it depends on what
+he thought of as I
+and thinking
+when he says
+I think therefore I am
+it could mean something
+completely different
+than the way we define
+those words now
+but
+it becomes very hard
+to slow down
+and do that
+and I'm trying
+to figure out a way
+to like
+how can we
+realize that
+these things are
+kind of like
+those diagrams
+that you're drawing
+these are all just ways
+we're trying to understand
+this ongoing process
+that isn't the world
+in the way I think
+you're trying to express
+that
+the world itself
+is the word
+we're using
+to try to talk about
+together
+an ongoing process
+that we can't
+actually
+like
+get a grasp on
+but it's always
+like that isn't it
+in all these subjects
+that's going to be a challenge
+to everybody
+and nobody's going to be
+master of the whole damn thing
+we're done with heroes
+but it is a challenge
+for everybody
+and I notice
+something very special
+about the way
+that you're curating
+your inquiry
+you're talking to people
+that's so rare
+the battlefields
+on these journal papers
+I've had to quit
+most scientific journals
+I won't engage
+in that nonsense anymore
+the peer-reviewed
+professional publication
+in the scientific journals
+on the whole
+is useless
+except in technical areas
+maybe
+yeah and so many people
+say that now
+it's
+that's a trouble
+you see science
+from 1850 on
+science got mixed up
+in the delivery
+of technology
+it became Santa Claus
+as well
+where it was supposed to be
+natural philosophy
+was inquiry into things
+but it became
+Santa Claus
+because everyone
+wanted it
+well iPhones
+and stuff
+technology
+and science
+became inseparable
+and that for me
+is a disaster
+it removed
+so natural philosophy
+are really inquiring
+into the nature
+of things
+it's still on
+some people's agenda
+as Sean Gallagher
+for example
+has suggested
+that in action
+it might be well understood
+as a renewed philosophy
+of nature
+and I wholeheartedly
+like
+I really like
+that suggestion
+because it makes
+clear
+how non-trivial
+the inquiry is
+but also
+what an enormous
+distance
+one must take
+from common opinion
+as expressed
+in text
+that's terribly misleading
+if you read
+scientific papers
+and you think
+that's the state
+of the art
+oh that's
+chatter
+textual chatter
+yeah Fred
+this is really hard
+because
+so many people
+put their lives
+into these things
+and I think
+it's very connected
+to what we're
+trying to get out
+and the other
+subjects we've touched on
+is that
+we get stuck
+in these
+things
+these
+externalized
+even though
+that's not the right
+word either
+but these
+these systems
+that we've taken
+for granted
+as if they're
+alive
+and that's
+the only way
+it is
+like kind of
+the way you're
+saying you can't
+even think about
+the world
+but people just
+refer to it
+all the time
+and it happens
+in academia
+where there's
+like some kind
+of path
+that you just
+assume is the
+right path
+until you get
+so far
+into that path
+that you realize
+oh this is
+just one path
+and there's
+many many more
+and but now
+I've accepted
+all these references
+and terms
+and I have to
+fight for them
+and like
+you're kind of
+stuck in it
+right
+writing these
+papers
+you're
+you know
+you're on a
+track
+you don't have to
+solve it
+you know
+this is not a
+solvable problem
+this is recognising
+that there's
+more to the
+inquiry
+or generalised
+inquiry
+or magnum
+opus
+than you would
+know from
+reading
+the published
+outputs
+or even worse
+the published
+outputs
+filtered through
+journalists
+and popular
+press
+a lot of
+people don't
+know that
+and so
+most people
+don't know
+that
+people go
+around
+talking about
+like
+what do
+we know
+as if there
+was some
+single human
+agent that
+knew stuff
+and had
+discovered
+stuff
+like we
+know
+vaccines
+are good
+you know
+just take
+any of the
+standard
+scientific
+shibboleths
+you know
+we know
+the earth
+is round
+we know
+vaccines
+cure people
+there's no
+we
+in that
+sense
+right
+or there's
+many we
+but there's
+no one
+we
+yeah
+what there
+are
+I mean
+to
+critique
+the
+publication
+the
+professionalized
+disciplinary
+publication
+industry
+in accord
+with
+conventional
+scientific
+standard
+practices
+is not
+to critique
+the activity
+of the
+people
+themselves
+good
+I'm glad
+you said
+that
+because a lot
+of people
+really care
+a lot
+about it
+but they
+get
+they do
+and I'm
+smashed
+by this
+process
+you know
+you have
+to publish
+to get
+a job
+or to
+get a
+lab
+or
+I'm
+always
+struck
+let's
+take
+let's
+take
+a really
+weird
+discipline
+neuroscience
+yeah
+it's about
+brains
+I believe
+I've got
+one
+I'm
+firmly
+convinced
+we know
+very little
+about the
+brain
+or how
+to
+interpret
+the
+brain
+so
+the
+mass
+of
+published
+literature
+and
+neuroscience
+is
+mostly
+valueless
+to me
+but
+the work
+of individual
+neuroscientists
+is of
+extreme
+value
+because
+they are
+inquiring
+into the
+brain
+but they
+do it
+each in
+their own
+way
+the way
+Rameshandran
+inquires
+into the
+brain
+is not
+the way
+Sophie Scott
+inquires
+into the
+brain
+and I'm
+picking two
+neuroscientists
+whose
+personal
+approach
+to it
+is
+exemplary
+and makes
+me
+delighted
+to be
+associated
+with it
+I just
+want to
+distinguish
+between
+the
+activity
+the
+inquiries
+of
+genius
+I mean
+these are
+brilliant
+people
+the language
+we have
+for discussing
+it
+information
+processing
+in this
+area of
+the brain
+that's
+trash
+yeah I
+have this
+I mean
+I don't
+know if
+you have
+if you've
+ever had
+anyone
+in your
+life
+or your
+family
+or whatever
+who's
+needed
+all this
+science
+from
+brain
+studies
+I mean
+I have
+and I
+see that
+it actually
+changes
+things
+those people
+that you
+you know
+said
+I mean
+it makes
+real difference
+in real
+lives
+and in
+the world
+I think
+we agree
+on this
+but that
+seems
+different
+from the
+dialogue
+about
+what
+some
+particular
+activity
+in this
+part of
+the brain
+tells us
+about
+cognition
+which
+that
+seems
+something
+very
+different
+can we
+do
+something
+that's
+rarely
+done
+in this
+kind
+of
+discourse
+there's
+two
+domains
+the
+clinical
+domain
+and the
+legal
+domain
+they're
+both
+relevant
+to
+cognitive
+science
+in the
+legal
+domain
+and in
+the
+clinical
+domain
+cognitive
+science
+questions
+will
+arise
+they
+are
+distinguished
+domains
+they
+have
+their
+own
+purposes
+they
+are
+not
+the
+generalized
+inquiry
+into our
+nature
+they don't need a generalized inquiry into our nature
+the job of medicine is healing
+taking care of people
+attending to what causes them trouble
+and people go into medicine
+with precisely that goal in mind
+and that's what
+that kind of activity is
+the job of law is the ordering of society
+and it's forced to make arbitrary decisions
+I like to point to the magic that happens at midnight on your 18th birthday
+where you go from someone who has to be protected
+to someone who can go out and get drunk and have sex
+it's magic
+it happens
+no one's going to claim that's a natural process
+but it's appropriate to the domain of law
+and we can see why we do that kind of thing
+in the clinical domain
+take for example
+EEGs
+the EEG
+considered as the
+electrical
+variation electrical activity recorded on the scalp
+is not a source of information about the brain
+I'm sorry
+it's just pathetic as you regard it
+and people talk about it as if it was a clean signal
+that's absolute and utter nonsense
+but
+a lot of clinical experience shows us that
+that this
+sounds that we get
+can be correlated with clinically significant
+distinct conditions
+coma, REM sleep, awake
+those kinds of things
+that clinical expertise turns this god-awful
+into something useful
+yeah
+it's looking at patterns
+not
+that's very different from the cognitive neuroscientists
+who insist that they're
+reading the brain from EEG signals
+or that they can tell something about cognition
+from EEG signals
+that's
+no
+we can find patterns with our tools
+and those patterns can help us understand
+illness
+that's just what it is
+but that gets confused right
+with the public discourse
+because I think to go back to this idea that
+I was trying to bring in in the beginning
+we become more aware of ourselves
+and we start to understand
+the knower
+we start to think we're a knower
+and we want to know how we know
+and
+we've turned our attention on that process
+as humans
+in a way that's kind of
+like
+really dramatic
+you know
+we want to know what this is
+what is this
+what's happening
+and
+that's where it gets confused with consciousness
+because
+we want to know
+how do we know that we have
+a life
+and that we're thinking
+and
+also
+that gets
+messy
+and tied into a lot of illnesses
+that are
+connected to that process
+so
+there's
+you know
+it's
+there's not a
+clear line between
+how we can study that
+and help people
+how we can understand it
+just because we want to understand it
+because as you said
+when we just stare
+it's fascinating
+and there's something that
+when we go into it
+we connect to the world
+in a deeper way
+and to each other
+in a deeper way
+so there's all that
+and then
+it gets kind of
+extracted into
+what I think you're talking about
+these kind of studies
+of
+this part of the brain
+lights up
+so you must want some ice cream
+and now we can like
+tell you everything about your thoughts
+and
+you know
+it gets kind of crazy
+we seem to be incapable
+of separating
+of
+regarding ourselves
+well
+let's say
+our
+understanding of ourselves
+as competent
+functioners
+within a normed society
+achieving certain
+behaving in certain ways
+and responding in certain
+socially sanctioned ways
+that is clearly
+sort of a
+there's an awful lot of
+externalities
+of
+constraints that arise
+that don't adhere in the body
+and the same body
+under different circumstances
+would live very differently
+when for example
+medicine is called upon
+to attend to
+problems of the brain
+ignorant of any
+true knowledge
+true essence of the brain
+what they're doing
+is trying to restore
+functioning
+and functioning
+that word
+moves around
+between domains
+and means something
+completely different
+it means something
+completely different
+in a physiological register
+and in a
+oh you're not
+you're having difficulty
+going to work
+yeah your employer
+won't like that
+you're not functioning anymore
+if you're not going to work
+and employers
+I assure you
+have nothing to do
+with brains
+but if you want to help
+someone in their life
+and they have to go to work
+then the part of their
+functioning is
+also getting them
+back
+on the workplace
+so
+it's not a
+clean inquiry
+medicine is not clean
+because people's lives
+are not clean
+no but don't you think
+we've separated
+as if there's
+I mean
+it's our own fault
+right
+we won't blame Descartes
+even though everyone does
+but we have
+accepted that
+there's something mental
+like thinking
+and thought
+and then there's
+something physical
+and of course
+it's not that way
+I mean
+this idea of
+not being able
+to go to work
+is one continuous thing
+of
+an issue
+it's not that
+there's some mental issue
+that you're going to fix
+and that's separate
+from the physical
+job
+and everything else
+like all together
+I mean
+there's not a world
+out there
+that's different
+from whatever's happening
+and yet
+there are different scales
+at which you could
+address that issue
+right
+yeah
+but you bring something
+to the fore there
+that's very important
+you said
+oh man
+that mental stuff
+that's kind of hard to find
+no one can find a mind
+we're all worried
+about the mental
+and you said physical
+as if that was a simple thing
+the physical is no more simple
+than the mental
+no I don't think so
+is an esoteric discipline
+concerned with the registration
+of specific
+qualities of a
+specific things
+we can measure
+with accuracy
+those things
+that can be measured
+with great
+and repeatable accuracy
+get into physics
+and it's an esoteric discipline
+it does not deliver
+what people mean
+by physical
+which is the reality
+it doesn't deliver
+tables
+chairs
+things
+when doubting Thomas
+stakes his fingers
+in Christ's side
+that's physical proof
+he's looking for
+you can't do it
+without a finger
+and a gushing wound
+yeah no that's not
+physics
+characterizing
+mental physical
+as a dichotomy
+as we tend to do
+hides the fact
+that physical
+is just as
+difficult to grasp
+that's a very good
+material matter
+is not solved
+and finally
+explained by chemistry
+either
+no but I think
+yeah that's a really
+good point
+do you think
+it's a part of
+it's for me
+it's like
+back to the
+like let's say
+the observer
+and the observed
+and the means
+of observing
+that's like
+that's just to take
+the kind of knowing
+and put it in that
+because when you have
+something like physics
+it's usually about
+I think I've heard you
+talk about objects
+right like if we're
+going to look at
+a notebook
+or the coffee machine
+or something
+okay your cup
+yeah your cup
+so that's easy for us
+we don't
+like maybe we see
+different things
+or whatever
+it doesn't matter
+we can agree
+that we're going
+to look at that
+that object
+and we can draw
+some diagrams
+and some math
+and whatever
+and it's somehow
+it's easier for us
+to understand
+what the observed
+thing is
+and who's observing it
+but when it's
+in your own
+life
+like
+it's hard
+it can be
+it can feel
+I think it's the same thing
+I think we're still observing
+particular regularities
+that as you said
+are physical
+and just as hard
+to grasp
+or equally
+as easy to grasp
+as that cup
+if you really look into it
+but because we
+kind of take
+these big regularities
+these chunks
+of regularities
+it's just
+we just can assume
+them without
+we don't need to sit here
+and figure out
+what that cup is
+well if you want
+it's harder
+when it's something
+like your own
+mental state
+right
+even if they're
+actually just
+different scales
+of the very same
+kind of stuff
+I have no definition
+of a mental state
+and I have a working
+familiarity with my cup
+it's a very good cup
+and I can leave it
+being a simple cup
+I can also think it
+into very
+very difficult situations
+it's very easy
+to complicate
+this picture of a cup
+oh yeah
+for example
+if you and I
+and an ant
+are in the room
+how come the cup
+is present to two of us
+but not three of us
+and we all have
+cinematic imaginations
+which cup am I
+talking about
+because if you run
+the film backwards
+to this cup
+it sort of dissolves
+into clay
+yeah exactly
+right
+it's about time
+too
+exactly
+duration
+which particular
+temporal slice
+of this cup
+is the cup
+yeah
+it's very easy
+to complicate that
+as well
+and you don't have to
+you know
+you
+doing
+metaphysical speculation
+on a daily basis
+to get things done
+is a stupid way to be
+you wouldn't
+you wouldn't
+right
+because there are
+certain regularities
+and patterns
+that we can just agree on
+so why
+can't we do that
+with something like
+depression
+or something like
+you know
+are we doing the same
+thing with that
+or is that
+does that feel
+like something different
+it's harder to agree
+what we're talking about
+isn't it
+yeah
+that's
+I guess
+but because we can't
+both observe it
+as
+but we can
+I mean
+it's just that
+it's not as easy
+to observe as that cup
+or
+that we haven't
+behind the scenes
+I mean
+the simplicity
+of the cup
+it's simple
+presence in my world
+and the fact that
+I make tea in it
+every day
+and it's not
+a complicated cup
+I have no trouble
+with my cup
+but I can think
+my way into trouble
+with it
+because if you think
+if you look at
+well
+where do things
+come from
+where do they go to
+what other things
+must be present
+for this to also
+be present
+things get a bit
+more difficult
+now if you come to
+something like depression
+I really don't know
+what we're talking about
+but if we talk about
+depression
+we'll come to
+agree on something
+which has to do
+with
+matters of urgent
+concern
+but it won't
+objectify
+nearly as easily
+maybe I should
+compare it to
+drinking from the
+cup instead of
+the cup
+would that be
+closer
+I don't know
+what are you
+trying to get at
+I'm trying to
+understand how
+we can start
+to understand
+that this is
+continuous
+I think you
+agree that
+mind and life
+are not
+different things
+they're continuous
+right
+or
+I'm not so sure
+on that
+oh you're not
+so sure anymore
+I'm not sure
+about anything
+under it
+that's good
+that's where we
+should all be
+no one should be
+sure
+but
+I'm really
+no I've
+I've kind of
+made
+voluntary ignorance
+my
+only sacred
+value
+that's Socrates
+isn't it
+and that's
+yeah
+you only know
+that you don't
+know
+I mean that's
+the beginning
+of a certain
+strain of
+my profession
+if I have to
+describe what I
+do I say
+I am an
+embodied cognitive
+scientist
+and that makes
+me ignorant
+because I
+definitely have
+a body
+so I've
+mistaken this
+game
+I'm not convinced
+that minds are
+countable for
+example
+I'm not convinced
+that when I
+use the word
+I am referring
+to any
+distinguished
+entity
+I'm using the
+word I
+instrumentally
+for my purposes
+and those
+of my
+interlocutors
+wherever we
+going with
+this
+I just
+got lost
+I think
+yeah well
+and also
+that you
+you're not
+sure if you
+think mind
+and life
+is
+continuous
+but
+so do you
+think there's
+something different
+that's mental
+and something
+different
+that's physical
+no
+that doesn't
+make sense
+no
+so that
+would mean
+something like
+a mental
+like depression
+which is just
+something we
+experience
+and something
+like drinking
+could be
+compared
+we can have
+conversations
+in which
+the mental
+a mental
+physical divide
+makes perfect
+sense
+yeah
+we can have
+conversations
+in which
+such
+all words
+are crutches
+all concepts
+are crutches
+and to wield
+them well
+we must wield
+them with
+specific
+interlocutors
+in specific
+situations
+we could
+make sense
+of mental
+physical
+under certain
+circumstances
+from talking
+about things
+yeah
+I mean
+that's what
+I'm trying
+to say
+is that
+there are
+different ways
+of assessing
+whatever is
+and we don't
+even have to
+agree what it
+is
+mind and life
+has become
+the clarion call
+of inaction
+which is
+itself
+under development
+it's a whole
+bunch of
+people pursuing
+some very
+interesting ideas
+do you count
+yourself among
+those or
+I'm not
+I'm not
+anything
+I'm very
+interested
+I have
+contributed
+to the
+inactive
+yeah
+because others
+would call
+you
+like
+ask me
+am I
+Christian
+or straight
+or something
+like that
+no those
+belong on
+forms
+you know
+I'll take
+boxes when
+I'm going
+through airports
+yeah
+yeah
+but it doesn't
+say anything
+I mean I really
+agree with you
+Fred there's
+no
+there's no
+it's just like
+finding the
+language to talk
+about it right
+that's part of
+what I'm trying
+to understand
+with consciousness
+and cognition
+it's not that
+there is something
+that can be
+named but we
+have to use words
+to communicate
+we use these
+representations in
+order to kind of
+connect better
+and hopefully find
+healthier ways of
+dealing with the
+things that do
+bother us like
+depression like
+climate change
+whatever so
+there's real
+stakes there
+we've already
+we both know
+that and we
+care and we
+we're trying to
+understand take
+the stance that
+there's no
+definite real
+way of
+of like you
+know freezing
+these things and
+saying they're
+they're only
+this however
+we still want
+to be able
+to talk about
+it and how
+do we like how
+do we find a way
+to talk about
+it and stay
+aware of that
+that what you
+brought up at
+the beginning
+that we're just
+taking the kind
+of stance here
+to try to
+understand it
+well I think
+most of the
+productive
+activity in the
+life of any
+scientist is going
+to be talking
+to other people
+there's a reason
+the conferences
+were important
+some conferences
+are ghastly
+they're big
+technical fairs
+but the smaller
+meetings where
+people I mean
+people love going
+to meetings to
+talk because you
+can have sensible
+conversations with
+a few people with
+whom you share
+some common
+terms of reference
+discourse now
+we do have a
+habit of acting
+as if discourse
+could be just
+put on the page
+and put out there
+for everybody
+and anybody to
+read that's an
+application of
+responsibility we've
+learned the value
+of face-to-face
+discourse a little
+a new through
+the pandemic
+the way in which
+text is being
+treated with chat
+GPT is similar
+to the way in
+which the scientific
+literature has been
+treated as if text
+on a page made
+sense no it
+doesn't make sense
+text on a page
+doesn't make sense
+we can both read
+the same book
+and come away
+completely with
+completely different
+experience
+yeah that's I
+believe I mean
+that's a very
+important point
+that but I think
+it's something we
+assume that we've
+come away with the
+same experience
+you know which is
+what's troubling
+nonsense
+absolute nonsense
+yeah of course we
+haven't but it's
+it's somehow assumed
+if you read the
+same book you're
+reading it the same
+way but it matters
+like that's kind of
+why I'm trying to
+put these traject
+it matters everything
+you've read up to
+that point how
+you're going to
+read that book
+yeah and we
+haven't read the
+same thing so we're
+not going to read
+we haven't read the
+same things and
+everyone pretends
+like everybody's
+read the whole
+canon exactly
+yeah which is
+complete nonsense
+everybody's read
+but but as you're
+reading this book
+that discusses those
+philosophers and so
+on you're getting
+little bits of the
+common currency of
+ideas that swim
+around but it's not
+clearly indexable
+and I don't know
+where Plato's really
+interesting for me for
+example but I've
+been dealing with
+Plato my entire
+life because Plato
+has influenced
+every goddamn
+thing I've read
+Plato years ago
+and found him
+kind of boring
+I'm reading Plato
+right now with my
+mouth open
+absolutely
+astonished I love
+it when that
+happens when it's
+just yeah yeah
+yeah I was not
+ready to read Plato
+before this year
+this year isn't
+that spectacular
+wow I'm following
+the Iamblichian
+curriculum Iamblichus
+laid down a
+curriculum of 12
+of Plato's dialogues
+that were to be
+read in this
+particular order
+oh where do you
+start
+Alcibiades
+oh wow
+and it ends the
+last two are of
+course the Timaeus
+and the Parmenides
+the formidable
+Parmenides
+I don't think I've
+ever I'm only up to
+the symposium at the
+moment but I I like
+that because Iamblichus
+was very influential
+and so this way of
+reading Plato is the
+way that a lot of
+people before me
+who's I find very
+interesting would have
+read Plato so if I'm
+reading Plato I'm never
+I'm in Ballybrack
+Ireland I'm never
+going to get to
+ancient Greece it's a
+long time ago so I'm
+never going to get to
+any historical truth or
+any fidelity to some guy
+called Plato that's
+nonsense if his words
+are still knocking
+around maybe they're
+capable of knocking me
+around a little bit but
+I'm not kidding myself
+I'm tapping into Greek
+wisdom I'm making
+sense from the present
+you're connecting to it
+but you're not it's
+nothing like whatever it
+was then but it's
+still it's still
+connected to it somehow
+I know nothing about
+ancient Greece I'm I
+live in 2024
+I'm quite localist in
+space and time and I
+think what we think of
+as our knowledge is
+vastly distributed and
+much less specific about
+past times than we
+believe it to be
+but it sounds like
+there's something about
+reading it the way other
+people have read it that
+interest you or something
+is that well I have
+great respect for
+Amplicas I mean I've
+come to recognize that
+the the world of
+Neoplatonism and
+Theurgy is for me very
+appealing but you know
+these ideas are mixed
+up I'm not being true to
+any tradition because I
+like talking about
+joking characters from
+from from olden times
+right there's a new book
+out by Gregory Shaw who's
+very good on Theurgy he
+previously wrote one
+called Theurgy and the
+Soul which was an
+explication of I am the
+key and Theurgy very
+good book but he's just
+producing you and it's
+going to piss everyone
+off they're going to hate
+it it's title is
+inflammatory it's Hellenic
+Tantra Tantra Hellenic
+Tantra whoa now of
+course Ambulat purist is
+amazing no no no that
+Tantra belongs over there
+in India and you know
+about it and the Hellenes
+they're the Greeks and how
+could you get these
+things because he's
+he's giving these
+historical associations
+no particular regard he's
+making sense by finding
+out what he from a modern
+from his situated
+perspective can tell about
+different ways of
+approaching altered states
+of consciousness now you
+mentioned consciousness and
+I said there's lots of
+people who have studied
+consciousness and they
+include Theurgists and
+they include The Tantrics
+very much so yeah so so in
+a way it's a it's it's a
+middle finger to anyone who
+insists on historical
+purity that what we're
+doing now is a direct
+continuation of the past no
+we're always bringing it
+forth and you were always
+I agree but there's also a
+kind of responsibility or
+something to because if
+you're going to use some
+words that other people are
+reading differently somehow
+might be good to know that
+there are other people are
+being affected by those in a
+way that's whatever the only
+reason that we're in a
+position to make sense not of
+a tradition called Hellenic
+Tanta there's none it's just
+this this inflammatory term is
+just a real there isn't it
+does not pick out something
+historical but the only reason
+that we might link Greek
+ideas that we think with
+because we're all of this
+tradition we're all Greek or
+Christian thinkers with Tantra
+is precisely because of
+scholarship there's been
+excellent scholarship of late
+in all of these areas in the
+Mediterranean world of late
+late classical era and in
+tantric studies there's
+incredible scholarship so we're
+learning new and then we
+that's why I say I found that
+science doesn't know anything
+about consciousness because I've
+been looking at some of this
+stuff absolutely yeah or they
+do know something about
+consciousness yeah well if you
+if you come at it from that
+then you have the links right
+you're not just using this
+word it's maybe you're going
+through Trungpa or something I
+don't know or maybe you're
+going back to actual like
+later texts or something
+because those things did meet
+and I think even in like in
+activism when you look at
+Varela and Maturana and
+cybernetics and how they open
+started opening to other
+influences then you can start to
+trace at least you're not just
+taking some word and using it
+without responsibility I guess
+one reason in action
+administered such a an impactful
+kick in the pants to cognitive
+science is because it drew
+self-consciously from Buddhist
+epistemology and not from
+Greco-Christian epistemology
+which seems so radical and crazy
+at the time it seems like when I
+look back how much people tried to
+reject that and the kind of people
+didn't necessarily know those who
+were Greco-Christian thinkers
+didn't necessarily know that those
+Buddhists knew something or that
+yeah that there was knowledge I'm
+not saying any particular person
+knows something in fact there was
+another way to know what they knew
+in a way like I think about those
+talks I'm sure you've read or list
+what the ones that Varela did with
+Dalai Lama and Rosh and all those
+people right way back when they were
+first starting to do it and when
+you're reading those you just realize
+it's almost like category theory or
+something like you're seeing two
+completely different paths to a
+really similar kind of understanding
+in terms of not the details but the
+pattern you know given given that
+they came from an unusual
+epistemological starting point
+groundlessness they're not experts on
+Buddhism nobody's an expert on
+Buddhism there is no Buddhism
+Buddhism doesn't exist what there is
+right if you see the Buddha you
+should kill him or something
+yeah you could come around the
+Buddha kill him but there's a hole in
+it an immense wealth of dialectic
+between schools between thinkers in
+sorting these out and articulating
+their differences and their
+commonalities and what you're going
+to get from one school from another
+school so it's in no sense trying to
+get inside some mysterious entity
+called Buddhism that just doesn't
+exist it's learning from these
+centuries and centuries of dialectic of
+you know the Indian this context has
+provided some of the best dialect
+dialectics humanity has ever had it's
+absolutely wonderful and it's all gone
+on between the schools it's not within
+mm-hmm yeah even within those
+traditions that we from my perspective I
+might lump together some huge amount of
+scholarship which actually when you look
+into that there's you know so many
+different paths just within that
+within that area I'm intimidated to be
+speaking to someone who's read Hegel I
+mean
+well you you brought up dialectic you
+know what I liked about Hegel it keeps
+coming up this idea of the pattern it was
+never this kind of details when especially
+when you look at something like history
+and you know the way he gets interpreted
+but it was more reading him that he was
+trying to express a kind of pattern of instead
+of the parts you know that and the way you
+kind of just described those or the way
+Varela and the Dalai Lama and all the
+people that were with them whose names I
+can't remember now unfortunately the way
+that their discussion was two different
+kind of patterns that had gotten to that
+were getting that were aligning but not
+totally getting to a different place which
+was actually a place they'd both already
+been but they were in a way discovering
+each other and there's not one place the
+more you dig in the more you find oh my
+god it's always multiple conversation in
+1300 in Tibet oh my god that was really
+interesting what was going on there you
+know yeah I find that very exciting yeah I
+almost find that being to be some kind of
+motivation for studying all of this that
+you know that that discovery of self and
+another that helps you recognize there is
+no self you know there's this weird isn't
+you know trying like what you're talking
+about there is no Buddhism and yet Buddhism
+is kind of a word we use to describe that
+pattern or path there's something about
+that process that can sound kind of crazy
+or can leave you really even frustrated I
+think because you can't ever nail something
+down and say that's it but just the process
+itself if you can surf it you know it feels
+like oh this is the reason to be doing this
+yeah it's notable that one of my main
+interlocutors for at least 12 years now has
+been a local shop here in County Wicklow he's
+a Theravadan Buddhist monk oh he's he's 84
+years old now oh wow he's not within any
+Buddha I mean he did take order he has the
+Buddhist passport he did he took vows we
+yeah he lived in India for 30 years studying
+studying studying studying studying and came
+back here and he's developed a very
+idiosyncratic way of approaching these but
+he knows an awful lot of stuff that most
+people just do not know and drawing richly
+from him has relativized my own
+understanding and made it clear that I'm
+never going to understand things in a
+manner that's suited for publication in
+nature that doesn't mean I couldn't publish
+in nature but that's not where my
+understanding is gonna lie my understanding is
+not in the papers it's in the questioning no
+you would have to kind of you could and you
+have I mean you you've published plenty about
+language and stuff but uh you you go into that
+system and you kind of play by those rules and
+you and you do it and there's something about
+that that can be very helpful but I think when
+you start really trying to put all these things
+together in the way like where you want to see how
+these different patterns relate to one another it
+becomes very hard because then you don't fit into any one of
+those boxes anymore and it becomes very hard to reach to
+constrict all this um other world other uh ongoing stuff
+encountering and put it into some kind of system when you
+know what you're doing is so static well in the in the we we can
+draw here now from plato among others in the valorization of
+knowledge there's a distinction to be made between the best grasp you can get on the
+the world that can be expressed with formalisms and and techniques and so
+on and um no isis pure and simple knowing
+i'm not going to go so far as to say gnosis
+but there there is a another sense of knowing which we mean when we say
+such fancy words as intelligence which is not articulated
+explicated knowledge it's um a state of the knowers if you if you will
+it's a kind of uh a snapshot or something of
+snapshots have really messed with our imagination haven't they
+well i guess what i'm trying to get at is that i don't
+i've i've studied i mean i've been in different places throughout my life like
+sometimes i remember reading a lot of buddhist texts and trumpa even who you
+know before i had heard of varela even though i kind of you know i ended up at
+varela through trumpa which is a weird thing
+but i had studied philosophy and i don't know sometimes you can feel like okay
+there's just you can never you can never actually like anything you write is not
+going to be how it is because you've written it
+so it can make you think why should i write um and i don't think at least for me or at this
+point in my life that's not the attitude that feels genuine it feels like i'm giving up or
+something you're right to create huh you're right to create don't you you're right to to
+figure things out to share to be tested to find out what you know to find out exactly to create a
+path you know what if what if plato hadn't written down what socrates supposedly said i mean i
+there's something about this continuity through representations and by that i mean like literally
+writing things like books or songs or whatever something very important about it even though
+we can never actually express the ongoing is you know it doesn't demean our craft at all to to make
+the observation that words on a page are not intrinsically meaningful but they're meaningful to
+certain people who are have a certain kind of preparedness to encounter them with whom there's
+a certain kind of resonance or for whom they might be significant they don't have independent meaning
+um that doesn't in any way diminish our craft and i love writing and i love making videos and just
+just finding out what you know playing with the ideas and i'm playing the in a manner that other
+people can play with them as well your videos are really good do you find that you learn when you're
+doing your own when you're doing those videos i mean it feels like a creative act sometimes when i watch
+them it is a creative act but it comes with years of preparation so that i i don't know what i know
+about something until i'm put on the spot and have to say something about it and so i'll try and frame it
+and in it's the video that forces that it's a discipline on you to say something within a specific
+framework um it's terribly useful terribly unpredictable though as well and the idea that
+one should have an output of any particular kind is just wrong um but i think i like that word
+discipline it uh isn't there do you gain anything not gain anything like isn't is does that feel like
+part of a meditative process or a growth process or something when you because you're kind of putting
+yourself out there in a way you know you're it's a risk in the same way a paper is a risk oh growth
+is not bad i don't mind if my papers crash and burn on my videos i never watched it's not not in the
+slightest bit of importance to me i even only mean to yourself even i mean they're actually not i mean
+people like to watch them and people learn from them so you can you know we don't even have to talk
+about that but even if you made one and never posted it let's just say like there's something about
+you're you're kind of like coming out of yourself in a way to look at yourself that's can be seen as
+like risky or something um but you said you said it wasn't a growth process and that's much better
+because if i'm forced to put it put on the spot and now say after 20 years of thinking about it make
+a little statement about what biosemiotics is about or ecological psychology or one of those kind of
+things that cognitive sciences scientists opine upon um what i'm doing is um laying down a marker
+for myself stabilizing some things that have arisen for me some points that have come together and and
+they would be forgotten if i didn't do this but it's so that i can move on to the next stage and when
+i've moved on to the next stage i don't care about it yeah but you can help other people follow that
+path i think you know that's a really beautiful thing that we do for each other and i guess when
+i'm like when we can zoom out and when i when i think about cognition as navigate navigability you
+know different kinds of ways we've made and we can all follow very different ones it's just that we
+have to realize how how many different ways we can always get to any one place um how that place can
+look so different depending on where you've been before you arrive there all that becomes so
+important and beautiful but so hard to describe you know one thing i'm acutely aware of remember
+remember that vertical and horizontal axis yeah aspirational and epistemological nearly all the
+aspirational stories end up creating white professors oh they're not really relevant to the i mean if i'm
+doing cognitive science and if it's not about a woman who makes carpets and it's not about a fisherman in
+africa who catches fish and it's not for me cognitive science it's a local thing um but so many of the
+stories because of the normative aspect you know we all want society to produce the best these wonderful
+individuals and we're gonna you know we've got this addiction to genius yeah um which is a i find it
+alienating um i keep coming just i tend to dismiss an awful lot of stuff as as white man's fantasy
+which is totally unfair because i'm a white man and i i share that fantasy in a sense probably some
+i mean for example that i i dislike the theories of noam chomsky um but i recognize his brilliance as well
+as a thinker oh yeah it's just he's a white man thinking and so am i right yeah no no no disrespect
+mr chomsky um um that tension is very live for me and every story that comes up in cognitive science
+i'm asking are we speaking of the perfected individual within our society or are we speaking of
+the um latent potential of every or maybe maybe cognitive science isn't democratic you know maybe
+there's no human atom just monads no but i think that i i'm glad you brought that up because it i
+don't know yet how to link it to all the stuff we're talking about but it's there because uh these
+trajectories that we're on you know we read what is part like as like for example i'm thinking of just me
+when i'm younger going into the philosophy department or we were talking about your freshman
+classes and you just you just take what is given to you and quite often it is white males i mean
+that's just what it's been but it doesn't have to be so it's really kind of more of an observation of
+how do we start to shift and because all those other stories as you were saying are already there
+you know it's not like they're not there it's just that not on purpose a lot of people haven't
+looked at them and brought them into this these very particular places that we're talking about
+now i mean we could go to another part in the world and there would be different things that
+have been left out so but in these kind of late students don't underestimate students they
+yeah they're bringing it in themselves they're bringing it in and they're bringing their own
+questioning their own um perplexities their own um somewhat cautious evaluation of what they're told
+their world is and how it works um and one way to regard teaching in this difficult area is to give
+them the tools to approach these stories without having to finalize themselves without being told who
+they are yeah um to be able to maintain some kind of critical distance from them and to realize ah if
+i pursue this i'm pursuing this kind of story i'm not pursuing truth itself i'm pursuing this kind of
+elaborated genre of a story which features these kinds of characters i think that's such a that seems
+like a small thing but that's just that can be very hard to grasp and to do and it's not something
+teachers in my experience uh are often aware of because we kind of think we have to be experts
+and then that means that you've learned the only way it is and you're supposed to now relay that to
+everyone else and if it gets questioned then somehow we've decided that that's like our some
+self that's being questioned i mean all of that i feel like is what we're trying to change with all
+these questions about cognition and consciousness when it comes to how it might actually be productive
+right and you seem to be doing that at the beginning but um do you think that's actually like
+typical i mean do you see other people doing that too in in in the profession of teaching about these
+topics i no longer go to other people's classes very often yeah but you you must kind of be aware
+of it or hear what your students say or no i'm in a technical department where technical
+subjects are taught with big um industry commitments with exact closed book exams and so on and i'm
+i'm very very fortunate that the cognitive science program can is allowed to exist there with this
+very radically different way of doing things um there is rather than professing to be you see a
+that's what a professor does right professing to be an expert would suggest that you know a lot of
+stuff but sharing the experience of learn of picking up many stories considering them taking something
+from them and leaving them behind again that kind of experience can be shared i think as long as you
+don't claim to know too much um and then that way the students hopefully become co-inquirers
+yeah that would be the best i mean that's often the best experience as a student that i remember
+and probably as a teacher too when you're you know participating in something together rather than
+playing a role that there's another thing which happens cognitive science is full of jargon oh god
+help us and philosophy oh god help us um i do like where possible to avoid obfuscation even if that means
+limiting the epistemic reach and i've been greatly helped in this at pure chance you asked him my
+trajectory but by pure chance when i was a graduate student i got accepted into a linguistics department
+than computer science i forget which i was in linguistics in theory but it was mainly in
+computer science um and i'd sworn off phonetics as an undergraduate i didn't like phonetics i wanted
+to get to the concepts um but i was working with a phonetician there who was taking these dynamical
+ideas and i i so i i played with dynamic the tools we had and had people saying silly phrases in time with
+a metronome because it could measure something if you can measure something you can write something about it
+measurement is a great unaddressed problem but at least i could measure something and it wasn't until
+after my phd and after successive failed grant applications that i understood what i was
+studying and i stopped having people speak with metronomes and then in the laboratory i had people
+speak with people that yielded lots of really interesting results and then i just dropped the
+laboratory because i realized what i was studying i didn't need a laboratory for because people are doing this
+and i'd actually uncovered something empirical in the world that you can go out and study
+joint speech when people make the same sounds at the same time is an empirical object easy to find
+in everyone's world unlike almost every other cognitive scientist i can say when i'm studying
+i can i it's full of mystery as to what's going on in joint speech it's it's sometimes you need a
+completely inhuman register to understand what's going on it's not about persons sometimes um can
+you give me an example of that this is something you're i mean people associate with you a lot in
+your papers the joint speech so maybe we could just like really quick a space so it's like something
+like that happens in these you you you name places like sports events or protests or where people are
+speaking the same thing or in the same at the same time right the same rhythm joint speech is there's
+there was no science of it and there still is basically no science of it and yet it's very easy
+to study scientifically as long as you drop the assumption that you know what the knower is or the
+known or the means of knowing that you you with a suitably ignorant standpoint there's way more to see
+so for example a biologist might look at joint speech and go oh hang on i've been studying giraffes
+and platypuses and here's this animal what are they doing first you must recognize what speech is from
+a biological point of view exquisitely controlled exhalation and now you come across and now you come
+across a species that engages in joint synchronized exquisitely controlled respiration see i didn't have
+to appeal to any minds or any mental physical crap there i'm just talking about animals exquisitely
+controlled synchronous respiration that would i mean david attenborough would be like we found the ultimate
+animal so that's from a biologist point of view that's really really interesting i guess other animals
+do it too though so not just human animals no there's very few uh parallels very very few
+parallel there's some interesting i was just thinking about like dogs or wolves or something
+howling together but maybe they don't yeah and there's various things with macaques and so on
+there's a couple of instances of chimpanzees being caught hooting together uh but there's no strong
+parallel just as but it's not like chanting at a sports match i mean that's just like yeah just like
+every language rises to feature in some respect in animal communication as well um so joint speech
+has shadows in other animals but is particular it says for my money it's as strong a hallmark of a
+distinguished species worth studying from a biological point of view as our enlarged forebrain that we seem
+to value so much did you coin that word the or that phrase do you call it a phrase joint speech those
+two words together yeah because i needed to make the definition unassailable people make people we have
+to be able to find people making the same sounds at the same time i dropped over the years i dropped all
+reference to texts words sentences making the same sounds at the same time
+um another thing that's happened so i this was paper i published fairly recently worked with luciana
+long ago we had been in jerusalem and there's a lot of chanting in israel you know and i've been looking
+just looking at anywhere i can see i notice people saying the same thing at the same time
+i'm interested in it and individual observations suddenly reveal worlds um but if we drop the
+assumptions of psychology completely i'm not a psychologist um if we drop the the if we get over
+the eternal fight between sociology and psychology sociologists for a hundred years have trying been
+trying to get people to accept things as real that they insist on making individualized psychological
+things social phenomena are perfectly perfectly real and they have their own ontological dignity
+if we just get over all that and be as ignorant as we can be i've been staring and looking at joint
+speech and in that observation from that ignorant point four domains crop out and they're not predicted
+by any social sociological cultural anthropological or psychological theory and those roughly
+adam braided are the domain of ritual which includes all prayer right all rich i mean ritual is huge
+oh yeah how big is ritual uh protest yes it's entirely generic and it doesn't matter what language we're
+speaking it doesn't matter what part of the world we are if there's protesting going on there'll be
+chanting going on yeah football is a weird one um because these giant stadiums that are so conducive to
+chanting are a relatively recent phenomenon they arose in the 19th century after a long hiatus the romans
+had them in the coliseum but then the big stadium events went away for two thousand years i never
+thought about that wow yeah so ritual protests and sport is that and the and primary education what
+primary education primary education and here i need to say i'm trying to peer through the weeds
+what we found was in western classrooms the chanting is the mathematics its mathematics tables are
+chanted that's true there's more chanting that goes on but the math is very important because it's a
+sacred value of a particular kind of educational system and when we enlarge our focus and look at
+madrasas we find chanting as well and they're chanting the quran and when you now compare the
+chanting of mathematics and the chanting of the quran something really interesting happens you see the
+imposition of the sacred values of the society being stamped on the children and it becomes evident in the
+even studying the overt public empirical forms what you can observe in for example madrasas the quran is
+taught in many countries in which arabic is not the native language where the children do not even
+speak arabic and they're taught to chant the quran and they're not taught arabic they're not taught
+what it means they're taught to chant it because the chanting is itself the performance that's valued
+there's a great um high risk regard for someone who could chant the quran from memory in islam and we
+in our little world do the same thing with this bloody mathematics that calculating skill don't mistake
+the glorious domain of mathematics for that which is going on chanting calculating chanting your sums
+and crap at me sums i was crap at me sums in primary school i'm still crap at me sums that's not
+mathematics but it is held to be mathematics in the same way that once you can chant the quran you're
+doing something you're doing the right kind of thing if you're so you're saying all that is primary
+education like you're basically saying our education as young people most aspects of primary education
+and point out that across such culturally diverse situations primary education is a theater in which
+we see the sacred values that the children are supposed to embody okay arising through chanting
+what about song singing what is that just not singing is something else or
+you say singing and now i'm going well which singing where there's tons of singing singing is
+wonderful singing is all kinds of things is it joint speech when we just break into song together
+oh yeah i guess we've learned it before that's very important when you study joint speech the
+distinction between speaking and singing goes out the door because you find everything on a continuum
+all all that's interesting you find raucous cacophonous and you find sublime harmonious you've got
+hildegard from bingen and you've got our attempts to sing happy birthday over zoom you know they're all
+joint speech joint speech when i say chance people start to get into hippie mode and think of it as
+positively valence and i point out it's the natural language of fascism north korean propaganda nierenberg
+um joint speech turns out to be to carry all these associations with it and to open up things
+you can see things in a new life precisely because it's been articulated without reference to the
+assumptions of the formed person or the society in which that the social structures and cultural framing
+within which we everyone lives well it's a kind of an alignment of spatiotemporal patterns so it could be
+used in all kind of ways in terms of motivation oh it is and those those four big domains um do not by
+any means draw a circle around joint speech but this is really interesting because this seems like a whole
+i mean it's basically like you've created uh what i would imagine would be like a whole discipline of
+study but you've just kind of pushed it away and left it or something i mean that's a really big thing
+there joint speech that you observed and put a term on and i could even think like there's all this
+hyper scanning now where you have two people in um fmri you know and you see how their brains i mean i
+know you don't like the stuff but you could even look at the body i mean there's so much richness kind
+of in that but i feel like you're just you've just left it or something those tools in the right hands
+can be used to ask sensible questions those tools do not by themselves deliver sensible results no no
+they're just ways of looking at a neuroscientist who works within the computational cognitive
+neuroscientific paradigm which is an absolute genius and she has a genius for the human and
+she studies respiration and vocalization and all its manifest varieties not restricted to saying
+take a pack of cards or any of the stupid things we ask people to do so she studies laughter and she
+studies hiccups oh yeah could you say your name one more time sophie scott sophie scott and she figured
+out a way that we could use fmri to study chanting when you're on your own in the scanner you're not
+allowed to move that's wild trying to capture any of the passion uh that that is naturally you know you
+you've killed chance when you put someone in a scanner but there's a shard left and her genius allowed us
+to bring out that shard and show we what what we showed in this study was we we had a paradigm
+she's absolute master of the techniques so while you're not allowed to move in um in the scanner
+what the scanner is registering in fmri is of course blood flow blood flow is very slow
+and so you do something and about three or four seconds later there's a an alteration to blood flow so
+that's just enough time to say a sentence and then we scan while you're quiet so that that was
+right okay that's smart and then we could hook them up with microphones there are special microphones
+you can use in here so we could hook them up with an experimenter and get them to repeat something in
+time in in synchrony with the experimenter what we did was we had recordings of the experimenter and we
+had the live experimenter and we never told the subjects of that there might be recordings or there
+might be like that that might be recording nobody noticed but there was an a manifest difference in
+blood flow associated with being in live reciprocal interaction with a real person oh fascinating and
+that was subconscious so these things can that doesn't mean we understand the brain and we're looking
+at changes in blood flow but it shows that even with this tool or specifically with this tool you
+can see the reality of intersubjective connection that is that inheres in this kind of speaking because
+if you're speaking with a recording you're not modifying the recording if you're speaking with
+another speaker you're modifying each other you're in a handshake and that could tell us a lot about why we
+might actually need physical presence or maybe it could tell us something about how when one person
+is in a particular state uh being around a person of another kind of state could have helped them i
+mean there's all kind of practical yeah things that if you just look at the patterns could be helpful
+even for what we were talking about earlier with these i'm trying to understand what depression is or
+something you could understand it without needing to understand it when the pandemic hit we all became zoom
+creatures and long before that about 10 years before that uh something came to me in a dream
+like one of those periodic tables and benzene ring things just up in bed at three o'clock in the morning
+and said out loud you can't chant over skype wow did you wake up and write it down or you just remember
+it or i remembered it went in the next day and checked it and i found you couldn't chant over skype and
+i had figured out that that there was a fundamental problem with the lags that breaks this reciprocity
+that's so absolutely essential fascinating wow that's correct and we've i've worked on this with
+a few colleagues for about 15 years now there is a fundamental limitation there's a reason you can't
+sing happy birthday together even despite your tolerance for cacophony and howls
+in that particular situation there's a there's a principled fundamental logical reason you can't
+chant and chant over these networks precisely because the reciprocity inheres in the activity
+the direct connection inheres in the activity any temporal lag sunders it wow that's a beautiful idea
+for embodied cognition approaches i think but also just for understanding that technology is a tool it's
+not a body yeah yeah and we make do with zoom we can do all kinds of things i mean
+people do yoga i've done dancing classes over zoom you know oh yeah sure and it's a wonderful thing
+yeah no but that was learning something not about how should we fix zoom but learning something about the
+essence of what's going on when people synchronize when people
+engage in this collective enactment of something they are literally not separate that's why
+my non-psychological stance and my interest in buddhism means you know you see things if you stop
+thinking of the person as this distinguished separate thing
+well something like that shows us how we how poorest this forest or there's no the boundaries change
+right of i mean yeah they're fluid we we flow yeah and i think of something like elias kennedy's
+writing about crowds or yeah i mean there's you know there's like very real consequences of if having
+a better understanding of of that something like sports but also you brought up the nazis and how
+you know these things are almost you almost get put into a pattern or you place yourself into a
+pattern um and if you had an observation in the way of like the knower looking at the
+the known something about that stance again that we've been trying to talk about
+like there's something about science and what you're doing that's allowing
+another way of having that stance there's a chap in stanford university um sep gumbrist
+uh what's his sep is his um familiar name hans hans i think gumbrist and he wrote a book called crowds
+okay which is extremely good he's a football supporter
+oh and he was writing about being a football supporter in stadiums and he's writing about the
+manner in which kennedy and many others have discussed these kinds of enthusiasms collective
+enthusiasms and the manner in which they have been systematically demonized
+yeah in the entire literature almost nobody has given them any respect and he doesn't shy away from
+noting the proximity of violence in such situations the violence that adheres in football is part of
+football i'm afraid you can't get rid of it you can't get rid of it and still have this mass
+even enthusiastic activity i'm sorry we are apparently violent that is what happens when
+this energy flows it's not to be explained in terms of individual people and their little minds
+and their little hopes i i guess i would hope that we could i don't think you could get rid of
+the energy but you could maybe channel it into some sort of fighting that's not so harmful but
+football's gonna be football and when you i mean the monks in my favorite benedictine abbey have
+channeled it they've channeled it into singing the praises of god some would say sports is a channel
+of the energies of war i mean i don't know that sounds really generalized and probably not quite
+right but there are ways we've channeled kind of things that come together when we're together and how
+overpowering it can get we do channel it into something like song or chant or sports or towards
+uh doing something better with it channeling is an interesting way to put it um there would be a
+there's a there's a way of regarding this which is quite difficult because to to express because
+people can't stop believing in themselves i'm afraid their own stories but the energies that
+are arise when people come together and commune and assemble those are the words i'm using for
+it now yeah i was thinking about church too and what people get out of it yeah communion and assembly
+and we we we assemble and commune in different ways and when we do there is an energy there which
+has its own ontological uh force yeah something is coming into being and it will dissipate or it will
+be repeated and it might some of these events come together and they are repeated over thousands of
+years the eucharist has been celebrated over thousands of years some of them come together and they go away
+again your average protest does this some of those protests persist so so the persistence of these patterns
+over time does not speak of individuals does not speak of individual lives it speaks of human creative
+energies but they're the kind that wipe out humans as well oh yeah yeah i i think i guess that's what i
+was trying to say that um we could we could get into kind of a a frenzy or something of just you know
+what is it um apollos not apollo but bach bachian or what's the word the where you just sort of um
+yes exactly i mean we could i guess that could be i mean every that's another thing about joint
+speech everyone loves it man there's nothing so good as hooting together with your mates
+i mean campfire songs it was brilliant you know yeah do you do you see the connection between what
+we were talking about earlier like there's some kind of meaning in this in a really practical way of
+we are we are like you said nobody can stop believing in themselves but in a way i feel like
+we're trying to expand our idea of self even if that i mean you could go the other way too and say there is
+no self there's in a way i feel like those are going in a similar direction and something like
+joint speech is helpful isn't it if you can and and something like studying joint speech becomes very
+helpful too because it gives you a way of looking at what's happening and starting to be like it gives
+you a way to start to understand yourself as both scaled much smaller and scaled much wider that there's
+not a self like me but there is a kind of patterning right that at sometimes i'm the group at sometimes
+i'm not you know i'm less than the just this outline of the body or whatever there's something
+about that that i think could be really helpful for us maybe maybe that's what science can help us
+do too is just get a vision of it you know yeah yeah and listen science is not a closed domain there's
+all kinds of work goes on there's all kinds of conversations that go on they're not all in the
+academy right i'm more interested now in groups of thinkers who span the academy and other ways of
+engaging with the world who are interested in practice collective or individual or who are just
+um not regarding the academy as the sole producer of knowledge that's that's the white professor view right
+yeah well that's what you know i try to get i try to talk about beyond dichotomy which i mean of course
+it's a bit silly beyond dichotomy but in a way um somehow something like buddhism or spirituality or
+coming at this topic from that angle would seem like it's you know usually you're not supposed to
+talk about those kind of things if you're a scientist or at least that was once the stance but i feel like
+we're trying to learn that you can take different stances without collapsing them into each other and saying that
+you know in the same way of mental and physical we were trying to talk about it's just different ways
+of assessing whatever all this is and you're they're different paths and they you end up in
+different places and you can use them in different ways and there's different kind of rigor but like why
+can't they all be ways for us you know well science is not a thing there's a science is distributed
+activity it goes on in all kinds of ways there are forms of forms of scientific forms that include
+scientific discussion and scientific intervention that um leave open an awful lot of interpretive
+possibilities that that do not finalize and nail things down or don't aspire to being the last word
+but are means of thinking things through in the present um i think in science you always have to be
+to ask yourself who are you speaking with um the idea the the dead mode of publication is you publish a
+paper and it goes out there and it changes the world that's just a bit um silly um when you
+write something it's going to be read by specific people and it's going to engender hopefully specific
+kinds of conversations and specific kinds of discourses so you need to be aware of who you're
+engaging with and what's possible in specific forms of engagement i'd like to flag one thing here that's
+signally absent from most people's understanding of science and i don't think it should be
+which is human potential we do not know of what we are capable we are very good at spotting
+breakdowns and most of the discourse and cognition is all about desperately trying to keep the bike on the
+road it's about desperately not failing we have no vocabulary for the positive in us for the enormous
+capacity we have to exist and um as well as we possibly can indeed such
+enthusiasms have been hunted down stamped put in the asylums they're not tolerated any science that's
+closed with regards to the unknown territory of human potential well it might be good for fixing
+dishwashers but that's it it's not good for self-inquiry that's what people sort of have
+thought but as you were saying that i was thinking of thoreau and enthusiasm is a supernatural serenity
+in a way we get into science or when i was young i mean the reason i wanted to understand philosophy and
+science was that enthusiasm and that motivation that you just described but then you have to apply
+a certain kind of rigor and that's why critical thinking is so important there is a difference
+between saying something as science and doing the science um and it can be hard to learn that some even
+something like critical thinking which is so important but then you can just get sucked into
+analytical philosophy where you're arguing about stuff that you don't care about anymore
+just for the sake of winning an argument and it can get confusing can't it once you dig into it
+it absolutely can and there's all kinds of misleading um four builder and representations of science that
+would that can rapidly lead you to misunderstand things for example scientific quantitative scientific
+psychology is the most desperate of domains terrible terrible domain um can you say more
+i'm not sure what do you mean well yeah cognitive psychology idea that you can measure people's
+mental capacity or study their cognition metrics in the larger sense through laboratory tasks and the
+laboratory tasks are insane and we don't even know when is the right time to to observe a person
+the assumption that you can take a person with all their full potential and study them in the
+laboratory is already to have gone yeah i write about that my mastered a little bit like just the fact that
+we set up an experiment in a certain way and then we assume that and then you do things like stimulus
+response is the way to do it i mean and that we've learned something it's all very very needs
+needs evaluate reevaluation there's an elaborated world of theories of visual perception and cognitive
+neuroscience and it's founded upon the practice of taking people in stopping them being people
+sitting them down in a chair sticking a screen in front of their face putting images on the screen
+they didn't even feckin notice that there's an image there yeah and then parameterizing a very
+particular pixelated part of the brain to look at it's all the face area has been identified by people
+forced to stare at what is essentially the face of christ on it in a digital image form on a screen
+interestingly sean gallagher and i and within a week or two of each other both sort of pleaded in public
+would you mistake an image of a tiger for the presence of a tiger and you obviously wouldn't but
+these psychologists are happy to confuse an image of a face with the presence of a person yeah and then
+it's so easy to do and then and then confuse the image of a brain with the brain the the snapshot of
+some activity in a little part of the brain has then been taken as a brain when we look at the picture
+of it in the publication yeah yeah this is not a brain images have us ruined it's very it's very
+tricky i mean it's very you really have to catch yourself you know um and we our capacity to make
+images far outstrips our ability to understand what we're doing as we do so um i'll just point out that
+the images that everyone gets wags their tail about the fmri ones are not about the brain they're about
+blood yeah and they're not the brain but we say they're the brain there's a very useful thing that
+someday maybe somebody will learn from in the articulated discourses that underpin a lot of
+buddhists and hindu epistemology the mind is not a thing it's the heart mind that is the organ of the
+heart and the organ of the brain have not been separated and there's recognition that all cognition is
+passionate all cognition is passionate um we have artificially separated the two and when we're
+looking at fmri we're seeing that passion but what we're not seeing is the sparky logical bits that
+warren mccullough dreamt of yeah i really think it's the most subtle but the most dangerous confusion we
+have right now and it is kind of this map for the territory thing that people talk about but
+you know where we really really do do this all the time um and it's hard to catch but we're
+learning it i think how to catch ourselves coming back to that sometimes useful distinction between
+mental and physical we again mislead ourselves if we think all the mystery lies in the mind
+a lot of the stories that unfolds depend in the first place on objectifying object objectification
+of the body in a particular register the allopathic body constructed by clinical medicine
+is a creature born in the fear of death it's not the body it's one way of regarding the body with the
+specific purposes of the medical industry in mind now god knows we all need that kind of thing
+but the the fact that we think that's the body leaves us with all these puzzles about mind
+yeah i think it's so subtle it's just even hard to talk about because when you think of the body you
+you almost think of all those anatomical drawings and stuff and you think that's everything but
+those are themselves sort of sketches of sketches and we've really kind of um we're it's very hard
+to catch all those mistakes we've made in terms of assuming um representations for realities you
+couldn't but when you realize that every articulated story of ourselves has its commitments needs to be
+elaborated and explored as far as it goes but needs to be capable of being unwound back to our our primary
+ignorance if we're not capable of doing that we'll we'll go extinct we'll kill ourselves if we can
+constantly unwind the story so that we can retell them read there must be something creative in our
+thinking our thinking is not finalizing right it's it's um i hope we're getting there with certain you
+brought up dynamics and all the stuff you that's that you were studying in the 90s like the mathematics
+and stuff those are representations but at least we're trying to have you know with category theory
+complex systems networks we're trying to at least start to understand how we might do what you just
+said representationally like look at things from many different positions see how regard depending on
+which node or trajectory you followed in which landscape it all is going to align a little bit
+differently even though it's continuous uh patterning mathematics can kind of maybe help us start to
+understand that but then like this most essential thing just seems almost like what you've seemed to
+have learned in something like buddhism being able to recognize that those are representations not in your
+brain and body just of a process that you will never represent fully well just like the thing that the
+children are chanting in the classrooms is not really mathematics right most discussion of
+mathematics is not really about mathematics it's about um efficient calculation within specific domains
+that leads to utilizable results and i pointed back to the association of the cogito with the zero on the
+coordinate plane in other words there's a conundrum a paradox at the very heart of mathematics itself which
+is our paradox as thinkers yeah because yeah exactly we it it's hard not to reject the representations or
+the drawings or reject descartes because he did it you know because we we still think in that either or
+mindset instead of this scaled nested open mindset which i think we're trying to get to it's you can't
+be completely open you you you you make some choices you follow some story you find what can be done
+but you remember that you made those choices and we're very good at forgetting that we made those
+choices we're very good at forgetting for example that the cartesian coordinate system completely
+radically changed geometry made it metric and it gave one particular point a distinguished role that
+was not geometry before then no and it's not the only way of doing it either but we also kind of
+assume people seem to think that all the mysteries around um change and time and space
+kind of went away when the calculus was invented no they didn't they opened up further but it gave us
+a way to notice they were there we developed symbolic competence to solve problems that involve
+rates of change and curvatures and so on that's true but the fundamental questions you need to recognize
+about it is of use to recognize that those questions didn't go away and that such fundamental questions
+can trouble us right now right here sitting here yeah and that's that linear way of thinking too that
+for me is it's i i find myself doing it even when i try to catch myself doing it where you think there's
+a beginning and an end and there's one way and but actually all that we learn and all that we create
+perpetuates what's possible there's no linear beginning and end there's you're not going to get to the
+end of this i mean that's not how it exists as something that's beyond that already so we fall
+in love with our stories though forget that we told them that's yeah and some of that we have to do just
+because it's just so much but part of it's also why we do have these representations that we've now
+started to take as reality because we want to pass things on and the best way to be able to forget but
+still have it is write it down or put it into a math problem or or something but anyway i think
+we've been talking now for oh my gosh almost two hours so we should probably take take a break and
+have some dinner or something but um did we finish it i don't know is there anything we i mean we we
+should just talk again at some point because we didn't even really get into cognition and consciousness
+i value this andrea because because this is for me that this is the kind of inquiry i want to do is
+talking to people talking through these things find out where i'm nuts where you're nuts where we're
+both ignorant what we learned yeah me too solve the world's problems or find out what the find the
+answers but be better prepared to ask the questions and look into things yeah and just let it matter and
+let it be um a learning process you know for me that it keeps me motivated and also helps me
+understand where my blind spots are because it's you know you can't really see unless you
+try and talk about it so thank you for helping me with that i ordered your book on the volkswagen bug
+that's great yeah thank you i'm not sure interesting thing to have i'm sure i'll have something to say
+about it next time yeah well i mean it it would be interesting at some point maybe we're still a few
+conversations away but all this does kind of relate to how we move through the world for me and um
+and very similar to what we were talking about in terms of the vehicles that we create
+in the ways we've talked about on this i also think all that side together i think we could get
+there because it connects to some of the stuff that i've seen you do too but let's just talk again soon
+and see what happens how about that maybe we can try and do it you know every now and then sure we'll
+bump into each other at the sarah reading group if that carries on right um i'm going to india by the
+the way i meant to say for the first time i really appreciate this i hope you have a good evening
+i'll see you in oslo next you in oslo and then we'll plan our next conversation conversations to come
+okay cool thank you take care much gratitude bye

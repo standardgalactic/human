@@ -1,0 +1,851 @@
+it's precisely on that notion that there are serious dangers.
+It's not just a theoretical exercise that at some point in the 50s,
+we had Turing machines and let's just try to conceive and develop a theory
+in which we would see the mind through the lenses of the Turing machine.
+And then we had the modularity of the mind.
+And then we started having the computational theory of mind.
+So that's an exercise that you can do.
+You can advocate that that's a useful exercise
+because it gives you a conceptual toolkit.
+Wait a minute, this is actually quite useful
+because now I can explain all of these processes in the brain
+in terms of inputs, outputs, thoughts and those kind of things.
+Useful, right?
+So then what was the metaphor that we could use?
+But now see as things develop, see how dangers are coming with that.
+It's so easy now.
+Once you conceive, once you make the argument with your premises
+that the mind is computational in character, right?
+But then you can, by analogy, say that, well, large language models are computational.
+They are predictive models.
+Therefore, they're minded.
+It's very easy to take that argument of the mind as a computer
+and then make the argument for now computers such as LLMs are minded, right?
+Now they're conscious.
+Now they are independent entities from our own doings.
+This is where philosophy must come in.
+And that's the role of philosophy.
+Again, we go back to Wittgenstein because I don't want to take credit for it.
+It's to precisely eliminate confusions of thinking and confusions of the ways
+in which we are stacking our beliefs after beliefs and building a theory, right?
+So sometimes you might have to reverse engineer, go back and test every single layer
+of that stacking that got us into a certain theory
+and really use our best critical thinking to adjudicate whether or not
+this is more useful other than having a common language for a very,
+I don't want to say pre-scientific, but in a way that we can talk about it
+as long as we do not fall for it being an ontology.
+And I feel like the computational theory of mind is something that began as a metaphor.
+And at some point, we kind of like lost a little bit track on it
+and it became using it as an ontology.
+Hi, Ines.
+It's so good to see you.
+I'm so glad we meet, even though we're on opposite sides of the world this time.
+Absolutely.
+Likewise.
+I'm delighted to see you again and to be here.
+So thank you so much.
+Yes.
+Good morning to Australia.
+Yeah, exactly.
+So there's so much I want to talk to you about.
+But since it's already after midnight here, we're probably only going to have about an hour.
+So I'm just going to jump right in.
+And first thing I've always wondered, and I don't know, is how you got into philosophy
+and what it was that pulled you into this world, which has since become philosophy and science
+and neuroscience and many other things.
+But how did you, what was, do you remember first being interested in this?
+What was it?
+Yeah, so I was, I grew up in Portugal and Portugal has this very peculiar, interesting feature,
+which is that the education system in high school, you have two subjects that are mandatory.
+So one of them is Portuguese, obviously.
+And then the second one is philosophy.
+So regardless of...
+You have to take philosophy.
+That's very smart.
+It's a mandatory.
+Absolutely.
+It's incredible.
+So you have a population that has been, that has been educated for three years in philosophy.
+Because those are, regardless of the top of the area that you choose, economics, science, humanities, arts,
+you will have to have philosophy for three years as a military subject.
+So everyone in Portugal is a philosopher.
+I didn't know that.
+At least everyone in Portugal has three years of philosophy.
+And the curriculum is not even that easy.
+It's quite like, it is quite exceptional.
+It's quite interesting.
+So I have that.
+And then before I had philosophy, I was always thinking that I was going to do psychology.
+Because I've been always very, very interested growing up.
+I was reading all the books that were to do with like, kind of like diaries or kind of like personal experiences.
+That's what was interesting me as I was growing up to understand like people's life, people's psychological life.
+So then I was like, yeah, I'm going to do psychology and I want to become a clinical psychologist.
+So that was the plan.
+So you wanted to figure people out.
+Yes, I suppose so.
+And that very practical way of helping people overcome their psychological challenges and navigate the world.
+So I wanted to have a really hands-on approach.
+And psychology seemed like the way to go.
+And then as I started progressing in philosophy during those three mandatory years, and I started coming up with certain questions to my philosophy teachers at the time.
+And I remember exactly what the question was that was like really disturbing me and perturbing me was I would come to them and I would be like talking about I just wanted to talk about how can we, if at all, can we have an objective perception of the world?
+So this was what was bothering me at the time was, of course, I didn't know as much as I know now.
+But of course, it was about like subjectivity and objectivity of perception and all of the philosophy of mind stuff.
+So, and then he told me, I know that you've been like making plans to go to psychology, but the questions that you come up with and that you're interested in, they're philosophical.
+And I was like, oh, okay, so then, um, here we go change and a change of, um, of path.
+And then I got into a philosophy, um, degree.
+Um, and, um, yeah, and then I started progressing into philosophy of mind.
+It became very, very clear where I was, where, where I was very, very interested, the topics that I cared about and that really excited me.
+So it was a perfect fit.
+Um, and then eventually I started realizing that, oh, I want to know more what, what other sciences have to say about the mind.
+So then I started progressing into cognitive science and getting, um, training and skills in neuroscience as well.
+Has that question remained an important question for you, trying to understand how we can have something objective?
+Because, I mean, that's kind of at the heart of what science is trying to do in a way.
+Um, but then there's also the psychological aspect, which is so subjective and phenomenological and you're, you're dealing with both of it.
+Yeah, absolutely.
+Yes.
+There's so much to do and there's so much that excites me.
+So it's interesting to see that that question ever since high school, there was disturbing me, skipping me at night.
+It was keeping you up at night, really?
+You were awake at night in high school, thinking about how, how can there be objectivity?
+That's great.
+So to speak, but I was reading so much at the time.
+And, and actually my beginning in philosophy began with starting to read Buddhist philosophy.
+So I, I didn't begin with, um, I didn't begin with, um, with the Western philosophy.
+It was with the Buddhist philosophy that I started.
+And then as I started receiving training in Western philosophy, so I started, um, having more conceptual toolkits within Western philosophy.
+And that's kind of like where I, I work and I'm most, um, skilled and trained to do.
+And I, as I usually say, I am a student still of Eastern philosophy of mind.
+That's the best way to go through life.
+Yeah.
+Yeah.
+Yeah.
+So I suppose it's still, it's with me.
+And then that's a re that's a reason why I think that eventually I did my master's in Wittgenstein because Wittgenstein is philosophical.
+No wonder.
+Okay.
+You do talk about language a lot, language games and so on.
+So, and Wittgenstein.
+So now I get it.
+Okay.
+Exactly.
+So then Wittgenstein was where I found, um, the most reasonable to me, of course, to my perspective, to my worldview, um, the most reasonable way of understanding that peculiarity of subjectivity of standpoints, subjectivity of perceptions.
+Um, and I found, you know, that saw us in, in Wittgenstein, which is very much pervasive in the philosophy work that I do presently.
+Yeah.
+Was it Wittgenstein that led you into ideas of inactivism and action?
+I don't know which term you prefer or the four E's some, some call it because, um, I remember when you came to Berlin School of Mind and Brain, which was back in right before COVID hit or right as COVID hit.
+Um, it was right in the middle.
+Yeah.
+Yeah.
+Um, that school and most of kind of the departments were very analytical in the philosophy.
+And, um, I believe you're one of the first to start really actually teaching a class on inactivism, though a lot of people I think were hungry for it at the time.
+And there's been a big switch, you know, just in the past five years towards that, that becoming pretty mainstream and even in analytical circles.
+But there was a time when it wasn't, and there's still a lot of debate.
+So I wondered, you know, were you studying all the analytic critical thinking, which is wonderful, too, which is one reason I think it's wonderful.
+Portugal makes you study philosophy.
+We should all learn how to think critically.
+But, um, I wonder, when did you find in act, in act, in action, in activism, that world?
+Yeah, it's quite interesting.
+Thank you for asking that.
+So, in activism has different, um, so, so to speak, like, approaches.
+And one of them, the earlier one, it comes from all two places, Maturari and Varela, um, and then developed further on by Evan Thompson and, um, and then further on with these other brilliant minds that are in, um, with the Basque Country.
+Yeah, with the Eleanor Rush book, Evan Thompson, Eleanor Rush and Varela.
+And then, yeah.
+Yeah, precisely.
+So, and that branch of inactivism has very strong connections to Buddhist philosophy.
+So there I found.
+Varela did, right?
+Francisco Varela.
+Exactly.
+Yes, and Evan as well.
+And there I found, okay, so here I can continue progress and engage in a place that is precisely on the intersection between where I started in philosophy, which was Buddhist philosophy, and where my toolkits is coming from now, where I've been trained, which is Western philosophy.
+And specifically analytic philosophy of mind.
+And then you have another branch, so to speak, of inactivism, which would be the one that is mostly developed by Sean Callagher.
+And that's embodied inactivism.
+And there you find another very interesting intersection that I was very keen to be collaborating and engaging with, because then you find intersection between the ideas of inactivism and phenomenology, which is another topic and another stream of, um, of work that I, I, I'm very keen to study.
+And I engaged with in the past, um, closely, and then you have radical inactivism, which is got a basis on Wittgenstein.
+So I was quite happy.
+I was very much, I was like, okay, so this really works for me.
+I really liked these approaches.
+They have their idiosyncrasies and they're quite important that we understand their idiosyncrasies.
+It's because their focus is slightly different than once, as Wittgenstein would have it, once you start at a certain kind of like premise and you start, you know, building your systems of beliefs or reason, then you will end up in slightly different kinds of approaches and toolkits.
+So even though they're slight, they're idiosyncratic, um, these three different dimensions of inactivism that I just laid out, they are quite idiosyncratic.
+Um, they all offer, um, in, um, sort of like more developed or less developed ways, um, toolkits that are, I find extremely useful to describe and understand and to inform scientific experiments as well in what comes to mind and psychological life.
+It's interesting because I hadn't thought of it until you just said that, but in a way, the more Buddhist side, um, there's a kind of an objective feeling there.
+That's a bit closer to maybe your original question, even though of course it's, you know, there's a lot of phenomenology in, um, in that book, the embodied mind with Thompson and Rush and, and Varela too.
+And phenomenology is obviously like the subjective point of view and taking the individual perspective seriously.
+So it's, as you were talking, I was thinking, actually, a lot of your work seems to be kind of blurring traditional demarcations in a way, but towards more clarity, if that makes sense.
+I mean, I even think like, when you, uh, you were talking about Wittgenstein, it made me think about one of your papers.
+Um, in some of your writing, you talk about cognitive modeling, I think, or computational modeling as maybe a language game.
+And I felt like when I was reading that or listening to that, that you were sort of trying to unstick us a little bit from taking our models or even the idea of objectivity and subjectivity a little like too seriously.
+You've also mentioned toolkit a lot, and I feel like in a way you're trying to kind of unstick these things and, and look at them as tools.
+Does that make sense at all?
+It does.
+It does make sense.
+Yes, very much indeed.
+So that paper that you're referring to, um, I really need to get back to it because it's now still a preprint.
+I'm working on it to come in a collection of mental representation and the study of the mind and brain.
+So, yes.
+So that paper is one in which, um, one can think of computational modeling through the lenses of Wittgenstein's concept of language games.
+Right.
+So you can think of, um, so for, for starters, you can think of a very pluralistic approach when it comes to computational modeling of, um, cognitive phenomena.
+Let me say it like that.
+Of whatever kind.
+And of course we need to get more precise about what is the question that we're after?
+What is the phenomenon that we want to understand?
+So we need to nail that down.
+But for the sake of it, cognitive phenomena can be understood by virtue of us developing as scientists, developing computational models.
+Right.
+Um, because we don't have, or sometimes for certain phenomena that is so complex, um, there's, it's got complex in the sense of having high degrees of freedom, the very difficult to predict, um, the, how the system's features, future states, or how the system is going to behave in the future.
+Given what we know, then we need to use this computational machinery to try to understand that because you cannot set up an experiment to do that.
+So in those particular cases, we need to define which toolkit is going to be the most useful to understand that particular phenomenon that we, we, we are, we are after.
+And I find it that, um, sometimes that gets a little bit, um, that idea that it's a toolkit, it's not ontology.
+Right.
+Ontology is, um, an activity that of understanding and of description that we engage theoretically with, given the information and the data that we have, we reasonably think about it and try to make sense of it.
+And then we develop an ontology.
+But what I, what I, what I tend to reject is the idea that out of a model, you can get an ontology, right?
+And there are many reasons for that.
+Uh, one of them, I'll just, I'll just leave it here and point out for, for those who are, um, acquainted with the, that, um, fallacy, then they'll know exactly what I'm referring to.
+I'm referring to, to the, to the map territory fallacy.
+Um, I believe that when we, as scientists want to understand the phenomenon, cognitive phenomenon of high complexity and we develop computational models that are incredibly useful, otherwise we would not even get a glimpse and we've been making very good progress to understand, uh, neural dynamics or even psychological phenomenon or phenomena through those kinds of models.
+And they are very relevant and very important, um, the, um, the way to look at it, I think is that we develop them as tools, as we could, um, think about it as a metaphor, as some goggles that we put on, where these computational models, they are the first step of a computational model is, um, a bunch of assumptions and premises.
+We need to do that because we don't know what's the state of affairs.
+Cause that's, that's, that's what's on the other side after you run the model that you want to get, you get, you want to get some answers, but you don't have them.
+So then the models are leveraged from assumptions that we make, that we think it may be the case.
+Right.
+Um, so we start by doing that and then we define what's the algorithm, uh, what kind of data am I going to use?
+So all of these are decisions that are made by that scientific community or that researcher that is developing this model.
+So in the sense that we have a model that is like a sort of like a package with a certain, I've, I've decided that I'm going to use this kind of like algorithm.
+I'm going to use this kind of like modeling strategy rather than all of these other bunch that we have available, right?
+That means that the model must be some sort of tool that we scientists in our scientific practices engage with in order to get to something that we didn't have before, which is the understanding of the phenomenon.
+So that we can get to a reasonable explanation and hopefully, ideally we would get some predictive power such that we not only get an explanation and understanding of the phenomenon, but we get to say, we understand, and we can, we get to say from that understanding, what would be the prediction of how people behave if they were in that particular situation.
+So predictive power would be an ideal case that is not always the case.
+Now, what are the implications of that?
+The implications of that is that we can take many different routes.
+We can take many different goggles to look at the phenomenon, and then we would, we would achieve different kinds of epistemic virtues or advances or gains.
+Right.
+And that looks to me like engaging in a language game because we have a very specific kind of language, an algorithm, a computational language, very specific kinds of like assumptions that we do that is used and has been agreed upon within a scientific community or that works within that language.
+Right.
+And then by virtue of engaging in that as a language game, then we will get a certain kind of, we get to a certain kind of conclusion that allows us to derive some kind of like inferences about what is likely the case.
+Now, what this means is that for me to understand or to study a specific phenomenon, I can use different language games.
+And what comes out of that is that if I can use different language games, then what comes out is that these language games or these computational models, they cannot be isomorphic to the phenomenon itself.
+Because then we would have the task of saying, okay, so which one is going to be.
+And of course, what I'm, what I'm.
+Yeah.
+The map would have to sort of be the territory in a way or something.
+Exactly.
+Right.
+So then the map will be the territory, but then once the map becomes the territory, the map is not, doesn't have use anymore.
+It's not a map anymore.
+Right.
+Right.
+And the territory is always changing.
+So, I mean.
+Absolutely.
+There's all these nested scales of this.
+Yeah.
+Absolutely.
+So when a model is isomorphic to the target, then it is not a model anymore.
+So that's the thought.
+But once we fail to grasp that fallacy, then scientific modeling.
+So of whatever field it is, scientific modeling becomes who is on top of the best tool to explain the phenomenon.
+Right.
+Which is pretty much the state of affairs.
+Yeah.
+But even if, if, if it's in there and we fail to grasp that there are different language, they can be seen as different language games.
+Yeah.
+There's many different paths or routes to the same place.
+Yeah.
+And I don't see why it would be different.
+It's not different.
+If you look at the history of science, we, we found similar ways to similar answers and we found very divergent ways to similar answers.
+So I think it's, it's really interesting though, to, do you know C.T. Noyen and his work on games?
+Have you ever heard of him?
+He's a philosopher.
+I don't think I have, but I'm missing out.
+Talk to him for the show.
+I think you would really like some of it.
+Just thinking about games.
+It's really different from you, but it would really, it might be a nice, he might be somebody interesting to work with.
+Anyway, I'll send it to you later, but this, I, you know, you often talk about theory as practice and these kinds of things.
+And right now you're talking about models and it sounds like you're talking about something like a dynamical systems model with, or some algorithms or something.
+And it sounds very kind of concrete, but I think what you're saying could also be applied.
+I mean, we can generalize on this, on this show and, and kind of think wildly a bit, but can't that same idea sort of apply to theories like computationalism?
+Maybe even in activism or functionalism, or I feel like in, in the world of philosophy, sometimes it feels like one or the other has to be correct.
+Instead of what are we oriented toward trying to understand and solve and which one of those paths helps us get there the best way.
+Does that make sense? Can that, can you, can you kind of take what you were just saying and think of it in terms of those wider, more, you know, messier theories?
+Yes, absolutely. And here I'm completely going to borrow from Wittgenstein, because my understanding of the relation between philosophy and science is very Wittgensteinian, in the sense that they are not in the same business.
+They are in different businesses that can, and should reinforce each other and complement each other.
+So when we engage in scientific practices, our goals are in advancing scientific explanation.
+By virtue of making sense of patterns, by virtue of looking at the natural world, identifying patterns, and then we can use that identification of patterns, either to set up experiments, if that's possible, if the levels of complexity are low, and we can set up experiments to understand those patterns.
+Or if there's a high level of complexity, or if there's a high level of complexity, then we can develop computational models precisely to help us make sense of those patterns.
+And hopefully, hopefully, if we do a great job, then, in the end, we will have something that we didn't have before.
+And what we have that we didn't have before is epistemic gain, we have an explanation in the form of an explanation.
+So I think that both philosophy and science are in the same game, game, game of epistemic gain, but they in different ways, but extremely complementary.
+So we have on science, the goal of developing explanations and predictions.
+That's the scientific goal.
+And then we have in philosophy, all those same goal of epistemic gain, but epistemic gain is slightly different.
+What we have in philosophy is a goal that rather than it being of or for scientific explanation is for the description.
+So this is slightly different, because what happens is that in that particular case of philosophy, what you want to achieve, we are talking about completely different methodologies.
+Logically speaking, we have inductive reasoning for science and inductive reasoning for philosophy, right?
+So for that reason alone, by virtue of thinking it in terms of logics, right, philosophy is in the goal, is in the game of advancing a description of how things are, which is why I was like, let's be very, very careful.
+We don't get ontology as a commodity that comes from using or developing computational modelings.
+We get prediction power, ideally.
+And then with philosophy, what we need to look for and strive for is ontology, which is a description of how things are.
+That is potentially why you were referring to, well, it sounds that we may have some theories that may be more accurate or correct than others, as we describe the phenomena in front of us.
+And I agree with that. I think that there are just more, yeah, they might be paths that help us better understand ourselves or our situation or the text or, yeah, I don't know.
+I guess, yeah, the question, do you think you have to choose between computation, computationalism and the four E's, for example?
+Is that like a choice?
+I think you do. Yeah, I think you do. I think you do. And the reason that you do, there are many reasons that you do, that you need to make a call.
+You cannot hold both. So it begins by the fact that if you hold both, you're holding contradiction.
+So you can't, you don't want to do that.
+And another reason is that because the ways in which I was saying that philosophy and science, although they share the main goal for epistemic gain,
+but they have different within themselves goals where philosophy is for description and science is for explanation.
+What happens is once philosophy does a very good job, which by the way, not always is the case.
+If philosophy does a very good job in offering these descriptions, these conceptual analysis, these conceptual definitions, right?
+These very strong theories, right? That are not fallacious.
+If philosophy does that really good job, which is what philosophy should be doing, then it can do something that is really important, which is to inform the experimental settings,
+if inform the computational models, such that when someone has the hard task of developing a computational model to understand a certain cognitive phenomenon,
+then they can rely and use on these descriptions that hopefully are as accurate as possible.
+That's why we really need to choose. We really need to use our best critical thinking in philosophy.
+That's what philosophy is about is to use the best critical thinking such that we get into a description that is the one that is that mostly approximates the state of affairs of how things are.
+And once you get that, that is going to be really useful to inform computational modeling of a certain phenomenon or that we would like to understand.
+For example, in my case, in philosophy of mind or in cognitive science, it would be anything to do with the mind and brain.
+I understand what you're saying, and I agree that a choice has to be made on an individual level in terms of what you're going to understand and the logic you're going to use in certain situations.
+And as a philosopher, of course, I could see what you mean that a philosopher needs to choose.
+But I can also kind of zoom out and think, well, but there's not only going to be one description that's always going to fit in the same way that there's not going to be one map that's going to fit to one territory because the territory is always changing.
+So I really don't it's hard for me to think that there could be one kind of description, as you said, because we're still describing the ontology is not actually the ontology, even if it's ontological, even if it's an ontological description.
+It's not the process is not the thing that would be confusing the map with the territory.
+So it seems to me that something like computationalism or a lot of the things that have gone into, you know, that I think have gone overboard and that I want to talk to you about in terms of the metaphor of the computer and so on.
+But at some point that could that could be seen as helping us understand something about the mind and cognition.
+Same with any other ism that we want to want to say.
+I just I don't know. But are you saying there should only be one that we then decide is the only one?
+Or is it more that everyone needs to kind of take their place and then you have this very healthy, critical thinking that then takes place as those things kind of spar and evolve each other?
+That's a very good question.
+So let's say that once we are on the business of trying to make headway into a description of something in the world, let's say that to some extent there is one more correct description rather than other options.
+Right. Let's say that there's something like that.
+There are conditions to whether or not we can attain that.
+And that goes back to the question that I was struggling with in high school, which is can we have an objective perception or perspective or standpoint of the world?
+And science reveals to us that although we could work with that as an ideal, that is not the case.
+It is quite useful more recently in feminist epistemology or standpoint theory.
+It's quite useful to have diversity of perspectives precisely because our own limits to our own perspectives and perceptions.
+So in that sense, I think that in the end of the day, there is a correct way of describing.
+That's what the description is about, right?
+It wants to be, or it should be as accurate as possible.
+And other descriptions may be far off the target.
+And I think that the best attitude for us to have in relation to that is to understand that we are sitting in our own perspective of what makes most sense.
+So in a way, we might be working without a safety net.
+So then what shall we do, right?
+When we need to adjudicate, what shall we do if we understand in a very Wittgensteinian sense that I've got a perspective, so do all of the people around me, right?
+So then the best way to deal with that or the best attitude I find is to use our best critical thinking together with our humility that we understand that this is our limited perspective of studying and trying to say something that is valuable, that epistemically valuable about the state of affairs of a certain phenomenon.
+In this case, in this case, the mind, for example, right?
+And so that in the same way that I've got this perspective, other people got their own perspectives.
+So we shall respect that.
+I do think that the way out of it is to train ourselves as much as possible into critical thinking, and in ways that we kind of like try to put aside ourself and our prior biases and all of those kinds of things.
+And think about, okay, given all the knowledge that I've been receiving, engaging with developing, what do I think that is going to be a theory that best captures by describing a certain phenomenon that then we can provide to science in order for science to develop computational models or scientific experiments.
+I definitely think critical thinking is, it's, it's wonderful that you said Portugal has to have philosophy and I guess that's what you learn is critical thinking but I think that's such a skill and it's way underrated, especially in many countries and it would help a lot with a lot of the misinformation and issues we have just if we were trained to think critically.
+So I'm saying that because I think it's really, really important and philosophers sometimes can just bring that to the table and it's a huge, huge difference, right, just to be able to think critically.
+I, I'm a little more mystical and esoteric and I know this, so the logic side of philosophy was always harder for me and it, but for that reason it was probably the most beneficial to learn.
+Okay, so that said though, I find that we can even, because it's such, it is a bit of a game in a way and you want to win, once you get into the logic and the analytic and the deep philosophy, it there's, I don't know, this is at least my experience.
+It does become, it feels like a game and it feels very competitive and it feels like you really need to win and it can be very easy to latch on to certain things in a way and a kind of attachment to go back to the Buddhist kind of thing and not really know that you are and then just sort of end up arguing about logical things, trying to, trying to be right instead of a bigger picture of this description of how the world is.
+Have you seen that at all, is that, is that ever a problem in your world?
+Not a problem.
+I think the people that I, or the philosophers that I admire the most are those that have changed their mind and they came up and they said, I was wrong.
+Those are the ones that I trust because precisely that notion of attachment and Thomas Kuhn explains that within his explanation of scientific revolutions, right, that.
+Even in, even within, when you are confronted with data that, that is challenging your own theory, you're going to, you're, you're going to, your tendency is to reject it.
+So then anomalies start coming up and anomalies start coming up and then a revolution takes so long because those people that are so engaged and potentially all their lives engaged in a certain theory and the theory starts coming up with anomalies.
+They really have, we humans have that tendency to stay attached to those theories that we so much cared about.
+And it's like, for some of us would be our life work.
+Yeah.
+I was about to say to be fair.
+Also the academia is sort of structured that way so that you almost have to do that to make your name and get a job.
+It's very hard to, you know, open the space to everything.
+100%.
+100%.
+So I was, that would be, that was going to be exactly my second point, which is that academia and science and philosophy is not something that is encapsulated from the real world.
+And the real world is a world where there is a sociocultural setting with power dynamics.
+So we need to situate our, that's why when I refer to science and scientists work, I refer to it as scientific practices.
+We are, when we come into doing our research, we come with and from within not only our own individual perspectives.
+Of course, but also the kind of like scientific, the kind of like social operation that we are within a culture or that we've been enculturated with.
+And we bring that into, I mean, the idea of objective science that's where we do not bring any biases is, is great, but it's really just an ideal.
+More and more, the more we've been having more recently in the last 10, 20 years, I dare say that we've been able to overcome that really mainstream white men or great men theory.
+We've been able to overcome that by having and bringing much more diversity into our social, into our scientific experiments.
+And what that reveals is that the topics of research slowly change into more diverse topics of research.
+The scientific conceptual toolkits also change.
+We have less narratives and less metaphors that are based on a much more male gaze.
+And we have different topics of research.
+All those paths were already there, you know, 100 years ago.
+It's just that they weren't being made obvious.
+So, yeah, it's interesting, though, what you say.
+I mean, it's like this idea of objectivity assumes there's a beginning and an end to things, right?
+And it also assumes a kind of static nature to all of whatever this is, this encounter we're having, that we're trying to figure it out.
+Because to be objective, even if we could find a way with our technology to somehow share our own spatiotemporal position or viewpoint with one another and sort of have a moment of who knows how, having objectivity where everyone's perspective is somehow illuminated, it would have already changed.
+You know, so it's a very weird kind of idea that we can have it.
+And yet at the same time, it's incredibly important because there is a kind of ongoing objectivity that in the sense that the world is the way it is in those spatiotemporal moments.
+And we do want to try to figure it out.
+That's what science is doing.
+So I say that because it feels like holding the paradox a bit, which is also how it feels when I hear you talking about the importance of finding a description that is right and also the importance of being able to change your mind.
+Somehow those don't need to be thought of as opposites, right?
+That that's kind of the space we're trying to open in a weird way, maybe even with the kind of philosophy you're doing.
+But it's very nested, right?
+It's very hard to talk about.
+It's easier to go to beginnings, ends, either or.
+Right, wrong.
+Yes.
+Yes, absolutely.
+Exactly.
+And those are the pitfalls that come with that rigidity of thinking.
+So absolutely, you are 100% correct when you say that even if we were to find this objective channel between the two of us as we are having this conversation, the world is already changed.
+Right.
+So that's exactly it.
+That's why the people that I admire the most are those that are able to change their minds because it really shows that you are in it for the sake of epistemic gain and not for your own sake of proving your own theory that it is right.
+I agree with you, too.
+And it's such a strength to be able to see that the world has changed or things have changed and you see things differently and share that.
+And I think it gives so much.
+I mean, you know, it shows us that we can change our mind and still be authentic.
+You know, I think that's.
+Absolutely.
+And that is science.
+That is exactly what science should be about.
+And it should be because the world is changing.
+The science will also need to change.
+Yes.
+And I want to say two things about the notion of change.
+So one of the theories that one of the computational frameworks that I prefer is precisely the one that takes into high regards the notion of change.
+Right.
+Where that is the main piece, which is dynamical and complex systems theory.
+That's the reason.
+And I'll give you here the reason.
+That's the reason why I think that computational framework has better tools to capture, to model, to gain epistemic virtue upon something that I want to study.
+Because if we begin with the idea that things are changing constantly, let's study that change.
+Let's study the patterns of change.
+I think that we are already in a good direction.
+Right.
+But this comes from, of course, by virtue of my philosophical work that is informing me towards this computational framework rather than other computational frameworks that would take more rigid approaches to how things are in a very linear way, which is not how things are.
+And we know that from physics.
+So in that sense, I am very much into computational model of dynamical and complex systems theory.
+And I know that you are in the Netherlands and in the Netherlands is quite a special place where it's quite mainstream to use this kind of approach.
+And it's really, really a great place to be and do that kind of work.
+And I will point out to a book that I found really, really impressive.
+It's from 2022 by, by Naomi, the writer and Paul van Heert.
+And they are in both in Kroningen.
+And it's, it's, it's incredible because.
+It's that everything changes and you cannot bathe in the same river twice.
+And then they build this, this, this, this, this cycle, this psychology, this whole, how we should understand psychological life and how can we study psychological life with complexity, complexity science.
+It's extraordinary.
+You have to send me that book.
+I didn't know that.
+It's excellent.
+It's, it's absolutely excellent.
+It's no, but it's so true because that at least that, that sort of math and that sort of way of thinking in dynamical systems and complexity theory.
+And also, of course, we can go into sort of active inference and things like that do start to give us ways to think out of, outside of the linearity that I think a lot of us have kind of, you know, you've been talking about our orientation or what I think of as a trajectory or a path that we're on.
+And it kind of sets us up with a string of, you know, affordances and ways of seeing the world.
+And much of that for much of us is just assumed linearity or even assumed sort of duality in our language, even it's built in and it's hard to get out of it.
+Even when you know, it's not real, you know, it's hard to get out of it because it's so built in.
+But something like complex systems and dynamical systems shows us, oh, we can think of it as nested or fractal or not necessarily ending or beginning or depending which node you are,
+or the world's going to look different.
+So I think it is very, very important as a tool.
+And I know you work with that a lot, but I wonder how to bridge like Wittgenstein in that.
+How did, when did that all open up in your life?
+Ah, well, so Wittgenstein informs me on my positionality as a philosopher in respect to my positionality as a scientist.
+So in my understanding of how philosophy relates to science.
+So that's one of the ways in which Wittgenstein comes into place and I find is philosophy very useful.
+The other way is remarks on philosophical psychology, the ways in which we understand or can understand psychological life.
+And by psychological life, I mean our experiential life.
+So I don't mean neural dynamics or cognitive processes of information kind, that kind of thing.
+I'm not, I don't mean that.
+I mean the experiential side.
+So then Wittgenstein kind of like lays out that in that way, which allows then us to bridge with, for example, if we like,
+to bridge it to phenomenology and say, well, okay, in order for us to understand experience of what the world is like for us,
+then we can, for example, look into the work of Merleau-Ponty, for example, and then we can make these connections.
+Or we can look into the more inactive way, which is this more coupling with the environment and how the world becomes meaningful in a certain way.
+Or we can connect with ecological psychology, how the world invites us into explorations.
+And by virtue of what is afforded to us, because it is meaningful.
+And it is meaningful how?
+Well, it's not because it is objectively meaningful.
+It is meaningful in relation to my past experiences and my very situated interaction with the world right now.
+So who I am right now is what is going to determine how and what is going to be relevant for me.
+Pitkenstein has all of that in his remarks on philosophy of psychology.
+So it's quite interesting that what he's saying is compatible.
+So I find him to be, or his remarks on philosophical psychology, to be like a really good standpoint upon which you can then use and then explore or expand into one of the E's.
+Even the way he writes, a lot of my favorite, the way they write kind of ends up being almost like a practice itself.
+And there is a kind of nestedness and complexity and kind of a way of dynamical systems kind of way in which when you, at least, yeah, some of his writing, when you're reading it, it does sort of feel like that.
+And actually, it reminds me of this, Elizabeth Anscombe, there's a paper that a friend and I just kind of discussed where, I can't remember the name of the paper now, but they're kind of using Anscombe and Wittgenstein in a way to link ecological psychology and inactivism.
+I know the paper you're talking about.
+You know that paper?
+Okay.
+Yes, it is by a colleague of mine, Miguel Sigurdwortein.
+Yeah, okay.
+Very interesting.
+So I'm starting to see now how this kind of goes together.
+Yeah, yeah.
+So you work a lot with the ecological and the environment.
+I mean, we haven't said it yet, but inactivism is very much about, you said coupling, and it's very much embodied and the body is very important, not just the brain and the environment and this ongoing coupling, this feeling of dynamism, of change, all the things we've been talking about is part of that philosophy, but I should say it kind of literally now.
+Um, but then you also work with, um, computational models and things like this too.
+So I know you've written a lot about it.
+You even edited a book about the idea of this technology, the mind technology problem.
+Is that what it's called?
+Technological mind technology problem.
+I think it is.
+Um, so I guess what I'm trying to get at is where did these things start to clash?
+Um, the technology and the thoughts about cognition and mind or the idea of an embodied inactive cognition and.
+Right.
+So from, from, from my standpoint, um, from my standpoint, I will say that there's, there's a lot to say.
+Yeah.
+Just one pathway, which is what my, my most recent work has been to think about artificial intelligence within e-cognition because of some of the reasons I've stated here that I find it to be the most compelling way of describing cognitive slash psychological phenomena.
+Therefore, therefore I navigate in that field and in those theories rather than other theories that I don't find as compelling, um, as descriptions of, um, of the cognitive psychological phenomenon.
+So then from that standpoint that I work on and I'm at, um, thinking about technology and artificial intelligence specifically is where I'm working at the moment.
+So, um, technology itself as, um, tools that we have been developing throughout time during the human civilization, um, tools can be seen as a form of niche construction.
+And there's a bunch of work that is developed on that.
+And I find it very compelling.
+Then artificial intelligence is going to be slightly different.
+It's still a tool, but it's a tool that has much more impact and influence in our human slash communities, um, cultural practices, narratives, identities, belongings, and all of those kinds of things.
+So that's why it requires a specific, very clear, um, very nuanced, um, understanding and description.
+So that's what I'm working on as a philosopher is to describe a feedback loop where, um, the question is, how does AI shape?
+And is shaped by our doings, our cultural practices, it can be a scientific practice.
+It can be a techno scientific practice, right?
+So the idea is stop on that for a minute, because that's a very important point.
+So the, the AI would be shaped by our cognition and shaping our cognition, which is different than the AI being cognitive or having cognition.
+Yeah, yeah, exactly.
+So what I'm pushing back, um, and there's been talks that I've been giving more recently, what I'm pushing back is the idea that AI is this separate entity that is completely independent from our doings.
+And I'm starting with the premise, which is very e-cognition.
+I'm starting with the premise that AI is, um, an output and emerges from our techno scientific practices.
+Because I've got, I've got, I've got several reasons to pursue the premise that I'm pursuing and reject the one in which AI is an independent entity.
+And one of the reasons that, that brings me to say that AI is an emergent property from our own techno scientific doings is, or, or falls within the notion of accountability.
+Because once we push it back and we say, once we would endorse AI as an entity that is independent of our own doings, and we fail to see that, right?
+And that is, that is going to be quite, um, hard for us to develop some sort of like regulation strategies, et cetera, because we are endorsing, um, that pathway in which we are almost doomed or panic culture around AI, where it's really hard to get it under control.
+That's where we all think we are now in a weird way.
+I know.
+Exactly.
+So I'm pushing, I just want to say, yeah, I mean, I want you to keep going, but I also want to talk about, um, how traditional AI is kind of built like that in a way.
+And what you're saying now relates a bit to this idea of the computer metaphor of the mind, I think too, I can see how that's maybe connected.
+You've, you've also talked about that and written about that.
+And, um, somehow I want to try to link these things of how we have come to think of the mind as a computer.
+I mean, it reminds me of the difference between thinking of the body as a machine in terms of trying to study it and thinking of the mind as a machine or something.
+I mean, there's all this nuance in, in here that I feel like is kind of nested all the way through from the computer metaphor up through what you're describing now in terms of AI.
+And it's very crucial actually, because it has to do with the kind of AI we're going to build and the kind of future we're going to have.
+So.
+Absolutely.
+You are 100% right.
+So that's exactly the, the, one of the talks that I've been giving is precisely on that notion that there are serious dangers.
+It's not just the fact that it is a theoretical exercise that at some point in the fifties, we had Turing machines and let's just try to conceive and develop a theory in which we would see the mind through the lenses of the Turing machine.
+And then we had the modularity of the mind, and then we started having the computational theory of mind.
+So that's an exercise that you can do.
+And you can, you can advocate that that's a useful exercise because it gives you a conceptual toolkit.
+That's more like the language game thing that you described.
+Exactly.
+And then you, then you have, oh, wait a minute.
+This is actually quite useful because now I can explain like all of these processes in the brain in terms of inputs, outputs in, in, in processing that is going on in the black box and those kinds of things useful.
+Right.
+Well, it gives us a kind of system three, what I call system three.
+It gives us a space to interact so we can look at it, you know, the same way we might have an artwork or, you know, I mean, it does the same thing as you were saying.
+But the problem is we've taken it as the territory somehow.
+Absolutely.
+So then the, what was the metaphor that we could use because the, the, okay, so I can see why it would be a benefit.
+The benefit is now we have a common language that we both understand, right?
+So then what language does, it helps us communicate.
+It's yeah.
+Exactly.
+So that's why it's a language game.
+So it could be useful, but now see as things develop, see how dangers are coming with that.
+The dangers that are coming with that from my perspective is that it's so easy now.
+Once you, once you conceive the, once you make the argument with your premises, that the mind is computational in character, right?
+Then you can, by analogy say that, well, computer, large language models are computational.
+They are predictive models.
+Therefore they're minded.
+It's very easy to take that argument of the mind as a computer and then make the argument for now computers,
+such as LLMs are minded, right?
+So it's quite easy to, now they're conscious.
+Now they are independent entities from our own doings.
+And this is real world dangers.
+Yeah.
+And it's happening.
+And I think we have to stop just for a minute because it's so nuanced, right?
+Because what's happened, or you can correct me a bit.
+Let me just be messy with it.
+It's, it's like, we, we, we got so used to thinking of minds as computational and computers that we now think when,
+when the things we built as what I call system three or like language, you know, these, these machines,
+these tools are actually kind of like the, the language that we're using to share with each other.
+But we now think that those things that we built using these kinds of metaphors are somehow us or as good as us or separate from us.
+It's a very strange, difficult thing to pull apart, I think what's happened now.
+And, and what, and the danger in that is you're kind of trying to say is that we then start to trust them as if,
+so we've programmed them in a certain way and train them, but then we think they're actually sort of trustworthy and creating this on their own,
+which they're not really, they, but at the same time, they can create new things, which seem like they are.
+So it becomes very, very tricky. There's no transparency.
+Absolutely. And see, this is where philosophy must come in. And that's the role of philosophy, right?
+It's to kind of like, as again, we go back to Wittgenstein, because I don't want to take credit for it.
+It's to precisely eliminate confusions of thinking and confusions of the ways in which we are stacking our beliefs after beliefs and building a theory, right?
+So sometimes you might have to reverse engineer, go back and test every single layer of that stacking that got us into a certain theory,
+and really use our best critical thinking to adjudicate whether or not this is more useful other than having a common language for a very,
+I don't want to say pre-scientific, but in a way that we can talk about it, as long as we do not fall for it being an ontology.
+And I feel like the computational theory of mind is something that began as a metaphor.
+And at some point, we kind of like lost a little bit track on it, and it became using it as an ontology.
+Now, by virtue of that very idiosyncratic way of thinking, now you have a very easy way into thinking about AI as being quite similar to us,
+to the extent that you start advocating for AI as being independent.
+Now, this has, other than having philosophical implications, where I think that that's a mistake to do that kind of analogy,
+it also has, maybe potentially more importantly, it has societal implications,
+where once you start generating this, you start generating what is very clear in media outlets, a panic culture.
+And that's quite useful for avoiding regulation, because then people are just scared and not knowing where to begin with legislation.
+Yeah, we've seen what happens in the past.
+Exactly. And what I've been working on is to shed light upon the fact that AI is not something that is an independent entity from our own human doings,
+but it is completely idiosyncratic to our sociocultural practices.
+I give you a very real-world example. I give you the example of smart assistants.
+Smart assistants are typically women presenting, submissive, don't in here to assist, right?
+So this is a very idiosyncratic sociocultural way of doing technoscience, way of developing AI, right?
+Or you have other examples, like humanoid robots, and we have developed that work with Kate Winkle, she's in Stockholm,
+she's a social roboticist, and Merete Lee, and she's a brilliant feminist epistemology philosopher, and she's in Norway.
+And that paper that we have, which is subverting gender norms in human-robot interaction, is precisely what we are looking at in that paper,
+is the fact that developing AI is completely socioculturally situated, in which the problems that come up are problems that emerge not out of nowhere,
+but they are idiosyncratic to the cultures that we engage, reinforce, or challenge.
+Yeah, it's almost like we're going back to things we've dealt with, you know, by sort of somehow projecting them into machines,
+and then learning from the machines, from the kind of negative stuff that we have projected into them.
+It's a very weird cycle.
+And concerns that have been emerging more prominently recently, mostly because of large language models' outputs,
+is the worry that some of the progress that we may have made as a community, or within certain cultures, within certain communities,
+might be being reverted by virtue of having these systems that are going to enhance, reinforce certain stereotypes that we, as communities, have been making progress.
+So it's not only that it may hinder the progress, but it may take us a little bit back.
+It's crazy how much misinformation or disinformation or just lack of information there is about it all.
+But you can actually think of it in a really simple way.
+It's just like if we were all suddenly watching movies that were really detrimental to women.
+I mean, if that is being pumped into your world over and over and over, and that's what everyone's making and watching,
+then somehow over time, it changes things, right?
+And it's no different with what we now call AI.
+I mean, it's the same kind of thing.
+It's just that people don't understand that that stuff, that language, or even action, or whatever you want to,
+whatever you're programming it or feeding it on or giving it to train on, is doing that.
+But people don't see that link, right?
+Exactly.
+So that's why I conceptualize it in terms of this feedback loop where AI is going to shape our social cultural practices, right?
+So imagine that continuation of the reinforcement that is going now to impact and influence our cultural practices,
+our cultural identities, our cultural narratives.
+All the things that we do are going to be influenced by the outputs that are AI-generated outputs, right?
+I think that is such an essential point that people really, really need to understand because the reverse is also true.
+It's dangerous and there's a lot of power in it that could be manipulated and used in the wrong way.
+But the opposite is also true, right?
+That we could also figure out ways to use, that it could be a good tool and generate positive things.
+Exactly.
+And once you formulate it like this, you have opportunities.
+But once you formulate it as something that is completely distinguished, completely mind-independent,
+it's got its own thing going on and there's nothing you can do, you want opportunities.
+So not only is it going to be negative because we cannot, because it kind of like slows us down to be able to,
+because it generates this panic culture and people are like, oh, we don't know what to do with it.
+We are like frozen here.
+Yeah, it's overwhelming.
+Exactly.
+Not only it is detrimental, but then there's not, we can't even think about opportunities, right?
+It's much harder to use it as opportunities.
+So once you see that from the very early stages, so this is how AI content is going to impact and shape our cultural practices,
+narratives and identities, right, in a very embodied way.
+Then you also have the other way around, which is how our social cultural practices are the ones at the basis of the design
+and development of certain technoscientific tools rather than others.
+I think, again, I think that's so crucial.
+We need to say it again because it's really that looping, that coupling whereby our actions,
+our priorities, our values, and our awareness of the AI itself and our ability to access it
+and the transparency of it, but also just our actions and what we're reading and thinking about and talking about.
+All of that's creating what the AI does for us as a tool, which then shapes again how the information.
+So it's this loop.
+It's not even, it's more a spiral, right?
+Because you're never coming back to exactly the same place.
+I think it's also why dynamical systems is so important because you can start to visualize what's happening.
+And if you can do, you're doing that as a philosopher, but that's such an important thing because
+if people can find a way to understand that's what's happening, it takes that fear and that power to a different place.
+And it also increases our responsibility.
+I mean, we are responsible.
+We don't know we are, but.
+Exactly.
+So what the panic culture does when you see AI as an independent entity is that it takes power away from us.
+And that's quite useful for markets.
+And I'm sorry that I have to mention that, but, you know, this kind of like power dynamics is the world in which AI is being developed, right?
+So then it's going to take away our agency.
+It's going to take away that kind of thinking, which, by the way, comes from the computational theory of mind.
+So now we have come, I think, from my perspective, we have come to a point where we understand the dangers.
+Okay, it might be useful to have this conceptual toolkit at some points in time, but you continue to tell that narrative over and over and over again.
+You reinforce that computational theory of mind narrative.
+And then you end up with this kind of reasoning that either you have to reject the theory altogether or you have to completely continue with it, which is not going to be quite useful, I don't think, for us to move forward.
+Because then we are missing out on understanding how there is a reinforcement loop or spiral that is happening in the ways in which the values, the practices, the narratives that we hold are of a community are on the basis of the certain kinds of AI systems that we are developing.
+And it can be in terms of the ideation when you're thinking about, because the view there is that we don't have infinite resources, energy, and time.
+So then we have to allocate, like in grants in science, we have to allocate resources to a specific tool that we are going to develop.
+And the decisions made upon which tools are going to be useful, which tools should we develop, they don't come out of nowhere.
+They are completely situated in the social cultural with part of that mixed environment.
+So then those decisions about like what tools are going to be the ones that we want to invest, they're going to come from that culture that is going to, that has certain values.
+And just people understanding that that link is there is so important.
+I think that's incredible philosophical work that can be done just to make that apparent.
+Because it's in the fast pace that we live in now, it just gets kind of washed over, right?
+Especially if you're not thinking deeply.
+So that's another good argument for critical thinking and philosophical work.
+But just to kind of link it to your work with active inference too.
+So I always think computation is a little bit like control.
+Like it's kind of built on, or it's kind of exciting because it gives you a sense of control or of how things work.
+And I think that speaks a little bit to what you were just saying in a way.
+But then now we've kind of reached this point where we're creating, we're able to set sort of dominoes in motion of programming that then we don't understand really anymore.
+And that gives this feeling of power and fear that you were talking about more precedent.
+So I know that there's some talk with versus and active inference AI and stuff of designing AI in a different way, which would be more transparent, would probably be more ecological, if we can use that word, or environmental.
+In the sense that I guess it would be able to learn in real time versus being programmed and set on a kind of domino course into some area we don't understand.
+I know this is like too big a subject to say much, but I just wanted to at least bring it up a little bit and see if you have something to say.
+And then I want to just get to this briefly, the idea of the Gaia paper to kind of wrap up.
+On a positive note, yeah.
+Right.
+Yes.
+So the idea is that, so this is quite recent.
+We've been working on active inference as a framework to understand the brain situated in the body, the body situated in an environment with all that comes with interactions with the environment.
+And this is in a very computational framing of what we are after by virtue of using the active inference goggles, what we are after is to understand the pattern dynamics of that coupling.
+And by using this computational modeling, it is possible for us to look at natural world patterns.
+So what we can do is develop the best or the most accurate descriptions, theories philosophically that we can and use them to inform computational modeling.
+So that's like what you were just describing about the loop or what I would call the spiral can actually make that part of what a person understands as AI, which right now isn't because of the control and the manipulation.
+And right now it's easier, like a lot of our social media, there's no, I'm not saying there's like a bad person creating bad social media, but the way that it's gone with the computation, the way all the things we've talked about that we've sort of assumed that the world works computationally.
+Now we have a lot of social media and stuff that's kind of built on those algorithms of get our attention and control and all that stuff we talked about.
+So I guess what you're saying is you're going to, if you can rethink and sort of disrupt, to put a link to the Gaia paper, disrupt these ways that we're assuming AI works, then we can start to actually maybe orient what is AI towards a healthier place.
+Absolutely, because what you're targeting is the very beginning of something.
+So what you're targeting is to understand that accountability and responsibility comes from the very early stages where you, when you have an idea of like a problem that needs a solution.
+Right. So then what you do is you're going to propose a solution to the problem, even before you start designing and developing.
+So what you, what you do is you look at AI as a life cycle, you break down the complexity of an AI system into its phases.
+Right. And this is, you know, you could understand that in a very active inference physics way, you have phase one, which is the problem coming up and the idea of being formulated to address the problem.
+And then you have the design, the development, implementation, monitorization, and you can have this phase space development of a life cycle of an AI, because then you can look into how AI is continuously impacting and changing the settings in which it is implemented.
+So you can look at it as a life cycle. So then what happens is at a very early on stage, when you understand that we are, this is a, this is a product of our own doings, right?
+Rather than thinking something that is out there.
+So at the very early stages, you can ask fundamental questions as to who is this going to benefit?
+Who is this for? What are the, the, the foreseen consequences of implementing this kind of thing?
+Is it going to be accessible to everyone? Is it sustainable? Is it culturally sensitive?
+What values does it promote? Yeah.
+Exactly. Exactly. And then you can go into, cause people tend to focus a little bit more on like algorithm and biases, sorry, biases and data biases.
+And those are very important questions.
+But even before that you have the first, the first stage or the first phase in which you have problem and the solution that we propose.
+So by virtue of looking at the problem itself, you are already be, you already can identify the kind of culture we live in.
+Right. So for example, I'm thinking of like girlfriend app, which is a terrible idea, right?
+So by virtue of looking at the problem that you're trying to solve, it's already very telling of the culture that we are living in.
+So focusing on just creating that space of getting people to step back, because I really think most of us, a lot of people who are using technology are just so stuck to it.
+You know, this goes back to the Buddhist kind of cultivating awareness or mindfulness or something.
+Philosophy does that too. Critical thinking does that where you can just stop for a moment and disengage from whatever it is.
+I mean, the thought or the technology or the tool and ask kind of why you're using it and what it's leading you towards or, you know, and start to look at this looping that's gone into it.
+Who created it? What do they want it, want from me? Is this really the value that I want? Because right now we just assume if it's there and it has a hundred thousand followers, it must be right.
+Yeah. Yeah. Yeah. And so one issue that we've been, there are many issues, but one that I'm going to highlight that has come to being very prominent in the last year is the ways in which students engage with large language models in order to be able to do their own academic work.
+academic work. Right. So I've been participating in sessions with, with students and there it's precisely what you were saying.
+It's precisely taking the step back and asking what kind of epistemic experience do I want to have? Do I want to have an experience at all?
+Right. Because if I just want to have a diploma at the end of the day, because the thing is, because we cannot really regulate large language models and how students use.
+So this is a very specific case study, right? How students use and engage with it. The only thing that you can do is appeal to critical thinking.
+Yeah. So in this world that we are trading and navigating at the moment where AI is absolutely pervasive.
+The only thing, the best thing that you can do as a student is to become very skilled and very strong in critical thinking, such that you can precisely do what you were saying.
+Take that step back and ask those important, meaningful questions. What kind of epistemic experience do I want to have if I want to have one at all?
+Or do I want to just have my diploma at the end of the three years and that's it? But at least you are in the clarity.
+At least you know what you are doing. And you can even start to, I mean, just to be, go back to the embodiment.
+You can, I think a lot of us or a lot of younger people like just, you know, the students, they're so involved in it.
+They don't even take a moment to see what makes their body react in a positive way or a negative way.
+Because quite often a lot of that stuff, you're getting a lot of negative feelings and a lot of negative stuff.
+And when you think about what makes you feel positive, it's often something like being out in nature, hanging out with your friends without looking at your phones or being in love or these kind of moments, right?
+That are more or doing yoga or running or playing sports.
+All these kinds of things, which I feel like with the computational mindset and all that we've been talking about and the way that AI is gone.
+And the way that it's now got it kind of latched onto our attention in this way that we don't take the moment to realize that that's not actually what we want, that it's not even actually where our most valuable moments in life are.
+And just as you were saying, the students, if they can think of that, like, is this where I really want my life to go and I want to spend my life feeling like this?
+Probably not. There's another way. It can be so amazing.
+And you talk about that a bit in the Gaia piece or the Frontiers piece, because you talk about something called a biophilic deficiency syndrome, I think.
+And just way overgeneralize.
+It's also about all this nestedness, right?
+That I think with the computational mindset and this current AI mindset that we've been talking about, we've gotten away from understanding the nestedness of the living system.
+And that it's like living and dynamic and changing.
+So maybe you can understand, unpack that just very quickly or, you know, the biophilic deficiency syndrome.
+Happy to.
+So to connect, this is not in the paper, this bit is not in the paper, but to connect to what we've been discussing.
+I think that that is another danger of the biophilic deficiency is another danger of holding the computational theory of mind.
+Right. Because in the ways in which it brings in the value of our relations and closeness in a very embodied way with nature, that is actually well documented in scientific literature.
+Right. That engaging in being in nature and the ocean have very positive impact.
+Yes. There's plenty of research supporting that.
+Absolutely.
+There's countries where GPs are prescribing nature.
+Right.
+So precisely because of that literature.
+And once you hold, or at least the ways in which I have seen the literature in cognitive science, holding computational theory explanations of the mind or the experience of the world or the brain, there's very little room, if at all, to the value of embodied interactions with nature.
+So, you know, cognition comes down to information processing and then the body is a vehicle for that, to gather more information for that, for the brain to be able to do the service of computational processing of information.
+I hear very little, or there's very little room for us to work within the space of that theory to unpack into the value of nature for our embodied health.
+So, which that's another reason why I kind of like don't tend to go to the computational theory of mind is because it doesn't allow me to spread into understanding that scientific research on the value of our embeddedness in nature, quite directly affecting our embodied health.
+So, in the paper, we talked about biophilia deficiency, for lack of a better concept, maybe in a different paper, I will come up with a better concept, but the idea there is that it seems quite clear from literature that humans and non-human animals tend to be continuous with nature.
+And part of these ecosystems is nestedness of ecosystems in a way that is quite crucial for their wellbeing, right?
+And then what we do there is apply active inference to that particular understanding of the coupling between the human species and the ecosystem's sustainability environment, right?
+Or the, those questions or the experience of the climate crisis, for example.
+And if you depart from an active inference perspective, then, and you are in an activist perspective in which they converge, in which we would say that, well, a living system is in the business of whatever they do, the actions that they engage with.
+Typically, of course, there are exceptions and the exceptions are what is really interesting to study in cognitive science.
+But typically, however you go around to the wild and find, and find a living systems like, like non-human animals or humans behaving, there is one thing that is quite common to them all is that they do not want to die.
+And sometimes they might even put themselves on the line in their individual certainty and safety for the better of the group, right?
+Because of the species, right?
+And then here we can talk all about Darwin evolution and all of those kinds of things and niche construction, etc., right?
+So we can engage with all of that literature to say that we engage with the environment in ways that we want to stay here.
+We want to be alive.
+We want to change the world such that we make the world more suited for our own existence and continuation.
+And that's crucial and vital done by engaging with the environment.
+So if we find a species that is quite aware that the ways in which they are engaging with the environment are going to be lethal to their own survival, it's quite strange.
+Yeah.
+Right?
+That's strange.
+So if we're talking about our understanding of the climate crisis or our understanding of the ways in which the human species behaves and engages with the environment of the planet Earth,
+that's the Gaia, in ways that it wants to be coupled with the environment for their own survival or the survival of the species.
+And they act upon the environment for their own survival and for the survival of the species.
+Now, if we look at them, we take the overview perspective and we look at the species as acting in ways that are not agreeing to the survival of the species, then that's weird.
+Yeah.
+And that's what we call the biophilia syndrome.
+It's the lack of connection with nature.
+And the disturbance there would be for us to find ways in which we reconnect with nature.
+Because what we've been doing, it seems by the fact that it's weird that we engage in actions that are not for the survival of the species and the planet by extension.
+Then because that's kind of weird that we need to find solutions that would require us to treat these as a condition rather than just a state of things as a condition.
+And potentially the disturbance that we need is to reconnect with nature and with each other.
+Yeah, I think that's really powerful. And there's a lot more I imagine you'll explore and all that because, again, it's a sense of nestedness and scale.
+And that we might even be able to see this kind of I mean, as you were talking, I was thinking of when people mess with the pheromones for the ants and they end up just going around and around in circles.
+I feel like in some way we've kind of messed around with our toolkit and we're kind of directing ourselves around in a kind of unhealthy way.
+But if if you read that paper and zoom out a bit and maybe the next few papers kind of that you when you're talking about that, there might be a way in which that itself is kind of the disruption.
+If we can use it now as the opportunity and see that we've done that and now maybe kind of start to look at a different way of being in the world or being as the world.
+You know, we could maybe even use our technology to understand ourselves as Gaia.
+I mean, not to get too mystical, but as what is definitely the case nested life in nested life, which is what our body is, which is, you know, what what life is.
+So I do think that's like a hopeful way of connecting all the other things you were talking about with the A.I.
+that there's something really positive and exciting and kind of a whole new world in there if we can just figure out the shift of mindset, because I really do believe it is a kind of a shift of mindset, too, which is why the philosophy becomes so important.
+Yeah, absolutely. Yeah. And the opportunity for that, I think it requires as a condition that we really look at the A.I. and environment dynamics as a social cultural environment.
+In which case we would need that shift of understanding such that we can use then A.I. to help us improve ourselves as a human species that is sharing the planet Earth with all of the rest of the species in the natural world.
+And not this linear thing, but this ongoing kind of this ongoing birthing of activity.
+Absolutely. It's beautiful. It's gorgeous. It's dynamic. It's alive.
+It is. And it's wonderful. And I think there's something about computation.
+I just have to say, like, I do understand why people go into that mind, that space, because the body is hard and life can be hard and you feel judged.
+You know, and there's all this stuff with the body that can be hard most a lot because of the technology that we've built.
+So it's all connected. Right. We can build healthier ways of observing, appreciating being in our bodies, too.
+That's that loop you described has gotten a bit unhealthy.
+So I can understand how people just want to think it's all computational and like go into the video game and download the body.
+I mean, download yourself and get away away from the body.
+I think what you what we all know really is that life is not that and, you know, we need a way out of it.
+So it's great that you're opening those paths.
+So the last question, of course, you can say anything you want to say that you have haven't been able to say.
+But I do want to think about that question about objectivity you brought up at the beginning.
+And if if that itself is a kind of practice, like not answering that question, but just letting that question kind of be there.
+Or if you've if you've answered it, that you know what objectivity is and it doesn't exist.
+Yeah. So many years after my high school, many degrees after and many interactions with brilliant minds and talented people that I care so much about.
+And they've taught me so much. Yeah, I tend to think that we have limits to that objectivity.
+And that is not possible, which is why our best hope and our best attitude is to fully embody humility of our perspective and understand that our perspective is our perspective.
+And that the best way to check our perspective is by communicating with each other in a very genuine way, our ideas and check whether they are reasonable, whether they make sense.
+So it's goes back to the Wittgenstein quote, by language, all confusion comes up.
+But by language, we may also be able to eliminate the sort of confusion.
+And I think that's a little bit that the sentiment is that we do have a limited perspective upon the world, a limited stance upon the world.
+We cannot understand other people's perspectives.
+And that should give us the humility to communicate with each other to improve together the description of the world.
+I think that's really good. And that sort of makes me think of the whole idea of subject and object becomes a bit of the language game and not ever something that would ever could have a reality in the process or in the dynamism itself, which, you know, you've expressed in other ways too.
+But is there anything that we haven't talked about that you really want to make sure you say?
+And of course, I can put a lot of stuff in the show notes, but anything on your mind or that we didn't get said?
+No, I think we pretty much covered many of the aspects that I really wanted to talk about, emphasizing, of course, because of the times that we are living where AI is pervasive in our development individually, our shaping of our experience individually.
+And that pervasiveness and shaping is very embodied in the sense that the ways in which AI sits and is impacting our worlds, our communities is very, the experience that one has is very much depending on the body that we have within the social cultural dynamics and power dynamics that exist.
+exist. So people are not impacted in the same way. It's very intersectional. It's very depending on the kinds of cultures, the kinds of cultures that are behind the programming, the designing of AI systems, and people are impacted differently depending on where they sit in this power dynamics, depending on how they look and their social cultural background.
+So we need to have that very much in our awareness rather than, I think, endorsing a computational view of AI because people are impacted differently.
+And the thing is that it's going to reinforce already these asymmetries where the people that are more fragile are going to be much more negatively impacted than the people that are sitting on higher levels of the hierarchies.
+So I think that the future is to look at how we can develop culturally sensitive AI or culturally grounded AI such that it is sensitive to the fact that there is diversity around the world and that the Western culture is only 19% of the world.
+There is diversity and we should include that.
+Yeah, very well said. And I think even I hope my hope for AI and technology is that we can build ways of helping each other understand that we are all inhabiting different spatial temporal positions.
+We have made our way differently up to this point and all that whole path is affecting, is creating how we are experiencing the world.
+I think it's just too hard right now for us to not assume that everyone's having the same phenomenological experience as us.
+And even though it might be shared 80%, that 20% that is different is really different according to how you've been treated, what you've been said, where you were, where you lived, what, you know, every road you've walked, every book you've read.
+So I really hope that this kind of AI, maybe even active inference AI can help us find ways of, of understanding each other's positions more.
+And in that sense, I see a very beautiful future. I don't know about you, but...
+Well, hopefully so. I think that's the first step is to generate this awareness of stepping outside of the usual perspective and taking that stance on diversity and inclusivity for culturally sensitive ways in which we do science and in which we do technology and in which we do philosophy.
+Yeah, it's very important. And thank you for championing that and being a voice for that. I appreciate it. I appreciate the work you're doing. And I can't wait to see all that is to come.
+I don't know how you do it. So many papers and so many collaborations. It's like almost mind blowing, but I hope you continue finding that reservoir of energy.
+Yes, I hope so too. There's a lot to be done.
+There is. You just have to prioritize, I guess.
+And I'm always very happy to, to the collaborations. It's my favorite because of what we've been discussing because it's a, it's a check, right? We work together.
+That's good.
+No, that's true. All right. Well, I hope you have a beautiful day there.
+Thank you so much. And you too. And thank you so much for having me. It was a great pleasure.
+It was fun participating in a beautiful discussion.
+Thank you.
+Thank you.
+Thank you.

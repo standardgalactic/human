@@ -1,0 +1,2213 @@
+We're also interested in stuff that, in principle, could never be made conscious.
+This idea of equipment becoming transparent
+is a marker of when we're using equipment in a skilled and hitch-free manner.
+When things break, we have to start concentrating on them as independent entities.
+What we first hear is the motorcycle.
+We don't hear a raw sound. We hear the bike.
+We don't experience the entity as an object.
+We don't experience ourselves as a subject either.
+Just as the entity disappears, so do we.
+The kind of robots that were built in the traditional view
+were really clunky, they were really slow, they broke down really easy.
+When the violinist plays a cracking concerto,
+a lot of her intelligence is not in her brain, but in her fingers, in the muscles.
+A lot of the interesting stuff that happened in robotics
+was how things that look like really difficult cognitive problems
+are only difficult cognitive problems if you split the subject and object up
+and think the subject has to build a model of the world in order to do anything.
+If you want to understand human emotions, listen to Wagner, don't listen to psychologists.
+Hey, everyone. Welcome back to Love and Philosophy.
+Sorry if I sound a bit weird.
+I've had a cold, but I just have to go ahead and record this
+because you can't always wait.
+For those of you who are new here, you're listening to Love and Philosophy.
+I started as a research podcast
+relative to a bunch of work I'm doing, both in academia and not in academia.
+I'm a little unorthodox, but also orthodox.
+In any case, that sort of is this podcast as well,
+because it's hard to fit into a box.
+You can put it in the box of Love and Philosophy, but that's about it,
+because we talk about a lot of heavy subjects relative to just life in general,
+but also neuroscience and philosophy
+and just this quest to get through life in the best way
+and also understand what we are and what's going on here
+and how we can better connect to one another
+and to this incredible world around us.
+Today, we have this really cool discussion
+between Mirko Prokop and Michael Wheeler.
+Mike Wheeler is a philosopher.
+You'll hear a longer introduction coming up soon,
+but he's working as part of the Sterling Philosophy Unit
+in the research cluster of mind and knowledge.
+His primary research interests are philosophy of science,
+especially cognitive science and artificial intelligence, biology.
+Mirko is interviewing Mike.
+You might remember Mirko from a conversation we had about Elizabeth Anscombe,
+which is relative to his PhD work, as is this conversation.
+So he's doing this one today. He might be doing some others in the future.
+You'll hear they talk a lot about Heidegger here.
+They talk about phenomenology and Heideggerian robots
+and cognitive science, authenticity.
+There's a lot here. It's very deep,
+and their conversation goes really into wonderful themes
+that are in part of Mike's book, which you can find in the show notes.
+If you want to know even more about this, because there's a lot more
+that can be said in a two-hour conversation.
+So I hope you enjoy this.
+Big thanks to Mirko and to Mike for this great conversation.
+And you can support love and philosophy all over the place if you want to.
+There's a lot of opportunities. It really helps.
+Hope you're doing well wherever you're making your way.
+I send you lots of love today, and I hope you don't sound as I sound.
+Hope you don't have any cold wherever you are today.
+But I'm feeling so much better today. I'm so happy.
+It's amazing after you have a cold, or it was more than a cold.
+But after you've been sick, when you finally start feeling better again,
+you just love life. It's wonderful.
+And I just love life, and I love this conversation.
+And I hope you do, too. Thanks for being here.
+Well, hi, Mike.
+Great to have you.
+Thank you so much for accepting coming to come on the podcast.
+Yes, so for the listeners, I'm very happy to be talking to Michael Wheeler,
+who's a professor of philosophy at the University of Stirling.
+Yeah, and hopefully get to talk about phenomenology
+and the relationship to cognitive science
+and some more recent things you've been working on.
+But maybe before we get into these issues,
+you could tell us a little bit about how you became interested in philosophy
+in the first place and what you've been doing since then.
+Yeah, sure.
+So I sort of self-identify mainly as a philosopher of cognitive science.
+And I guess one of the things that's associated with my work in cognitive science
+is bringing Heidegger and phenomenology into contact with cognitive science.
+And we'll be talking about that as we go on.
+But my sort of first interest in philosophy
+was in philosophy of artificial intelligence,
+which is still a topic I'm interested in, obviously,
+intimately related with the philosophy of cognitive science.
+And actually, just to say, the story about how that happened,
+I didn't go to university until I was in my late 20s, had another life.
+And one night I came in from the pub, in fact,
+and it was the old days when there weren't many TV channels.
+I channel hopped the three or four channels that were available.
+And I just came across John Searle, the philosopher,
+talking to Geoff Hinton, the AI programmer,
+about artificial intelligence.
+And many viewers of this podcast will know
+John Searle is mostly associated in many ways
+with his critique of whether or not we could produce
+a genuinely intelligent, conscious thinking machine.
+And I just became really interested in that interchange
+between Hinton and Searle.
+And I was starting to think then about going to university
+and starting to think about doing philosophy,
+but I hadn't made the decision.
+But on the back of watching that TV programme,
+I decided to do philosophy.
+I decided to do philosophy that interacted with artificial intelligence.
+So I actually sought out where I could do a degree
+that was about 50% philosophy and about 50% AI.
+And I went to Sussex and did a degree that was about 50% each,
+a bit more philosophy than AI.
+And that was the beginning of it, really.
+And while I was there, I did my degree
+in the School of Cognitive and Computing Sciences,
+as it was then at Sussex.
+So I was brought into contact with empirical work in psychology
+and linguistics and so on.
+And I just went on from there.
+And after that, I did my PhD at Sussex
+with Maggie Bowden as my supervisor.
+And that's where I first started work
+on the Heidegger and cognitive science stuff.
+That was my PhD thesis.
+And then went on from there to do postdocs
+and ended up as professor of philosophy at Stirling.
+So that's the sort of story.
+And as I say, I really sort of sourced my academic profile,
+my intellectual profile, back to Sussex, really,
+because the fantastic thing about Sussex at that time
+was not only was there this close interaction
+between philosophy and artificial intelligence
+and cognitive psychology,
+there was also a lot of interaction
+between analytic and continental philosophers.
+And that was quite unusual
+on the British philosophical scene of the time.
+It's a bit better now.
+At the time, it was the philosophy in the continental tradition
+and the philosophy in the analytic tradition
+tended to be quite siloed from each other
+and quite hostile sometimes,
+the relationship between these two great traditions.
+So on the one side, people like Heidegger and Murdo Ponti and Sartre,
+and on the other side, the great spanalytic philosophy,
+the Putnams and the Quines and so on.
+And it really did feel as if these were very different intellectual islands.
+But at Sussex, they were talking to each other.
+And that's how I started to get interested in phenomenology.
+And then that timed with the release of The Embodied Mind
+by Varela Thompson and Roche,
+a conic book in the history of contemporary cognitive science,
+which also drew on some continental ideas,
+particularly Murdo Ponti.
+And so that book became an influence on me as well.
+And that was really the springboard for the stuff that I do now.
+There must have been also a really rich environment there at Sussex.
+And I still also remember from my time
+studying my undergraduate at the University of Hamburg,
+which is still, I think, a fairly analytic department
+that sort of phenomenology and Heidegger and these kinds of issues
+were not really regarded as worthwhile studying by many people.
+So it's really, I mean, in preparation for this programme,
+I've been reading a bit through your book,
+Reconstructing the Cognitive World,
+which was published in 2005, I think, with MIT Press.
+And it's really nice to see how you try to sort of bridge
+these different traditions and also bring in
+what was then cutting-edge research and cognitive science.
+I guess things have also moved on since then a little bit.
+Yeah, so maybe we can start with just giving,
+sort of trying to get a very general idea of phenomenology,
+what this is about as a tradition and maybe a kind of method.
+Sure. So I think what's quite useful in this respect
+is to start with how the term phenomenology gets used
+not within the continental tradition, which is where I draw from,
+but the analytic tradition.
+So typically when someone talks about phenomenology
+in the analytic tradition,
+what they're focusing on is first-person experience.
+We talk about the phenomenology of a situation,
+which would be the character of my experience in that situation,
+and what it's like for me to see red,
+what it's like for me to hear a bell, so on and so forth.
+And if someone then thought about what will be a method around that,
+when we'll be talking about, well, describing your first-person experience.
+And I think that's a starting point
+for thinking about how the term gets used in concept of philosophy,
+but it's not the end of the story.
+And quite regularly within the analytic tradition,
+and also within some of the sciences, the cognitive sciences,
+that are connected mostly with the analytic tradition,
+that's when people sort of stop.
+They think, well, phenomenology, that's first-person experience,
+so describing your phenomenology
+would be just a description of that experience.
+And the thing that happens then quite regularly, you see,
+is that people then think, well, it's useless to cognitive science, right?
+Because there's lots of really well-established empirical psychology
+which questions whether or not our own introspective reports
+of our own experience are really reliable
+as to what's going on in our minds.
+There's many experiments which show that, for instance,
+we will describe what our reasons are for doing something,
+but we show that we can show via the experiment
+that we're actually confabulating,
+we're making up reasons that couldn't be right, and so on.
+So in cognitive science, that idea of phenomenology,
+a kind of introspective report on one's first-person experience,
+is thought of as, often, anyway, thought of as not very useful
+for finding out what's going on in the mind.
+So that can be a kind of controversial starting point.
+If one says one's interested in phenomenology,
+often within mainstream psychology and so on,
+it's greeted with a certain amount of hostility.
+Although I should say that introspection recently
+has had a bit of an upturn in psychology and in analytic philosophy,
+but that's another story.
+I guess one of the main building blocks of William James' way of thinking
+about psychology as one of the fathers of the tradition or the discipline, no?
+No, absolutely. Absolutely.
+And introspection initially played a very important role
+in the founding of psychology as a discipline,
+but psychology has kind of left those roots behind historically.
+I mean, what is important, I think, to point out
+is that within cognitive science,
+of course, there's the conscious experiences that we have
+when we have thoughts and perceptions and so on,
+emotions and so on.
+But we're also interested not only in the unconscious,
+in the sense of a, broadly speaking, Freudian-style unconscious,
+i.e. unconscious stuff that's going on that we could bring to consciousness
+if we had the right techniques.
+We're also interested in stuff that in principle
+could never be made conscious.
+So it doesn't matter how much meditation you do
+and how much psychoanalysis you have,
+you're not going to make available to your consciousness
+what's going on in really early vision, right?
+When the first processes happen,
+that transmit light intensity differences on the retina
+into the first kind of information that we have access to
+when we behave intelligently in the environment.
+Nevertheless, that, what goes on in early vision,
+is really important in cognitive science.
+We're really interested in that kind of process.
+So it's important, I think, for people who come from philosophy
+to understand that in cognitive science,
+we're interested in the conscious, the unconscious, and the non-conscious.
+That all plays a role in cognitive science.
+And that's another reason for thinking that introspection
+is a kind of limited and sometimes misleading kind of guide
+to what's going on.
+What's important, though, is when we turn to phenomenology
+in the continental tradition.
+So here we're thinking, you know, there are precursors to this, of course,
+but we're particularly thinking of what happened
+when Husserl started to work
+and then Heidegger, Merleau-Ponty, and so on.
+So people in that kind of tradition in continental philosophy,
+there, that idea that we start with first-person experience
+absolutely is still the centrepiece.
+And so what we're doing when we begin
+is we're thinking about our own experience,
+we're trying to get an accurate description of that experience,
+and all that's kind of shared, if you like,
+with phenomenology in the analytic tradition.
+But the thought, I think, and this, I think, for me,
+characterises phenomenology most generally,
+is that the way we engage with first-person experience
+as a philosopher when we're doing continental philosophy,
+continental phenomenology as a method,
+we're not stopping there.
+That's the beginning of a kind of,
+I don't know whether to call it a theoretical or a meta-theoretical process,
+where the target, in a pretty Kantian register to start with,
+the target is to understand the underlying conditions,
+one might say the a priori conditions,
+that have to be or are in place
+to explain why the experience we have is the way that it is.
+Right? And so if we think about Kant, for instance,
+as a kind of precursor to this, you know,
+Kant tells us that the structure of space and time
+has this kind of a priori structures with respect to experience.
+All experience has to happen in space and time.
+What's different with Heidegger, I think,
+is that when he's got his Kantian hat, right, in phenomenology,
+so he is looking for the transcendental conditions
+that explain why our experience is the way it is.
+He's definitely doing that.
+But his notion of the transcendental is different.
+In Kant, you know, space and time is,
+they're the kind of intuitions of structure experience for all human beings.
+And for Heidegger, there's a sort of element in which that's true, right?
+It's still true for Heidegger, at least time in the early Heidegger
+and perhaps space in later Heidegger play these kind of roles.
+But what he thinks is that there are transcendental conditions
+that are historicized, right?
+So the transcendental conditions are, as it were, deeply held
+or deeply positioned with respect to the structural experience.
+Features that mean that our experience is the way it is,
+but that can change over time and can change from one culture to another,
+can change historically.
+So the transcendental becomes historicized
+and that's a really important aspect of more contemporary phenomenology
+in the Heideggerian tradition.
+So the idea is that I grew up in a culture
+and I grew up at a moment in history
+and there's all these deep structures that structure the way my experience is.
+That, in a way, I've been initiated into as a result of my culturation.
+So they're in place, they're a priori, with respect to,
+they're in place in advance of any experience
+that I as an individual might have now.
+But they're not timeless, they can change over historical time.
+And that feature of the transcendental, the historicization of the transcendental,
+is an important feature of phenomenology as someone like Heidegger.
+Okay, that's very interesting.
+I'm just sort of starting to get interested in Heidegger,
+but it's true that in Kant you really notice this kind of universalist ambition
+of trying to find the sort of universal structures of thought
+and also something that I guess transfers to his moral philosophy
+with the categorical imperative and so on.
+So this idea that there are these structures
+that are a priori common to all human beings in some sense.
+And I think a lot of what you said regarding Heidegger
+about this historicizing aspect probably also quite related to things.
+I'm hoping to talk about authenticity and his idea of Dasein as being in the world.
+One thing to note in Heidegger,
+I think it's true that there's a tension in Heidegger that's never really resolved,
+at least I can't see it ever being resolved,
+between what looks like every now and then a kind of universalist statement.
+So he still thinks that temporality is a kind of universal structure.
+It's just that what counts as what goes in the dimensions of temporality
+can be historically different for different epochs and so on.
+That would take a lot of explaining.
+But the important point is I think Heidegger gets a call
+between his sort of Kantian past, he was a Kantian scholar in those days,
+which would have that universalizing kind of impetus
+and what he comes to believe is true,
+which is that there's historicization of the transcendental.
+And I think he never really kind of resolves that tension,
+it's just there in Heidegger.
+And different Heideggerian scholars will emphasize one side or the other of that.
+So some scholars get much more into the idea
+of Heidegger as a kind of transcendental phenomenology.
+And others focusing on these kind of cultural conditions
+often think of Heidegger more in what's called a kind of hermeneutic way.
+And Heidegger is explicit about this, that we as theorists, we as philosophers,
+we are caught inside a hermeneutic circle.
+So when we come to say, I'm going to now do some work philosophically
+on understanding how experience is
+and what the conditions are for experience to be the way that it is,
+we are inside a kind of hermeneutic circle.
+We bring our own structures to the table
+as part of the way in which we do that theoretical work.
+So we can't get out of that circle,
+we can make it more or less profitable in the way that we deal with it.
+And as Heidegger sometimes puts it, the trick is not to get out of the circle,
+it's to kind of get into it in the right way.
+I used to realise that those cultural conditions that we live in
+are part of the deep sort of philosophical structures
+that we bring to the table when we do theoretical work in philosophy.
+So the more you interpret Heidegger that way,
+the more you get this idea that you're never really going to reach
+a kind of universalised fixed point in philosophy,
+telling us the way it is.
+Because the way that it is is always challengeable
+based on difficult conditions or historicalisation.
+And I think he never really resolves those two differences.
+I was thinking, I mean, because in Heidegger,
+he seems to kind of build up his position in contrast
+to some of the things that Descartes said
+and his still very long-lasting influence
+in the way in which we think about the place of human beings in the world
+and the cognitive subject and agency and things like that.
+So since we've already started talking about Heidegger,
+I'm not sure if it's fair to say that all the phenomenologists
+see themselves as sort of building a project in contrast to Descartes.
+And I think, for example, Heidegger criticised Husserl
+for being, in some sense, Cartesian, you know.
+But maybe we can try to unpack that a little bit,
+in which sense maybe Heidegger's view
+of the way in which the subject is related to the world
+and already always finds itself in a meaningful relationship
+and in a kind of projective relationship
+is maybe quite different in the way that Descartes approached the subject.
+Absolutely.
+I mean, so there's different ways in which one can talk about
+the anti-Cartesianism of Heidegger,
+depending on what one's interests are.
+So I'm going to say some stuff that already, I think,
+signals where it might go in cognitive science.
+So if we think about how Descartes thinks about the human subject,
+or let's put it this way,
+let's think about what the fundamentals are
+of our relationship with the world.
+Let's put it that way.
+If we think about what the fundamentals are
+of our relationship with the world,
+for Heidegger, he's going to disagree with a really central aspect
+of Descartes' work,
+which is that we relate to the world always as a subject to a world of objects.
+And for Descartes, that's just the way things are.
+And you can see that, obviously, in, you know,
+everyone's going to know a bit of Descartes here.
+You know, we've got sort of substance dualism,
+which separates the mind as a substance from the world as a substance,
+where the world is, you know, points of pure extension and so on.
+The mind is essentially conscious.
+And we have this deep split between mind and world.
+And that gives us the idea of essentially the human subject on one side
+and essentially a world of objects on the other.
+Now, as soon as I say that, that's a caricature of Descartes, right?
+Because I have to say, I mean, something that I hope comes over
+in Reconstructing the Cognitive World
+and something that I've tried to make clear in subsequent writings on Descartes.
+Descartes actually has quite a subtle understanding
+of the relationship between mind and body.
+The sort of what we learn in first year undergraduate philosophy
+about mind-body dualism.
+Not really Descartes' view, right?
+He has a very subtle understanding of certain mental states,
+what he calls the passions of the soul,
+that are dependent on the body in a very deep way.
+In fact, even in The Meditations,
+the book that we tend to study first when we learn about Descartes,
+in the Sixth Meditation, he talks about the relationship
+between mind and body,
+such that we have a kind of mind-body unity as a human being.
+All that said, and that's true,
+we have to be careful not to allow a caricature to run away with us,
+it's still true for Descartes that there's this essential part of human being,
+which is the conscious mind,
+that's separated ontologically from the world of objects.
+And it still remains, whatever the complexities of that relationship,
+it's still true that the body, for Descartes,
+is part of the physical machine that's on the side of objects.
+So this kind of dualism is really deeply written, as we know in Descartes,
+even if it's more subtle than most people say.
+And because of that, we have this fundamental idea
+of the relationship between mind and world as subjects against objects.
+What it is to know the world is as a subject to come to know the world of objects.
+And what it is to be in the world is to construct a series of, for Descartes,
+representations of that world of objects in the mind.
+So we've already got some really deep things going on here.
+We've got the idea that the mind-world relationship for Descartes,
+the subject-world relationship, is this fundamental dichotomy.
+And we have the idea of how one bridges that gap
+when one comes to know things or believe things about the world.
+One forms representations of the world.
+And Descartes is very clear about this,
+the notion of an idea is central to Descartes' understanding of what it is to know.
+So we have in Descartes these deep structures.
+And in fact, there's even more that one could say
+about what's packed into the idea of the Cartesian mind.
+And as I say, looking forward to something we might talk about in a moment,
+I think when one unpacks a lot of the things Descartes thought about the mind,
+here's a really important fact.
+You can deny substance dualism
+and still be fundamentally a Cartesian, right?
+You can deny that there's this ontological split between mind and world,
+where world includes the body,
+but still believe that what's going on here is based on a subject-object dichotomy,
+that we come to know the world through representations,
+that that's how the subject accesses the world through these representations.
+And that sort of idea is behind a lot of contemporary philosophy of mind
+in the analytic tradition.
+I mean, just to give an example of how that gets played out,
+we think about computational theories in cognitive science,
+we say things like, well, it's the manipulation of representations.
+That's what goes on.
+Obviously, there are other things going on here.
+The mind's a kind of inner realm compared to an outer realm of objects.
+There's how this all works in terms of certain kinds of inputs
+coming into the mind from the world via perception,
+which are then processed by the mind,
+and then that produces guidance, as it were, to the body
+about what to do in the world.
+Again, Descartes says some quite subtle things about that,
+but that's the sort of character.
+So there's all this stuff going on in how the Cartesian mind works,
+and more particularly in how the Cartesian mind accesses the world,
+that's independent of substance dualism.
+Part of that independence also becomes a kind of independence
+of thinking about the mind in an explanatory way compared to the body.
+It's like, if you think about how computational theories in cognitive science work,
+then we understand the computations.
+The algorithms, the rules that govern the thinking.
+And in cognitive science,
+that was often thought to be something you could do
+without caring about exactly how the physical body worked.
+The physical body was just a kind of implementation strata
+for all that algorithmic processing that was independent of the body.
+So you still get this independence of mind from body
+in terms of the explanatory projects of cognitive science.
+So putting all that on one side, but then we turn to Heidegger.
+Things look really different for Heidegger.
+This is where I think we have to cross over into some of Heidegger's technical terminology.
+But starting, for instance, with how he thinks about the human,
+or what it is distinctively to be human.
+He uses a new term, he introduces a neologism,
+dacite, their being, or being there, for what it is to be human.
+And that's a conscious decision that he makes, introducing that kind of terminology,
+because he thinks we need a different language.
+Now, in Heidegger's scholarship, there's a certain amount of...
+What's the right word?
+Difference of opinion, say, about whether we should think of dacite
+as a fundamental rewriting of the notion of a subject,
+or whether we should think about dacite as a structure
+that is not fundamentally a subject-object structure.
+I'll come back to what not fundamentally means there.
+I prefer the latter route.
+That's the route that certainly people like, you know,
+Dreyfuss and other Heidegger scholars take.
+So I don't like to think about dacite as a subject, essentially.
+Dacite is a way of being in the world
+that is not fundamentally based on a subject-object dichotomy.
+So immediately, we have this difference with Descartes.
+Sorry, if I can just...
+I mean, one thing that I found,
+thinking about the difference between Descartes and Heidegger,
+in some sense also that Descartes is mainly interested
+in what you might call epistemology, right?
+The idea of how we gain access or knowledge of the world.
+And that's, in some sense, because he starts with this idea of a subject
+being different from an objective reality, right?
+Yeah.
+Whereas Heidegger, as he says, is more interested in ontology,
+or this idea of the nature of being, of sein.
+And he just kind of starts from the idea that meaning...
+You know, we have a meaningful relationship to the world,
+and so he wants to understand how that's possible.
+I think with one caveat,
+I think that's a useful way of looking at it.
+I mean, the caveat is just that...
+I think there's a tendency to think of Descartes
+as, you know, we think about Descartes doing epistemology, right?
+He's talking about what it is to have justified beliefs about the world.
+But I don't think... I mean, Descartes is as much a metaphysician
+as he is an epistemologist, and contemporary Descartes scholarship
+often focuses more on the metaphysics than the epistemology.
+So Descartes is interested, I mean, you know,
+he's interested in the real distinction between mind and body,
+you know, and what exists, right?
+And the answer to that is mind, body and God, right?
+And so...
+So I think we should see Descartes doing metaphysics now.
+Now, metaphysics is not necessarily the same thing as ontology,
+as that's understood within the Heideggerian tradition.
+So just to be that small clarification,
+what I would say, you're right.
+So Heidegger...
+For Descartes, getting yourself into a meaningful world
+is a kind of an achievement, right?
+It's something that we have to achieve somehow.
+Because we start with the subject-object dichotomy
+of a split up from the world,
+in order to get into the world in some way,
+we have to somehow achieve something.
+We have to get some beliefs that match up with the world
+in an accurate, representational way.
+Heidegger starts from the position
+where we're just in a meaningful world.
+We find ourselves in a meaningful world at every moment.
+And of course, that's what experience tells us, right?
+If we think about what Descartes goes through,
+of course, Descartes would agree with this in a sense.
+But it's not as if we find ourselves
+in a world that's meaningless to us most of the time.
+We find ourselves in a world that makes perfect sense to us.
+A world of microphones and cameras and laptops
+and whatever else is on my son's desk
+since I'm recording in his room.
+And that's the world we find ourselves in.
+We don't experience being in the world
+as a kind of epistemic achievement.
+We just experience, we start with us,
+as Heidegger sometimes puts it,
+we're thrown into a world of meaning.
+We find ourselves, we always already find ourselves,
+in a phrase that Dreyfus likes, in a world of meaning.
+And that's what the phenomenological experience is like.
+So for Heidegger, that's where we start.
+And what happens here is,
+it's a bit crude to think of it as a simple reversal.
+But whereas for Descartes, we kind of start in a meaningless world
+and we have to kind of bootstrap our way into it somehow epistemically,
+for Heidegger, we start in a meaningful world.
+And if we find the world to be a strange meaning in this place,
+that's a kind of weird moment.
+And it's quite those, they're actually quite important moments for Heidegger.
+But that's not how we normally experience things.
+So if we want to use our experience as a guide,
+we have to start, according to Heidegger,
+from this experience of being thrown into a meaningful world.
+Yeah, great. I think this takes us really into some of the things
+I wanted to quiz you about a bit more.
+I mean, you've already mentioned this term, Dasein,
+and as Heidegger's term for talking about maybe human existence or human agency.
+And maybe to try to make sense of what exactly he means by that,
+we could talk a bit about what he means by the study of equipment.
+So in the German term is Zeug,
+which I think just pretty self-consciously chooses that term
+to mark a difference to the idea of things or objects
+and the way that Descartes, for example, thought about them.
+So why does he talk about equipment
+and how does it relate to this idea of being in an always already meaningful context?
+So for Heidegger, when we characterise this finding ourselves
+already in a world of meaning,
+the way he starts to get a grip on that in the early pages of being in time
+in what's called the existential analytic
+is to think about what that experience is like
+and what entities are like when they're experienced as meaningful.
+And that's when he introduces this term that the great Heidegger translators,
+McCrory and Robinson, translate as equipment.
+And I think they choose that carefully
+because the idea is that we're in a world of things that matter to us for our projects.
+So to use Heidegger's much overused example,
+which I don't mind using even though it's kind of cliched now,
+he's like this example of the carpenter and the carpenter's hammer.
+So when the carpenter experiences the world,
+he doesn't experience an object with certain kind of properties
+of a certain weight, of a certain mass, of a certain colour,
+made of wood and metal and so on.
+That's not how he experiences the hammer.
+He experiences the hammer as something to do carpentry with,
+I as a piece of equipment.
+And so for Heidegger, that's where we start.
+We start with a world that's meaningful in terms of a world of equipment.
+Now, something really important about this.
+This is really an essential kind of aspect of the Heideggerian position.
+He also doesn't think we experience equipment,
+if we want to understand the significance of equipment, as meaningful to us.
+And that's the experience of the entities with which, as he puts it,
+we're in most proximal contact.
+Right, so the entities that are meaningful to us.
+What's important is we don't experience them as isolated.
+So we think about Cartesian notion of an object.
+It's kind of an isolated thing.
+And if we want to say why this piece of pure extension
+is the kind of equipment that it is,
+we start with this thing that takes up a certain amount of space,
+and then we introduce what Heidegger sometimes calls function predicates,
+or value predicates.
+And that's the idea that we say, well, it's this object,
+it's this physical object, and it's for these certain things.
+So fundamentally, we think of its fundamental way of being
+as just a physical object with certain properties,
+like size, weight, mass, made of certain materials.
+And then we say an object of that kind has function,
+such that it can fulfil this role as a hammer.
+Heidegger starts with the idea that we just experience it as a hammer.
+And in playing out what that means,
+we get a really important part of Heidegger's position.
+He calls the sort of roles that equipment plays in our world
+involvements, okay, in the translation.
+And an involvement is not a standalone structure.
+It's like a referential structure.
+Each piece of equipment points to other equipment.
+So to experience something as a hammer
+is in part to have a grip on its relations to lots of other things.
+Now, immediately, you're going to say, well, it's the workbench,
+it's the nails, that's the kind of world of the hammer, if you like.
+But it doesn't stop there.
+What's really important for Heidegger
+is as we fill in those referential links,
+we find that we start to enrich our picture
+of what the significance of the equipment is
+as a piece of equipment, as an item of equipment.
+So, yeah, the hammer is for hammering.
+And in that sense, it's related to the nails and the workbench.
+But also, the hammer is related to the projects of the human user.
+So it might be building a table for one's daughter
+to make her bedroom better so that she has a better life
+and can do her homework.
+And so you're doing it fundamentally for being a parent.
+So the significance of the hammer points to these kind of aspects
+of what it is to be a human being.
+And fundamentally, these referential links bottom out
+in some deep structure of what it is to be a human being
+and how human beings find the world to be meaningful.
+So we have this very different holistic kind of meaning structure.
+Of course, when we're using the hammer,
+we're not aware of all that meaning structure, right?
+And that also is really important for Heidegger.
+It's that when we're using a piece of equipment
+in the most proximally kind of like appropriate way,
+i.e. we're using a hammer-to-hammer,
+and we're not experiencing any problems with that,
+it's not like we're aware of all this significance,
+but somehow it's kind of sitting in the background, right?
+It's part of what it is to be a human being,
+is that that's what's going on here, if you like,
+in a very sort of general loose term.
+So that's why the notion of equipment is really important.
+And again, they're sort of thinking about Heidegger and Descartes
+in a kind of simple reversal relationship.
+So when can we get to the idea of the hammer
+as just something that's an object with a certain weight
+and a certain size?
+Yes, of course we can do that.
+We can put the hammer down and we can say,
+how much does it weigh, right?
+And we can then weigh it, right? Of course we can.
+But then we're treating it as an object.
+When we treat it as a piece of equipment,
+we're treating it as something that plays a role in our lives
+as human beings.
+And of course, how one feels in those referential structures,
+to come back to something I said about earlier,
+about the cultural inflection here,
+you know, what it is for something to be a hammer
+might vary from culture to culture.
+You know, a certain entity might have different kind of meanings
+in different structures.
+One structure, you might have something that we think of as a...
+I don't know, we might experience as a tree
+with a certain kind of sets of meanings,
+maybe it produces fruit or other.
+But in another culture, we might experience it
+as a place of the spirits or something like that.
+So how things turn out to be equipment,
+of course, natural entities can play equipment or roles as well.
+Not every piece of equipment is something that we make.
+It might be something that we destroy.
+You can see that cultural variability
+in how totalities of involvement get played out
+for different human beings at different times,
+in different places.
+I'm actually really interested in this notion of,
+I think in your book you call it involvement networks or something.
+And also, I mean, Andrea and I talked about Anne Schoenbren
+in an earlier episode and it's interesting
+because I think it's quite similar to loads of things
+that she says in her book on intention
+and the structure of practical knowledge
+that once you think about why am I doing this
+and you keep asking the question why,
+you kind of get to increasingly broad structures of meaning
+until you say something like, I don't know, I'm just doing it
+for the sake of being a student,
+why am I talking to you and doing this podcast and so on.
+And I think it's these fundamental structures
+that ultimately are sort of the bedrock
+of what Heidegger understands by being in the world, right?
+Yeah, absolutely.
+So when you fill out the...
+I mean, the reason I called them involvement networks in the book
+is to get this idea of the referential structure,
+so it's a network of meaning.
+And then you could think of how all those,
+how different sets of involvement networks might fit together
+to make up the life of a human being
+or the meaningful world of a human being.
+I think that's what Heidegger means by world
+in one of his uses of the term world.
+So when we talk about being in the world,
+we're talking about a meaningful relationship
+that's filled in in terms of these involvement networks.
+And I totally agree with you, there's a crossover with Anscombe.
+I suspect, in truth, that's because both of them are influenced by Aristotle.
+And there's something similar going on in Aristotle.
+I think in your book, you talk about these three different modes of engagement
+that Heidegger distinguishes and how we deal with equipment.
+So first, there is this kind of very intimate relationship
+that he calls the, I think, the ready to hand, right?
+The zuhanden in German.
+Which is for him the most primary mode, right?
+And maybe you could say a bit more about this
+and how it relates to this idea of transparency.
+I mean, I think you've already mentioned it in a way.
+Yeah, I mean, I alluded to it, but I can say more about it.
+So I think it is really important.
+So if we think about the influence, again, looking slightly forward,
+thinking about the influence Heidegger has had
+in cognitive scientific thinking,
+it's this bit of Heidegger that's probably had the biggest influence, I think.
+So, again, in this part of being in time, the early part of being in time,
+when he's talking about once he's set up the project to being in time,
+he then launches into what people call the existential analytic,
+which is when he tries to describe what it's like for us to be in the world
+in ordinary, everyday context.
+So I've talked a bit about that in terms of the meaning structures.
+And I mentioned that when we're behaving with a piece of equipment
+and we're using it skillfully and it's not playing up in any way,
+that we don't really experience that equipment,
+that item of equipment as a kind of independent object.
+And this is really important to Heidegger.
+So the term that often gets used here is this term transparency.
+When we're using equipment in a skilled manner and in a hitch-free manner,
+and I'll say a bit about that in a moment,
+then the idea is that phenomenologically, in terms of our experience,
+that entity becomes transparent to us.
+So if I'm working on a paper or something and I'm typing away on my computer,
+I don't really experience...
+And I'd say that I'm a skilled typist to a certain degree, good enough anyway.
+I'm not really concentrating on my hand movements,
+I'm not really concentrating on the keys,
+I'm not really concentrating on the screen.
+It's like I can experience... I go through that, it's transparent to me.
+What I'm concentrating on is the project, right?
+On the writing, on the paper, on the ideas.
+And similarly, Heidegger's example of the carpenter.
+When the carpenter's building the desk, in the example I used before,
+they're not really concentrating on the hammer, right?
+They're skilled users of the hammer, the hammer becomes transparent,
+and they'll be thinking about the task.
+So this idea of equipment becoming transparent
+is a marker of when we're using equipment in a skilled and hitch-free manner.
+Now, if we're not a skilled user of the equipment,
+then it will be a problem for us.
+We'll have to concentrate on how to use the hammer,
+we'll have to concentrate on how to type,
+because we're not very good at it, right?
+So then we are concentrating on the keyboard as well, right?
+At least as well.
+The other examples in which we start to concentrate on entities
+as independent of us, as not transparent,
+is when things break or malfunction, or get in the way, or are missing.
+So Heidegger calls these disturbances,
+and whereas in the case where we're using equipment in a hitch-free manner,
+he calls that readiness to hand,
+when things break,
+he introduces a new phenomenological category called unreadiness to hand.
+Now, when things break, we have to start concentrating on them
+as independent entities, right?
+We might need to... I've knocked loads of coffee over on my keyboard,
+suddenly I'm reaching around to find something to clean the keyboard,
+to clean the computer, to make sure it continues to work.
+Or the head flies off the hammer.
+I've got to either fix the hammer or find a new hammer or something.
+Or even if the hammer's not really working for me,
+it might be too heavy for the job.
+So there's lots of ways in which equipment can fail to become transparent.
+In those circumstances, we have this mode of being,
+or mode of encounter, as I call it in the book,
+that Heidegger calls unreadiness to hand.
+Crucial thing about unreadiness to hand
+is that we still make sense of what's going on
+within the network of involvements, right?
+So this is a computer that's now broken.
+So what actually strikes me at this moment
+when my computer keys start to play up
+because they're sticky from the coffee, right?
+Well, what starts to show up to me is
+the laptop is something I'm using in order to write a paper.
+But it goes beyond that.
+It's now affecting my capacity to perform as an academic.
+So the whole of that network of links that goes from the typing
+to the screen, to the paper, to me delivering the paper on time,
+to what that will mean for my career as an academic,
+and how I make sense of myself as an academic,
+all that now gets sort of lit up.
+And I now can see all that structure in place.
+So when equipment fails to be transparent due to a breakdown,
+it's not merely the entity that now, as it were, lights up for me,
+or becomes present to me, not transparent any longer.
+It's rather that all that network of significance gets lit up.
+And we can go further than that.
+So in some cases, this might mean just an adjustment to my behaviour,
+and I can fix it nice and quickly.
+But sometimes things might break to an extent
+where I can just have to treat them now as a physical object.
+So I might have to fix the hammer,
+which might mean doing certain things that I might need to know
+what it's made of and so on, things like that.
+So at a certain point, an object, an entity,
+can be so disentangled from that network of significance
+that it just sits there like a Cartesian object, right?
+But that's not our primary way of engaging with the object,
+of encountering the object.
+That's the way that happens when things aren't working.
+Now, you know, that's the final reversal, right?
+This idea that suddenly we can see the Cartesian objects,
+but they're like unusual circumstances.
+There's a nice bit where Heidegger says at one point in Being in Time,
+and the reason I say this is because it's not really just the object,
+but sort of things that we might previously in the history of philosophy
+taken to be fundamental,
+turn out to be private or secondary,
+or, you know, white things that we experience
+only when things are in a weird state.
+So Heidegger says, you know, what we first hear is the motorcycle.
+We don't hear a raw sound. We hear the bike.
+We hear the motorcycle.
+Of course, as a philosopher, I can sit down
+and get myself into a really weird state of mind
+where all I hear is a raw noise.
+Of course I can do that.
+Sense data. I can experience the sense data, you know?
+But that for Heidegger, that's not our fundamental way of being in the world.
+And for Descartes, of course, people in the Cartesian tradition
+and the empiricists who come after Descartes,
+there's a sense in which that kind of raw piece of sense data
+is the building block of our being in the world.
+But for Heidegger, that's just a kind of...
+It's a side effect of what happens either when things break
+and one has to think about things as having certain kinds of raw properties,
+or when one gets oneself into a certain philosophical state of mind
+where that's what one experiences.
+But that's not to describe our fundamental way of being in the world.
+That's to describe some weird secondary state.
+So that's where you get the full distinction coming out.
+That relates also to what in your book I think you refer to as the...
+the primacy of online intelligence, right?
+Which is something that Dreyfus also picks up.
+But this idea for Heidegger that...
+that what he calls the ready-to-hand,
+what you just explained, is in some way more fundamental and primary
+to our more detached, disengaged modes of dealing with objects in the world.
+One thing I should tell you, this primacy of online intelligence,
+as I started to develop these ideas in relation to cognitive science,
+of course, as I always say, Dreyfus was the...
+We ended up disagreeing about something, we might come back to that later,
+but Dreyfus was very much a kind of inspiration in the way that he read Heidegger.
+And Dreyfus, as an interpreter of Heidegger,
+we might think it was broadly with a kind of pragmatist tradition
+of interpreting Heidegger.
+And some Heidegger scholars really don't like that.
+And so, in some ways, this primacy of online intelligence,
+the primacy of the practical,
+so the fact that what we really want to understand,
+to understand our most natural, if you like, way of being in the world,
+is this kind of skilled practical intelligence
+that the Scarp interacts, that the typist has, and so on.
+And that when we come to reflect on things in a detached way,
+that only happens in these kind of unusual cases.
+We can do it as a philosopher, of course we can.
+We can reflect on the world's world objects.
+It's probably the way of engaging with the world
+that's the fundamentals of a lot of science.
+There's a lot to be said about a kind of Heideggerian philosophy of science.
+Maybe not the place to do it, but it's not that these...
+It's very important, I think, that although Heidegger talks about
+our engagement with equipment in this skilled way,
+what I call the online intelligence,
+as our most proximal way of engaging with entities,
+I think these days I would pull myself slightly away
+from that strongly Dreyfusian pragmatist tradition
+and think that actually it's not as if the present at hand is...
+Sorry, the present at hand, I haven't mentioned that,
+but that's the term that Heidegger uses
+when we really do experience things as independent objects
+with sets of context-independent properties
+like weight and mass and size and so on.
+It's not... I think these days I want to say
+that's still a really important part of being human, right?
+That we can do that.
+It's the fundamentals of science, fundamentals of philosophy.
+Okay, it might be that that fact that we can do that
+has misled us in our philosophy
+towards a wrong picture of our relationship with the world.
+But the fact that we can do it
+is still, of course, a really important part of what it is to be human.
+I think when I talk about the primacy of online intelligence,
+I think I probably overplay it a little bit
+in reconstructing the world to what I would do now.
+But I think it is definitely there.
+I think it's important to mention that probably
+this ready-to-hand mode of engagement for Heidegger
+is something that's probably not that common
+in our everyday experience.
+Probably, I think one thing that I liked about your way of explaining it
+is that if you have these two extremes,
+the ready-to-hand and the present-to-hand,
+you have this kind of spectrum in between
+of this third mode of engagement of the unready-to-hand
+where you're still engaged in a practical activity
+in trying to achieve something like writing a paper.
+So you haven't really given up yet on your project.
+But you're still in a sense that there's a gap opening
+between you and the object
+because it's not really fully transparent
+in the way that it would be
+if you were just fully skillfully coping with it.
+And that brings out a nice thing, actually,
+which is that what we can gradually see,
+in the case where the entity is transparent to us,
+the thought is that's not correctly described
+by a subject-object dichotomy anymore
+because there's no separation between the subject and the object.
+The entity here, the hammer,
+is just part of this ongoing activity that is DASI.
+So it's not merely that we don't experience the entity as an object.
+We don't experience ourselves as a subject either.
+Just as the entity disappears, so do we.
+There's just the hammering.
+Now, as things start to break down
+or as we start to get ourselves consciously as a subject
+into a state of mind where we're opening up the world differently,
+then what we gradually do is establish a sort of subject-object dichotomy.
+Now, I think in that unready-to-hand kind of zone,
+we start out with not much of a subject-object dichotomy
+and as we move through the spectrum of possible extreme breakdowns,
+we gradually establish a stronger and stronger version
+of the subject-object dichotomy
+till we get a fully Cartesian kind of relationship with the world,
+but now that's this only part of the picture.
+In the best case, it's only part of the picture
+and possibly, depending on how one reads Heidegger,
+a secondary mode of activity.
+So all that's really important, I think, in understanding this.
+And I think one thing I wanted to stress,
+which you alluded to there in debates with Bert Drowfus,
+is that which we had after we constructed the cognitive world
+in a bunch of papers.
+I mean, one of the things I wanted to say there was that...
+I mean, that idea that there's this fully...
+this way of being where we're not aware of ourselves
+and we're not aware of the entity, we're just aware of the hammering.
+I think that's quite rare.
+It links up with stuff that's gone on recently in various bits of psychology,
+especially in sports psychology, like being in the zone in sport,
+where you're not experiencing...
+You're at one with your bodily movements
+and your tennis racket or your squash racket or whatever it is.
+And that somehow that's an example of this,
+being in the zone or people quite flow sometimes,
+or different versions of that.
+And that's often characterised, drawing a bit on the phenomenology
+of people like Merleau-Ponty and Heidegger,
+as this kind of lack of a subject-object relationship.
+It's this... You're just aware of the activity.
+I have to say, I think the only people who can believe that about the sport
+have never played sport against anybody else,
+because constantly you're being disrupted, right?
+And you're constantly aware of how to correct.
+And I think the idea that that flow state is what you aim for in sport.
+I think that's become less popular in sports psychology recently
+through the work of people like John Sutton and others,
+as we've re-established a kind of sense that
+the world presents itself as a sort of problem that we have to solve.
+So what I want to stress is that whilst I think red-innocent hand
+is a really important phenomenon that does happen,
+and it still might be our most fundamental way
+of revealing entities as what they are, as equipment.
+It may be quite rare in our actual day-to-day experience
+that we get into quite that zone.
+One of the things you mentioned about playing sports against someone else,
+I mean, is obviously the presence of other people in our lives, right?
+I mean, in a way that, you know, engaging with other people,
+they're not like just objects or means to an end, right?
+There's different kinds of phenomenological characters,
+as well, that can be disruptive,
+but maybe also in other loving relationships or something
+is also more of a kind of fully engaged kind.
+So this is something that, I don't know if Heidegger talks a lot about
+this relationship between other people and disruption
+and how it relates to our modes of being in the world.
+Not really. I mean, one of the strange things about Heidegger,
+I mean, there's a statement that's really important in being in time
+that he says that being in the world is always being with.
+But we have to be careful about how he understands that.
+I think what he means by that is that all that is another way of putting the point
+that all these structures through which we interpret the world
+and find the world meaningful, through which the world's intelligible to us,
+they're all social structures, right?
+Hence, all the cultural stuff again comes back in.
+So being with is that sense of not being with
+in terms of being alongside other people in a loving relationship, whatever,
+but it's rather this idea that we start from a shared world.
+I mean, again, there's something interesting here with Descartes.
+I mean, the whole problem of other minds, right, is the problem.
+If we relate to other people as something where we don't really have access
+to their thoughts, we have to infer them from their bodily movements that we can see,
+then we get this problem about whether they're not...
+Well, in the first case, can we understand what's going on in other's mind
+in any accurate way?
+But secondly, whether there are minds there at all, you know, really?
+You know, what epistemic position are we in with respect to that?
+And, of course, De Heidegger just doesn't have that problem
+because everything starts from these kind of social structures.
+So being with is fundamental.
+And the way in which Dreyfus sometimes puts it is...
+And I remember a view that I've been quite sympathetic to over the years
+is the extended mind hypothesis,
+where we think that minds are not tracked within the skull,
+but are rather implemented or realised in structures
+that go beyond the skull and skin, often associated with Clark and Chalmers,
+the sort of architects, the original architects of the view.
+But I remember when I defended that view,
+I mean, you know, Bert Dreyfus called it trivial and contrived.
+The reason for that is he thinks we need a much deeper kind of externalism
+than the extended mind can ever give us, right?
+We have to start from the thought that the human being is always outside of itself
+because all the structures to which we make sense of the world
+are social structures.
+So there's no starting point from the point of the individual subject.
+If we cut ourselves off as an individual subject,
+that's a cutting ourselves off from our fundamental way of being,
+which is inherently social and essentially social.
+So that's quite an interesting sort of way of thinking about this structure of Dasein,
+that it's got this radical sort of cultural externalism about it.
+And I think that's the way Heidegger thinks about being with.
+The idea of being alongside other people in a more kind of empirical sense,
+I don't think he really...
+You know, he doesn't really talk about that very much.
+He says some things that are quite interesting,
+which is the idea that we can only make sense of being alone
+with respect to the idea that we were fundamentally social in the first place,
+you know, which I think is a really nice idea.
+I'm really interested in exploring that idea in more detail
+in the way that we're already always in a cultural kind of world.
+And maybe we can come back to that when we talk about
+some of the more existential themes in Heidegger if we have time.
+But maybe just because you mentioned it and it connects to something we talked about
+in relation to the ready-to-hand, the extended mind
+and this idea that cognition is distributed in many ways
+and sort of spreads across the brain, body and environment in many ways.
+Maybe you could develop that a bit more in terms of
+how you think that is sort of in line with what Heidegger thinks.
+Good, yeah, good.
+So, what I don't think...
+I mean, I've defended the extended mind hypothesis for years.
+I still think it's right, but the minds are sometimes extended.
+And you might think there's an easy route from Heidegger to that.
+But I don't think there is an easy route.
+It's not as straightforward as one might think.
+It actually comes back to some of those comments
+that Bert wrote in Christmas, I'll get to those.
+So, the standard way of thinking about the extended mind hypothesis
+is that we have these brain, body, world systems.
+And normally, everybody agrees there are brain, body, world systems, right?
+Doing mathematics before we throw ourselves into calculators
+and iPhones and so on that can do the maths for us.
+Doing maths on a piece of paper, right?
+We write things down on the paper, we move symbols around on the paper.
+So, doing maths, right?
+Achieving a mathematical conclusion or doing mathematical reasoning.
+When we do do it that way, not when we do it in our head,
+as we might say with mental mathematics,
+in a traditional kind of way of thinking about it.
+When we think about how we do maths when we use symbols on the page,
+clearly, there's a system there that's distributed over brain, body and world.
+Everyone's going to agree with that.
+The question is how much of that system counts strictly as cognitive.
+Now, you might think this is a kind of weird question, right?
+There's a cognitive achievement here doing maths
+and it's achieved by a brain inside a body
+and that manipulates symbols on the page, right?
+Using or writing symbols using a pen.
+And so, you might think the obvious answer is, well, the thinking in some...
+Whatever counts as cognitive, whatever counts as mentally,
+it goes on inside the brain
+and there are things that support that thinking, right?
+Including my bodily movements and moving the symbols around on the page.
+And the theorist who thinks like that
+is maintaining a certain kind of internalism about the nature of mind.
+They're maintaining the thought that all the mental stuff happens in the brain.
+And all the rest might be really important, but it's merely scaffolding.
+Now, someone else who's got a more extended mind view
+just thinks that that's not the right way to think about this.
+What the extended mind theorist thinks is that, no,
+actually, the cognitive here, the mental,
+is itself distributed over brain, body and world.
+So, the symbols on the page have as much right to count as having cognitive status,
+whatever that means, come back to that, as what goes on in your brain.
+The simplest way to think about this in terms of cognitive status
+is whatever status we usually grant the brain in thinking,
+the symbols on the page and the bodily movements when you manipulate the pen,
+they all have the same status.
+So, the mind, in this sense,
+at least the parts of the world that realise mental processes,
+that realise thinking,
+are spread out over brain, body and world in such a way
+that the body and the world also count as cognitive.
+So, thinking happens in these distributed systems.
+It doesn't just happen in the brain.
+All right, great. So, that's two different views.
+I haven't argued for one or the other,
+but it's just to get a grip on what the two different views say.
+Now, when we go back to Heidegger on equipment,
+you might think, well, surely, Heidegger must, you know,
+isn't there some direct route from Heidegger to the extended mind?
+And I don't think there is in the obvious thought.
+And this comes back to things we started with
+about how phenomenology works, right?
+So, of course, if Heidegger's right about the experience
+of using equipment in a hitch-free way,
+then when I'm using the pen and the paper and the symbols in a hitch-free way,
+I won't be concentrating on the pen and the paper
+and the symbols as independent entities, right?
+I'll be experiencing through them to doing the maths, son.
+So, that's great, right?
+So, they disappeared from our unconscious experience, they're transparent.
+So, it looks like the next thing you might say is,
+well, then why don't they just count as part of the thinking?
+But it's not obvious that one has to make that move, right?
+It still might be that all the thinking here is happening internally.
+It's just that the entities externally don't show up for me in my experience.
+So, I don't think you can, just off of that,
+I think we could take the following view.
+Where we have that kind of transparency,
+maybe that's an indicator or the beginnings of a story.
+Maybe we're on the way to an extended mind story.
+So, I think that's the way to think about it. It's not an obvious.
+Now, as I said, that's to think about the extended mind
+as it's usually thought about.
+You know, we have some cognitive activity,
+like doing mathematical reasoning,
+and we use entities in the environment to achieve that,
+under certain circumstances, haven't said what they really are.
+We count the entities as part of the mind,
+rather than as just non-cognitive supports for the mind.
+Now, but I don't think there's a route from transparency on its own,
+but Dreyfus might be right,
+that if we adopt the whole Heideggerian framework,
+then it looks like we're starting with the idea of the mind as somehow extended.
+That the mind itself, we can't make sense of mind as an inner realm.
+The only way to make sense of minds in the general sense,
+which we use them today,
+is as something that is a social entity, through and through.
+So, Dreyfus thought that was a kind of existential externalism.
+The idea was to make sense of minds.
+We had to see minds as inherently social,
+being with as an essential part of what it is to be a thinking human being.
+Again, that was Dreyfus's view,
+that that would give you a kind of radical externalism,
+more radical, in fact, than the extended mind idea,
+but it would give you something like it.
+I'm not sure that follows exactly,
+because it might be that the social stuff is only codifying the meanings,
+but doesn't tell you where those meanings are realised,
+but that would be something...
+There's an extra Heideggerian...
+A lovely paper on this, that goes in this direction,
+is John Hoagland's epic early paper
+in the full recognition movement, Mind, Embodied and Embedded,
+where at the end of that paper, he talks about equipment as meaningful,
+and what that means is we have to leave meaning out there in the world, right?
+And that, going back to what I said about equipment,
+it's not that we take this neutral entity
+and then we impose functions on it from inside our mind,
+but rather we experience the entity as meaningful.
+Where does that meaningful come from? It comes from the social.
+And then I think Hoagland's thought is,
+given that that's our relationship with things,
+we get a kind of externalism out of that
+that would support something like an extended mind view.
+But I think that that's a trickier story.
+So what I would say is I don't think there's a direct route
+from Heidegger's phenomenological observations about transparency
+to the extended mind.
+Maybe another reason for thinking why there isn't such a direct route
+from Heidegger to the extended mind idea
+is that, in a sense,
+maybe for Heidegger, this question of where is the mind realised and so on,
+coming from this interest in just being transparently involved in an activity
+where you have no distinction between self-denial and object,
+maybe for Heidegger, it would just be a kind of uninteresting
+or misguided question to ask where...
+So there's lots to be said about that
+and lots of really difficult philosophical questions that come up there.
+First of all, as a matter of historical bookkeeping,
+I think you're absolutely right.
+Heidegger wouldn't have seen this as a question that he was remotely interested in.
+And in some ways, I don't know...
+I think there are indications both ways in different bits of Heidegger's writing,
+whether he would have thought that even if he didn't care about,
+as it were, the mechanisms, where the mechanisms are
+that realise mental states and processes,
+even if he didn't care about that,
+whether he thought that his philosophical work had implications for that.
+And again, there are different views, I think, within Heidegger's scholarship.
+Those people who think of themselves, I think, much more as purely thinking
+about Heidegger and his importance as a philosopher,
+perhaps think that those kind of questions are just, as you say,
+they're orthogonal to anything that Heidegger would think was interesting.
+Heidegger's not the only philosopher in that book.
+People like Ryle, I think, you might have a similar kind of view about Ryle,
+in the analytic tradition.
+He talks a lot about how to think about mind in the concept of mind,
+which looks like it might have some implications
+for how we think about things that might have an extended mindy feel.
+Some philosophers have argued that.
+But again, you might think Ryle would think that was a kind of category error,
+to even think that what he was saying
+had any implications for what science and other kinds of philosophy
+tell us about the mechanisms of mind.
+So, clearly, that's true.
+How I think about this, though,
+is via the lens of a distinction that John McDowell has introduced,
+which you actually alluded to part of it, this idea of...
+Sorry, McDowell probably didn't introduce it.
+He introduced a version of it.
+The terminology was already around in people like Dennett and Hurley.
+But in recently, McDowell started to talk in some papers
+about what he calls the personal-subpersonal distinction.
+Actually, I should say that in terms of historical bookkeeping,
+since Susan Hurley was a grad student at McDowell,
+she and I got it from him originally.
+But in terms of writing about it,
+McDowell, in a paper called...
+I think it's The Content of Perception Experience,
+introduces this distinction between the personal and the sub-personal.
+And that distinction is, at the personal level, as he calls it,
+what we want to understand is what it is for a creature
+to be in touch with its environment in a meaningful way.
+And he talks about that as a kind of constitutive explanation,
+what it is for the phenomena of mind to be as they are,
+what conditions would have to be met for that to be true.
+Now, you might think that's definitely Heidegger's project,
+in some description of that.
+And then there's the sub-personal.
+And there's the question of what one says about the sub-personal.
+McDowell thinks that's the job for cognitive science, right?
+Cognitive science will tell us about the mechanisms
+that underpin or enable, as he calls it, enabling exclamation,
+enable the phenomena that we as philosophers get a grip on
+at the personal level.
+But there's a really interesting question that comes up at that point.
+What's the relationship between the two, right?
+So, some philosophers, I think Dreyfus, Kelly, think this,
+working with a kind of Heidegger,
+or at least Dreyfus working with an Heidegger framework,
+Kelly within a broader phenomenological framework.
+I think they think the story goes like this.
+We do all this neat, smart philosophical work at the personal level,
+and we tell the scientists what it is to be in touch with the world
+via perception.
+And then the scientists go off and take that notion
+and tell us how to wire up a bit of the world
+such that that phenomena could be true, that could be true.
+And it's like all the pressure comes from the personal to the sub-personal.
+And sometimes McDowell could be read like that.
+So the idea would be get your philosophy straight
+and then go off and do your psychology and your cognitive science, right?
+But that doesn't strike me as like a happy place to sit, right,
+for lots of reasons.
+So just say two things about that.
+I mean, one is even within McDowell's own picture,
+he has a counterexample to that.
+He has this example where we do...
+He likes the example for various reasons
+due to the way he develops an example.
+He thinks this idea of personal explanation,
+I mean, although it talks about persons,
+it's just a mode of explanation.
+So you could do it for frogs, right?
+You could say what it is for a frog to be in touch with its environment,
+kind of an organismic level of explanation, if you like.
+And then you could talk about the mechanisms
+that enable the frog to be in touch with its environment
+in the way that it is,
+experiencing a world of food, you know, and so on.
+And he says, look, here's the interesting thing.
+We could open up the frog's head, right?
+And we could have it... Let's do it one step back.
+We could have an account at the personal level
+that gave the frog this really rich phenomenology,
+lives in a really rich world.
+Then we open up the frog's head
+and we find there's nothing there but a homogenous lump of jelly.
+Now, we've got two possible moves at this point.
+We either say, isn't it amazing what a lump of homogenous jelly can do?
+That doesn't sound plausible.
+What we would probably say is,
+ah, we've got our constitutive explanation wrong.
+We need to rethink that.
+But if that's right, then there are influences
+that run from the sub-personal to the personal.
+So what I think is that we need to have a kind of two-way direction,
+two directions of travel here.
+Yes, we can do philosophical work
+and we can say this is the way we think things are.
+Then the sub-personal work gets done.
+There'll be clashes between the two.
+We'll have to sort them out. It doesn't have to be...
+And this is a long, complicated story
+about how one makes sense of naturalism
+in the philosophy of cognitive science.
+I don't think it always has to be that the philosophy gives way.
+But in the end, I think we've got to have a story
+such that those two match up in a way that we take to be satisfactory.
+McDowell himself talks about there being a relationship
+of intelligibility between the two.
+Whatever that means, he doesn't feel that in, frustratingly.
+Whatever that means, it's like a reflective equilibrium between the two.
+It has to be that these things make sense of each other,
+the constitutive and the sub-personal, the enabling.
+So I think that when we talk about that flow from the personal to the sub-personal,
+we don't get back to Heidegger.
+So does Heidegger's framework tell us how the sub-personal mechanisms have to be?
+I don't think you read it off directly.
+You take that account,
+you look at what sub-personal mechanisms we're getting at in cognitive science,
+we see how they match up,
+and we bring these things into some kind of equilibrium, ultimately.
+Now, this actually leads me to what the whole pitch was,
+in a sense, in reconstructing the cognitive world,
+because it wasn't in reconstructing the cognitive world
+that I thought we do those Heideggerian philosophy,
+that tells us how things are,
+and then the cognitive scientists go off
+and tell us how to wire up the world to make Heidegger's position true, right?
+Even though I think the two have to be brought into equilibrium of some form,
+or some relationship of intelligibility.
+What I thought was, actually,
+there was something really interesting going on,
+that the way we'd been doing cognitive science up till the 1990s,
+on the whole, not everyone, but on the whole,
+had had a whole bunch of theoretical structures at its base,
+deep conceptual assumptions about the way things worked.
+And they were, to a certain extent, by and large, with caveats, being careful,
+the kind of assumptions that I talked about earlier, coming out of Descartes,
+that the fundamental relationship was one of subject against object.
+We needed to build representations of the world to understand the world is.
+We needed to manipulate representations in thought,
+which leads you to a kind of computational story.
+That, basically, we have inputs from the world, sensory input,
+then we do loads of internal clanking and whirring,
+and that produces patterns of action, right, down the line.
+So, a kind of sense, sense the world, model it,
+plan in your models, and then act in the world framework.
+All these things one can find in Descartes,
+including the idea that we can explain cognition
+without essentially appealing to the body as a kind of important structure.
+The body is just a way of implementing the computational structures
+that we get at through notions like algorithm and so on.
+So, we get a kind of explanatory disembodiment of cognition,
+not a metaphysical disembodiment, there's no substance dualism here,
+it's a kind of explanatory dualism.
+And while I looked around cognitive science,
+that's what I saw, right, that was what was going on.
+We were doing representational computational cognitive science
+in a way that was kind of committed to a certain explanatory disembodiment.
+I mean, just to give an example,
+in that school of cognitive computing sciences,
+they kind of made me the philosopher that I am,
+there was no neuroscience, neuroscience was down in biology,
+it wasn't thought to be relevant, right,
+that was just the chemistry of stuff, the implementing base.
+Okay, so that's, we have all this Cartesian stuff going on,
+but then there was this new cognitive science happening
+in the early 90s.
+And this was coming out largely from the people who were building robots.
+Now, they were, but not all,
+interestingly, some of them were reading Heidegger,
+particularly Phil A. Gray.
+But they, but they were large,
+these roboticists weren't reading Heidegger, right,
+they were just building robots.
+What they saw was a certain failure,
+as they saw it of the representational computational view,
+what I called the orthodox view,
+which you can think of as a kind of Neo-Cartesian view.
+They saw that as failing to explain cognition.
+They were thinking that things look like this, really crudely,
+this is much too crude.
+Basically, cognitive science as it was then was pretty good, it seemed,
+at explaining things like how we might play,
+how we might solve cryptographic problems
+like the famous missionary and cannibals problem in psychology,
+or even playing draughts or chess, maybe.
+You know, we could get explanations of that kind of thinking,
+but it wasn't giving us explanations
+of perhaps our most basic way of engaging with the world
+in real-time action.
+And in fact, the kind of robots that were built
+using the traditional view were really clunky,
+they were really slow, they broke down really easy.
+And so these roboticists were saying,
+no, we have to do things differently.
+So they started to build robots where they minimised,
+not got rid of altogether usually,
+but they minimised notions like representation,
+they changed their view of what representations had to be,
+from being something that was a kind of neutral picture of a world
+that we could then build a model of,
+but became things that were already in some way linked to action,
+so they would encode the world in terms of actions we could perform in it,
+prioritising, as we mentioned earlier,
+online intelligence over the kind of offline intelligence
+that you might get in pure thought.
+So they started to build robots that moved away
+from that very set of assumptions that define the orthodox view.
+They prioritised online intelligence, they minimised representation,
+they started to think of cognition as a kind of dynamical system
+rather than a computational system.
+They didn't have a set of sort of clearly defined
+different functional stages in cognition
+where one sensed the world, one built a model,
+one planned in the model, then one acted.
+All of that got messed up in some really quite interesting
+action-oriented kind of mechanisms.
+When I looked at that cognitive science,
+it was being done by people like Rod Brooks and Maia Matarik
+and Sussex by Phil Husbands and him and Harvey and Dave Cliff and others.
+What I saw was a very different way of thinking about what cognition was.
+So what I did in reconstructing the cognitive world
+was interpreted the fundamental structures that we would need
+to understand that kind of cognitive science
+as not Cartesian but as a kind of neo-Hydro-Gerian view.
+So that was the move.
+So the Hydro-Gerianism wasn't a kind of prescriptive,
+top-down, personal level to sub-personal pressure.
+It was rather making sense of cognitive science
+as it was actually happening.
+I think this is a really strong dialectical move
+you make in the book of just kind of saying,
+well, I mean, I've described the structures of human action
+and thought and so on in terms of Heidegger,
+but actually a lot of the stuff that's going on
+is already Heideggerian in that broad sense.
+I think it's a good illustration of what you mentioned maybe
+of thinking about how also thinking about
+the sub-personal level of explanation, if you like,
+constrains or is sort of in a mutually productive relationship
+with these more personal level kinds of explanations.
+One thing I was thinking about when you were talking about this
+is that I was recently rereading Awakenings by Oliver Sacks,
+which is this sort of account of his experience
+working with Parkinson patients.
+I think he's actually really struggling
+with exactly the same kind of distinction applied to medicine
+and just kind of saying when you talk to the patient,
+you're actually faced with someone with a subjective experience
+in a meaningful world that is sort of shattered
+in various kinds of ways.
+But then as a neurologist, you're also trying to really understand
+the neuro-underlying structures.
+I think in the later chapters of the book,
+when he sort of reflects on more broadly
+his way of approaching this, both as a doctor
+but also as a human being, working with these people,
+he's really trying to make sense of that kind of relationship
+between these different modes of thinking.
+Yeah, I think that sounds very plausible to me.
+And I do think this kind of,
+what come to be called Heideggerian cognitive science,
+I think it could be valuable way beyond my particular interest
+in the robotics of the early 90s and so on.
+And there have been people who have developed ideas like this
+in relation to various kinds of psychopathology and things like that.
+And that relationship between the person and the sub-personal
+I think does become...
+It's quite interesting that Heidegger himself
+in the Zollikon seminars, so a much later text,
+which is a kind of a set of reports of discussions
+between Heidegger and some psychiatrists,
+lots of these issues come up about personal and sub-personal,
+not under those terms,
+about what the neuropsychiatrists are doing
+or psychiatrists that are doing and what Heidegger is doing.
+And there's some really interesting stuff.
+Actually, one of the themes that comes up
+that I haven't really mentioned is...
+I mentioned it in relation to Descartes but not Heidegger,
+is the notion of embodiment.
+And here, I think just to say something briefly about it
+would be quite useful.
+It's really interesting that in being in time,
+Heidegger does not talk about embodiment at all.
+He only mentions it once.
+He says, the body, that's got a whole set of problems all of its own.
+And that's all he says.
+Yet, Heidegger is often thought, and it's there in my own work,
+that Heidegger is someone who has been one of the
+sort of influences through various people,
+Dreyfus as well as myself,
+on embodied cognition as a kind of way of doing things.
+Now, we have this term, which I mentioned much before,
+I didn't explain, Fourier cognition,
+which we think of mind as embodied, embedded, extended and inactive.
+We've talked a bit about being embedded in a world,
+what the extended mind is.
+But also, mind is thought to be essentially embodied.
+And to understand the structures of mind,
+we also have to understand the structures of the human body.
+And this comes out in lots of different ways in embodied cognition.
+Embodied cognition is a very broad church.
+And it comes out in ways,
+sometimes that are quite non-disruptive
+to many aspects of the Cartesian picture.
+So you might think that when we have representations of the world,
+that the content of those representations
+often bear a lot of the markers of embodiment.
+A classic example of this, Lakoff and Johnson,
+think that, for instance, set theory,
+really abstract mathematical and logical kind of framework,
+is really a bunch of metaphors of embodiment.
+You're kind of inside the set or you're outside the set.
+You're inside the body or you're outside the body.
+Inside the skin, outside the skin.
+And actually, a lot of our very abstract thinking
+are based on metaphors of embodiment.
+That's one kind of embodied cognition, really interesting,
+really important in cognitive linguistics.
+But then there's more radical forms of embodiment,
+where you start thinking that when the violinist plays a cracking concerto,
+that a lot of her intelligence is not in her brain,
+but it's in her fingers, in the muscles.
+And then you get, again, very Hoaglandy pictures of how...
+You can't really separate that.
+It's like the signals that the brain sends
+are already somehow adapted and specific
+to the very muscles that this violinist has,
+such that you couldn't take the brain out of that body
+and put it in another body and it would do fine.
+It's all one, you know, it's tightly interlinked system.
+And, you know, you get more and more radical notion.
+You get more and more sort of different notions of how a body plays.
+All of that is very much part of the picture.
+Heidegger doesn't say anything about that then.
+There is some stuff in the later stuff in the Zollichon seminars on embodiment.
+And there Heidegger makes a distinction,
+also Merle Ponti goes on to make in the Florology literature,
+between embodiment as a kind of... about the physical wiring up,
+but then embodiment as a kind of way in which of opening up the world,
+that a lot of the ways in which we open up the world is through our body,
+and we interpret the world through the kind of structures
+that our body brings to the table,
+the kind of sensory motor mechanisms that we have.
+So that definitely feeds into a contemporary tradition
+that also brings in people like Gibson,
+where we experience the world as a set of action possibilities.
+And of course, action possibilities are going to be different
+depending on what body you've got.
+You know, this chair sits on a ball by me, but not by an elephant,
+because it would crush it.
+You know, I can't track magnetic fields
+without this I've got some extra tech plumbed into me,
+but sharks apparently can or whatever it is,
+you know, whatever the stories there are.
+So like, you know, how one experiences the world
+as a set of action possibilities is dependent on one's embodiment.
+And then that leads you kind of back to thinking about equipment
+and how the meaning of equipment gets fixed.
+So there's a sort of story where embodiment is sort of there in Heidegger,
+even though he doesn't really talk about it too much later.
+So I think that's a really important part of the process.
+So that explanatory disembodiment that I think we see in Descartes,
+that definitely was challenged by the cognitive science of the early 90s
+that was based around robotics.
+A lot of the interesting stuff that happened in robotics
+was how things that look like really difficult cognitive problems
+are only difficult cognitive problems
+if you split the subject and object up
+and think the subject has to build a model of the world
+in order to do anything.
+If you just allow an embodied subject to move, right,
+suddenly those problems sort of go away.
+In the history of cognitive science, there's a fantastic paper
+by Chris Alton and Andy Clark,
+where they argue that there are these really difficult cognitive problems
+because the input, roughly speaking,
+because what we get in perception is a set of kind of statistics,
+and what we need are a set of statistics
+that are not obvious from that first set of statistics.
+So we need some really fancy cognitive mechanisms
+to pull out the second-order statistics,
+and that's really, really hard.
+And then, like, Rolf Pfeiffer and Christian Scheer
+did some great work where they showed that,
+for some of the cases that Clark and Thornton thought were really hard,
+if you just allow your robot to circle around the object in question,
+all those stats just come out in the movement.
+So, again, being an embodied creature
+can make things kind of easier from a cognitive perspective.
+So all this is really important to the robotics of the early 90s,
+but that comes into the Heideggerian picture that I was painting
+in a slightly kind of more indirect sort of way.
+Yeah, and especially this notion of movement,
+which, of course, is very centrally related to the body,
+is sort of part of this idea of making cognition
+something that is enacted, right,
+that perception is something that's very active in many ways.
+Yeah, there's so much to talk about there.
+Yeah, that would be a whole...
+Yeah, and I mean, I guess one big name to mention there
+that you already brought up is Merleau-Ponty, right,
+who, I guess, I mean, he was very influenced by Heidegger, of course,
+but he was probably the one that introduced the body
+as the central theme in his phenomenology.
+That's definitely right. What I would say there is, I think,
+Merleau-Ponty's distinction between two kinds of embodiment,
+one of which is the kind of physical body, the natural body,
+and the other is this body as a way of opening up the world as meaningful.
+And that's got loads of influence. That has influence on Dreyfus.
+He talks about Merleau-Ponty a lot when he talks about embodiment.
+So there's both Merleau...
+I know I'm very strongly influenced by my readings of Heidegger and so on.
+I've obviously read Merleau-Ponty
+and I've used Merleau-Ponty in ideas as well.
+But I guess I'm more influenced by Heidegger.
+But I also think that distinction between the two kinds of embodiment
+is there in the Heidegger of the Zollikon seminar.
+So in some ways, I think, though he didn't really develop it,
+Merleau-Ponty did and rightly should get credit for the developments that he does.
+It's not as if that isn't there in Heidegger. It is already there.
+No, I mean, obviously we could talk for hours and hours about this and more.
+But I mean, most of the themes that we talked about
+are kind of based on your book, which was published,
+I think, almost 20 years ago now.
+And obviously you have been sort of stalled since then,
+so it would be really nice to maybe hear
+some of the things you're working on at the moment
+and maybe how some of the things that we talked about are related to that.
+So are there some aspects in Heidegger's work
+that you would like to explore more
+or that you're currently exploring more that are really interesting to you?
+Yeah, absolutely.
+I mean, one of the things that I'm really interested in now
+is the concept of authenticity.
+Now, this goes back to something I said earlier.
+I said that this stuff on the ready-to-hand and transparency,
+that's been one of the really big influences
+that Heidegger's had on cognitive science.
+And that's true.
+I think there are other things in Heidegger
+that might be mined for interesting ways of engaging with cognitive science.
+And at the moment, I'm really interested in a notion that can seem like
+a deeply existential notion or a moral notion
+or something that only philosophers and maybe,
+I'll come back to this, literary theorists could care about,
+the notion of authenticity.
+And we often think about authenticity as being who one really is.
+And there's all kinds of problems in that
+or expressing oneself in the way that reflects who one truly is.
+And there's all kinds of problems in that way of thinking about authenticity
+because it seems to be committed to this idea of some prior essential self
+that then gets expressed.
+So that distinction between the expression and the essential self.
+And actually, in Heidegger,
+there's a different notion of authenticity that falls out of his framework.
+And I should stress here that it's interesting
+because some people don't like the sort of translation that we get of...
+Authenticity is a term that Macquarie Robinson,
+the great Heidegger translator, used.
+Some people think this isn't really a notion of authenticity at all.
+I don't think that's quite right.
+What's essential to Heidegger's notion of authenticity
+is still the idea of a self of sorts.
+But it's the idea of owning the structures by which one behaves.
+So if one goes back into something we didn't really talk about in Heidegger,
+which is, as we behave ordinarily in the world,
+Heidegger thinks that we are subject to what he calls the dictatorship of the they.
+Now, what I said earlier about being with,
+being our fundamental way of being in the world, or one aspect of that,
+that we behave according to various social structures that we inherit,
+into which we're thrown,
+and that we project ourselves in our activity
+onto various possibilities in the world
+that also draw on those structures that we inherit.
+So I interpret myself as a parent.
+I do the sort of things that a parent does in my culture, to be a good parent.
+And most of the time, Heidegger thought, we just do that.
+It's just what one does, right?
+We don't even, in a sense, this would need a lot of cash out,
+we don't even think about it, we just do what one does.
+And he calls that the dictatorship of the they.
+Now, on one hearing, that can become like a very negative thing.
+It's like, I'm just doing what other people expect of me,
+and somehow that's a really bad thing, because I'm not owning it myself.
+But I don't think Heidegger, most of the time,
+he's got some moments where he rails about the dictatorship of the they,
+and so he calls it levelling as well,
+this idea of everybody forced down to the same level,
+because they all behave, all of us behave the same,
+and you can tell a story where that sounds a very negative thing.
+And Heidegger does sometimes tell that story,
+there's some passages in being someone who does.
+But a lot of the time, it's not that it's a kind of negative thing,
+morally or politically or socially,
+it's just our default way of being, right?
+We just do what one does.
+However, there are moments where that smooth behaving as one does
+gets disrupted in various ways, and there are various ways.
+And Heidegger calls these moments of anxiety,
+where the world is actually a kind of strange place to us,
+where we have to decide whether to continue to behave
+in the way that we're being conditioned by our culture or not.
+And these are Heidegger's moments of authenticity.
+It's the moment where we're not cut off from the social structures,
+but we have to somehow, I mean, decide might be too strong.
+We have to find a way of getting back into the world.
+And there's ways of doing that.
+One is to just go back to doing as one does
+without explicitly kind of endorsing those ways, because it's easier.
+But another way of doing it might be to explicitly endorse those structures,
+to decide that these are the structures by which I want to live.
+And Heidegger's got a whole story about this that he calls retrieval.
+Actually, I translate the term as retrieval.
+Others would translate it as repetition, which I think is misleading.
+But retrieval is a process where one picks on models from the past,
+or ways of behaving that are available from one's culture,
+and uses them as models for how to go on.
+Now, this could all still sound like a really big picture,
+the sort of thing that philosophers care about,
+and literary theorists care about.
+But actually, whilst I think that's true,
+I think this is now, I begin to think this is part of our basic dynamic of thinking.
+The thinking itself is a process
+by which we bring structures from the past to bear on the moment.
+And there are different ways in which we might do that.
+And in that very process of doing that, there's a moment of creativity in thinking.
+And this is just what it is to think, is this moment of creativity,
+where we decide how to apply the norms of the past to the present.
+And so I'm thinking that this notion of authenticity
+is actually something we need to understand to understand what thinking is,
+as we go on.
+Now, I should say there are some other people
+who are saying very similar things,
+although not in the language of authenticity,
+but in a different kind of language.
+Sebelvedo Pedro, who's a contemporary activist,
+has written a fantastic piece in Frontiers in Psychology,
+called something like Levels and Norm Development,
+something like that.
+Not sure if that's exactly right, but you'll probably find it.
+Where he talks about the moments of going on in the world of these moments
+where one brings the norms that one has got, as it were, available to one,
+to bear in the moment.
+But one has to, as it were, interpret those and apply them
+and decide how to go on at every moment
+in a kind of fluid, dynamic kind of way.
+Going back in the history of philosophy,
+Gilbert Ryle wrote a fantastic paper called Improvisation
+in his latter years, after he'd actually retired
+from Maldives as a former philosopher.
+Improvisation is my current go-to piece for thinking about thinking,
+where he argues that all thinking is a form of improvisation.
+And in fact, what I'm doing in some of my contemporary work
+is actually thinking about how understanding musical improvisation better
+might become a model for thought.
+Yeah.
+That's a very brief story about how I'm beginning to think about thinking
+in a different way.
+Not much of this stuff published yet, so you heard it here first, as it were,
+and that's fine, but it will be coming out gradually.
+So I now want to rethink what thinking is,
+using the machinery of authenticity, of improvisation, of creativity,
+as basic to thought.
+And I think that's going to be...
+It will link up with the stuff that Sepp Vader Pedro is doing,
+certainly link up with the stuff that Ryle did,
+and that's going to be the new story.
+And this, for me, is part of a broader picture,
+where I've become more and more interested in creativity as a...
+So I'm interested in explaining musical creativity,
+aesthetic creativity, and so on,
+but I'm also interested in learning from that,
+how that might be part of the basic structure of thought itself,
+what I call the creativity-first sort of understanding of thinking.
+And that leads me, actually, has led me to think about my work
+really differently to how I have done in the past.
+I now think of myself as a philosopher who's engaged with a...
+I mean, we might pretentiously call it a movement,
+which is typically these days being called
+either the cognitive humanities or the cognitive arts and humanities.
+I know I've said a lot which you might want to ask about,
+but just to give you a quick sort of tie-up to the story.
+Some years ago, I just got an email from a guy called Peter Garrett,
+who's a fantastic literary theorist of the Victorian era in particular.
+Peter had just won this network grant
+to develop this idea of the network
+on what he called the cognitive humanities
+or cognitive futures in the humanities.
+This was something that got a grip in the US a bit,
+but hadn't really got a grip in the UK.
+And Peter asked me to join this network
+as the kind of representative of embodied, embedded, extended cognition.
+And in that network, I interacted...
+I was the only sort of philosopher in the central group,
+so I was interacting mostly with literary theorists of one sort or another.
+And the idea was to develop a network
+that reflected this idea of the cognitive humanities,
+where the idea was that the kind of literature,
+but also more broadly the humanities,
+could be brought into contact in a productive way with cognitive science.
+Such that the traffic didn't all go in...
+It wasn't just as it were,
+we can tell you what's going on in literature,
+let's do an fMRI scan of a reader,
+which kind of was being done.
+Or we can understand what aesthetic appreciation with,
+we'll just fMRI a few brains of people while they look at Caravaggio's,
+which was being done in neuroaesthetics, I'm being obviously unfair here.
+But rather to see literature and cognitive science
+and the arts and humanities more generally,
+so now it's expanded out into choreography and dance and all kinds of things,
+to see them in a mutually productive relationship,
+such that not only can we learn more about what's going on
+in things like literature and art through doing cognitive science,
+but equally we can get a better grip on what's going on in our cognitive science
+and what cognitive science should be saying,
+by understanding more about literature.
+And here's my big go-to thing about this,
+Jerry Fodor, one of my heroes,
+one of the greatest philosophers of cognitive science,
+if not the greatest.
+I admire Fodor all the way through and I admired him even more,
+when after, unfortunately after he died,
+I think before he could have done so much more great stuff.
+But there was an obituary written of Fodor,
+in which an anecdote was reported about Fodor.
+And basically the anecdote was that Fodor took the view
+that there was more good sense written about the human mind
+in, as he put it, Henry James rather than William James.
+Much preferred Henry James to his psychologist brother.
+Also, if you wanted to understand human emotions,
+listen to Wagner, don't listen to psychologists.
+And the idea, I think Fodor, I want to sign up for that,
+that in fact is going to be the opening of my new book on this stuff, right?
+Because the idea is that if we want to understand what it is to be a human being,
+I think we probably would reach for the literature and the art
+rather than the psychology.
+That doesn't say that psychology is somehow not worth doing,
+it's very important.
+And it might feed into this idea of the personal and the sub-personal distinction
+about different ways we might engage with that distinction
+through literature and art in terms of the personal side.
+Psychology on the sub-personal side,
+but bringing them into a reflective equilibrium.
+I see that as it were the Cognitive Humanities is doing that.
+And there's a Cognitive Futures in the Humanities Conference every year,
+and that came out of that network that I helped set up.
+Well, sorry, Peter set up, I helped develop with Peter,
+so I don't want to claim ownership of the network, that was Peter's.
+But that I worked on with Peter and other people, Karen Kukin and others.
+And so out of that idea came the Cognitive Futures in the Humanities Conference,
+that happened every year now.
+And that's where this kind of work is going on.
+In many ways, I think of myself as a kind of theoretical cognitive humanist,
+if you like, these days.
+And so sometimes when I'm talking about authenticity,
+I'll spend some time giving you a reading of Kerouac's On the Road,
+which I think is a novel about authenticity.
+And I don't do that as a skilled literary theorist,
+I do it as a philosopher reading literature.
+But nevertheless, I'm quite happy to use literature.
+I talk about Sam Rebekah's work a lot.
+I'm quite happy to use literature, to use theatre, to use art,
+as it was part of the argument,
+as much as I am willing to use science or straight philosophical reflection.
+I always thought of Cognitive Science as a kind of interdisciplinary movement.
+And now I think of it more broadly as the Cognitive Humanities
+as an interdisciplinary movement.
+I see myself as engaging as a kind of theoretical,
+if you like, cognitive humanist,
+using my philosophical skills.
+So that's how I self-conceive myself now.
+So I said at the start I self-identified as a philosopher of Cognitive Science.
+I now self-identify a little bit differently.
+I mean, in a way, I was just thinking that that ties in really nicely
+with some of the big thinkers in the phenomenological tradition, right?
+Because one of the nice features as well for many people,
+also sort of more in the public sphere,
+there are not so much in academic philosophy
+about people like Sartre, for example, and Simon de Beauvoir and so on,
+is that they were both writers and philosophers as well.
+And I guess Melo Ponti's work in his engagement with Impressionist painting
+as a way of understanding vision and how we actually see
+is also, I think, maybe a good example of that idea,
+of really engaging with, obviously, the arts and humanities
+and trying to understand the structures of experience
+that matter to us and that shape our experience of the world.
+I mean, one thing I was thinking,
+one thing that I am personally very interested in
+is the way in which when we start thinking about the human mind
+as always encultured in some way
+and sort of part of a broader social, cultural, material horizon, right,
+of things that have come before us
+and that in Heidegger's work we're sort of thrown into
+and that we have to deal with.
+But in that process of social learning and so on
+and adopting these various kinds of roles and norms,
+we also sort of, I guess, are forced to make them our own.
+And I guess maybe this is the way in which authenticity
+or I guess Heidegger's term is actually eigentlichkeit,
+which is just kind of a weird...
+I mean, for me as a native German speaker,
+it's not really a word that you encounter in the ordinary German language,
+but it has this connotation of making something your own, right,
+of sort of in some sense incorporating it
+or making a part of who you are comes in.
+So one question that came up is whether...
+Do you think, I mean, from what you've just said,
+is that your approach to the human mind and intelligence,
+can we make sense of that without sort of the social environment?
+Because in some sense, a lot of the stuff that also maybe happens
+in what you described as the orthodox cognitive science
+is very individualist, right,
+that they focus on sort of one agent in a particular environmental setting,
+whereas on this broader idea of thinking maybe about...
+Thinking on the lines of authenticity,
+you have to bring in the kind of socio-cultural background
+that shapes us always.
+Yes, so I think that's right.
+I think there are some very difficult issues that come up here.
+So where I think this can become really important
+is how one thinks about the cultural and the social
+in relation to us as also biological beings.
+And this is really important.
+So back in Reconstructing the Company of World,
+I took a line then, which I now wish I hadn't,
+because I don't think it was the right line.
+Well, I wish I hadn't, that's too strong.
+I explored an idea, I thought I kind of made it sell,
+but maybe not now, I don't think it's quite right.
+So I had this idea then that we have all these cultural domains of meaning,
+the totalities of involvements and so on, equipment networks.
+But also I wanted to say that that kind of holistic network framework
+also could make sense of some of our own behaviour
+that wasn't culturally infected,
+that was kind of somehow driven by us as biological beings.
+But also, therefore, the reason that was important
+was because it would allow the framework to apply to non-human animals.
+And I think the reason that was important, I think,
+was partly because a lot of the cognitive science
+that was going on in the robotics literature
+was about a lot of activities that we might think of as the animals did,
+or even insects did, and we might do them too.
+But somehow it was stuff that we shared
+with the insects and the non-human animals.
+So the picture I had then was a kind of...
+I never really resolved this in me construct the code,
+but I'll say something about it at one point,
+about what the relationship between the biologic and the cultural here is.
+So the way I think I had it then, roughly speaking,
+was that there's some kind of complex interaction
+where there's these biological structures,
+they can be reinterpreted in the cultural world of human beings,
+but in some sense there's these biological structures
+that have the same kind of network structure,
+where the normativity is set by evolution,
+by what's the adaptive thing to do, or adaptations, and so on,
+depending on how one understands that part of the picture,
+whereas the cultural stuff's initialisation into a culture
+rather than evolution.
+And I just think it was too clunky now.
+I'm much more now thinking,
+and I'm not sure about this still, I still haven't really settled this,
+but I think there is a real issue here about how to understand this.
+So I like to contrast that picture
+with something like the picture that John McDowell has,
+whereas what he thinks is that once you become a cultural being,
+roughly speaking, this is a kind of free interpretation of McDowell,
+once you become a cultural being in the sense of a human culture,
+it's not that as it were there's all this biological stuff
+that's still around, in terms of meaning,
+that's doing the same thing it did before,
+and then there's a cultural layer on top,
+rather the cultural stuff reaches down and changes the lower level
+so that that's all now part of the same kind of cultural thing.
+So when you go, when humans develop and become cultural creatures,
+the meaning is all somehow cultural,
+it's conceptual, and I'm not adding in the notion of the cultural here.
+And whereas in the animal sense,
+it's not as if there's a sort of animal core of us that sort of...
+I mean, of course, we're still historically animals,
+and we're still animals, we're just cultural animals,
+but it's not as if there's all these biological meanings
+as it were hanging around
+that haven't been brought into that cultural framework.
+And now I'm a bit more sensitive towards, you know,
+I'm thinking that's the right way to go.
+So I think there's some very difficult questions
+about how to think of us as cultural animals
+in a way that does justice to the sort of Heideggerian picture,
+perhaps picks up on some of McDowell's stuff,
+but keeps that idea in view that, you know, in studying animals
+and in studying robots that behave like animals,
+we're still doing something important,
+we're understanding various mechanisms,
+but it's not as it were as if all those mechanisms,
+they're in us, right, in some way, but not in an unchanged way.
+I don't think that's the clearest thing I've said today.
+That's going to be quite a mess done.
+Because I think it's a really difficult issue,
+and I'm not sure how to think about it, I have to say.
+Yeah, I mean, that's something that I'm really, really interested in
+in trying to understand it,
+and it always has sort of two directions of difficulty, right?
+So the one is sort of how you think about the behaviour and actions
+of other animals that are not humans,
+without already sort of projecting our structures of culture and meaning
+and so on, onto them.
+And the other is to try and understand how in the human case,
+this kind of entanglement of, let's say, cultural nature
+and biological nature actually happens.
+This brings us all the way back to Heidegger in a way,
+because one of the things that's really interesting about Heidegger
+is that he struggled at different points in his career,
+but always struggled,
+struggled in different ways, but always struggled
+to make sense of animals.
+So every now and then he mentions that non-human animals.
+Sometimes he says animals have no world.
+Animals live in meaningless worlds, right?
+There's no world, there's no meaning.
+They don't live in the world at all,
+because worlds are only worlds of meaning,
+and there is no meaning.
+And then he's got an extended section
+where he thinks about a lizard basking on a rock in the sun.
+And he just can't make...
+It just won't fly for him for that.
+There's some way in which that's a meaningful behaviour.
+So then he starts talking about animals as poor in world.
+So they have worlds, but they're poor.
+But then that doesn't really line up nicely against the idea
+that the only source of meaning is cultural, right?
+So he struggles by his framework in a way that...
+On the one hand, he could just legislate and go,
+no, animals, it's all meaningless.
+Whatever they do, it's all meaningless.
+But he's a great phenomenologist, right?
+So he can't bring himself really to say that,
+because he knows that doesn't fit the phenomena.
+So he struggles to get that right.
+And there's no account of what it would mean
+for an animal to be poor in world.
+Do they have a network of meaning, but it's only a little one?
+Are there big gaps in it? And what does it mean?
+And where does that meaning come from,
+if culture being with is central to meaning?
+Also a problem that not only would apply to animals,
+but maybe even infants and small children.
+That infants don't have yet the design
+and sort of the full sense of being in the world,
+being part of a culture and so on.
+It's a perfectly reasonable criticism of Harlegr, I think,
+which is one that Sean Gallagher in A Culture of His,
+Jacobson have made in a paper that's in a volume
+called Heidegger and Cognitive Science
+that I co-edited with Julian Kieberstein.
+But they make the point that all of Heidegger's explanations
+start from the point where Dasein's up and running.
+But we want to ask the question, how does that happen?
+How do we get to be Dasein?
+And it does seem that Heidegger, it's a sort of...
+It's a bit of a kind of paradox of the hippie type thing.
+I mean, presumably there must be developmental structures
+where kids, non-adult human beings are gradually inculturated,
+where they don't really have... They're not really Dasein yet.
+They don't have all these big networks in place.
+But what does it mean to be partly Dasein?
+Are we on the way to Dasein? Do we have bits of the network?
+How does that work?
+And it looks like that's a very similar problem, as you say,
+to the one of what one says about animals.
+Usually one kind of gets away with it with kids by saying,
+well, they're on the way to being Dasein.
+So gradually, at some point, indeterminate where that point is.
+Over here, when they're just born, they're definitely not Dasein.
+Then loads of stuff happens with intersubjectivity and triangulation
+and caregiving and all that stuff happens.
+And then over here, they're Dasein.
+In between, not really sure what to say.
+But I think, as Sean Gallagher and Colt Jackson have made the point,
+I think we do need a story about that.
+And Heidegger just...
+Partly, I think, because he's not interested in the mechanisms,
+just never tells us that story.
+He just says, no, there's Dasein. That's the whole human being.
+And if you're not Dasein, we can't use this framework to understand you.
+But it looks like that's inadequate.
+We need to understand the processes that lead to Dasein.
+And indeed, I would say,
+as part of the influence of the sub-personal on the personal,
+as we understand those developmental mechanisms,
+that will change what we think Dasein is.
+Fascinating.
+Yeah, I guess, I mean, there's so much to still talk about and explore
+and a great, yeah, thing maybe to...
+Because we've talked for quite a while now to end the podcast.
+So, is there anything, final thing you wanted to say or mention
+that is close to your heart?
+Oh, that's a nice final question.
+Yeah, I don't know about close to heart. I do...
+This is more like self-report,
+but it's something that I kind of think it's worth saying.
+It picks up on some of the things I said earlier.
+I mean, I would go to university at 28
+as, you know, to do philosophy and artificial intelligence.
+If I'd have gone to university at 18,
+I would have become a Samuel Beckett scholar.
+And I kind of think that that,
+and I didn't because I had other things to do,
+you know, another life before I went to university.
+And...
+But I think that stayed with me, that love of him,
+particularly Beckett and Joyce and other things like that.
+So, I think what's really happening with my current work,
+although I talked about it as this kind of, you know,
+intellectual and intellectual development,
+is that I've just found a way
+to integrate all those initial interests in literature
+into being a philosopher of cognitive science.
+And I think that's, you know,
+as I freely admit, you know,
+coming into my final run-in before I retire,
+I think, you know, I think that's...
+I'm glad to have found a way to, like,
+finally get to write about Beckett and Joyce
+and Kerouac and others,
+and yet still make people who care about cognitive science listen.
+I mean, it sounds very much like you're in the process
+of becoming very authentic.
+I mean, you're always...
+In some sense, yeah.
+Going back to your roots of your...
+Yes, definitely doing that.
+But no, exciting.
+I can't wait to read the book when it comes out.
+And, yeah, thank you so much for the very rich conversation.
+Oh, thank you. It was really interesting.
+And, yeah, I hope people listening found it interesting.
+But on the back of watching that TV programme,
+I decided to do philosophy.
+I decided to do philosophy
+that interacted with artificial intelligence.

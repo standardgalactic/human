@@ -1,0 +1,123 @@
+Yeah, generalization is an important word, and I think people also think of it as like patterns, but I don't know if that's too abstract for you, but let's just, this might get messy, and I'll probably try and just edit out some of my stuff, but I really want to hear your thoughts on it.
+So when we have ideas, I feel like already back then you were imagining what is becoming more obvious now in the study of the hippocampus, which is that something like memory and something like navigation are kind of the same thing, just in the same way that when you often talk about it depends on what you're looking for, or it depends on how you've set up the experiment, or it depends on what all this come before.
+You can't separate what you're looking for in finding and labeling from this whole trajectory of the way the experiment is set up, or where we are in the world, or what the goal is.
+I think a lot of your work shows that in different ways, but the reason I start with sustain and going into the hippocampus is because I feel like the model itself is kind of set up to be agnostic about all of these labels in a way that's becoming very important now, it feels like.
+Because just to give a brief recap, at the time people thought the hippocampus is all about memory, and then of course the play cells, grid cells, border cells had all been labeled found by this time too, and so it was like, oh, the hippocampus is about navigation.
+And so there's been this, what is it, the hippocampus is memory, it's knowledge acquisition, it's a GPS, and it all seemed very different.
+But if you just look at your model and what it's doing, all those things can be the same process, which gets to later papers that you've done, but I want to throw that out there and see what you think.
+No, no, no, no, this is not a digression, this is spot on, and yeah, really early on in my thinking, I always thought exactly that way, like that there's just this one general learning procedure, and like you said, you could apply it to different domains, things with different labels,
+different basically subfields in neuroscience, and it's just the same procedure, and yeah, even when I was writing up stuff, I wanted to say this, like more strongly, but I thought, it's really funny, I noticed one of your guests recently was Lynn Nadal, and I, this is years ago, but I was giving a talk in Arizona, I think, where he, I think he still works there, or is affiliated there, and I had a personal meeting, oh, okay, good, we have more time for fun stuff.
+And yeah, I brought this up, like very sheepishly, that oh, isn't it all the same, I thought he, I don't know why I thought he would hate it or something, but he's like, oh no, that totally makes sense, and yeah, I mean, I hope I'm not really, this is decades later, I'm sure what he said was way more subtle, but I just took it as like, I'm not a crazy person, but yeah, but what you're referring to.
+And what were you saying to him exactly, that space is similar to concepts or something?
+Yeah, that just, it just seems like they're all the same operations of what's going on in these different domains, and yeah, obviously people know that the hippocampus is implicated in these wildly different on the surface behaviors, like navigation, episodic memory, but yeah, it just, it always seemed that way, and it's just, I think, yeah, I think the field got off course, because there are things, even from like higher level cognition, when I was starting out, going way back,
+there's all these ideas that like space is a primitive, that structures, higher level concepts, and it kind of makes sense, you use language like, I'm feeling down today, but there are also cases where it doesn't make sense, like, you're closer to me, I'm closer to you than you are to me, like, doesn't really make sense,
+but yeah, there's a lot of evidence, but that's, that can be true, that we could form representations in one domain, like spatial ones, and apply them to others, I mean, we make analogies all the time,
+but the question I'm really interested in is, what's the machinery under that built those representations in the first place, and I think it really is something like these sort of incremental clustering, and whether you're talking of, there's a whole other dimension that we're not even discussing, which is time, and I think it's the same thing, once again, I always saw this way, like, in event perception, where,
+why do you segment off an event, it's because something surprising happened, people call it a boundary, but it's just basically like prediction, broke down, and then you noted it, and then it all just kind of blurred together after that got stored all and wrapped up and integrated
+into one bundle in your head, but yeah, 100%, so like, yeah, more recent work, like you indicated, has pushed that same, you can use the same simple clustering mechanisms to look at why you get grid cell responses,
+and also, like, you picked up on, like, very astutely, is that, like, when you're going to see these kind of responses or not see them, it's, like, not something that's built in,
+it's this interplay between the mechanism, the model, and the environment, and the task that's going on, so it's, I think it really is all the same, like, not because, like, I'm just naturally,
+like, a bundler as opposed to a separator, I think in this case, it's just, like, I mean, it's not crazy, there's this brain area, there's these related operations across these domains, and why, why shouldn't it be that way?
+Yeah, I think that goes back to that simplicity that's complicated, because basically, I think what you've even said,
+it's a general learning system, which makes sense, and we can use that for what we talk about as memory, we can use it for what we talk about as GPS,
+I think what gets, is that right, the idea of a general learner, yeah, but I think what gets hard is, and we should be careful, it's not either or, right,
+because I feel like this could be just saying, oh, well, there's no such thing, and in some of your papers, too, I wonder about it, if you've gotten pushback,
+it's like saying, okay, we don't really need to, this idea of a concept cell, or a place cell, or a grid cell, you could almost,
+and it has almost become clear that we could name cells by almost everything, right, there's cells that fire every time you see Jennifer Aniston,
+which are called Jennifer Aniston cells, these kind of concept cells, or, and, but actually, it's very important that that was found out,
+and those are very important discoveries, and actually, they, they add to all this, so it's not an either or, like,
+that we can now understand it, begin to understand it as a general learning system, comes from all of that,
+and it doesn't mean all of that is now not there, it's just that we're going to kind of zoom out and see it a little bit better, maybe, right, or,
+yeah, yeah, yeah, I mean, yeah, I mean, there's, there's so much to say, I mean, I guess, one thing that I never really resonated about,
+just, like, discovering cell types, or, like, concept cells, Jennifer Aniston cells, place cells, and so forth,
+and it almost just feels like that's not at all an explanation, it's, it almost, like, we're talking about being children,
+and then it feels like, because it's going to get me in trouble, but it, it almost feels like a very
+childlike view of what science is, like, like, someone, like, going through the jungle, oh, I found
+a new kind of butterfly, or, or this, or I went fishing, I put, mixed a bunch of chemicals together,
+and I discovered something, or Eureka, or, like, I've been fishing around in brains, and I found a cell
+that does this, so I solved it, like, I mean, other things in science, in psychology, like that, too,
+like, even the things that look totally the opposite, like, the Gibsonian direct perception
+always seemed like that, I mean, I really like that, in, like, linking to the environment,
+ecological psychology, but it's always, like, oh, there's no representations, you just, you just,
+you just know this, because there's an invariant, I'm, like, okay, but something has to compute that,
+and process that, and, like, just like these cells, you get a cell that lights up when you see
+Jennifer Aniston, that just, it's not like someone just put that cell in your head, you don't have,
+like, a, or a scale of the brain's GPS, it's, like, the brain doesn't have a GPS, something is,
+computing the stuff, and there's things being transformed, I mean, even if you don't take
+the computation to be the brain, there's just a lot of intermediate steps that are leading
+to that outcome, and to me, that's, like, the interesting thing to explain how it comes about,
+maybe this is, like, a little too, because you're doing a very good thing of, like, trying to say,
+oh, we could integrate all this stuff, but everything's valuable, but just to be negative.
+Say what you think, I mean.
+Yeah, yeah, it's just, so, like, this, yeah, just, like, the recent paper that's under review now,
+where it's really actually questioning whether there is a lot of scientific value to identifying
+these cell types, and this wasn't the kind of process explanatory models that we were discussing
+earlier, this was really just taking an existing deep learning model and showing that if you put it
+in the kind of enclosures, we put, like, rodents in to find these kind of cells in a VR environment,
+and he did, and you basically, even in a random network, you'll see these kinds of cell types,
+and they look a lot like the ones in the brain. It's not saying they're not real, or they don't
+have value, or they have no causal efficacy, or that the brain can't have interpretable cells,
+because I don't think the brain cares about us, whether it's interpretable or not interpretable
+to us, but it's just sort of saying that the discovery alone of these things, that might
+not actually have scientific value, because they could come about because it's actually
+doing what you think it's doing, or it could just come about doing a completely different
+function as a network, it does something completely unrelated to what you're studying, so that kind
+of goes back to what I was saying before, to make it more positive that they need to kind
+of do the, figure out what the underlying mechanism is, and the role of the cells in, like, a larger
+computation, and so I think it's, like, the priorities of science are a bit screwed up,
+because the discovery, that to me, it's not a discovery, it's just sort of, like, it's, like,
+finding a butterfly versus understanding how it works, or its life cycle, or something more,
+that's, like, the science, yeah. Yeah, I mean, I think we get confused sometimes about
+a couple of things, I think. I mean, one is that, of course, we want to discover new things,
+and that can seem like science, where, like, with the butterfly, you discover a new species,
+and then you put your name on it, or something, you know, and I think there's something motivating
+about that that's not bad, but you can go too far to where that becomes the focus, and as you're
+pointing out, that's actually not, I'm not sure that's going to help the butterflies live longer,
+or be healthier, or have a better environment, or something, like, what are we really doing when we
+talk about that? We could say that about the brain, too, but also, I think if I go back to,
+like, the 70s, or when there was all this going on with the hippocampus, with HM, with the first kind
+of discovery of the play cell, you know, actually, I feel like that was a very important shift in terms
+of the same thing that your model is helping us understand, which is, there are regularities in
+the world that are, I mean, this is hard, because it's not, they don't map to, people always say map
+to, or map onto, but there's a kind of representation, or map of it as the body, like this,
+these things aren't separate, so they're both showing us that there's some really amazing
+relationship between the way the body and the brain are, and the way the world is, as regularities,
+that you can actually study, and understand, this is, like, kind of a huge thing, right?
+It's really exciting, too. Yeah, I share your passion. Yeah. So, I guess it's, I still see all
+that discovery, play cells, GPS, memory, HM, as really important, but I feel like the story's
+got to widen a bit, and I think you're being, you would be harsher than I'm being about the
+importance of that stuff, which is, you would have more of a background of how to understand it, but
+I guess what I'm trying to get at is, like, can we just think of this as, like, a general learning
+system, and something like Sustain, or these models, start to help us understand, the more
+nuance we can get, the more the technology gets, can we start to do what I think you've been trying
+to do, and that's, take the context into consideration, take the experiment itself, and
+all the ways it's been developed into consideration, into the metrics, is, are we, can we do that?
+Does any of this make sense? Yeah, I mean, I, yeah, I don't want to sound, like, all negative,
+because things are progressing, and I think a lot of people are trying to do what, what you're
+saying, and it could just be, like, so maybe, one reason I was seeming more negative is, because,
+like, labeling these things by, like, their function almost, like, shuts down the scientific
+discussion, because, like, a lot of, what we've been saying, what you just said, was about, like,
+how the different tasks, contexts, affect things, that, like, the play cell does a lot more than,
+it's affected by so many things, by reward, and, you know, every, they're not, you need to look at the
+actual, I mean, they're just messier, too, than they're shown in the paper, like, when, when, when,
+when things, how things are actually done, and that's setting aside all the steps that went through,
+and, kind of, before something ends up being recorded and reported in a paper, but, but yeah,
+so, but this goes on, like, all over neuroscience, like, so, and again, I'm not really against these
+research areas, but it seems like it's bad to label things by their function, because it's,
+kind of, assumes, you know, the answer, so we have, you know, areas in the brain, like,
+the fusiform face area, like, it shouldn't be called face area, because it, sort of, like, assumes
+what it does, and that the story's over, but, and that seems, kind of, obvious, because then you could
+have, like, all kinds of debates, is it, is it really just faces, or is it, sort of, just fine-grained
+perceptual distinctions, is it visual expertise, and so, like, there's a lot of, that's not my area
+of research, but there's, like, a lot of rich questions that would take decades to resolve,
+and subtle things, but in a way, it shouldn't be called that the same way, like, I don't think
+it's just semantics, either, because you call something a place cell, a grid cell, and this,
+it's almost like you're just assuming what it is, or how it works, and, and maybe, like, closing
+your, your mind off to, like, the richer, deeper explanation that will inevitably follow, that is
+following, but maybe it would come along faster if we didn't have these viewpoints and attitudes
+towards Eureka, I found this thing, or that thing, or, yeah.
+Yeah, and as you're talking, it's also, it, even if, if the person who's presenting it doesn't mean
+for it to be, it becomes, it can only be that thing, which is also not really true about the
+brain and body. The same cell or group of cells can have many different kind of firing, or let's
+say, names or labels, depending on the context, or the way the experiment is set up, or what the body's
+doing. Yeah, yeah, definitely.

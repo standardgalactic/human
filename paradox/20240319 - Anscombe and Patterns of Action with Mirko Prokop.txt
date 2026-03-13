@@ -1,0 +1,877 @@
+hey so this is a little bit of a different conversation we decided to just read a paper
+together and talk about some ideas but before we get started with that maybe you want to introduce
+yourself my name is Mirko Prokop I'm a second year just about starting my second year PhD student
+interested in everything related to agency cognitive science and trying to well in particular
+find a sort of naturalistic angle onto the the notion of intention and intentional action within
+the context of more more recent approaches in the cognitive sciences that maybe we'll get to talk
+about today a little bit yeah and look at intention I'm excited to see where it goes so we met in
+Portugal right at the yeah the conference yeah it was a philosophy of mind conference so we just
+realized that we both have a lot of similar interests but we're coming from different places
+so we thought it might be fun to just have a conversation and see where it leads about some
+of these issues and you already mentioned one which is intention another is well we chose this paper
+maybe you want to talk about the name of the paper and introduce that just for a second well the name
+of the paper is intentions in ecological psychology and and scombian perspective by um miguel segundo
+or teen and annemarie callis i think it was published in 2022 in review of philosophy and psychology
+uh so yeah i guess we can put it in the show notes um yeah and it's an interesting paper because
+it tries to introduce as i understand it an approach in the philosophy of action that used
+to be a bit unorthodox and maybe misunderstood for a while by elizabeth anscombe into the field
+of ecological psychology and tries to sort of bridge or bring these two fields together and and i thought
+that was a really interesting proposal we're not going to be able to really dive deep into their
+arguments i guess but yeah but um but it might be just a few of these like bigger terms so like
+philosophy of action um is one and then we have an activism and we have ecological psychology those are
+maybe three yeah and activism is sort of the perspective that i bring into or that that's sort
+of what i'm working within i don't i'm not sure if um if the authors of the paper would identify
+themselves as sort of an activist i think they're coming mostly from this ecological perspective but
+yeah it would be good to you know clarify well i think there's maybe chimero and bugs isn't i think
+those papers are uh referenced in this paper actually i'm not entirely sure but there's been
+this movement probably in the last maybe five five years of trying to figure out how inactivism and
+ecological psychology fit together and i found a lot of those themes coming up in this paper which
+basically comes back to this idea of uh the cognition that's kind of like the sandwich model
+of elizabeth hurley uh her kind of that she makes fun of versus this kind of direct perception of
+something like a gibsonian point of view um thinking i think there's a way in which these have been
+thought of as opposites especially when it comes to something like action and of course in the philosophy
+of action i mean maybe you can speak to this a bit but uh it's this idea of that intention for
+example would be something mental going on in the brain which wouldn't fit with ecological psychology
+because that would be like a direct perception so you wouldn't have the sandwich thing happening
+between perception and action but again this is another thing i hope we can explore a bit because
+i feel like even in this paper and definitely in the literature what is perception and what is action
+and are they opposites are they different things are they you know what are they what is the
+relationship i think this is actually usually at the heart of these discussions and of this paper too
+and that's kind of the dichotomy i'd like to to talk about yeah yeah i completely agree that that's
+sort of i think that and there are a lot of ideas in the paper that speak directly to this kind of
+contrast of dichotomy um that i guess we could talk about yeah maybe it would be good to just introduce
+the ideas of in you know ecological psychology some central ideas that to frame the discussion like
+the notion of affordance for example yeah well i guess we should talk about ecological psychology
+first of all neither of us are trying to be experts so feel free to um to disagree with whatever we say
+here in fact we welcome that because that's part of it yeah but just kind of trying to talk off the top
+of my head that's all we're trying to do here and then i would say ecological psychology is this
+embodied situated non-representational approach that of course is mostly associated with jj gibson
+although his wife worked a lot on it later and there's different notions of it depending on what
+you read and which time you read it and who you read but i think in the big picture from my point of
+view we can say non-representation is very important which means they don't believe there's
+representations in the brain that um are necessary for perception and action and that it's
+situated contextual yeah go ahead no no i think i was just um thinking i often find that that divide
+between people saying oh i i'm an anti-representationalist i'm a represent i think everything about cognition
+is about representations in the brain and so on i i mean people use these terms very
+differently and i often find it confusing them than helpful to to draw these kind of sharp
+distinctions but so i was just thinking you know a different way of thinking about specifically the
+notion of or the understanding of perception in ecological psychology as something that's not
+necessarily mediated so that when you perceive an object or a situation or something it's not like
+there's a step between the perception then the processing in your brain and then you becoming
+aware of what's in front of you it's just that the perception of what you see is sort of direct in this
+non-mediated sense and if you have that view i guess you can dispense with the notion of representation
+and say there's no need for for um some sense internalizing what you see in terms of this mental
+item that's called representation that can then be worked on inside your brain um but yeah and that's
+where it gets into a lot of trouble of course that's where the gibsonian framework is caught is so
+criticized because even just uh the way we in a very common everyday sense we feel like we have
+thoughts which don't seem that direct perception account doesn't seem if you put it in the most
+kind of cartoonish way doesn't seem plausible of course there's tons of literature about this that
+really gets into the specifics but just for an everyday kind of approach like you you do feel
+like there's some it's not that there's just perception and action it does feel like there's
+something like rumination for example that could happen as if this mental action isn't action it's
+something different and this is where a lot of these debates come in about as far as i understand
+ecological psychology in the gibsonian sense especially jj gibson was kind of this third
+way right between cognitivism and behaviorism so you had this behaviorism model where it was more
+let's just study behavior which might be associated with this okay it's just action there's nothing
+going on in the brain we're not going to think about that because it was then associated with
+consciousness right and that was kind of thought of as like you can't you can't touch on that it's too
+mystical or spiritual or you don't need it right just look just study behavior and then you had
+the cognitivism which was sort of went the other way around and started really focusing on cognition
+as the subject and thinking more in terms of it language and mathematical models and the brain
+and this approach went the other way and i think the ecological approach at least what i've because
+as you know i'm coming at this from my own research and so are you but what interests me about
+the ecological is jj gibson's early writing where he's talking about trying to overcome this
+dichotomy of mind and body or mental and physical or cognitive and behavior and to see this in a very
+different way which is a really hard thing to do and to come up with an eye with a way of seeing that
+that isn't linear and isn't fitting into any of these places and i feel like ecological psychology was
+trying to do that in the beginning but then of course it's got all these different interpretations
+about affordances perception action um yeah so i don't know how that relates to your work exactly
+or what you think about that yeah i mean i have to say i'm not too familiar with ecological psychology
+and the early writings of gibson although i would love to read it's definitely on my reading list
+yeah you're more coming at it from the intention you've read a lot of anscombe right
+and well i've tried to read her book intention of a few times it's very few times i mean yeah i guess
+i read it um but or at least certain sections of it but you know i um many people say it's a lifetime
+exercise to really try to understand it properly but all of this is right it's definitely yeah it's
+very inspiring and i think it's a great you know the authors in in that paper they do a great job of
+trying to bring her kind of perspective which initially seems a bit hard to combine with
+a naturalistic approach to the mind and to action and they try to bring her that perspective
+nonetheless into a field that you know ecological psychology or things of itself as as a kind of
+scientific approach to the mind i guess yeah and that's why i found it very interesting but i do think
+it leaves a lot of questions open still and um yeah let's get into what the proposal of the paper
+is but first i know we we mentioned affordance you did that we should sort of think about that and
+basically affordance is usually defined as opportunities for behavior it's basically sort of
+what from a particular subjective point of view if we go with like von och school for what that
+subject's environment or umwelt which is different from environment affords it for behavior so it would be
+very different for example for if if we think of a river and some logs and grass for a human this
+would afford certain things like perhaps exercise maybe beauty things like this the log might be a
+place to sit and rest for an insect it would be completely different it might be a home it might be
+food and so forth these are kind of the opportunities of behavior which are relative to the subjective body
+that's how i see it do you have anything that you'd like to add about that yeah i mean
+yeah i think my basic understanding is exactly what you said that but perhaps a different way of
+thinking about it is is that that it's also a concept or an under an understanding of perception
+that's inherently sort of relational so that you have to to consider the kind of bodily structure of
+the agent in order to make sense the particular kinds of things that the environment affords
+to the agent or the kinds of behaviors that it enables the agent to to do um so a tiny toddler
+for him or her you know that that's a staircase might be like a mountain so it's something that they have to
+climb up with their hands and feet and so on whereas whereas for us grown human beings it's it's something
+that we can step on and walk up but for the toddler it's the way that it perceives that staircase is very
+different from us so it affords different actions and of course if you think think about between
+different species the difference might be or is even greater you know that um i don't know i i'm not
+able to climb as a monkey so a monkey might perceive some particular kind of tree as perfectly climbable
+uh according to its body yeah like directly yeah affording climbing up or escaping for a predator and
+and and i don't because i just don't have the bodily capacities to do that yeah it's good you bring up
+this relationship is important right between the body itself not just some kind of subjective idea of
+yeah but the body itself yeah and the environment right this is an important part of inactivism of
+ecological psychology of philosophy of action it's body it's environment it's this relationship right
+yeah i think this is where certainly my understanding of ecological psychology
+merges quite well with sort of the inactive perspective that i've worked on a bit and then
+i'm interested in because as i understand it it thinks of cognition as something that is
+always a relational process between the organism and its environment it's and it's not enough to just
+look at sort of one part of the equation let's say you know the brain and then try to figure out
+what cognition is because if you think of it in that relational way you always have to take into account
+both the structure of the environment and the structure of the agent
+um that enables this kind of complex dynamic intelligent behavior to to occur um and i think that's a
+uh an understanding of cognition and that an activism certainly shares um
+yeah and to go to von ochskill too a lot of people say niche construction started with him
+but but you could also trace his work to other things but what comes through is like what you were saying
+that there's a particular kind of body in a particular kind of context which then you can't
+dissociate perception and action from that and when you were talking i was thinking of these loops and
+cybernetics and how all of this is a similar tradition right that kind of leads into an activism and
+ecological psychology uh and that also kind of starts with von ochskill who who also talks about these
+loops between a body and the environment i'm not sure loop is the right way because that sounds
+like you come back to where you started and i think in terms of dynamical systems and complexity
+we never come back exactly to where we started but in any case the the idea of this um looping between
+a body and an environment as part of the perception action uh structure some even call it the perception
+action loop is really important in all these contexts isn't it yeah absolutely i have to also say that
+you know final school you've mentioned it him him to me and i've heard about him but he's definitely
+also an author that i need to read more and that is on my reading list um but just what went through
+my head as i was listening to you what you were saying about these you know perception action loops and
+cycles is that what i've sometimes found is that especially when you then start to think about agency
+it does seem to introduce a kind of asymmetry in that relationship in the sense that an agent
+is sort of like the active part of that relationship if you observe an organism how it how it behaves in
+its environment even an organism that you we might think of as something relatively simple a tiny fish or something
+um they're moving about they're exploring they're doing things and of course if you have a ecological
+understanding of cognition then then you want to say that not everything about that behavior can be
+explained just by looking like by dissecting the the fish and looking at its tiny brain and
+nervous system and and doing experiments with it the environment is certainly important but then at the
+same time uh it seems to when we think about agency that it's still sort of the fish who's the main
+actor who brings forth uh this kind of kind of relationship in a way that makes that organism the
+source of what's going on and in a very important sense the sort of seat of the intelligence so even
+though on an ecological approach you do get this idea that you the structure of the environment is very
+important and you can't just look at the brain or just the organism you know but then when you start
+to think about agency um to me it often seems like yeah but there is definitely some kind of asymmetry
+that what happens within the organism at that time uh of the action or or perhaps in general in relation to
+the concept of cognition is the i don't know central place to look i guess when you try to explain agency
+you know what i mean yeah what do you don't want to end up what do you mean by asymmetry there
+i guess i guess what i mean is that you don't want to end up in a place and i think this relates to
+some things they talk about in the paper where everything that an organism is doing is sort of triggered by
+the perception of affordances in the environment without the organism having some way of
+you know actively mediating between which kinds of affordances it perceives which for instance it
+acts on exactly yeah because otherwise you end up with a very mechanistic view of what's going on
+where agency just kind of doesn't seem to have a place that's what i was sort of referencing earlier
+as the main critique of ecological psychology or of a direct perception let's say because there's many
+different ways of defining ecological psychology but of direct perception right it's exactly that
+that there does seem there's something else right um and if we define things in these kind of binary
+ways that we're used to which in my work i'm trying to get out of that like you you would be able to
+understand cognition as scaled rather than on or off or or only there or not there so that if you really
+take the whole everything we've been talking about into consideration the body as it's developed um
+historically and evolutionary in terms of evolution but also of that body itself be it an insect a fish
+a human whatever it is then its interaction over time and space which is another important part of all
+this um the way that the creature uh uh experiences time and space is is something that a lot of these
+writers talk about even going back to von hock school about how you divine perception and action in the
+first place but then you could have many different kinds of of cognition and to get to your point that
+kind of mediation that you're describing could easily develop out of those loops for something like
+a human for something like an animal in a sense because it wouldn't be different from the way that you are
+making through that environment or that context or that ecology at some point you might become aware
+of those patterns the agent might become aware of its own patterns some people say cells already do
+this right but and in a way we could understand this kind of middle sandwich thing between perception
+and action as it feels for us um as another way another loop of that and activism sort of starts to do
+that with sense making for example starts to kind of think of it in that in those terms but although
+i think i think i mean my my research project when i when i started this like about a year ago um was
+also coming out of a bit of a dissatisfaction with the notion of sense making for example as being this
+this bringing forth of meaning uh in a in a in an interaction that an organism has with its environment
+um as sort of the basic understanding of cognition and and i should say you know that i don't think
+that yeah you know that's i'm so glad you said that that's all that activism has to say about what
+commission is but it is a very very wide understanding and and even though i really
+like or i'm a fan of thinking about uh you know the continuity between between us and other organisms
+there do seem to be very significant differences in the way that we for example are able to like we
+i mean human beings are able to act in the world as opposed to a tiny fish or even a bacteria or a cell
+and i think that you know one thing they pick up in the paper which is really important and which i'm
+interested in is this notion of of intention um that's also throughout the history of philosophy i
+guess that there's been a kind of uh as i understand the idea that intentional action proper like acting
+on a reason intentionally knowing what you're doing um whilst you're doing it with a particular goal in
+mind and being aware of what you're doing and able to explain what you're doing to others if they ask you
+why you're doing this and that that's the kind of capacity that is unique in some sense humans or you
+know specific and i'm not really sure if that's the best way to think about the notion of intention
+um but it does seem to get at something that you know is important to we we need to explain when we
+want to understand certainly human agency and perhaps also agency of other animals and well i guess one way
+that that we could um that they pick it up in the paper and that i think relates to what we talked about
+just before is this idea that our intentions do seem to affect the way that we perceive the environment
+and the way that we perceive certain affordances rather than others so if i'm you know let's say
+in a beautiful city on i'm a tourist and i'm just uh looking around and wanting to see to see everything
+but um in that particular moment extremely thirsty uh then what i will be looking for is not the the
+nice architecture or whatever but my whole perception is going to be sort of geared towards finding
+something to drink like being a water fountain or a shop where i can buy some water um i think the idea
+that they have that they want to bring into the paper is that just talking about affordances is not
+really enough to explain the way in which intentions affect the way that we perceive the environment
+because depending on the kinds of goals that i want to achieve in a particular moment i really just
+do see or or feel or taste or whatever different things and so there is this sense that the intention
+really changes the way that we relate to the world and that gets to the idea of agency too that you
+were talking about because agency is like control over the perception action cycle it's different
+from an agent but yeah having agency so in the way you're describing it sounds more like something
+like descartes or hume or hobbes where it's like the intention is almost like a desire or or a drive or
+something that's then guiding the organism and as you brought up before there's also a way in which you
+could like let's say you're a meditator and you could maybe sit with this desire and um maybe overcome
+your thirst or something like that and that seems to be that mediating middle thing that we're talking
+about how do you see that in terms of intention yeah i mean i think it's it's not just the desire but it's also
+a really a conceptual um or maybe you know a way in which your perception is affected by your intention so i think
+you know in the in the standard view in the philosophy of action you often have these two
+kind of components that people think that are important to make sense of the notion of intention
+the one being the sort of conceptual belief component you know that when you do something
+in order to achieve a certain goal you the idea is that you have some kind of belief
+that what you're currently doing is maybe the best way of achieving what what you want but then on the
+other hand you also have of course the the desire component the effective component
+or the emotive component which is already you know in this word emotion the kind of thing that that sets
+you in motion that actually brings you to act and then that's also essential to making sense of
+intentional action um and often you know people tended to think about these
+i think hume for example might have thought about these as relatively distinct
+uh in the explanation of action you know this like conceptual and the emotional affective
+aspect which is something that is i think characteristic of a lot of maybe traditional
+cognitivist views in the cognitive sciences of thinking of intelligence or cognition on the one hand
+as something uh that's not directly related to affectivity in the way that that things feel to us
+and on the other hand of thinking about things like pain and affect um and i'm i'm certainly
+interested in thinking about these two things as much more interconnected than then you know maybe the
+standard account of of action or cognition seems to suppose yeah there's so much in there i want to talk
+about i want to think about philosophy of action and the davidson view versus the one they're presenting
+here but maybe first we should just give a little abstract of the paper i mean yeah what is this paper
+actually sort of trying to do what's the issue at stake here yeah so i guess that they see as i read it
+the notion of intention kind of lacking in ecological psychology um or at least more sophisticated
+explanations of what intentions are people mention that notion a lot but they don't really elaborate
+apparently that's what they say uh what it really amounts to and they want to say that it's important
+precisely because of these kinds of examples that i've given that intentions do affect the way
+or you know they they affect which if we actually perceive in the environment in a particular moment
+depending on the kind of goal or intention i have um and so it's not enough to just uh talk about
+affordances but you also have to bring in this notion of intention and then they yeah i guess we
+should say too that just we didn't mention it before but in ecological psychology i mean a lot of
+people say that one of the main things it's trying to do is explain uh agency right yeah yeah i don't
+know if we said that but we connected i mean we talked about agency but but yeah and so you're
+saying that this paper is kind of saying okay but in that like explanation of agency we don't talk
+about intention um or if we do we talk about it in a davidsonian sense but okay yeah yeah i think
+that's that's a very very important point to mention that we should have said earlier um that you
+know in the notion of affordance in some sense tries to bridge this like classical uh sandwich model
+that you've mentioned earlier between like they're trying to distinguish between action and perception
+by saying you know what what perceive are not sort of objects that are neutral to us but what we
+actually perceive for affordances which are possibilities for action so if i look at a chair i'm
+not just seeing some kind of neutral object but i'm seeing something to sit on you know if i have
+the goal in that moment to to find something to sit um then that chair will give me the opportunity to
+realize that so it will afford me sitting but i think that's the whole idea and that's why you know
+the notion of affordance is inherently related to agency but then in the papers they want to go a step
+further and say um well but then when we start to think about intentions and the way that our goals
+affect our behavior which particular intention we're trying to realize in a given moment actually
+restricts the kind of affordances that we perceive and which is what i tried to to explain with this
+water finding trying to find water case and so i think they want to make the point that
+well you need to provide some kind of account of what intentions are
+um to make the story of ecological psychology complete in in explaining agency yeah exactly so
+it's trying to use anscom's work to explain what intentions are but also to um ecological psychology
+would say okay i mean it wouldn't fit with thinking there's some representational state or like internal
+mediation if you take it as direct perception so they're also aren't they also in this paper saying okay
+well with anscom we can not only provide a definition of intention but we can show that it
+doesn't necessarily need to be representational and therefore could work with ecological psychology
+rather than davidsonian intention which would require this sandwich thing right then something mediating
+or representational i think is how i understand it how do you yeah yeah i think that's a good way of
+putting it so i think they they first make this move of saying well we need to start thinking about
+intention in ecological psychology and then they ask you know why hasn't there been more discussion of
+that in this particular literature and one reason that they offer is to say well because of the fact
+that most of the most influential uh what's sometimes called the standard account of action which is often
+attributed to donald davidson do think of intentions as well yeah mental things mental objects that
+as i said earlier are often thought of as these pairs of beliefs and the desires but they are still
+um in the minds of the person who is acting at a particular time and davidson actually
+uh emphasized a lot that this idea that intentions cause behavior so he wanted to provide a sort of
+causal account of that and if you have that view they i think the authors think that um that's hard
+to just to square with ecological psychology because it has this kind of anti-representational
+approach and wanting to not think of cognition as or things like intention is something that
+primarily takes place in in the mind of of an agent i wanted to ask you this is something that confuses me
+maybe you have some insight on but in in what you were just talking about or in a david davidsonian
+model of philosophy of action how do we really distinguish like as i understood him and i haven't
+looked at this literature in a while but it seems that action is always something that's been mediated
+in a mental sense right so it's not like movement it's not just an um movement that action the way we're
+almost redefining action from a normal everyday use as action is now the thing that has become
+mediated do we just think of action and movement as not the same thing that action is always mediated
+in a davidsonian sense and is it the same in anscam or is this paper showing us it could be seen
+differently i think there's a lot of things in there that that make it all very uh complicated um most
+people would want to distinguish between action in general and then intentional action and then you
+you might still distinguish between action in general potential action and then basic behavior like
+behavior so if you think of something like reflexes for example um i guess many biologists or people
+working on the mechanics of reflexes or whatever wouldn't want to necessarily think of that as
+an as an action and if i i don't know snip my fingers next to your eye and you blink um there's
+some sense in which there's not something that you really do even even apart from the distinction
+between action and intentional action i think people have tended to just wanting to distinguish between
+action and action in general and then intentional action which goes back to this this question by um
+by wittgenstein in his philosophical investigations where um i wrote it down somewhere um just sorry
+the wording right yeah like the arm thing about what's what's yeah so where he says like what what is
+what is left over when i subtract the fact that my arm goes up from the fact that i raise my arm
+and the way that he's phrasing that question seems to sort of suggest that there might be two different
+kinds of projects or two different things that you want to understand like one is
+me raising my arm which is something that i do intentionally and the other thing is um my arm going
+up so like in in the german it would be that the passive you know my arm heaps it says that there's
+something that the arm does to itself so if i throw a ball at you and your arm goes up and you catch it
+uh that would be more like a reflex but if if you have awareness that you're going to raise your arm now
+and then you raise your arm that's intentional action the first one is just action and the second one
+is an intentional action or
+yeah the throwing example is interesting actually i'm not sure what i would say to this i wouldn't
+you know maybe yeah i wouldn't necessarily say that i did it intentionally but it was also
+more than just a reflex maybe you know maybe it was something that i'm good at catching balls or
+something uh so some kind of action um but to finish uh the thought from earlier is that you might think
+of on the one hand being there being um my intentional action of raising my arm and on the other hand some
+kind of happening in the world of my arm going up and you might think that intentional action is sort
+of one happening in the world that that we think of as an action plus something extra which is then
+the intention so you want to describe that extra feature and then you have an understanding of what
+distinguishes intentional actions from non-intentional actions or from just actions in general um i mean
+um i mean there's reason to think that wittgenstein thought that the question is not really very
+helpful and asking certainly i don't as i read her didn't think that it was a good question to ask so i
+think she she wanted to kind of say that um you we shouldn't think of intention as some kind of extra
+feature that is present uh whenever someone acts with an intention or you know acts intentionally
+um and so in some sense you can't really make sense of the question of
+what an action in general is apart from the question what an intentional action is uh so that
+these are kind of um interconnected conceptually for her and so this search for some kind of extra
+feature in addition to maybe behavior or action in general there is i think just kind of a misguided
+approach to understanding the nature of of intentional action i was just thinking about um as you were
+talking i was thinking about how you probably know this too but often in philosophy when you go to
+classes you one of the things you get told or you are supposed to learn is that when we talk about
+intention we don't mean it in the way that we use that word in everyday life do you know what i mean
+like there's this kind of supposedly different way in which the word is used in philosophy which
+i don't know maybe we should talk about that a bit too and also just for people who don't care
+about all these like specifics of philosophy which you know nerding out on it like we do like what
+are we really talking about here why why do we care about um i mean i think these are huge things
+that matter in our lives agency and intention are huge things that matter in our life yeah and i feel
+like we can get so caught in just talking about all this like wordplay kind of stuff um which is
+important too in a context but i think here i would also like to kind of think of a big picture too
+what are we trying to to understand um but first let's talk about that intention do you really see
+that there's some kind of difference between this philosophical idea of directedness uh in the way
+that we define intention um versus the way we use it in everyday life because i even feel like in this
+paper the way we use it in everyday life is the way they're using it but i don't know how do you see it
+well i mean that's another reason why i find reading anscombe quite refreshing in
+as well as perplexing but but mostly refreshing because well she certainly thought that these are
+not just philosophically interesting questions of thinking about the nature of intention but i think
+as far as i'm aware her her thinking about the philosophy of action was and specifically about the notion of
+intention was um spawned by the the dropping of the bombs on hiroshima and you know president truman
+kind of saying or you know someone might have thought he could have said something like you know
+i didn't do this intentionally i just signed a piece of paper and i didn't really drop the bomb so
+i'm not responsible for this whereas she i think wanted to really say no you are you are responsible for
+responsible for that and i guess she thought that the reason for that doesn't hang on a particular
+mental state that truman had at the time where he signed that paper um but it had more to do with
+the with the way in which he knew that when he signed it he was actually ordering the bombing
+and um then you know ask him wanted to think of in or wants to think of intention as as as she says
+a sort of form of description of actions or events in in the life in human life which usually is sort of
+goal directed of actions being done in order to do something else and so she thinks that whenever we use
+the term intention and she's really concerned with the everyday use of intention and there is a kind
+of pattern uh present in in human life that is if you like teleological so that then is concerned with
+um us doing certain things in order to achieve other things um i'm so glad you brought that up i
+didn't know that i didn't know that about that that was yeah i mean these are i think really yeah yeah
+yeah i mean as i because you know i mean philosophy is a wonderful way to learn how to think critically
+and things like this but at least for me i don't know i kind of sensed it when you were saying you
+got a little annoyed with this sense making thing but for me um the reason i'm trying to understand
+cognition is is it is because i want to understand uh how we might reorient our relationship to
+self in terms of just the difficulty that it that humans can fill in their interaction with their own
+bodies and selves and in social context that's that's ecological for me but also how we can understand
+you know my little dog here and um the trees and like all of this kind of life around us um as having
+some agency and that is always tied to cognition and that is always tied to these issues that we
+raised at the beginning about like what's really happening between perception and action and is there
+some kind of um mediation and that story you just told about dropping the bombs right uh for me that
+makes me think okay there's a reason why we really need to know when a subject is aware of themselves as
+a subject and what has led to what they perceive and also what action follows from that perception
+and for me i feel like a lot of this in the paper and even in these studies what frustrates me is that
+it's so insular that it's as if there was no uh history there was no trajectory this is why i i tried
+to bring in this like landscape and trajectory because i feel like when we really look at all this we have
+to look at a kind of a being as having a trajectory that determines its perception and action and that
+perception and action are actually just our ways of assessing um something that's ongoing and dynamic
+they don't need to be thought of as separate or or whatever just different ways of assessing this and
+this gets brought out a little bit in the literature too but i'm just talking now but i wonder what you
+think about that and um if if you feel in your philosophical work and study like how do you
+balance that or how do you think about these kind of bigger themes and what how they motivate your work
+or yeah absolutely i mean i guess i got i really do think that the philosophy of action despite being
+often very technical and also a lot of the literature that in the last 10 years or so has been or maybe a bit
+more published on on like the new and scombian approach to philosophy of action rediscovering
+i mean anston published her her book intention in in the 50s but then it's been forgotten for a while
+you know that or not forgotten but interpreted in ways that were kind of mistaken um that you know i was
+i was thinking i was reading that and thinking you know that really really matters and and i do think that
+um also i mean uh i didn't study law or anything but as far as i'm aware that you know german law or
+probably in any uh criminal law if you want to prove someone guilty of a crime they did something
+you have to normally show that they did it intentionally or at least if they didn't do it
+intentionally uh they would usually get a milder sentence so it's not like figuring out what the
+nature of intention is is something that has no impact on the way in which good point yeah that
+is such a society sentence yeah but i i also like the the thing that you were saying i think you were
+mentioning this sort of continuity of of agent agency across the spectrum of life and this is something that
+i find really um important to to not always look at what makes us sort of distinct and interesting and
+special as human beings but also would connect us to uh to other organisms and of their capacities for
+agency um even even fairly simple organisms and this is something that you know the inactive approach
+uh is happy to embrace to some extent of ascribing agency even to to cells and unicellular organisms
+and yeah i think i'm sympathetic to that i however as i said earlier uh the content looking at the
+continuity shouldn't let us overlook the the differences that there are that are very important
+you know because i can't really hold my dog accountable for the kinds of things that he did
+in the way that maybe i can hold my friends accountable and that seems to have to do with
+the form that agency takes in human life and the kind of ways in which we are able to act which is often
+related to the notion of a reason people say i'm able to act on a reason and to to communicate to
+explain to you why i did something which is you know some essential in announcement's work that she
+focused a lot on this question why and she thinks that the the actions that are intentional are the
+kinds of actions to which as she says a certain sense of the question why has application where that
+sense uh if you know where the answer is positive gives a reason for what you did and then she tries
+to work out that particular sense of the why question but i can't really ask my dog you know
+why did you i don't know we on the floor or something and i can't really uh hold them accountable for
+that in the same way if i act as i could maybe my my drunk friend or something that means you can't
+apply a human definition of cognition to a dog right which i think is what we we are all
+trying to do or think we can do um that we can just come up with an idea of what cognition is and
+it's going to apply across the board or something or that we can come up with a definition of agency
+and intention but to go back to those subjects we raised at the beginning i think what i'm seeing is
+that you can think of cognition as something that all creatures have without assuming that it's
+the same and when we look at something like ecological psychology and inactivism and philosophy
+of action i think what we're what a lot of people there are trying to figure out is how to understand
+that right like how do you understand that there for me i put it in my terms because that's like what i
+have to do but for me there as your dog has a history a trajectory within with its body and its
+particular affordances that you could hold it accountable relative to that trajectory but of
+course you can't hold it accountable relative to a human trajectory of cognition but that doesn't mean
+that your dog isn't intelligent and cognitive it just means that it takes a lot more work right
+do you think that connects to anscambe at all and her idea of practical knowledge or
+yeah i mean absolutely that there's a again there's a lot of things that we could talk about
+here i mean another reason why i found anscambe nice to read is that she's very open to the idea
+of attributing attention to non-human animals and she actually says explicitly we often do this
+describe the movements of animals in intentional terms you say like why is the cat crouching like
+that because it's stalking the bird and you know you might say well its intention in crouching is to
+catch the bird and that's a perfectly valid description of what's going on um but then people
+might say oh yeah but the intention of the cat is very different and i think anscambe also says something
+like you know even even though the cat cannot uh express its thoughts in the way that i can if you
+ask me why are you doing this um we still attribute intention to to the cat and it's perfectly fine
+but of course you know there is still a difference between me and the cat in the way that i act or that
+i'm able to act i think a lot of the the things that i do are very uh cat-like in a way if you like
+so i want to think of it more as a spectrum of of different forms of agency um many of which we share
+with other animals but i also feel like there is something quite specific about the form that agency
+takes in human beings without that implying some kind of hierarchy that we're like better than the
+rest of something it's just that right because of our evolutionary history and cultural cultural
+evolution as well probably our our agency ended up the way that it is that it is now and i'm interested
+in understanding that that specificity in in action which i do think involves the notion of intention
+without introducing a kind of break in the in our relationship to all life on earth and
+possibly somewhere else there's somewhere in the paper i think they talk about intention is like
+patterns of something patterns of um organization organization of pattern does that sound familiar
+i think this is kind of a really interesting thought that i liked reading that i'm not sure i can relate
+it to enscom you could probably do better than me but in practical knowledge and and all this
+but i do like thinking of intention as uh the organization of patterns or or because in that
+way that like we could think of it as continuous in a sense of if you if we think of perception and
+action or we just think of cognition and perception and action as ways we're looking at
+how a creature makes its way whatever creature that is we would first have to determine the body and
+the environment in the way that we were saying before and there would be certain statistical
+regularities that this creature is encountering be it a human a dog an insect and their sort of
+organization of those relative to their body would become would be its cognition knowledge doesn't
+necessarily mean that you're aware via language or something like this so so creatures movement
+through its world is its knowledge it's its cognition from our perspective maybe not from it its
+perspective but how do you see this patterns of organization and action in relation to and scum i
+mean certainly that that's um i guess the central one of the central uh pieces of her account and it's
+kind of hard to just summarize in a few words because yeah i guess she also thought you kind of have to
+do the work yourself and reading through the book and trying to really understand where she's coming from
+but yeah i guess the basic idea um is that she wants to think of intention um as a kind of form that
+that actions take in the way that they're related to each other in terms of means and ends so that when
+there is an intentional action you can usually describe what's going on as saying this person or this animal
+does that in order to achieve something else and then there's the notion of practical knowledge which
+is also absolutely essential to anscambe which is related to this in the sense that she wants to say
+that when someone is doing something intentionally they are aware of how what they're doing right now
+is a means to an end that they want to achieve and that's sort of in essence the practical
+knowledge like when you do something you know what you're doing and you know why you're doing it
+that's constituent for her i think of um acting intentionally and she thinks that you can bring
+that out by looking at the way in which people answer this why question if i catch you walking down
+the stairs and i say what are you doing or why are you doing this um if you reply something like
+oh i wasn't aware that i was walking down the stairs or maybe i just woke you up from sleepwalking
+uh you know that answer anscambe thinks shows that what you were doing you weren't really doing
+it intentionally you weren't doing it based on knowing what you're doing in that situation
+whereas if you said i'm going to fetch some milk from the shop or like i'm going down in order to
+go to the shop you know that's an answer that in a sense reveals this pattern being present of you
+being aware of how what you're doing right now contributes to achieving a goal that you care about
+and i think in a sense anscambe thinks that working out the structure of this teleological
+uh you know goal means an end-oriented pattern um really is all we have to say in order to understand
+the notion of intention and just to try to bring that back to the paper
+the reason why it's nice for ecological psychology is that this is a kind of non-representational
+way of thinking of the notion of intention now you don't have to think of intention as some kind
+of mental state that is present at the time at which someone is acting and that then somehow causes
+you to act but at the same time you know thinking and scombian terms about intentions in terms of
+sort of forms of descriptions or patterns of organization of action um
+is often a bit unusual and obscure and it takes a while to get into it and i'm certainly still
+still struggling to to fit that view um into a naturalistic understanding of intentional action
+where we do have to look at you know how is the body of the agent actually constructed what role does
+the nervous system play in the production of intelligent behavior all these are from a naturalistic
+perspective of essential questions to answer uh the question what is intentional action you said you
+want to try to think of a naturalistic notion of intention what do you mean by naturalistic for those
+who i mean what's like your way of thinking about that word that's another big question i don't think i
+can or want to give a definite answer to that but i guess most generally i just think of it as
+a notion of intention that is compatible or supported by our knowledge from the natural sciences uh and
+in particular biology and the the bunch of disciplines that make up cognitive science like psychology and
+neuroscience and so on yeah um yeah that has to do with organization of patterns too i could see how
+yeah absolutely of naturalistic in a in a sense of having noticed patterns or having observed patterns
+and having maybe even data and tested them and the kind of scientific method could be
+understood in that way which is really far away from the way someone might just think of intention
+in an everyday sense which actually feels like this mental inner kind of thing that's going on but
+what i think this paper is trying to do is collapse that a bit through this notion of intention as
+that that you know that they're getting from anscombe and it seems connected in a way to naturalizing
+intention because what it's doing is it's saying okay we can observe something as intention without it
+being necessarily something that the subject is aware of uh holding in they're in like present with at the
+moment that it's taking place or something but then when you zoom out and you look at it through
+scales you can see the trajectory you can see the pattern of organization but doesn't mean the person
+or the the agent necessarily has to hold all that in some kind of mental realm while it's happening
+no absolutely yeah i'm interested in the idea of thinking of these pat these kind of patterns of
+organization of actions in terms of means and ends that anscombe is trying to describe as in many cases
+very strongly embodied like in in in the sense that your body knows what you're doing when you do
+something intentionally and that the way in which for example when you're walking along across the street
+uh intentionally an an absolutely central part of that action is the way in which your legs and arms and
+whole movement of your body are coordinated to produce that goal-directed behavior i mean of course
+you're aware in some sense uh that you're walking down the street but to me it's much more plausible to
+say my my body is walking you know that my knowledge of how how to walk down the street is really just
+in my body that's what i've been doing my my whole life since i'm i don't know one one one and a half
+years old or something uh and i don't need to think about in think about that in in some kind of abstract
+detached way in that you then might you know want to describe in terms of beliefs about what you're
+doing and stuff like that so i i'm very interested in this idea of thinking about practical knowledge
+which as i said is essential at least on anscombe's view um to intentional action as something that is
+very much embodied and and that these cycles of organization of action are ingrained in in the
+structure of our body i'm so glad you said the word embodied we've been talking about the body a lot
+which is also very important in all these other contexts but this is going to be a little messy
+but i just have to try to kind of go for it a bit because this idea that that you're talking about in
+this kind of continuum and it being embodied the organized organizational pattern is embodied and
+that becomes the the main problem right and all these things of how do you go from that from this
+embodied cognition that's not necessarily um about it's about the subject but it's not necessarily about
+what we think of as subjective awareness of having awareness that you are acting in a certain way
+and those always seem very distinct but i think what i'm seeing and what i think a lot of people are
+trying to get at is that this is a continuous process with that embodied cognition you as a little
+boy developed your way of you you made way in physically how to get to the park but also in terms of
+your emotions and your thoughts and all of this right and you through language sort of developed
+in this in the same way an awareness of your organization of those patterns via language which
+becomes starts makes us start to feel like oh there's like a little me in my head or something
+but really it's just this kind of we've organized our patterns of behavior via language in the same
+way that we organize our patterns in our body as we walk and we learn this so there becomes this
+continuity between life and mind of in the continuity between the way we make our way physically and the
+way that we come to understand ourselves through awareness via language or something but this is where it
+gets tricky doesn't it when you start to think of my dog or your dog or or an insect or something um
+you really have to think okay they're doing the same thing with their body and that's cognition but
+there's a very different sort of language there probably is language but it's not what we call
+human language so their awareness of their patterns would be different even if the organized organizing
+pattern is similar this gets very hard to talk about and we get really confused we have trouble
+not thinking of everything in terms of language-based thought or something um so something like practical
+knowledge i feel like it's really tied i mean it makes sense with wittgenstein and and her coming
+out of that that it would be so tied to language in a way but i i feel like in this paper sort of trying
+to do it that we could almost try to unstick the language understand that that's one form of way
+making and one form of knowledge therefore one form of practical knowledge but there's also a practical
+knowledge in the very way that she introduces it that isn't about being aware through language of
+your actions but that you could that could still be very relative to this pattern formation through
+just aligning with what you've been moving through your whole life whether you're a cell or a human and
+i know that's very messy but i feel like it's not just a language based and it seems very language
+based still in her work but maybe i'm wrong because i haven't read i haven't read her
+did you mind to get past that uh i think i this is something that i have to think more about and that
+i would love to reread also uh aspects of fans come and i think one thing that is that she does think is
+that that it is essential to the kind of practical knowledge that is constitutive or very important to
+make sense of potential actions at least in humans that we are able to express to others
+um our reasons for doing what we did intentionally this is why this why question is so so essential
+because anscombe seems to think that it is essential to you you're being an intentional agent capable of
+acting intentional that you also are able to answer that question if i ask you why did you do that
+um and i love that you you mentioned um language there because of course that is you know the way
+that we typically communicate our reasons to one to to each other for what we are doing but another
+thing that that i've been really interested in that relates to that is that um language and also this why
+question is something that only really matters in in a social context right so normally you wouldn't
+really ask yourself why am i doing this and you don't really uh there is a sense in which you don't
+really have to make explicit or express to yourself the reasons for why you're doing something i mean
+that might be related to this this kind of obscure notion of anscombe that she wants to think of
+practical knowledge is what she calls knowledge without observation um as you know the way that you know
+what you're doing is not through observing yourself and then making explicit to yourself oh there is
+a body that's moving in the world and has these kinds of features that's very good knowledge without
+observation yeah that's yeah because that's different than being able to answer the why
+question just like the water pump example if what is that like there's a guy pumping poisonous water
+into a house and if you ask him why he's doing it he can answer it and there's this kind of whole
+train of why questions that's kind of the famous example i can link yeah but in any case i was
+imagining that is the same as understanding why you're doing and it's not at all actually uh or
+observing yourself um well no it's essential i think it's essential to that example in other cases
+of intentional action that the person or this man in this case knows what he's doing uh in pumping
+water into into a house his answer is i want to kill the family inside or something i think right
+that's why i think he's pumping poisonous water or whatever yeah exactly um but i think that the idea
+of knowledge without observation is that when you ask him why are you doing this he's able to answer
+that question not because he's sort of looking at himself from a third person perspective
+perspective and observing what's going on as happenings in the world that lead towards
+there being poisoned in a house that is connected to pump that he happens to be operating um but he
+is he knows what he's doing without observation as anscombe says he just has this um well embodied
+know-how you could maybe call it that's sort of the way that i i like to think about it because he has
+that knowledge without observation that he's he's able to answer the why question
+immediately when you ask him but yeah i mean in that in that example again it's it's just sort of
+essential to there being practical knowledge that he's able to express his reasons for doing something
+in some sense based on the kind of knowledge that is not based on his observation of himself yeah and
+as you said it's a social i think in a way there's that loops also i mean as you said this is a social
+thing we don't really ask ourselves but actually i would kind of push back on that a bit too because
+i think part of the social reason we ask each other is to awaken the individual to start asking that
+question for themselves which we do usually yeah maybe as children because we realize we're part of the
+social environment and we have to appear in a certain way or or we have to be able to say like what we're
+doing you know once we start asking those questions it changes that cognition of self um in a particular
+sense that's what law is in a way it's that asking why and having to answer yeah no absolutely i do think
+that's why it's so important to to look at social interaction especially also in early development
+in order to understand the notion of intentional action because through being forced to justify your
+actions or explain your actions to others you also i think you know gain a sort of different
+relationship to your own actions that when you then start doing or do something you're able to
+sometimes ask yourself why am i doing this or perhaps in a different way you know ask yourself if
+someone were asking me what would i say yeah very complicated because the man pumping water for example if
+you ask him why he might not tell you the truth of why he might tell you i'm just pumping water to
+help them or something there's all kind of weird weird loops which the more aware you become the more
+you observe these kind of patterns or your own knowledge the more your knowledge changes and the more you
+could use that in different ways right the more you can shift perspectives and see how others might
+see you and what you should you know it reminds me a little bit of to go back to van uck's call again
+of he he talks about the umwelt but he talks about two different kinds i think it's work
+work well it's in german work well and mark mark well maybe and one of them is more like practical
+knowledge as i see it this this vec is more like the agent in its environment uh aligning with its sensory
+irregularities and developing organizational organizational patterns and you don't need
+it doesn't need to observe it in the sense that we're talking about and then the america would be
+the observation and it's more symbolic or semiotic there's some kind of symbol like language would be
+attached that makes sense with language and a meaning and all the stuff gets ascribed to it so i guess
+what i'm trying to push at is can we when it gets back to the paper and trying to think of perception
+and action and as ecological and and bringing intention into that can we imagine that there's
+a sense in which this is a kind of a scaling or a continuity not a linear linear kind of thing
+yeah i wouldn't want to yeah i mean what i what i said before about this notion of practical knowledge
+being somehow embodied or something that we don't really have to make explicit and then on the other
+hand having the capacity to make it explicit in terms of language um you know the way i i sort of
+think about it now is is that they're yeah like you said they're not like it's not like a linear
+progression or a kind of sharp distinction between one kind of practical knowledge and the other
+but that they're sort of intertwined in the way that we act and in the way that we explain ourselves
+to others um but then in order to make sense of that relationship it's not enough to just look at
+individuals but you also have to look at how they interact with other individuals or you have to take
+into account the social dimension it gets back to what we were talking about with you know it very much
+i think inspired this ecological notion of affordance or something like a niche construction that's often
+connected to it yeah it's the way in which as you're saying in the context or these particular
+atmosphere of affordances for a particular body as we were saying are always different how that
+actually can't be disengaged from one's development of intention and also how one uses a something
+symbolic like language in order to to observe that intention even if it's not in oneself i think with
+what we were talking about earlier too we often think that means the subject is observing themselves
+but what but there's can be observation that's not from the agent that's being observed that would
+still we could still imagine that's intention especially when it comes to something like law
+you might be able to observe a trajectory and call it intentional and directed uh without necessarily
+the agent themselves having an awareness of that trajectory but then that's not the same as the
+everyday use of intention that i intended to hurt them and therefore i made this action i think that's
+a whole nother field that i would love to know more about how because the idea to me that in a trial
+for example you're trying to figure out whether there was intention present and whether and what the intention
+was as i guess for example in the trump trial they they need to somehow prove that he he was aware of
+what he was doing and inciting that and in some sense they're trying to i think prove you know that
+he did what he did intentionally and and posting all these messages and so on and the way to me
+probably would prove that is through language that he spoke or wrote or said something to someone
+yeah that's true in the sense that they're trying that's what they're trying to a part of what they're
+trying to prove and but this idea to me that you're looking at all these thousands of pieces of
+information and videos and whatever in order to to then retrospectively say oh yeah that person did
+what they did intentionally therefore they are culpable and so on that is like really fascinating
+but also quite perplexing because i there is a sense in which i don't think it really gets at what
+actually happened at that time or it went through the person's mind as they did it which again
+comes idea that you know it's not really about that when we want to think about attention
+yeah as you speak i'm reminded of this video i just saw just randomly i think i was
+in like an airport or something but they were interviewing one of the guys from that who went
+into the capital and he was and they were trying to kind of say oh you were just like brainwashed by
+all this propaganda that was directing your actions that you weren't really intending it and he was
+saying no i knew what i was doing i was i did it on my own nobody brainwashed me
+and that gets very tricky too doesn't it because we think we choose sometimes but we've just absorbed
+a certain trajectory of media that is leading us but we we are also at the same time making
+the decision to be led so you have to get beyond that dichotomy of it only being
+one way or the other that someone else or that the inertia of the trajectory is what's leading you
+and that's the intention so your intention is like somehow the inertia of a larger intention
+for example the trump campaign versus that you somehow can distinguish between those wider
+intentions social intentions and your own intention i mean that too is really quite interesting and i
+think it also brings us to the paper again about perception and action and like how do we really
+distinguish between perception and action the ecological theory would say perception is action it is an
+activity it's doing something it's not something that's happening in some inner world or something
+the paper says it's going to define intention or that it could anscombe's theory could sort of
+define intention in a way did you really get that like what what that definition was in the end i mean
+we've been dancing around all these possible possibilities it's going to dance with understanding of
+intention or well this is the reason it's it's kind of difficult because anscombe doesn't really
+provide uh if you like a kind of positive account of what intention is in terms of the necessary
+insufficient conditions for there being an intention present and so on and she has this sort of very
+wittgenstein inspired approach of looking at the way in which we use the expression intention or someone
+acted intentionally or the notion of intentional action in everyday language in the way that we talk
+about actions and explainer actions to to others in order to work out this kind of pattern that she
+thinks is present that i've tried to elaborate a little bit on um this is why reading anscombe is often a
+bit frustrating and at the same time extremely fascinating and inspiring um because she doesn't
+really give you that direct answer i think the authors also are very aware of that they talk about
+in the end of the paper of integrating the anscombe kind of approach to intention with let's say a more
+empirically oriented scientific approach to agency um and yeah i think they do say that there is
+still a lot of work to be done in that direction but it's an interesting you know proposal to try to
+bring anscombe's perspective into that field in order to try to think about intention in different
+ways and in particular to get away from this idea of it being some kind of mental state or representation
+in the minds of an agent i found it hard to really understand what they were offering as the
+definition of intention but i feel like in the abstract they say that they're going to um let's
+see we will argue that anscombe's account can meet the two challenges of bringing intentions into the
+framework of ecological psychology first it can explain what intentions are if not representational
+states okay so i guess we we've kind of talked about that right it's more it's not necessarily
+explaining or giving a definition of intention so much as showing that it doesn't have to be
+representational right yeah i think that's probably a good way of putting it it's probably not the right
+way to think about anscombe's account in this sort of positive way of giving you a theory of that is
+intention um even though in some sense of course she does give you some kind of conception of that
+notion that is illuminating but yeah i think what they want to say in the paper as i read it is that
+her way of approaching it is in principle a lot more compatible than with ecological psychology than
+the kind of standard approaches in the philosophy of action broadly i can start to understand how we
+might imagine intention as these patterns of activity that are these organizational patterns
+of activity i could understand how that relates to basically just the statistical regularities of
+of what is encountered from a particular body as it's making its way and how the organization of that
+the body is is the organizer of that is perception and action depending which way you want to look at it
+so of course there's a kind of directedness or intention of the body even it doesn't necessarily
+have to be goal oriented like the body has to make its way and um you develop a kind of directedness as
+you do that because you do create these patterns that are organizational and also one of the potential
+criticisms that someone might level against the paper when it is is precisely hanging on that
+question of whether you want to think of this making way or moving around in the world in an intentional
+kind of way as involving goals you know as being teaching logical mean means and goal directed and and
+i guess for for anskamp that notion of a goal is absolutely essential to making sense of attention so if you
+want to take her approach and sort of face value i guess you would have to provide some kind of
+naturalistic explanation or or incorporate this notion of teleology or goal directedness into your
+whatever your scientific framework is if you want to take her kind of approach on board and that might
+involve explaining a way the notion of goal in some other kind of way or just embracing the notion of
+organisms as teleological goal-oriented systems which is something that i guess an activism does
+and has been criticized a lot for um when we're talking about making way or navigation as cognition when
+we're looking at cognition which for me means how any agent is making its way through whatever encounter
+it finds itself in there's always something someone is assessing that so from the point of view of the
+assessor the person who's doing the assessing there will always be teleology there will always be some
+possibility of of a goal because you can see the trajectory and you're looking at one particular
+trajectory so um i guess what i want to do is open up like the scale of that so it's not that's not the
+only way of looking at that uh agent and that behavior or that perception or that action whatever
+it is you're you're looking at it's one way and it's probably like depending on how you've um framed
+it and what you're looking for you can put it in those terms but it's not always and only that sometimes
+there's just wandering sometimes we're lost you know and i mean that in all kinds of different ways
+um and this too is a form of way making and there can be an intention ascribed to it i think that's
+what i was saying before the fact that it's intention can be ascribed to it doesn't mean that it's
+intention for the agent uh in question but that would be a whole whole other other thing but it's
+interesting that you say so for anscommit there's always a goal you would say there's always teleology
+in your reading of it yeah although again this is like very it takes us or would take us into some
+kind of deep territory about the way that people read anscommit there's different interpretations of
+that and i'm not really sure what mine is or what the correct one is whatever um but yeah for her this
+this kind of pattern or structure that she's trying to describe which she thinks is essential to
+the notion of intention that is a teleological pattern so it is this idea that when someone
+is doing something intentionally you can describe what they're doing as something that they're doing
+in order to do something else so you're explaining in some sense what they're doing right now by appealing
+to some future action or state of affairs that hasn't realized itself yet but that in some sense explains
+what's happening at the moment and identifies what's happening at the moment as an intentional action
+and so in order to make sense of that kind of pattern uh you need that kind of teleological
+goal-oriented kind of explanation and if you ignore that and you want to say no everything is purely
+causal mechanistic physical and we need to understand organisms on that reductive basis and there's no
+teleology allowed at all um it's just a metaphor it's just a way of speaking about living organisms
+then i think it becomes very hard to incorporate the kind of an anscombeian approach to to intention and
+perhaps agency more general within in a scientific framework if that's the way that you want to think
+about it's well nature it makes me think of a million things i love what you said about this um
+this idea of that sometimes we are we are lost and sometimes we're like you know doing something
+but we don't necessarily have a particular kind of goal in mind or particular kind of intention in mind
+uh and i think that these are actually quite central
+moments in in our life as agents because it's so i mean digression that's that's how many things
+are discovered that's what this is yeah yeah i was actually reading reading um walden yesterday
+because it's my good night book at the moment i've been reading it for over a year now it's a
+little piece of cake that i'm always and and there was one uh one section in it that i marked because
+i thought it wouldn't be relevant and it's to our discussion and it's actually exactly about the kind
+of thing that you said which i really love because it made me think about well doing something in a
+different way uh or do it made me think about the notion of intention in a different way uh in these
+moments when we lost and so he's he's saying um and i'll quote uh not till we are lost in other words
+not till we have lost the world do we begin to find ourselves and realize where we are and the infinite
+extent of our relations end quote and i love that and he's like talking about this in the context
+he's like describing how he walks back at night to his little hut at walden pond and finding his way
+uh in pitch black just you know feeling the the path that his his way making trips back and
+forth have made over the over the last month um and he's like describing this moment of just
+yeah kind of losing where you are but you're still in some sense you're you're still an agent in the
+world you're still trying to make sense of what's going on and in some sense you're actually creating
+on the spot the the meaning that you find in that situation and i think that that these moments of
+being lost but still uh acting with the kind of directedness and intentionality and they're
+quite centered to the idea of of an action of bringing forth the world of bringing meaning uh
+through the kind of activity that that you you do as an organism so yeah sorry no thank you so much
+that's so good and so true i mean because as scientists or philosophers who work in scientific
+environments or even just like a a society that's geared towards science and and should be um we
+want to just we want to have teleology even if we call it or we want to have patterns or we want to
+have um you know that's what we're looking for it doesn't mean we're finding our way and it doesn't
+mean we're navigating but we have to there's no choice but to make way through the encounter
+that is life it's making way um and it's not intentional always that we've decided which way
+we're going to make and all that is so rich i guess this gets to the beyond dichotomy too i don't see
+that we have to say um that because the teleology can be from some particular position or scale discovered
+that it's going to apply to all scales just the same way that a body is made up of cells and there will
+be particular things for the body that don't apply to the cell weirdly or vice versa um but they're
+still the same process from some other perspective that's a really hard thing to hold in mind and
+that's what we need new models to understand so reading these papers um through you know this idea
+of agency it's interesting to bring that back and you're saying you see that always in a goal-oriented
+sense yeah definitely i don't think i or the authors of that paper would want to say that every
+every organism even every organism of the same species has the same kinds of goals you know in
+that sense obviously there are many teleologies if you like but i think what i was more trying to
+say is that um when you think about the notion of agency quite generally at least i find it quite hard
+to make sense of that without um involving some notion of a goal or of a purpose which to me it
+always doesn't mean that you're sort of having left that you've left the the field of natural science
+it's just that's a sort of fact about how we understand the concept of agency um and that needs
+to be explained but it's sort of important to acknowledge that when you start thinking about
+concept that it's so that's so difficult um rather than trying to reduce it to something else that
+it that is completely devoid of any kind of goal goal directedness um because then agency just kind
+of seems to for me at least minus my intuitive grasp on the concept seems to kind of fade out of the
+picture yeah i worry sometimes about i mean a lot of these approaches are once we start thinking
+of course teleology is still naturalistic science and all this it can be but i do think
+we have to use caution in in this rigidity of often when we when we talk about these words we do talk
+about them in a dichotomous way so that it's either or and that there's only one teleology or
+or somehow we find the right goal or the right or you know and i guess what i what i want to do is
+is that's why i said teleologies not teleology but is of course from as i was saying from any position
+of assessment we could see goals but we can't always ascribe that goal to the thing that we're
+assessing i think we have to be very very careful about that something like von ochskel for example
+once you start doing that you get into really dangerous areas which he did i mean he he had all
+these crazy ideas you know political ideas that were really detrimental and wrong that were very
+very tied to believing uh oh we can determine what a goal is for some agent so i guess that's where i'm
+trying to open up the space where it's it's too easy to say everything is goal oriented and only goal
+oriented it's better for me to say the measuring or the science is always going to be able to see
+particular goals when assessing particular trajectories but the overall bigger model we
+have to remember is not linear ever and from there's always you can always see many many overlapping
+trajectories that then needs a new model for how we understand uh what all this is this this way
+making it which isn't necessarily a linear movement from some place to a goal you know that that mindset
+is what bothers me and what is so we can so easily get stuck in i think through these very inspirational
+and true ideas i mean a lot of the people that inspired me got stuck in those places and it's hard
+to i don't want to really like your your idea as far as i we've talked about it of way making because it
+does always involve this historical dimension that makes it very uh unique to each individual you know
+we all have come our own our own way to where we are today and and we will all you know go different
+paths which sometimes cross and sometimes they don't um but but there's the sense that the kinds
+of goals that we care about and that we do pursue and that guide our behavior they are very much um
+yeah tied to the kind of um individual that we have become and that we are in the process of becoming
+um and in that sense yeah i completely agree i completely agree that it's it's treacherous to
+sort of think of teleology as one thing that applies to all right there could be even contradictory
+contradictory teleologies in within the same agent as part of the same agency i guess it's just the
+rigidity of thinking that we're going to look at this system and we're looking at everything and so
+if we find the goals of that system then we've somehow solved something for multiple
+perspectives it gets to what we were talking about about the cognition of how you can apply human
+cognition to a dog or whatever in terms of if you're going to punish them you know it's more
+that i feel like we need more nuance in terms of understanding that there's not there's always
+multiple goals and multiple trajectories of getting to any one particular goal and the goal itself might
+look like a goal from one perspective and from another not i guess i'm just trying to open up
+up that space but i do want to get your your opinion or your perspective about this notion of whether
+we need affordances to have intention because that's also raised in the paper and i feel like
+the authors say you don't need you can have intentions with they don't depend on on the affordances
+i think the the point they make is they want to say that intentional action doesn't always depend on um
+affordances being present at that moment um that are relevant to what you're trying to achieve
+so i think they have this example of someone looking to to cut an onion or something or looking
+wanting to cut an onion but there's no knife present in the kitchen um so they're just exploring the
+environment looking for something to cut the onion um even though in that particular case there is
+nothing there that affords them to cut with um and they say that it's not necessary for that
+being an object that affords cutting in order to speak about there being an intentional action and
+perhaps even the intention of cutting an onion that is beings and realized through exploring the
+environment in order to find something that you can cut an onion with
+that's a good point yes the presence of affordances in that moment so that would again go to that
+trajectory and that history that at some point you've understood you you've had a knife to cut
+the onion so that would be sort of where the directedness is coming from but that doesn't mean that
+then the tool itself is present i guess that makes sense yeah yeah and i think the other idea they
+that's really central they want to bring in is what what we said earlier um that intentions do modulate
+the the affordances that we do actually perceive and that this is sort of the central fact that they
+think is important to take account of and that's why you need to start thinking about intentions
+yeah i guess they they want to say that you know looking adopting the kind of an scombian approach
+can give an explanation of that without thinking of intentions as internal representations of goals
+that are somehow uh projected onto the environment but it's rather that because when you're engaged
+in a particular kind of goal-oriented behavior where you're doing something in order to do something else
+like exploring the environment for you know looking for something to drink um this intention this like
+teleological connection between between the actions that you you are um trying to sort of trace out in
+time in order to reach a goal that actually restricts which affordances you perceive like you're saying at
+the beginning if you arrive in a brand new city but you're thirsty yeah exactly focused on finding
+something to drink not exploring the beauties of the city or whatever and so they they want it yeah
+i think as i understand that they want to use anscombe in that way to to keep hold of the idea of
+direct perception that affordances are perceived directly rather than through some mediating
+representational process whilst also accommodating the idea that our intentions affect which affordances
+we perceive at any particular moment in time i have to really again to think about it but i mean on the
+first first first pass i thought it was very plausible um interesting proposal yeah it's it's great to
+have anscombe brought in like this and i think that's really rich there's i think they say it in
+the paper there's tons more that could be explored did this paper give you anything new in your your work
+as the authors also say in the conclusion of that paper it's more a beginning you know than a
+conclusive account of intentionism because you have to really do the work of trying to integrate the
+kind of van scombian understanding of intention with a there's a naturalistic or scientific or empirical
+or whatever you want to call it understanding of of cognition and the mind and the body and
+that's certainly something that i'm very interested in and i think it's important and that we should
+take an interdisciplinary approach to that question um and cognition in general i mean this is why i
+loved you know meeting you and talking to you um and thinking about you know beyond dichotomies beyond
+disciplinary boundaries and and trying to think about this in different ways that are maybe
+raising eyebrows but that can lead to new things that's the point just to kind of question and
+ask and explore so thanks for offering this paper i mean you you came up with it yeah thanks for
+discussing it it was great yeah yeah yes until next time yeah thank you so much thank you so much i hope
+i hope you have a good evening

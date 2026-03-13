@@ -1,0 +1,895 @@
+.
+├── 20230807 - Curious Minds & Edgeworking with philosophers Perry Zurn and Andrea Hiott.json
+├── 20230807 - Curious Minds & Edgeworking with philosophers Perry Zurn and Andrea Hiott.mp3
+├── 20230807 - Curious Minds & Edgeworking with philosophers Perry Zurn and Andrea Hiott.srt
+├── 20230807 - Curious Minds & Edgeworking with philosophers Perry Zurn and Andrea Hiott.tsv
+├── 20230807 - Curious Minds & Edgeworking with philosophers Perry Zurn and Andrea Hiott.txt
+├── 20230807 - Curious Minds & Edgeworking with philosophers Perry Zurn and Andrea Hiott.vtt
+├── 20230811 - Love and Philosophy Beyond Dichotomy with Andrea Hiott.json
+├── 20230811 - Love and Philosophy Beyond Dichotomy with Andrea Hiott.mp3
+├── 20230811 - Love and Philosophy Beyond Dichotomy with Andrea Hiott.srt
+├── 20230811 - Love and Philosophy Beyond Dichotomy with Andrea Hiott.tsv
+├── 20230811 - Love and Philosophy Beyond Dichotomy with Andrea Hiott.txt
+├── 20230811 - Love and Philosophy Beyond Dichotomy with Andrea Hiott.vtt
+├── 20230830 - Balancing wanting the world with drowning in it： A Conversation with Lisa Fitzhugh and Andrea Hiott.json
+├── 20230830 - Balancing wanting the world with drowning in it： A Conversation with Lisa Fitzhugh and Andrea Hiott.mp3
+├── 20230830 - Balancing wanting the world with drowning in it： A Conversation with Lisa Fitzhugh and Andrea Hiott.srt
+├── 20230830 - Balancing wanting the world with drowning in it： A Conversation with Lisa Fitzhugh and Andrea Hiott.tsv
+├── 20230830 - Balancing wanting the world with drowning in it： A Conversation with Lisa Fitzhugh and Andrea Hiott.txt
+├── 20230830 - Balancing wanting the world with drowning in it： A Conversation with Lisa Fitzhugh and Andrea Hiott.vtt
+├── 20230916 - Love, philosophy and navigability： Holding the paradox. Early fumbling towards a mature philosophy..json
+├── 20230916 - Love, philosophy and navigability： Holding the paradox. Early fumbling towards a mature philosophy..mp3
+├── 20230916 - Love, philosophy and navigability： Holding the paradox. Early fumbling towards a mature philosophy..srt
+├── 20230916 - Love, philosophy and navigability： Holding the paradox. Early fumbling towards a mature philosophy..tsv
+├── 20230916 - Love, philosophy and navigability： Holding the paradox. Early fumbling towards a mature philosophy..txt
+├── 20230916 - Love, philosophy and navigability： Holding the paradox. Early fumbling towards a mature philosophy..vtt
+├── 20231007 - The Power of Focus & Precision of Puzzles with C. Thi Nguyen and Andrea Hiott.json
+├── 20231007 - The Power of Focus & Precision of Puzzles with C. Thi Nguyen and Andrea Hiott.mp3
+├── 20231007 - The Power of Focus & Precision of Puzzles with C. Thi Nguyen and Andrea Hiott.srt
+├── 20231007 - The Power of Focus & Precision of Puzzles with C. Thi Nguyen and Andrea Hiott.tsv
+├── 20231007 - The Power of Focus & Precision of Puzzles with C. Thi Nguyen and Andrea Hiott.txt
+├── 20231007 - The Power of Focus & Precision of Puzzles with C. Thi Nguyen and Andrea Hiott.vtt
+├── 20231102 - Scales and Science Fiction with Biologist Michael Levin and Andrea Hiott.json
+├── 20231102 - Scales and Science Fiction with Biologist Michael Levin and Andrea Hiott.mp3
+├── 20231102 - Scales and Science Fiction with Biologist Michael Levin and Andrea Hiott.srt
+├── 20231102 - Scales and Science Fiction with Biologist Michael Levin and Andrea Hiott.tsv
+├── 20231102 - Scales and Science Fiction with Biologist Michael Levin and Andrea Hiott.txt
+├── 20231102 - Scales and Science Fiction with Biologist Michael Levin and Andrea Hiott.vtt
+├── 20231129 - Exploring Love, Cognitive Science, and Embodiment： What really matters？.json
+├── 20231129 - Exploring Love, Cognitive Science, and Embodiment： What really matters？.mp3
+├── 20231129 - Exploring Love, Cognitive Science, and Embodiment： What really matters？.srt
+├── 20231129 - Exploring Love, Cognitive Science, and Embodiment： What really matters？.tsv
+├── 20231129 - Exploring Love, Cognitive Science, and Embodiment： What really matters？.txt
+├── 20231129 - Exploring Love, Cognitive Science, and Embodiment： What really matters？.vtt
+├── 20231129 - Trying to build a philosophy out in the open： Towards a new way of thinking.json
+├── 20231129 - Trying to build a philosophy out in the open： Towards a new way of thinking.mp3
+├── 20231129 - Trying to build a philosophy out in the open： Towards a new way of thinking.srt
+├── 20231129 - Trying to build a philosophy out in the open： Towards a new way of thinking.tsv
+├── 20231129 - Trying to build a philosophy out in the open： Towards a new way of thinking.txt
+├── 20231129 - Trying to build a philosophy out in the open： Towards a new way of thinking.vtt
+├── 20231221 - In Continuum： Cognitions from other perspectives, Exploring Xenobots & Bioelectricity, Levin & Hiott.json
+├── 20231221 - In Continuum： Cognitions from other perspectives, Exploring Xenobots & Bioelectricity, Levin & Hiott.mp3
+├── 20231221 - In Continuum： Cognitions from other perspectives, Exploring Xenobots & Bioelectricity, Levin & Hiott.srt
+├── 20231221 - In Continuum： Cognitions from other perspectives, Exploring Xenobots & Bioelectricity, Levin & Hiott.tsv
+├── 20231221 - In Continuum： Cognitions from other perspectives, Exploring Xenobots & Bioelectricity, Levin & Hiott.txt
+├── 20231221 - In Continuum： Cognitions from other perspectives, Exploring Xenobots & Bioelectricity, Levin & Hiott.vtt
+├── 20231223 - What can a computer be？ with Flora Moon and Esteban Montero.json
+├── 20231223 - What can a computer be？ with Flora Moon and Esteban Montero.mp3
+├── 20231223 - What can a computer be？ with Flora Moon and Esteban Montero.srt
+├── 20231223 - What can a computer be？ with Flora Moon and Esteban Montero.tsv
+├── 20231223 - What can a computer be？ with Flora Moon and Esteban Montero.txt
+├── 20231223 - What can a computer be？ with Flora Moon and Esteban Montero.vtt
+├── 20240101 - Pattern, Meaning, & Integration with Jeremy Lent and Andrea Hiott.json
+├── 20240101 - Pattern, Meaning, & Integration with Jeremy Lent and Andrea Hiott.mp3
+├── 20240101 - Pattern, Meaning, & Integration with Jeremy Lent and Andrea Hiott.srt
+├── 20240101 - Pattern, Meaning, & Integration with Jeremy Lent and Andrea Hiott.tsv
+├── 20240101 - Pattern, Meaning, & Integration with Jeremy Lent and Andrea Hiott.txt
+├── 20240101 - Pattern, Meaning, & Integration with Jeremy Lent and Andrea Hiott.vtt
+├── 20240121 - Stream of Consciousness & Cognition： Research Diary 2.json
+├── 20240121 - Stream of Consciousness & Cognition： Research Diary 2.mp3
+├── 20240121 - Stream of Consciousness & Cognition： Research Diary 2.srt
+├── 20240121 - Stream of Consciousness & Cognition： Research Diary 2.tsv
+├── 20240121 - Stream of Consciousness & Cognition： Research Diary 2.txt
+├── 20240121 - Stream of Consciousness & Cognition： Research Diary 2.vtt
+├── 20240123 - From Ants to Active Inference with Daniel Ari Friedman.json
+├── 20240123 - From Ants to Active Inference with Daniel Ari Friedman.mp3
+├── 20240123 - From Ants to Active Inference with Daniel Ari Friedman.srt
+├── 20240123 - From Ants to Active Inference with Daniel Ari Friedman.tsv
+├── 20240123 - From Ants to Active Inference with Daniel Ari Friedman.txt
+├── 20240123 - From Ants to Active Inference with Daniel Ari Friedman.vtt
+├── 20240302 - Among Superheroes： memories and maps, from McGill to UCL with psychologist Lynn Nadel.json
+├── 20240302 - Among Superheroes： memories and maps, from McGill to UCL with psychologist Lynn Nadel.mp3
+├── 20240302 - Among Superheroes： memories and maps, from McGill to UCL with psychologist Lynn Nadel.srt
+├── 20240302 - Among Superheroes： memories and maps, from McGill to UCL with psychologist Lynn Nadel.tsv
+├── 20240302 - Among Superheroes： memories and maps, from McGill to UCL with psychologist Lynn Nadel.txt
+├── 20240302 - Among Superheroes： memories and maps, from McGill to UCL with psychologist Lynn Nadel.vtt
+├── 20240319 - Anscombe and Patterns of Action with Mirko Prokop.json
+├── 20240319 - Anscombe and Patterns of Action with Mirko Prokop.mp3
+├── 20240319 - Anscombe and Patterns of Action with Mirko Prokop.srt
+├── 20240319 - Anscombe and Patterns of Action with Mirko Prokop.tsv
+├── 20240319 - Anscombe and Patterns of Action with Mirko Prokop.txt
+├── 20240319 - Anscombe and Patterns of Action with Mirko Prokop.vtt
+├── 20240322 - Life and Landscape： Intelligences as forms of embodied navigability.json
+├── 20240322 - Life and Landscape： Intelligences as forms of embodied navigability.mp3
+├── 20240322 - Life and Landscape： Intelligences as forms of embodied navigability.srt
+├── 20240322 - Life and Landscape： Intelligences as forms of embodied navigability.tsv
+├── 20240322 - Life and Landscape： Intelligences as forms of embodied navigability.txt
+├── 20240322 - Life and Landscape： Intelligences as forms of embodied navigability.vtt
+├── 20240324 - The Art of Conversation with Paul Holdengräber and Andrea Hiott.json
+├── 20240324 - The Art of Conversation with Paul Holdengräber and Andrea Hiott.mp3
+├── 20240324 - The Art of Conversation with Paul Holdengräber and Andrea Hiott.srt
+├── 20240324 - The Art of Conversation with Paul Holdengräber and Andrea Hiott.tsv
+├── 20240324 - The Art of Conversation with Paul Holdengräber and Andrea Hiott.txt
+├── 20240324 - The Art of Conversation with Paul Holdengräber and Andrea Hiott.vtt
+├── 20240401 - Artworks as meeting places： Clip from Meaning Code with Karen Wong.json
+├── 20240401 - Artworks as meeting places： Clip from Meaning Code with Karen Wong.mp3
+├── 20240401 - Artworks as meeting places： Clip from Meaning Code with Karen Wong.srt
+├── 20240401 - Artworks as meeting places： Clip from Meaning Code with Karen Wong.tsv
+├── 20240401 - Artworks as meeting places： Clip from Meaning Code with Karen Wong.txt
+├── 20240401 - Artworks as meeting places： Clip from Meaning Code with Karen Wong.vtt
+├── 20240412 - Scaling Autonomous Self-Actualization with Timo Schuler.json
+├── 20240412 - Scaling Autonomous Self-Actualization with Timo Schuler.mp3
+├── 20240412 - Scaling Autonomous Self-Actualization with Timo Schuler.srt
+├── 20240412 - Scaling Autonomous Self-Actualization with Timo Schuler.tsv
+├── 20240412 - Scaling Autonomous Self-Actualization with Timo Schuler.txt
+├── 20240412 - Scaling Autonomous Self-Actualization with Timo Schuler.vtt
+├── 20240419 - Scaffolds & Blackboards： On higher order math & love with Carlos Zapata Carratalá and Andrea Hiott.json
+├── 20240419 - Scaffolds & Blackboards： On higher order math & love with Carlos Zapata Carratalá and Andrea Hiott.mp3
+├── 20240419 - Scaffolds & Blackboards： On higher order math & love with Carlos Zapata Carratalá and Andrea Hiott.srt
+├── 20240419 - Scaffolds & Blackboards： On higher order math & love with Carlos Zapata Carratalá and Andrea Hiott.tsv
+├── 20240419 - Scaffolds & Blackboards： On higher order math & love with Carlos Zapata Carratalá and Andrea Hiott.txt
+├── 20240419 - Scaffolds & Blackboards： On higher order math & love with Carlos Zapata Carratalá and Andrea Hiott.vtt
+├── 20240424 - Clarity, Nature, Robots： Michael Levin & Andrea Hiott discuss the nuance of these terms.json
+├── 20240424 - Clarity, Nature, Robots： Michael Levin & Andrea Hiott discuss the nuance of these terms.mp3
+├── 20240424 - Clarity, Nature, Robots： Michael Levin & Andrea Hiott discuss the nuance of these terms.srt
+├── 20240424 - Clarity, Nature, Robots： Michael Levin & Andrea Hiott discuss the nuance of these terms.tsv
+├── 20240424 - Clarity, Nature, Robots： Michael Levin & Andrea Hiott discuss the nuance of these terms.txt
+├── 20240424 - Clarity, Nature, Robots： Michael Levin & Andrea Hiott discuss the nuance of these terms.vtt
+├── 20240430 - The music of mind and life： Are minds best understood as songs？ Richard Watson and Andrea Hiott.json
+├── 20240430 - The music of mind and life： Are minds best understood as songs？ Richard Watson and Andrea Hiott.mp3
+├── 20240430 - The music of mind and life： Are minds best understood as songs？ Richard Watson and Andrea Hiott.srt
+├── 20240430 - The music of mind and life： Are minds best understood as songs？ Richard Watson and Andrea Hiott.tsv
+├── 20240430 - The music of mind and life： Are minds best understood as songs？ Richard Watson and Andrea Hiott.txt
+├── 20240430 - The music of mind and life： Are minds best understood as songs？ Richard Watson and Andrea Hiott.vtt
+├── 20240503 - Left & Right Reconciliation in the Brain and Beyond with Iain McGilchrist and Andrea Hiott.json
+├── 20240503 - Left & Right Reconciliation in the Brain and Beyond with Iain McGilchrist and Andrea Hiott.mp3
+├── 20240503 - Left & Right Reconciliation in the Brain and Beyond with Iain McGilchrist and Andrea Hiott.srt
+├── 20240503 - Left & Right Reconciliation in the Brain and Beyond with Iain McGilchrist and Andrea Hiott.tsv
+├── 20240503 - Left & Right Reconciliation in the Brain and Beyond with Iain McGilchrist and Andrea Hiott.txt
+├── 20240503 - Left & Right Reconciliation in the Brain and Beyond with Iain McGilchrist and Andrea Hiott.vtt
+├── 20240507 - The Hippocampus as a Cognitive Map & Precursors to Active Inference with Lynn Nadel.json
+├── 20240507 - The Hippocampus as a Cognitive Map & Precursors to Active Inference with Lynn Nadel.mp3
+├── 20240507 - The Hippocampus as a Cognitive Map & Precursors to Active Inference with Lynn Nadel.srt
+├── 20240507 - The Hippocampus as a Cognitive Map & Precursors to Active Inference with Lynn Nadel.tsv
+├── 20240507 - The Hippocampus as a Cognitive Map & Precursors to Active Inference with Lynn Nadel.txt
+├── 20240507 - The Hippocampus as a Cognitive Map & Precursors to Active Inference with Lynn Nadel.vtt
+├── 20240509 - Research Diary 4： stream of consciousness on navigability and way-making orientation.json
+├── 20240509 - Research Diary 4： stream of consciousness on navigability and way-making orientation.mp3
+├── 20240509 - Research Diary 4： stream of consciousness on navigability and way-making orientation.srt
+├── 20240509 - Research Diary 4： stream of consciousness on navigability and way-making orientation.tsv
+├── 20240509 - Research Diary 4： stream of consciousness on navigability and way-making orientation.txt
+├── 20240509 - Research Diary 4： stream of consciousness on navigability and way-making orientation.vtt
+├── 20240510 - Rethinking Neuroscience： Do we really have to choose between general Learning Systems and Labels？.json
+├── 20240510 - Rethinking Neuroscience： Do we really have to choose between general Learning Systems and Labels？.mp3
+├── 20240510 - Rethinking Neuroscience： Do we really have to choose between general Learning Systems and Labels？.srt
+├── 20240510 - Rethinking Neuroscience： Do we really have to choose between general Learning Systems and Labels？.tsv
+├── 20240510 - Rethinking Neuroscience： Do we really have to choose between general Learning Systems and Labels？.txt
+├── 20240510 - Rethinking Neuroscience： Do we really have to choose between general Learning Systems and Labels？.vtt
+├── 20240510 - The Future of AI & the Spatial Web： Denise Holt on the tech life, personal and public.json
+├── 20240510 - The Future of AI & the Spatial Web： Denise Holt on the tech life, personal and public.mp3
+├── 20240510 - The Future of AI & the Spatial Web： Denise Holt on the tech life, personal and public.srt
+├── 20240510 - The Future of AI & the Spatial Web： Denise Holt on the tech life, personal and public.tsv
+├── 20240510 - The Future of AI & the Spatial Web： Denise Holt on the tech life, personal and public.txt
+├── 20240510 - The Future of AI & the Spatial Web： Denise Holt on the tech life, personal and public.vtt
+├── 20240517 - What is intelligence？ A Brief History with entrepreneur Max Bennett.json
+├── 20240517 - What is intelligence？ A Brief History with entrepreneur Max Bennett.mp3
+├── 20240517 - What is intelligence？ A Brief History with entrepreneur Max Bennett.srt
+├── 20240517 - What is intelligence？ A Brief History with entrepreneur Max Bennett.tsv
+├── 20240517 - What is intelligence？ A Brief History with entrepreneur Max Bennett.txt
+├── 20240517 - What is intelligence？ A Brief History with entrepreneur Max Bennett.vtt
+├── 20240524 - Brain GPT & Rethinking Neuroscience with Brad Love (University College London).json
+├── 20240524 - Brain GPT & Rethinking Neuroscience with Brad Love (University College London).mp3
+├── 20240524 - Brain GPT & Rethinking Neuroscience with Brad Love (University College London).srt
+├── 20240524 - Brain GPT & Rethinking Neuroscience with Brad Love (University College London).tsv
+├── 20240524 - Brain GPT & Rethinking Neuroscience with Brad Love (University College London).txt
+├── 20240524 - Brain GPT & Rethinking Neuroscience with Brad Love (University College London).vtt
+├── 20240531 - Philosophy of Mind, Biophilia, and Why A.I. is Not What You Think with Inês Hipólito & Andrea Hiott.json
+├── 20240531 - Philosophy of Mind, Biophilia, and Why A.I. is Not What You Think with Inês Hipólito & Andrea Hiott.mp3
+├── 20240531 - Philosophy of Mind, Biophilia, and Why A.I. is Not What You Think with Inês Hipólito & Andrea Hiott.srt
+├── 20240531 - Philosophy of Mind, Biophilia, and Why A.I. is Not What You Think with Inês Hipólito & Andrea Hiott.tsv
+├── 20240531 - Philosophy of Mind, Biophilia, and Why A.I. is Not What You Think with Inês Hipólito & Andrea Hiott.txt
+├── 20240531 - Philosophy of Mind, Biophilia, and Why A.I. is Not What You Think with Inês Hipólito & Andrea Hiott.vtt
+├── 20240606 - Hippocampus Histories： Memory, Navigation, & the New York Perspective with scientist John Kubie.json
+├── 20240606 - Hippocampus Histories： Memory, Navigation, & the New York Perspective with scientist John Kubie.mp3
+├── 20240606 - Hippocampus Histories： Memory, Navigation, & the New York Perspective with scientist John Kubie.srt
+├── 20240606 - Hippocampus Histories： Memory, Navigation, & the New York Perspective with scientist John Kubie.tsv
+├── 20240606 - Hippocampus Histories： Memory, Navigation, & the New York Perspective with scientist John Kubie.txt
+├── 20240606 - Hippocampus Histories： Memory, Navigation, & the New York Perspective with scientist John Kubie.vtt
+├── 20240614 - Consciousness, Cognition, and Joint Speech with cognitive scientist Fred Cummins and Andrea Hiott.json
+├── 20240614 - Consciousness, Cognition, and Joint Speech with cognitive scientist Fred Cummins and Andrea Hiott.mp3
+├── 20240614 - Consciousness, Cognition, and Joint Speech with cognitive scientist Fred Cummins and Andrea Hiott.srt
+├── 20240614 - Consciousness, Cognition, and Joint Speech with cognitive scientist Fred Cummins and Andrea Hiott.tsv
+├── 20240614 - Consciousness, Cognition, and Joint Speech with cognitive scientist Fred Cummins and Andrea Hiott.txt
+├── 20240614 - Consciousness, Cognition, and Joint Speech with cognitive scientist Fred Cummins and Andrea Hiott.vtt
+├── 20240621 - Thrutopia is the way forward： Any Human Power with author Manda Scott and philosopher Andrea Hiott.json
+├── 20240621 - Thrutopia is the way forward： Any Human Power with author Manda Scott and philosopher Andrea Hiott.mp3
+├── 20240621 - Thrutopia is the way forward： Any Human Power with author Manda Scott and philosopher Andrea Hiott.srt
+├── 20240621 - Thrutopia is the way forward： Any Human Power with author Manda Scott and philosopher Andrea Hiott.tsv
+├── 20240621 - Thrutopia is the way forward： Any Human Power with author Manda Scott and philosopher Andrea Hiott.txt
+├── 20240621 - Thrutopia is the way forward： Any Human Power with author Manda Scott and philosopher Andrea Hiott.vtt
+├── 20240623 - Language and Future A.I. Interactions with Max Bennett and Andrea Hiott Part Two.json
+├── 20240623 - Language and Future A.I. Interactions with Max Bennett and Andrea Hiott Part Two.mp3
+├── 20240623 - Language and Future A.I. Interactions with Max Bennett and Andrea Hiott Part Two.srt
+├── 20240623 - Language and Future A.I. Interactions with Max Bennett and Andrea Hiott Part Two.tsv
+├── 20240623 - Language and Future A.I. Interactions with Max Bennett and Andrea Hiott Part Two.txt
+├── 20240623 - Language and Future A.I. Interactions with Max Bennett and Andrea Hiott Part Two.vtt
+├── 20240626 - How to Model Cognition with Paul Kelly and Andrea Hiott： Beyond mechanistic and dynamical？.json
+├── 20240626 - How to Model Cognition with Paul Kelly and Andrea Hiott： Beyond mechanistic and dynamical？.mp3
+├── 20240626 - How to Model Cognition with Paul Kelly and Andrea Hiott： Beyond mechanistic and dynamical？.srt
+├── 20240626 - How to Model Cognition with Paul Kelly and Andrea Hiott： Beyond mechanistic and dynamical？.tsv
+├── 20240626 - How to Model Cognition with Paul Kelly and Andrea Hiott： Beyond mechanistic and dynamical？.txt
+├── 20240626 - How to Model Cognition with Paul Kelly and Andrea Hiott： Beyond mechanistic and dynamical？.vtt
+├── 20240628 - Navigational Mind： Understanding Our Paths Through Life as we Hold Paradox with Andrea Hiott.json
+├── 20240628 - Navigational Mind： Understanding Our Paths Through Life as we Hold Paradox with Andrea Hiott.mp3
+├── 20240628 - Navigational Mind： Understanding Our Paths Through Life as we Hold Paradox with Andrea Hiott.srt
+├── 20240628 - Navigational Mind： Understanding Our Paths Through Life as we Hold Paradox with Andrea Hiott.tsv
+├── 20240628 - Navigational Mind： Understanding Our Paths Through Life as we Hold Paradox with Andrea Hiott.txt
+├── 20240628 - Navigational Mind： Understanding Our Paths Through Life as we Hold Paradox with Andrea Hiott.vtt
+├── 20240702 - I am because we are with Jonathan Bill Doe.json
+├── 20240702 - I am because we are with Jonathan Bill Doe.mp3
+├── 20240702 - I am because we are with Jonathan Bill Doe.srt
+├── 20240702 - I am because we are with Jonathan Bill Doe.tsv
+├── 20240702 - I am because we are with Jonathan Bill Doe.txt
+├── 20240702 - I am because we are with Jonathan Bill Doe.vtt
+├── 20240702 - Research Diary Ramblings 5, Open-hearted Vulnerability towards improving ideas (high nerd score).json
+├── 20240702 - Research Diary Ramblings 5, Open-hearted Vulnerability towards improving ideas (high nerd score).mp3
+├── 20240702 - Research Diary Ramblings 5, Open-hearted Vulnerability towards improving ideas (high nerd score).srt
+├── 20240702 - Research Diary Ramblings 5, Open-hearted Vulnerability towards improving ideas (high nerd score).tsv
+├── 20240702 - Research Diary Ramblings 5, Open-hearted Vulnerability towards improving ideas (high nerd score).txt
+├── 20240702 - Research Diary Ramblings 5, Open-hearted Vulnerability towards improving ideas (high nerd score).vtt
+├── 20240706 - How the World Thinks with philosophers Julian Baggini and Andrea Hiott.json
+├── 20240706 - How the World Thinks with philosophers Julian Baggini and Andrea Hiott.mp3
+├── 20240706 - How the World Thinks with philosophers Julian Baggini and Andrea Hiott.srt
+├── 20240706 - How the World Thinks with philosophers Julian Baggini and Andrea Hiott.tsv
+├── 20240706 - How the World Thinks with philosophers Julian Baggini and Andrea Hiott.txt
+├── 20240706 - How the World Thinks with philosophers Julian Baggini and Andrea Hiott.vtt
+├── 20240712 - A Map is also its Territory： scales of awareness with Mahault Albarracin and Andrea Hiott.json
+├── 20240712 - A Map is also its Territory： scales of awareness with Mahault Albarracin and Andrea Hiott.mp3
+├── 20240712 - A Map is also its Territory： scales of awareness with Mahault Albarracin and Andrea Hiott.srt
+├── 20240712 - A Map is also its Territory： scales of awareness with Mahault Albarracin and Andrea Hiott.tsv
+├── 20240712 - A Map is also its Territory： scales of awareness with Mahault Albarracin and Andrea Hiott.txt
+├── 20240712 - A Map is also its Territory： scales of awareness with Mahault Albarracin and Andrea Hiott.vtt
+├── 20240722 - Taking Category Theory Personally： Engineering new paths with Brandon Baylor & Andrea Hiott.json
+├── 20240722 - Taking Category Theory Personally： Engineering new paths with Brandon Baylor & Andrea Hiott.mp3
+├── 20240722 - Taking Category Theory Personally： Engineering new paths with Brandon Baylor & Andrea Hiott.srt
+├── 20240722 - Taking Category Theory Personally： Engineering new paths with Brandon Baylor & Andrea Hiott.tsv
+├── 20240722 - Taking Category Theory Personally： Engineering new paths with Brandon Baylor & Andrea Hiott.txt
+├── 20240722 - Taking Category Theory Personally： Engineering new paths with Brandon Baylor & Andrea Hiott.vtt
+├── 20240725 - The Importance of Place with neuroscientist Richard Morris (Edinburgh) & Andrea Hiott.json
+├── 20240725 - The Importance of Place with neuroscientist Richard Morris (Edinburgh) & Andrea Hiott.mp3
+├── 20240725 - The Importance of Place with neuroscientist Richard Morris (Edinburgh) & Andrea Hiott.srt
+├── 20240725 - The Importance of Place with neuroscientist Richard Morris (Edinburgh) & Andrea Hiott.tsv
+├── 20240725 - The Importance of Place with neuroscientist Richard Morris (Edinburgh) & Andrea Hiott.txt
+├── 20240725 - The Importance of Place with neuroscientist Richard Morris (Edinburgh) & Andrea Hiott.vtt
+├── 20240802 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott.json
+├── 20240802 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott.mp3
+├── 20240802 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott.srt
+├── 20240802 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott.tsv
+├── 20240802 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott.txt
+├── 20240802 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott.vtt
+├── 20240809 - Disrupting Expectations： Existential Life & Love with Skye Cleary, Simone de Beauvoir & Andrea Hiott.json
+├── 20240809 - Disrupting Expectations： Existential Life & Love with Skye Cleary, Simone de Beauvoir & Andrea Hiott.mp3
+├── 20240809 - Disrupting Expectations： Existential Life & Love with Skye Cleary, Simone de Beauvoir & Andrea Hiott.srt
+├── 20240809 - Disrupting Expectations： Existential Life & Love with Skye Cleary, Simone de Beauvoir & Andrea Hiott.tsv
+├── 20240809 - Disrupting Expectations： Existential Life & Love with Skye Cleary, Simone de Beauvoir & Andrea Hiott.txt
+├── 20240809 - Disrupting Expectations： Existential Life & Love with Skye Cleary, Simone de Beauvoir & Andrea Hiott.vtt
+├── 20240812 - World Models and Life Beyond the Lines with tech entrepreneur Cory Warfield.json
+├── 20240812 - World Models and Life Beyond the Lines with tech entrepreneur Cory Warfield.mp3
+├── 20240812 - World Models and Life Beyond the Lines with tech entrepreneur Cory Warfield.srt
+├── 20240812 - World Models and Life Beyond the Lines with tech entrepreneur Cory Warfield.tsv
+├── 20240812 - World Models and Life Beyond the Lines with tech entrepreneur Cory Warfield.txt
+├── 20240812 - World Models and Life Beyond the Lines with tech entrepreneur Cory Warfield.vtt
+├── 20240822 - Adaptive Resiliency for Humans and A.I. with Maria Santacaterina and Andrea Hiott.json
+├── 20240822 - Adaptive Resiliency for Humans and A.I. with Maria Santacaterina and Andrea Hiott.mp3
+├── 20240822 - Adaptive Resiliency for Humans and A.I. with Maria Santacaterina and Andrea Hiott.srt
+├── 20240822 - Adaptive Resiliency for Humans and A.I. with Maria Santacaterina and Andrea Hiott.tsv
+├── 20240822 - Adaptive Resiliency for Humans and A.I. with Maria Santacaterina and Andrea Hiott.txt
+├── 20240822 - Adaptive Resiliency for Humans and A.I. with Maria Santacaterina and Andrea Hiott.vtt
+├── 20240822 - Loss and Liberation： Feminine Healing For Everyone with lori lozinsky.json
+├── 20240822 - Loss and Liberation： Feminine Healing For Everyone with lori lozinsky.mp3
+├── 20240822 - Loss and Liberation： Feminine Healing For Everyone with lori lozinsky.srt
+├── 20240822 - Loss and Liberation： Feminine Healing For Everyone with lori lozinsky.tsv
+├── 20240822 - Loss and Liberation： Feminine Healing For Everyone with lori lozinsky.txt
+├── 20240822 - Loss and Liberation： Feminine Healing For Everyone with lori lozinsky.vtt
+├── 20240906 - Pattern Language & Ways of Wholeness, on Christopher Alexander with David Seamon & Andrea Hiott.json
+├── 20240906 - Pattern Language & Ways of Wholeness, on Christopher Alexander with David Seamon & Andrea Hiott.mp3
+├── 20240906 - Pattern Language & Ways of Wholeness, on Christopher Alexander with David Seamon & Andrea Hiott.srt
+├── 20240906 - Pattern Language & Ways of Wholeness, on Christopher Alexander with David Seamon & Andrea Hiott.tsv
+├── 20240906 - Pattern Language & Ways of Wholeness, on Christopher Alexander with David Seamon & Andrea Hiott.txt
+├── 20240906 - Pattern Language & Ways of Wholeness, on Christopher Alexander with David Seamon & Andrea Hiott.vtt
+├── 20240915 - A New Age of the Web： From Printing Press to the Coming Spatial Experience with Dan Mapes.json
+├── 20240915 - A New Age of the Web： From Printing Press to the Coming Spatial Experience with Dan Mapes.mp3
+├── 20240915 - A New Age of the Web： From Printing Press to the Coming Spatial Experience with Dan Mapes.srt
+├── 20240915 - A New Age of the Web： From Printing Press to the Coming Spatial Experience with Dan Mapes.tsv
+├── 20240915 - A New Age of the Web： From Printing Press to the Coming Spatial Experience with Dan Mapes.txt
+├── 20240915 - A New Age of the Web： From Printing Press to the Coming Spatial Experience with Dan Mapes.vtt
+├── 20240921 - Graduating from College and Looking for True Purpose with Lucas Vos.json
+├── 20240921 - Graduating from College and Looking for True Purpose with Lucas Vos.mp3
+├── 20240921 - Graduating from College and Looking for True Purpose with Lucas Vos.srt
+├── 20240921 - Graduating from College and Looking for True Purpose with Lucas Vos.tsv
+├── 20240921 - Graduating from College and Looking for True Purpose with Lucas Vos.txt
+├── 20240921 - Graduating from College and Looking for True Purpose with Lucas Vos.vtt
+├── 20240923 - AUDIO BrainGPT： Rethinking CogSci & Loving the Ants in Ourselves with Brad Love.json
+├── 20240923 - AUDIO BrainGPT： Rethinking CogSci & Loving the Ants in Ourselves with Brad Love.mp3
+├── 20240923 - AUDIO BrainGPT： Rethinking CogSci & Loving the Ants in Ourselves with Brad Love.srt
+├── 20240923 - AUDIO BrainGPT： Rethinking CogSci & Loving the Ants in Ourselves with Brad Love.tsv
+├── 20240923 - AUDIO BrainGPT： Rethinking CogSci & Loving the Ants in Ourselves with Brad Love.txt
+├── 20240923 - AUDIO BrainGPT： Rethinking CogSci & Loving the Ants in Ourselves with Brad Love.vtt
+├── 20240923 - Among Superheroes： memories, maps & McGill with psychologist Lynn Nadel and Andrea Hiott Audio.json
+├── 20240923 - Among Superheroes： memories, maps & McGill with psychologist Lynn Nadel and Andrea Hiott Audio.mp3
+├── 20240923 - Among Superheroes： memories, maps & McGill with psychologist Lynn Nadel and Andrea Hiott Audio.srt
+├── 20240923 - Among Superheroes： memories, maps & McGill with psychologist Lynn Nadel and Andrea Hiott Audio.tsv
+├── 20240923 - Among Superheroes： memories, maps & McGill with psychologist Lynn Nadel and Andrea Hiott Audio.txt
+├── 20240923 - Among Superheroes： memories, maps & McGill with psychologist Lynn Nadel and Andrea Hiott Audio.vtt
+├── 20240923 - Audio Swimming Against the Pressures： the Power in Taking Life Slowly and with Purpose w Lucas Vos.json
+├── 20240923 - Audio Swimming Against the Pressures： the Power in Taking Life Slowly and with Purpose w Lucas Vos.mp3
+├── 20240923 - Audio Swimming Against the Pressures： the Power in Taking Life Slowly and with Purpose w Lucas Vos.srt
+├── 20240923 - Audio Swimming Against the Pressures： the Power in Taking Life Slowly and with Purpose w Lucas Vos.tsv
+├── 20240923 - Audio Swimming Against the Pressures： the Power in Taking Life Slowly and with Purpose w Lucas Vos.txt
+├── 20240923 - Audio Swimming Against the Pressures： the Power in Taking Life Slowly and with Purpose w Lucas Vos.vtt
+├── 20240923 - Audio of Intention and Elizabeth Anscombe with Mirko Prokop.json
+├── 20240923 - Audio of Intention and Elizabeth Anscombe with Mirko Prokop.mp3
+├── 20240923 - Audio of Intention and Elizabeth Anscombe with Mirko Prokop.srt
+├── 20240923 - Audio of Intention and Elizabeth Anscombe with Mirko Prokop.tsv
+├── 20240923 - Audio of Intention and Elizabeth Anscombe with Mirko Prokop.txt
+├── 20240923 - Audio of Intention and Elizabeth Anscombe with Mirko Prokop.vtt
+├── 20240923 - Cognitive Scales and the Powers of Science Fiction with Michael Levin and Andrea Hiott Audio.json
+├── 20240923 - Cognitive Scales and the Powers of Science Fiction with Michael Levin and Andrea Hiott Audio.mp3
+├── 20240923 - Cognitive Scales and the Powers of Science Fiction with Michael Levin and Andrea Hiott Audio.srt
+├── 20240923 - Cognitive Scales and the Powers of Science Fiction with Michael Levin and Andrea Hiott Audio.tsv
+├── 20240923 - Cognitive Scales and the Powers of Science Fiction with Michael Levin and Andrea Hiott Audio.txt
+├── 20240923 - Cognitive Scales and the Powers of Science Fiction with Michael Levin and Andrea Hiott Audio.vtt
+├── 20240923 - Curious Minds & Edge-working with Perry Zurn and Andrea Hiott Audio Only.json
+├── 20240923 - Curious Minds & Edge-working with Perry Zurn and Andrea Hiott Audio Only.mp3
+├── 20240923 - Curious Minds & Edge-working with Perry Zurn and Andrea Hiott Audio Only.srt
+├── 20240923 - Curious Minds & Edge-working with Perry Zurn and Andrea Hiott Audio Only.tsv
+├── 20240923 - Curious Minds & Edge-working with Perry Zurn and Andrea Hiott Audio Only.txt
+├── 20240923 - Curious Minds & Edge-working with Perry Zurn and Andrea Hiott Audio Only.vtt
+├── 20240923 - Disrupting What's Expected： Existential Love with Beauvoir, Skye Cleary, Andrea Hiott AUDIO VERSION.json
+├── 20240923 - Disrupting What's Expected： Existential Love with Beauvoir, Skye Cleary, Andrea Hiott AUDIO VERSION.mp3
+├── 20240923 - Disrupting What's Expected： Existential Love with Beauvoir, Skye Cleary, Andrea Hiott AUDIO VERSION.srt
+├── 20240923 - Disrupting What's Expected： Existential Love with Beauvoir, Skye Cleary, Andrea Hiott AUDIO VERSION.tsv
+├── 20240923 - Disrupting What's Expected： Existential Love with Beauvoir, Skye Cleary, Andrea Hiott AUDIO VERSION.txt
+├── 20240923 - Disrupting What's Expected： Existential Love with Beauvoir, Skye Cleary, Andrea Hiott AUDIO VERSION.vtt
+├── 20240923 - From Ants to Active Inference with Daniel Ari Friedman and Andrea Hiott Audio Only.json
+├── 20240923 - From Ants to Active Inference with Daniel Ari Friedman and Andrea Hiott Audio Only.mp3
+├── 20240923 - From Ants to Active Inference with Daniel Ari Friedman and Andrea Hiott Audio Only.srt
+├── 20240923 - From Ants to Active Inference with Daniel Ari Friedman and Andrea Hiott Audio Only.tsv
+├── 20240923 - From Ants to Active Inference with Daniel Ari Friedman and Andrea Hiott Audio Only.txt
+├── 20240923 - From Ants to Active Inference with Daniel Ari Friedman and Andrea Hiott Audio Only.vtt
+├── 20240923 - Higher Orders of Love and Mathematics with Carlos Zapata Carratalá and Andrea Hiott AUDIO VERSION.json
+├── 20240923 - Higher Orders of Love and Mathematics with Carlos Zapata Carratalá and Andrea Hiott AUDIO VERSION.mp3
+├── 20240923 - Higher Orders of Love and Mathematics with Carlos Zapata Carratalá and Andrea Hiott AUDIO VERSION.srt
+├── 20240923 - Higher Orders of Love and Mathematics with Carlos Zapata Carratalá and Andrea Hiott AUDIO VERSION.tsv
+├── 20240923 - Higher Orders of Love and Mathematics with Carlos Zapata Carratalá and Andrea Hiott AUDIO VERSION.txt
+├── 20240923 - Higher Orders of Love and Mathematics with Carlos Zapata Carratalá and Andrea Hiott AUDIO VERSION.vtt
+├── 20240923 - How the World Thinks with Julian Baggini & Andrea Hiott： Beyond Western philosophy Audio podcast.json
+├── 20240923 - How the World Thinks with Julian Baggini & Andrea Hiott： Beyond Western philosophy Audio podcast.mp3
+├── 20240923 - How the World Thinks with Julian Baggini & Andrea Hiott： Beyond Western philosophy Audio podcast.srt
+├── 20240923 - How the World Thinks with Julian Baggini & Andrea Hiott： Beyond Western philosophy Audio podcast.tsv
+├── 20240923 - How the World Thinks with Julian Baggini & Andrea Hiott： Beyond Western philosophy Audio podcast.txt
+├── 20240923 - How the World Thinks with Julian Baggini & Andrea Hiott： Beyond Western philosophy Audio podcast.vtt
+├── 20240923 - I Am Because We Are： New approaches to sustainable heritage with Jonathan Doe Audio Podcast.json
+├── 20240923 - I Am Because We Are： New approaches to sustainable heritage with Jonathan Doe Audio Podcast.mp3
+├── 20240923 - I Am Because We Are： New approaches to sustainable heritage with Jonathan Doe Audio Podcast.srt
+├── 20240923 - I Am Because We Are： New approaches to sustainable heritage with Jonathan Doe Audio Podcast.tsv
+├── 20240923 - I Am Because We Are： New approaches to sustainable heritage with Jonathan Doe Audio Podcast.txt
+├── 20240923 - I Am Because We Are： New approaches to sustainable heritage with Jonathan Doe Audio Podcast.vtt
+├── 20240923 - Is there anything objective？ Philosophies of Mind & why A.I. is not what we think.json
+├── 20240923 - Is there anything objective？ Philosophies of Mind & why A.I. is not what we think.mp3
+├── 20240923 - Is there anything objective？ Philosophies of Mind & why A.I. is not what we think.srt
+├── 20240923 - Is there anything objective？ Philosophies of Mind & why A.I. is not what we think.tsv
+├── 20240923 - Is there anything objective？ Philosophies of Mind & why A.I. is not what we think.txt
+├── 20240923 - Is there anything objective？ Philosophies of Mind & why A.I. is not what we think.vtt
+├── 20240923 - Knowing & the Known Joint Speech & Consciousness with Fred Cummins & Andrea Hiott Audio Podcast.json
+├── 20240923 - Knowing & the Known Joint Speech & Consciousness with Fred Cummins & Andrea Hiott Audio Podcast.mp3
+├── 20240923 - Knowing & the Known Joint Speech & Consciousness with Fred Cummins & Andrea Hiott Audio Podcast.srt
+├── 20240923 - Knowing & the Known Joint Speech & Consciousness with Fred Cummins & Andrea Hiott Audio Podcast.tsv
+├── 20240923 - Knowing & the Known Joint Speech & Consciousness with Fred Cummins & Andrea Hiott Audio Podcast.txt
+├── 20240923 - Knowing & the Known Joint Speech & Consciousness with Fred Cummins & Andrea Hiott Audio Podcast.vtt
+├── 20240923 - Love is Mutual Transformative Change with Richard Watson and Andrea Hiott Audio Only.json
+├── 20240923 - Love is Mutual Transformative Change with Richard Watson and Andrea Hiott Audio Only.mp3
+├── 20240923 - Love is Mutual Transformative Change with Richard Watson and Andrea Hiott Audio Only.srt
+├── 20240923 - Love is Mutual Transformative Change with Richard Watson and Andrea Hiott Audio Only.tsv
+├── 20240923 - Love is Mutual Transformative Change with Richard Watson and Andrea Hiott Audio Only.txt
+├── 20240923 - Love is Mutual Transformative Change with Richard Watson and Andrea Hiott Audio Only.vtt
+├── 20240923 - Maps are their own territory with Mahault Albarracin and Andrea Hiott Audio Podcast.json
+├── 20240923 - Maps are their own territory with Mahault Albarracin and Andrea Hiott Audio Podcast.mp3
+├── 20240923 - Maps are their own territory with Mahault Albarracin and Andrea Hiott Audio Podcast.srt
+├── 20240923 - Maps are their own territory with Mahault Albarracin and Andrea Hiott Audio Podcast.tsv
+├── 20240923 - Maps are their own territory with Mahault Albarracin and Andrea Hiott Audio Podcast.txt
+├── 20240923 - Maps are their own territory with Mahault Albarracin and Andrea Hiott Audio Podcast.vtt
+├── 20240923 - Nature and Clarity with Mike Levin and Andrea Hiott Audio Only.json
+├── 20240923 - Nature and Clarity with Mike Levin and Andrea Hiott Audio Only.mp3
+├── 20240923 - Nature and Clarity with Mike Levin and Andrea Hiott Audio Only.srt
+├── 20240923 - Nature and Clarity with Mike Levin and Andrea Hiott Audio Only.tsv
+├── 20240923 - Nature and Clarity with Mike Levin and Andrea Hiott Audio Only.txt
+├── 20240923 - Nature and Clarity with Mike Levin and Andrea Hiott Audio Only.vtt
+├── 20240923 - On the Art of Conversation with Paul Holdengräber and Andrea Hiott： A Personal Exploration AUDIO.json
+├── 20240923 - On the Art of Conversation with Paul Holdengräber and Andrea Hiott： A Personal Exploration AUDIO.mp3
+├── 20240923 - On the Art of Conversation with Paul Holdengräber and Andrea Hiott： A Personal Exploration AUDIO.srt
+├── 20240923 - On the Art of Conversation with Paul Holdengräber and Andrea Hiott： A Personal Exploration AUDIO.tsv
+├── 20240923 - On the Art of Conversation with Paul Holdengräber and Andrea Hiott： A Personal Exploration AUDIO.txt
+├── 20240923 - On the Art of Conversation with Paul Holdengräber and Andrea Hiott： A Personal Exploration AUDIO.vtt
+├── 20240923 - Pattern Language & Place-synergy： Christopher Alexander, David Seamon, Andrea Hiott Audio Only.json
+├── 20240923 - Pattern Language & Place-synergy： Christopher Alexander, David Seamon, Andrea Hiott Audio Only.mp3
+├── 20240923 - Pattern Language & Place-synergy： Christopher Alexander, David Seamon, Andrea Hiott Audio Only.srt
+├── 20240923 - Pattern Language & Place-synergy： Christopher Alexander, David Seamon, Andrea Hiott Audio Only.tsv
+├── 20240923 - Pattern Language & Place-synergy： Christopher Alexander, David Seamon, Andrea Hiott Audio Only.txt
+├── 20240923 - Pattern Language & Place-synergy： Christopher Alexander, David Seamon, Andrea Hiott Audio Only.vtt
+├── 20240923 - Powers of Focus with C. Thi Nguyen and Andrea Hiott Audio Only.json
+├── 20240923 - Powers of Focus with C. Thi Nguyen and Andrea Hiott Audio Only.mp3
+├── 20240923 - Powers of Focus with C. Thi Nguyen and Andrea Hiott Audio Only.srt
+├── 20240923 - Powers of Focus with C. Thi Nguyen and Andrea Hiott Audio Only.tsv
+├── 20240923 - Powers of Focus with C. Thi Nguyen and Andrea Hiott Audio Only.txt
+├── 20240923 - Powers of Focus with C. Thi Nguyen and Andrea Hiott Audio Only.vtt
+├── 20240923 - Remembering Human Resilience in the age of A.I. with Maria Santacaterina AUDIO Podcast.json
+├── 20240923 - Remembering Human Resilience in the age of A.I. with Maria Santacaterina AUDIO Podcast.mp3
+├── 20240923 - Remembering Human Resilience in the age of A.I. with Maria Santacaterina AUDIO Podcast.srt
+├── 20240923 - Remembering Human Resilience in the age of A.I. with Maria Santacaterina AUDIO Podcast.tsv
+├── 20240923 - Remembering Human Resilience in the age of A.I. with Maria Santacaterina AUDIO Podcast.txt
+├── 20240923 - Remembering Human Resilience in the age of A.I. with Maria Santacaterina AUDIO Podcast.vtt
+├── 20240923 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott Audio Podcast.json
+├── 20240923 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott Audio Podcast.mp3
+├── 20240923 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott Audio Podcast.srt
+├── 20240923 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott Audio Podcast.tsv
+├── 20240923 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott Audio Podcast.txt
+├── 20240923 - Saving Yourself by Being Yourself with Darryl Pinckney and Andrea Hiott Audio Podcast.vtt
+├── 20240923 - Shamanic Thinking and Any Human Power Audio： Creating Thrutopia with Manda Scott & Andrea Hiott.json
+├── 20240923 - Shamanic Thinking and Any Human Power Audio： Creating Thrutopia with Manda Scott & Andrea Hiott.mp3
+├── 20240923 - Shamanic Thinking and Any Human Power Audio： Creating Thrutopia with Manda Scott & Andrea Hiott.srt
+├── 20240923 - Shamanic Thinking and Any Human Power Audio： Creating Thrutopia with Manda Scott & Andrea Hiott.tsv
+├── 20240923 - Shamanic Thinking and Any Human Power Audio： Creating Thrutopia with Manda Scott & Andrea Hiott.txt
+├── 20240923 - Shamanic Thinking and Any Human Power Audio： Creating Thrutopia with Manda Scott & Andrea Hiott.vtt
+├── 20240923 - Spiral Ladders of Love, Poetry and Reconciliation with Iain McGilchrist & Andrea Hiott Audio Podcast.json
+├── 20240923 - Spiral Ladders of Love, Poetry and Reconciliation with Iain McGilchrist & Andrea Hiott Audio Podcast.mp3
+├── 20240923 - Spiral Ladders of Love, Poetry and Reconciliation with Iain McGilchrist & Andrea Hiott Audio Podcast.srt
+├── 20240923 - Spiral Ladders of Love, Poetry and Reconciliation with Iain McGilchrist & Andrea Hiott Audio Podcast.tsv
+├── 20240923 - Spiral Ladders of Love, Poetry and Reconciliation with Iain McGilchrist & Andrea Hiott Audio Podcast.txt
+├── 20240923 - Spiral Ladders of Love, Poetry and Reconciliation with Iain McGilchrist & Andrea Hiott Audio Podcast.vtt
+├── 20240923 - Taking Category Theory to Heart： The Personal Side of Mathematics with Brandon Baylor Audio podcast.json
+├── 20240923 - Taking Category Theory to Heart： The Personal Side of Mathematics with Brandon Baylor Audio podcast.mp3
+├── 20240923 - Taking Category Theory to Heart： The Personal Side of Mathematics with Brandon Baylor Audio podcast.srt
+├── 20240923 - Taking Category Theory to Heart： The Personal Side of Mathematics with Brandon Baylor Audio podcast.tsv
+├── 20240923 - Taking Category Theory to Heart： The Personal Side of Mathematics with Brandon Baylor Audio podcast.txt
+├── 20240923 - Taking Category Theory to Heart： The Personal Side of Mathematics with Brandon Baylor Audio podcast.vtt
+├── 20240923 - Wanting the world without drowning in it with Lisa Fitzhugh and Andrea Hiott Audio Only.json
+├── 20240923 - Wanting the world without drowning in it with Lisa Fitzhugh and Andrea Hiott Audio Only.mp3
+├── 20240923 - Wanting the world without drowning in it with Lisa Fitzhugh and Andrea Hiott Audio Only.srt
+├── 20240923 - Wanting the world without drowning in it with Lisa Fitzhugh and Andrea Hiott Audio Only.tsv
+├── 20240923 - Wanting the world without drowning in it with Lisa Fitzhugh and Andrea Hiott Audio Only.txt
+├── 20240923 - Wanting the world without drowning in it with Lisa Fitzhugh and Andrea Hiott Audio Only.vtt
+├── 20240923 - What Can a Computer Be？ with Flora Moon, Esteban Montero, and Andrea Hiott Audio Only.json
+├── 20240923 - What Can a Computer Be？ with Flora Moon, Esteban Montero, and Andrea Hiott Audio Only.mp3
+├── 20240923 - What Can a Computer Be？ with Flora Moon, Esteban Montero, and Andrea Hiott Audio Only.srt
+├── 20240923 - What Can a Computer Be？ with Flora Moon, Esteban Montero, and Andrea Hiott Audio Only.tsv
+├── 20240923 - What Can a Computer Be？ with Flora Moon, Esteban Montero, and Andrea Hiott Audio Only.txt
+├── 20240923 - What Can a Computer Be？ with Flora Moon, Esteban Montero, and Andrea Hiott Audio Only.vtt
+├── 20240923 - What if we can model cognition？ And what is a model anyway？ Audio with Paul Kelly & Andrea Hiott.json
+├── 20240923 - What if we can model cognition？ And what is a model anyway？ Audio with Paul Kelly & Andrea Hiott.mp3
+├── 20240923 - What if we can model cognition？ And what is a model anyway？ Audio with Paul Kelly & Andrea Hiott.srt
+├── 20240923 - What if we can model cognition？ And what is a model anyway？ Audio with Paul Kelly & Andrea Hiott.tsv
+├── 20240923 - What if we can model cognition？ And what is a model anyway？ Audio with Paul Kelly & Andrea Hiott.txt
+├── 20240923 - What if we can model cognition？ And what is a model anyway？ Audio with Paul Kelly & Andrea Hiott.vtt
+├── 20240923 - What is Intelligence？ Max Bennett on Brains, Evolution, and A.I. AUDIO Podcast.json
+├── 20240923 - What is Intelligence？ Max Bennett on Brains, Evolution, and A.I. AUDIO Podcast.mp3
+├── 20240923 - What is Intelligence？ Max Bennett on Brains, Evolution, and A.I. AUDIO Podcast.srt
+├── 20240923 - What is Intelligence？ Max Bennett on Brains, Evolution, and A.I. AUDIO Podcast.tsv
+├── 20240923 - What is Intelligence？ Max Bennett on Brains, Evolution, and A.I. AUDIO Podcast.txt
+├── 20240923 - What is Intelligence？ Max Bennett on Brains, Evolution, and A.I. AUDIO Podcast.vtt
+├── 20240925 - Is there any Positive Power in Polarity？ Rethinking opposition in design with Alastair Duckworth.json
+├── 20240925 - Is there any Positive Power in Polarity？ Rethinking opposition in design with Alastair Duckworth.mp3
+├── 20240925 - Is there any Positive Power in Polarity？ Rethinking opposition in design with Alastair Duckworth.srt
+├── 20240925 - Is there any Positive Power in Polarity？ Rethinking opposition in design with Alastair Duckworth.tsv
+├── 20240925 - Is there any Positive Power in Polarity？ Rethinking opposition in design with Alastair Duckworth.txt
+├── 20240925 - Is there any Positive Power in Polarity？ Rethinking opposition in design with Alastair Duckworth.vtt
+├── 20240926 - The Power of Polarity in Design and Life with Alastair Duckworth and Andrea Hiott.json
+├── 20240926 - The Power of Polarity in Design and Life with Alastair Duckworth and Andrea Hiott.mp3
+├── 20240926 - The Power of Polarity in Design and Life with Alastair Duckworth and Andrea Hiott.srt
+├── 20240926 - The Power of Polarity in Design and Life with Alastair Duckworth and Andrea Hiott.tsv
+├── 20240926 - The Power of Polarity in Design and Life with Alastair Duckworth and Andrea Hiott.txt
+├── 20240926 - The Power of Polarity in Design and Life with Alastair Duckworth and Andrea Hiott.vtt
+├── 20241002 - Planta Sapiens and Rethinking Intelligence with Paco Calvo.json
+├── 20241002 - Planta Sapiens and Rethinking Intelligence with Paco Calvo.mp3
+├── 20241002 - Planta Sapiens and Rethinking Intelligence with Paco Calvo.srt
+├── 20241002 - Planta Sapiens and Rethinking Intelligence with Paco Calvo.tsv
+├── 20241002 - Planta Sapiens and Rethinking Intelligence with Paco Calvo.txt
+├── 20241002 - Planta Sapiens and Rethinking Intelligence with Paco Calvo.vtt
+├── 20241002 - The Potentials of Plant Sentience with Paco Calvo Audio Podcast.json
+├── 20241002 - The Potentials of Plant Sentience with Paco Calvo Audio Podcast.mp3
+├── 20241002 - The Potentials of Plant Sentience with Paco Calvo Audio Podcast.srt
+├── 20241002 - The Potentials of Plant Sentience with Paco Calvo Audio Podcast.tsv
+├── 20241002 - The Potentials of Plant Sentience with Paco Calvo Audio Podcast.txt
+├── 20241002 - The Potentials of Plant Sentience with Paco Calvo Audio Podcast.vtt
+├── 20241009 - The Synchrony of Fractals： Georg Northoff and Andrea Hiott discuss Spatiotemporal Neuroscience.json
+├── 20241009 - The Synchrony of Fractals： Georg Northoff and Andrea Hiott discuss Spatiotemporal Neuroscience.mp3
+├── 20241009 - The Synchrony of Fractals： Georg Northoff and Andrea Hiott discuss Spatiotemporal Neuroscience.srt
+├── 20241009 - The Synchrony of Fractals： Georg Northoff and Andrea Hiott discuss Spatiotemporal Neuroscience.tsv
+├── 20241009 - The Synchrony of Fractals： Georg Northoff and Andrea Hiott discuss Spatiotemporal Neuroscience.txt
+├── 20241009 - The Synchrony of Fractals： Georg Northoff and Andrea Hiott discuss Spatiotemporal Neuroscience.vtt
+├── 20241010 - Synchronizing Mind, Nature, and Neuroscience： Spacetime Experimentation with Georg Northoff AUDIO.json
+├── 20241010 - Synchronizing Mind, Nature, and Neuroscience： Spacetime Experimentation with Georg Northoff AUDIO.mp3
+├── 20241010 - Synchronizing Mind, Nature, and Neuroscience： Spacetime Experimentation with Georg Northoff AUDIO.srt
+├── 20241010 - Synchronizing Mind, Nature, and Neuroscience： Spacetime Experimentation with Georg Northoff AUDIO.tsv
+├── 20241010 - Synchronizing Mind, Nature, and Neuroscience： Spacetime Experimentation with Georg Northoff AUDIO.txt
+├── 20241010 - Synchronizing Mind, Nature, and Neuroscience： Spacetime Experimentation with Georg Northoff AUDIO.vtt
+├── 20241013 - Bonus： More than an Illusion, Part Two with Fred Cummins and Andrea.json
+├── 20241013 - Bonus： More than an Illusion, Part Two with Fred Cummins and Andrea.mp3
+├── 20241013 - Bonus： More than an Illusion, Part Two with Fred Cummins and Andrea.srt
+├── 20241013 - Bonus： More than an Illusion, Part Two with Fred Cummins and Andrea.tsv
+├── 20241013 - Bonus： More than an Illusion, Part Two with Fred Cummins and Andrea.txt
+├── 20241013 - Bonus： More than an Illusion, Part Two with Fred Cummins and Andrea.vtt
+├── 20241016 - Phenomenology, Cognitive Science, and Authenticity with Michael Wheeler.json
+├── 20241016 - Phenomenology, Cognitive Science, and Authenticity with Michael Wheeler.mp3
+├── 20241016 - Phenomenology, Cognitive Science, and Authenticity with Michael Wheeler.srt
+├── 20241016 - Phenomenology, Cognitive Science, and Authenticity with Michael Wheeler.tsv
+├── 20241016 - Phenomenology, Cognitive Science, and Authenticity with Michael Wheeler.txt
+├── 20241016 - Phenomenology, Cognitive Science, and Authenticity with Michael Wheeler.vtt
+├── 20241017 - Heideggerian Robots of Phenomenology and Cognitive Science with Michael Wheeler AUDIO.json
+├── 20241017 - Heideggerian Robots of Phenomenology and Cognitive Science with Michael Wheeler AUDIO.mp3
+├── 20241017 - Heideggerian Robots of Phenomenology and Cognitive Science with Michael Wheeler AUDIO.srt
+├── 20241017 - Heideggerian Robots of Phenomenology and Cognitive Science with Michael Wheeler AUDIO.tsv
+├── 20241017 - Heideggerian Robots of Phenomenology and Cognitive Science with Michael Wheeler AUDIO.txt
+├── 20241017 - Heideggerian Robots of Phenomenology and Cognitive Science with Michael Wheeler AUDIO.vtt
+├── 20241020 - Embracing Everyday Battles： Sheng-Hung Lee on Life, Longevity, and Human Connection.json
+├── 20241020 - Embracing Everyday Battles： Sheng-Hung Lee on Life, Longevity, and Human Connection.mp3
+├── 20241020 - Embracing Everyday Battles： Sheng-Hung Lee on Life, Longevity, and Human Connection.srt
+├── 20241020 - Embracing Everyday Battles： Sheng-Hung Lee on Life, Longevity, and Human Connection.tsv
+├── 20241020 - Embracing Everyday Battles： Sheng-Hung Lee on Life, Longevity, and Human Connection.txt
+├── 20241020 - Embracing Everyday Battles： Sheng-Hung Lee on Life, Longevity, and Human Connection.vtt
+├── 20241022 - The Source of Consciousness is Feeling. With neuropsychologist Mark Solms..json
+├── 20241022 - The Source of Consciousness is Feeling. With neuropsychologist Mark Solms..mp3
+├── 20241022 - The Source of Consciousness is Feeling. With neuropsychologist Mark Solms..srt
+├── 20241022 - The Source of Consciousness is Feeling. With neuropsychologist Mark Solms..tsv
+├── 20241022 - The Source of Consciousness is Feeling. With neuropsychologist Mark Solms..txt
+├── 20241022 - The Source of Consciousness is Feeling. With neuropsychologist Mark Solms..vtt
+├── 20241023 - Embracing Everyday Battles： Design as Philosophy with Sheng-Hung Lee AUDIO ONLY.json
+├── 20241023 - Embracing Everyday Battles： Design as Philosophy with Sheng-Hung Lee AUDIO ONLY.mp3
+├── 20241023 - Embracing Everyday Battles： Design as Philosophy with Sheng-Hung Lee AUDIO ONLY.srt
+├── 20241023 - Embracing Everyday Battles： Design as Philosophy with Sheng-Hung Lee AUDIO ONLY.tsv
+├── 20241023 - Embracing Everyday Battles： Design as Philosophy with Sheng-Hung Lee AUDIO ONLY.txt
+├── 20241023 - Embracing Everyday Battles： Design as Philosophy with Sheng-Hung Lee AUDIO ONLY.vtt
+├── 20241027 - Rethinking Systems with Love： The Economics of Tomorrow with Paddy LeFlufy.json
+├── 20241027 - Rethinking Systems with Love： The Economics of Tomorrow with Paddy LeFlufy.mp3
+├── 20241027 - Rethinking Systems with Love： The Economics of Tomorrow with Paddy LeFlufy.srt
+├── 20241027 - Rethinking Systems with Love： The Economics of Tomorrow with Paddy LeFlufy.tsv
+├── 20241027 - Rethinking Systems with Love： The Economics of Tomorrow with Paddy LeFlufy.txt
+├── 20241027 - Rethinking Systems with Love： The Economics of Tomorrow with Paddy LeFlufy.vtt
+├── 20241030 - #36： Feeling into the Source of Self with neuropsychologist Mark Solms.json
+├── 20241030 - #36： Feeling into the Source of Self with neuropsychologist Mark Solms.mp3
+├── 20241030 - #36： Feeling into the Source of Self with neuropsychologist Mark Solms.srt
+├── 20241030 - #36： Feeling into the Source of Self with neuropsychologist Mark Solms.tsv
+├── 20241030 - #36： Feeling into the Source of Self with neuropsychologist Mark Solms.txt
+├── 20241030 - #36： Feeling into the Source of Self with neuropsychologist Mark Solms.vtt
+├── 20241103 - Entanglement with Alva Noë： Striving with Problems and the Balm of Philosophy.json
+├── 20241103 - Entanglement with Alva Noë： Striving with Problems and the Balm of Philosophy.mp3
+├── 20241103 - Entanglement with Alva Noë： Striving with Problems and the Balm of Philosophy.srt
+├── 20241103 - Entanglement with Alva Noë： Striving with Problems and the Balm of Philosophy.tsv
+├── 20241103 - Entanglement with Alva Noë： Striving with Problems and the Balm of Philosophy.txt
+├── 20241103 - Entanglement with Alva Noë： Striving with Problems and the Balm of Philosophy.vtt
+├── 20241105 - Discussing Representation in Neuroscience with Lynn Nadel & Andrea Hiott.json
+├── 20241105 - Discussing Representation in Neuroscience with Lynn Nadel & Andrea Hiott.mp3
+├── 20241105 - Discussing Representation in Neuroscience with Lynn Nadel & Andrea Hiott.srt
+├── 20241105 - Discussing Representation in Neuroscience with Lynn Nadel & Andrea Hiott.tsv
+├── 20241105 - Discussing Representation in Neuroscience with Lynn Nadel & Andrea Hiott.txt
+├── 20241105 - Discussing Representation in Neuroscience with Lynn Nadel & Andrea Hiott.vtt
+├── 20241107 - #37： Our Entanglement： Striving with problems (in a good way) with philosopher Alva Noë.json
+├── 20241107 - #37： Our Entanglement： Striving with problems (in a good way) with philosopher Alva Noë.mp3
+├── 20241107 - #37： Our Entanglement： Striving with problems (in a good way) with philosopher Alva Noë.srt
+├── 20241107 - #37： Our Entanglement： Striving with problems (in a good way) with philosopher Alva Noë.tsv
+├── 20241107 - #37： Our Entanglement： Striving with problems (in a good way) with philosopher Alva Noë.txt
+├── 20241107 - #37： Our Entanglement： Striving with problems (in a good way) with philosopher Alva Noë.vtt
+├── 20241111 - Bernardo Kastrup & Andrea Hiott in discussion November 10th Live Audio (see advisory).json
+├── 20241111 - Bernardo Kastrup & Andrea Hiott in discussion November 10th Live Audio (see advisory).mp3
+├── 20241111 - Bernardo Kastrup & Andrea Hiott in discussion November 10th Live Audio (see advisory).srt
+├── 20241111 - Bernardo Kastrup & Andrea Hiott in discussion November 10th Live Audio (see advisory).tsv
+├── 20241111 - Bernardo Kastrup & Andrea Hiott in discussion November 10th Live Audio (see advisory).txt
+├── 20241111 - Bernardo Kastrup & Andrea Hiott in discussion November 10th Live Audio (see advisory).vtt
+├── 20241111 - What is happening in this world？ Bernardo Kastrup on November 10th, 2024.json
+├── 20241111 - What is happening in this world？ Bernardo Kastrup on November 10th, 2024.mp3
+├── 20241111 - What is happening in this world？ Bernardo Kastrup on November 10th, 2024.srt
+├── 20241111 - What is happening in this world？ Bernardo Kastrup on November 10th, 2024.tsv
+├── 20241111 - What is happening in this world？ Bernardo Kastrup on November 10th, 2024.txt
+├── 20241111 - What is happening in this world？ Bernardo Kastrup on November 10th, 2024.vtt
+├── 20241112 - Could individual consciousness be a dissociation of the source？ with Bernardo Kastrup.json
+├── 20241112 - Could individual consciousness be a dissociation of the source？ with Bernardo Kastrup.mp3
+├── 20241112 - Could individual consciousness be a dissociation of the source？ with Bernardo Kastrup.srt
+├── 20241112 - Could individual consciousness be a dissociation of the source？ with Bernardo Kastrup.tsv
+├── 20241112 - Could individual consciousness be a dissociation of the source？ with Bernardo Kastrup.txt
+├── 20241112 - Could individual consciousness be a dissociation of the source？ with Bernardo Kastrup.vtt
+├── 20241114 - What is consciousness？ What are saying when we talk about it？ with Bernardo Kastrup and Andrea Hiott.json
+├── 20241114 - What is consciousness？ What are saying when we talk about it？ with Bernardo Kastrup and Andrea Hiott.mp3
+├── 20241114 - What is consciousness？ What are saying when we talk about it？ with Bernardo Kastrup and Andrea Hiott.srt
+├── 20241114 - What is consciousness？ What are saying when we talk about it？ with Bernardo Kastrup and Andrea Hiott.tsv
+├── 20241114 - What is consciousness？ What are saying when we talk about it？ with Bernardo Kastrup and Andrea Hiott.txt
+├── 20241114 - What is consciousness？ What are saying when we talk about it？ with Bernardo Kastrup and Andrea Hiott.vtt
+├── 20241119 - Holding paradox： Can we enter a new way of thinking？.json
+├── 20241119 - Holding paradox： Can we enter a new way of thinking？.mp3
+├── 20241119 - Holding paradox： Can we enter a new way of thinking？.srt
+├── 20241119 - Holding paradox： Can we enter a new way of thinking？.tsv
+├── 20241119 - Holding paradox： Can we enter a new way of thinking？.txt
+├── 20241119 - Holding paradox： Can we enter a new way of thinking？.vtt
+├── 20241121 - #39： The Real World and its Many Models with philosopher Michela Massimi.json
+├── 20241121 - #39： The Real World and its Many Models with philosopher Michela Massimi.mp3
+├── 20241121 - #39： The Real World and its Many Models with philosopher Michela Massimi.srt
+├── 20241121 - #39： The Real World and its Many Models with philosopher Michela Massimi.tsv
+├── 20241121 - #39： The Real World and its Many Models with philosopher Michela Massimi.txt
+├── 20241121 - #39： The Real World and its Many Models with philosopher Michela Massimi.vtt
+├── 20241121 - Holding Paradox： Beyond Dichotomies #holdingparadox.json
+├── 20241121 - Holding Paradox： Beyond Dichotomies #holdingparadox.mp3
+├── 20241121 - Holding Paradox： Beyond Dichotomies #holdingparadox.srt
+├── 20241121 - Holding Paradox： Beyond Dichotomies #holdingparadox.tsv
+├── 20241121 - Holding Paradox： Beyond Dichotomies #holdingparadox.txt
+├── 20241121 - Holding Paradox： Beyond Dichotomies #holdingparadox.vtt
+├── 20241123 - Rethinking Models of Reality with philosopher Michela Massimi and Andrea Hiott.json
+├── 20241123 - Rethinking Models of Reality with philosopher Michela Massimi and Andrea Hiott.mp3
+├── 20241123 - Rethinking Models of Reality with philosopher Michela Massimi and Andrea Hiott.srt
+├── 20241123 - Rethinking Models of Reality with philosopher Michela Massimi and Andrea Hiott.tsv
+├── 20241123 - Rethinking Models of Reality with philosopher Michela Massimi and Andrea Hiott.txt
+├── 20241123 - Rethinking Models of Reality with philosopher Michela Massimi and Andrea Hiott.vtt
+├── 20241128 - All Those Yesterdays： a lifelong conversation with poet-philosopher John Koethe and Andrea Hiott.json
+├── 20241128 - All Those Yesterdays： a lifelong conversation with poet-philosopher John Koethe and Andrea Hiott.mp3
+├── 20241128 - All Those Yesterdays： a lifelong conversation with poet-philosopher John Koethe and Andrea Hiott.srt
+├── 20241128 - All Those Yesterdays： a lifelong conversation with poet-philosopher John Koethe and Andrea Hiott.tsv
+├── 20241128 - All Those Yesterdays： a lifelong conversation with poet-philosopher John Koethe and Andrea Hiott.txt
+├── 20241128 - All Those Yesterdays： a lifelong conversation with poet-philosopher John Koethe and Andrea Hiott.vtt
+├── 20241130 - What is this？ Embracing paradox in everyday life？ Love & Philosophy with Andrea Hiott.json
+├── 20241130 - What is this？ Embracing paradox in everyday life？ Love & Philosophy with Andrea Hiott.mp3
+├── 20241130 - What is this？ Embracing paradox in everyday life？ Love & Philosophy with Andrea Hiott.srt
+├── 20241130 - What is this？ Embracing paradox in everyday life？ Love & Philosophy with Andrea Hiott.tsv
+├── 20241130 - What is this？ Embracing paradox in everyday life？ Love & Philosophy with Andrea Hiott.txt
+├── 20241130 - What is this？ Embracing paradox in everyday life？ Love & Philosophy with Andrea Hiott.vtt
+├── 20241201 - Paths of Power and Paradox with Minna Salami and Andrea Hiott： On Sensuous Knowledge.json
+├── 20241201 - Paths of Power and Paradox with Minna Salami and Andrea Hiott： On Sensuous Knowledge.mp3
+├── 20241201 - Paths of Power and Paradox with Minna Salami and Andrea Hiott： On Sensuous Knowledge.srt
+├── 20241201 - Paths of Power and Paradox with Minna Salami and Andrea Hiott： On Sensuous Knowledge.tsv
+├── 20241201 - Paths of Power and Paradox with Minna Salami and Andrea Hiott： On Sensuous Knowledge.txt
+├── 20241201 - Paths of Power and Paradox with Minna Salami and Andrea Hiott： On Sensuous Knowledge.vtt
+├── 20241204 - Double Consciousness, Power and the Paths of Paradox with Minna Salami and Andrea Hiott.json
+├── 20241204 - Double Consciousness, Power and the Paths of Paradox with Minna Salami and Andrea Hiott.mp3
+├── 20241204 - Double Consciousness, Power and the Paths of Paradox with Minna Salami and Andrea Hiott.srt
+├── 20241204 - Double Consciousness, Power and the Paths of Paradox with Minna Salami and Andrea Hiott.tsv
+├── 20241204 - Double Consciousness, Power and the Paths of Paradox with Minna Salami and Andrea Hiott.txt
+├── 20241204 - Double Consciousness, Power and the Paths of Paradox with Minna Salami and Andrea Hiott.vtt
+├── 20241211 - #42： Academic dissonance, unexpected paths & process with neuroscientist and Brain Inspired Paul ....json
+├── 20241211 - #42： Academic dissonance, unexpected paths & process with neuroscientist and Brain Inspired Paul ....mp3
+├── 20241211 - #42： Academic dissonance, unexpected paths & process with neuroscientist and Brain Inspired Paul ....srt
+├── 20241211 - #42： Academic dissonance, unexpected paths & process with neuroscientist and Brain Inspired Paul ....tsv
+├── 20241211 - #42： Academic dissonance, unexpected paths & process with neuroscientist and Brain Inspired Paul ....txt
+├── 20241211 - #42： Academic dissonance, unexpected paths & process with neuroscientist and Brain Inspired Paul ....vtt
+├── 20241213 - Starting over in academia and being Brain Inspired with Paul Middlebrooks.json
+├── 20241213 - Starting over in academia and being Brain Inspired with Paul Middlebrooks.mp3
+├── 20241213 - Starting over in academia and being Brain Inspired with Paul Middlebrooks.srt
+├── 20241213 - Starting over in academia and being Brain Inspired with Paul Middlebrooks.tsv
+├── 20241213 - Starting over in academia and being Brain Inspired with Paul Middlebrooks.txt
+├── 20241213 - Starting over in academia and being Brain Inspired with Paul Middlebrooks.vtt
+├── 20241219 - Environment is Not in the Head： Why everyone is talking about 'affordances' with Harry Heft & Andrea.json
+├── 20241219 - Environment is Not in the Head： Why everyone is talking about 'affordances' with Harry Heft & Andrea.mp3
+├── 20241219 - Environment is Not in the Head： Why everyone is talking about 'affordances' with Harry Heft & Andrea.srt
+├── 20241219 - Environment is Not in the Head： Why everyone is talking about 'affordances' with Harry Heft & Andrea.tsv
+├── 20241219 - Environment is Not in the Head： Why everyone is talking about 'affordances' with Harry Heft & Andrea.txt
+├── 20241219 - Environment is Not in the Head： Why everyone is talking about 'affordances' with Harry Heft & Andrea.vtt
+├── 20241220 - Why everyone is talking about 'affordances' with Harry Heft and Andrea Hiott： Driving Gibson.json
+├── 20241220 - Why everyone is talking about 'affordances' with Harry Heft and Andrea Hiott： Driving Gibson.mp3
+├── 20241220 - Why everyone is talking about 'affordances' with Harry Heft and Andrea Hiott： Driving Gibson.srt
+├── 20241220 - Why everyone is talking about 'affordances' with Harry Heft and Andrea Hiott： Driving Gibson.tsv
+├── 20241220 - Why everyone is talking about 'affordances' with Harry Heft and Andrea Hiott： Driving Gibson.txt
+├── 20241220 - Why everyone is talking about 'affordances' with Harry Heft and Andrea Hiott： Driving Gibson.vtt
+├── 20241224 - Consciousness cannot be cut： Hiott Research Diary six, pre & post conversation with Bernardo Kastrup.json
+├── 20241224 - Consciousness cannot be cut： Hiott Research Diary six, pre & post conversation with Bernardo Kastrup.mp3
+├── 20241224 - Consciousness cannot be cut： Hiott Research Diary six, pre & post conversation with Bernardo Kastrup.srt
+├── 20241224 - Consciousness cannot be cut： Hiott Research Diary six, pre & post conversation with Bernardo Kastrup.tsv
+├── 20241224 - Consciousness cannot be cut： Hiott Research Diary six, pre & post conversation with Bernardo Kastrup.txt
+├── 20241224 - Consciousness cannot be cut： Hiott Research Diary six, pre & post conversation with Bernardo Kastrup.vtt
+├── 20241225 - #44： The Flow of Life： An Unusual Winter Walk with Karl Friston and his Free Energy Principle.json
+├── 20241225 - #44： The Flow of Life： An Unusual Winter Walk with Karl Friston and his Free Energy Principle.mp3
+├── 20241225 - #44： The Flow of Life： An Unusual Winter Walk with Karl Friston and his Free Energy Principle.srt
+├── 20241225 - #44： The Flow of Life： An Unusual Winter Walk with Karl Friston and his Free Energy Principle.tsv
+├── 20241225 - #44： The Flow of Life： An Unusual Winter Walk with Karl Friston and his Free Energy Principle.txt
+├── 20241225 - #44： The Flow of Life： An Unusual Winter Walk with Karl Friston and his Free Energy Principle.vtt
+├── 20241227 - Flow, the Free Energy Principle & other Potentials of the Universe with Karl Friston & Andrea Hiott.json
+├── 20241227 - Flow, the Free Energy Principle & other Potentials of the Universe with Karl Friston & Andrea Hiott.mp3
+├── 20241227 - Flow, the Free Energy Principle & other Potentials of the Universe with Karl Friston & Andrea Hiott.srt
+├── 20241227 - Flow, the Free Energy Principle & other Potentials of the Universe with Karl Friston & Andrea Hiott.tsv
+├── 20241227 - Flow, the Free Energy Principle & other Potentials of the Universe with Karl Friston & Andrea Hiott.txt
+├── 20241227 - Flow, the Free Energy Principle & other Potentials of the Universe with Karl Friston & Andrea Hiott.vtt
+├── 20241227 - The Self in Oscillation, A Poet's Life with John Koethe and Andrea Hiott.json
+├── 20241227 - The Self in Oscillation, A Poet's Life with John Koethe and Andrea Hiott.mp3
+├── 20241227 - The Self in Oscillation, A Poet's Life with John Koethe and Andrea Hiott.srt
+├── 20241227 - The Self in Oscillation, A Poet's Life with John Koethe and Andrea Hiott.tsv
+├── 20241227 - The Self in Oscillation, A Poet's Life with John Koethe and Andrea Hiott.txt
+├── 20241227 - The Self in Oscillation, A Poet's Life with John Koethe and Andrea Hiott.vtt
+├── 20250101 - Beyond the Blind Spot with Philosopher Evan Thompson.json
+├── 20250101 - Beyond the Blind Spot with Philosopher Evan Thompson.mp3
+├── 20250101 - Beyond the Blind Spot with Philosopher Evan Thompson.srt
+├── 20250101 - Beyond the Blind Spot with Philosopher Evan Thompson.tsv
+├── 20250101 - Beyond the Blind Spot with Philosopher Evan Thompson.txt
+├── 20250101 - Beyond the Blind Spot with Philosopher Evan Thompson.vtt
+├── 20250102 - Moving Beyond the Blind Spot： Seeing what we don't see with Evan Thompson and Andrea Hiott.json
+├── 20250102 - Moving Beyond the Blind Spot： Seeing what we don't see with Evan Thompson and Andrea Hiott.mp3
+├── 20250102 - Moving Beyond the Blind Spot： Seeing what we don't see with Evan Thompson and Andrea Hiott.srt
+├── 20250102 - Moving Beyond the Blind Spot： Seeing what we don't see with Evan Thompson and Andrea Hiott.tsv
+├── 20250102 - Moving Beyond the Blind Spot： Seeing what we don't see with Evan Thompson and Andrea Hiott.txt
+├── 20250102 - Moving Beyond the Blind Spot： Seeing what we don't see with Evan Thompson and Andrea Hiott.vtt
+├── 20250115 - #46： Rhythms of Nature & Love： Hegel's Concept of Life with philosopher Karen Ng.json
+├── 20250115 - #46： Rhythms of Nature & Love： Hegel's Concept of Life with philosopher Karen Ng.mp3
+├── 20250115 - #46： Rhythms of Nature & Love： Hegel's Concept of Life with philosopher Karen Ng.srt
+├── 20250115 - #46： Rhythms of Nature & Love： Hegel's Concept of Life with philosopher Karen Ng.tsv
+├── 20250115 - #46： Rhythms of Nature & Love： Hegel's Concept of Life with philosopher Karen Ng.txt
+├── 20250115 - #46： Rhythms of Nature & Love： Hegel's Concept of Life with philosopher Karen Ng.vtt
+├── 20250116 - Patterns in the Movement： Hegel's Concept of Life & Problem of Contradiction with Karen Ng & A Hiott.json
+├── 20250116 - Patterns in the Movement： Hegel's Concept of Life & Problem of Contradiction with Karen Ng & A Hiott.mp3
+├── 20250116 - Patterns in the Movement： Hegel's Concept of Life & Problem of Contradiction with Karen Ng & A Hiott.srt
+├── 20250116 - Patterns in the Movement： Hegel's Concept of Life & Problem of Contradiction with Karen Ng & A Hiott.tsv
+├── 20250116 - Patterns in the Movement： Hegel's Concept of Life & Problem of Contradiction with Karen Ng & A Hiott.txt
+├── 20250116 - Patterns in the Movement： Hegel's Concept of Life & Problem of Contradiction with Karen Ng & A Hiott.vtt
+├── 20250124 - #47： Love Beyond Subject and Object with therapist & neuroscientist Mark Solms.json
+├── 20250124 - #47： Love Beyond Subject and Object with therapist & neuroscientist Mark Solms.mp3
+├── 20250124 - #47： Love Beyond Subject and Object with therapist & neuroscientist Mark Solms.srt
+├── 20250124 - #47： Love Beyond Subject and Object with therapist & neuroscientist Mark Solms.tsv
+├── 20250124 - #47： Love Beyond Subject and Object with therapist & neuroscientist Mark Solms.txt
+├── 20250124 - #47： Love Beyond Subject and Object with therapist & neuroscientist Mark Solms.vtt
+├── 20250125 - Research Diary #8： Hegel and the inspiration of 'aufheben' #aufhebung #philosophy #practice.json
+├── 20250125 - Research Diary #8： Hegel and the inspiration of 'aufheben' #aufhebung #philosophy #practice.mp3
+├── 20250125 - Research Diary #8： Hegel and the inspiration of 'aufheben' #aufhebung #philosophy #practice.srt
+├── 20250125 - Research Diary #8： Hegel and the inspiration of 'aufheben' #aufhebung #philosophy #practice.tsv
+├── 20250125 - Research Diary #8： Hegel and the inspiration of 'aufheben' #aufhebung #philosophy #practice.txt
+├── 20250125 - Research Diary #8： Hegel and the inspiration of 'aufheben' #aufhebung #philosophy #practice.vtt
+├── 20250127 - #48： In Defense of the Human Being with Thomas Fuchs.json
+├── 20250127 - #48： In Defense of the Human Being with Thomas Fuchs.mp3
+├── 20250127 - #48： In Defense of the Human Being with Thomas Fuchs.srt
+├── 20250127 - #48： In Defense of the Human Being with Thomas Fuchs.tsv
+├── 20250127 - #48： In Defense of the Human Being with Thomas Fuchs.txt
+├── 20250127 - #48： In Defense of the Human Being with Thomas Fuchs.vtt
+├── 20250128 - Mark Solms on Love and Philosophy.json
+├── 20250128 - Mark Solms on Love and Philosophy.mp3
+├── 20250128 - Mark Solms on Love and Philosophy.srt
+├── 20250128 - Mark Solms on Love and Philosophy.tsv
+├── 20250128 - Mark Solms on Love and Philosophy.txt
+├── 20250128 - Mark Solms on Love and Philosophy.vtt
+├── 20250131 - #49： Empowerment in Robotics： Solo Brainstorm & AI Bonus Conversation with Dari Trendafilov.json
+├── 20250131 - #49： Empowerment in Robotics： Solo Brainstorm & AI Bonus Conversation with Dari Trendafilov.mp3
+├── 20250131 - #49： Empowerment in Robotics： Solo Brainstorm & AI Bonus Conversation with Dari Trendafilov.srt
+├── 20250131 - #49： Empowerment in Robotics： Solo Brainstorm & AI Bonus Conversation with Dari Trendafilov.tsv
+├── 20250131 - #49： Empowerment in Robotics： Solo Brainstorm & AI Bonus Conversation with Dari Trendafilov.txt
+├── 20250131 - #49： Empowerment in Robotics： Solo Brainstorm & AI Bonus Conversation with Dari Trendafilov.vtt
+├── 20250201 - Life nested within life： In Defence of the Human Being with philosopher & psychiatrist Thomas Fuchs.json
+├── 20250201 - Life nested within life： In Defence of the Human Being with philosopher & psychiatrist Thomas Fuchs.mp3
+├── 20250201 - Life nested within life： In Defence of the Human Being with philosopher & psychiatrist Thomas Fuchs.srt
+├── 20250201 - Life nested within life： In Defence of the Human Being with philosopher & psychiatrist Thomas Fuchs.tsv
+├── 20250201 - Life nested within life： In Defence of the Human Being with philosopher & psychiatrist Thomas Fuchs.txt
+├── 20250201 - Life nested within life： In Defence of the Human Being with philosopher & psychiatrist Thomas Fuchs.vtt
+├── 20250205 - Solo Brainstorm then Empowerment in Robotics with Dari Trendafilov #hci #informationtheory.json
+├── 20250205 - Solo Brainstorm then Empowerment in Robotics with Dari Trendafilov #hci #informationtheory.mp3
+├── 20250205 - Solo Brainstorm then Empowerment in Robotics with Dari Trendafilov #hci #informationtheory.srt
+├── 20250205 - Solo Brainstorm then Empowerment in Robotics with Dari Trendafilov #hci #informationtheory.tsv
+├── 20250205 - Solo Brainstorm then Empowerment in Robotics with Dari Trendafilov #hci #informationtheory.txt
+├── 20250205 - Solo Brainstorm then Empowerment in Robotics with Dari Trendafilov #hci #informationtheory.vtt
+├── 20250207 - Unscripted thoughts on our poentials, this evening's philosophical diary #love.json
+├── 20250207 - Unscripted thoughts on our poentials, this evening's philosophical diary #love.mp3
+├── 20250207 - Unscripted thoughts on our poentials, this evening's philosophical diary #love.srt
+├── 20250207 - Unscripted thoughts on our poentials, this evening's philosophical diary #love.tsv
+├── 20250207 - Unscripted thoughts on our poentials, this evening's philosophical diary #love.txt
+├── 20250207 - Unscripted thoughts on our poentials, this evening's philosophical diary #love.vtt
+├── 20250213 - #50： Love and Liberation in Times of Crisis with philosopher Rupert Read (and Wittgenstein).json
+├── 20250213 - #50： Love and Liberation in Times of Crisis with philosopher Rupert Read (and Wittgenstein).mp3
+├── 20250213 - #50： Love and Liberation in Times of Crisis with philosopher Rupert Read (and Wittgenstein).srt
+├── 20250213 - #50： Love and Liberation in Times of Crisis with philosopher Rupert Read (and Wittgenstein).tsv
+├── 20250213 - #50： Love and Liberation in Times of Crisis with philosopher Rupert Read (and Wittgenstein).txt
+├── 20250213 - #50： Love and Liberation in Times of Crisis with philosopher Rupert Read (and Wittgenstein).vtt
+├── 20250215 - Love and Liberation in Times of Crisis with Rupert Read and Andrea Hiott (and Wittgenstein).json
+├── 20250215 - Love and Liberation in Times of Crisis with Rupert Read and Andrea Hiott (and Wittgenstein).mp3
+├── 20250215 - Love and Liberation in Times of Crisis with Rupert Read and Andrea Hiott (and Wittgenstein).srt
+├── 20250215 - Love and Liberation in Times of Crisis with Rupert Read and Andrea Hiott (and Wittgenstein).tsv
+├── 20250215 - Love and Liberation in Times of Crisis with Rupert Read and Andrea Hiott (and Wittgenstein).txt
+├── 20250215 - Love and Liberation in Times of Crisis with Rupert Read and Andrea Hiott (and Wittgenstein).vtt
+├── 20250227 - #51： Body Knowledge with philosophers Shay Welch and Elena Cuffari.json
+├── 20250227 - #51： Body Knowledge with philosophers Shay Welch and Elena Cuffari.mp3
+├── 20250227 - #51： Body Knowledge with philosophers Shay Welch and Elena Cuffari.srt
+├── 20250227 - #51： Body Knowledge with philosophers Shay Welch and Elena Cuffari.tsv
+├── 20250227 - #51： Body Knowledge with philosophers Shay Welch and Elena Cuffari.txt
+├── 20250227 - #51： Body Knowledge with philosophers Shay Welch and Elena Cuffari.vtt
+├── 20250227 - What are the Es of Cognition？ Andrea Hiott 4E is Embodied, Embedded, Enactive, Extended, Ecological.json
+├── 20250227 - What are the Es of Cognition？ Andrea Hiott 4E is Embodied, Embedded, Enactive, Extended, Ecological.mp3
+├── 20250227 - What are the Es of Cognition？ Andrea Hiott 4E is Embodied, Embedded, Enactive, Extended, Ecological.srt
+├── 20250227 - What are the Es of Cognition？ Andrea Hiott 4E is Embodied, Embedded, Enactive, Extended, Ecological.tsv
+├── 20250227 - What are the Es of Cognition？ Andrea Hiott 4E is Embodied, Embedded, Enactive, Extended, Ecological.txt
+├── 20250227 - What are the Es of Cognition？ Andrea Hiott 4E is Embodied, Embedded, Enactive, Extended, Ecological.vtt
+├── 20250305 - #52： We Are Not Machines! Agency & Science beyond Computationalism with Fotis and Yogi (Johannes ....json
+├── 20250305 - #52： We Are Not Machines! Agency & Science beyond Computationalism with Fotis and Yogi (Johannes ....mp3
+├── 20250305 - #52： We Are Not Machines! Agency & Science beyond Computationalism with Fotis and Yogi (Johannes ....srt
+├── 20250305 - #52： We Are Not Machines! Agency & Science beyond Computationalism with Fotis and Yogi (Johannes ....tsv
+├── 20250305 - #52： We Are Not Machines! Agency & Science beyond Computationalism with Fotis and Yogi (Johannes ....txt
+├── 20250305 - #52： We Are Not Machines! Agency & Science beyond Computationalism with Fotis and Yogi (Johannes ....vtt
+├── 20250306 - Body Knowledge with Shay Welch, Elena Cuffari and Andrea Hiott #philosophy #embodied.json
+├── 20250306 - Body Knowledge with Shay Welch, Elena Cuffari and Andrea Hiott #philosophy #embodied.mp3
+├── 20250306 - Body Knowledge with Shay Welch, Elena Cuffari and Andrea Hiott #philosophy #embodied.srt
+├── 20250306 - Body Knowledge with Shay Welch, Elena Cuffari and Andrea Hiott #philosophy #embodied.tsv
+├── 20250306 - Body Knowledge with Shay Welch, Elena Cuffari and Andrea Hiott #philosophy #embodied.txt
+├── 20250306 - Body Knowledge with Shay Welch, Elena Cuffari and Andrea Hiott #philosophy #embodied.vtt
+├── 20250308 - We are not machines! with Fotis and Yogi (Johannes Jäger).json
+├── 20250308 - We are not machines! with Fotis and Yogi (Johannes Jäger).mp3
+├── 20250308 - We are not machines! with Fotis and Yogi (Johannes Jäger).srt
+├── 20250308 - We are not machines! with Fotis and Yogi (Johannes Jäger).tsv
+├── 20250308 - We are not machines! with Fotis and Yogi (Johannes Jäger).txt
+├── 20250308 - We are not machines! with Fotis and Yogi (Johannes Jäger).vtt
+├── 20250314 - #53： Another Needful Freedom： Truth in Tension with Mike Brock, ex-tech-exec, reluctant Cassandra.json
+├── 20250314 - #53： Another Needful Freedom： Truth in Tension with Mike Brock, ex-tech-exec, reluctant Cassandra.mp3
+├── 20250314 - #53： Another Needful Freedom： Truth in Tension with Mike Brock, ex-tech-exec, reluctant Cassandra.srt
+├── 20250314 - #53： Another Needful Freedom： Truth in Tension with Mike Brock, ex-tech-exec, reluctant Cassandra.tsv
+├── 20250314 - #53： Another Needful Freedom： Truth in Tension with Mike Brock, ex-tech-exec, reluctant Cassandra.txt
+├── 20250314 - #53： Another Needful Freedom： Truth in Tension with Mike Brock, ex-tech-exec, reluctant Cassandra.vtt
+├── 20250322 - #54： Project Love： What We Make & How it Makes Us with service designer Clive Grinyer.mp3
+├── 20250322 - Project Love： If a Thing Loves with Clive Grinyer and Andrea Hiott.mp3
+├── 20250330 - #55： How Shall we Live？ with anthropologist and lineologist Tim Ingold.mp3
+├── 20250402 - Another Needful Freedom： Navigating Tensions with former tech executive Mike Brock.mp3
+├── 20250404 - How shall we live？ Weaving lives with anthropologist and lineologist Tim Ingold & Andrea Hiott.mp3
+├── 20250413 - #56： Radical Incompleteness & Windows of Ritournelle with poet philosopher Bayo Akomolafe.mp3
+├── 20250417 - #Love is the radical incompleteness of everything with Bayo Akomolafe and Andrea Hiott.mp3
+├── 20250419 - BONUS： A Quick Podcast about Podcast(s) with Andrea & Fotis.mp3
+├── 20250421 - A quick podcast about podcasts with Fotis and Andrea.mp3
+├── 20250421 - Dear Americans #loveletter #roadtrip #us.mp3
+├── 20250425 - #57： Complexity Fatigue & the Third Entity with philosophers and neuroscientists Beck Todd, Shay ....mp3
+├── 20250505 - Complexity Fatigue & The Third Entity with Rebecca Todd, Shay Welch and Penijean Gracefire.mp3
+├── 20250506 - #58： Hill Making & Lessons for Living with WIRED co-founder Kevin Kelly.mp3
+├── 20250510 - How Online Became a Country with one of the fathers of the internet Kevin Kelly & Andrea Hiott.mp3
+├── 20250518 - Complexity Coding, Residuality Theory, the Hyperliminal： being flexible and rigid at once with Barry.mp3
+├── 20250523 - Residuality Theory, Hyperliminality & the Architect's Paradox with Barry O'Reilly & Andrea Hiott.mp3
+├── 20250602 - Daoism, Physics and Process with physicist Jean Boulton and philosopher Andrea Hiott.mp3
+├── 20250603 - #60： The Dao of Complexity with theoretical physicist Jean Boulton.mp3
+├── 20250611 - #61： Burning to Give Light： the delicate balance of illness and insight with former Wall Streeter....mp3
+├── 20250611 - Breakdown into Love： the paradox of Illness & Insight with Founder Tom Morgan and Andrea Hiott.mp3
+├── 20250619 - #62： Living Philosophically and Thinking Wild with professor of technology Jessica Böhme.mp3
+├── 20250620 - Living Philosophically & Thinking Wild with Jessica Böhme and Andrea Hiott.mp3
+├── 20250629 - #63 Shaping Habits Together： life's changes and challenges with cognitive scientist Mark Michael ....mp3
+├── 20250702 - Shaping Patterns & Being Together： Ways and Craic with Mark James & Andrea Hiott.mp3
+├── 20250709 - The Lure of Convenience with philosopher of technology Sabina Leonelli and Fotis Tsiroukis.mp3
+├── 20250716 - #65 Play & Meaningful Uncertainty： Active Inference and the Intellectual Sweet Spot with Julian K....mp3
+├── 20250716 - Meaningful Uncertainty and the Intellectual Sweet Spot： Julian Kiverstein on Play & Active Inference.mp3
+├── 20250724 - #66 Harmonizing the Dao with analytic philosopher Eric Schwitzgebel.mp3
+├── 20250802 - #67： Autonomy, Autopoiesis & the Enactive Approach with philosopher Ezequiel Di Paolo (Mirko Prokop).mp3
+├── 20250803 - Weirdness, the Dao, and Whether Trees have Experiences with philosopher Eric Schwitzgebel.mp3
+├── 20250807 - Brains are not Computers & Mind is Bodily  #diary #philosophy #care RD12.mp3
+├── 20250809 - Synapses of Life： Public Conversation from August of 2024 with Shoma Chaudhury & Andrea Hiott.mp3
+├── 20250811 - Bringing Forth Worlds with enactive philosopher Ezequiel Di Paolo and Mirko Prokop.mp3
+├── 20250812 - Summer of 2024： Synapses of Life with Shoma Chaudhury.mp3
+├── 20250821 - #68： Loving, Knowing and Participatory Sense-making with philosopher Hanne De Jaegher.mp3
+├── 20250824 - Loving and Knowing with philosopher Hanne De Jaegher.mp3
+├── 20250825 - #69 The philosophy of Bioregionalism with Félix de Rosen.mp3
+├── 20250829 - What is love？ Love & Philosophy Diary with Andrea Hiott August 29th.mp3
+├── 20250902 - Philosophy of Bioregionalism with Félix de Rosen and Andrea Hiott.mp3
+├── 20250905 - Care as a form of knowledge in everyday life： Love & Philosophy Diary Friday September 5th.mp3
+├── 20250907 - #70 Fractal Rubik's Cube & the Big Machine with futurist polymath Michael Garfield.mp3
+├── 20250907 - Fractal Rubik's Cube and the Big Machine with Michael Garfield.mp3
+├── 20250912 - Constellation Thinking： Love and Philosophy Diary for September 12th, Andrea Hiott.mp3
+├── 20250914 - #71 Dialectics, Democracy & the Phenomenology of Double Consciousness with Lucius Outlaw Jr..mp3
+├── 20250923 - #72 Rethinking Cognition： Posthumanism to Planetary Ecology with Professor Katherine Hayles.mp3
+├── 20250926 - small is beautiful as if it matters friday diary for sept 26.mp3
+├── 20250929 - Kaleidoscopic Cognition： Beyond Dichotomy.mp3
+├── 20250930 - Dialectic, Democracy & the Phenomenology of Double Consciousness with Lucius Outlaw Jr..mp3
+├── 20251003 - #73 On the Brink： Life Together on the Möbius Strip with author, educator and activis....mp3
+├── 20251003 - Bacteria to AI： our Planetary Cognitive Ecology with professor N. Katherine Hayles.mp3
+├── 20251007 - In the Belly of a Paradox with legendary educator Parker Palmer and philosopher Andrea Hiott.mp3
+├── 20251010 - E-cognition： the Embodied Extended Enactive En-sensed Mindset.mp3
+├── 20251014 - Hippocampus Love： The Neural Representation Debate & Cognitive Maps with Lynn Nadel (BONUS EPISODE).mp3
+├── 20251017 - Looking at the night sky, general thoughts on care.mp3
+├── 20251023 - #74 the Dynamics of Holding and Sharing： Authenticity, Maps, Masks & Voicecraft with Tim Adalin.mp3
+├── 20251024 - Radical Embodied Memory & Navigation： Communicating with the world is remembering with it.mp3
+├── 20251031 - Moving Beyond Binaries in Education： Andrea Hiott in Conversation with Tim Logan on Future Learni....mp3
+├── 20251101 - Layers of memory and movement. A fictional Friday Diary.mp3
+├── 20251107 - the Dynamics of Holding and Sharing Space： Maps, Masks and Voicecraft with Tim Adalin.mp3
+├── 20251111 - #75 Hyperscanning & Human Connection： Synchronization and the Third Brain with Biologist Nicolás ....mp3
+├── 20251114 - Kaleidoscopic or Constellatory Cognition： Rethinking Brain Models & Experiments with Andrea Hiott.mp3
+├── 20251121 - Not One, Not Two： Star Cybernetics (Francisco Varela, Andrea Hiott).mp3
+├── 20251123 - #76 The Care of Things： Philosophy of Maintenance & Making Things Last with Jérome Denis and Davi....mp3
+├── 20251126 - Hyperscanning, Human Connection and the Third Brain： interbrain synchrony with  Nicolás Hinrichs.mp3
+├── 20251130 - #77 Evolving Language by Embracing Paradox with Lisa Maroski.mp3
+├── 20251130 - Embracing Paradox to Evolve Language from Within with Lisa Maroski and Andrea Hiott.mp3
+├── 20251203 - The Care of Things： Philosophy of Maintenance with Jérôme Denis and David Pontille.mp3
+├── 20251204 - Bonus uncut： Beyond Binaries in Education w Tim Logan, Andrea Hiott on Future Learning Design pod.mp3
+├── 20251205 - Memory, Space, Time： Andrea Hiott Philosophy & Memory Diary for December 5th.mp3
+├── 20251207 - #78 Holding Love & Power (Without Losing Either) with policy advisor Jamie Bristow.mp3
+├── 20251214 - Hippocampus Love： Action at a Distance and the bridge of Memory, Part 4 with Lynn Nadel.mp3
+├── 20251219 - Andrea answers 'what do you believe' off the cuff and from the heart about holding paradox.mp3
+├── 20251223 - #79 Loving to Know and Subsidiary Focal Integration with Esther Lightcap Meek.mp3
+├── 20251226 - Way-making approach Key Points： Sequence, Orientation and Perspectival Trajectory.mp3
+├── 20251227 - Esther Lightcap Meek on Loving to Know： the difference between Information and Knowledge.mp3
+├── 20260101 - #80 Pure Consciousness with Thomas Metzinger.mp3
+├── 20260110 - Holding Love and Power Together via Metamodernism with policy advisor Jamie Bristow.mp3
+├── 20260119 - Pure consciousness with Thomas Metzinger： holding paradox is compassion？.mp3
+├── 20260203 - What Relates Creates with life & computer scientist Richard Watson (from the archive).mp3
+├── 20260217 - Love, Life and Logic： Another Dialectic with Hegelian scholar Karen Ng (from the archive).mp3
+├── 20260307 - Curiosity as a Practice and the Capacity to Connect with philosopher Perry Zurn (from the archive).mp3
+└── file-list.txt
+
+1 directory, 892 files

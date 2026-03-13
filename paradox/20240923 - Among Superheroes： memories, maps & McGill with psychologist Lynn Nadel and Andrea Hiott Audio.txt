@@ -1,0 +1,744 @@
+Hey everyone, this is a research conversation with Lynn Nadell. As you know, I'm trying to
+understand cognition as navigability. Towards that, what really got me into that was my study
+in neuroscience of the hippocampus and this area of the brain. There's many areas associated with
+navigation that are also associated with memory, a specific kind of memory, but just in a general
+way, let me just say that, you know, this area of the brain was really famous in the 50s for memory
+from a guy named H.M., which I'll just link to some writings about this if you're interested, but
+he had this area of his brain removed and he couldn't create new memories. That's a very
+generalized conception for those of you who haven't heard of him. And then later in the 70s, a man named
+John O'Keefe had this kind of discovery of cells in the same area of the brain that work almost like
+a GPS. Again, this is all very generalized, but there are cells in our brains which fire in very
+specific patterns relative to how we move through the world. And they are referred to often as the
+sat-nav of the brain or the GPS of the brain. They're called place cells and grid cells and
+border cells, head direction cells. And many people were involved in this process of discovering
+these cells or in the case of Lynn, writing about them, thinking about them theoretically in concern
+to the hippocampus. And he and John O'Keefe wrote a book together, which has been a really formative book.
+The book is called The Hippocampus as a Cognitive Map. And cognitive map comes from work from another
+man named Edward Tolman. Tolman conducted these experiments where he started to develop this idea
+of latent learnings, maybe how you've heard it, heard of it. Kind of just how we move through the world
+is a kind of knowledge gathering. Or just that we move through the world and we don't realize that we're
+learning certain routes and paths, but later we can find our way without thinking about it because
+we've just learned it. And this is where this connection is between cognition and navigability.
+And we can see it in many different landscapes, not only these geographical landscapes, but also
+how we move through landscapes of language, emotional landscapes, and so on. But in this conversation
+with Lynn, we really talk about this very early time period where the idea of cognitive maps was just
+starting. This is just a research conversation about those early years. And all the names that he and
+mentions here are famous names in this little world of neuroscience. But these names and this little
+world of neuroscience actually has really big implications across how we're coming to understand
+what it means to develop knowledge and memory and how this connects us to other beings in the world.
+Maybe you've heard of a place called McGill University in Montreal. Pretty much everyone I've mentioned so
+far was there around the same time period in the 50s, 60s, 70s, when neuroscience was forming and
+Penfield and Hebb, Donald Hebb, this idea of neurons that fire together, wire together. Lynn and I talk
+about it. He was there. He was also at McGill. So was John O'Keefe. So was Brenda Milner, the person who's
+famous for the studies of H.M. relative to the hippocampus. I think of this time period and this
+university is like the superhero headquarters of what became neuroscience. So we're going to talk
+about the superhero world of scientists at McGill in Montreal. And we're going to talk a little bit
+about the development of this idea of cognitive maps. So thanks for being here. I hope you're all
+doing really well. Let's go. Yeah, let's get started. I guess it's probably best to jump in and start
+with the McGill years. And as I told you, I'm really looking for ways to connect all of you. Actually,
+it's not that hard to do because of this extraordinary time period at McGill and that you and
+John were actually there and so on. But what I'm still struggling with a little bit in the text is
+the Tolman because his story is so interesting. It's so crucial to your work. And I'm trying to
+connect the dots a little more between maybe even just this kind of academic family tree,
+how it sort of got from Tolman to you, Heb, and so on. So I'm just throwing that out in case
+anything comes to mind. So we can go ahead and start after you'd gotten into McGill, you were
+studying chemistry. And then I guess you could tell me a little bit about how you first sort of
+discovered psychology department and this superhero world of scientists. To say that I was studying
+chemistry is to go is to put much more on it than existed. I was not a very good student in my first
+few years. And I was there because I had an interest in chemistry, which was not deep. It was based on
+the fact that my father had been a chemist. And so, and McGill was a good place to study chemistry,
+but I wasn't really studying chemistry. I wasn't really studying anything.
+Few of us are our first year of college.
+Exactly. I was.
+So, but, but one thing did become quite clear, um, from the chemistry labs that I did,
+which was that I probably shouldn't become a chemist. Uh, why was that not so good in the lab?
+I was not sufficiently careful, shall we say. Did you drop some beakers?
+I might've damaged my system. So it became clear that I was not, that was not a course. So I was just
+looking around for something else to do as an undergrad. You needed to have a major or something.
+So I, so I switched over to biology and then I started taking, you know, a variety of courses
+in biology, including, including psychology, because why not? I was always interested in that
+kind of stuff, but not particularly focused on it. And of course this was the intro to psych course was
+taught by Hebb. So I, I didn't go to McGill because of Hebb. I didn't sign up for that class. I didn't even
+know who Hebb was. Oh, you didn't even know when you signed up. Oh, wow. I didn't know how famous
+he was. I had none of this knowledge to me. I simply signed up for a class in intro to psych.
+Was he already really famous then? Oh yeah. He was already. Okay. He, because he was writing his
+book still, or it was already out. This was 1960. This was 1961. Okay. He was probably president of APA.
+His book came out in 49. I mean, right. The fire together, why together thing was already.
+That was already out. All of that was out there. Although it hadn't been,
+was not that popular in North America yet. Right. Right. That's a, that's a part of the story here.
+Anyway, he was very famous in Canada. He was famous around the world, but you know, that didn't mean
+people agreed with his approach, but he was very famous. I didn't know. I took his class. It was
+fascinating. And I, so I started to basically just took a lot of psychology classes without majoring
+in psych. And I was on a bit of a pre-med track, so to speak, thinking. Okay. Do you remember what
+caught you in his class? Just how interesting the way it was just, I know I was, it is the case that I
+had been interested, even when I was a kid about, you know, brains and when they go wrong and what
+happens when somebody's crazy, you know, but it was like, I was interested in that. And I was also
+interested in baseball and hockey. It wasn't like a passion of mine, but it was something I was in.
+And so it, it matched up with some early interests I had had, vague, inchoate sort of stuff.
+Mm-hmm. And I just tickled it. So I started taking a lot of psych classes and I was pre-med
+and then I didn't get into medical school because I, because of my first two years and my grades were
+pretty poor. And, uh, so I had a year. And by this point I was married with one kid and another.
+You got married young. Yeah. I got married young, foolishly, but did.
+And so I ended up getting a job working for a year in a psych lab because I thought,
+let's see what that's like, right? On campus or? Oh yeah. In the psych department. I somehow
+myself with people in the psych department, got a job as a, you know, a gap year, so to speak,
+a unforced gap year working in doing behavioral psychopharmacology work with Dalbir Bindra,
+a professor in psychology. Uh, and that really sold me. I, I mean, even though it's really pretty
+boring research that really sold me on. And I was, because I was there the whole year in the department
+in the animal lab area, I mixed with all the graduate students and so on. I was treated like a
+graduate student almost. And then remarkably, they let me into the graduate program, which they didn't
+used to do, which they tend to, they didn't have a policy of not taking. Right. You're not supposed to
+get to do both at the same school or something. Exactly right. That policy was more strictly
+enforced in those years than it is now, by the way. Um, anyway, they let me in and, uh, that was the
+beginning of it, you know, and, and O'Keefe was a, was a first year graduate student, the year that I
+was working in the lab before I started as a graduate student. So John, John showed up at the
+same time that I more or less connected with psychology at that research level. Do you remember
+the first time you met him or an early time, any like first impressions or? He was a little older,
+nice guy, smart, um, a little different, you know, settled, you know, married to, to a nice,
+nice woman who's still, he's still married to, I mean, um, nice, quirky, smart and a little older
+and sort of wiser and not, not as, uh, not as wild and crazy as some of the rest of us were a little
+more, more self, a more settled person. Always was and always has been. Yeah. Yeah. He'd already had
+some other life before that too. Yeah. I think so. And, and, and he was, um,
+the thing was that at that point that year, the psychology, the animal psychology thing was split
+between a couple of different places. We weren't all in one place. And John was working with, uh,
+Ron Melzack in a, in a different house, completely separate from the rest of us who were working,
+you know, with Milner or with some of the other students with Melzack, me with Bindra, or, and if
+Hebb had any students working with animals, we were all together in one place near the medical
+school. And then there was Melzack who had recently been hired. Uh, and John was one of his first
+graduate students. And they were doing cat research in an old building, separate from everyone else.
+Oh, okay. It's kind of off to the side now. Off to the side. Actually, didn't see a lot of John,
+other than in, you know, when he would just happen to be around for seminars or for
+somebody coming to give a talk and stuff like that, because he was a year ahead of me. So I didn't,
+I was not in seminars with him specifically. So John and I were friendly during grad school,
+quite friendly because we shared political interests. We were both semi-socialist kind of
+politics, but other than that, we didn't have a lot to do with each other research-wise,
+because we were not in the same space. Mm-hmm .
+I'd like to hear a little bit about that, this, this social thing, because it's a bit
+different than now. I mean, during that time, what did it feel like? There's a.
+Well, I mean, that was a time during which if you were a graduate student, even if you were married
+and had kids like I was, the lab was the center of your life. It was not a nine to five job. There was
+no balance, you know, life, quality of life, balance nonsense, nothing like that. You were in the lab all
+the time basically. And as I was, and as my wife would hang out in the lab and the kid and the little
+baby thing would be sitting off to the side while I was doing surgery, all mixed together, basically.
+There was no separation of any of that. And it, and it really dominated, you know, one's life and
+one's. So the, so I did not have a social life outside the sort of group of people that I was a
+graduate student with by and large, some did, some didn't, but by and large, we were all,
+and we all hung out together all the time. We spent all of our time together.
+Did you have seminars with Brenda Milner?
+Brenda Milner was, it was on the periphery of what we were, of what we were doing because
+Brenda Milner was at the Montreal Neurological Institute, which was, you know, away, away, a ways.
+We didn't be there very often, unless there was a talk to be heard or something like that.
+She would show up at seminars. She, at that time, of course, was married to Peter Milner.
+Mm-hmm. So he was closer to you, probably.
+Way closer. He was the one that you were all the closest with because Peter was, at that point,
+Peter was writing his 1970 physiological psychology textbook, which is, which is an absolute classic,
+you know, by far the best textbook ever written. You know, it's really stood the test of time,
+that one, hasn't it? Yeah. It's an impressive book, basically. And so he was, he was writing
+that book when, while we were graduate students and we were reading mimeographed. There's a word you
+probably haven't heard, or maybe you don't even know what that word means. I've heard it.
+It was a, was a, um, a machine for making copies before faxes. Prefax thing. All I can tell you is
+it used ink and your hands got messy. Okay. That gives me a good image.
+And, and the, and the ink it used was to tend to be purple. Have you ever seen old reprints?
+That sounds familiar. I mean, I've been in a lot of libraries and
+archives and I've definitely seen purple ink. That's what identifies it. Anyway, he's passing
+around mimeograph copies of his chapters of his book that we were, that we were reading in seminar.
+So Peter was in full bloom and he was the one we all went to for questions. And he was the guy who
+knew everything. I mean, it's remarkable because he's writing a textbook about the whole fields.
+He was, he was the one we all went to. Melzack was new, uh, and a little bit less accessible,
+but very smart and nice guy. We, we, we interacted with him a fair amount because even though he had a
+lab over in this other building, he had an office in the place where the rest of the animal researchers
+were, he had an office there that he was in and out of not all that frequently. My, my advisor,
+Bindra was a, uh, human researcher mostly. And he had just started getting involved with animal
+research so that he could look at some pharmacology things. And he didn't know much about animal research.
+So I interacted almost entirely with Milner and Melzack and he did not have his office where the
+animal researchers were. Okay. We're in this, in another building where the human researchers were.
+That was the main hub of the psychology department at old house on an old street. And, but you know,
+Montreal at all, I've been there like twice at the base of the mountain. There are some old streets.
+Anyway, he had lovely old house. The psychology and psychology there would meet every afternoon for tea.
+So kind of, you know, thing, which I got used to. And so it would be tea in the afternoon at three or
+four o'clock in the psychology building where Hebb was. And if you wanted to spend time with Hebb,
+you just would walk over, stroll over there. It was about a 10 to 15 minute walk from where the animal lab
+was. And you do tea in the afternoon. And I did that, you know, fair. So that was how,
+and so one interacted with Hebb that way, but one also interacted with Hebb by virtue of taking his
+first year seminar, which was famous, you know, for it's. What were those teas like? I have to,
+I have to stop on that one a little bit. Did, did, did people ask him questions and he would talk about
+things or was it, it was, you know, they, in some ways they were less memorable for me than the teas
+I subsequently had at UCL with John, with people, anatomy and physiology department where the tea,
+every afternoon there, you, you sat around the table with three Nobel prize winners.
+That was a little more, that was a more daunting tea sort of episode than having tea with Hebb,
+which itself, but Hebb was friendly. And, and actually the, the person who was most present
+during the teas I'm, I'm now remembering was the head of the department, uh, George Ferguson,
+who was a statistician, who was, was a real bon vivant and a bit of a poet and wrote kind of
+doggerel poetry and gave great Christmas parties. And I sort of, I modeled my behavior as department
+head a little bit after what I observed in him because he was really the, a bit of a social glue
+person in a, in a department. Anyway, so we had tea in the afternoon, we would see Hebb that way,
+that would be the interaction with Hebb, you know, it would be in and out sort of over the time when
+he was a graduate student, but he was a presence. Then we moved into a new building in about a year and
+a half before I finished up and John finished up. And then suddenly we were all together in a new
+building. Were you already working on the hippocampus? Because your PhD was on the hippocampus,
+how did that happen? Already working on the, why did I, ah, okay. Was that any connection between
+Peter and Brenda and all? Oh, absolutely. We'll segue straight. So the big, the big issue there,
+if you were, if you were in that department, you were probably interested in memory as a graduate
+student, probably not only, but already have, you know, I mean, right. So, and then there was Brenda
+Miller and then there was HM. Which was already, those papers were already well-known. The
+Scoville and the Penfield stuff was already, yeah. All right. Now, so, you know, some of the background
+here. I was trying to get a sense of when it all started to fill. I mean, from my point of view,
+it feels like it was already kind of huge, but I know it, it took some time in different parts of
+the world. It took some time and it was somewhat, progress was, was delayed, you might say, by the,
+by the fact that the early attempts to, to kind of create an animal model of HM all failed. So that's
+set the stage for, right off the bat in, after the 57 paper, Brenda Milner and a, and a postdoc,
+Orbach joined forces with Rasmussen and to do an experiment where they tried to replicate the
+surgery that was done on HM in a group of monkeys and then to demonstrate that they have a memory
+defect like HM had a memory defect, you know. The hippocampus is different though, but I guess
+you could still, you know, models. Yeah. Yeah. Right. I know. So they prepared the, you know,
+surgery as close as possible to the, what Scoville had done in HM and, uh, oh and behold, these monkeys
+had no memory deficit whatsoever, virtually no memory. Wow. A little bit, but nothing, nothing. So,
+and then people then did hippocampal lesions in rats, early hippocampal lesion work in rats in the early
+1960s, same thing. No general, nothing at all, like what was seen in HM. So that was the conundrum
+in the early sixties. There was this conundrum in the field, like what's going on here. That's
+fascinating. Was there any spatial, uh, deficiencies? No, nothing. Space was nothing. Nobody was even
+looking at that, I guess. Nobody was even looking at any of that stuff. It was the, the reigning theories
+of hippocampal function in animals were, were not memory. They were things like response inhibition or,
+or avoidance behavior or emotional. Oh, wow. Fascinating. A whole range of things,
+not, none of which were memory or space. So closer to amygdala, like behavior. Exactly
+right. Closer to sort of amygdala, like thinking part of the limbic system still. Yeah. From that
+perspective. And so that was, that was the setting in which I was a, firstly, an undergrad and then a grad
+student in that setting, you know, kind of brewing in that broth. And that was the atmosphere in the
+department, you know, that there's this, you know, we're interested in memory and it has ideas about
+synaptic memory. And then these ideas that the hippocampus, you know, based on HM is crucial,
+but what's the story in animal models? We were animal researchers. You can't do much work in humans.
+So we, you know, what do you do right now? There's a couple of, now a couple of small points. When I was an
+undergrad taking that first year intro course in psychology, I think I was my second year as an
+undergrad, I roomed with two other undergrads. One of whom was, was somebody, Odling Smee.
+When you say roomed with, was it like a dorm room kind of thing?
+We shared an apartment. I shared an apartment with two other, two other people. We each had our own room.
+Odling Smee was his name. I can't remember his first name now. And he ended up doing work in,
+in the UK, some interesting behavior work. And then an American from, from Boston called
+Charles Budd Corkin. So my second year roommate, you know, got involved with a graduate student in
+psychology and ultimately married, Suzanne Corkin. And so while I was rooming with him in my second year,
+taking the course from HM.
+So you had that connection. You already had HM in your...
+Also hearing a little bit about this crazy, you know, HM person, none of it registered with me at
+that point. Okay. Now you dial forward a few years. Now I'm a graduate student. HM is in, you know,
+and, and there's this disjunct between human and animal stuff. So I had the hypothesis, the hypothesis,
+which was based on some reality, which is that in the, in the work with humans, HM, for example,
+the surgery removed most of his anterior hippocampus because that's the way the surgery came in. In,
+in the rat work that was not confirming what was seen in HM, everybody was looking at the dorsal
+hippocampus, which is the posterior hippocampus in humans. So I, I had the idea that, well, you know,
+maybe the disjunct between animal and human work is that they're looking at different parts of the
+hippocampus, that the human folks are looking at the, what is the ventral hippocampus in rats and the
+rat people looking at the dorsal hippocampus. So obviously different things. So that was my dissertation.
+It's a good hypothesis. I guess it wasn't quite true, but maybe it would have been if you'd had
+really better information about where HM's lesions really were, because didn't it change a bit?
+It changed a little bit, but you know, I think, I mean, this, this was the first,
+Len Gerard, who just like died like four months ago, I think, uh, also published something on
+comparing dorsal and ventral hippocampus in the, at, in the same time, 67, 68.
+We were the first ones to even, you know, think about that. And I did it for the reasons I
+described, and then I dropped it more or less. However, I've come back to that.
+Didn't you write about that too?
+Yeah, I recently just published another paper in 21, published a paper on the long act of the
+hippocampus. And I'm thinking about, and I really think there's something very important about the,
+about what's going on, but you know,
+you know, that original intuition was onto something, but it was not what I thought it
+was anyway. So that's why I worked on the hippocampus. I ended up working on it because,
+because of that, but I did not do my master's thesis on that. I did my master's thesis on,
+on memory using cortical spreading depression to study the role of the cortex in the memory,
+in habituation memory. Is that where you started looking at the stuff that you would eventually
+propose for your PhD? I'm wondering how to connect those two things.
+There's no correct. There's no connection. I mean,
+you just had different interests.
+There wasn't necessarily a connection. In those days, you could do your master's on one thing and
+your PhD on something else. Now it is, people don't do that much anymore. Anyway, I did my master's.
+I didn't want to, there was no way for me to follow on with that research, given the technologies I had
+available to me at that time. The, the, the kind of world leader in the technique that I used in my
+master's thesis, this cortical spreading depression, the world leader was in Czechoslovakia in Prague.
+That's why I went. Oh, okay. Well, there's a connection. That's the connection. That's why I went to
+do my postdoc here, but I dropped my technique temporarily to jump on the hippocampus bandwagon.
+That was everybody else's hobby horse in that psych department at the time. So I was following
+the crowd, you might say. So you, you went back to that anyway, but first, can you just tell me a
+little bit, do you remember, have any sort of sensory memories of the lab and of being at McGill? I
+mean, was it a lot of the most, like, what do you think of when you think of it? Was it cold?
+Was it cold? Yes. That's the first thing. Yeah. First thing. Always cold. It was always cold.
+Because you, although of course I spent, you know, a number of summers in Montreal and they were,
+uh, they, they were very nice, but anyway, cold, the lab itself was, you know, the two,
+two completely different eras. The one where we're in this old animal research building next to the
+medical school off by ourselves. It was like a grungy pre, you know, pre-regulation era,
+you know, animal lab. I mean, none of the heavy duty stuff that is, is, you know, you go,
+have you ever been, have you been to Trondheim ever? Uh, no, actually I never went there.
+If you visit, uh, the Trondheim lab, if you go to their animal lab,
+uh, you can't even get into the lab without putting on like full surgical, it's all behind
+barriers. You visitors, I've, you, everybody, proper shoes, everything is completely, you know,
+aseptic. Oh, wow.
+Well, that's, that's one extreme. Very sci-fi.
+We were at the other extreme. Okay. You're smoking it in the lab and stuff.
+It was, everything was going on. It was also 1960s, you know.
+Right. Yeah. Well, I want to hear a little bit about that too. I mean, you said you and John shared
+interests. What was the vibe like when it's, what other kinds of things were you talking about at the
+time? Cause there was a lot going on. We were very politically engaged, both of us. He a little bit,
+even more than me, but we were both politically engaged. I know, I know that he, he and me a little
+bit on the sideline was involved in bringing Chomsky to the campus back in the sixties to give
+him talks. I mean, we were, we were engaged. We were not like, you know, on the front line,
+we were graduate students, but we were very engaged. We were both engaged politically.
+It mattered to you.
+It mattered to us a lot. We were both very political. Uh, and so we, a lot of what we talked
+about was politics. And you both seem to be very, rather philosophical. I mean, he was already reading
+a lot of philosophy. He had a background of philosophy a little bit, and his wife was a, was a PhD
+philosopher. I lean, I lean is trained in philosophy. So he had more, he had much more,
+you know, background in philosophy than I did. Mine, mine was second acquired.
+Were you interested in that? I mean, were you trying to understand bigger issues then?
+I got interested in, you know, in the space issues of, you know, in philosophy of space and
+philosophy of science issues. What about the political things? Did you see that as connected to
+the work you wanted to do in your life when you were young or did they seem separate or is it like
+separate compartments? I was always interested in politics, even from when I was young. I remember
+from what I was like, even trying to date it, you know, when Stalin died, I mean, I was 10, 11, 12.
+I was, I was, you know, seriously reading political stuff when I was a kid. It was always fascinating,
+always interested in politics. Very, you don't know, you don't know the New York political scene,
+but I suppose, but in, in, in New York in the fifties and sixties, you know, the, the Jewish
+community of which I was nominally apart, but not really, um, was very progressive and very socialist
+in its, in its leanings in the fifties. Yeah. Times have changed. And anyway, the point is back then
+to be in the, to be in the community I grew up in was probably to be kind of political,
+socialist leaning and political. If you have ever thought about those things at all. And I did.
+So I read newspapers, voracious and John was just like that. John grew up in the same environment.
+Irish Catholic environment, you know, where it's either the church or politics, one or the other.
+Right. And that's New York. New York was, was three, three, it was three cities, four on one of which
+the other three ignored. It was a Jewish city and Italian city and an Irish city.
+And they represented, you might say almost one third of the population. And then there was the
+fourth world, which was the Hispanic black part of the city, which the rest of us ignored back in
+the fifties. I'm being brutally honest, right? Yeah. Very, very different world, but it was a
+world in which politics mattered a lot. John and I bonded on the interest in politics.
+It reminds me of a quote. I, I guess it's a true quote that you said. I can't remember it
+perfectly right now. A Jewish boy and a Catholic boy had to go to
+Canada to meet or something like that. Yeah. Something like that. Not very far
+from each other. Yeah. But I guess that helped that
+you understood each other in this way. Yeah, but probably it did. Yeah, it did.
+So we didn't have a lot to do with each other in graduate school. We were friends, but I would not,
+we did not interact a lot socially in graduate school. I was hanging out with a different group
+of graduate students. I wouldn't say we connected the work to the politics. They were separate lives at
+that point and they really stayed that way mostly. We weren't working on politically sensitive issues.
+The work, the work was, I mean, we were all crazy in that. We hung out at the lab all the time because
+that was all we were thinking about, you know, and the blackboard was always full of, you know,
+this diagram, that diagram, you know, how do we figure, how do we figure that out? How do we,
+how do we test Hebb's, how do we test and disprove Hebb's hypothesis? And I mean, it was,
+you know, we were all there to kind of figure out how the brain did learning and memory and we were
+going to do it. It was a pretty intense atmosphere of that, of that kind of intellectual, you know,
+ferment and, but we also were fun. We all played and John was part of this too. We all went out in the
+afternoons and played soccer on the reservoir. We all had a good time, you know, we weren't doing that,
+but, but mostly it was, and we had big, big ideas. I don't know. I don't know how that happened,
+you know, quite honestly. Yeah. But you had a feeling that you wanted to do something in the
+world. Like you were, you were trying to change the world in a way. We were in a place where people,
+where the people we were interacting with had already done that. That was the, that was the,
+the kind of soup that we were basically swimming in. Yeah. It was still happening. I mean, it was,
+it was still happening. It was a world of people who were achieving at that level.
+I didn't know any other world. I didn't go somewhere else in undergrad. So I wasn't like
+aware that the atmosphere at McGill at that time, in that particular era, the fifties and sixties
+was unmatchable. It was, it was absolutely, it was unique. Now there are, it still is really,
+it's kind of without precedent. There are other places like that, you know, and they were probably,
+and there were other places like that at the time, but I did not realize that somebody who only went
+to that place, unique and special it was. I'm not sure. Are there really other places like that?
+Because I, it's hard to trace back so much, I guess, at least in this time, a few places that
+were sort of like that, then maybe this will connect back with Tolman. Berkeley was a little bit like
+that. So the Tolman in the Tolman era was a little bit like that in the, in the days of Solomon and so on.
+Paul, you know, the group that he, you know, there were clusters of, of places where there was real
+strength basically, but the cluster at Montreal and at McGill was unique in the way that it combined
+brain and behavior. Right. It was really starting neuroscience. Exactly. That was really what was
+unique about him. So the, and so the people who were attracted to go to graduate school there were
+already of, of a mindset, you know, that they were, you know, that they wanted to jostle with the really
+big issues, you know. Yeah. It's very exciting to think about. It was a very exciting place, but you know,
+again, what was, I was so immersed in it that I didn't understand how unusual it was. It took me in other
+places to realize and to talk with other people, you know, and to experience other universities and other
+cities and others that not many of us have experienced to realize how unique that was, you know,
+Were you always a lucky person? Even when you were a kid? I can only assume that that's the case. Yes.
+Yeah. You've had pretty good luck, but you also, I've been very well, you know, you, you go with the
+luck. You go with the luck. You make your luck a little bit. You take advantage of the, of the lucky
+opportunities that, you know, and I've been probably good at that, but yeah, I've been extremely lucky in that
+regard. I mean, just being in the right place at the right time. Let me, let me give weave another
+thread for you. So I, so the name you mentioned included Bronk and, and who's fabulous by the way.
+Yeah. He deserves a lot of credit too. There's a lot more credit than he gets.
+And Bob Muller and John Kubi. So Bob Muller. So dude, so there's a connection to Bob Muller.
+Okay. This is, this is the small world in which we all navigate. Yeah. Bob Muller and I went to the
+same high school. Oh, you're kidding. We not only went to the same high school in the same exact
+timeframe, but we, we were in the same official class. So when we were in Stuyvesant, which is a
+test in high school in New York city for supposedly smart kids who want to do science. And we, and, and 30 or
+so you're broken up into groups of 30 and you each have your homeroom that you start the day in right
+before you move off to your separate classes. And you did alphabetically in this class.
+So Bob Muller sat in front of me and I stared at the back of his head, which was pretty, you know,
+hairy. So Bob Muller and I were friends in high school. Oh, that's wonderful. And you dial
+forward and he ends up befriending in graduate school, completely separate. He ends up befriending
+in graduate school, Eileen O'Keefe. How weird. Gosh, makes you think the world is just really
+is a small world system. And then separately, all of us converge on the hippocampus. It's crazy.
+That's crazy. And how it connects up. The story, the story gets better. But all the years that,
+you know, Bob was working on hippocampus, you know, he and me and John had a lot of, a lot of good time
+together. We really knew each other and really liked each other a lot. Bob's dying was a big,
+there's a big tragedy. Yeah, that's must have been. Yes. Yeah, that was, that was really sad.
+Anyway, dial forward to 1990. I'm jumping now. But it's okay. I'll take you back later.
+The Bob Muller story. In the 90s, I'm working on the beginnings of the multiple trace theory with
+with Morris Moskovich. And I go to give a talk, actually in Eastern Europe, you know, about it.
+And in the audiences, Bob Muller, for one reason, I invited a bunch of people, I put this conference
+together in Eastern Europe, and invited people who are connected to Eastern Europe through the
+McDonnell Pew grant mechanism, they were funding Europe to try to jumpstart cog neuroscience in Eastern
+Europe. Anyway, so I put together a conference and Bob was involved with one of those groups.
+Anyway, so he, Bob was in the audience. I gave this talk about the beginnings of the multiple trace
+theory. People thought it was a little bit nuts at the time. But anyway, Bob, Bob said, Oh, that's
+really interesting. I'm editing a special issue of the current current opinion in neurobiology, which is
+this journal that does reviews the field in different, I'm going to do the one in cognitive
+neurosciences of 1996. For 97, how would you like to write this up for that journal?
+So, okay, that's great. That's a great opportunity. So me and Morris, you know, wrote what became the
+97. So we write, we wrote up and submitted it to the this journal. And then we started to hear back
+channel of furious attempts by various people in the field to sabotage this paper so that it will not
+get it. Oh, no, why? Because the paper was a direct attack on standard. I will not go into
+names, you can, you can, whatever you want. But let's probably figure it out. But let's say that
+behind the scenes, there were some attempts to sort of squelch this, this stuff, which, you know,
+is really ugly when you hear about it. But this happens in science and certainly happened a fair
+mountain back in the day. And we, and a lot of us knew, know, and knew the main culprits were,
+but they were generally people of power. So you, you, there wasn't much one could do anyway. So Bob,
+so Bob sort of responded to this pressure by telling the people who were pressuring him
+to go fuck themselves. And that was to have, it's good. You knew that. That was Bob baller in a
+nutshell. Yeah. I love that. I love that New York personality. That's the New York person. And it's
+partly because he was a friend also. Yeah. You knew each other. I think he would have done it for
+anybody, but I think it mattered that he was somebody who knew me, knew John and he was in new us. And he
+wasn't about the bad guys basically determine what we, so he literally said that I've heard this
+from multiple sources. So the thing got published and, you know, it has had a fairly impact.
+Yeah. It's had domino effect. Now this trace is like such a word.
+Yeah. That's Bob Muller's, that's Bob Muller's contribution.
+Oh, that's great to hear because I want to put him more into the mix.
+Yeah. He's a hero. He should be one of the heroes of your story, whatever the story.
+That's good that you say that. It's good. You highlight that. But let's, we're already going.
+Yeah. It's already 715. Gosh, I have so much I want to talk to you about, but I do want to
+figure out, I want to go to Prague, but had you already been thinking about Tolman at all when
+you were still in McGill? I mean, so told me, and you asked, how do we get to Tolman? Well,
+Hebb was a big fan of Tolman and Hebb was a big fan of, you know, of cognitive approaches to,
+and Hebb was a fan. We talked about, you know, cell assemblies and phase sequences. Well, what,
+what were those other than Tolman's, you know, internal models? And so we were very sympathetic.
+So was he speaking about that in those intro classes or was that?
+At his seminar, we would read, we were reading all about the debates that were going on in the field.
+And Tolman at that point was central to them and Hebb was sympathetic. Even though Hebb was very
+positive about Skinner and about Hull and their contributions, he was also very open to Tolman and to
+the points that Tolman was making and the emphasis that Tolman was putting on, you know, what was
+going on inside the head. Yeah. Because Hebb was there also, there was stuff going on in between and
+Tolman was the only one who was saying that, you know, from the point of view. So we were open to
+Tolman and it was, you know, it was, we were not like heavily focused on Tolman because we weren't
+looking for that. John was not looking for space. John was looking for memory.
+Yeah. I guess I wonder if, if Hebb ever mentioned anything about seeing Tolman when he came to speak
+there at McGill or any of, I mean, just to connect back to that political social issue because Tolman
+had all that going on. Tolman was very political and that was another reason why both John and I
+liked him. We were aware of Tolman's political sort of lead. So that, you know, that gave Tolman a leg
+up, you know, right off the bat for both of us. Because he really did something big for science
+and kind of opposing that McCarthy stuff. Absolutely. Tolman was a hero for both of us
+already, you know, even before, even before the cognitive math stuff, you know, but, but we didn't
+know a lot about, you know, his political heroism. We knew about it, but we didn't know a lot about it,
+but it was enough to, and our, it was an easy jump to Tolman. Once this, once the play sells,
+where it wasn't like, oh, what could that be? You know? Yeah. You couldn't have even imagined
+it at the time, but once you saw that. So, okay. So why Prague? Was it all this political stuff? Or,
+I mean, you could have done a minute. It was partly political. For me, it was partly political,
+but it was, first of all, I applied to three places for postdocs. Both John and I applied to NIH
+for postdoctoral fellowships to go, to go overseas. And you both got them?
+Yeah. We both got them. That comes a bit later. We, I applied to three places. I applied to
+Hernandez Payon, who was a reticular activating system researcher in Mexico City.
+Oh, cool. You know, so, so let me point out, I had, I had the adventure bug.
+Yeah. I was about to say, you were already looking to get away.
+I was ready to, I, you know, my family, you know, basically never left New York,
+but I was ready to, I was ready to go. Okay. So you hadn't used your passport yet, except for Canada.
+You know, I don't even know if I had a passport. I don't know if you needed it. You'd been in the
+US and Canada at this point. I had been in the, I had never been outside of the east,
+eastern part of North America. Okay. Okay. Very, very parochial, but I,
+but I knew there was a big world out there. But New York is sort of international. So it's
+hard to be parochial when you come from there. Fair enough. I applied to Hernandez Payon. I never
+heard back from him. He got killed in a car accident during that, in that timeframe. Oh gosh. So that's
+why you've never heard of him. It was very famous. Did it work then that you had to write directly
+to the person you wanted to supervise you and before you got into the school? Yes. And these
+days you wrote and said, yeah, you got a, you got the, you have a postdoc opportunity for me,
+you know, could I come here and work and so on. I wrote to, I wrote to somebody in, in California,
+in Stanford, who did work with monkeys. And I wrote, you know, signed my name, et cetera. And,
+you know, are you, you got any room on your lap? And I got back a letter saying, dear miss,
+miss or mrs. Why are you, why are you interested in coming to the Bay area? You know, does your
+husband have a job here? Oh, Lynn, I see. Oh gosh. That's funny. I asked you my first name. I've had
+this, this, this, this mistake has been made multiple times, actually. Oh, what an insight you
+must've gotten into. Oh, you betcha. The way things work. Oh, you betcha. This was,
+I tell this story frequently, by the way, to my, to, you know, every class I've ever run. I tell
+this story about what it was about, about how I got a little bit of insight into what it's like to be a
+woman in the field, right? Then that was a wake up call. So I know, so I didn't write back to him.
+That was it. I just dropped it. Good for you. Yeah. I'll, you know, I can tell you who it was,
+because he's dead now, but it doesn't matter. But, but subsequently I met him. It's a him,
+of course. Subsequently, I met him and he, and told him about this. He didn't remember it at all.
+And he apologized profusely and became my champion forever, basically. It's true. He became my
+champion after that. And he was a man of considerable, I guess he was embarrassed, but
+a considerable power. So I, you're not going to tell me who it is. Okay. Should I try to guess?
+It was called Prebrum. Oh, that's huge. That's quite a name to,
+yeah, but he just played out. So you just turned that one down and the third one, I guess.
+I just, all right. Now, now my third choice. And my third choice was the guy in Prague who
+basically brought spreading depression to the world, Jan Buresh. And I had, so I wrote to him
+and said, Oh, that goes back to your masters. Yeah. Okay. Can I come to Prague to, to work on,
+you know, when I have some ideas about using spreading depression to study learning. And he said,
+yeah, I'd love to have you. You know, I'm just, he was just beginning to have some Westerners come to the lab.
+Uh, I'd love to have you, but you know, I can't pay you. So if you can get money, you can come.
+And I applied for the NIH postdoc. John applied for one as well to go to London. We,
+we both got it. And you both got it. Was that hard to get at the time? And that sounds like
+winning the lottery these days, but it was winning a lottery, but, but amongst the reasons I was
+interested in going to Prague dials back again was the previous year, maybe a year and a half before I was
+ready to go leave. Another graduate student, whose name is Phil, Philip Liss is not a name you would
+know. His story did not end well, but Philip Liss, who we all acknowledged was brilliant, crazy,
+but brilliant. He was part of your crew there. He was one of the, he was one of the apps,
+absolute brilliant ones. He took a postdoc working in Poland, in the Neski, in the Neski Institute for
+here with, with Konorski in Warsaw. Why do I know that name? Well, Konorski is very famous.
+Konorski was the most famous Polish neuropsychologist. He was already famous in the West.
+He published a book in 1967 where Philip Liss is acknowledged in the front of that. Konorski
+had come to visit McGill because of course, if you ever got out to the West, if you were in Eastern
+Europe and you got out to the West, that's where you want, you came to McGill because you wanted to visit
+with Heb. We got to meet everybody. So Konorski, not only did we have access, but it was a crossroads,
+like UCL very much. So we met Konorski. Konorski stood in front of that blackboard that we all,
+the room that I was telling you, the surgery, the lunches. Konorski was in that room at that blackboard
+talking to us about synaptic this and that. It was spectacular. He was a dynamo. He was like,
+you know, I now think of him as just this short guy, except that he was probably the same height I am.
+He was the short guy who looked a bit like me with no hair at this point. I'm thinking,
+not a bad comparison. Anyway, he was really something. And Phil got taken with him and applied
+to do a postdoc with him and got a fellowship and went with him. And so Phil, who I was quite close with
+and stayed with afterwards, wrote me from Warsaw and said, this is great. You really ought to try
+something like this. Why don't you think about going to, coming to Eastern, go to Eastern Europe?
+And I got some curiosity going on. It was that. Got me, sort of said, it's doable.
+Right. And he had a wife and a kid. He was there with a wife and a kid.
+Mm-hmm. Okay. You had two kids by now.
+I had two kids by this point. Okay.
+Two little kids. A, it was doable. And B, you know, it was fun. And you know,
+you could get a grant. And I was interested in politics too. Phil wasn't. Phil couldn't have
+cared about the politics at all. Okay.
+I thought, wow, I could go there and see what it's like to live in a socialist country. You know,
+see what it's really like to live on the social. Had you read anything about Prague before?
+Well, I had read something about Prague. I didn't know a lot about it. Luckily in 1967 was the world's
+fair, the world's expo in Montreal. Oh, that's great.
+And so there was a, there was a Czech pavilion, which was fantastic. It was innovative. It showed off,
+you know, a Czech culture in a very positive way. So that was what we knew about Czechoslovakia.
+Mm-hmm. So at the Czech pavilion in Montreal at the expo. That's great.
+We went inside unseen, basically, and just showed up, you know.
+That must have been spectacular because Prague, I remember the first time I went,
+how spectacular it was. And by then it was already very well known to the west.
+Showed up at the train station and you walk out, come out the train station.
+The train station has been modernized. So what you're seeing when you come out,
+the train station is not the train station that I arrived at.
+Okay. But you mean the one near the monument there, the main one?
+Yeah, the train station.
+Okay, okay.
+It's right there, just, just off to the side of the, the top of Wenceslas Square.
+Yeah.
+Mm-hmm.
+Yeah. All right. And you walk out and then almost immediately,
+a little bit to the right, I know Prague extremely well, a little bit to the right
+is the powder tower called Prazna Brana. So you step out of this train station,
+you're a kid from New York, you have never seen anything.
+First time in Europe.
+Oh.
+Okay. First time in Europe.
+Well, actually, we'd been in Paris and Amsterdam for a few days, but first time in medieval Europe.
+Yeah. And you step into the middle of that.
+There's nothing like that. Yeah.
+And it was mind-blowing. It was absolutely mind-blowing. Prague was, you know, dirty,
+but, but gorgeous in those years. It was just spectacular. Prague to me is the top.
+It's, it is.
+I love Prague.
+There's something very special.
+I went, I loved it. I loved it. And go back to Philip List, the guy who started it all. On the evening,
+on the day before the Russian invasion of Prague, I got a telegram from Phil List, who was visiting in
+Warsaw, telling me I'll, I'm on the flight to, I'll be in Prague tomorrow.
+Oh, on the day of the invasion.
+He was about, on the day of the invasion, he was about to visit me in Prague. He had been,
+he had been in Warsaw. And then of course the Russians came instead of Phil.
+So you arrived in Prague at the train station with your two little kids and your wife and
+some suitcases?
+Two little kids and my wife and, and was greeted there by our, by my mentor, uh, Jan Burish.
+He had a wife who was famous too.
+He had a wife who was famous too.
+He had very famous, Olga Burishova. She was not with on that occasion, but I met her.
+Okay. He picked you up in a car or something?
+Yeah. Picked us up. I guess he had a car. Yeah, he did have a car. That's right.
+And he drove us north. We didn't know this. He drove us north to an apartment that we were meant
+to share. We were going to live in one bedroom of a shared apartment about 45 minutes from the
+Institute. This was the arrangement. Goodness.
+And in a day or two, my then wife rightly said, this is not going to work. This ain't working.
+And I went to him and said, this can't work. I mean, this will not work. And he then found within
+a 10 minute bike ride of the Institute in a little town, adjacent, you know, suburb of Prague. It was
+like a village at this point, right across from a pond, a lake, the upstairs of a, of a house that we,
+we could rent, you know, that was like perfect. I found the perfect place having, you know, found
+this place that was totally unacceptable. I have no idea what, what they imagined we could, how we
+could function in that setting. But the first few days were funny because of course, we had no
+language whatsoever, you know, and then just go around trying to find some food and trying to explain to
+people what it is you want. Was it stressful or was it kind of exciting? It was amusing. It was
+stressful in the sense I couldn't find anything because everything then, this was not the Prague
+of now. Again, this was Prague 1967. That means the grocery stores didn't have like fancy packages.
+Everything was in brown paper bags with a lake on it. So how could you tell what you want?
+I just wanted to buy some cereal for my kids. And I walked out with a bit, with a pound of rice.
+That's wonderful. Yeah, no translation devices to help. Yeah, no translation device, nothing. We
+were just completely on our own. For the first few days, it was pretty fun. But we adapted pretty
+quickly. The place we moved into in the countryside was incredible. The neighbors across the street were
+an older couple with some kids of their own, young married couple included. And the older couple kind of
+adopted us like grandparents. I mean, it turned out to be. Oh, that sounds wonderful. And did you
+learn? Did you pick up the language? Did the kids pick up the language? The language probably because
+I had to. Oh, wow. Okay. I'm not looking to find out what was just about out of it. I, you know,
+when the invasion came, I went, I left. Yeah, I want to hear about that. But somehow you had gotten
+a VW bus by then too, I know, because I. Oh yeah, we had a VW bus. When did you get that? Did you go get that in
+Germany? Because you couldn't have gotten that in Prague. In Germany. Got that early on, basically.
+And, and I, I did not drive. My wife was the driver. I was, I did not drive. It was a little
+unusual. But she was the driver. It's not like that anymore. I learned how to drive finally. We,
+you walk in New York, you don't need a car. Go to Montreal, you don't need a car. You go,
+I turned out I didn't need a car most of the places I live. But yeah, Prague, it was used. It was good
+that my wife drove. Anyway, we, we left because the Burish said, I can't guarantee the safety of
+your children. You should probably leave. And I called up John, who was the only other person I
+knew in Europe. The only other person. Yeah. And we said, we're leaving. Can we come and camp out
+with you in London for a little while? And he said, of course. So we, we packed it up. We drove out.
+There's a lot of stories there, which I won't go into now. And we, we decamped in London,
+in John's apartment for a couple of weeks. But by then it was clear that that marriage
+that I was in was not worth preserving anymore. So we split up. We, in the midst of all of this
+turmoil. Sounds very chaotic. It's very chaotic, but under conditions of chaos, sometimes you take
+decisions that you are not otherwise. Things become clear. You're bumped out of your local,
+your local minimum and you're, and you can, you know, do things you might not otherwise do.
+That's true. We did that in a certain sense of clarity. The right thing to do. It wasn't.
+But I need to hear about this trip. So you, you drove in the VW bus to London. Yeah. With the kids.
+We drove down with the kids. We drove down to Austria. Yeah. Out that way to the south. And then
+from Austria, all the way across Europe onto the ferry and over to London with the kids. Stayed there
+for a little while. Then we decided enough. And she took the kids and went to Spain in the, in the van
+and left me behind. And I stayed for eight months. Transferred my grant to London and did some work
+there. Found a place to live, all of that kind of stuff. And then went and took the kids back because
+they didn't want to be with her and she didn't want them. And I took the kids and went back.
+Sounds really challenging.
+I went back to Prague with the kids as a single father, which in Prague turned out to be a lot
+easier than you would think it would be in most places. Because you had so much community maybe.
+They had, well, it was partly the community, the people that crossed the street. I lived in the same
+place again. But it was partly that, you know, it was the free daycare, the free healthcare, the free
+everything. It was all laid on because all the women had to work there. Everything was set up
+so that women could work. That's true. Right. That's my friends tell me that too.
+It was a lot of more. So the thing that the father was actually,
+was actually very sustainable. You know, I mean, I had was on my own. I wasn't, but that,
+and I'm getting back to why I had to learn Czech. If I wanted to have any kind of a social life,
+I had to learn some Czech. Oh, okay. So that's a good motivating force.
+That was partly what drove me to learn some Czech. Also lots of lovely people around, I imagine.
+There were a lot of people around that I wanted to interact with. Yeah. So I have to go back to
+this one moment though, when you arrive in London, because I have kind of written about this a little,
+I'm trying to kind of visualize it. So you arrived there first with everyone, right? In the bus?
+Or did you arrive alone? And was John, what was the weather like? Were you exhausted? Did you,
+did John come out and meet you? You know, I, you know, probably, you know, although they live up on the sixth
+floor of, of, of, I think then it might not have even had an elevator or had an elevator. I remember.
+So, yeah, I think John must've come out, but, but I can't honestly say any of the details.
+Uh, I don't remember the actual moment of arrival. I do remember that the weather was crappy.
+This was August. The weather was pretty nap, lousy. I remember that. I remember that the,
+the trip over on the ferry was, you know, not so pleasant, but other than that, I don't remember
+very much because it all got jumbled up together and trying to figure out a guest room that you all
+slept in. Did you sleep on the couch or? Yeah. He had a big apartment. He's the same apartment
+that he's been living in since forever. And it's a big apartment. And we, um, we were, yeah,
+in one of the rooms of this big apartment, but after about 10 days, it was like, well,
+what are you going to do then? Yeah. Maybe you should find something.
+They had a baby as well at that point. So they were not without their own responsibilities and,
+you know, they've got, and I realized it. So we moved on. Sounds like a time of very big changes
+because you went back to Prague, but then by then you, did you know that you wanted to go to London
+to work with? Yes. Yeah. And during the time that I, that I was in London, John and I figured it would
+be nice if we were in the same lab, not that we would work together. That wasn't the idea. Okay.
+Just to be nearby. We were very simpatico. We thought about, we had a, you know, we had a very
+similar background training wise that would, let's see. And then we actually cooked up a job
+for me. We arranged a job, a lectureship in the anatomy department. It was all set up. I went back
+to Prague with this already clear. I was going to go back to it, spend a year and a half there,
+you know, deal with them in a, in a setting where I could, and then I would come back and I would have
+this job in the anatomy department. And that's exactly what happened. A lot of other things happened
+in between, but that, but that happened work wise. That's exactly how it played out.
+I went to Prague. I got a lot done. I published a bunch of papers. I had a really good time there.
+It was really fabulous. Sounds like it was very productive for you,
+even though you had so much personal stuff going on. It was quite productive in the midst
+of all of that personal stuff. That's true. But I think I've always been sort of good at
+compartmentalizing. Yeah. And, and then, and then I went back to London and then, you know,
+that's the whole other chapter started there because fairly quickly this play cell thing happened.
+And then I abandoned what I was thinking. So the, I mean, when John discovered the play cells,
+I abandoned the visual system, which I had been thinking I was going to go back to for, you know,
+that's a whole, that's connect to the Prague work that I did. I, and I thought this is just too
+interesting. And, uh, we, uh, we started to think about what would be the implications
+of there being a cognitive, a Tolman-like cognitive map. What would, what would that mean?
+You know, for how we think about the hippocampus, how we think about its role in memory, how it relates
+to other structures in the brain, how to interpret all the data that's out there already. What would it
+mean for all of those things? And, uh, and we sort of, you know, there's a kind of an interesting
+theoretical framework here. So, but you were, you were working in the same hallway or how was it
+like, how were you in the same office building? We were in the same hall. We were like two doors
+from each other. We were in and out of each other all the time, but neither of you were really working
+on hippocampus yet, or you were starting to, at the end of the sixties. You were, of course,
+started. I had done, but I was not at that point. I started, when I showed up there, I started with
+the intention of physiology of vision lab, where I was going to trace down visual, visual memory
+traces from one hemisphere to the other building. But I have this, I have this image, tell me if
+it's correct or not, that he sort of came to you because you had done so much work on the hippocampus
+already. And when, when he found these at the very beginning, he had seen the cells. He had had his
+ideas already a little bit, but yeah, he came to me because, you know, literally it was early in the,
+in the, in the discovery. Look at what I'm seeing in the hippocampus. Yeah. You know,
+you know something about the hippocampus. You did your dissertation on it. What do you think,
+what do you make of this? It was, you know, just like that. And was it just immediately like,
+oh, it's definitely something with space. It was immediate to him. He didn't need me to tell
+him what he had already seen. He just wanted to, you know, confirm. Yeah. And then like,
+okay, what, what, you know, what now I jumped on it. I thought this is fabulous. And then,
+and then we very quickly saw that this would have big ramifications in the hippocampal world,
+that this, this might offer a way of understanding, you know, the disjunct between animal and human stuff.
+It opened up lots of possibilities if one explored it and we started to explore it. I don't think we,
+at that point understood how it could also open up sort of possibilities for thinking about the brain
+more, more generally, more broadly way of thinking about the brain and behavior, you know, that, you
+know, in other words, we were kind of making up, you might say, you know, a framework for cognitive
+neuroscience without actually thinking that's what we were doing. We just imagine. Yeah. We have to talk
+about that later because there's so much there, especially like you really blew my mind a little
+bit when you brought up the predictive processing, because I've studied that and I just hadn't really
+quite connected it, that mental models basically are cognitive maps. And a lot of the stuff in that
+book actually is already presaging a lot of what's coming out. Without realizing it, I don't think we
+understood just how, but it's, but it is all there. The whole notion of that that's what the system is
+doing is constantly predicting. And then the misplay tells are the kind of prediction error
+detectors. I mean, it's all, all there. Although I don't think that was our intention. So I don't
+want to take credit for it. No, of course not. And it's coming from different lineages,
+because I don't think you mentioned him holds and all this. Yeah, it was part of the framework,
+certainly that we, that emerged because shortly after I, and I've told this story in a couple of venues
+where I insult, I insulted the editor of psych review. We had, we had initially been intending
+to publish in psych review. So, so having, having insulted the pompous editor of psych review.
+I love that. I love it that John went along with you too, and just left.
+What else was he going to do? Yeah. It's good that happened because otherwise you would have had a
+paper maybe instead of all these years working on that. Who knows? We might have ended up with
+a psych review paper and, you know, and, and 35 citations and that would have been the end of it.
+Yeah. Could have been. But that avenue having closed, we then decided, all right,
+well, we'll write a monograph. You know, now in those days you could publish thin little monographs.
+We'll write a monograph and we'll publish it as a one-all monograph. Thin little monograph. Haha.
+That was how it started. It started as a thin 70 page monograph. And it just kept on building.
+It just kept building because we kept on, we kept on seeing that this story had more
+tentacles than we, we were aware of. Yeah. And each tentacle tapped into a literature
+that if we could connect to it would strengthen the overall story because it would be one more
+bit of converging evidence, so to speak. So we kind of, again, invented and didn't invent,
+because again, other people have kind of, the notion of converging operations and bringing
+multiple level analysis. I mean, we built that in right from the start. Even the idea of the
+philosophy being interdisciplinary. The more we saw that, the more it looked appealing,
+but then the more it meant we were going to have to, at some level, master the literature in five or
+six different areas. Which is crazy. I'm still blown away that you know all this about Kant and so on and
+so forth. It's really hard to imagine. Well, but that, you know, in those days you could. In those
+days you could. I'd like to tell the story. It takes years. I'm looking at my, at my bookshelf over
+here because I have re-bought pretty much all of the books from the 1950s and 60s from the great
+conferences that were held. Those are, there's on, in the space of two sections of books, maybe 40 books.
+That was all you had. If you read those 40 books when you were a graduate student, you'd know
+everything that we had needed to know in the whole world. That's crazy. Now it's like that many papers
+in an hour. Now it's that many papers every week, right? So it's a totally different world. It was
+possible to somehow master it. Even then we missed a bunch of stuff. It was possible then to get a grip
+on everything or at least wrestle with everything. Now it would be absolutely impossible. Yeah, you
+would have to decide. So once we realized that then the next thing we knew we were in the middle of a
+six-year project to write a book. We didn't think it would take that long. We didn't anticipate,
+we didn't anticipate all the ups and downs, personal and otherwise, that would get in the way.
+We didn't, we wrote a first draft. We wrote many drafts, typed out by hand in those days.
+Oh, do you have any of those still?
+A little Olivetti typewriter, if you know that name. Olivetti was a
+famous back in the 1960s. College kids, they were cheap and available. Olivetti.
+Do you still have any of them? You better put them in an archive or something.
+John has them. He, hey, John has file cabinets full of them because we put them on different colored
+paper. They're all going to, we think they're all going to end up at the Welcome, at the Welcome
+Institute for the History of Science in London. He's negotiating for what's happening with those.
+They're the, you know, I have one, he gave me one chapter, the chapter on anatomy so I can track a
+little bit and, you know, we, he and I have been going back and forth, but anyway, it's, it's,
+doesn't matter as long as they end up somewhere. Yeah, as long as somebody, as long as they're there.
+We sent, we ended up with a draft that we thought might be worth getting some feedback on. It was
+about 300 typewritten pages. We paid for 40 copies of that 300 pages and we sent them, we sent it around
+unbidden to a bunch of experts in the various fields that we had to philosophers, to psycholinguists,
+to hippocampal people who knew about it a little bit. We just sent it out for commentary and we got
+comments back from a lot of people, a lot of useful feedback, and then it took another four or five years
+to, to finish it, to finish the job. Sending it out on the manuscript or how did that work? Some did,
+some didn't, some, some took some of what we said and plagiarized it. I mean, who knows? We took a big
+chance. We had to hold that out. It was a, yeah, I don't know that one could get away with doing
+anything like that now. Yeah, probably not. But yeah. And during this time, we also didn't publish,
+we also didn't publish very much. Yeah, I guess not. How could you? But I guess you were taken
+care of in a way that you didn't have to so much. We're sort of protected and taken care of. Yeah.
+So that's the story behind the book. There's a lot more. Yeah. We'll get into that later. I think
+I'm out of the country now for, for three weeks. Well, you know, I'll be in Amsterdam for a few days.
+Yeah. Go over there and they'll help you. If you all need anything, but I'm going to the States
+to present some papers. We're switching places. We'll only be, we'll only be there for three days.
+It's really just to see the Bermuda. I'll connect with you again in one percent.
+Bye. Thanks so much. I really appreciate it. Have a good trip. Bye. Bye.

@@ -1,0 +1,496 @@
+okay hey max nice to see you again nice to see you so i wanted to talk about language a little
+bit and one thing in particular i wanted to ask about was this section when you're talking about
+evolution and you're talking about broca's area in the brain and different areas of the brain
+relative to language and how that's kind of changing we're changing a bit uh how much
+we understand what's really responsible for language i'll let you set it up better but
+example you give is the bird and how birds are born and they have to learn how to fly
+but you talk about this in a wonderful way uh with how it's better to have a general learning system
+and then a curriculum and by changing the curriculum you get different things so evolution
+has a bottleneck which is the amount of information that can be inserted into our genetic code and so
+when we want to get organisms when i say we when evolution is exploring possible new behavioral
+repertoires very complex behaviors are really hard to directly encode into our genes and so language is
+a good example of something that is extremely complicated and encoding all of the necessary
+algorithms for uh how to assign uh labels to things and how to produce grammar into genes would be quite
+challenging um and my sort of analogy to flight um is a bird being born with the knowledge of how to fly
+would overload the amount of information that has to be inserted into genes so an alternative that is not always but
+frequently used in evolution is to have a more general learning system that is capable of learning a
+broad swath of different things and then a uh instincts to produce a curriculum to train that general
+learning system and when you do that you can get the same intellectual capacities but condensed into a
+much smaller amount of information in our genetic code um so for birds for example they have this general
+learning system they have a neocortex like structure and they have instincts uh when they're young to
+try and flap their wings to jump off of high uh uh high ledges um when falling they have a general
+instinct to flap um so they have all of this like repertoire that is not directly encoding the ability to
+fly but when you have this this instincts to do these behaviors the general learning system learns how to fly
+and so um there's a lot of evidence that language is the same where we're not born with the ability
+to speak um it's well known that a human isolated from other humans will not learn language um we also
+know that uh you know there's clearly very different languages that emerge across the world so it's it's
+obvious that we don't are not born with english um there actually was an experiment i forget exactly when
+in like a crazy experiment in the medieval ages i think some king wanted to prove some language is
+the true language of god and isolated children to see if they would learn that language and of course
+they learned no language gosh um but it's very after a time kids can't learn language anymore you can't
+learn language exactly so um so it seems to be the case that with language we have this instinct
+um to engage in certain behaviors that enables our brains to learn language there's two behaviors in
+particular that seem to be essential for uh the language learning curriculum the first is joint
+attention so even pre-verbal children and infants will engage in this very simple repertoire of attending
+to an object and then attending to a other human to confirm that they are also attending to that same object
+and so this very simple exercise and joint attention is this repertoire that enables us to ensure
+there is joint attention to a common thing and so one theory as to what the benefit of this is is it
+enables us to engage in declarative labeling because when i confirm that we're both attending to the same
+thing you can speak an arbitrary symbol whether it be a hand signal or a verbal signal and now we can both
+assign that symbol to that thing and in the absence of this joint attention it's very hard to get people
+to agree on common symbols this is one theory as to why it's really hard to teach non-human primates
+language it's not necessarily that they don't have the neocortical machinery to do so but because it's
+so painstakingly difficult to get them to engage in this type of joint attention it's just challenging to
+get a declarative label into their into their mind um so that's one that's one aspect that is really
+essential for learning language that it seems to be just a curriculum instinct the other one is uh
+proto-conversation so even in really young infants you can see them engage in turn-taking with their
+parents where they will match the pause duration of their parents when babbling back and forth and so
+this ensures that um not only is there joint attention but there is a consistent rhythm in
+passing information back and forth and of course in the beginning there's almost no information that's
+passed back and forth there's just a template for a medium by which information could in the future
+be passed back and forth so so these two things seem to be sort of an essential aspect of producing this
+instinct through which language then gets learned um and so and so this is one reason why when we
+look into the human brains and compare them to chimpanzee brains it's very hard to see anything that's
+different um and that's probably because what is different is buried very deep into subcortical
+instinctual areas of the brain it's not some new clever area of neocortex um it's something probably in the
+amygdala or these other regions that drive us to want to attend to shared objects to confirm other
+people have attended to them um to share in uh sort of uh a time-based turn-taking etc it's interesting
+i hadn't thought much about the attention part of it too and i wonder if there have been have there been
+studies done about like human attention versus attention of some sort of an ape or monkey like the
+attention span do you know i don't yeah i um i'm not aware of any studies but my hunch is that a
+child's attention span a human child's attention span is not much better yeah attention span um but i
+do know there have been studies comparing the ability to engage in joint attention between human infants
+and chimpanzees and there is a stark difference where chimpanzees do not uh confirm that others have
+seen what they've seen yeah it's fascinating the social component i believe you talk about how the
+the first four breakthroughs are all they're there for any individual but language is different right
+because it doesn't matter if you're by yourself right it's a social or community skill or breakthrough
+or how would you unpack that so when trying to devise evolutionary explanations for the emergence of
+traits um the standard evolutionary argument is around um you know natural selection where there's
+improved fitness to the individual organism that evolved that trait um and thus their genetic uh
+sequences are more likely to propagate etc etc so all four prior breakthroughs um can be explained through
+the lens of why improved trial and error learning or improved simulating or improved mentalizing
+in an individual organism would improve the propagation of that individual organism's genes
+so there doesn't need to be any really complex evolutionary arguments to understand why such a
+trait would be selected for but language is much more challenging uh because it's not so clear why an
+individual evolving the ability to engage in joint attention um and the ability to do these proto
+conversations without any other individuals having this ability would have any more fitness and so
+this goes into a more controversial area of evolutionary biology um which you know is uh what has been
+talked about as group selection and uh a lot of there's been a lot of work on the world of group selection for
+many years it was deemed that that is you cannot make group selection oriented arguments uh so to take a step back
+for listeners group selection is the argument that we see in popular culture all the time
+but is uh much more nuanced among scientists where we say oh well one troop of humans that speaks
+language would clearly do better than another troop of human that didn't and that's why language gets
+selected for um but the problem is language doesn't evolve in groups it evolves or traits don't evolve in
+groups they evolve in individuals so you have to argue why it would be the case that an individual
+speaking language would do better than others and in that world it's not so clear um why why it would
+be better for example it might be better for me uh in a group of individuals speaking language um to be
+one that starts lying and uh if people start lying to each other with language it might be better off
+for me individually to trick other individuals um and uh but then would be worse off for the overall
+group so it's not so clear why uh language on individual level will do better even if it does
+do better on a group level and so now it's largely most evolutionary biologists are in the camp of
+multi-level selection theory which is there can be some group level effects that drive language of
+the evolution of certain traits um but but it's important to understand why it would be valuable on
+an individual level for language to evolve and this goes to some really interesting stories of language
+evolution itself one uh area that i think can largely be cast aside but is worth uh discussing
+because there is a cohort of linguists that still defend this like noam chomsky and he would argue
+that language does not in fact need any clever evolutionary arguments because language evolved
+originally just for thinking so there is a group of people that argue that the benefit of language had
+nothing to do with other people it had everything to do with us improving our own inner thinking
+i personally find this argument hard to conceive of because we know that people do not in the
+absence of other people teaching them language use language for thinking exactly it seems almost
+impossible to have language by yourself that's at least the kind of language that what we mean by
+language as a human right so i find that i find that argument hard to believe but it's worth saying
+there are a group of people that defend it um and and still believe in that so if you think about
+language uh being primarily beneficial as a tool for communication then you need to understand why
+it would be a stable strategy for uh individual human to have improved language skills in a group
+of other humans with language while knowing that language can be used to actually make you worse off
+in other words by deceiving each other and tricking each other and so one argument here is the way in
+which language became an evolutionarily stable traits to be selected for is other things started
+getting selected for to make it stable for example gossip so this is the famous robin dunbar theory which
+was more popularized in sapiens which is this idea that one way in which to make lying and defecting
+using language not beneficial to an individual is to make sure that everyone knows when someone defects
+so we become particularly good at detecting lies and when we see someone violate some moral rule
+we have this natural instinct to share with everyone and it is funny that once once you hear this idea
+you realize what percentage of human conversations is gossip and it's a little alarming robin dunbar
+actually did a funny experiment where he just recorded conversations on the street and his assessment
+i think was 70 percent of human conversations are just gossiping so so that suggests that one way in
+which language became more stable was the costs for defecting or using language for lying went up to
+make it less uh valuable as an individual to defect in such a way um in addition to using uh language for
+gossip to inform people of violations also the consequences of violations also went up in other
+words humans are uniquely cruel to those they deem to be morally apprehensible um or out group members
+you do see some of that within uh non-human primates but humans are both uniquely altruistic but also
+uniquely cruel and so one argument for why we are this way is in order for language-based communication
+and cooperation to be stable there needed to be very high chances you would get caught if you defected
+and if you were caught defecting the costs need to be very high and so those instincts for punishing
+um people who defect drove uh enabled humans to be uniquely altruistic at the same time because uh now
+it makes sense for me to be uh quote-unquote uh beneficial to others and be honorable and do the right
+thing by the group um because the cost of me uh trying to do something selfishly is quite high and
+so obviously we don't know uh why um all these sort of unique human traits evolve but it is interesting
+that in order to derive a evolutionary story language evolution it almost naturally picks up some other
+unique human traits along the way such as our in-group out-group thinking uh altruism and our unique uh the
+extreme nature by which we punish defectors um who we deem to have done morally apprehensible things
+yeah it reminds me of i think you make a distinction of or you talk about there's this huge time period
+which is about do you call it evolutionary time period and then you go into cultural are those the
+two words you use yeah and the cultural is very small but this sounds very cultural to me uh obviously
+but you know even like gossip can have a similar effect to something like a sports match in terms of
+bringing community cohesion or having some kind of uh third space to connect with others or vent or
+whatever so it's very rich to think about all that of course today we won't solve where language comes
+from but just like maybe you could help me understand the curriculum what's what's changing the curriculum
+really mean i'm trying to understand instead of going through this evolutionary process would it be
+closer to something cultural i guess so so it is still an evolutionary process but what um what is
+being changed in the brain is not a new algorithm for language so there's so when we look into the brain
+and we see oh this is the neocortical region for language it used to be thought that there was some
+clever algorithm happening within broca's area and wernick's area that enables language and the more
+we've looked at it i mean people have attempted to squint their eyes and see differences between
+those areas in humans and non-human primates i don't find that evidence particularly compelling
+the regions seem to be identical in a chimpanzee um and so it might be the case that there's nothing
+new in that in that region um the same way that if we squinted and looked at the brain of a guitarist
+versus a saxophonist you're not going to find a guitar algorithm in the motor cortex versus saxophone
+algorithm they just went through a different learning curriculum um that enabled that uh the
+same general learning system to learn a different skill so so where there probably are differences in
+the human brain versus the chimpanzee are in these subcortical structures by which sort of reflexive
+behaviors emerge so um and those you know who knows where those exactly where that change happened
+but it's probably somewhere around the brain stem or uh you know in the amygdala or the or perhaps
+even uh areas of the basal ganglia where we are driven to uh when we see someone we feel a connection
+to attending to something we have this instinct just to look back and forth to confirm that they're
+attending that same thing and just even someone we don't care for you know you see people on the
+street if someone's looking up at the sky i mean there's been studies done about that too and then
+everyone goes looking exactly um and so and so that that's a very simple reflex that can
+be encoded into a gene but paired with a powerful learning algorithm what emerges from that is
+language and i should note one thing with gaze following just because i think it is an interesting
+point there's a distinction between gaze following which is you see someone else looking somewhere and
+you look in the same direction uh turtles will even do that um there's there's many animals that
+engage in gaze following joint attention is an additional layer where not only do i look at
+the thing but then i go back to make sure at the same time we're still looking at the same thing and
+that's something very unique that's a very interesting distinction yeah yeah i hadn't thought about that
+recently that's that that is different uh i still well i guess i'm gonna push it a little bit but
+i'm trying to so you've had a lot of experience with people who are working in neuroscience you've
+studied neuroscience very deeply so i'm asking you to speculate a little bit on this but like when
+you think about how the brain works um you know we often name it all these things like the fusiform
+face area or you know we name the jennifer aniston cell or we like to kind of label things by their
+function but when i was reading this part of the book and in other ways too i was thinking more that
+it seems evolution has built general learning systems and that the brain also is a kind of general
+learning system and it's of you know in the same way we could see broca's area and vernica's area
+um as patterns of course like over time that those areas have been used in that way it doesn't mean
+they're necessarily can only be used that way you know as studies show they can be repurposed and so on so
+i guess i'm just trying to ask you to speculate would you would you say that it's more of a general
+learning system or would you say there are really like certain areas of the brain that are you would
+say are only uh specific to some particular function of course it's not either or but if one
+wanted to produce a highly simplified schematic uh to build a framework for how the human brain works i
+think the best one would be a model of layered control um which you know has been speculated for
+for decades and i still think it holds holds fruit there's exceptions to it etc but i think it as a broad
+first approximation it's reasonable and in a model of layered control um at the bottom you do have
+basic reflexes um that are hard-coded and we know for sure that exists we see we've mapped the exact
+reflexes in the spinal cord um we know there are uh reflexes that emerge from the brain stem um and
+we've well mapped various other like bodily control things from the hypothalamus um so so it's it seems
+reasonable to to model this as at the bottom there are these hard-coded rules but then above that
+system is a learning algorithm that over time can modulate those rules and then that learning
+algorithm might have another layer above it that's a little bit smarter and more general that controls
+that that one right below and so um we can squint and sort of see the brain in this way where the
+spinal cord has one layer of reflexes that can be modulated by the brain stem and the brain stem is
+modulated by the hypothalamus and the hypothalamus can be modulated by um uh sort of the the uh more
+simplified versions of the cortex like the cortical basal uh the cortical amygdala and the basal ganglia
+um and then that all can be modulated by the neocortex now i don't think that is a perfect model of
+how the brain works but as a first approximation um i think that's a reasonable framework um and i think
+what that exemplifies is the brain is not just a reflex machine clearly um but the brain is also
+not just a learning algorithm it's the pairing of these two things um that enables us to both survive
+well in low data environments in other words when um you know we're first born and we've had no data
+to learn anything um uh at least many creatures do very well surviving humans are unique in our uh inability
+to be useful for many years yeah can't even walk for a year right but a lot of what that shows is uh
+you know human evolution has been a shifting in and really also primate evolution has been a shifting
+amongst these different layers of more and more control to these higher labeled uh layered systems
+now which is a trade-off because it means what you're saying about attention too just really quickly
+it's interesting that then we also have to if we have a baby that takes a year before it can even
+walk it requires a completely different kind of attention so that with the neocortex and everything
+it all makes sense 100 yeah with neocort one thing that um i think is particularly illuminating in an
+evolutionary account of how the brain works is um we've one example of this is if you look at the
+motor cortex um for humans motor cortex has historically been conceived of as the locus of motor control
+and it is understandable why we think this because with lesion studies you get a lesion to the hand
+area of your motor cortex and you are become largely paralyzed with your hand same thing for other
+regions and then we see this in other primates as well but if we look at other non-primate mammals
+motor cortex damage does not cause paralysis at all um and what motor cortex damage does is it makes
+it harder for them to learn new skills and to engage in fine motor skills that require proactive planning
+so you know a mouse uh that needs to place its hand in a very specific configuration to hold a
+complex object and eat it it becomes a little less dexterous at that but it doesn't become paralyzed
+and so what i think this exemplifies is the uh the motor cortex seems to have originally evolved as a
+system for motor planning that's very flexible it has a model of one's own body and can plan
+configurations and that was really useful for modulating these lower level systems um when
+engaging either with needing to train it to do new skills or when presented with a really complex
+task and needs to plan ahead of time um but full motor control in a rat is not given to the motor
+cortex the motor cortex is more of a modulator it guides you have these pattern generators right
+but in primate evolution because motor dexterity and hand dexterity became so much more important
+especially even with with humans we've traded off control to these lower level systems that can do
+things very early in life for more flexibility and just handing control of our body to these this
+like mental simulator the the pro is our motor skills are much more flexible the con is it takes
+way longer for us to develop these motor skills um and so that's why with primates you see paralysis
+motor cortex damage and you also see you know you know young primates not have nearly the motor
+dexterity of a young non-primate mammal typically yeah it definitely seems all connected the
+vulnerability the attention and the language and how for whatever reason it evolved but
+as i said we won't solve that but it is interesting to think that those the first breakthroughs that you
+describe we can sort of stay with the individual and yes i understand that language can people can say
+maybe it's also individual but it's definitely more community um there's something very different
+about it and not only that but it at least in little our little human world which is now taking so much
+power over the every part of the world languages you know becoming the suit the superpower so to speak
+and not only in terms of how we interact and what we say and what we create and media but of course now
+also in our technology and you do go into you know the llms large language models and chat gpt gpt3 and
+gpt4 you talk about how even those are evolving so um do you see any i just wonder a big picture how you
+see that like when you're thinking about evolution in terms of um is it some kind of like big jump or how
+do you you talk about it a bit in the book but just i wonder how you see that that shift there
+into prioritizing language and then almost all our technologies also prioritizing language yeah it's
+a really interesting trend that has occurred which um which is interesting in in light of the book because
+in some ways the the way that ai is going at least over the last few years with the success of
+transformer models and large language models has been taking almost the exact opposite path um that
+the evolution of the human brain took which is uh the evolution of the human brain language was this
+final cherry on top that activated all of the 600 million years of brain evolution and enabled us to
+do all these really powerful things but it was it required all of the old machinery in order to make
+language uh possible and useful um and uh these large language models are going the reverse
+direction it's the foundation uh is training these systems to predict words um and from that
+it builds representations of what these words are representations of so it learns things about
+the world just by reading about text so it is you know clearly they they learn something about
+the world by doing that and now we're trying to tack on vision to these transformer models we're
+trying to enable them to take actions um we're trying to uh get them to do some form of simulation in
+other words they think about their task ahead of time before choosing so we're going the exact opposite
+direction um and it's not we can just think about that one second so you mean like multimodal um
+elements what how do you like what is that exactly i mean i have trouble really understanding what like a
+large like training on action or world models or is it still what's being trained i mean is it just
+the algorithms or does it need some sort of embodied if it's a if it's learning actions what's learning
+the action so so from going from language to multimodality um it's a little bit hacked depending on
+uh who legan lacune would say it's a hack other people would say it's not a hack but um so the way these
+large language models work is they're not really language or vision they're token so what happens
+is you give them a set of tokens within this token window and you try to get the the transformer to
+predict either a missing token the auto aggressive form which is what we're all used to now as it tries
+to predict the next token and so what multimodal models do is say okay so we have all these tokens
+that represent sub words within language what if we give some space to tokens that we we make from
+pictures and so they take some of the token length and we train a separate usually convolutional neural
+network to take features from images and condense them into these arbitrary sets of tokens okay and
+so we've now translated a neural network that was designed for vision into this token language okay and
+and then it's really the same it's the same thing still exactly i was trying to imagine did someone
+create some way for something to watch life as it's happening and learn from it um that hasn't been
+converted into its language so to speak no yeah and so what people are with action you can imagine the
+same thing so you can have uh tokens that represent actions and then you try but you have the token
+that's that's the thing i wasn't sure about because people talk about it in a way and i'm like what's
+doing this is there no but yeah that that's still then you're still translating it into exactly the
+algorithm okay thank you sorry i don't know even know where you were talking about how it's different
+that we're going backwards now or something or reverse direction right so we're starting from
+language and going backwards and i think um we there will be fruit that will be uh got from this
+approach um scale clearly solves a huge amount of problems that evolution didn't have access to so
+you know evolution can't scale up a human brain a thousand times and see what the result is whereas
+we can do that in silicon yeah um but i i still think there's lots we can learn from nature um because
+nature has solved a lot of problems that our existing neural networks are still struggling with so i'm
+skeptical that the go from language backwards scale up transformers um is going to be the panacea
+to agi i think most people would agree with that although there are probably some that don't
+um and i think there are still going to be some things that we want to learn uh from nature in order
+to get the models that we want i think yon lecun's approach is uh very promising uh what we want to say
+more about that you think his approach is very promising the yon lecun yes so yon lecun is building
+um systems that are that have the same feature of being self-supervised um and and so that's one of the
+key things that are is wonderful and brilliant about the transformer approach is it's not a
+supervised system we don't tell it the right answer to anything we just give it data and we remove or
+mask parts of the data and trying to get the system to predict what's missing and that simple task of
+self-supervision trying to predict what you see enables it to learn these ridiculously robust
+representations of the data you're giving it that enables it to do all these crazy things
+yon lecun's doing something quite similar but directly for images um so and video so he's he's
+trying to build a system where you mask certain parts of the video or an image um and you train
+the system to reproduce that now the key nuance here um which exists in vision it doesn't exist as much
+in language which is why this might not be as simple as just hot swapping images with language
+is the dimensionality of images is so much greater than with language and so um you know many people
+for decades have been trying to get one of these generative models to directly reproduce the section
+of an image that's missing yeah and that doesn't work because uh the the possibilities for what could
+be in a missing part of the image is so much greater than the possibilities of what could be missing
+in a missing word in a paragraph and so what he's actually doing is a little bit more nuanced where
+he takes an image he gets a representation of that image and then he tries to mask parts of the image
+and get another system to predict what's missing in that representation so you don't try to recreate
+the exact image you try to predict an abstract representation of that image and so that is actually
+there one could draw analogies to some of the stuff that's going on uh in hierarchical levels of neocortex
+there if i wanted to um but that's showing some promise and i think there are some really cool
+features about that um and the way it handles uncertainty and and all that but yeah i'm long
+on that approach yeah that's interesting um but still doesn't i mean it doesn't worry me in the way
+that i feel like so many people are are worried but i wonder but there is this issue of transparency
+and when it's unsupervised or you know i mean when we don't understand how it's training itself or how
+how it's learning do you ever worry about the transparency issue when it comes to llms and
+trying to really let it learn in real time too which is also as you talk about in the book a problem
+that it always has to be kind of rebooted um so so transparency i think there's there's two
+challenges to transparency one challenge is um what was the data that it was trained on um and
+in some cases knowing the data that something was trained on is really useful especially when
+evaluating the abilities of the model and so that's mostly just a policy question as to you know in
+what circumstances do we feel like there's a societal need or a regulatory need to have access uh to the
+underlying data but then there's a technology problem and unsolved technical issue which is even
+if we have full transparency into the data and full transparency into the weights of the model
+we don't have a good technical solution for how to explain what a model is going to do given it's
+more what i meant yeah yeah and so and that's an open area of research um which you know there's
+different monikers for one is explainable ai um anthropic has some cool research and trying to
+go into transformer architectures and understands you know how is it building representations of
+things um i think that's a very fruitful area of research because in order for us to trust a system
+um i think we're going to get we're going to garner a lot more trust if we understand how it's
+achieving what it's achieving versus just looking at its performance on a variety of tests
+is it possible with something like blockchain i mean can you just sort of blockchain everything
+i don't know if that even makes sense and always be able to trace it so block if a blockchain solution
+would enable tracing of updates um but it still doesn't solve the technical solution for when i see
+the resulting network after being trained on a set of data um how can i understand what it's doing
+when i give it new data and so that's still a big open area of research uh because um we don't we can
+see that it solves certain problems we don't know how for example in a in a sort of convolutional neural
+network we have found by going into the network that the way it recognized things like cats and dogs
+tends to not be the way that the human brain does so the human brain tends to start at lower levels by
+categorizing things by edges but we found that convolutional neural networks tend to not categorize
+things by edges but by sort of textures um and so that might that discovery might not particularly
+matter but it reveals that with similar performance the underlying mechanisms might be quite different
+and for really important applications like in mental health or in health care or in you know
+uh other things that education that we might apply these ai systems to we might want to understand
+with more detail and fidelity how it's achieving what it's achieving to make us feel confident
+yeah i guess that's what i meant by blockchain i i more mean use that technology somehow almost
+in reverse to kind of follow it and then unravel what it actually did but that would be a whole other
+other thing but you don't think the future of ai is going to be in llms right do i remember that
+correctly yeah yeah i i would be very surprised so where do you think it's going to go because i
+you know we get to the last part of the book which there's this kind of chapter not chapter there's a
+part about breakthrough number six which you state nobody knows what it will be but you sort of
+speculate a little bit that it'll probably be some you say something about when ai is able to be
+unshackled from biological limitations do i remember that correctly so i wonder how you're what
+are you how are you envisioning this just in a we can even think of it in sci-fi kind of way but
+so i think we're going to want uh embodied ai agents um where uh there's going to be a merging
+of the field of robotics in the field of ai i think in a much more robust way than has existed in the
+past and uh because a lot of the things that we want these ai systems to do exist in the real world
+and so there's a bunch of different theories on how this is going to play out um one theory is we're
+going to have humanoid robots um because we've designed the interface of everything in our worlds
+to deal with human bodies so actually the jetsons and rosie again right so you build a humanoid robot
+and then the humanoid robot can do anything it can type on computers it can go to work it can drive in
+cars etc there's another theory which is that's unnecessarily adding complexity to the problem what we really
+want is all of our machines just to be ai enabled um and so we don't need for most we don't need
+humanoid robots we need a dishwasher that can uh get things from uh the sink on its own um and we need
+a you know laundromat that can go and get the clothes we don't need a human humanoid looking thing we just
+need that system to be ai enabled and so i think there's probably going to be some gray area between
+these things um but the the key theme is we're going to want ai systems that can interact with
+the real world in which we're in um so that and i think most people agree with that the key question
+is going to be how do we achieve that and so i think there's two general camps now uh one camp which
+is a very fruitful investment and we should continue is what happens if we just throw more data at this
+problem now that we've learned from chat gpt that scale for certain types of architectures like
+transformers seems to be more fruitful than we ever thought it would be um there's a lot of really
+great labs uh nvidia being one where they're just trying to scale up the amount of data that these
+embodied ai agents have so that it can learn crazy tasks um the way they do that is they have simulated
+environments so they take for example a humanoid robot in a 3d game-like environment they create a
+game-like environment that has things that look like they would be in the real world they have a
+physics engine that operates largely like the real world and they try and let this thing attempt
+a billion times to put uh dishes in the dishwasher and uh they let it do lots of things not just that
+task but that being one example and the idea is if you let it have enough data um and enough scale
+eventually you will get an ai system capable if you just hot swap it into a real world and then you just
+render the real world into the same 3d thing in which it's been trained ideally it should be able to
+navigate the real world well yeah and so it seems like it would need to be actively learning too because
+you know we're always changing our habits with how we use our dishes so spot on so the reason why
+i think this will get us somewhere but not all of the way there is because we're still building ai
+systems by curating data the strat the strategy of the last few decades is still that we build this
+general learning thing and then we curate the data set sometimes now we're scaling up a massive data set
+to train the system in one shot to do something we want and then put it into the world and still we
+are going to struggle when contingencies in the world change so so i still think there's going to be
+a breakthrough that we're missing which is going to enable these ai agents to learn with very little
+net new data without being retrained in this simulated environment to deal with new devices that are
+built or um when they're going to new environment that wasn't in the 3d world in which they were
+trained um so i agree with i think this is not this is going to get us somewhere but not all the way
+there um so yeah i think that's go ahead sorry i'm just wondering what you see the there there
+what is there because there's a almost not not apocalyptic but there's this kind of sense at the
+end of the book which i don't know if it's real or i'm if you really feel that way but i think you
+talk about evolution won't even be necessary anymore or something and there's a kind of feeling that it's
+just going to go into maybe we're cyborgs and then i think you talk about you know in silicon progeny
+even and stuff so i don't know how literally you were really thinking of that if you really imagine
+that's kind of the next big evolution if we did figure out these kinds of things or you know do you
+see these things co-evolving or do you really see like the next step is one that's actually less
+everything we think of right now as organic so i think there's um there's the normative question
+of what i think should happen which i think is harder and not clear and then there's the positive
+question of what will happen which i think is easier to sort of reason about so my my intuition is
+when we have ai agents that are when we engage with them indecipherable from engaging with another
+human being and they they have the ability to engage with the social etiquettes and the subtle
+social cues of building relationships with humans whether it is true or not that they are quote unquote
+conscious there will be a large portion of humans that will perceive them to be conscious and so i think
+that will impact the way we sort of engage with these types of systems in really profound ways
+i think there will be big questions about uh do we feel good about having these systems that seem
+indecipherable from a human be our effectively indentured servants um and uh i think there will be
+questions about uh does it you know if you have these ai systems that you build relationships with
+some people will fall in love with them what does it uh what does it mean to uh would it be is it
+actually better to have a human child that will suffer and get sick and die versus have a ai child
+where they won't necessarily suffer and they could live forever and so not everyone will make this
+choice but i my intuition is there's going to be large portions of humans that make the choice to engage
+more with these ai systems to look at them as uh beings with equal moral rate weights as a human does um
+there may even be individuals that choose to opt not to have human children and just have ai children
+and so the societal implications of that i think are quite broad and you could imagine a world in
+which humans go extinct not by virtue of like they go extinct not with a bang but a whimper in other
+words there's not some grand global nuclear war or ai takeover um but the trade-off of having
+human children versus ai children to start shifting uh sort of uh human behavior away from having lots
+of children so that's one possible outcome that i think could happen um can i just ask you why please
+so does it have to be either or though because to me it seems you know because we'd still need some
+kind of reproduction we whatever we are um and of course that could all be done you know already
+getting to where we could probably do that without outside the body even and so on um and some future
+day but i don't know it's it seems like is it really going to be either or it seems weird that we want
+to create a mechanical being um when we actually already create that by having birth by making life
+like that's or we're already doing that it's already incredible and all the ways that we're intrigued by
+by these ai so i i get your point it would be like health wise and and all these things but
+it almost seems like we would find ways to create something new from from that rather than it be
+either what we have now or this idea of a robot certainly certainly no i think it's it's very hard
+to know what will happen you could also imagine a world where um you know there's humans move against
+these ai systems because they're threatened by them and uh prejudice emerges against them yeah
+actually dystopian yeah yeah when you were talking i was remembering in your book when you talk about
+the man who worked at google i can't remember now who was asking the an early sort of chat gpt i think
+um what he was afraid of and he said i've never said this before but i'm afraid of being unplugged and
+you know at that moment he really felt that thing was conscious and he like tried to go to court to
+protect it and stuff i mean you can imagine once this accelerates how confusing it could become
+totally so so it's hard it's hard to know how everything will pan out the only thing i feel
+somewhat confident in is uh the technological challenge of creating human ai cyborgs is many
+orders of magnitude greater than creating human level or super human level intelligence in silicon
+um and so what that means is it's very likely we're going to have embodied ai agents that have
+human level intelligence perhaps even greater indecipherable from a human when you engage with
+them we're going to have that way before we can create some new hybrid between us and them because
+i think the technological challenge of merging brains and uh uh sort of robotics is just very difficult
+and so the question is you know how does that play out um is there still a humanist movement that sees
+unique value in human life so that humans persist um will uh you know science accelerate to such a
+rapid degree that even though uh you know bridging the gap is a many order magnitude harder challenge it
+still gets bridged quite quickly because innovations accelerate so much there's still lots of open questions
+about that um but i do think the the ordering of events is going to be we're going to have these ai
+systems before we found ways to merge with them it's interesting because this is love and philosophy
+so now as we come to then i do want to think about love and you know that that is kind of a love but
+that google story that you tell in your book that i just sort of retold but you tell better in your book
+and also what you're talking about of how yeah we are going to be interacting with
+with these technologies in a way that will feel like we're connected and then also to think about
+giving you know human like i'm very old school in a way i really feel like uh there's something
+beautiful about nature and the body and all of this that we don't want to lose and that we want to
+you know evolve that um and that all this isn't separate somehow but i wonder how you see it do you
+i mean is that word too big of a word or really it gets to this question you ask which i think is
+very important at the end of the book and kind of it's not just what you think might happen or what
+you can see clearly but you also say we should be asking or the question to ask is what do we want
+our goals to be right now um so yeah just to end kind of you can riff on any of that in any way you
+want yeah i mean this is part why i like separating the normative question because when i think about
+what i personally want what i value i i definitely do absolutely value human life and biological life
+and nature and there is something that feels dissatisfying about a world where humans don't
+exist anymore and only ai systems exist so so whether or not that has been evolutionarily programmed into
+me or culturally programmed into me um and whether or not that cultural idea will persist in a world full
+of ais i don't know but me personally absolutely feel that way um at the same time i also think
+being open-minded to other types of entities that hold moral value is also really important i think
+you know in some ways humanism you know we think about uh valuing independence nationalities or races as
+being odd and gross but valuing humans over other species as being somehow acceptable um and in some
+ways uh i think it's a little i think it is speciesist that we hold humans in such higher moral weight than
+a chimpanzee or a dog or a dolphin it's not so clear that we deserve more moral weight by virtue of being
+more clever i'm not sure that moral weight really should be associated with iq points i don't think
+we think that someone with higher iq points deserves more most people would not argue they deserve more
+uh moral appreciation than some of the lower iq points so then why would a chimpanzee deserve any lower
+moral weight so so once someone starts exploring sort of branching out from humanism as this this
+stark line where you know our species deserves more um than others then i think it also behooves us to
+look at these ai systems with the same same lens where um you know they might also deserve a place
+in this world and how do we share that world with them and uh i i think my own feeling would be
+as a default pluralism is better more pluralism is better than less pluralism so a diversity of
+different conscious sentience um entities that uh think about the world differently that interact with
+each other peacefully um that's a world that feels uh exciting to me um versus one where uh you know
+sort of one variant of consciousness is the one that sort of supersedes all others yeah well said and in
+that as you were talking i was thinking maybe it can even help us um whatever's coming in terms of
+technology if we do it responsibly i feel like we we have a certain conception of ourself as humans as like
+being at the top of a hierarchy of life and like you were saying about the dog intelligence or any
+kind of intelligence we try to compare it to ourselves right that there's only one kind of
+trajectory of intelligence and we're at the top of it and so the dog has to fit underneath and then the
+insect may be here and i just feel like it would be good if we could just like open that up like a fan
+and not there's not a linear it's more complex and there's many different paths of intelligence uh and
+maybe technology could help us to do that i mean maybe like what we're going to go through with all
+of this could open even what it means to be nature and human up in a different way or is that yeah
+absolutely you know i i love that i mean i think even the line between nature and non-nature
+is in some ways a line drawn by human hubris because we like to look at ourselves as separate
+from nature so a beaver's dam is natural but a human building is somehow artificial um and i think
+uh if you remove that constraint and realize we are a part of nature and the things that we produce
+um are are can be bad the same way that overpopulation of certain species can be bad for nature but it is
+still nature and when you think about it that way then these ai systems are also part of nature um
+and i think there is a sort of beautiful synergy one can construct when you think about things that
+way because then the line doesn't become how do we preserve nature from artificial things um but more
+how do we create balance between all of these sort of natural natural things and i think that's a more
+how do we create a more fruitful framework

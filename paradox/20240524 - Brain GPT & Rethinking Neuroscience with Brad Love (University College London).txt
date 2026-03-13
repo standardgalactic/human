@@ -1,0 +1,1412 @@
+So when I say scary, it probably was not a good word to use around AI because, I mean, people talk about like existential risks from AI and I'm more worried about the concerns that are already affecting our lives.
+Like these models have biases. They're affecting people's lives today because they're being deployed in the world. So it seems like we should focus more on that.
+When I said scary, I think I was just more, maybe astonished would be the right word. It's more that like this thing that wasn't even made to do this task. It's better at predicting neuroscience results.
+And it's pretty trivial to make it better yet by training it on like 20 years of papers. And so if we could do this now with these pretty limited resources and this whole project too, we just got in this whole game like less than a year ago.
+So it's pretty rapid. Like there's just so many obvious follow-ons. Like we talked about combining like humans and machines teaming in the future.
+And so we actually had some analyses that if you combine a person's predictions and the machine's predictions, it's better than either one or two machines or two people.
+So that means you could actually combine a person and machine together to get like a better prediction than either one alone.
+Okay. Hi, Brad. I'm so glad you're here. Thank you for doing this today.
+Oh, it's my pleasure. Yeah. Thanks so much for having me. I'm really looking forward to it.
+Yeah. So the first thing I was thinking of is it must be really hard to have invented PageRank, uh, three years before Google.
+Oh yeah. It's a real, real burden every day. I'm amazed. Uh, you saw that. Yeah, I guess I wrote a little blog about it and it's made it into Wikipedia, but yeah, it's funny. Yeah. That's actually where my joy of modeling came. It was a undergraduate project. And, I guess, to be fair, like a lot of people have had this idea.
+And under different guises, but, you know, I was interested in how different elements of basically concepts relate to each other. Like, why is it hard to imagine a bird without wings, but you could imagine it being a different color or something.
+And so I ended up just like how the web is a graph of hyperlinks. I was like, Oh, concepts could be that way too. And I had this, uh, background that was kind of mixed up between cognitive science and computer science and neuroscience.
+And so I was taking some applied math courses and just realized, Oh, we could do this iterative computation that converges to the eigenvector with the biggest eigenvalue.
+And yeah, it's funny. It didn't really get me far though. Like I think that got a second place at the cognitive science society conference for the Moore prize, but yeah, it was the same.
+Too far ahead of your time.
+Oh yeah. Yeah. Still waiting to catch up.
+I don't know about that because we're going to talk about brain GPT and I think that's actually you're ahead of your time again, but maybe at the right time, but we'll get to that.
+First, I want to try to understand models and before we get to large language models and, and brain GPT, this very exciting idea.
+First, let's go back. So where were you? Were you in Austin?
+Yeah. So when I was, I got into a, to university as an undergraduate Brown and MIT and for various reasons, I went to Brown because you could take whatever you, I don't know if it's still like this, but you could do courses in anything.
+So it wasn't cause I didn't really know what I was doing. I just really had an interest that spanned different fields. And I think a lot of people are this way.
+So yeah, it really gave me the freedom to do topics in mathematics and computer science and then more in cognitive psychology, cognitive science, and a little bit of neuroscience.
+And yeah, I always had that split and I had advisors both in computer science and cognitive science. And when I was, I knew I wanted to go to graduate school because I really liked doing research.
+And back then that was the way you do it. Maybe there's other paths now, but.
+This was like in the nineties or so or when?
+Yeah. Yeah. Like literally last century. Yeah. And it was a really different world, like intellectually, cause topics and I mean, maybe like neuroscience, cognitive science has changed a bit, but machine learning, computer science has changed tons.
+And in some ways it wasn't as interesting back then. So there was a lot of like good formal work. I'm like, was it like pack learning? And it was like the rage was like support vector machines and Bayesian networks were just starting to get popular.
+So there wasn't really this like deep learning work. There was work. Connections work was kind of out of favor. But to me, the really critical thing was you, you couldn't like make models in computer science world that process naturalistic stimuli.
+And so like all these like core problems in cognitive science about representation and how we construed the world. You couldn't really like solve them.
+And I mean, it just didn't seem like it was set up to make tons of progress anyway. So like we talked to my advisor and I don't know if this is the best advice.
+And it probably doesn't apply at all now because the world's different, but it was like, well, if you want to do science and learn about the mind and brain, you should go get a PhD in psychology.
+If you want to like make clever machines that do amazing things, go to computer science.
+And so sort of framed as like science versus engineering. And I don't think we're, I think we're beyond that dichotomy, that split.
+But yeah, I went the science route, but kind of kept up with trying to keep like relevant skills and computation and work in that area.
+Cause my interests really have never changed since I've been 18 years old.
+What was it? Tell me like, what was the 18 year old? I mean, I think you've said somewhere that you wanted to understand how the human mind did problem solving or you wanted to understand the human mind, but is that like too broad?
+What were you, what was driving you back?
+Yeah. I mean, yeah, I don't know if it was anything like super deep, but it was just like, like most people that just spend too much time thinking about weird things.
+I was always like, how do we construct reality almost these questions that are philosophical questions, but thinking, oh, and someone you could make some perhaps make progress on some of these through scientific means and computational studies.
+And so, I mean, that just, that just really interests me. And just the general idea of how you could have, I mean, this isn't really that reflected in my research, but how you can have a bunch of small interacting elements that could give rise to something more interesting.
+And that it has a aggregate behavior of interest. So whether it's like, I mean, so things that quickly lost interest in it, but, you know, like economics is kind of like that. You have a bunch of people and then you get an iPhone out of it or products, but the brain's like that too.
+What were you thinking about when you were a kid or when you were a teenager?
+Yeah. I mean, gosh, yeah.
+Was it like birds flocking or was it books you were reading? Were you in sci-fi? What was going on in your content?
+Yeah. Yeah. I mean, I should have a really exciting origin story all queued up for you.
+But you don't have to, I just wonder if what, what got you interested?
+I mean, it's probably like a lot of people probably had this same epiphany as a child.
+Like I just, it just, I mean, the most basic thing that there's, there's reality and then there's what I perceive and that like I'm, I'm making it at some level.
+And just like, I, even though it doesn't feel like that I'm a biological machine from some perspective that one could take.
+And there's just like, how the heck does that work?
+And just, cause I mean, it's kind of like, it's the core of like, when, when it's being, it's like a whole different, like perspective that we don't, it doesn't, doesn't feel like that way to us, but from like some perspective that, that obviously is true.
+So yeah, I mean, sorry, I'm talking about this in a very childlike way, cause like, yes, this is sort of like.
+No, I think it's good.
+You're reminding me.
+Like when I was a kid too.
+Yeah, exactly.
+There's these moments where you kind of think like, how is this possible?
+Actually for me, you just reminded me, it was my grandmother passed away, which was very sad, but it was the first time I realized, oh, we're like beings in the world creating something and then we're not.
+And it was kind of this, how does that work?
+I don't know.
+Yeah.
+Yeah.
+I guess kids come at it many different ways.
+Oh yeah, definitely.
+I mean, it's just obvious.
+Like lesson, but still, even as a young adult, I'm still getting hit by that.
+Like maybe I shouldn't tell the story, but like it was an undergraduate, I had a friend that was a medical student.
+And I can't believe I'm telling the story.
+Like she snuck me in to like, where all the cadavers were that they work on.
+And just, I thought it would be super scary.
+And it kind of was with all these like instruments on the walls to like kind of dissect people and stuff.
+But like, what shocked me was what you're saying.
+Just like, there's, there's just like no life there.
+And just like, kind of like a machine that just sort of like lost its like, I don't know, life force or whatever.
+Yeah. And you kind of go like, what is that?
+Like, yeah, yeah, exactly.
+Like, but last night I was watching this thing.
+It just came on next.
+It just played next.
+And it's a, like a hiking trip that goes wrong.
+The father is buried under the snow.
+It's a true story.
+And then the son is kind of trying to understand this whole process.
+But the reason I'm bringing it up is after something like 20 years, they found him under the snow and he was still sort of together, but of course not alive.
+And I was actually thinking that too.
+That's so strange that even the body sort of stays the body recognizable for 20 years.
+But that, what you were saying, that life kind of essence isn't, isn't there anymore.
+And yeah.
+Yeah.
+Who knows if we ever figured this out, but it's, it is intriguing from a scientific point of view and from an emotional and personal.
+Yeah.
+No, it's great.
+Yeah.
+I'm surprised your questions have taken me back to like my mind like decades ago.
+Thank you.
+But how did you start to think about models?
+Because you created the sustained model, which I want to get to, which I mean, that's been making waves for decades since, since last century almost.
+So like what, what was, where was that link of the modeling?
+Because I was interested in these questions.
+I didn't even understand about modeling and stuff.
+Were you naturally into computers and coding or I don't know, what were you, how did that happen?
+Yeah.
+No, I, I, I mean, I think some people get into modeling because they're into like the, the mathematics and the computers and all that.
+And like that interests me, but it's not at all why I got into it.
+It's more I, I just felt like it was really great for creating scientific understanding, scientific explanations and just an intuitive things.
+And just also the interactivity that you could try out different combinations of principles that are like manifested in some computer code.
+That like the, the code bottles from the principles and you could see how they play out.
+And like any model it's like, I guess I try things and it wouldn't work.
+And then read some papers, try to identify some empirical phenomena that I thought was relevant, get ideas, look at what other people are doing and just keep kind of going and iterating almost like writing a song or something.
+And then it finally like works and that it, it, it, uh, so that's sort of a different way.
+I mean, I know a lot of people, there's different kinds of modeling.
+So if you could start to, from like a higher level, like computational level, abstract understanding, and then just try to like formalize, like what somebody should do.
+And I always like models that were more like process algorithmic models that, uh, were intended to go through the same steps that we think people do.
+And, so that naturally naturally captures behavior if the model works, but the models also have their own internal representations and components that could be related to other measures that you could get later.
+Like we did some work using these models to try to make sense of fMRI brain imaging data.
+Um, so yeah, to me, that just, it, it felt like just a good way of just kind of knowing what your theory predicts, cause you're instantiating the principles and something you could plot.
+see, see if you make predictions from it.
+Sometimes the models surprise you cause people like no, no humans really that smart.
+So like you put together a few interacting parts and almost anybody could be surprised.
+Of course, after the fact you're like, oh, now it makes sense that you could trace through and see what's going on.
+So yeah, I really, yeah, I really liked that.
+I really enjoyed it.
+And yeah, it just seemed like really creative.
+So a lot of people don't think, um, science is creative, especially things that are more technical.
+But I mean, you have like an infinite, like, it's like, again, it's like writing a song or a poem.
+You have like this infinite space of possibilities and you're trying to do something interesting in it.
+And it sounds like a scientific method to this trial and error, and there's something addictive and rhythmic about it.
+Yeah.
+In a way that it also reminds me of music.
+Were you trying to write songs and play music?
+I feel like there's some kind of music.
+Oh, it's really like, yeah, gosh, I wish I still did.
+But yeah, I played.
+I used to live in Austin, Texas, like 12 and a half years ago after graduate school.
+I went to University of Texas to be an assistant professor and left in like 2011.
+But yeah, I played music there actually a little bit before and I maybe it's a little like how I did the modeling.
+It was all like kind of mostly self-taught, experimental, like I purposely didn't learn scales or anything.
+And so I'm not saying it was good.
+Probably, hopefully my modeling is better than that.
+But it was, it was just sort of like getting out of the comfort zone and other.
+Yeah, something, it's basically something creative that was not as analytical.
+But, but yeah, I could actually see commonalities even in my own amateurism.
+The funny part is actually I did get paid money several times to play, which is hilarious.
+Because if you're so off the wall, people think it's like, you have some deep insight or doing something unusual.
+It's just like, you actually don't really.
+You got paid to play music in Austin?
+Yeah, not a lot.
+I mean, there's so many people wanting to be paid to play music in Austin.
+So what were you doing?
+Were you like, did you have some performance piece?
+Yeah, yeah.
+It was like a kind of like a, again, I'm not a very musical person at all.
+And I think like the academic playing music is kind of almost like cliche I'd like to avoid.
+But it was basically like an experimental post-punk band with just guitar sort of singing and a drummer.
+And yeah, it was, it was good, but it was, it was like interesting and different.
+And there was a really good, I mean, I'm sure there still is, but there's really great music scene and lots of little bands playing.
+And so, yeah, I think the pinnacle was like, not, not a big deal.
+But yeah, like playing, there's this club that's relocated, but like Emo's was this classic club on Red River and Sixth Street and got to getting to play a show there.
+I like how humble you are about all of your accomplishments.
+I mean, this is something that some people would like live on for their life, but okay.
+But I do, it's great that you bring up this kind of going into areas that you're not comfortable with or something.
+I wonder if you were doing that when you were doing the sustained model when you were working on it, because here's how I understand it.
+You tell me if it's not right.
+I feel like you were doing something that was kind of edgy at that time or not, maybe edgy in a way that people thought it was too simple even to kind of look at things in this way.
+I don't feel like you were doing what everyone at that moment would have said is the right orientation, but is that right or not?
+Yeah.
+I mean, it's so strange because back then, I mean, you're so right for maybe a slightly different time period, in my opinion.
+Like, so at the time it's hard to imagine now, but modeling was really not very popular at all then.
+And it was just considered like this kind of boring, pointless thing.
+It's a lot of times, but a lot of communities, obviously not all.
+And so from that perspective, from people in psychology, it wouldn't, it wouldn't be simple.
+But then when I started thinking about what these mechanisms might have to do with the hippocampus and prefrontal cortex, then you're totally right.
+Because there was this real split between psychology and neuroscience.
+There wasn't really like a lot of multi-level thinking.
+And so like, yeah, it almost like you'd have, one would have to like ape the details of like, oh, like just exactly what you're saying.
+Just make something that doesn't really have any clear principles to explain.
+Just dump in tons of details that refer to this or that biological detail, or just have some, some face validity.
+So like just making a model that, since it's like an incremental clustering model, it was really surprised it would make its own sort of representation unit cluster.
+And I mean, I always saw that.
+Well, of course you could, that could just be, it's like, you can imagine in the brain, just there's a bunch of cells and they're being like, like kind of recruited into ensemble.
+You don't literally have to have like neurogenesis or something.
+It doesn't have to work like that.
+But people, I think in neuroscience really wanted those details.
+And when something was so simple, like I, even though it would make good predictions about the time course of like hippocampal activity or representations and all that work was obviously done with like key collaborators, like Ali Preston, Mike Mack and Tyler Davis and others.
+But yeah, you're totally right that I think there's a sense still in which people just don't take things seriously that have tons of detail, which is really weird.
+Cause like the scientific fields at the same time have all this envy, physics envy, and towards these really simple explanations.
+And you look there, everything is like, yes, I really think there's a place to start to have models that are simple.
+And of course they won't do everything.
+And then you could expand them.
+And I mean, you mentioned, I won't go on too long, but you mentioned the flocking work before.
+And so like recent model with Rob Mach is trying to make this point that you could take a really simple model, like related to like the sustained model, and you could decompose an aspect of that to create like arbitrary detail for that.
+If you need it for the scientific question of interest.
+And so I don't think that I think that could be a good strategy instead of getting for explanatory models.
+I mean, we're going to talk about brain GPT later, which is totally the opposite, but you're making a model as a theory, as an explanation.
+It's probably not a bad idea to grab the basic components that you're interested in instead of just diving into like the minutiae and not really knowing where the explanation is.
+And then when that model is too simple for accounting for certain phenomena, then you could drill down deeper while still retaining like this higher level understanding of what's going on.
+Yeah, I think we live in these environments that are so rich.
+I've heard you talk about this before, too, and I I really like it because you often bring up the context and the situation and the space.
+And it seems like when you start to look into it at kind of as we were doing when you saw the cadaver cadavers.
+Is that the right way to say that?
+Yeah.
+Yeah.
+Or when I was talking about with my my grandmother, this can seem overwhelming.
+I mean, to try to understand that it almost seems, of course, this is how people become feeling mystical.
+And this is why we go to science to try to to look into things and it can seem like everything should be really hard to figure out.
+So there's a weird blindness there in terms of starting with a simple model.
+Also, I have to say, it's not that simple.
+I mean, you had to do a lot of learning and there's a whole huge amount of skill set that goes into being able to do something simple.
+It's again, kind of like can be kind of like a song or some kind of art form where you it does take a kind of discipline, even if you have a natural talent or whatever.
+But I do I want to get into this sustained model a little bit because I think maybe we can unpack some of this stuff.
+So that's a conceptual model.
+It's about sort of concepts.
+So I wonder, like you're dealing with, I think, prototypes and stuff like this.
+And for me, trying to understand it and also people who who haven't heard of it, maybe we can explain it.
+You brought the hippocampus and I love the hippocampus.
+So let's kind of go towards the hippocampus.
+So if if the sustained model, if you're trying to understand something like how we make memories, which I think might have been part of it. Right.
+You can tell me then.
+I feel like there's a kind of prototype theory or a way of thinking about like the world as these the body understanding the world through these big categories or chunks or I think you talk about birds a lot.
+So there's just big category of birds versus the details where we need every little detail and every little thing.
+Those are the memories and they're stored somewhere.
+Or how can you can you help me understand?
+Yeah, sure.
+Yeah, sure.
+So, I mean, this is really taking back.
+This is literally like last century, though, recently I've done things with this.
+Yeah, I want to move to that.
+Yeah, at the time there was this.
+I mean, other people also did related work.
+So when not playing this all for myself, but there's this this sort of these two extremes, like you mentioned and prototype theory.
+The idea was we just like coalesce all our experiences of some relevant category, like all the birds are represented as one node.
+And like Eleanor Ross is is renowned for popularizing this in the seventies and providing some evidence.
+And then there's this other extreme of exemplar model where you leave all these traces and it's sort of like a lazy inference at the time of decision.
+You activate the model and that's how you kind of get the obstruction.
+Yeah. So this model kind of just like a lot of cluster models goes between those extremes.
+But the key is like, when do you, how does it work exactly?
+And so this model basically assumes the world's really simple.
+And then when it falls on its face and something is really, really, really surprising happens that throws it off.
+So yeah, in papers, I would talk so easy as an example of like maybe a child being told a bat isn't a bird.
+And they're like, wow, it's small, it flies at its wings.
+And then you have to do like using the language people do.
+They talk about the hippocampus as a kind of pattern separation, or if you thought of it as time and event boundary, where you're like, basically just that's how you would basically create something almost like an episodic memory.
+So this model kind of says that all these more semantic ideas of like categories come from an initial episode that's just really startling and surprising that sort of anchors it.
+So if you see, so you would, you know, maybe remember all the details of that first bat you see, but then of course you'd see others and they would intersect with it and become kind of like a bat prototype.
+And so the model just basically says the world's really simple, but when it surprises you, then you kind of store these, these details away that could go on into their own regularities.
+And one thing I like about it in contrast to, I mean, I'm not anti-Bayesian, even though some people might think that is that for this model, it really depends on what you're trying to predict.
+Cause what's surprising depends on what you're trying to do, what you're paying attention to, what you're basically, what you're trying to predict.
+So it's just not about the structure of the world matters, which people, again, like all the way back to Eleanor Osh have emphasized, but it also matters what you're trying to do in the world, like what your goals are.
+And so it's kind of like this interaction or play between these two things ends up shaping how you think about things, which could also tie into like, even how, maybe how different languages affect how you think.
+Cause they flag up different distinctions, different things you need to predict when you're communicating with people.
+Yeah. So I think there's this nice interplay between like, they're actually, you can think of there actually being like information structures in the world, but then they're overlaid with our goals and tasks we have to do.
+And we come away with maybe like a world model.
+People use that term a lot in AI in our heads that might be like generative, but it's like really tailored to what we need to do in the world and the kind of predictions we have to make.
+Yeah. So we have, we're in the world and we have memories, like we can just kind of agree on that.
+We don't need to define it all. And we're trying to understand how they happen.
+And it kind of, it makes sense like from many people, including the way you just presented in the model and rush to think we're somehow there's a lot of regularities.
+The world comes at us in a very regular way for the bird and the bat have a lot of things in common.
+So those are kind of regularity. So it makes sense that we would somehow with our bodies and brains be aligning, fitting to doing something, representing these regularities.
+So the model that you built, is it a way, the sustained model, is it a way of understanding that process? Like what, how does it do that?
+I guess what I'm trying to get at is what is a model really in this cognitive sciences?
+How are we testing whether that's happening or not?
+Yeah. I mean, it's really, it's funny when you're asking your question, I was just kind of, maybe one reason why this model's worked out well or why I like it is there's this, it seems like it does a good job.
+How we actually test it is, is really like so boring. It's like these lab studies teaching people these novel categories that are so divorced from like human experience and background knowledge.
+And I've actually kind of fallen out of love with running studies like this because there's just the classic issues of external validity. Is this what you're studying, have anything to do with these larger issues?
+But maybe one reason why like this model's stuck around or the ideas at least have stuck around is because like all our discussion has been like these really bigger issues about how you structure your conceptual universe or how does different languages affect what you think?
+So if you're, it's a Maya kid in Yucatan, a bat is a bird. So like maybe you, that affects how you structure your representation.
+So I think it's like this model, like when you actually evaluate it and lab studies does a good job, but then it seems like you could still get inspiration to try to understand these things that you don't really apply the model to.
+We're talking about like these big conceptual issues. And then it was also good to try to make sense of maybe how different systems in the brain support that kind of learning.
+That kind of learning. So yeah, so it's a really interesting question because like, yeah, maybe that's actually what I never really thought about this, but maybe that's what makes something like interesting, at least to me that you could, it has some actual empirical support in ways that you could carefully kind of poke it and prod it and do like, like science as usual, good internal validity.
+But then it could still help shape your thinking about larger issues. And even when I was a kid, like making it was really just was thinking about those larger issues, but at the same time thinking about like a stack of pretty boring psychology papers, behavioral effects that it could pick up as well.
+So yeah, I guess there was always this duality going on that I never really explicitly thought about until now, but it was definitely going on and part of the process. Maybe it was so implicit that that's how it should be. I never realized to now that that's what I was doing.
+Yeah. So I think that makes sense, even with the more recent work, which I want to get to, too, relative to the hippocampus. But if we think about the hippocampus and memory, so when you were creating this sustained model, and you've done so much more, we don't have to stay on this too long, but just thinking about the hippocampus and thinking about something like concepts,
+and these, this way that something's happening with the body and brain in terms of recognizing aligning with these regularities, and then trying to model it inside in the brain, and that helping us to understand the process better.
+That's kind of one way of coming at, like, if we're trying to understand what hippocampus does, what memory is, that's a way of coming at it to understand that that's how we're remembering or we're recognizing where learning is very connected, and that's a lot of your work, too, is that way.
+But for people who don't know what we're talking about, by concepts and concept learning, do you just mean these big associations? Or do you mean something like words? Because I think a lot of people think concepts are words.
+Oh, yeah. Yeah, yeah. And it's good. It's funny because, yeah, I think people, especially in psychology, cognitive science, neuroscience, like, kind of confuse the labels we give for our models and our laboratory tasks with the actual larger, richer thing. And so, yeah, people, like, when I came into the field doing work in these, like, category concept learning models, they must have been like, oh, you really
+you must really into conceptual represent this or that. But the way I actually thought about the models was like, the things that we call concepts or categories usually just like, confabulated with words or labels. And so I just see like, more like words as action, or almost maybe like in a
+Wittgensteinian way, like, that's just calling something, like using the bird example, that's just like, that is like an action you have to take, you have to say, call the thing the right thing. Otherwise, people won't like you and your culture.
+Or they won't understand you or whatever.
+Yeah, exactly. That's not the concept to me. To me, there really isn't a concept or there is, it's just to the extent that it is, it's basically just these clusters, these clumps of like, useful bundles of information. Like you say, like, there's different ways to partition the world into like, basically, regularities and clumps. And the, and like we were saying, how you do that will depend on the actual structure of the world, but also the
+how you have to make your way through the world, including, like using words in your, in your culture. So yeah, I think of these little regularities that support generalization. So it's all kind of action oriented, even though people wouldn't think of my work that way. I always do. I just thought it turned left to right, say, bird or male. It's just, these are all just actions you could take and you try to come up with representations that support those, those actions. So yeah, so there's not like,
+So I'm not really like, positing any like, heavy conceptual machinery, really, it's just to support our behavior, basically, and be able to generalize and make correct inferences.
+Yeah, generalization is an important word. And I think people also think of it as like patterns, but I don't know if that's too abstract for you. But let's just this is might get messy. And I'll probably try and just edit out some of my stuff. But I really want to hear your thoughts on it.
+So when we have ideas, I feel like already back then, you were imagining what is becoming more obvious now in the study of the hippocampus, which is that something like memory and something like navigation are kind of the same thing, just in the same way that when you often talk about it depends on what you're looking for, or it depends on how you've set up the experiment,
+experiment, or it depends on what all this come before you can't separate what you're looking for and finding and labeling from this whole trajectory of the way the experiment is set up or where we are in the world or what we're what the goal is that I think a lot of your work shows that in different ways.
+But the reason I start with sustain and going into the hippocampus is because I feel like the model itself is kind of set up to be agnostic about all these labels in a way that's becoming very important now it feels like because just to give a brief recap, at the time people thought the hippocampus is all about memory.
+And then, of course, the play cells, grid cells, border cells had all been labeled found by this time, too.
+And so it was like, oh, the hippocampus is about navigation.
+And so there's been this, what is it, the hippocampus is memory, it's knowledge acquisition, it's a GPS, and it all seemed very different.
+But if you just look at your model and what it's doing, all those things can be the same process, which gets to later papers that you've done, but I want to throw that out there and see what you think.
+No, no, no, this is not a digression.
+This is spot on.
+And yeah, really early on in my thinking, I always thought exactly that way, like that it's there's just this one general, like learning procedure.
+And like you said, you could apply it to different domains, things with different labels, different basically subfields in neuroscience, and it's just the same procedure.
+And yeah, even when I was writing up stuff, I wanted to say, say this like more strongly, but I thought it's really funny.
+I noticed one of your guests recently was Lynn Nadal and I, this is years ago, but I was giving a talk at Arizona, I think, where he, I think he still works there.
+Yeah.
+He's still there.
+And I had a personal meeting.
+Retired.
+Oh, okay.
+Good.
+We have more time for fun stuff.
+And yeah, I brought this up like very sheepishly that, oh, isn't it all the same?
+I thought he, I don't know why I thought he would hate it or something, but he's like, oh no, that totally makes sense.
+And yeah, I mean, I hope I'm not really, this is decades later.
+I'm sure what he said was way more subtle, but I just took it as like, I'm not a crazy person.
+But yeah, but what you're referring to.
+And what were you saying to him exactly?
+That space is similar to concepts or something?
+Yeah.
+That just, it just seems like they're all the same operations of what's going on in these different domains.
+And yeah, obviously people know that the hippocampus is implicated in these wildly different on the surface behaviors, like navigation, episodic memory.
+But yeah, it just, it always seemed that way.
+And it's just, I think, yeah, I think the field got off course, because there are things, even from like higher level cognition, when I was starting out going way back, there's all these ideas that like space is a primitive, that structures, higher level concepts.
+And it kind of makes sense, use language like I'm feeling down today, but then it also cases where it doesn't make sense.
+Like, you're closer to me, that I'm closer to you than you are to me, like doesn't really make sense.
+Spatial.
+But yeah, there's a lot of evidence that that's, that can be true that we could form representations in one domain, like spatial ones, and apply them to others.
+I mean, we make analogies all the time, but the question I'm really interested in is what's the machinery under that built those representations in the first place.
+And I think it really is something like these sort of incremental clustering and whether you're talking of, there's a whole other dimension that we're not even discussing, which is time.
+And I think it's the same thing.
+Once again, I always saw this way, like an event perception where, why do you segment off an event?
+It's because something surprising happened.
+People call it a boundary, but it's just basically like prediction broke down and then you noted it.
+And then it all just kind of blurred together after that got stored all and wrapped up and integrated into one bundle in your head.
+But yeah, a hundred percent.
+So like, yeah, more recent work, like you've indicated has pushed that same, if you see same simple clustering mechanisms to look at why you get grid cell responses.
+And also like you picked up on like very astutely is that like when you're going to see these kind of responses or not see them, it's like not something it's built in.
+It's this interplay between the mechanism, the model and the environment and the task that's going on.
+So it's, I think it really is all the same, like, not cause like I'm just naturally like a bundler as opposed to a separator.
+I think in this case, it's just like, I mean, it's not crazy.
+There's this brain area and there's these related operations across these domains and why, why shouldn't it be that way?
+Yeah. I think that goes back to that simplicity.
+That's complicated.
+Yeah.
+Because basically I think what you've even said, it's a general learning system, which makes sense.
+And we can use that for what we talk about as memory.
+We can use it for what we talk about as the GPS.
+I think what gets, is that right?
+The idea of a general learner.
+Yeah.
+But I think what gets hard is, and we should be careful.
+It's not either or, right?
+Because I feel like this could be just saying, oh, well, there's no such thing.
+And in some of your papers, too, I wonder about it if you've gotten pushback.
+It's like saying, okay, we don't really need to, this idea of a concept cell or a place cell or a grid cell.
+You could almost, and it has almost become clear that we could name cells by almost everything, right?
+There's cells that fire every time you see Jennifer Aniston, which are called Jennifer Aniston cells, these kind of concept cells.
+But actually, it's very important that that was found out.
+Yeah.
+And those are very important discoveries.
+And actually, they add to all this.
+So it's not an either or, like, that we can now understand it, begin to understand it as a general learning system, comes from all of that.
+And it doesn't mean all of that is now not there.
+It's just that we are going to kind of zoom out and see it a little bit better, maybe, right?
+Yeah.
+Yeah.
+I mean, there's so much to say.
+I mean, I guess one thing that I never really resonated about just, like, discovering cell types or, like, concept cells, Jennifer Aniston cells, place cells, and so forth.
+It almost just feels like that's not at all an explanation.
+It's, it almost, like, we're talking about being children, and then it feels like, because it's going to get me in trouble, but it almost feels like a very childlike view of what science is.
+Like, like, someone, like, going through the jungle, oh, I found a new kind of butterfly, or this, or I went fishing, I mixed a bunch of chemicals together, and I discovered something, or Eureka.
+Or, like, I've been fishing around in brains, and I found a cell that does this, so I solved it.
+Like, I mean, other things in psychology are like that, too.
+Like, even the things that look totally the opposite, like the Gibsonian direct perception always seemed like that.
+I mean, I really like that in, like, linking to the environment, ecological psychology, but it's always like, oh, there's no representations.
+You just, you just know this, because there's an invariant.
+I'm like, okay, but something has to compute that and process that.
+And, like, just like the cells, you get a cell that lights up when you see Jennifer Aniston.
+That just, it's not like someone just put that cell in your head.
+You don't have, like, a, or a scale of the brain's GPS.
+It's like, the brain doesn't have a GPS.
+Something is computing the stuff, and there's things being transformed.
+I mean, even if you don't take the computational view of the brain, there's just a lot of intermediate steps that are leading to that outcome.
+And to me, that's, like, the interesting thing to explain how it comes about.
+Maybe this is, like, a little too, because you're doing a very good thing of, like, trying to say, oh, we could integrate all this stuff and everything's valuable.
+But just to be negative.
+No, you should say what you think.
+I mean.
+Yeah, yeah.
+It's just so, like, this, yeah, just, like, the recent paper that's under review now, where it's really actually questioning whether there is a lot of scientific value to identifying these cell types.
+And this wasn't the kind of process explanatory models that we were discussing earlier.
+This was really just taking an existing deep learning model and showing that if you put it in the kind of enclosures, we put, like, rodents in to find these kind of cells in the VR environment.
+And you basically, even in a random network, you'll see these kinds of cell types, and they look a lot like the ones in the brain.
+It's not saying they're not real, or they don't have value, or you have no causal efficacy, or that the brain can't have interpretable cells, because I don't think the brain cares about us.
+What kind of whether it's interpretable or not interpretable to us, but it's just sort of saying that the discovery alone of these things that might not actually have scientific value because they could come about because it's actually doing what you think it's doing, or it could just come about doing a completely different function as a network.
+It does something completely unrelated to what you're studying.
+So that kind of goes back to what I was saying before to make it more positive that they need to kind of do the figure out what the underlying mechanism is and the role of the cells and like a larger computation.
+And so I think it's like the priorities of science are a bit screwed up because the discovery that to me, it's not a discovery.
+It's just sort of like, it's like finding a butterfly versus understanding how it works or its lifecycle or something more.
+That's like the science.
+Yeah.
+Yeah.
+I mean, I think we get confused sometimes about a couple of things, I think.
+I mean, one is that, of course, we want to discover new things.
+And that can seem like science where like with the butterfly, you discover a new species and then you put your name on it or something.
+Yeah.
+And I think there's something motivating about that.
+That's not bad, but you can go too far to where that becomes the focus.
+And as you're pointing out, that's actually not, I'm not sure that's going to help the butterflies live longer or be healthier, have a better environment or something.
+Like, what are we really doing when we talk about that?
+Yeah.
+We could say that about the brain too.
+But also, I think if I go back to like the 70s or when there was all this going on with the hippocampus, with HM, with the first kind of discovery of the play cell, you know.
+Actually, I feel like that was a very important shift in terms of the same thing that your model is helping us understand, which is there are regularities in the world that are, I mean, this is hard because it's not.
+They don't map to, people always say map to or map onto, but there's a kind of representation or map of it as the body.
+Like this, these things aren't separate.
+So they're both showing us that there's some really amazing relationship between the way the body and the brain are and the way the world is as regularities that you can actually study and understand.
+This is like kind of a huge thing, right?
+Yeah.
+It's really exciting too.
+Yeah.
+I share your passion.
+Yeah.
+Yeah.
+So I guess it's, I still see all that discovery, play cells, GPS, memory, HM is really important, but I feel like the story's got to widen a bit.
+And I, I think you're being, you, you, you would be harsher than I'm being about the importance of that stuff, which is you would have more of a background of how to understand it.
+But I guess what I'm trying to get at is like, can we just think of this as like a general learning system and something like sustain or these models start to help us understand the more nuance we can get, the more the technology gets.
+Can we start to do what I think you've been trying to do and that's take the context into consideration, take the experiment itself and all the ways it's been developed into consideration, into the metrics.
+Is, are we, can we do that?
+Does any of this make sense?
+Yeah.
+I mean, I, yeah, I don't want to sound like all negative because things are progressing.
+And I think a lot of people are trying to do with what you're saying and it could just be like, so maybe one reason I was seeming more negative is because like labeling these things by like their function almost like shuts down the scientific discussion.
+Cause like a lot of what we've been saying, what you just said was about like how the different tasks, contexts affect things that like the play cell does a lot more than that's affected by so many things by reward.
+And you know, every, they're not, you need to look at the actual, I mean, they're just messier too than they're shown in the paper.
+Like how things are actually done and that's setting aside all the steps that went through and kind of before something ends up being recorded and reported in a paper.
+But yeah, so, but this goes on like all over neuroscience.
+Like, and again, I'm not really against these research areas, but it seems like it's bad to label things by their function.
+Cause it's kind of assumes, you know, the answer.
+So we have, you know, areas in the brain, like the fusiform face area, like it shouldn't be called face area.
+Cause it's sort of like assumes what it does and that the stories over, but, and that seems kind of obvious.
+Cause then you could have like all kinds of debates.
+Is it, is it really just faces or is it sort of just fine grained perceptual distinctions?
+Is it visual expertise?
+And so like, there's a lot of, that's not my area of research, but there's like a lot of rich questions that would take decades to resolve and subtle things.
+But in a way it's, so it shouldn't be called that the same way.
+Like I don't think it's just semantics either.
+Cause you call something a place cell or grid cell and this, it's almost like you're just assuming what it is or how it works.
+And, and maybe like closing your, your mind off to like the richer, deeper explanation that will inevitably follow that is following.
+But maybe it would come along faster if we didn't have these viewpoints and attitudes towards Eureka.
+I found this thing or that thing.
+Yeah.
+And as you're talking, it's also it, it, even if, if the person who's presenting, it doesn't mean for it to be, it becomes that it can only be that thing, which is also not really true about the brain and body.
+The same cell or group of cells can have many different kinds of firing or let's say names or labels, depending on the context or the way the experiment is set up or what the body's doing.
+Yeah, definitely.
+Yeah.
+But to kind of try to go away from the hippocampus a little bit, although I could talk about it forever.
+So what we're trying to think about is how models help us understand being in the world and these things of what mind is and so on.
+Maybe that's too grandiose.
+I don't know.
+You could tell me what you're trying to understand, but there's a many, many different models.
+So if we're, if we're using it to understand this generalization and patterns learning system, how is, how have you seen models?
+Cause you said at the beginning, right, these weren't, it wasn't like now I feel like it's, everything is about modeling and especially AI kind of, we're going to get to large language models now.
+And even like everyday people now know what that is.
+And it's like a huge part of just life.
+So I'm interested from your perspective, what that shift has felt like if you saw it already way back, the way you've seen these things or yeah, how that, how that's felt.
+Yeah, no, I mean, yeah, I want to get onto the new stuff too, but yeah, going all the way back to the graduate school times.
+I remember just sitting around talking with professors and fellow students having discussions because there wasn't any speech recognition that work.
+There was no vision systems that worked at all.
+And we are all like pretty high level cognitive people.
+In some ways I was like the lowest level person just trying to make these implemental models.
+But we sit around like, oh, when do you think we'll have this?
+When do you think we'll have that?
+And it'd be like maybe in 200 years or something.
+And so, I mean, now I guess just having, just having thought about it and talk to smart people about it way back in the nineties.
+And now there's these things they're not perfect, but in the, there's all kinds of adversarial examples that both for the vision and language models where you could fool them.
+And I think people like just aren't impressed enough actually, like not with that underlying technology is pretty simple, but just how far things have come and how rapidly it has.
+It's just, it's just, it's really astonishing.
+And I think in some ways people focus too much on the shortcomings.
+And so like even my own research, it's really like opened up doors because I was always interested in learning and representation.
+But if you just write out what the representation is like, this is a small square and it's blue, like as a feature vector, it's sort of like you skip the hardest problem of how you code this thing up.
+And not that these models are perfect, but at least you need something to just get in the game to start making them better and iterating, like we discussed earlier.
+And so like, yeah, to me, this opened up a whole new world and, but also as a tool too, so that we've been talking about models for explanation to basically implement aspects of theory.
+But yeah, the brain GPT project, if we're going to switch over to that, that's not a theory, but it's like a really valuable tool for prediction that can help make theory.
+So I always see models, even the explanatory ones where it's maybe an especially explanatory ones is offering a kind of compression of theoretical literature.
+Because if you really understand a model and a model covers a bunch of different studies, it's sort of like a stand in for the studies.
+It's like an imperfect like compression of it.
+Like, so if you understood like, like really simple model, like Riscola Wagner's like model, like conditioning, it's not the best model of that area.
+But you'd probably have like 80% synopsis of like hundreds and hundreds of studies.
+And so that's like a kind of compression.
+And we need that more than ever.
+And that's what got me into the brain GPT project, because there's just thousands of papers coming out all the time.
+And it's clear that for certain sciences like neuroscience, that they're very, you have to not just look at your own little silo, but integrate information more broadly.
+So it's just like, not really, I'm not sure it's going to be humanly possible, or if it even is now, or won't be in the future.
+And it's just, it seems like clear already things aren't progressing in science as fast as they could, because of this flood of information.
+So yes, I started just thinking, I'm not really a tools person, like for all the things we discussed, and talking about childhood that wasn't like, I want to make tools.
+But I think this is the future, like whether we like it or not, that it's going to be people and machines teaming together to do science.
+And so that's one reason that it got me into this project that I'm happy to talk more about.
+Yeah.
+Let's connect it to the others.
+Sure.
+Because as you're talking, I'm thinking it's, it seems, these are kind of different models.
+I think you talk about them as like theoretical or process models.
+Yeah, exactly.
+Brain GPT is more like an analytic model.
+Is that the term you use?
+Yeah.
+Brain GPT just as like a tool.
+So like, all the models we discussed previously have been intended to go through the same steps
+people do to basically be like, there's like, I have some principles, a theory, and then you turn that into equations so that you could capture aspects of the theory and evaluate it and see, and see how well it does with the actual data and the predictions.
+So it's really kind of like, and it does the actual task.
+So if we're making a learning model, it learns stuff, like hopefully like people forget stuff and makes mistakes.
+Whereas you have other models and there's tons of neuroscience.
+It's like the example I've been using in talks is like the mind reading brain decoding, where you have someone say in a brain scan or fMRI, and you want to know if they're looking at cats or shoes.
+And so you put this classifier on and it could be an artificial neural network too.
+And it predicts whether the person's looking at an image of a cat or a shoe, but that's not a model of object recognition.
+It's just a tool to help you characterize the information available in those brain voxels.
+So that's very different than someone saying, this is how people recognize objects and how you would evaluate the model would be totally different.
+So yeah, the.
+Where's brain GPT fitting?
+Yeah.
+The brain GPT is completely just a tool.
+So there's no, it's not a, it's not a, there's no science in it.
+There's no, it's not intended at all to have anything to do with how people, it might have something to do, but it's not intended at all to have anything to do how people predict things about neuroscience or how the brain works.
+But what we were interested in is, can we actually predict results from neuroscience studies from methods?
+Cause if you're going to automate any aspects of scientific discovery, that seems like a prerequisite that if you're like, Ooh, should I run this study or that study?
+Or how should I design the study or, or you need to have the ability to know if I do this, this will probably happen and maybe like put some probability on it.
+So something like that would be a really valuable tool to help direct scientists, empirical investigations.
+Yeah. Let's unpack a couple of things first, just for people, because, okay, let me just be kind of stupid for a minute.
+So those models we were talking about before, they seem magical, right?
+Because they learn the way that the body and brain are aligned with the regularities of whatever experiment is going on.
+And then after they kind of learn that you can use them to, to see how the brain is going to react in terms of blood flow or something like an fMRI.
+Yeah. And that seems really astounding to people. That's kind of one thing.
+And then you have this large language models now, right?
+Which maybe you can even explain a little bit just.
+Sure.
+What that is, but that also seems really astounding for a very similar reason in a way, even though I see why you're saying these are different and they are.
+But it seems like something like a open AI or the chat chat GPT can do the same thing, right?
+It can read the regularities and go ahead and show you what the person, what a person would do, but it's different, right?
+Because it's, it's actually more forecasting or predicting or something, but maybe you can better explain it.
+Yeah. I mean, I think you, you said it beautifully. Like, yeah. So the really simple models before we discussed, they're intended to go through the same steps.
+As, as people, they're really models of people, but of course these models from open AI, these large transformer models, they're, they're, they're trained mostly on more texts than any human would ever see in a thousand lifetimes.
+And they're trained autoregressively mostly just to predict the next word in a sequence and with a little extra tweaks to make them conversational.
+Yeah. They, they distill these patterns of human experience, but you know, they're probably doing that in a way that's only distantly related to how we make sense of things and, and learn and whatnot.
+It seems like it's accelerated whatever we're doing to some.
+Yeah. Yeah.
+It's like reflecting back the, I think like the structure of our own knowledge and culture and how we interact with each other.
+And it's really, I think it's, it's really amazing, but yeah, I think it has a very different flavor, but it could be an incredibly valuable tool.
+So like a lot of people, this is not what I'm focusing on, but a lot of people are trying to use these to summarize the literature and stuff, make it more, more tractable.
+I'm trying to make the literature more tractable, but I kind of think these models have are amazing, but have problems when it comes to kind of looking back and summarizing things too.
+I mean, you and your listeners probably have come across like this term that I don't like, but use like hallucination where the models make up stuff.
+They basically confabulate.
+And it's because they're, it's, it's because they're actually, the models are cool that they're doing this in a way that there are these generative models that seize on the patterns of everything they've been trained on.
+And so when they like hallucinate, what they're doing is just giving you something that maybe should have happened.
+That didn't, you know, it's almost like, like when they make up citations of papers or make up movies or something.
+Yeah, but they're like things that probably should have existed.
+Like they're not, like if it's a famous chemist, they're not going to say, make up a psychology paper for them.
+They're going to make up something on their topic.
+That is like almost the triangulation of everything they did.
+I mean, maybe I'm giving them too much credit, but these things they make up aren't at random, but it's, again, it goes back to generalization.
+All these models are doing besides despite people are obsessed with the memorizing things, but they're really like generalization engines.
+And to me, that suggests you should use them not to look backwards, but to look forward to predict things.
+And that's an important part of science, like all of it. So that's what we try to focus on in that project is can we give these basically like a little bit of background and methods and see if the model could predict the correct pattern of results in a neuroscience experiment.
+And again, that's interesting in and of itself, and it could be good if you're like, want to run a study and say, you know, where are the odds this is going to work out?
+Like, I think, and if it's 99%, probably you shouldn't run it because it's boring, but if it's like 1%, you probably shouldn't run it either, unless you have some deep insight, how the whole field literature has got it wrong and like why the model is predicting that.
+And like, yes, this is going to be my high impact paper, but, but yeah, but I'm just thinking about more way into the future for scientific discovery of like helping people design the most informative experiment.
+And for that, you need to predict the future basically, which sounds like, like very, like you can't predict the future. We can't really, I mean, it's a stationary distribution. That's the brain's not really changing.
+There's so many papers being published. So like no real study is really unique. So it's, to me, it's a very minor form of predicting, not to us, but to the model of predicting the future. And it seems very possible.
+And it's not only one future, you could predict many, many multiple ones in a way and see, which is fascinating.
+I mean, yeah, go on. What do you, what do you think?
+Well, I guess I'm thinking about tying this to the, where we've been too, because, so we've been trying to understand learning systems, the body as a learning system or the body as being in the world, and there's no choice, you have to learn to survive, you can call it whatever you want to call it, if you don't think learning is the right word, but you have to align with these regularities and deal with them and all these levels.
+And that's become, as you were pointing out, we then develop languages and that's kind of not separate from this.
+It's part of that process that we develop the language.
+And so now in a weird way, the language has become so important for humans through all these things like papers, where if you're in neuroscience community, you can't, as you've said, it's incredible how many papers are published, even on one, like just hippocampus stuff.
+You have some talks, which I'll link to about brain GPT so people can really dig into it, but you talk about hippocampus papers and there's like 20,000 and some small amount of time that are published.
+I don't know. It's crazy.
+Yeah.
+So now that language is kind of, we're developing objects with that language, papers, all these things that we try to keep up with and we can't. So we've developed tools to figure out how to do that.
+And I feel like up till now, it's been about, as you were saying, like trying to clarify all that information and give us a little spit out of it.
+Like for example, this conversation, I could ask AI, what was this about? It'll tell me a little paragraph of what we talked about.
+That seems really different from what you're doing with brain GPT.
+And it's still hard for me to really understand, but I feel like it's closer to understanding the patterns and the generalizations as already moving us in a certain orientation that we could.
+We can't keep track of because there's too many possible ones, but maybe AI can help us in a forecasting kind of way.
+No, definitely. I mean, again, all of us are siloed in so many related fields, just use different terms for similar phenomena.
+And like, I mean, just think of neuroscience, like all the different imaging technology, different species, everything from like DNA to like social behavior.
+And, and I don't think it like neatly encapsulates as much as we'd like to, it's not like a artifact that a human engineered where there's these distinct layers that are separate.
+Like you said, it's all kind of interacting and information's leaking from one thing to the next thing.
+And that's probably also going back to our conversation, why you shouldn't label a brain area as doing X, because it's going to be in reality could be more complex than that.
+And so it's all interdisciplinary, but once you try to hold that information, it becomes so overwhelming and impossible.
+I don't think it's possible like in like many lifetimes.
+And even if you had it, just brains aren't, we're just, I don't really, I just really think we're not built to do this.
+Not yet. We need tools.
+Yeah.
+But that's why we get siloed because we get overwhelmed and we're like, I'm just going to focus on this particular action potential situation right here.
+And then we get siloed, even though we're interdisciplinary. So it's always both. Yeah.
+Yeah.
+Yeah, no, it's really, I mean, other things, I mean, it's fine.
+Like people don't get uncomfortable using a calculator to crunch numbers and this, but somehow this, I think people feel like this is too intimate.
+Like nothing would predict the outcomes of experiment.
+And I, I think a lot of it and seeing people's reaction is maybe this sounds again harsh, but I think people don't realize what being an expert is.
+It's not really, yes, you should be able to predict something, but it's really, I think more going back to the explanation, understanding the domain and how it's structured that that's can help you make explanations.
+But I think like a good machine system that can process all the information.
+Maybe it can't give you good explanations right now.
+Maybe in the future it can, but I think it could give you good predictions already, but that's not the same.
+Yeah. That's like a tool.
+I mean, it's like, does the calculator have a deep understanding of a structure of mathematics or something like probably not, but yeah.
+It feels too new for us to understand it in that way.
+Maybe that it feels like it's doing our job or something that we should be able to do that.
+Yeah.
+Yeah.
+I think it's threatening.
+Whereas I guess I'm most threatened by being lost in this deluge of papers.
+And I think that's the real threat and I think everyone feels it, but it comes back to why we want to name cells things.
+And like, there's something about science too, that we're motivated by our personal contribution, which at the moment still feels like should be being able to predict what the experiment is going to do.
+But actually if, if we could see it a different way, then we might have a much more of a role to play if we delegate some of that to the tools.
+Yeah. Yeah. No, it takes kind of a, maybe a different view of where the value of science lies and maybe that's, yeah, going to be going to be difficult.
+But I think these messy biological science domains, I mean, whether it's protein folding or neuroscience experiments, I just think we get bigger and better data sets.
+I mean, I think in the future, these models hopefully won't even be reading the papers.
+They'll just be like reading the data and the paradigm.
+Cause then you probably get even better prediction in some sense.
+Cause you wouldn't have this, like it's leveraging human language now, but it's, that's also taking all our biases too.
+And maybe it would be better too.
+I mean, I don't know.
+I think there's, there's a role for that stuff too, but I see what you're saying.
+Maybe it would.
+Yeah. Yeah.
+There's definitely a role, but it's sort of like, I'm seeing it like seeing it in the most like simple terms.
+If you have like very little like data, then you should have having sort of the bias is helpful because it could guide you and fill in the blanks.
+But if you have like a lot of data, like how, like how these large language models, they are trained on like English and other languages.
+They're, these models don't really have a lot of biases put into them about the structure of language.
+And there they thrive because they have so much like more than any human could consume and they could pull it out.
+So I was just trying to make that analogy to science.
+If you actually had, of course the experiments we run aren't at random.
+So like, that's already like the most important like human intervention into the system.
+But if you had tons and tons of data, I, I mean, I wouldn't be surprised if, if you re first, we could find out.
+First, we could remove the review papers.
+Then you could then remove.
+That's all just like.
+Right.
+That is the review in a way that is reviewing.
+Yeah.
+But.
+I don't have to be careful.
+Right.
+In the same way that you said, it's not summarizing it.
+So.
+Yeah.
+Yeah.
+I mean, I, I thought this was a result of predicting, predicting results from methods was like really astonishing when we got it.
+But then I started thinking about just how like neuroscience works.
+And every time scientists, including me publishes a paper, they think it's really insightful and it's like pushing everything ahead.
+And it's a real contribution.
+How could that be true?
+Like a hundred, a hundred thousand times a week, like all these papers being published.
+Like if that were true, why aren't we done in a month, two months?
+Why is it everything solved?
+So obviously our papers really aren't, most of them aren't really advances.
+There has to be so much redundancy and just so many connections between them.
+And everything has to already, so much has to already be out there kind of laden, but solved in a way.
+We're all so focused on doing this work and fitting it in to wherever little niche we're in that maybe we've kind of lost the vision.
+It's hard to say, but.
+Yeah.
+Yeah.
+Yeah.
+So, I mean, the fact that this range EP2 model could predict results from methods probably says like a lot.
+Yeah.
+About the field.
+I don't really think it's like some startling technology.
+It's just, it's a good at picking up patterns and it's been trained on a lot of the information.
+I think you're being too humble again.
+So actually we should, this is, this can, I mean, when you hear brain GPT, it's like chat GPT or something.
+And those kinds of projects are huge projects that take a lot of money and have taken lifetimes of work and stuff.
+So how could you like, for people who don't know what brain GPT has, like how in the world did you start this?
+Like you're actually close to having a kind of prototype, right?
+Or something, or maybe you have it already.
+Oh, no, no.
+We have something you could, yeah.
+We have something you could download now, but the short answer is like that ecosystems really changed in the last few years.
+So you, you could build off what other people do.
+So some, like a lot of papers that come out in cognitive science doing this experiments on GPT-4 or something.
+So to us, a model like that is completely like, does it not have that much value because it's not open source in any sense.
+So most of these models aren't really open source, but a lot of them are open weights, which means you could download them into like a cloud.
+So like Microsoft gave us a little bit of money and you could, you could run them.
+And so it turns out like these models without even training them, without spending the millions, you can get really good results and prediction.
+Cause they're trained on a lot of science and they're trained on all of Wikipedia and stuff.
+But what we did is we did additional training on 20 years of neuroscience, which is again, it's not going to be like that, that much.
+It was only like, but my memory is bad, but it's probably like more modern GPUs running like 80 hours or something.
+But this is like within the realm of like a lab could do this easily.
+And yeah, so that we did that.
+So we, we did this fine tuning.
+I mean, I can go into details if it's of interest, but basically there's this model, like you said, it costs millions to train.
+But in our case, we took a Lama 2 from Meta and that already does really well at predicting neuroscience results.
+It's really, really scary, but you could freeze that model.
+It's 7 billion weights or parameters, and you could train a little pathway up to the side of it to augment it with domain knowledge and neuroscience.
+And so we just basically just trained on 20 years of neuroscience that does a little bit better yet on the benchmark of predicting results.
+So, but yeah, I guess the amazing thing to me was that these models even off the shelf are like better than probably me and Mr colleagues at predicting things.
+And I, again, I think it's just cause there's just, there's just so much that they pick up on these, these patterns.
+I mean, I don't, it doesn't, it doesn't mean they're, they're, they're like smarter experts, but they're really good at predicting things.
+So you said a minute ago, it's kind of scary.
+And I, I, I know you don't really think that large language models, at least as of five years ago or three years ago or two years ago were that scary.
+I don't know how you think of it now.
+You, you seem to think of it as a tool and it's going to extend what's possible in a good way and, and so on.
+And I want to talk about that a little, and also you mentioned this word benchmark, and I think that's an important word in this project and the brain bench, or I'm not sure.
+Yeah. Yeah.
+And so I want to hear about those things.
+Oh yeah, sure. Sure.
+So when I say scary, it probably was not a good word to use around AI.
+Cause I mean, there people talk about like existential risks from AI and like, I'm more, I think like most reasonable people, I'm more worried about the concerns that are already affecting our lives.
+Like these models have biases.
+They're, they're affecting people's lives today because they're being deployed in the world.
+And so, yeah, it seems like we should focus more on that.
+When I said scary, I think I was just more, maybe astonished would be the right, right word.
+And, but it's more that like this thing that wasn't even made to do this task.
+It was just trained on a bunch of stuff that happened to contain a lot of science stuff.
+It could just already, already it's, it's, it's better at predicting things, nor science results, and it's pretty trivial to make it better yet by training it on like 20 years of papers.
+Um, and so if we could do this now with like these pretty limited resources and this whole project too, we just like got in this whole game, like less than a year ago.
+So it's pretty rapid, like progress turnaround game, like, because you were doing large language models for a long time.
+Right.
+Uh, no, or no, just neural net models.
+Yeah.
+And models does interest again, like learning and trying to learn from visual stimuli.
+So like, yeah, I mean, I've been playing around with like language models, like back before they were any good, like all the way back to the days of like latent semantic analysis.
+This is like, did that exist in the late nineties or early two thousands?
+I think it did, but like, so people have been interested in this forever.
+It's just really a little bit more recent that the results of just as they've scaled up and they switched to this transformer architecture, that things have just taken off more.
+And so like, yeah, it just, I, yeah, it just dawned on me.
+So, yeah, so I never really got serious about it or people in my lab.
+And so less than a year ago, but the thing is like, if we were already working with these kind of deep learning models,
+you, you kind of, it's kind of an easy move, move into it and already working with language models in the past.
+Yeah.
+So it wasn't, it wasn't, it wasn't that, I mean, I shouldn't say that.
+Cause if we talked to, uh, Shelley, I can, the first author be like, Oh, it's been a really tough several months.
+Dealing with.
+Yeah.
+Again, it depends on where you're coming from.
+Yeah.
+Yeah.
+Yeah, exactly.
+For you, it was okay though.
+It fit to your way of understanding and learning.
+Yeah, exactly.
+It fits into things.
+And yeah.
+And I, I feel like, the way we'd set up the problem too, was informed by being a working scientist all those years.
+Cause even talking with some computer science collaborators, they're quite pessimistic on the project and whether it could work and a number of funders were too.
+And I think it's cause they had a different view of what science is.
+So I kind of see it like a massive, we each paper by itself, isn't that valuable and all these weak signals that are inter mixed.
+And I think a lot of them, like almost like we're talking about this, like naive view of like Eureka, I found the cell was more like, Oh, it's almost this logical deductive process.
+And you could think through and the scientist is so smart and everything has a reason.
+It's a simple explanation.
+And I think in biological sciences, there's, it's good.
+And there's going to be some storytelling that will make us feel good and some actual legitimate explanations.
+But a lot of it is just going to be for purposes of prediction, a complete mess.
+And it's going to involve like 10,000 variables at once coming together.
+That is just never going to make sense.
+Cause I think that's what reality, the underlying reality is like, but yeah, sorry, I think you had another question you want to focus on.
+Well, the benchmark, but before we get there.
+Yeah.
+Yeah.
+So yeah, the, that goes back to, to this overwhelming, like blooming, buzzing confusion.
+That is the world that we then try to understand.
+And like, there's always this weird kind of in and out between these reduction emergence with neither one of them really ever being right or true.
+But when you're in one space, you feel like it's true.
+So like how these scientists probably feel that they're used to a certain way of dealing with the world.
+And it can seem like that can't be changed by something like brain GPT.
+It couldn't help them, but it's really just a scaling up or a different scale because the same things that are motivating them could motivate them.
+If I mean, wouldn't it be wonderful if they can just look, they still have the Eureka moment if they want.
+Yeah.
+Great idea.
+But then they can simulate it in a way.
+It's almost like, let's simulate these many possible ways.
+And what if I tweak this?
+What would happen?
+Or what, to me, this seems brilliant.
+Yeah, exactly.
+Yeah.
+I mean, it seems like it'd be a great knowledge discovery tool.
+You're like, what if I run this fMRI study as an MEG study or I run it with like elderly people or teenagers or like what?
+Yeah.
+And it could be like, cause you could get insights or you could be like, oh my gosh, that prediction is completely wrong.
+And you could think through why, why is the model saying this?
+And you're like, oh, because there's all these papers that use this, have this artifact that they didn't control for this.
+And so the whole literature is contaminated.
+And so I, so if I run my paper, I could, you could actually use the model saying like this model predicts this, but I predict this because of this.
+And lo and behold, I'm correct.
+This is a major discovery.
+And yeah.
+So I think it could be really useful for directing people's efforts in providing a kind of forward-looking synthesis of the literature.
+But yeah, they get to your benchmark question.
+So like this, all this whole deep learning revolution kicked off really with this Alex Snet model of object recognition and all the, that, I mean, that was huge for the whole world, but even within neuroscience, all the work in computational neuroscience using deep learning and object recognition,
+all kind of followed from that, trying to relate these engineering models to the ventral visual stream.
+And that's how originally got into deep learning.
+I got into deep learning, but yeah, what made that even a discovery was like, how would you know something works or doesn't work?
+And they had this kind of limited, but really good at the time benchmark called the image net.
+And it was just a million images you could train on.
+And then like 50,000, you could test on that were like held out.
+So you could say, say, so you train the model, you know, what a car and ostriches or a batch, and now you show it one, a new car or a new bat that it's never seen before.
+And you could see if you could get it right.
+And so that's how the models are scored.
+And
+Can we think of it as like a reservoir or something?
+Or, I mean, how would people think of a benchmark if they've known?
+Oh yeah.
+I think it's just like an exam.
+That's like a, like a test of.
+Yeah, exactly.
+To kind of know where you stand.
+It's sort of like, like in the Olympics, we have world records and stuff.
+And you could measure like how fast someone runs.
+And that's like, you could compare people and see how good they are based on that.
+It's basically a way of keeping score.
+And of course, if you have the wrong metric and everybody works to maximize that metric, that could lead the whole field astray.
+So like benchmarks can be dangerous in that way.
+But another way that they're good is it makes everything comparable.
+So like in science, you want to, not just science engineering, you want to compare different proposals and see which one is the best one, which one does the best job for the, accounting for the data.
+And that's why we compute like model selection statistics and stuff like that.
+So it's basically like a yardstick just to see which model is the best.
+And it's, it's objective and that you're just going to get an answer out of it.
+That's a number.
+But of course there's subjectivity into how it was constructed in the first place.
+But I think it's, it's, it's critical when you're moving into a new area.
+And like when we're saying, like, if we just said these models could predict neuroscience results.
+And, and, and we just gave a couple of demonstrations.
+People wouldn't, I mean, I don't even think people believe it now, but they wouldn't believe it at all.
+But if we come up with this benchmark of 200 items that were carefully constructed, we show like human experts get 63%, the models get like 80 some percent.
+Then it's like, it's a little harder.
+You have to kind of take it seriously or should figure out what's going on.
+And when we do additional training of the models, like say on the neuroscience literature, we could say, oh, look, it gets like 3% better.
+Like training on more neuroscience makes the model better or things we discussed before.
+If we remove the review papers from the training set because they, oh no, look, that human insight was important.
+Now the models are worse or, or is psychology relevant to understanding the brain?
+Like I think it is.
+So can we train on a bunch of psychology papers too in the future and see, does that make the predictions better or worse?
+So it's sort of a, a way to deal with things that are really nebulous and make them measurable.
+And I think it's wonderful with like one caveat, the benchmark is never going to take into account the whole situation.
+So if it's not representative of what you really care about, or if people just work to master the benchmark,
+in some sense it could be like overfit and, and self-limiting in that way.
+Yeah.
+So you got a bunch of volunteers or people to help create all this?
+Yeah.
+I mean, that shows there's a lot of interest, right?
+I mean, that, this within itself feels like a very important project, just creating the benchmark.
+It was amazing.
+Yeah.
+Yeah.
+There was like 75 active volunteers to help make this benchmark.
+Cause it took tons of human labor just to get it right and do a lot of quality control.
+And yeah, a lot of the people that contributed are authors in the paper, but other people just helped out a little bit.
+And yeah, so it was amazing.
+There was like a waiting list of like a hundred people too.
+Cause it was just not enough actual work to go around that I could manage that many people.
+Well, that shows there's a lot of interest.
+Yeah.
+There's a lot of interest too, for the people.
+I mean, it's, it's really like kind of tedious to complete the benchmark, but we had over
+200 people do it like in a week that the study was open.
+And so we needed those experts just to see, like provide a baseline to compare the models
+to.
+And yeah, all that data is publicly available to already if people, the paper's under review,
+but people want to play around with the model or human data.
+Cause I think it's interesting apart from just the models, like it's an interesting study
+of how predictable our field is to scientists within it.
+And there's a lot of probably nuances in the data that we didn't analyze cause our focus
+was elsewhere.
+Cause I mean, I think that's just an interesting question apart from the models.
+That's really the main story.
+Yeah.
+Yeah.
+I think it's fascinating and there's, it's really rich.
+There's probably a lot of potential ways, new patterns and generalizations can be noticed
+using that, uh, some way, but I guess it's kind of, I'm going to link to more about brain
+GPT, but I want to ask you kind of what you see now, where you are now, what's next.
+And then I have just a few like quick little questions.
+Sure.
+Sure.
+Yeah.
+Yeah.
+So there's just so many like obvious follow ones from just sticking with the brain GPT.
+Like, uh, like we talked about combining like humans and machines teaming in the future.
+And so, uh, we actually had some analysis that if you combine a person's predictions
+and the machine's predictions, it's better than either one or two machines or two people.
+And it's really interesting.
+Cause there's a, like, we talk about diverse teams being good in science.
+But, for prediction, that's really important too.
+Cause the models don't see the world the same way as people.
+They only correlate like 0.16 with how difficult they find items versus human experts.
+The models and people see things a bit differently than what they find difficult.
+And the models impressively also know when they're going to make a mistake, just like
+people do if they could give their version of confidence and it's higher their confidence,
+the more likely are to be correct.
+And that's true of humans too.
+So that means you could actually combine a person and machine together to get like a better prediction
+than either one alone, because they don't, they have slightly like non-overlapping knowledge.
+And so that, anyway, that's a really easy thing to do next.
+And another thing we're doing is we're exploring all different ways of fine tuning these models
+to incorporate neuroscience knowledge.
+Cause I mean, people are going to want to specialize these for different domains.
+And we want to make them better than what just comes off the shelf.
+What's off the shelf is pretty good for a benchmark, but maybe we could even come up with better benchmarks
+or tougher ones or just make it even better at ours.
+So we're looking at all kinds of ways to efficiently train the models or some kind of wiki almost of benchmarking.
+Yeah.
+Yeah.
+Yeah.
+And then we want to actually get, try to figure out how to get these models.
+So you can already download it, but try to figure out how to host it on the web.
+So that we could put some like rudimentary tools up, or if people just want to even chat with it.
+So we didn't evaluate these models actually in chat mode.
+We just got like the probabilities out of the weights.
+Cause it was a little more precise than trying to talk with the thing.
+But that's the real.
+So much possible.
+Yeah.
+Yeah.
+It's really, it's yeah.
+But yeah, the stuff I mentioned before, I think the, what I'd like to do like more in terms
+of not just weeks or months, but years is it, I mean, it sounds out there, but yeah.
+Get into what a lot of people are interested in automating aspects of scientific discovery.
+So it really like, if you put in a few key questions you're interested in, like, does the hippocampus do this?
+Does it do that?
+That you can actually use these models and their ability to create hypothesis, but also to evaluate how likely different patterns of data are to come up with an experiment, like a rough suggestion for an experiment.
+That would actually answer the questions you're interested in.
+Cause I, cause I think that's, I mean, to me, that would be like, if people are threatened by prediction, this would be like more, cause this is like almost like getting towards like some kind of almost scientific reasoning and creativity.
+I mean, the model would just be doing this kind of search, but I mean, maybe that's all.
+Well, maybe it could get to a point where it's like coding or something where if you're really specific about what you asked the chat GPT to do, then it does it well, but it doesn't mean you have to know those parameters.
+So that benchmark becomes really important, but then it could be a kind of aid in creativity, I guess, because the hallucination could become the creativity.
+It doesn't, because there's already some potential there of it's doing it, but it's coming up with new stuff, but it's just, how do you control the, it's coming up with factual, true stuff?
+Yeah.
+Yeah.
+Well, I guess the great thing about prediction is nothing's factual.
+It's kind of off the hook, just need something.
+And it's also the models, like again, they're already calibrated in their accuracy.
+When they predict something, we can get a measure of confidence from the model itself.
+And it kind of knows when it's, it's predictions bad or unlikely to be true.
+So, yeah, I, I think this is a way to use these models is to, like you said, like they're really, I mean, I mean, I'm sure everyone's played around.
+With them, but you know, they could write like kind of silly poems and generate all kinds of things.
+Then you ask them, if you give them something really high, if it's memorized, like, like, like, who is the president in the US in 1984 or something, it'll get that correct.
+Because it's been like, so memorized, but most things aren't really memorized.
+And they're just general patterns stored, shared across weights and that stuff.
+It'll, it'll just always just make stuff up for like, if it's not attached to another system that like grounds it in some specific source, it'll just, I just think it's, it's nature to generalize.
+So I think it's perfect though for scientific discovery, because there, it's not bad.
+That's what you want, because you want it to try to anticipate what will happen by connecting up all the things that have happened.
+So yeah, so yeah, that is kind of creative in that sense.
+And yeah, so, I mean, I think it'd be exciting if there's so many, if you could just write what you care about out, a few statements, like, does it do this or that, this or that, then the system would give you probabilities of those.
+And they could search for the study that would basically reduce your uncertainty about that.
+It sounds really exciting to me because it's like a, it's another one of those leaps, right?
+Yeah.
+I'm thinking about your story of sitting in the room and not being able to imagine 200 years, like this, this would be 200 years, 500 years from now.
+Like right now that feels like it's happening too, that whatever students are imagining now is probably not close to what might be possible if, if we can do this.
+But you said they a lot, and I do wonder, do you, what do you think, are you, do you think of them, the, the AI, the tools?
+How do you think of them?
+Do you, are you scared of them at all?
+And I know we already touched on it a bit, but do you see, not scared, that's nobody's.
+Yeah, yeah.
+But do you worry that they could be used, that it could get out of control and they, we can't understand anymore or have these constraints or parameters for understanding the difference between
+hallucination and probably something that's probable.
+Like if we're going to build a spaceship or something.
+Right.
+Right.
+Right.
+Yeah.
+It's funny.
+Cause when we put a satellite or try to land something on Mars, that's, that's the prediction, but.
+Yeah.
+It actually works.
+Cause.
+Yeah.
+That's true.
+Physics and equations.
+Yeah.
+Yeah.
+Am I scared?
+I mean, not, not, not, not terribly.
+I mean, I think people need to be responsible.
+I think the one thing that makes these models like a little bit.
+Unpredictable or difficult to deal with is like a lot of models have like some objective function, something they're trying to maximize.
+And so you could kind of see what they're doing.
+And if you put the wrong one, maybe it'll do something bad.
+And there's all these like ridiculous thought experiments, like the paperclip experiment, like, oh, a lot of paperclips and it consumes all the resources on earth to make it.
+That's a little bit ridiculous, but you could, when you have an objective function in some sense, it seems like you kind of know what the thing's trying to do.
+And you could change the objective and make it not do things that are like ridiculously bad, but the large language models don't really have that in a simple way.
+Cause most of their training is just like auto aggressive to predict the next word.
+And that's not how we use them.
+We don't use them really.
+We use them that ask them to predict the result of the study or how to, how to bake a cake or what should I do?
+Or people probably use them for online therapy or everything.
+For me, the large language models don't seem too scary.
+But when you start thinking of large action models and large world models, I don't know how plausible you even see those things, but it does start to stretch my brain a bit.
+Like, wait, what if this kind of capacity could be in all these other realms that aren't conceptual in terms of linguistic, then I'm not sure what to think about that.
+What do you think?
+Yeah.
+Are you, are you worried about them not performing well or doing bizarre things like edge kicks?
+I just don't know how to imagine it, what it even is.
+It's like, what's, if you're trained on words and generalizing from images and things like this, it seems I can get a grasp on it.
+But if, if, if we make this internet of things and everything is sort of all this data is coming in from literally, again, it's the map territory thing where we've made it.
+If we make a map that fits perfectly to the world, I mean, there's something about that that's already like, is that how, what are we, are we confusing map and territory?
+Can we do that?
+But if, if the world is smart in that way, which people are talking about now with world, you know, world models act so that it's not only language it's trained on, it's somehow training on everything around.
+I don't know how to get a grasp on that yet.
+Yeah.
+I mean, yeah, in some sense, I'm not surprised these models, even just language do as well as they, they do.
+Cause I mean, yeah, I mean, paper a few years ago, nature machine intelligence with Brett Rhodes, in which we just looked at different spaces, like a linguistic space, a visual space.
+Um, I think it was like auditory space, like how similar, it turns out that things, the same patterns like repeated in the different spaces.
+So like if two objects are visually similar in some way, they tend to also like be talked about the same way.
+I guess like, uh, uh, yeah.
+Anyway, so you could.
+It's kind of a sustained thing, a general, general learning system, right?
+Doesn't.
+Yeah. Yeah. Yeah.
+So I, I think the more of these modalities or systems you have that you could sort of, this is what you were hinting at that you could combine together.
+Probably the truer view you get on the underlying reality, but already, I think even just having language, you're going to get.
+Like really far, a lot farther than I think most people thought was possible, but yeah, you're right.
+The more you incorporate.
+And of course, we're going to have robots walking around and factories and elsewhere.
+Like you could not say there's more.
+Yeah.
+I just.
+Yeah. Is it a robot?
+I mean, I think that's, I don't know what the, the vision is because it is, I feel like it's a bit at where you were in that class.
+Like you couldn't have really imagined this, but it was happening.
+It was going to happen.
+It was already kind of in the works and there's something kind of in the works with all of this, but it's very hard for me to envision what it means.
+If it's something we're wearing on our bodies, if it's an actual robot walking around, if we're just literally interacting with the world.
+To me, I think about haptics on the phone and how that was unimaginable.
+And then it's just became the most normal thing.
+I feel like we're in the kind of moment like that in terms of how we interact with our context, but I don't know what it's going to be.
+Yeah. Yeah, no, it's really, I mean, yeah, some people talk about it.
+Like, like your, your AI will just be talking to your friends, AIs and like setting up your day for you or something.
+But yeah, I don't know.
+Cause there's other things too.
+Like, I mean, we're like people have made a lot of progress on self-driving cars.
+That's something that has to deal, but then it's not solved.
+And that's something that has to deal with the complexity of other humans in the real world.
+And so like, there's this like strange thing where there's always these edge cases that might make people not fully trust these things.
+I mean, a lot of ways, like what's informed this like brain GPT project is trying to think about domains where like a lot of these weaknesses or challenges really don't pose a threat or problem.
+But this is like, obviously like going to change the whole world.
+So there's thousands of people working on all this stuff.
+So I mean, hopefully somebody smart will get things a little bit.
+Well, I mean, your team is already doing something because this could be a template that it doesn't have to, as you say, it doesn't, it's not just brain science.
+Like if you figure out how to do this, it actually does start to change.
+I mean, you can see it scaled and nested, right?
+Not only would it change different fields, but you could also start to understand how the fields are interacting more.
+Because for me, what's often very exciting is trying to find connections between all these fields that we don't see already that lead to actual new understandings.
+That might be more possible with something like this.
+No, I know.
+I think so too.
+Yeah.
+So, I mean, yeah, I think, again, people always focus on the shortcomings of these technologies.
+But they're going to progress and progress a lot because there's just so much effort and resources being put into it.
+But even if they don't, I mean, I think it's a lot like in the past where we had the Internet and then before that personal computers, and they didn't really change the world.
+Like the first 10 years they were around and they didn't have that much economic impact and even less social impact and societal impact.
+And then it's like it just became part of everything.
+And now it's like hard to imagine the world without the Internet or personal computers on our phones now.
+But so I kind of think even this technology is going to improve so much.
+Even if it doesn't, I think like there's already a revolution in how it's going to affect our lives.
+That's cooked in to the rest of our life.
+Even if nothing changed, it's just already going to change.
+Yeah, part of me thinks it won't be about robots and cars driving themselves and these kind of so much is somehow the way we connect to one another changing.
+I like the Internet, right?
+It's not about the computer.
+It's about the Internet.
+Yeah, we have no idea.
+Like nobody knew.
+Like when the Internet, I remember like when it started taking up a little, it was like brochures from companies and stuff like, like just being like, oh, we could scan it and put it on.
+It was like in that, or it was like pets.com Super Bowl ad or something.
+And now it's everything.
+No, it's really.
+So like, so I just think it's like, yeah, I mean, a lot of everyone's trying to imagine what the future is like, but I think the lesson is it's like people are going to come up with applications and uses.
+And you mentioned mentioned like ways it could go in.
+That'll be like so much different than what we imagine now.
+I bet.
+And like a lot of companies betting billions will just like go out of business because they'll get it wrong.
+I think it'll be, it'll be interesting.
+It's definitely going to affect our lives, hopefully mostly for the better.
+But yeah, there's just, it's going to be, it's going to be interesting and strange.
+It seems like the pace of change is going to accelerate for both better and worse.
+Are you still excited about it?
+Do you still feel like you want to try to understand how the mind problem solves or have you?
+Yeah.
+Have you answered?
+Yeah.
+I mean, yeah, I do.
+There is a little bit of this feeling, though, of that I didn't have before that.
+Uh, gosh, they're really it.
+So like the things I say in talks, like I, I am like internalizing them too.
+So it's like, so I, I am still trying to do those things, but sometimes I do like feel like a little.
+Futility is too strong of a word, but just like, gosh, there really is so much here.
+And like, I'm doing this and working hard at it.
+I'm going to continue.
+But is this something just in five, 10 years, even that just, we're going to just do science in a completely different way and start like automating a lot of these aspects of discovery.
+And is the, our paper is going to be for humans to read even like we put them out like findings or they're just going to be these like massive databases that machines read through.
+Or like, I mean, usually things don't, I say things change and fast and fast and fast, but I mean, look how slow things change in science.
+Like even the publishing models that just don't make any sense.
+And we still have them and probably will still have them in five years.
+So maybe, maybe I'm thinking, maybe I'm getting too far ahead of things, but I, yeah, I, I could see the basic practice of science.
+Being different.
+So I'm, I'm still developing ideas and pushing things and trying to do explanatory work.
+But one reason I put so much time into this more predictive tool work is I, I could just imagine waking up one day and just realizing like, why, why am I even doing this?
+It's just not how, this is like, this is like practicing arithmetic when we have calculators.
+And by this, you mean the old kind of.
+Oh, like sitting around thinking about how learning or the hippocampus works as opposed to working with some machine systems.
+Yeah.
+I'm really glad you brought that up because I think that's, that feeling is something a lot of people start to feel now is like you do, as we were saying, everything is changing and you start to kind of, I don't know.
+It makes you wonder how, is it worth all the energy you're putting into certain things, which if you're not careful, can start to feel like maybe nothing has.
+I shouldn't put my energy into anything, which is actually not true.
+It's just more shifting it into stuff.
+I think it goes back to where we started in a way that that mystery of still trying to understand what's happening here is still there.
+Yeah.
+And like connecting with however that motivates you and maybe shifting into another way of exploring that instead of the ways we've been taught we should go.
+I think that can be really hard and scary.
+Yeah.
+I think that's shifting somehow.
+Yeah.
+Yeah.
+I mean, I definitely don't want, people shouldn't be discouraged by our conversation because there's going to be so much to do and like people, everything, there's always going to be a market for like explanation that other humans could understand too.
+Cause we just crave that.
+Um, um, but I mean, maybe just give me the natural thing where you just have to give up on some things just, we already have like machines could, uh, go faster than us.
+They could fly.
+They, they could calculate things faster.
+Like we just, no one, I mean, people still play chess even, and they're no good at the machines crush people at that.
+I don't know.
+That's true.
+We still enjoy it.
+Yeah.
+Yeah.
+Maybe we just have to be open.
+Like you said, like to the change and, I mean, easier said than done, but yeah, it's hard to feel like you lose control or something.
+Yeah.
+Yeah.
+But I mean, maybe it's off topic, but I don't really think, I mean, we're all like sort of embedded in these huge societies.
+Anyway, we're not really in control of much of anything and everything around me, I can't make myself or, or like feed myself.
+And so, I don't know, we're already like ants anyway, but a lot of ways.
+Um, but maybe it's just.
+I think we are, but we're kind of becoming aware of ourselves as ants and that, that's something.
+Yeah.
+But in a way we have to stop thinking of ourself in the same way too.
+It's more like, maybe we're kind of the ant that's becoming aware of itself as part of the colony, but that's still, that, and that's weird.
+Like, and that changes the colony.
+Yeah.
+No, a hundred percent.
+Yeah.
+So.
+Yeah.
+I'll just edit that out.
+I don't know what I'm talking about, but I have, for some reason I was thinking of this book by Christopher Alexander.
+Have you ever read it?
+Uh, pattern language.
+Oh, no, I'm familiar with it, but, uh, yeah, but no, I haven't read it.
+I feel like it's Osmos from, yeah, the, the ideas of that, of definitely.
+Cause the generalization and the way he talks about it, it's kind of somehow.
+Yeah.
+And also category theory.
+Are you in math?
+Are you interested?
+Yeah.
+Yeah.
+I, it's funny.
+Yeah.
+I did.
+I mean, it was so many years ago, but the closest I did to that was abstract algebra with rig theory
+and this, and just for fun, I just looked at category theory.
+It just seems like it's sort of the, the next level of abstracting things away.
+And you could even study category theory with category theory.
+Yeah.
+I mean, a lot of people seem excited about it and had some discussions on potential projects
+with it, but yeah, nothing going on with it now.
+But yeah.
+Why, why do you bring it up?
+Just other conversations I've been having about relate.
+It reminded me some here of more or less like this forecasting.
+It might even be more of the benchmark stop benchmarking and that on that level, when you said you were trying
+to find a way to get more people involved.
+It just somehow came up.
+So I'm just putting it out.
+No, no, no.
+Thank you.
+I do have one question, which I can edit out and you don't even have to answer, but this is called love and philosophy.
+So I always at least try to ask like that word.
+It's not a word that said in science much in a way when this beyond dichotomy, I'm trying to push at it a little.
+Cause I don't know, but I, I just, when I say it does, does it feel completely separate from your science and your life and all this technology and model building.
+Yeah.
+I just wonder, I wonder like if it just feels like something you bracket off from all of this or if it's infusing it.
+Yeah.
+I mean, gosh, it's so hard to answer that because first we talked about like creativity and passion.
+And so at that level, it's definitely part of my life.
+Just like, I mean, when people say like, why are you, why are you working so much?
+But like, no one says that to like someone playing guitar or writing poetry.
+They're just, they're not like, stop, stop doing it.
+Just like, so, so at that level it's infused, but there's like that maybe like another level of your question.
+I think that you're getting out of like how you see yourself or reality and yeah, sort of like maybe back to the ants realizing their ants.
+And so yeah, that, that definitely is at play too.
+Like, I feel like when you think about how the brain works or how machine learning systems work and listen to people debate things, start thinking about like what's the nature of like every person and myself and like how we actually put together and why do we, yeah.
+So yeah, I think it does turn in on itself and I'm sure that's probably like what drew a lot of people into these fields is that sort of interest in themselves at some level.
+But there's another level in which it doesn't.
+So I think some people try to make science everything and like kind of replace all other ways of understanding the world and make it all encompassing.
+And yeah, so yeah, I definitely don't, don't subscribe to that.
+Maybe like how you have these incompleteness theorems, halting theorems and formal systems.
+I kind of wonder if there's like a single way to ever, that there'll ever be a single way to understand the world and everything in it.
+I kind of think there won't be, and I think a lot of scientists, they think they're being like, like opening up and being very open about integrating everything together.
+But to me, it almost seems like it's at some point, like one way of thinking or way of gaining knowledge to rule them all.
+So in that sense, no, but in every other sense, like as a passion, as a perspective on what's going on in myself and other people around me, definitely integrated.
+So, but maybe not in one way to rule, like all experience and understanding and meaning in the world.
+Yeah.
+That's a good answer.
+Do you ever feel this kind of sense of flow or, I mean, I seem to gather you like music.
+I mean, you played it well, but it seems to motivate you or make that feeling you have when you, and I don't mean in a mystical way, but just feeling kind of connected or even having, like we talked about these Eureka moments.
+And I mean, there's something built into science to that where you want those moments of transcendence or transformation or feeling at one.
+I don't know, without getting too like sentimental, but do you ever have that in?
+Oh, yeah, definitely.
+I mean, I think it relates to like feelings of self-efficacy where you put in some work, sometime you think about something and you have like a real, real insight.
+And maybe it doesn't really matter in the big scheme of things.
+It could be really esoteric, but you're like, sometimes you're like, wow, like I probably understand this weird little thing better than anybody on earth.
+But usually when that's true, it doesn't matter because it's like some weird little offshoot of your little super siloed topic.
+But it is, I think that is like, it's not just like relative to other people that makes it special.
+It's more like, yeah, that feeling that you just got somewhere or got something.
+And now it's like, yeah, like you said, like wonder or flow or transcendence, but it is, it's just like all the, because everyone has to deal with so many problems and just so much like BS in day-to-day life.
+And you're like, ah, that's something that's real that I did.
+And none of that stuff could screw that up.
+And I think, yeah, I think that's maybe a way to like, when things are going wrong, whatever, to stay a bit happy.
+Yeah.
+Yeah. I think that's really good to bring that up.
+That's actually a good point.
+I mean, even doing something like going for a run can give you that kind of like you did something and.
+Yeah.
+And this kind of scales up when you're working like that.
+And also you do a lot of collaboration.
+I think that feeling like you're part of a group that's working towards something.
+And when you see that it's really done that you've together really created something it's, there's something about that too.
+Oh, yeah, definitely.
+Like if it's like a peer, it's really great when you affected each other and you kind of see things in a different way, that's more compatible.
+Or if it's someone that's more junior, it's really exciting to see like them grow and get better and better over just a few years.
+And yeah, you have your own lab now. So you, you're really.
+Yeah.
+We didn't even talk about it, but you have a lot of this going on.
+It's cool. Like just seeing, yeah, seeing people like, yeah, develop and then go off and do their own things.
+And yeah, it's good.
+Yeah.
+It's like, yeah, go ahead.
+Oh, no, no.
+I was going to say like people.
+Yeah.
+People like, like make like analogies to like parenthood or something.
+I don't have kids cause.
+And, but like, it's, it's, I think it may, so I have no idea, but this happens a lot faster.
+And it's also like, like maybe like, like luckily my parents didn't do this, but some parents make their kids like pursue their passion.
+But here it's like, people are coming to work with you.
+Uh, because like they share that same passion.
+So it seems like it's.
+Yeah.
+It's kind of a, it's kind of an unusual and like a rewarding process when it, when it works well and you work with somebody and they develop and get better and better.
+You have to fill their goals.
+Yeah.
+It's cool.
+Yeah.
+And you're still pretty young.
+So you'll see those people go out into the world and do things and it's quite beautiful, I think.
+And I don't think that's going to change with our technology and AI, that side of all this humanity stuff and science.
+Yeah.
+Yeah.
+No, no, I, I hope so.
+Yeah.
+And I also think there's, there's a lot of different kinds of reproduction.
+You know, I've always thought that, that it's weird that we only focus on, I mean, having children is wonderful, beautiful, but also like we are creating and reproducing things like all the time and all these other fields.
+And I think it's also like very important in terms of, whatever's important in, in the world or the world.
+Yeah.
+Yeah.
+So we, we, we might be ants, but we're strange ants because we could also sort of decide what we value.
+Yeah.
+I think we're changing what it means to be an ant.
+Let's just say that.
+Yeah.
+Yeah.
+It depends on the colony.
+It depends on the context.
+We're just ants after all, but still there's something happening.
+Yeah.
+I, I'm with you in this.
+Thank you so much, Brad.
+I really, really appreciate your time.
+And I, I really appreciate the work you're doing truly.
+Like I have for many years.
+Yeah.
+It's a real, real pleasure.
+Thanks so much for having me and thanks for your insights.
+It's, it's really great.
+With all talking about, nobody reads things or understands things.
+It's great to talk with someone who actually has done that.
+And it's, yeah, you really like made this time for me.
+So thank you.
+Thank you.
+And yeah, I will continue to do so.
+So is there anything that we didn't say or that you want to make sure I put in?
+Uh, no, gosh, I mean, it's only been two hours.
+So I mean, yeah, it didn't seem like it.
+It's funny.
+Cause I have the kind of personality, especially since the pandemic where I just can't sit still
+for a half hour.
+Cause I just, I watch online talks.
+I usually exercise while doing it.
+Oh, wow.
+Yeah.
+I should have told you, you can get up and walk around some.
+No, no.
+I guess what I'm saying is I didn't, I didn't feel that way.
+For once I was just like, not stir crazy.
+So yeah, thanks.
+It must be really good conversation and questions.
+So yeah, thanks.
+Well, I really care about these things and I really see a lot of value in all the stuff
+you've done.
+So it's coming from that place.
+I think that's, that's the.
+Well, I mean, this has tremendous value.
+I mean, this must be, yeah, like you said, I mean, it sounds like you've built up like
+a really good community around, around your, your show and your channel.
+It just started.
+I mean, really it's research.
+I was just trying to understand things and someone was like, oh, you should post it.
+Cause you have such good conversations.
+And I was like, okay.
+And then, yeah, it just kind of happened.
+So, but it is, it's, what's wonderful is like you were saying too, is just to see how,
+cause there's so many little worlds in this world and it's fun to see those and how they connect.
+And people really care and they're really trying to, you know, understand the world and connect.
+And yeah, I find that very beautiful.
+So that's the best.
+So anyway, that's all to say, thanks for that.
+I probably needed any advice because I really don't know what I'm doing.
+Yeah.
+I would solicit advice from everybody that then maybe not follow it all.
+Like, yeah, that's my, that's my advice.
+But isn't it kind of like for you to, I think there's something about the more you put it out there,
+like with brain GPT once like, cause this could become a very big thing.
+And then that's wonderful, but it comes with a lot, right?
+Because then you have a lot more people wanting something from you or ants or criticizing or not,
+you know, there's a lot more stuff that comes.
+So I guess, yeah, it's back to being ready for it.
+Right.
+It's like a series of getting thicker skin or just also just realizing sometimes when people say really nasty things, it's not really about you.
+It's how people react.
+And if something gets attention, this is always going to happen.
+And it's just part of, it's just part of how social systems work.
+Yeah.
+But it is hard.
+I mean, science can be really hard in that way.
+For me, just staying true to that thing we were talking about, that intention or that motivates me, because like you said, it's easy to get.
+I mean, you could get it too, right?
+That someone comes and wants to buy your ideas and try to turn it into a company and maybe that's the right way, but you could also easily get lost from what's meaningful for you.
+Yeah.
+It's really hard.
+Yeah.
+Trying to figure out what to do next or focus on just, yeah, just like you're saying.
+Yeah.
+I take a lot of long walks just being like, okay, what do I actually really care about?
+Or what's the best.
+Yeah.
+Me too.
+Walking is so important.
+Yeah.
+No, I used to be completely almost like the really misadjusted, like, oh, if you're making money off of it, then it can't be your passion.
+It's like, because I grew up in that time where it was still possible to sell out.
+You're talking about like artists selling.
+That is really, that sellout thing is really, I think, detrimental to, has been to my mindset a bit.
+Yeah.
+Do you think so?
+I mean, do you?
+I think it's kind of an outdated notion now.
+And now it seems like, yeah, if I could find something where I could do what I want and do what I believe in, and there was money involved, that would just make it better.
+Like, I mean, it just seems, it just seems obvious.
+It seems like a weird subculture that I grew up in when that was sort of, yeah.
+I mean, it's like human-like music, but people would just like stop listening to bands because they signed a major label or something.
+It doesn't really make sense unless they actually lost control.
+No, but that was a big time with that whole Nirvana and that era.
+Yeah.
+Yeah.
+That was like, so it was like everyone was like dumping bands left and right because of them.
+Selling out.
+Yeah.
+It's curious.
+I've really thought about it a lot because it affected me too.
+And only recently I feel like I can be healthy and say, okay, money is good.
+And like, it's okay to make money as long as it's the tension is like, it's in a way opening up scales the way we were talking about earlier.
+Yeah.
+Exactly.
+Yeah.
+Yeah.
+It's just like, you have to just figure out what your goal is.
+And I think, I mean, both of our goals are clearly just not to make money.
+So that's like, I mean, it's kind of simpler if that was the goal, but that's not the goal.
+And the weird thing is sometimes it's not even a trade off.
+Like it could just be like the better option for what you want to do.
+And maybe it's even what you need to do at some point, maybe that's been a obstacle to let that happen.
+Sustainable.
+Yeah.
+So I don't, I don't know.
+So I, I wouldn't, I wouldn't be scared to go for it, but yeah.
+Yeah.
+I think that's been a balance because I'm also a little bit restless and always working and thinking and stuff.
+So I don't, I won't make time to create like a set or even put makeup on and look all like, that's not going to happen.
+Cause that is just not me.
+Anyway, maybe we should go for a walk.
+Yeah.
+Yeah.
+We should go for a walk.
+All right.
+It was really good.
+It was really nice talking.
+Yeah.
+Thanks for doing it.
+Yeah.
+It was really great and good luck with everything.
+Yeah.
+You too.
+Same to you.
+All right.
+Thank you.
+All right.
+All right.
+Have a good time.

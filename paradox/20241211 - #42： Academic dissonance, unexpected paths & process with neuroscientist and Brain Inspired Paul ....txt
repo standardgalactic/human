@@ -1,0 +1,1127 @@
+In many ways, I feel like a, was it a feather being blown in the wind because, you know,
+like I'll learn about some new approach.
+I don't know what I want to do and I'm not supposed to say that out in public, but my
+skills were getting deeper and deeper, but narrower and narrower.
+And that just felt frustrating to me because I like having my fingers dipped in lots of
+different areas and thinking from different approaches.
+I've had experiences that I'm the only person ever in the history of the world to have
+that experience just sitting in my little lab alone.
+It's like, oh, it's real.
+I'm hearing the exact pattern of a neuron that is somehow related to the cognitive function
+that I'm interested in.
+I had to think like, do I really want to sacrifice my happiness for this career or can I do,
+you know, something else?
+I don't care about my legacy.
+And I think if you care about your legacy, it's going to drive you to be in that more
+competitive kind of space.
+We sold our house.
+We sold all of our belongings.
+We kept the children and we bought an RV and then moved the whole family into the RV and
+then just started roaming around the country.
+That's one thing that has only increased throughout my career is knowing how little I know and
+being super comfortable because I know no one knows anything.
+Hello, everyone.
+Welcome back to Love and Philosophy Beyond Ecotomy, which just means we're trying to
+get past traditional divides without disrespecting them or trying to smush them together.
+Just talk about differences beyond the differences.
+And today is a special episode with someone who really helped me do that.
+His name is Paul Middlebrooks.
+When I was in school for neuroscience, I found a podcast that I just started called Brain
+Inspired.
+That's Paul's podcast and it really helped me.
+It was almost a better teacher than some of my actual classes in neuroscience.
+So this is a gratitude episode to Paul and to his podcast, but it's also about what
+that podcast has been about these past years since 2018 when it started, which for me is
+about holding the paradox.
+Isn't everything about that?
+I'm just kidding.
+But actually, we do talk about that a bit here because just one example, I started listening
+to Paul's podcast because I needed to learn about machine learning and I wanted to learn
+about AI and there weren't many podcasts about that and he was doing that in the context
+of neuroscience.
+At that time, I was very interested in ecological ways of thinking about philosophy and psychology
+and the four E's, so to speak.
+He was not.
+And at some point, as I've been listening to his podcast, he's become very interested
+in those sorts of things, as he says here, especially ecological psychology.
+And of course, I've learned a lot about computation and machine learning.
+So I think that represents something that's happening in a lot of nested layers across
+the sciences, where we're opening to one another in a way that doesn't cancel out what we care
+about.
+It's hard to do, comes through in a lot of ways that we use words like computation, representation.
+Of course, there's still tons of fights about that.
+And as Paul says here, it's still used in a really particular way in most of neuroscience.
+I won't go into all that here, but I do think Paul's podcast and what we discuss here does
+relate to a lot of other themes and the other episodes where we're trying to open the space
+and understand how there can be computation and representation, even if it doesn't mean
+that it's necessarily in the process that we're studying.
+So that's all a bit nuanced, but Paul and I talk about it from his point of view.
+Also, I think something important about Paul and his podcast is just thinking of education
+differently.
+Because now everyone seems to have a podcast and there's lots of learning online.
+And I guess for people who started podcasts long ago, that can be annoying.
+But in another way, you don't really do it unless you want to do it and it doesn't last
+unless it's giving something.
+It seems like there's a new way in which we're thinking about what education is and when
+we can learn.
+There's a lot of people who go back to school at different ages now for different things
+like me.
+I'm one of them.
+I went back for neuroscience in my thirties and that used to not be so common.
+But I think it's becoming very common that we learn for a whole life, that we maybe change
+what we do in our life.
+Paul is a good example of that.
+He did it at a time when it could have seemed dangerous from an academic point of view to
+stop after your postdoc and when you're right in the middle of everything and travel across
+the country and create a podcast.
+But it's turned out well for him, as you'll hear.
+So this is really a conversation about how within neuroscience, we may be beginning to
+hold what seems like binaries not too long ago, whether that's A.I. and technology and
+cognition or embodied in ecological processes and computationalism.
+But also in our own lives, how we're starting to open to a different idea of what education
+might be, that it might be a lifelong process for some of us.
+Process is a big word here.
+At some point we talk about Mark Bighart and I say Burkhart because I always say Burkhart,
+but it's B-I-C-K-H-A-R-D.
+He's talking a lot about mind as process and process metaphysics.
+Paul had him on the show and brain inspired.
+I'll link to some of this in the show notes.
+But main point of this show is to say thank you to Paul and to so many others who put
+so much time into learning and sharing what they're learning with us.
+It's also about what I hope we can do, those of us who care about neuroscience and philosophy
+from whatever angle, whatever we're doing, whatever title we call ourselves or are called
+that we can open the space a little bit around some of these labels that have been constrictive
+and find something very exciting is actually happening for all of us.
+And I hope that's also true for you, wherever you are, whatever you're studying, whatever
+you care about.
+And I send you good wishes, love and philosophy right now.
+I also just want to say thank you to the people who've reached out and shared this
+podcast with me and helped and given support.
+It's so meaningful to me.
+I can't even express it, how much it means to fill your support and to learn from you
+too.
+So thank you for your support on the sub stack, on YouTube, on the podcast platforms.
+Thank you for your emails.
+Thank you for everything anywhere that you've supported this.
+I read everything and I take it all to heart.
+And thank you.
+Hi, Paul.
+It's so nice to see you.
+Thank you for doing this today.
+You as well, Andrea.
+Thanks for reaching out.
+So I think you started your podcast, Brain Inspired, in 2018, is that right?
+That sounds about right.
+Around about then, right?
+Around about then.
+I looked kind of for your first episodes and I think they were around 2018, maybe with
+Stephen Potter.
+Does that sound like the first one?
+Man, you really did.
+You really have done your research.
+Yes.
+Yes, of course.
+I did.
+It is because he had written a paper specifically about the how neuroscience could help AI.
+And this is like right when I was getting into this kind of topic.
+And so it just seemed like a good place to start and he was gracious with his time.
+Yeah.
+Well, what I'm thinking of is 2018 to 2024 and in terms of AI has been kind of crazy
+It's a totally different world from when you started in terms of AI and neuroscience.
+Yeah, it does.
+And it's, I'm sure we can talk a little bit more about my path or whatever, but I've actually
+I've become of two minds about the use.
+So what I was really interested in is using artificial intelligence to help better understand
+our cognition, our minds and our brains.
+With the explosion of it and with my own learning more, some philosophical background and some
+outlooks, some alternative metaphors for how we think, I have become less enamored with
+the use of artificial intelligence as a tool to study the mind brain, although I still
+think it's quite useful.
+But this is a time when neuroscience is very enamored with it.
+It's the tool du jour, I suppose, at least in the computational neurosciences in terms
+of modeling different brain areas and functions.
+I like it that you use the word enamored because there's the root of love is in there.
+And I think I've heard you maybe in your podcast talk about neuroscience or academia, but
+especially neuroscience having almost a relationship with AI where it's kind of on again, off again
+or whatever.
+So it makes sense to me actually that after having spent six years really looking into
+every little thing and seeing it all happen, that you would be a little ahead of kind of
+the love curve, so to speak.
+You mean at the forefront of it?
+Yeah, like everyone else is still falling in love maybe or getting to know it.
+Well, yeah, I don't know.
+It hasn't evened out.
+I think I've come to appreciate biological processes more and process more as opposed
+to the static computer information processing metaphor.
+And I can't articulate it yet.
+And that's one of the reasons why I continue to do the podcast and try to learn more.
+But intuitively, now it's intuitive.
+I feel that there are important things going on with, for example, embodiment and the flow
+of, I was going to say information, but that's kind of a dirty term.
+The flow of our cognitive processes, our brain processes, and that continuum, which is very
+different than the static computational approach, if that makes sense.
+Yeah, it does make sense.
+This is a very big topic and it's something you address very well in your episodes, mostly
+with the way that you've gone about discovering the idea of process and with your interviews
+with Burkhardt, for example, and that kind of exploration.
+Because it can be a really hard thing to talk about in neuroscience, especially computation
+and AI-oriented neuroscience, because there seems to be this dichotomy, especially in
+terms of something like computation and process or mind and brain or these kind of things.
+So it can be tricky to use these words in these very specific contexts that might think
+you're going over to the other side.
+I don't know.
+Does that make sense?
+It does.
+Yeah.
+I mean, I struggle and it's a mighty struggle.
+If I am kind of enamored by a process philosophical approach now, what does that change about
+the way that I'm doing science?
+And it's nothing so far.
+It's just the outlook, right?
+Although it has allowed me to interpret some of my data differently, but the data are still
+the same data and I'm in a state space and we use dynamical systems theory as well.
+So that's toward process, but we still talk about everything as a state, as a representation.
+How does, for example, motor cortex compute behavior?
+So we still use these terms that I'm headed further away from, but then I'm still embracing
+them because they're used in our current paradigm in neuroscience.
+One must publish and they do lend purchase to how to think about how our cognitive functions
+occur.
+So it's a struggle because I don't know if we're naturally dichotomous thinkers, if that's
+just a human bug or maybe it's a feature.
+I'm not sure, but it's very difficult to sort of go between the two, I find.
+And it sounds like you, I mean, are interested in this as well.
+I mean, Beyond Dichotomies is on your website.
+So yeah.
+And it's really kind of the name of all this in a way.
+Because I think to your point that you were just making that it has been really important.
+So I'm not trying to reject it because I think it's actually an important tool.
+Maybe it relates more to why something like computation or AIs can be very important.
+I think maybe in one of your more recent conversations, the one about abstraction in the brain, there's
+Yes, exactly.
+Then there's this, another thing I think about a lot is that we confuse map and territory
+and things like this.
+It feels like in neuroscience, whether it's with Boussaki questioning the words we use
+or there's a million ways in which people are starting to try to understand that the
+way we speak about those terms you just said, for example, like representations in the brain
+as if they're static, coming from that computational lineage and model, that's not quite right,
+but it doesn't mean we reject them.
+That's what I mean by sort of holding the paradox.
+You can, you've probably gotten yourself into a place where you can do that.
+With your research now, you can probably hold that space without having to reject it one
+way or the other.
+You can probably see, oh, this is the way they're seeing representation.
+This is the way they're seeing it.
+But I don't think that's an easy or natural holding of space.
+Well, I don't know that I'm very good at it yet.
+But for example, I was listening to your episode with Ines Hippolito, I believe is how you
+pronounce her name.
+And I was really surprised that she rejected the idea that you could live with both sides
+of that coin in the same.
+She was kind of staunchly saying that you have to choose one and be in that lane.
+And that's uncomfortable.
+I think she kind of came around to a different way by the end in a way.
+Because I think, well, but that's the weird thing, right?
+Where you hold the paradox because within the world she's in, which I know very well,
+and you've probably got some good understanding of it too in philosophy where you really kind
+of almost feel like you have to choose between the so-called analytic and the so-called embodied.
+Of course, nobody really has to choose.
+You can't choose.
+And that's the point we're trying to get to.
+But I think when you push people and they're in that world, they're used to reacting in
+that certain way.
+So it's almost like we have to widen kind of what we mean by the terms, which I think
+is what she and I did together in that conversation a bit.
+And by the end, it wasn't clear that you had to make a choice necessarily.
+But yeah, let's get to you, though, and think about your kind of path relative to this and
+then come back to some of this holding the paradox and dichotomy because you started
+out back in, let's say, whatever year it was, let's go to 2016 or something.
+You were very much in academia, right?
+You were...
+Where were you?
+You'd done your PhD?
+At that point, I was on my first postdoc, my PhD in 2011, maybe.
+I'm terrible with numbers, so it doesn't matter, but you started on this road.
+Actually, I have to say, you first were very interested in philosophy, I know, from your
+podcast.
+And then I just found out you studied aerospace engineering first, which kind of blew my mind.
+That's the...
+I mean, yeah.
+I mean, I didn't stay in aerospace that long, only two years.
+Okay.
+Yeah.
+And I didn't like flunk out of it or anything, but it just wasn't...
+It wasn't what I thought it would be.
+So then I switched to molecular biology is what I ended up getting my undergraduate degree
+in.
+But you said I began interested or studying philosophy, which I think that maybe the book
+that got me interested in neuroscience was the book Neurophilosophy from Patricia Churchland.
+Well, I don't know.
+But even in...
+I took a few years after getting my undergraduate degree and started working in a couple of
+labs.
+I worked in a molecular biology wet lab.
+Then down the hall, there was this developmental visual cortex neuroscience lab.
+And I ended up transferring to that lab and working as a research tech.
+And that kind of got me a little bit more into the neuroscience in itself, right?
+And so I never really studied philosophy.
+It's always been an interest, but I have not studied it nearly as deeply.
+That didn't mean you had started in academia and philosophy.
+Here's what I meant to say.
+You were interested in cognition or the mind or something relative to all these themes
+early on, like maybe even before you went to university, as I understand it.
+Yeah.
+I wanted to understand consciousness.
+That's like the main thing.
+What it is, how it occurs.
+Do you remember when you first...
+Is there any memory where you were thinking about that?
+I mean, I've talked about it before with others where I remember the first time someone in
+my family passed away, for example, when I was a kid and kind of having this like, oh,
+what is going on here?
+So you had a moment of recognition that there is such a thing as consciousness and I can
+be aware of it with my own consciousness, some kind of weird meta moment.
+Do you have any of those or even things you read maybe like early?
+I don't for me, but I have a son who when he was, oh, I don't know, four maybe, he said
+one day like that he just understood that other people had minds separately from him.
+So he realized, yeah, and so I got to see him have that moment.
+What was that like to see him have that especially?
+Oh, it was so...
+Well, first of all, I thought like, you're just now having that.
+He's four though.
+I know.
+Well, I don't know if he was actually four, I'm bad with numbers, but then I thought that
+it's like such a cool realization and I'm not sure he felt how cool it was.
+I think I might've felt it more than he did, but to have that realization, you only get
+to have that once.
+So it was really beautiful to see.
+I'm still waiting on my daughter who's older than him for that realization.
+She probably had a long, long ago and when she was born, she already knew.
+Probably, probably so.
+She's very intentional.
+Yeah, but you're right.
+That's kind of the thing we're trying to understand in a way, isn't it?
+How does your son have that realization?
+I know you worked with metacognition some too and there's this, I mean, what do we really
+mean by consciousness and is it the same thing as cognition?
+And I wanted to actually get into that a little bit with you, but let's bracket it for just
+a second, unless you have something you want to say, because I do wonder, you were at least
+curious about all of these things.
+Of course, we're orienting it all in a certain way, but as you found yourself in neuroscience
+going towards this through all these other ways, was it something you were still trying
+to, was it still motivating the interest in that?
+Well, you mentioned, so I ended up developing in graduate school for my PhD thesis.
+I went into graduate school thinking like, how can I study consciousness?
+The lab that I ended up joining was a non-human primate lab.
+So the vast majority of studies of consciousness and higher cognitive function have been in
+humans and still is.
+So I was like, how can I study, what is the highest cognitive function I can study in
+non-human primates?
+And we happen to be recording in various cortical areas.
+So with the help of my very kind advisor who let me do this, essentially, and encouraged
+me, we developed a task that tested monkey's metacognitive abilities and then measured
+brain activity while they were doing this task.
+And then lo and behold, in some cortical areas, there's a difference in neural activity when
+the monkey was performing metacognitively well versus when it was performing poorly.
+When it seemed to be aware of what it was doing versus when it seemed to be just doing
+it without being aware of it.
+So that's the very dirty version of my PhD thesis.
+And then I realized, I didn't know anything still.
+I mean, I didn't know that the rich historical literature, so this was based in decision
+making.
+And there's this rich historical literature that I connected with in the PhD level, kind
+of rode upon to help develop the experimental task and the questions.
+But I still had a lot to learn in terms of the raw neuroscience and cognitive science
+of decision making.
+So I ended up, like many people, I started ambitious and wide, big questions, and then
+you learn how little you know, and then you get a little bit narrower.
+Then I started studying specific type of decision making.
+And so the questions just got narrower and narrower as I went.
+So I'm not sure that the science itself was hard enough.
+And the basic science questions were hard enough and unknown enough that became more
+interesting, not more interesting, tangible, because you're going to ask me about
+cognition and consciousness and what it is.
+And it's embarrassing.
+Well, it's just embarrassing.
+I was going to ask you, have you gotten any closer to figuring out what it is?
+Not really.
+In many ways, I feel like a, what is it, a feather being blown in the wind because, you
+know, like I'll learn about some new approach.
+Like recently, I've been learning more about ecological psychology, which even has like
+a different definition for what mind is and mindedness is.
+It can be overwhelming once you are too curious.
+Well, yeah, but that's why you have to hold paradoxes together.
+And that's the practice we're all trying to learn in some weird way, as we are able to
+absorb the fact that there are more and more ways of coming at something like the term
+consciousness or mind or cognition.
+But it can be an obstacle as well, because if you take on one viewpoint, you're going
+to go down that road as far as you want to go and you can get really deep.
+And especially if you have like blinders on to other interpretations of what you're doing,
+you're going to have academic success.
+I'm not sure if it's satisfying outside of, you know, your career, maybe legacy, I guess.
+But it can be, you know, as soon as I get a result, right, then I have to think, oh,
+now how do I think about this from a process philosophy perspective?
+How do I think about this from an ecological psychology perspective?
+Most people would rather not think about them as too much of a computational explosion of
+the brain or something.
+Yeah, well, then we just go to the bars, you know.
+Yeah, well, and then just, yeah, I don't.
+But I have to stop here because this is fascinating and something I think a lot of people are
+trying to deal with in a way.
+So you started with these really big questions, which I think a lot of us do, especially those
+of us with philosophical proclivity, right?
+And I think they still inspire a lot of work.
+Quite a few neuroscientists that I know are very successful people in science.
+Let's say not necessarily even just neuroscientists, but it's the big questions
+that got them into it.
+And then, like you said, you find yourself getting more and more detailed because that's
+the process of science that you're refining your question and you're getting the parameters
+set such that you can.
+And it can seem if you want to have success in a way, you do narrow it down.
+Let's say you're going to go into a certain kind of decision making and you're going to
+read all those papers and you're going to be in that lineage.
+And you almost have to block out the other stuff because it's just how could you possibly
+read all the papers and all the it's a narrowing that's almost necessary.
+It's a narrowing, but a deepening as well, because otherwise you're just at the surface
+of everything.
+But then there's this way in which when you still think about that big question and what
+motivates you, you can end people that have this now where you feel like what have I done,
+right?
+I've narrowed everything down.
+It ain't easy.
+For some people, it is.
+And that's amazing to me that.
+So I mean, I think that I have this genetically because my father never knew what he wanted
+to do and he had like a long career.
+And I don't know what I want to do.
+And I'm not supposed to say that out in public.
+But like my current advisor and the woman who I was just speaking with when I was recording
+an episode before we're recording this, they both knew like really early on and were interested
+in very specific things.
+And I don't know what that feels like.
+They knew like, okay, I'm going to study this area of the brain or something.
+Is that what you mean?
+Or this question about...
+Like behavior in general, like how our brains enact behavior.
+And that's more tangible.
+Like in the case of I was just talking with Karen Adolf, it was development and how
+development of behavior undergirds our cognition and how cognition develops through
+studying infants and their development.
+So those are more directed questions than, oh, I want to figure out consciousness.
+That's true.
+Good point.
+However, I would say even at that scale, I think these are nested things.
+Of course, we're talking as philosophers, so to speak.
+I know you are a neuroscientist, but you have this philosophical spirit in a sense, right?
+But even within their field, if you ask that question, you're still going to have to make
+decisions about which side of this or that you're going to be on in the behavior realm.
+If you take that scale, it's not that you're narrowing in the sense that it's a bad word,
+but you're going to have to make certain decisions and go down a certain path.
+And that's not wrong, but you can end up with the same feeling of,
+if I try to explore this now, it looks like it goes against this whole lineage that I've
+dedicated my life to.
+Therefore, I don't look at it, which is actually probably what needs to happen.
+But at different scales, and maybe that's why we have philosophers or podcasters,
+we want to know how it all links together.
+And at that level, you have to start doing some of this work, which you've been doing,
+I guess, since 2018, where you do try to look at what are the patterns connecting this,
+and you go pretty deep into everything, which is quite time consuming.
+But yeah, you find a way to try to do this and hold the space, or at least open a space
+where people can talk about it and it can be seen.
+So let's get to how you did that.
+In this time period before you created the podcast,
+why didn't you just go down the path of academia?
+What was it?
+So I was feeling frustrated.
+I guess I was in maybe my fourth or fifth year as a postdoc,
+and my skills were getting deeper and deeper, but narrower and narrower.
+And that just felt frustrating to me because I like having my fingers dipped in lots of
+different areas and thinking from different approaches.
+Let me just back up, and it's just because I was just speaking with her,
+but Kara and Adolf had this experience in, I think, graduate school,
+where she learned about ecological psychology.
+And it's like, boom, that's exact.
+She knew that was exactly right.
+And I think she phrased it like, it was like God opening up to her or something like that.
+And I don't have that kind of experience, but some people do.
+I kind of had that with philosophy, which it opened up.
+What does it mean, philosophy in general?
+Yeah, in my first philosophy class, literally,
+where I realized you can think about these things.
+I won't say the sky's opened up or something, but I've had these moments in life,
+I don't know if you've had them, where you just know something important is happening
+just because of the physical effect it's having.
+It almost feels like everything's lined up a little bit, not to get too mystical,
+but it's almost like a great sports experience or something.
+But you're like, oh, something is happening here.
+If I pay attention to it, it's going to open something up.
+Could be with a relationship, too, or book.
+So what was your first philosophy course?
+Was it epistemology?
+It was more like a philosophy of mine, but the professor who taught it
+did it in a very beautiful way where it wasn't analytical.
+It was looking at what mind is, kind of broader, taking all beyond dichotomy in a way,
+like looking at many different forms of philosophy and thinking about it.
+Okay, so you didn't have an aha moment or whatever in terms of your work?
+Yeah, so I was actually feeling, so I had this narrow skill set,
+but it's actually quite narrow non-human primate neurophysiology decision-making
+and it was like all that with psychophysics as well, like analyzing the behavior.
+So I kind of had to make a decision.
+I couldn't be a postdoc forever, but I wasn't that excited about the area that I was immersed in.
+So I had to figure out, am I going to look for a different postdoc?
+Am I going to try to search for faculty positions, feeling terribly
+unconfident and on some level incompetent to start running my own lab?
+And I mean, this is sort of a personal side about it because I was using non-human
+primate research and that was mentally tough to do.
+It wears on you and when you're going to dedicate your research and life to it, it's whoa.
+Yeah, yeah, it's also hard and takes a lot of lab.
+You have to jump through a lot of hoops in lab and there's a lot of caretaking involved
+and so there was that aspect as well.
+It's a total sidetrack, but I know when you were doing this work,
+you were having to record single neurons, right?
+Yeah.
+What was that like?
+What do you do to record a single neuron?
+Can you just phenomenologically explain it in a way?
+Because you were doing it every day, right?
+Recording.
+Yes.
+And I think about it a lot, but I never really know how to picture it exactly.
+I've never watched someone do it.
+I keep meaning to go in the lab and actually do it, but I haven't.
+Oh, this would be good because I have a moment I can tell you about.
+A lot of neurophysiologists have this moment.
+But first, the experimental setup is basically you do a surgery and implant a chronic
+chamber where you know you want to record your neurons from
+and then every day you bring the organism into the lab and you lower.
+This is the way people used to do it and still do it with single neurons
+because the technology has gotten a lot better, but you lower an electrode into the brain
+and you're listening so you're putting the electronic signal, the voltage signal,
+through an oscilloscope and through an audio monitor and so you're going down
+and it's kind of silent and then all of a sudden you start hearing
+and you're hearing the action potentials of single neurons and or small groups of neurons.
+And in my case, so I'm not sure, does that answer your question?
+Yeah, I've seen those before.
+It almost looks like a little cap that the creature is wearing or something.
+So you're removed from it.
+You don't sit in the lab.
+So organism is in a different room.
+You're in the computer about five feet away on the other side of like a thick, thick curtain.
+In my case, animals sitting in a dark room because we're tracking where their eye movement
+location, where their eye movements are, the location of their eye movements are.
+Because in my case, we were showing like dots on the screen
+and on every single trial, first off, a central fixation spot comes up,
+like a little light in the center and the monkey in this case would start a trial
+by fixating on that central fixation dot and then the game of the trial would begin
+and it would indicate its decisions based on which target it moved its eyes to.
+And we were recording from multiple areas but one of the areas we were recording from
+was called frontal eye field and it's famous for having eye movement related activity.
+So we're recording their eye, we're tracking their eye position at the same time as we're
+listening to neurons.
+You're driving the electrode down and then all of a sudden the monkey's like doing tasks
+while you're doing it and then all of a sudden you hear neural activity locked onto the time of when
+the animal makes an eye movement, makes a decision.
+So the beats are like beep, beep, beep, beep or something?
+Like a hippocampus, like a play cell kind of like a Geiger-Cat counter kind of thing?
+No, it more ramps up.
+So it's like whoosh, whoosh and so that was the moment,
+a lot of neurophysiologists have this moment where you're hearing brain activity
+and seeing it on a screen and it is related to monkey making an eye movement in this case.
+And it's, I don't know, I've never even heard it described well,
+it's just something that you don't forget.
+It's almost magical to hear for the first time.
+Can you try to, for someone who doesn't know why, is it that kind of same,
+I mean because I just said it, it reminds me of the lining up of when I'm sitting in the philosophy
+class and certain ideas I've been thinking about are expressed in a certain way and there's a kind
+of alignment or something that happens where, I don't know, does it feel like that?
+It's somehow about like, oh, I am listening in on cognition.
+You're the only one who knows that or something secret kind of.
+Oh yeah, well that happens all the time where, so I've had experiences that I'm the only person
+ever in the history of the world to have had that experience just sitting in my little lab
+alone, not profound experiences, but that happens a lot to people in lab because of whatever
+accidents or accidental happiness happens that day.
+You're looking for something or you don't maybe know exactly what you're looking for
+and then suddenly it's there in a way or you're witnessing it, so to speak.
+Well, in this case, it was just like a feeling that kind of you get chills
+because you're connecting like actual brain activity, which is what at the time I thought
+was doing everything. That's changed a little bit, but you're seeing it in real time,
+you're hearing it in real time and it's like, oh, it's real. We have brains and they are active.
+I'm hearing the exact pattern of a neuron that is somehow related to the cognitive function
+that I'm interested in.
+It reminds me of people saying when they are trying to work on a math problem and they
+finally figure out a little thing and it's not that it's so great that they figured it out.
+It's like, oh my God, it actually will work.
+Yes. I don't know if you are a musician, but if you're trying to write a song or trying to
+write a poem or in your case, a book, you probably have those moments all the time where you're like,
+ah, I figured out the structure of how I want to do this.
+And musicians are famous for saying that those ideas kind of fall out at a given point.
+You work really, really hard and then they are kind of given to you.
+So it's somewhat like that feeling, but I didn't work for it so much.
+But a lot of people did. I mean, you're part of it. But I think that's, I'm not a musician,
+but I've been around a lot of musicians in my life and I'm still trying to relate it to you.
+I think the story of your guest and there's this kind of way in which things align and
+it feels like it makes sense or something. And it's not that you, it feels bigger than
+you at the same time. And yet so much work has gone into it that there's also kind of like a,
+yeah, a success feeling to it.
+That's wrapped up in the history of it as well.
+Exactly. That's what I mean. As you're sitting in that little room, you're part of something
+bigger than you in a way. And you feel that probably in the moment, right? And also kind
+of it's like, oh, this is actually what I've been doing. It's real what other people say or something.
+And then you have the experience. I was talking about experiencing my son's moment a few moments
+ago. Then you have the experience of when a new student comes in the lab and sees that for the
+first time, you know what they're experiencing and you see how it affects them. And then
+your advisor went through the same thing and he told you the same story about the first time he
+heard a neuron. And there's so many people who have that experience.
+In a way, that's probably more of the motivation too. Because just to go to your music example,
+I think a lot of music is actually kind of like that too, because we fall in love with other
+musicians. I'm not a musician again. I can speak of it as writing too, but music is just so
+immediate. But yeah, you fall in love with music because... Yeah? What?
+Are you going to say? Sorry, I didn't mean to interrupt. I'm imagining, I'm predicting
+what you're going to say is that you start out by imitating your heroes.
+Yeah, or wanting to give other people the feeling that they gave you.
+Oh yeah. Okay. Well, that's not what I was going to say.
+But no, it's connected to what you're going to say too, because you're imitating them
+and you want so much to have those moments that feel kind of magical, right? But maybe you
+haven't. And then it clicks and it's like, oh, this is real. It's similar to the lineage thing
+we were just describing in science, because then somehow you've connected. You're part of it.
+Whatever that person had experienced, now you have. And it's as if you've opened up some kind of
+a lineage or line or flow and you know it's real, right?
+Yeah. In my case, I'm not there yet with music, but I can jive with you on the science part of it
+for sure. So there's these moments, it's beautiful in science, but somehow when you were going to
+decide, are you going to do all the work to start your own lab and be the person
+spearheading all this, doing the grants, all that kind of stuff, the answer back then was no.
+It was a pretty hard no at some point. I mean, you also, as a postdoc especially,
+you're getting kind of close to that point and there are new faculty members that you see and
+they're always running down the hall sweating and they never seem happy because they're working so
+hard because they need to get tenure. So I had to think like, do I really want to sacrifice
+my happiness for this career or can I do something else? At least for now.
+You know, it's also when you walk away from academia,
+the feeling is it's going to be hard to get back into it because you need to maintain a paper trail
+of publications and no one's going to want you if you've walked away for a while and stuff.
+So it was a hard choice, but in my heart, it was the right choice.
+Nicole Zilberbourg
+Can you tell me about deciding to stop and what you decided to do instead? Was it just,
+okay, I'm just going to stop and how did the podcast come and how does that connect? Were
+you already thinking, well, I still want to continue all this. How can I continue all this
+in a way that feels more, yeah, in that space that's more natural to you of maybe questioning it and
+looking from this wider point of view?
+Andrew Kassan
+Oh, Andrew, you're telling my story for me. I appreciate that.
+Nicole Zilberbourg
+Am I?
+Andrew Kassan
+I mean, a little bit, but okay, let me go back and say one thing in terms of how I was feeling
+about whether I should continue or not. I don't care about my legacy. And I think if you care
+about your legacy, it's going to drive you to be in that more competitive kind of space. And a lot
+of people I admire care very deeply about their legacy and it's just not me. So that was another
+factor.
+Nicole Zilberbourg
+Sorry, that's a really big statement. You really don't care at all about your legacy. By legacy,
+you mean in science or you mean you don't care?
+Andrew Kassan
+Well, I don't care about mine.
+Nicole Zilberbourg
+By that, you mean you don't care what other people think of you? Is that kind of-
+Andrew Kassan
+I just don't care about being remembered. I don't think it's a helpful way to move through life.
+But I think that is a big motivator for people. So in some sense, I do wish I care. And I'm
+probably being dishonest on some level, like I'm just telling myself that story.
+But why would I start a podcast if I didn't care about being remembered or something?
+Nicole Zilberbourg
+Well, maybe you care about- I mean, this is very idealistic, but maybe you care more about
+what you leave behind, which is different from people remembering you, or what you give.
+Andrew Kassan
+Or maybe you're just narcissistic and you just want to do what you want to do.
+Andrew Kassan
+I think it's closer to that, unfortunately. I think it might be. I mean, really,
+there are two most rewarding things about having started the podcast, and we can backtrack and
+talk about that transition. Things that I didn't think about. The reason I started the podcast
+in general is I wanted to learn. I wanted to learn at a certain level, because there were
+a bunch of popular podcasts, popular science podcasts, but they weren't going deep enough
+for me. And I loved, as I was learning more, I would listen to these things. I told you
+Brain Science podcast by Dr. Ginger Campbell was a super early major influence on me. And she did
+such a fantastic job of explaining, asking clarification questions. And I still enjoyed
+her podcast, but I wanted to explore the topics a little more deeply without having to explain
+all of the very basic assumptions. And that means I automatically would alienate a lot of
+a potential audience. But what I found, and these are the two things that have been
+the most wonderful thing, is A, just the gratitude listeners feel for the podcast.
+So many people come up, and it's not something that I was anticipating,
+but they're so thankful. And I'm getting chills right now, just thinking about it.
+And having some sort of positive impact on people's lives in that regard. That's amazing.
+It is amazing. And it's not something that I thought about that would happen. The other thing
+is just, this is going to sound like sort of businessy, but it's the network of friendly
+acquaintances and friends that I have made from the guests that have come on the show. Like this
+probably won't be the last time you and I chat. I hope it's not. And we're going to probably,
+unless I ruin things, we're probably in done pretty good terms today, I hope. But that's also
+something that I wasn't anticipating, is I have this awesome network now because of doing the
+podcast. Yeah, I guess that's what I was getting at a bit. I don't know what the state of podcasting
+was at the time you started it exactly. Now it's just everybody has a podcast now, right?
+Yeah, including me. No offense? No, I take no offense. I like it. But back then,
+which it wasn't that long ago, but feels like decades ago in terms of things like AI and
+neuroscience and podcasting, there was no other deep going into podcasts about issues of AI and
+neuroscience. And not everyone was doing podcasting. So I can't imagine you were just sitting there
+thinking, oh, what I'll do is quit academia and start a podcast that's going to be successful
+and then therefore meet this wonderful network and have people who appreciate what I'm giving
+to them in the world. Maybe you thought that, I don't know. Oh, I thought, oh, I want to be an
+influencer. No, no, of course not. So by the end of my first postdoc, because I'm now on a second
+postdoc. With a big gap in between though, we should say. With a big gap in between.
+The AI using artificial, using machine learning models and loosely calling it AI models,
+using connectionist type networks was just becoming kind of a big thing in computational
+and cognitive neuroscience. And I didn't know anything about it. I knew things very superficially
+and so I thought this is super interesting. And I'd already made the decision to leave academia.
+And so of course I did a search for podcasts on the intersection and none existed. And I thought,
+well, I eventually thought, well, I want to make what I would want to hear. And so that's literally
+what it came from and wanting to learn more about it and have, you know, learn from the people who
+are doing that kind of work. My podcast has evolved since then, since that early kind of vision.
+But we, you know, sometimes artificial intelligence is not even mentioned in an episode,
+right? And the original in vision was all about the intersection of neuroscience and
+artificial intelligence. So yeah, that's kind of almost cognitive science or I know, like tricky
+term to use, but sometimes, because there's always a connection. It's just that a lot of it sometimes
+is assumed. So I have to go back to what I started with at the beginning. That was a really
+fortuitous choice to make at that exact moment in a way, right? That you saw that there was a kind
+of convergence coming because this was before, I mean, deep learning was getting deeper.
+Yeah. Deep learning was the term I should have used. Yeah.
+But there wasn't this large language model, crazy stuff. Nobody had thought of the transformer
+architecture and so on and so forth. So you rode that wave. That's what I'm saying. In a way,
+you kind of already can see it from a different place than others because
+it was just beginning. Maybe so. Yeah. I mean, like anything,
+there was already really kind of a fairly rich history of using these models to study cognitive
+functions, but it was just becoming more and more seemingly useful and overlapping and that you could
+reliably use a deep learning model set up in the right way to model various parts of how,
+for example, our visual cortex works. And I mean, we can get into some of that alignment
+is very superficial and some of it is really awesome that you can predict a neuron's activity
+based on what the model says. With four layers, four layers deep in visual cortex,
+you can predict how a neuron will be activated based on fitting the model to the whole neural
+data set. So it's really quite impressive. But because of the nature of the topics and the depth
+and the... I'm okay getting into technical discussions on the podcast and sometimes I ask
+fairly detailed questions. Because it kind of aliates, let's say, the lay population,
+it's continued to grow, but it's been slow, steady growth. And it's not like I exploded in...
+I'm not like a podcast land superstar or something like that.
+Well, but you made a big difference. I'm one of the people who learned a lot,
+has learned a lot and continues to learn a lot.
+We'll see. Yeah, exactly. So maybe it was an accident or maybe not, but you actually
+found a way to do what one might have done had you stayed in the academic world in a way that
+fit to your energy or self in a way. But how were you brave enough to do that? How were you
+brave enough to quit academia? And I feel like you moved across the country or something. Tell me.
+I think my prefrontal cortex is still not fully developed, I think is the real answer here.
+My wife and I, once I came to the... So I was married and had two very small children at the
+time of this potential transition. So we had a lot of discussions. My wife is in the wellness
+sector. She used to be a yoga instructor and so she's gone down a few different roads.
+And we came up with the idea. So first of all, we sold our house, we sold all of our
+belongings. We kept the children and we bought an RV and then moved the whole family into the RV
+and then just started roaming around the country, which was a lot of fun, also a lot of work.
+But while we were doing that, neither of us was employed anymore. And we focused on starting an
+online business for essentially my wife. So the plan was to get her online business going,
+start getting some income from that and I would figure out what the hell I was going to do.
+And so I came up with the idea of the podcast, but also I need to update it or get rid of it now.
+But I made an online course eventually about the topics. So that was kind of the vision
+for Brain Inspired 2 was to have some kind of income coming through that as well. So we were...
+That sounds all very simple. We had a half plan. And also this was a time when online business was
+becoming more and more normal. And so we thought we would give this a try to not have to be tethered
+to a location. Post-COVID, this is like standard now or something, but not have to be tied to a
+location, have our own income from our own businesses. And so Brain Inspired started as
+kind of a shot in the dark in terms of like, can this become something? Can I make it into
+something, a recurring livable income? So we were working like crazy living in this RV with a
+two and a four year old. That must have been a close relationship that you can or still as I hope,
+because it's like you against the world, you too against the world in a way. But I guess you
+were a team or something, right? Well, yeah, we were a team. So I helped her. So the main thing
+was figuring out how to do online business in general. We had to develop her business strategy,
+her logo, the way her videos would look and all that jazz. Were you just driving around in the RV
+discussing it all day and then working on it when you stop or something? Oh yeah. We would do shifts
+and have task lists. We're trying to really make it work, but it was a real struggle.
+And my wife still has her online business and I still have Brain Inspired. So I guess
+it worked. We kept through it. But I mean, we were struggling financially.
+Of course. So then we had to, yeah, yeah. That's why partially why I'm back in academia now is
+confluence of reasons. We needed more income. Our circumstances, we ended up living in Durango,
+Colorado after a year and a half traveling around in the RV and our financial circumstances
+kind of changed in Durango. We had to figure out, do I get a job? Does she get a job? I guess I'll
+get a job. What can I do? So I started looking around at academic opportunities partially because
+of this boom in deep learning and AI of which I had learned a lot about now. I hadn't implemented
+anything, but I had learned a lot about it through talking with people, which I'm not sure. Maybe we
+can come back to this because I don't know. The podcast world is a little out of control these
+days in terms of, but in terms of sort of the self-importance of that podcasts are important.
+And I don't know how important they are. Maybe you have a position on that.
+Gosh. I don't know if any podcaster in particular is necessarily,
+needs to be said as important, but I think that there's something about, and I'm not talking
+about myself because it's kind of weird, but more I'm thinking of, let's talk about you. You're the
+guest here. How you were saying, right? I kind of imagine when you go to a conference or something
+now, everyone, a lot of younger people would know your name or a lot of the students and it's a weird
+world that is changing at this moment and you're a part of it. But I do think there's an importance
+to you having taken that risk, which was not easy. And I'm not trying to make you into some
+kind of a hero, but you did at least listen and meet with the person that you loved and think
+about it. And it doesn't mean that it all worked out perfectly. It sounds like it was quite hard,
+but it also didn't fail because that's kind of a precious time from my perspective that you traveled
+around with your kids when they were still young enough. There's so much richness about just life
+that's in that. And that you then also found a way to use what you're interested in,
+explore it in an authentic way without catering to trying to make it popular.
+Cause that probably would have been weird. I mean, I made the best thing that I knew how to make.
+And so it would have been great if it had become super popular, but I didn't really think that was
+going to happen. But it did in this world, I think. As far as neuroscience goes, and everyone's famous
+in their little world these days. That's the thing. So it's all kind of, we're learning,
+it's a bit relative, but the important thing is the reason I'm saying the podcasters are important,
+some of them, right, is because they've become, I think, like the new kind of teachers in a way.
+And this can be good or bad, but just in your case, what I'm saying is you opened up a forum
+so that a lot of people in a lot of positions that have since become very important, because
+we're talking about cognition and mind and consciousness. And yeah, this matters, right?
+It just, it does. And it matters because the science that gets done today trickles down in
+some way through whatever popular books, but also through papers and grants and money and
+experiments. And it influences life and it influences AI, even though people are saying
+maybe not so much now, but it does. It influences our technology. It's all connected, right?
+So I can understand why people would like, you kind of became a teacher in a way. So teachers
+are important. I agree with the statement that teachers are important, but it's sort of
+indirectly teaching by asking people questions and learning about their work at a level that I could
+kind of keep up with them and just know them, know a few questions that might lead to them saying
+something interesting and could teach people about things. Someone told me about a year ago,
+someone told me I was in science communication. And it kind of took me by surprise. And again,
+so I guess I am. Do you feel like you're in science communication, philosophy communication?
+No, I don't think about it like that. I mean, for me, it's a more of an obsessive curiosity,
+desire to connect. I just feel like it's something that I have to do and I like to,
+I want to give people a way to see that they're not, that things connect more than they think,
+right? Or they're not. It's okay to get past this either or that I've seen stifle a lot of people
+and stuff. But I think what we're doing is different because I'm really trying, I mean,
+I'm really thinking of philosophy of mind and really trying to kind of build a philosophy
+and trying to do it in a transparent way and trying to do it in a community way instead of
+me being like, oh, here's the philosophy that I've come up with and here it is.
+That's such a cool project that you're involved in, that you are spearheading because you created it.
+It's just really, I admire that you're doing it this way.
+Well, thanks. It just kind of happens. But it feels right to me. It's hard in a lot of ways and
+I'm putting myself out there. But in terms of when you're trying to come up with what,
+an idea of philosophy in mind, I feel like it should be that way and everyone should be able
+to just see what's happening and critique it. But to you, I think it's really important what
+you said about, because you're, I said you were a teacher and you said you're opening up the space,
+but that's what Socrates did too, right? In a way it's a lot of the best teachers learn,
+you know, what they're doing is being students. And somehow you kind of found that format of
+being a student that's done a lot of homework. And then we get to listen to it. And like,
+we don't have to do all the homework, but we get to learn, right?
+If I do it right, yeah.
+But what I'm getting at is it's fascinating that the switch because
+what's now the switch of what matters in academia is connected to this because
+it's becoming more like we were talking about narrowing and you go really deep and that's still
+very important too. But we were also talking about how we need to be able to see how things
+connect because that's also important for advancements in science and also just like in
+terms of how we understand technology and all these things. And so you've kind of come up with a,
+you've found a way to educate yourself in a way that now universities need people to have been
+educated. Does that make sense? So what I'm saying is, because we are skipping, but you went through
+what? Five, six years of trying to build the podcast, trying to survive, raising kids,
+moving, all this kind of stuff. At the same time, putting out what? Like almost 200 shows.
+Yeah, I'm nearing, yeah, nearing 200.
+That's going to be a big one.
+I don't know. I don't know. I don't have the bandwidth anymore to make it. I did a whole
+special for my 100th. Yeah, there's like a series of them where I asked a lot of previous guests
+questions, you know, and I put a lot of effort into it. I'm not sure 200 might just be,
+might be a normal episode. We'll see.
+Well, that's okay too. It's just, I mean, it's wonderful that you've gotten 200 and they're
+all very substantial. And yeah, but I guess the point is now in doing that, in doing 200 episodes,
+it means you've done so much research across so many fields. You've connected a lot of dots.
+And actually that's what neuroscience needs now, just in terms of how to think about whatever the
+subject matter is a little bit differently. So it's weird, isn't it? And I guess we can get
+into it a little bit because I want to know why you decided to go back to school. I know it was
+also partly financial, but you could have studied philosophy, for example, or philosophy of science.
+Why did you go back into neuroscience and specifically into what you went into? And
+does it make sense what I'm saying? Do you feel like you have a perspective
+that's somehow helpful compared to where you were in 2017 or whatever?
+Yeah. So there's a lot there that you said. Yes, I do. But I get asked that all the time,
+so what is the perspective now? And that still feels like what's the answer now that you have
+learned so much? And that's really what a lot of people want to know. And that's a frustrating
+question to not be able to precisely answer. I'm definitely not asking what the answer is
+because I don't even know what the question is. I'm more thinking, have you learned how to learn
+better? Have you learned how to ask questions better? It's more of the practice of thinking
+that I think the patterning of your thinking might have changed in a way that's helpful.
+I think so, but I think the proof will be in the pudding as I move along back in academia.
+Part of the reason why I wanted to get back in academia was to see about if I could use all these
+new thinking tools and machine learning tools and perspective tools and see how it has affected
+not just my outlook, but my science. And now my day-to-day is very much more, so mostly like any
+other neuroscientist these days, depending on what field you're in, I sit in front of a computer and
+code in order to analyze data. And the questions, because of the advancement of machine learning,
+the questions that you can ask of the data are a little bit different now than the questions that
+you could ask before. But we're still mired, that seems like a strong term, we're still
+very much embroiled in, no, that's negative as well. We're still, by sort of the default
+perspective in computational neuroscience is that computationalism perspective. So it's like I've
+changed, but my surroundings haven't. The people who I could have conversations about these things
+haven't changed. I remember when I interviewed for my postdoc job, I had to describe what
+process philosophy was and why I was interested in it and stuff. And I'm not sure if it's changed.
+It has changed my interpretation of the data and why it might look the way it looks. So
+this is kind of hard to describe, but I have a data set now that is messy relative to what
+a traditional neuroscientific data set would be. And now I can look at that and say, okay, well,
+it's all because of the process and it's from ongoing continuous behavior from a mouse,
+which is messy. And now that I think about things in terms of continuous flow of motion and motor
+output and from the environment back into perceptual, and that is just a continuous
+transformation of energy, right? Is one way to say it. Another way to say it is that,
+oh, it's doing computations. But when you look at it as like a continuous transformation of energy,
+I'm sorry, that's not my favorite phrase either, but I'm going to use it.
+Then you start to be okay with the fact that things don't look perfect in the data. That the
+data is, it can't tell you a perfect story, which we already know. No model is perfect.
+All models are wrong. Some are good. Is that that, George P. Botchers?
+Some are better than others.
+Dang it. This is something I should have wrote in my mind. Anyway, all models are wrong.
+Some are more useful.
+Oh yeah, that sounds better.
+Some are useful. Yeah, so that's the way I think about modeling these days too. You were mentioning
+the map and the territory and then getting confused. And I think early on in my career,
+I was right there being confused by if you can make a model as good as the data, then that's
+telling you a lot. And that's somewhat conflating. The model isn't real. It's not perfect. It can't
+be perfect. It's a metaphor. It's a model. So you can use it to try to infer and interpret
+your data in certain ways, but you're not making the thing. You're actually making a model. You're
+not making the brain region. You're making a model. And I think I used to just kind of accept
+that, that if you made the model, you understood. If you could make a perfectly predictive model,
+you understood the brain region.
+I think it happens all the time that we assume it. Having studied neuroscience,
+an fMRI image, we talk about it as if it's the brain, right? Instead of a picture of a really
+parameterized, pixelated, one little tiny thing that's going on. We just can't hold all that. We
+just think, oh, that's the brain. There is emotion right there. There is emotion, right?
+And this gets back to trying to hold the paradox and look at it a little bit differently.
+But because I do really honestly believe that we're at a moment in science where we can finally
+maybe do that for the first time. However, it's very important we understand that they're just
+models coming from a particular path and that needs to be seen. All of that needs to be accounted
+for in the experiment and our understanding of the experiment and the way we talk about it
+and the way we use the words. At the moment, it feels way too big to try to do that. But I
+really think we can and we're all trying to. And you're kind of bringing that in is what I'm saying.
+I don't know how to exactly say it, but you're bringing that into that world,
+even with just conversations you have or the way you just presented it, right? If you just presented
+it in that way to a few people, it changes a lot in that little environment, I think.
+Oh, yeah, these are the kinds. Of course, anything you learn new that changes your perspective,
+you think, oh man, if I had only learned that as an undergrad or something, like before,
+it would have changed my whole perspective. So, I mean, I'm coming at this kind of late also
+in terms of when it... Well, I don't want to say that. I'm just an old man. That's what I'm saying.
+But I feel like you're giving me a lot more credit than I deserve. You're being very kind
+with your words. But hopefully that's true. And I'm somewhat surprised at your... And I'm
+impressed by your optimism that we might be on the cusp of being able to, what you
+phrase as, hold the paradox together. Is that... Well, yeah, just understand the paradox can be
+what it is. And when you let it do that, you notice patterns in it rather than trying to resolve it.
+Or I think we just assume if it's a paradox, it's like a contradiction, which isn't actually true
+or something. You can have the computation, but you can also know that the process itself can never
+be computed. Those don't have to mutually cancel each other out.
+I understand that. And now that I understand that, it's hard to understand
+why anyone else would think any different. Because you've done so much hard work though,
+because I think it's very hard to... It's so nuanced. And as you were just saying,
+in the same way that once you know something, you wish you'd known it your whole life. But
+it's one of those weird things, kind of like your little son when he realized the mind thing. You
+realize it only one time, and then it seems like it's always been that way. And this is another one
+of those moments, I think, where we just haven't articulated it in our science in a way that it's
+kind of shifted widely in that sense. I do think it's happening. I really think there's been so
+much annoying debate about the word representation for good reason.
+From philosophers, mostly.
+From philosophers, but from neuroscientists too.
+Yes, it's true. It's true.
+Everybody's kind of in it. And yeah, it's the same, right? Of course, we have representations,
+and they're real, but the brain is a process, right? So it's still even hard to talk about it,
+but these are hard things. But I do feel like we're trying to do that a bit and getting there.
+I can see it.
+You're doing that work.
+So are you.
+But you're doing it intentionally. I'm sort of doing it as a...
+I'm trying to articulate it literally, which is why I'm doing it.
+I'm trying to articulate it in my own head.
+But you're also doing it. I'm really not trying to put you on a pedestal and give you a lot of
+credit. I've just seen it in labs. This doesn't get seen, but little things, like a couple
+conversations where people just suddenly make that little switch. I keep thinking of your son,
+the light goes off. And if that happens in a few labs around the world right now,
+it's a big switch, right? And I think your podcast does that. And I imagine you do that in
+whatever context you're in, because that's who you are now. You have this path.
+Going back to that realization that you can hold the paradox, it's almost like
+you just realize, oh, it's okay. It eases the burden of trying to think about it in one way
+or the other and to realize, oh, it's all one thing and just different.
+Perspectivalism is a popular word these days, pluralism. And it's all part of accepting
+different viewpoints as explanations from different perspectives. And that they're all
+like valid, not all, but you can have multiple seemingly contradicting things that people
+assume are dichotomies that are living actually together and it's such a freeing feeling.
+It is such a freeing feeling. I think of it sometimes as a landscape or in a more general
+sense, because if you take a landscape or a mountain, for example, there's so many ways you
+could explore that mountain and you're going to see very different things, but you could go to the
+same kind of place. And I think models can be like that. That's different than saying, oh, all the
+models can be true. No, what's the question? And then you critique which model might be best. And
+then you go through all that rigorous stuff too. You still have to do the hard science, but with
+the background in your head, it's like much easier to proceed even if you don't feel like you're in a
+fight with the concepts. Right. That's what I was hearing when you were talking about the way you
+look at the data now. Because we often talk about trying to fit the data to the model, but maybe you
+can... Again, it's very hard. I think that's of that quote of Fitzgerald that I love of the sign
+of intelligence as being able to hold to opposing ideas at once and not go crazy or something like
+that. Because it is kind of hard to look at all that data and then you can understand, okay,
+if I let it be a little bit loose, there's a lot of different models that I could find here and
+that I could use with the data. And then maybe choosing one and going with it. But there's
+something about being able to hold the space and let it be one model among what could be more many
+that might fit. That's right. And in the end, you're going to be telling a story either way.
+And so how you frame that story can affect how people interpret your results, right? But
+it's still a story about how we think things work. And something can be super predictive
+and then something else can add a slightly different take on it, a slightly different bent
+on the way... And not be as predictive, but it can still add to the story. I have trouble articulating
+these things as well. So I'm glad you're doing it. I look forward to your book coming out so that
+maybe that can help me do that better. Yeah, thanks. But I think you do it very well in
+your conversations and so on. And it's a reservoir, right? Where people can go and get a lot of this
+without having to talk about it directly because it's in there. But let me just say, so you were
+at my place of work now. We're just running into the average neuroscientist. It's still very much
+the default assumption that we all think the same way and that there is the correct way to think.
+And it is this one, not that one. And so that has not changed. So among my podcast audience,
+perhaps it has, but they are diluted across the world. So... Diluted, not diluted. Yeah,
+it sounded like you said there. Yeah. Oh. No, but still that's how it starts. And these things
+seem not to exist and then they change and it's as if it always was that way.
+I really just think it's a different kind of assumption. It's a different assumed starting
+point. And it's hard to get there, but I think we're all trying to get there in a certain way.
+And we were talking about podcasts and everyone has their podcast. And I see it as,
+in a way, a good way. I think we're at a moment where everyone's kind of doing it,
+but it's very hard to do. And it's not like you're going to, you don't, unless you just become,
+you have to have millions and millions of followers to make money because it's not about...
+You have to almost already be a celebrity. Yeah. Yeah. People think you're getting rich
+or something, but it's really, you have to do it because you want to do it.
+Oh yeah. That's very true. Unless you are a celebrity.
+Yeah. Or there's some motivation behind it. But I guess what I was going to say is that maybe
+that's part of what we're talking about too, is that's also opening up a way for us to be able to
+open the space a little bit and communicate a bit differently in our kind of assumed starting place
+when it comes to science. Because yeah, there's also a lot of motivation in there, isn't there?
+I'm thinking of philosophy where you want to debate and fight and so on.
+So that seems to be the majority of philosophy, which is kind of eternal. I really enjoy
+philosophy for a couple of paragraphs. And then you kind of get lost in the nitpickiness
+of definitions and the philosophers can work their way around any topic, any way they want,
+it seems, so that they're just good rhetoric, just the path you choose. And then you just kind
+of are back where you started. And then you're going to argue again about representation the
+next day and the next day and the next day. And so that gets a little... That wears me down a little
+bit. That's why you didn't go into philosophy. Maybe, but I did think about going into philosophy
+instead of going back into neuroscience. But I thought I would have to get another PhD,
+I would have to get another degree and be starting all over. And that wouldn't be enough income
+either on a graduate school stipend and stuff. So that factored into it as well. But I'm still
+interested. Maybe I'll go back at some point. Yeah, you could probably do it online in a way
+from school. That's true. When I first heard you say you were going back into academia,
+I thought you were going to be a consultant or something, be in the lab, which is the philosophical
+role anyway. So who knows as it progresses, because you're still doing the podcast and
+academia is changing and everything's changing. So who knows how it all evolves. Well, yeah,
+they had to invent a new title for my position because of technicalities of my experience.
+And it was a great thing. But I would love to be a consultant. I just don't know that it exists yet.
+I think in practice, it definitely does. And that's what a lot of philosophers do in labs.
+So in a way, they're already doing them. Is that becoming more popular to have a
+philosopher consultant? I mean, they wouldn't use the word consulting, but yeah, I think it's like
+that because that's what you bring. You were just talking about how philosophers are such
+good critical thinkers. So you learn that skill. And then what happens is if you stay in a philosophy
+department, you just argue endlessly about stuff that doesn't matter to show how great of an
+arguer you are. And it's kind of exciting and titillating and all that. But you can just end
+up going around and around in loops. I'm not trying to completely disparage that, but it can
+become that. And it can progress things. It's just not part of the philosophy world I
+am interested in pursuing. And the real, when it comes to the subjects we're talking about,
+consciousness, cognition, mind, trying to understand what this is and all the implications
+that we need each other in various fields. And to speak to all these subjects we're talking about,
+what a philosopher can do. A philosopher in that sense is someone who can think critically or who's
+looked at a lot of different paths and arguments and can then... So in a lab, you can more or less,
+your best contribution is to have easily a way to think through all those different paths,
+which is what I'm saying you've learned how to do with your podcast. Saying, well, we could look
+at it this way or this way or this way. And did you know about this and this study? Because I
+find a lot of times people are doing redundant work or they're doing work that would connect
+perfectly with someone else if only they had ever heard of that person.
+Yeah, that happens more and more because there's more and more science being done as well.
+Yeah, that's a problem. You need replication, but you don't want to be redundant in science.
+And from your position, you probably would catch a lot more of that stuff.
+I would hope so. And I think I've become more fluid in terms of being able to
+think between perspectives without too much pain because it's still hard and there's still friction
+in terms of doing that. I think that that's one of the more valuable things is just
+allowing myself to entertain more perspectives. So hopefully that's...
+That's what I've noticed in your podcast. And also that you're not afraid to make people a
+little bit uncomfortable, which is important. That's a fine line. I don't know how you feel
+about that because one of the early criticisms that I would get is that I'm not tough enough
+on the people. But I want mostly to highlight their work. I don't want it to be a gotcha moment.
+No, no, that's not fun. That's not what I mean at all. That wouldn't make any sense for your
+podcast. I mean more that you've read it so deeply and that if you don't understand something,
+you're not afraid to say, what about this? That kind of discomfort where they have to actually
+explain it. And sometimes it's, oh, I hadn't thought of it that way because that's what we need,
+right? When people can do that in a way that's not trying to do the gotcha moment because that
+is not beneficial. Well, that's one thing that has only increased throughout my career is knowing
+how little I know and being super comfortable because I know no one knows anything. And so
+I'm okay by vocalizing. I have no idea of what you're talking about and I'm super comfortable
+with that. I don't know what that's related to. That's more like just showing people that it's
+okay to not know something. Yeah. I think that's part of the benefit of the podcast too is that you
+can show people that being a lifelong student is okay. In a weird way, that's what we're all
+trying to learn because I'm sure you've probably noticed it too. I don't know if we go back to
+your early years in academia, but when you do make it into academia or science, often, of course,
+it's still very inspiring and amazing. But there's usually a moment, there's those moments like you
+described of, whoa, you're part of something incredible. And then there's also moments where
+you're like, oh, these are just normal people making mistakes, doing normal stuff. Nobody knows
+anything. Yeah. Mostly trying their best. But also, this has to be true of all fields,
+but I have met so many amazing, generous, kind people in academia. Not just smart, of course,
+there's a lot of smart people too, but those don't always go hand in hand. And so I've just met so
+many people I've just enjoyed so much and I feel so lucky to have gotten to know and interact with
+and whom I feel are going to be lifelong friends at this point.
+I think that's beautiful that you said that. There are some incredible people and it's so motivating
+when you come across them and it's so inspiring. Just someone who you just can't believe how much
+they're giving and how good they are and nobody even sees it and they don't need the recognition.
+And it seems like nobody sees that, but when I really look at academia, I think that's what's
+keeping it going. And that's really at the heart of all those big discoveries, even if the person
+who gets pinned with a discovery sometimes isn't doing that. Yeah. Yeah. I want to temper that also
+with, of course, like in any other area, there's so much politics involved and not backstabbing,
+but massaging things to get your view in the spotlight and trying to seem right more than
+trying to be right. And so I should have said that at first and then ended with the super
+positive thing instead of ending with the dark side, right? No, but it is there. But that's what
+I meant by that's the stuff that you, even in current politics, it might seem like the kind of
+sexy stuff or the stuff that's powerful, but when you really start looking at it, you realize the
+real power is actually something else, especially when it comes to just life quality to sort of
+move towards back to your life and towards kind of wrapping up this talk for today, at least.
+That feeling that you're describing and that motivation, I wonder, I know this word love isn't
+like an easy word to talk about, but when I, just having listened to your podcast now for years and
+I feel like it's motivating you, whether it's with you and your wife making these big decisions
+or whether it's the way you talk about your kids, even though you're very funny, but it's very clear
+you love your kids a lot. But also the way you respect your guests and that you've created this
+community and so on. I know we don't want to talk about that word too much in connection to all this,
+but- Do you get a lot of pushback from other guests on this? I think it's hard to talk about.
+It is. I don't get pushback. It's hard to talk about. And I think I'm actually very careful
+about it because I want us to recognize, it doesn't even have to be the word love,
+but even just connection, human. I don't want it to get too saccharine where it's, you know,
+because I find love to be quite like uncomfortable at times and a harder thing. Like it has an edge
+to it. A feeling of love or an act of love? Well, how do you think of love? I can sit with
+different paradoxical views of it, right? Because on the one hand, I think I grew up
+assuming that love was something one felt. And as I get older and have had children,
+it doesn't matter how you feel, it's what you do. And so I've shifted to at least include
+love as a behavior or action, like a loving action. And I tend to lean toward that over
+the feeling itself, because you can have a feeling and nothing will be different, right?
+Well, we can go into all kinds of neuroscience and philosophy on that one. Like what's the
+difference between the feeling and the action and the mind and action and all this? And I guess,
+like to summarize, we would say we hold the paradox, right, after this conversation?
+Yeah. But I do want to dig into it just a little bit, because the feeling we're fed in media
+of what love is, where you really feel this kind of everything is good in the world or something.
+I don't think that's necessarily the feeling of love all the time. For me, because to be honest,
+even as a kid, love has been, when I feel love, I almost feel pain because you can't do anything
+about it. But you just have to feel it. It's like with the kids, right? You can't do anything about
+it. You just got to be with it. And it's not, it's painful in a way. And yes, you have to act,
+acting out of that is the real love. But yeah, so what do you mean by the feeling of love?
+Oh, the feeling, you know, like meeting, watching my children being born, meeting,
+and getting to know my wife and, you know, that gut kind of visceral tingling sensation that
+your thoughts gets right, like your current situation gives rise to. And so that's kind of
+what I mean by, and then realizing, oh, like, I really, really love this person. And so that's
+sort of the feeling or realization. Or recently, a little over a year ago, my grandfather died.
+And he, I was kind of, he'd been bedridden in the hospital and he was really going downhill.
+I'm sorry, I don't need for this to be a morbid tale. But he did the thing where he like, people
+had gone and visited him and I hadn't been able to make it yet. He did the thing where he waited
+for me before he died, you know? Like that's my interpretation. I know there are other,
+but that's what everyone has said. And I know that from, you know, nursing home situations,
+that that happens quite frequently. So I got there, I got to say goodbye to him. I was the
+last person to see him alive. I hung out with him, you know, for a couple hours in the night.
+And then he died, you know, an hour or two after I left. So he was dead the next morning.
+And I say that like, so I don't know what that is from his perspective, but I felt such love.
+And I felt such love for him also, as a grandfather, as a man, as a human being,
+really. He's a very kind, generous, funny man. But I felt that connection between he and I as well.
+And so that's another feeling of love.
+Thank you for sharing that. I think that's very beautiful. And it actually speaks to a lot of
+what I was trying to express, but not so well, because there's your grandfather, right? He has
+no, there's no motivating factor for him to do that other than love.
+He was not in a great situation. And you're right that it is accompanied by a sort of crushing
+feeling, right? It almost destroys you in some sense.
+Yeah, I've really felt that at times. Even the love for your grandfather, in my case,
+my grandmother. And she's been gone. I don't know if you still think about your grandfather a lot,
+but my grandmother passed away, but I still have it sometimes. Where it's just so,
+I cannot believe how much I love this person who's not even in the world anymore. But
+there's a continuity.
+I was just crying a couple nights ago about it. Just sitting with just the reflection
+and thinking about the person. And if, you know, it's not just my grandfather,
+I'm just using that as an example. But.
+You can't get away from it. You know, there's some meaning in there. There's some,
+even when it's painful, there's some feeling of life, real meaning and real, you don't care
+about your legacy, but you have a legacy, right? And so these things you're creating
+and your relationship with your grandfather, how that's going to be transmitted into your kids,
+like you don't, you have no choice. It's happening.
+Yeah. I'll go along with that.
+You don't have to. Do you disagree?
+I mean, I think you do have a choice, right? To act differently. You don't have maybe a
+choice. The action is a choice.
+But the feeling, perhaps not. But I mean, it's a cycle, right? When you act a certain way,
+it's going to potentially dictate your feelings as well.
+Actually, that's an important point. Yeah. Okay. Was there anything we
+haven't said that needs to be said or any final?
+I think so. I just, I really appreciate the conversation. Slightly painful in a very good
+way at times, but I appreciate your interest and your gratitude. I mean, you said a lot of nice
+things about what I'm doing and I just, I feel a lot of gratitude for your appreciation. Thank
+you, Andrea. Keep me posted about your book and how your work is going. I'm sure we'll be in touch.
+Yeah. Okay. Thank you so much, Paul. Have a good day and thanks for being patient and staying on.

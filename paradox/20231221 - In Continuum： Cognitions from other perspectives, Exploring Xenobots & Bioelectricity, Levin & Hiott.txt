@@ -1,0 +1,645 @@
+Hey everyone, I'm posting the second conversation that Michael Levin and I had.
+Sorry it took a little bit of time to do so. I'm sure you're all busy too with work and
+end of the year. And I just wanted to wait until I could really listen back to it
+while I was working on a relative paper. And I did just listen back to it. We had this
+conversation quite a few months ago. So it's wonderful to listen to it again and rediscover
+some really important points that I hadn't remembered from it. We really get into the
+idea of the binary and the continuum and talk about waymaking and cognition as navigation
+and try to kind of get into a little of that nuance. So I'll just go ahead and post it and
+leave it as it is for the most part. And the next one will come in the next year. So thanks
+for listening and I look forward to your comments and I hope you have a wonderful end of the year
+in a wonderful 2024. I remember that we were talking, just had mentioned the Xenobots.
+Should we just start there or? Sure. Yeah. What I remember that I wanted to ask you about
+was when you, I think what I'm interested in is do the Xenobots create their own shape or
+do you choose the shape? Do you roll them up or do they roll themselves? So there's two types
+of Xenobots and what, what you can do is you take that, you take off the, the ectodermal cells
+off the embryo and then you can dissociate them. Yeah. So, so you, you separate them.
+They're kind of like a, just, you know, floating there and then, and then you put them a little,
+in the little pit and they kind of coalesce together. So there's two versions of that.
+Uh, by default, if you do nothing other than that, they will arrange into a Xenobot on their
+cell. You, you do not have to roll them up. So they roll themselves. They, they do it themselves.
+But now what they will do is they will make a spherical, a spherical bot. If you want to
+manipulate that, there are two basic paths that you can go. One, which we've already published.
+And the other one is what we're working on. The thing that we've published is that you can sculpt
+them. So this is what I would call a bottom up intervention because you're trying to micromanage it.
+So what you do is, and this is my, my, uh, staff scientist in my center. I did this Doug Blackiston.
+And so he's a micro kind of a microsurgeon. What he'll do is he'll go in and like, uh, basically
+sculpt out a blade, certain parts of it. And, and at that time you can also put in other kinds of
+cells if you want. So the very first paper actually had, he sculpted it to have little,
+little stubby little legs, like a little Ottoman kind of thing. And then, and then he put, um, some,
+some muscle cells in there and the muscle cells could make the legs go. And this thing
+actually walked that's not designed about that, that I spend most of my time talking about,
+but, but that was actually the first paper. So, so you can sculpt it and he's, he sculpted it that
+way. He also, in the, in the last paper, what he did was he, um, he made it like a little Pac-Man
+with a little triangle taken out of it. And what found is that that shape is really good at gathering
+up a bunch of loose cells and packing them into the next generation of, of Xenobot. And that was,
+that shape was actually designed by an AI that was designed by a, by, uh, an artificial intelligence
+algorithm running in Josh Bongard's group. So, so you can do stuff like that. Now,
+what we want to do in the future is we want to get beyond that. And we want to be able to communicate,
+uh, morphological goals to, uh, to those cells. And we want to say, I need you to be flat, like a
+pancake, or, or I want you to be, uh, you know, like a football or, or, or, or have this more complex
+shape, like whatever it's going to be. So ultimately down the, down the road, that's what we want,
+but, but we haven't, uh, we haven't done that yet. We haven't published that yet. So we're,
+we're working on that. I think shape is so important,
+right. And the morphology and I'm trying to kind of connect it to all these other bigger ideas
+that I'm working on in terms of cognition. Um, and you already sort of do it in your work,
+but I'm trying to find the link. So I guess what I'm, what I was asking is like, is I'm wondering,
+like, is the, I guess first I would ask you like, where's the chemistry and where's the mind and the way
+that the Xenobot forms itself and your kind of opinion. Um, but behind that is what I'm trying
+to get at is, are, are they kind of working on the patterns of their own shape? Is there,
+is there a continuity between the shape that they are and the shapes that they create in a sense?
+Yeah. Um, well, I want to say, I want to say one thing first, which is that the, uh, question of,
+of that, um, continuum of, of shape and mind and everything else, uh, Xenobots are not yet
+a great, uh, example for that because there's so little we know. So I'm, I'm of the firm. I mean,
+many, many people have, have, uh, have opinions as to what, you know, what the, what the cognitive
+level of Xenobots has to be, but just because they have sort of philosophical commitments to
+specific viewpoints. I don't believe that is the way to do this. I think it's, I think it's an
+empirical question. I think we have to do experiments. And so I have not yet made any
+claims about, uh, the, the cognition of these Xenobots because we haven't actually published
+the data showing what it is that they can do. I mean, we have a few things, but, but, but we have
+not, so, so I haven't made any claims about Xenobots. No, of course not. I'm jumping ahead.
+I'm jumping ahead because the way I define cognition is already movement and it's completely different than,
+you know, I'm already starting at a different place. So that's why I'm asking, but you're right.
+That's good to point that out. Well, only because, right. So, so, uh, because, because ultimately we
+want to be able to be very specific and we want to be able to say Xenobots have this level of
+competency in navigating space. They can, uh, you know, what can they do? They may, maybe they, so,
+so we're testing, you know, do they have preferences about where they go? Do they have memories about
+where they've been? Do they have, uh, ability to overcome obstacles? Do they have the ability to work
+together? You can, you test all these, all these things, right? So, so we don't know. And so,
+right. So that's why I'm not making a claim. But if we, if we sort of step back to this more
+general notion of way, making or, or navigation or whatever it's going to be, then absolutely.
+They're not only doing that in three-dimensional space, they're doing that in Morpha space. I mean,
+they do. And in fact, if you cut them and injure them, they will in fact, uh, try to regenerate back
+to their original shape. So, so there is some of that there. It's just, it's just, there are other
+systems where we know more and thus it's easier to kind of make that connection in a rigorous way.
+Um, you know, otherwise you're fighting two battles at once, right? You're fighting this,
+this general tendency of people to try to separate, uh, uh, for morphogenesis. And also you're fighting
+the fact that we actually don't know enough about what they specifically can do. So that's the problem.
+So I try to, I try to kind of separate those. Yeah, this gets really messy, but I think maybe it's okay
+to just like, let it be messy for a second because, um, if we start, if we could, we can,
+of course, erase this. Usually when we hear cognition as humans, we think of mind and thought
+and memory and all this kind of awareness of cognition, really. Right. Um, but if we could
+kind of erase that in a way that I think you're definitely, both of us are kind of trying to get
+at this different understanding of cognition that I think is actually very similar, which is why I'm so
+excited about your work. Um, and actually I think your work is kind of maybe an example of what I've
+been trying to formulate, I guess. Um, and I think there's other examples in different areas of science.
+Like we're all sort of trying to talk about this, but if we could just like start over for a second
+and just say, okay, any making way, or I also use the term navigation, but just as we know that always
+means you have a goal and sometimes maybe making way doesn't have a specific goal, which is something
+else I want to talk to you about. But if we just think of it as any agent from any position making
+its way through its encounter, or it's, I think what you might call like a surface, computational
+surface, I started to realize that your light cone idea is a little bit like what I mean by an
+encounter, right? So if we just determine a position, an agent, what I say, an agent base,
+and I've heard you call a gentle, I think we also use similar terminology. If we just say, okay,
+this is from where we're going to measure it. And however that position makes its way is cognition.
+If we just pretend like that's what cognition is, has nothing to do with that creature,
+that agent knowing that it's cognitive or anything else, then when you create this kind of, or you
+don't even create, when you've changed the frog, let's just go with the frog, when you've taken the
+skin and you've separated the cells and they start to reform, that is a kind of making way. So for me,
+that is already a cognitive act. And it's also physics, like, and it's not either or of those
+things. It's both of those things, but we would call them differently depending on from where we're
+going to measure it. So if you take it like that, would you just say, okay, then it is a cognitive
+thing that the way it comes together and forms this, uh, new, new shape and then begins forming
+other shapes that look like it and so on. So, so yeah, yes. But to me, um, because,
+because I treat, uh, cognition as a continuum, not a binary variable, I think the real question is
+going to be where on that continuum is it? So what is it capable of? So I completely agree that this,
+this like, um, metacognition that I know I'm aware and I know my goals and I can change my goals and
+stuff. Yeah. That's all, that's all really advanced, uh, kind of stuff that's way on the right of this
+continuum. Things are on the continuum long before they get to that point. So, so I have no trouble
+saying that very simple systems, uh, you know, even bacteria have some, some primitive metacognitive
+loops about their metabolism and things like that. So, uh, uh, so I have no, I have no problem, uh,
+saying that we are somewhere on the much lower sort of part of that spectrum, but we're somewhere on
+there. I'm sure, I'm sure we are. Um, I just don't know exactly where there are other systems where I
+can tell you where I think they are because the experiments have been done. I, you know, that's,
+that's why I, I, the only reason I harp on this point and it's not, I'm not trying to get too
+specific. I'm, I'm fine with letting things be messy and percolate. No, it's important to find clarity.
+I'm completely fine with that, but, but, um, I'm trying to fight this, this, this, uh, pervasive,
+uh, tendency for people to make claims about these things, uh, just based on their philosophical
+pre-commitments, not, not on actual data. And so, so I keep, for that reason, I keep saying,
+as much as I like all kinds of things to be cognitive, I don't know where they are on a
+continuum until we, we test them. So, so we don't know, you know, how much can they do
+associative conditioning? I don't know. Can they write, can they, you know, we, when we have
+evidence that they can form memories now, but we don't know how complex these memories can be.
+Can they chain them together? I have no idea. These are, these are all things that, that we
+need to figure out. And, and the other interesting thing is, um, I didn't realize how P so, so it's
+funny, you, you know, you just, you said a minute ago that, um, uh, navigation presupposes a goal.
+And I never really thought about that. I realize now that people do think of it that way. I didn't,
+I didn't either. I don't think it does, but it does in the literature of nourishment.
+Yeah. It's, it's so strange. Even, even we even, we even had a paper where we talk about one of
+these synthetic things, traversing a landscape and traversing to me, just, it could be, it could be a
+random walk. It just means that it's moving over the landscape. Right. But a reviewer got back and
+said, oh, traversing must mean it's this like, um, uh, you know, this, uh, very directed, uh, kind of,
+I, I, I did not realize that people, people have those connotations. I mean, I think,
+I think for, for navigation, you could have a very generic goal of exploring a landscape unit.
+It doesn't mean you have the goal of knowing where you're going. I don't think that implies at all.
+So I don't know here, this is one of those things where I think we have to decide,
+are we going to use words in the way that everybody uses them because we want to avoid those battles
+and, and have, uh, you know, have more adoption or do we bite the bullet and say, no, actually,
+here's what those words should mean otherwise. Right. And just sort of lead the, the, hopefully
+a change in the terminology. I, you know, so sometimes both are useful. Right. So I don't
+know. So, so certain things that I, I try to insist on and then other things like whatever.
+Yeah. There's a big debate. You probably know, uh, in neuroscience now about language and the terms
+we use and, you know, Buzaki who, um, you know, advised me a little bit on some of my own stuff,
+talks a lot about how we just sort of inherited all these terms like memory, for example, from James.
+And we sort of assume what it is before we even look for it in a sense. Um, so I think that's what
+I mean by the messiness is like, we're all assuming terms mean a certain thing based on our past
+trajectory. Um, and we don't realize, I mean, you write about this a bit in that paper you sent me
+last time. Um, you know, some of the confusion is just that we don't have a kind of
+understanding of what we're talking about where there's a lot of misinterpretation going on that
+we don't even really know about. Um, I think that's what I'm actually trying to do in formulating
+a philosophy or a theory of cognition, which is really all I'm doing is gathering all this other
+data and research from science and trying to show that, oh, actually we're all talking about the same
+thing. And that's all I'm really trying to do. It's not even that there's some new thing. It's just
+to try to put it into a framework that actually works across species and scales and disciplines,
+because nobody's done that because it's so messy, but, um, to maybe we can talk about a more kind
+of concrete example before I start asking other questions. Cause yeah, the xenobots, I know you,
+it's still very new and also a lot of people in a similar way are coming with different references
+of what they think you're doing. So it can get very, uh, difficult. So what's an example that you
+think where we could actually talk more about physics mind kind of software? Yeah. I mean, for,
+for example, we could talk about, uh, planaria fragments, figuring out how many heads they're
+supposed to form, or we could talk about, uh, catpoles rearranging their face from abnormal
+positions to become frogs. Some of these examples where, where we can talk about the, um, the newt
+kidney tubule, where, uh, it solves a really amazing, uh, kind of, uh, defect in its own parts
+to still get to where it's going, which is to make a proper newt with a proper kidney tubule and so on.
+So yeah, any of those. Let's talk about planarian because they seem to be the answer to everything
+in a way. Um, so if we think about them, which regenerate in a completely different way, or would
+you say regenerate or reproduce in a very different way? They regenerate. Yeah. Okay. Um, so I've heard
+you say something like, uh, that I think in talking about those, that bioelectricity is this kind of, uh,
+strange boundary or layer between the mind and the physics when it comes to changing. And this is
+something I'm still not so clear about is what the electricity is in the bioelectricity and how
+we're kind of distinguishing between matter and matter in that pattern. So I don't know, maybe,
+and that's kind of a very broad, but in terms of, of those, where would you start to think about
+software and hardware or mind and chemistry? Yeah. I, I, I start to think of it actually,
+let's let, let me, let me try a slightly different, um, way that, um, I haven't,
+I don't think I've talked about it this way in, in, in this, uh, the talks yet. Um,
+think about, uh, think about a computer, uh, right. Uh, when you first turn on the juice
+for some number of, I don't know, probably nanoseconds, what you're dealing with is a piece
+of physics, a dynamical system well described by Maxwell's equations and all of that. Right.
+But at some point, once it starts grabbing, uh, once it starts executing the thing that we recognize
+as, um, formal computation in the von Neumann architecture. So it starts, so, so it starts
+grabbing instructions off of this memory location and doing something with them. It's still a physical
+machine. It's still obeying the laws of physics. It's still doing all that stuff, but we can look
+at it and say, wow, it's executing logic. The, the, the sort of basic principle of rational thought
+it's doing, you know, let's say it's calculating the end, you know, the end function or the or
+function or something like that, or it's calc, you know, some, some kind of calculation. So, so you,
+so here you have a system, you can look at it a certain way, uh, and say, you can be a reductionist
+and say, none of the, none of that exists. All I see is electrons moving according to Maxwell's
+equation. That that that's all that exists. Or you could say, I mean, yeah, that's true,
+but that's the most boring part of this. The more interesting part of this and the more useful part
+of this is that it's computing functions. It's re it's, it's calculating, maybe it's reasoning,
+you know, it's an inference, it's calculating inferences and so on. So, so I think that that is
+like a minimal simplistic before we get into life and all that, that's a kind of a simplistic system
+where you start to see that it's both it's, yes, it is a physical system. Yes. It, uh, yes, it, uh,
+it, it obeys, uh, the laws, but also it's doing this amazing thing. That's, that's, that's getting
+close to cognition. Like it's actually generated, you know, it's following truth tables and, and, and,
+and, you know, and those, and those kinds of things. So, so I think the same thing happens in,
+in living organisms. Uh, you can look at the bioelectricity as just the flow of ions in and out of
+membranes and what that does to the arresting potential and all of that. But fundamentally,
+much like with the computer, there's an, there's a, the it's, it's computation because there's an
+interpreter. There's somebody that looks at that, at, at that whole physics and acts on it based on
+what they see. And, and in the case of the computer, it's us in the case of the biology, it's cells and
+tissues, watching each other and making decisions based on what they do. And, and the first part of
+what you said, you know, the, the, my point about, um, changing scales, it's like, sometimes, um,
+I'll start a talk by saying, uh, did you, did you know that I can control 30 per, I can, I can depolarize
+30% of my body cells just by thinking about it, by force of thought alone. And people say, well,
+that's crazy. And then a couple of people say, well, maybe it's some sort of weird, um, uh, you know,
+yoga thing or something, right. Am I some kind of mind, body medicine? Like, no, no, this is 24,
+seven. This is what happens in your body. When you, when you decide to get up out of bed in the
+morning and go to work, that's because you have a high level cognitive, uh, in fact, a metacognitive
+system that has social goals and, and whatever, and decides that you're going to work. And in order
+for that to happen, the muscles in your body have to become depolarized in a certain pattern. So you
+can walk out, walk out. And that means that they, our architecture is such that the thing we call
+cognition, which are these high level, the kind of mental processes and goals has to filter down to the
+molecular biology of your cells. It has to, otherwise there would be no voluntary motion.
+So, so that's, and, and so you say, well, how in the heck does that happen? Well,
+bioelectricity, so neural and non-neural that that's, that's why biology, that's why I think
+bioelectricity is so exciting because it shows us that it is the layer that enables cognitive processes
+to, uh, to control chemistry in your, in your cells. I mean, that's 20, that's what happens all the
+time. It's not some rare, you know, specialized thing. And at the same time, it is chemistry
+itself in a way, right? I mean, yeah, you can, doesn't it depend on where we're going to measure
+or look at it, what we're going to call it. Absolutely. Absolutely. You can, you can choose
+as an observer and, and observers are scientists. Observers are parasites. Observers are conspecifics.
+Observers are all kinds of things that you, you are your observer yourself too. As an observer,
+you can choose the level that you work on. But, uh, we have to be clear that not all, all choices
+are equal. So, so if you are just imagine, um, I kind of imagine it this way, uh, you are, you are
+uh, running a, uh, a software company and you're interviewing candidates and somebody shows up and,
+and, uh, to the interview and they say, Hey, um, I'm a, uh, I'm a strong reductionist. Uh, I believe in
+electrons and I believe in Maxwell's equations. And that is it. There is nothing else going on in the
+computer. It's not that they're wrong. Exactly. Would you hire that person? They're not going to
+code a damn thing because, because, because there's no dynamic way of change there. Well,
+they don't believe that the algorithm makes the electrons dance. If you do not believe that this
+algorithm, what's, what's an algorithm. It's a, it's a, it's not a physical thing, but if you don't
+believe that the algorithm functionally makes the computer do things, you will never write any code
+ever. And, and so, and so, and that's it. And it's not that you're wrong and you can have a great
+life in physics, but you're not going to invent software. So, so that's what, you know, that's
+my point. And I think evolution is very, um, very, uh, uh, quote unquote, aware of this in the sense
+that these observers do not, for, for example, um, when cells watch each other's voltage and, and they
+do, they make decisions based on each other's voltage. They are not watching whether that voltage
+got there by sodium, by potassium, by chloride. They're ignoring those details. They're watching the
+voltage. Why is it good to watch? It's interesting you say watch by the way, because that makes it sound like
+they're looking at it or something, but it could be, they're just sensing it too. Right. Aren't
+they? I mean, it's not like with eyes necessarily. No, no, there's no eyes. I'm saying, yeah, yeah.
+I don't mean eyes. I mean, I mean, they're, they're sensing it. They have, they're taking
+measurement. Yeah. It's a sensory measurement. It's a sensory measurement. That's, that's what I
+mean. Uh, they're paying attention to the voltage and in doing so they specifically ignore the
+molecular details of what was it? Sodium or potassium that got into that voltage. They ignore that the
+same way that when you're a good coder at a particular level, you have to ignore the levels
+underneath. If you always jump down to the lower level, you're very limited in what, in what you
+can do. That's what language is giving you in a way. I mean, that's why we create those kind of
+scaffolding systems in a way. But so does that, I think just to go back to this idea of navigation,
+right? And, and the way it's used in the literature is that there's a goal. And so that it's as, as if the
+agent itself knows that it has a goal or the agent has the goal. But if we think of it in the way you just
+described that kind of stuff, it could also be that the person measuring it has, um, seen where,
+what its goal is or something. Um, I mean, you could also kind of, yeah.
+Um, yeah, no, a hundred percent. That's in fact, that's, that's the definition, uh, in my, in my team
+paper, I say that goals are in the eye of the beholder. Now, now you are also a beholder of your
+own goals. So it's not just, uh, you know, I'm not saying that, that we are nothing except what people
+make of us. I'm not saying that, but, but any of this, when, when, when we say a system has a
+particular goal, that means that I, as an observer have picked a problem space. I picked a bunch of
+states that I think this thing, uh, this thing has as goals. And I've done some experiments to see
+that if I perturb it, it still tries to get those goals met. It's mostly it is. And, and somebody else
+could, could have a completely different, you know, um, a set of choices about that. And, uh, in, in
+principle, multiple viewpoints could be right, but they're not all equivalent because some give you
+much better, uh, outcomes than others. So that's kind of, yeah, very much so. I think it's very
+observer, you know, it's, it's observer dependent. That's what ends up causing the trouble in a way
+sometimes is that it, we, we're still stuck in that either or dichotomous model where we think
+it's either software or hardware, um, it's either mind or physics always across all, uh, positions of
+assessment when it's because it's very hard to hold in your mind. The fact that depending on from what
+agent you're measuring or assessing, what is physics at one level can be look like mind at the next or be
+mind. I mean, because you know, that's a really, I think that's a very hard thing to articulate or to
+step back enough to, to see.
+Well, another way to put it is, is this, uh, I think the reason physicists see, you know, chemicals
+and particles and so on and not mind, they see matter and not mind is because they're using low
+agency tools. So, so you need some sort of, uh, um, an impedance match between the tools you're using
+and what you hope to see. So if you're using rulers and volt meters and, uh, all of these kinds of things,
+like as physicists do, those are all low agency systems. All you're ever going to see is low agency
+matter that you're, you're only ever going to see that, uh, if you want to see mind.
+Yeah. If you want to see mind, you, you have to have a mind to be able to recognize mind.
+Um,
+but even then it sounds like we're still talking about mind as if it's something else. So in a way it's
+like, you have to have a mind that has similar regularities to whatever it is you're measuring.
+I mean, yeah, well, that's a good question, right? I mean, this is, this has been dealt
+with in science fiction for a hundred years or more. It's like, are we going to be able to
+recognize minds that are very different from ours? And I think it'll be hard for sure, but I don't
+think it's impossible. And I think you get there by stretching your own mind. And I think this is what
+the field of diverse intelligence is all about. It's about stretching your own mind and new directions,
+uh, to be able to recognize a wider set of beings.
+Let me push you on that a little, because if we think of mind as the way we make way,
+and basically this gets to memory and everything, because it's not just that you're making way,
+it's that you're, um, aligning with certain regularities, which then you kind of habitually
+use in the same way you were talking about coding, right? You can't keep recoding everything every
+time. I mean, so you're sort of building this framework by which you can move better and farther and
+explore more. Um, so if we really think of mind as that, you know, then more or less what we're
+saying is we just don't recognize certain forms of making way or movement. For example, if something's
+using some kind of electrical physics to, to move that we haven't been able to observe and clarify
+yet from our sensory position, we, we wouldn't see it. I mean, it happens already all the time,
+right. With different kinds of animals and things. Yeah. Yeah. I, I a hundred percent.
+And I think if I remember correctly and I'm not sure that I do, but if I remember correctly,
+I think that at some point was maybe it was the ancient Egyptians or somebody thought that, um,
+the brain was a way to cool the blood because, because, you know, and I mean, yeah, from a certain
+perspective, that's great. It's a radiator fin and it cools the blood, but you've, but you've missed,
+you've missed, uh, the importance. And, and I think this happens to us all the time. I think we look at stuff
+and in science, this happens all the time. You look at stuff and you have a level of, of, of
+explanation and you say, you know, great. Now I understand what it does. And, and what, what really
+harms the, the ability to discover these things is this kind of this, this idea that you're always
+supposed to skew downwards, that, that the lowest level explanation is always preferred. That if you
+can do it in terms of chemistry, instead of cognition, you're better off that, that, that I think is
+absolutely pernicious. And it keeps us from discovering these other very useful perspectives.
+Absolutely. Because that itself is one, it's a, it's like a linear instead of a spectrum. I think
+a spectrum can be understood as linear, but that's not, I don't think that's what you're saying. This
+continuity. I don't, when you talk about scale-free cognition or something, you're not necessarily
+talking about it's linear with the beginning and end or something, but when we talk about reduction,
+that's what we're kind of talking about, that everything can be reduced in the same way,
+rather than there's all these kinds of fractal, uh, positions from which everything can be
+decomposed or the same thing can be decomposed in many different ways, right? Depending on
+where you're going to measure it from. Yeah. Well, and also it's a very, um, it's a very specific,
+actually a very strong claim, and it's not often made, um, explicit, but I think people, most, most
+scientists, uh, work as though they believe this, which is that they say you really should reduce it
+to let's say chemistry. Um, but, but they don't really mean the full reductionist program because
+if somebody then said, oh, you mean like quantum foam, like we'll reduce it. I see not quantum
+foam. That's too far chemistry. It's all chemistry. Like, like, well, then you're not a real reductionist,
+are you? That just means you've picked chemistry as your, you know, as your preferred level, but the
+stuff underneath, and if you want to, you know, I don't know what, what if it's in favor now or what,
+but, but, you know, if you want a string theory explanation of, of, of genes, they're going to say,
+ah, you're crazy. That's too far down. Chemistry, like chemistry is the way to go. And I'm just
+saying that's not good reductionism. That just means you've picked chemistry. And, uh, that's a
+very strong, yeah. And that's a very strong claim that chemistry is, is the level for all of these
+things. And I don't think it's remotely true, but, but I think we need to understand that that's,
+that that's a commitment that, that a lot of people have. Yeah. And I think that's important too,
+that because you can, it can quickly sound as if you're, we, or I am trying to reject
+these binaries, but actually these binaries chemistry are mine, for example, or we could
+take other things, you know, uh, they're very important that they actually help us
+to understand the system and they are literal and they, they are meaningful and all of this. It's just
+that for me, at least it's like, how do we understand that those are just, uh, those are not,
+not just, those are ways we've, we've developed to understand something that can be understood from
+other positions through other categories without one or the other being false or true specifically.
+Yeah. I, I think I'm, I'm, I'm even more radical on this point. I think I, I don't like the binaries
+because, because they lead to pseudo problems, right? Once you've, if, if you've assumed, if you like
+binaries, then, then what do you make of embryonic development? Because, because you start as just
+physics as a little, on, on, you know, quiescent oocyte and unfertilized egg. And then before you
+know it, you're, uh, you know, nine months later, you've got these cognitive capacities and you're
+recognizing shit. So, so if it's binary, then you owe a story about where it clicks over.
+Mm-hmm I don't think it is binary, but I think it can help us understand, like, for example,
+how would we, now we, for me, I would say from the beginning, that's making way from the beginning,
+that's cognitive. This is very hard because I also mean from the beginning, like, I mean,
+cognition is making way. I also mean making way is cognition. So I'm not reducing walking or swimming
+or crawling to cognition, and I'm not reducing cognition to walking and swimming and crawling.
+I'm saying those are two different ways, which we can measure a process that is not binary.
+So in that way, the binary becomes important just because of contrast and the role that contrast
+plays and how so far we've proceeded to develop a kind of, a kind of knowledge. Because I don't know,
+maybe you disagree, but in a way I feel like now we can see that process of that nine months
+as cognitive and as making way or navigating. Um, and those things aren't opposite, but somehow we use this
+binary categorization to develop this, the science that allowed us to take that step back now and go,
+Oh, actually this process is not binary.
+Yeah. Um, so, so I agree with you. I think it's cognitive from the very beginning, but, but that
+has an interesting implication because very beginning is a little blob of, of, of that's, that's well described
+by chemistry. So, so once you say that, that that's cognitive, then, then, then people say,
+well, well then what isn't, I mean, basically then chemical reactions. And I say, yeah, look at the minimal
+matter research in, uh, in, in diverse intelligence, you know, active, active matter droplets. I mean,
+yeah. And so, and so then, then, uh, that basically pushes you to this idea that, uh, there may not be
+anything that isn't described by some metaphor from, from behavioral science somewhere. And that may well
+be true. And people like, um, uh, Chris Fields and Carl, Carl Fiston, who are working out a, a kind of,
+uh, uh, uh, that, you know, Carl calls it a physics of sentience and the sentience of physics. It's
+basically re re redoing the, the, the fundamental, uh, way we look at physics from a active inference
+and from an active inverse perspective. Uh, yeah, that's great. And, and I think, I think in many ways
+that, uh, undoes the binary distinction that people like to make, but I also think, you know, I think these,
+like, if we step back and we say, okay, what, what are, what are these words for? You know, what are
+these categories even for, right? Why are people using it? I, I think what it all boils down to is
+it's a, it's a protocol claim. It's a claim about if, if you tell me this is a, this is a system that
+is, uh, uh, here on this continuum, you know, it's a mechanical clock or it's a, it's a learning
+agent or it's a thermostat or whatever. All you're really saying is I, I don't need to, if you think it's
+mine or matter or whatever, what I really, what you're really telling me is here is a
+collection of tools that you should use to interact with the system. And those tools might
+be rewiring. They might be rewards and punishments. They might be, um, a complex, uh, a conversation
+that we're going to have. They might be, uh, just a resetting a set point. That's what I hear when,
+when I hear somebody claim that this system is it or isn't that what I want to know is great.
+What, what are the, what are the set of tools you're telling me that rewards and punishments won't
+work that I have to use rewiring? Well, let's find out you could be right. You could be wrong.
+That's why I think it's, it's an empirical matter because, because of these, these are all protocol
+claims in the end. Um, what techniques are you going to use? Yeah. And that's why grounding
+it in engineering, like looking at it from that framework can be the most helpful instead of
+from a more theoretical sort of standpoint. And also, I mean, it can get, um, if we would just say,
+oh, everything is cognitive and everything is way making. Um, that's really not true. You can't
+actually say that because you're always speaking from a position of measurement or assessment.
+So, um, I, I mean, that would be like a whole, a whole discussion within itself about how we have
+to sort of apply the same idea to our own, uh, our own, our own position, you know, it becomes very
+meta in that way. And, and, and really you're just trying to understand something. And when I start to
+think about why are we doing this, right? Like, or when people start saying, oh, does that mean that life
+is whatever moves? If, if it doesn't make its way, then it's not life. Okay. Yeah. Yeah. Maybe, but
+that life itself is an assessment from our position. Um, so yeah, but I think it's great
+that you said like, what's the point? Because we could just maybe right now even go to a really
+practical level, like in our practical position as agents in this, uh, existence that we're in,
+there are particular challenges and difficulties and urgencies. What, whether you want to look at it
+on a planetary scale or you want to look at it in terms of your own psychology and how to get through
+the day, you know, for people who have certain, um, uh, uh, challenges like physical challenges
+or mental challenges, whatever you want to, however you want to assess that and, and, and name it.
+We want to do something about that, right? We might not need to understand why so much as just
+alleviation or better make way making or better navigation, right? Which I think you're, by, by focusing
+on engineering, are you sort of framing it towards that too a bit when it comes to your own work?
+Yeah. And I mean, I, I see engineering really broadly. So, so one way to, I, I don't just mean
+engineering because we're going to treat, uh, humans and have human relationships the way we engineer
+Roombas and things like that. Um, engineering to me is much broader. So, so I think of it as, uh, more of,
+um, the way, the way that, uh, you can think about hacking. So hacking. So if you're a hacker,
+you might be on one level, uh, where, where you're down rewiring some wires, you might be writing code
+and things like that, or you might be doing the social engineering part where you're, you're relating
+to other people and getting them to tell you their passwords or whatever, you know, whatever it's going
+to be. It's all, you know, you're, you're comfortable, uh, at different places along that continuum.
+And I think that yes, on the left side of that continuum, it's all engineering because you are
+mostly exerting your own agency to get the thing, to do whatever you want it to do. But on the higher
+level of that continuum, when you're interacting with animals, with other humans, with other, um,
+high level minds or whatever they may be, however, they may be embodied. Um, it's much more of a,
+of a dance where their agency is giving you something. It's not just a one way kind of a thing,
+but that's, again, that's a, that's, that's continuous, you know, people like to have pet
+lizards and, uh, and things like this. It's not just, you know, uh, you know, my vacuum cleaner
+versus, versus my spouse. I mean, there's all kinds of stuff in between, right. Where, you know, uh, you
+can have different degrees of relationships depending on the, the match or the, or the mismatch between
+your cognitive light cones. Um, and so, yeah, so engineering is all the way from like very, very
+mechanical kinds of stuff, all the way up to complex human relationships where there's multiple, uh,
+low side of agency involved. And it's not just about control. It's about getting something back
+because, because the system, the other side is also a gentle like you.
+Yeah. That's a great point to go back to the planarian from that position. So this is something
+I don't understand totally when, when you change, uh, or, or some other, whatever, anything that you've
+talked about in your work, when you're going to, for example, change the position of the
+eye or you're going to grow something in a different way or, um, and you're basically
+that's bioelectric, right? You're, you're changing the pattern. You're not changing the genes. It's
+not happening in transcriptional space. It's happening in this. So what's happening there?
+Is it, is it that you're changing the communication between the ions? I mean, are you changing the
+sodium? What's actually happening there on that level that's changing that?
+Yeah. So, so, so physically the way you do it is by, uh,
+there, there are four or five different techniques by which you can change the pattern
+of voltage around, uh, across a set of tissues. You can do, you can use, um, ion channel modulation.
+You can use optogenetics. You can change sodium, potassium chloride. None of the details matter
+for the reason that I said before, as long as you get the voltage, right. I mean, the details matter
+when you're trying to get the voltage, right, but, but, but there are many ways of doing it and it
+doesn't matter how you got there. The, what makes the change is the change in voltage. Voltage is super
+cool because it's a, it's a, um, it's a high level entity. Voltage doesn't know if it got there by
+sodium or by voltage. It's like this coarse grain feature. And that is what the cells are tracking.
+They're not tracking the individual ions are tracking the voltage. So, uh, so you make that
+change. The reason you make that change is because that electrical pattern is literally a memory in the
+mind of the collective intelligence of cells. That, that group of cells is storing a memory
+of what does a correct, for example, what does a correct planarian look like? And that information,
+they have to have that information because when they're damaged, they have to rebuild the collect,
+a correct planarian. So it's kind of the trajectory or all the nested coding. You're, you're shifting that,
+but you're shifting it all at once. We're shifting the set point. So, so, so, so when you have a
+thermostat right in your house, um, you may not know how anything works. You don't need to, you
+don't need to rewire it. You may have no idea what the details are, but all, but if you know,
+you have to know a couple of things, you have to know it's a thermostat. If you miss that part,
+then, then no good. So you have to know that that's what it is. And once you've guessed that
+that's what it is, you have to know how to reset the set point. And we know that for a thermostat,
+there's a particular, uh, register in memory that has a number in it. That number is what the whole system
+is going to use as its representation of what is good and versus bad. That's the, it sets the
+baseline valence for that system. So if, if it's good, then nothing happens. If it's bad, then it's
+got to exert all kinds of energy to try to get to wherever life is good. So, uh,
+So it's very specific to that agent base, that position, that, yeah.
+Yeah. Yeah. It is. Although it is, although it is, although people have done, um, experiments in memory transfer
+and there is some ability to take that medium and stick it into a different agent and have them
+interpret it the right way. That that's, that that's a very big open area of research for the,
+for the future. Like how, how much of that, um, my, my favorite example of that is caterpillar
+butterfly. So if you train caterpillars to look for, uh, the leaves that they eat on a disc of a
+particular color, they become a butterfly. The body is completely changed. The brain is completely
+refactored cells. So most of the cells are killed. You're right. The whole thing. And then the
+butterfly, not only does the butterfly remember the original information, but it's actually going to be
+generalized because the caterpillar said leaves are to be found on this particular thing.
+Butterfly doesn't need leaves. Butterfly doesn't want leaves. It wants nectar. But what the butterfly
+remembers is food. It generalizes the notion of food from leaves and nectar. Right. And so, so amazing.
+Uh, but, but it's a completely different body that's interpreting that memory.
+So not only does it have the memory, not only can it still interpret that memory, but it can also
+generalize from that. So, so I, you know, to some extent it seems very specific to the agent,
+but on the other hand, we have these examples of these memories sort of porting across agents,
+which I think there's something here that, that will be huge. I think we just don't.
+Yeah. I love that example of the caterpillar and butterfly, but I also think it's kind of tricky.
+I mean, when I was, I think I was listening to one of your talks, I was thinking if we could zoom,
+zoom, zoom, zoom, zoom, zoom into that process of whatever is happening when the caterpillar's
+changing to the butterfly, of course, there's going to be continuity, isn't there? Like
+from my perspective, I'm thinking of it as a trajectory, right? If you're kind of mapping
+a trajectory, so you're going to just start with any particular agent base within that whole thing.
+It's not that everything becomes mush and then reforms. I mean, you could sort of,
+if you're going to, if you could zoom, zoom, zoom, could you, could you kind of follow
+one position as a trajectory that's then changing in? And because I guess that's what I was getting
+at too with the xenobot, like, does it create its own shape or is the shape created from where it's
+coming from? Isn't there, is there some kind of continuity between not necessarily the physical
+shape, but you know, the same way you talk about all these other different spaces and I do too,
+I think this is a big part of, of this new understanding of cognition is all these different
+spaces from which we can, again, measure or assess, like, wouldn't there be some space in which that
+is a continuous trajectory between caterpillar and butterfly? Well, I, there may be, but I mean, look,
+we don't, for example, if, if it were that simple, we would have computers that, that were robust to
+that. We don't. If you, if you take a computer, a normal computer architecture and you swap some memory
+cells around. Right. Nothing works. There's, there's physical continuity, but the thing is
+completely gonna, gonna not work. Yeah. But that could just be that we haven't, I mean, in the same
+way that we can't zoom in to the degree that I'm talking about, then we also wouldn't be able to
+represent it in a computer. I mean, well, except that in the computer, we have zoom, we can zoom into
+the, to all the way in the computer. There's nothing preventing it. That's why I choose the computer
+because unlike biology, where things are hard in the computer, we build it from, from copper atoms.
+Like we know exactly. Yeah. But it's, that's only one kind of particular
+uh, representation or something that we've actually created. Um, I think I like that you
+say it as a companion or a partner, right. To in this kind of journey. So there could be,
+I mean, we could think of quantum computers or we could think of some kind of living computer built from
+bacteria and fungi or something that might actually, then, then you probably could switch
+around a couple of things if it's a living. Yeah. Yeah. Yeah. For sure. No, I'm not saying
+it's impossible to do that. I'm saying it's entirely possible. I'm just saying, uh, we haven't done it.
+We have no idea how that would work because we do not have any architectures that have that property.
+I mean, the butterfly does, so we know it's possible somehow, somehow it gets done. Um, but,
+but also the question of what is their continuity of, because, because, uh, some kind of an engram
+that said leaves, uh, is not what the butterfly is, is picking up. Right. So, so that's what I mean
+by a different space. It's not the space that we, that we, that we assume. Yeah. Yeah. We don't know
+other way of, of looking at it. Um, you know, there's, there's also this issue of, and I think,
+I think this is probably what we're getting out when you were talking about, um, uh, you know,
+what, what are the Xenobots really doing? Like one of the, when, when we, when we ask, where do
+biological shapes come from? The typical answer is, well, selection. You look like a frog because over
+the years, everything that didn't look like a frog and tried to live in this pond died out. So now you look
+like a frog. Okay. That's fine. Except that, um, there's never been any Xenobots and there's never
+been selection to be a good Xenobot. Exactly. And so it isn't that. And so, and which is one of the
+reasons we made Xenobots is exactly to probe exactly this issue. Where do these patterns come from?
+And I think we have to be really, um, we have to redefine, uh, what we're asking because I, I, I,
+this is, this is my kind of favorite stupid example that, that I always give you ever seen, um,
+a Galton board. You know what that is? They have this, right? So, so, so you get a toy of this on,
+on Amazon. It's like a, it's, it's a board. It's got a bunch of nails banged into it. Uh, you take a
+bucket of marbles and you sort of dump it on top and the marbles go blah, blah, blah, blah, blah, blah.
+And if you've got enough marbles, the outcome is always the same. It's a bell curve. It makes this
+beautiful, beautiful, you know, binomial distribution. Right. Um, and so you can ask the question,
+all right, that's a great curve. Where is that pattern encoded? So you start staring at the nails. I don't
+see it there. And you start looking at the wood. Well, I don't see it there. And is it the distribution
+of nails? No, not really. Is it how I dump the marble is in? No. Um, where, where does it come
+from? And so I, I think, and there are many other examples like this, I think we have to, uh, we have,
+I mean, basically this is what, what, um, uh, Plato and Pythagoras were, were on about when they were
+talking about this platonic space of form, that there are laws of, of physics, laws of computation,
+uh, and so on that are not to be found in the physical world. Like the details of all the
+physics could be different at the big bang. All the laws of the physics could be different.
+The distribution of prime numbers is still what it is. It's not gonna change. So, so a lot of the,
+the answer to the question of where do these shapes come from that you have to look there in addition to,
+oh, it's because, you know, in the physical world, somebody, somebody were scribbled on, on this
+particular scratch pad that, you know, before it's, it's partially that. And it's often, sometimes it's
+like somewhat that, but it's often much of it is not that makes me think of Schrodinger's cat or
+these typical experiments of, you know, quantum physics with the light going through the, the
+disks that make these kinds of patterns and stuff. Like, again, it could go back to that idea of from
+where we are assessing it and this whole kind of scaffolding that we've built towards measuring and
+assessing, um, that there is this kind of regularity, which gets at another thing, which is not that you're
+just changing the environment, right? When you change, when, for example, if let's talk about
+regeneration, just because I know we have to go soon and I wanted to at least bring up that word,
+but, um, you're not changing the environment when you regenerate, are you? Is it just that simple that
+you're changing the electrical pattern and we could just call that the computational surface, or we could
+call that the light cone that you've somehow now changed the pattern of the encounter and therefore
+the agent itself will change, or it's not that simple, is it?
+No, no, no. And these are all, these words are not interchangeable. So, so like, um, the cognitive,
+we, we, we don't know how to change the cognitive light cone. The cognitive light cone is the scale of
+the biggest goals that a particular, uh, uh, system can, can pursue. Actually, that's not quite true.
+And I think in the cancer treatments, we do, we do expand the cognitive light cone, but, but, um, that's not
+what we do for regeneration. So, so in regeneration, uh, we try to, we, we, we, we, we change the
+environment in two ways. One is like, like, for example, for limb regeneration, we have this, um,
+wearable bioreactor and, and part of that, and it gives us like protective aqueous environment. Part
+of that is to convince the cells that it's safe and it's worthwhile to put energy into regenerating.
+If you're a mouse or something and you're running around outside and, and you're behaving, you know,
+your arm gets bitten off, you're not gonna, you're not gonna be able to regenerate anything because
+you're putting weight on it, you're getting infected and stuff like that. So, so the cells,
+there's no point in trying to regenerate anything. So, so you're trying to convince the cells that it's
+a safe environment. Also, you're providing a payload of drugs that target, uh, the electric
+state of the cells that convince them that the journey through more of a space that they should take
+is the one that goes towards making a limb and not the one that goes to scarring and, and, and stopping
+grows. There are multiple paths that they could take. So you're trying to point.
+It's happening at once. The, so you are actually changing the chemo chemical kind of
+ion, the ion channels via chemicals to not just. Yes, you, yes, you have, you have to, but, but,
+but, but if you get, but the problem is if you get, I mean, and, and people do say, they say, oh,
+you know, you're talking all this stuff about these high level controls, but I see you're just putting
+chemicals on, on ion channels. If you, if you focus on that part, it's like when you're showing your
+thermostat to somebody who's never used one, they sort of staring at how your finger goes on the
+button. They go, oh, I see it's the, it's the, it's the physical interaction between your, your skin
+and the button of the, of the thermostat. And you say, I mean, yes, that occurs, but, but you're
+missing the whole point. Like that isn't the important part. Let's say, no, no, I'm tracking
+the physics. That's what you've done. You've, you've put your skin on the button. Like, yeah, yeah,
+I guess, but, but you're missing what's, what's important about this. And I think that's, it's the same
+thing here. I mean, yeah, we use these chemicals to get the channels to open and close,
+but that isn't the point. The point is that, uh, the reason we did it is to control the decision
+making of the collective intelligence. And that's the hard part. The hard part is figuring out what
+signals are going to convince that group of cells to do A versus B. And that's happening at a
+different level. Yeah. That's at a completely different level. And that means that you really
+have to have a model of the internal perspective of the system with a bowling ball. You don't have to
+do much of that. It's just, you, you, you look at the landscape and you kind of know what's going to
+happen with a living system or various other complex systems that have to be alive. You really
+have to pay a lot of attention to what are the internal beliefs, the goals, the competencies,
+the memories of the system. Otherwise you have no idea what your signals should be.
+Yeah. Okay. So why is, how is it different? Something like, um, how is this different from
+something like, uh, talk therapy or something like what would be different? Right. All right.
+When we, when we do talk therapy, we are kind of literally, of course, people get really mystical
+about, oh, the vibration and we're changing the vibration. And you do literally when you meditate
+or something, or when you talk, you, you change the vibration. Um, is that like, people might say,
+oh, that's changing the bioelectricity field too. And I mean, it is in a certain sense. If somebody
+talks you into, uh, taking up an exercise program, uh, because they sort of, uh, point out how good it
+is for you and all that. They've absolutely changed the bioelectrical properties of your cells because
+you're going to flex your muscles and all this kind of stuff. I mean, so on the one hand, yes. And
+one of my favorite quotes is Fabrizio Benedetti, who says, uh, words and drugs have, have the same
+mechanism of action. I think that's true in the end, that's absolutely true. But like with everything else,
+it's an empirical question. What is the best level is the best level. So, so here's, here's my claim.
+And, and it is a, an experimental claim and I could be proven wrong and, and, uh, we will see.
+Here's my claim. The best way to do regeneration is not at the low level of managing molecules.
+And it is not at the high level of talk therapy. It is in the middle of addressing the bioelectric,
+uh, memories of, of collectives of cells. Now, somebody else could say, guess what, dude, you,
+you, you missed, uh, you missed the most, the most exciting discovery. The most exciting discovery
+is that I can, I can talk people into regrowing their, their, their limbs. Fantastic. I'm not
+saying that can never happen. Maybe there's a way to go from that high level, uh, a verbal interface
+to the, I mean, there is the, there is this field of, um, uh, hypno dermatology where, where people,
+people can, can make changes in your skin cells by, by going through the verb. Maybe at some point
+somebody will figure out a way to do that for healing and regeneration. Fabulous. At this point,
+I think it's, I think the right level is, is kind of in the middle. It's the, it's, it's, it's tweaking
+directly the, the memories of the, of the cells, but yeah. And that's not necessarily, again, it's not
+that you're saying that one or the other of those has to be true. It could be all, all those ways could
+be ways of changing. They could, but, but some of the most efficient would probably be. That's it.
+That's it. Some of those ways will be more effective than others. Yeah. And there, and
+there are many people, I mean, look at an alternative, uh, alternative medicine, right?
+There are many people who, who say we will, we will cure your cancer through positive attitude and
+through meditation. Am I saying that can't happen? No, it may be, it can happen. Am I saying it's, it's
+a kind of an effective thing you can count on? Not at the moment. Right. Because there's so many
+variables of each agent would not start at the same place in terms of. Yeah. And so at some point
+we will find out which is the best, most reliable way to do it. Last question. I, I think a lot about
+transportation because of course, like for me, this, the way that we move through the world and
+these companions, this technology that we build changes our ability to weight make, which for me is
+our ability to navigate our cognitive light cones or capacity changes through that movement. And so
+sometimes when I'm reading your work, I think about regeneration, um, in this, through this,
+from this perspective, for example, like electric motorcycles, when you're going downhill, you're
+regenerating, right? You're actually like refilling your battery just by, by nothing, by just letting
+the machine, the vehicle go with the inertia. So this word inertia, I wonder like if you've thought
+about that or if there's any, if you can see any kind of way in which that's also kind of what we do
+or we, you might be doing when you're changing the pattern. Yeah. I think absolutely. If you think
+about it as in the simplest way of, of resistance to, uh, to change and resistance to stimuli. Yeah.
+Every system, if you have no inertia, you're not going to live very long as a, as a complex system
+because every, every input is going to destabilize you into some other region. If you're going to be
+a coherent, uh, thing, you have to have inertia in all these different spaces to have some degree
+of stability. Um, if you have too much inertia, then, then also you're not going to be on. So
+this is some kind of a sweet spot in different systems for how much resistance you're going to
+put up to, to various external changes. Are you trying to change the inertia in a sense when
+you're trying to, uh, Yeah. I mean, so, so one way to think about that, uh, for example, would be,
+uh, yes, uh, there are, there are ways to, if, if you have a model and we haven't published any of
+this yet, but, but if you have a model of cellular decision-making that includes components of what
+things do they ignore and what things do they pay attention to, the inertia are, is, is, is by virtue
+of ignoring a whole bunch of inputs. And so one way to change that, to lower that inertia might be to
+help cells to change their mode of attention so that they're now paying attention to other inputs.
+So, so yeah, that's potentially, we, we haven't done that in any existing papers,
+but that's certainly something that we're working on. And that would change the competencies too,
+right? It can, it, it might reveal novel competencies, right? So you might have, you
+might have, so you might be super competent doing X, Y, Z, but if you're, if, if you, if you're not
+paying attention to the trigger, then, you know, never, as observers, we're not going to see it.
+So patterns in inertia are not dissimilar. An inertia is a kind of a electrical pattern in a
+sense, or could be thought of in that way. It could, I, I, I think of it more as the, the, the
+degree of willingness to, to reconsider your pattern. Yeah. Oh, that's great. That gets to a
+whole other thing about awareness. We don't have time now, but awareness and how attention and
+awareness change. Yeah. Yeah. I'll let you. Okay. Thank you so much. Yeah. Thank you. Yeah. Great.
+Great. Great to see you again. Thanks for the conversation.

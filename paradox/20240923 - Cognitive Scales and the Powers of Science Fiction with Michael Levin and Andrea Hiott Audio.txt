@@ -1,0 +1,748 @@
+Hey everyone, this is Andrea, back with another research conversation, and I'm trying to write
+some papers and connect some dots as I build this general navigational framework for cognition.
+I'm trying to sort of clarify the similar movement that I see across various fields
+and disciplines that's sort of reorienting us ecologically, so we can understand cognition
+and consciousness, which are not the same thing, by the way, but more on that in a
+solitary research post. In any case, I've been thinking about all this as I work on
+some papers, and so I revisited a conversation I had with Michael Levin, and I want to post
+it today, and it's been a very important conversation. This is just part one, I'll post the other
+parts later, but this dialogue that opened between he and I is very important for me
+because I only just discovered his work, at least the work relative to navigation, a couple
+months ago, in the summer, when we were both part of this Society for Multidisciplinary
+and Fundamental Research. It's SEMF, S-E-M-F, Society for Multidisciplinary and Fundamental
+Research. We both were talking there, and one of the papers that he was talking about then
+was Analyzing Cognition in Diverse Embodiments, or what does it know? Competency in Navigating
+Arbitrary Spaces as an Invariant for Analyzing Cognition in Diverse Embodiments. And that paper
+is saying something very similar to what I've been sort of saying in a more generalized way,
+and what I've been using hippocampal research to delineate philosophically, which is, in
+short, that the best way to understand cognition is as way-making, or as navigation. Although
+I don't use the word navigation because it has a really specific meaning, which means
+goal-oriented, which is actually how Michael uses it and is an important part of his work.
+So we discuss this a lot. I think it's more in part two than in this section, but all
+this just to say there's a lot of really interesting themes that overlap, but not fully. They're
+not parallel between his work and my work. Of course, I should say he's a very successful
+scientist working as a developmental biologist with a lab. And what I'm trying to do is come up
+with a philosophical framework that would sort of unite his work with other scientific work
+that I see happening in other different fields. I'm more or less trying to come up with sort
+of the background framework of how we can really think of cognition. So finding his work has
+been incredibly important for me for that reason. I'm still trying to understand it all.
+That's why I'm having all these conversations with him. And this is the first one where we meet
+each other. So I want to go ahead and post it and just leave it sort of as it is. I imagine
+you already know Michael Levin, but if you don't, he's a biologist at Tufts University,
+and he's making new paths towards understanding complex pattern formation and biological systems.
+I had seen a talk he gave a couple years ago when I was studying neuroscience, not a couple
+years ago, like in 2017, and about planarians, which just totally, it rocks your world if you've
+never come across this biology that he's doing and you see him talk about it. He wasn't talking
+about cognition as navigation then. But that paper came out just very recently, I think.
+I'll put it all in the show notes. In any case, his work is amazing, not just for what
+I'm talking with him about for many things. So really check him out and look at what he's
+doing. It's pretty mind blowing. He's also developed something recently called TAME, the
+technological approach to mind everywhere. I won't even try to summarize it, but I'll put
+it in the show notes. But again, it has a lot of overlaps and a lot of stuff that I want to
+really think about, like how we use these terms mechanical and life. I see them as
+differently different. But I think Michael would sometimes just say like machines, he
+would say, you know, these different life forms are machines. And in a way we are saying
+the same thing, but we're using different language with really different trajectories
+coming from different places. And part of all these conversations is trying to figure
+all this out and get some clarity on it. Because a lot of time and a lot of times in our
+disciplines, we talk about the same things, but we use different language trajectories,
+if you know what I mean, like we're using different references and sometimes different
+words to mean different things, and we don't realize it. And this obviously can get really
+messy. So as part of what I'm trying to figure out here too, because it is a form of way making
+and it relates very much to this overall framework that I'm building for cognition. So all that
+just to say, uh, Michael Levin is doing some amazing work. I was lucky enough to get to talk
+to him and to be in a conversation with him. And I'm just going to keep posting those here in
+different parts. Um, so that's what this is. It's, I'm not even going to edit it much or anything. I'm
+trying to see how it overlaps with a lot of the phenomenological and network models that I've been
+working with. Everything from like Varela and Maturana to Hans Jonas and Nadal and O'Keefe and the
+hippocampal stuff, active inference. There's a through line through all of this. And I'm trying
+to sort of bring that out. And Levin's work is really important as, as a part of that. Not only
+an example, but something that's, I think, shifting this paradigm of how we see cognition in very real
+scientific ways. There's something he says in here, for example, he's talking about, uh,
+intelligence. And he says that, I think he's telling me a story and he says, when you say the
+word intelligence, people think human intelligence. And he says, well, that just has to stop.
+So he's just sort of bypassing a lot of the dichotomies that people accept and people love
+his work. But of course, also they have a lot of trouble with his work at times because exactly
+for this reason that he's using words in ways they're not used to, especially when it comes
+to technology and machines and how it relates to life and intelligence, for example. So some
+people don't want to think plants and animals have intelligence, not to mention something like
+AI. Another interesting part of this conversation I found was him talking about how science fiction
+as a kid, reading, opened him up to thinking beyond dichotomies in a way that he was already
+able to see some, something like a machine and something like a insect and an animal as
+somehow related, not the same thing, but somehow related and continuous because, you know, the
+technologies we build don't come out of any, out of nowhere. I mean, they are connected to us.
+There is a continuum. It's just, we have to figure out what that continuum is and how
+we can best understand it and direct it. In any case, I liked hearing that it was novels
+and science fiction that opened his mind and he just sort of, he never even thought there
+was a difference, as you'll hear him say, between the TV and the caterpillar or whatever.
+He just was trying to understand it all as one process. So anyway, thanks for being here
+and I hope you're doing well out there, wherever you are. And write to me anytime if you have
+some ideas about how all this fits together. Okay. See you.
+Great. Awesome. Got it. Thank you very much. Yeah. No, it's a pleasure to meet you.
+Yeah. It's a pleasure to meet you too. And, uh, I I'm really excited about your work and thank
+you. Um, thank you for your work. Likewise. Yeah. Yeah. So I wonder if, if it's okay with you,
+if we could talk a little bit about how you got into this line of work and maybe how you
+ended up thinking about, um, these kinds of bigger themes like cognition and so forth.
+Sure. Um, well, let's see. Uh, so from the time I was very, very young, I was interested in, um, uh,
+minds and how they interact in the physical world. Yeah. So, uh, you know, technology, but then bugs and
+insects, you know, you sort of see, and you ask yourself, uh, so, so what's, what's common,
+what's different. Um, we know how the technology got here, sort of, uh, how did the, you know,
+how, how did the, the complexity of the, of the living forms get here? And specifically the fact
+that they clearly have preferences. So some of them have, um, overt behavioral goals and repertoire
+and various repertoires, but they clearly have preferences about what happens. Um, and then that
+raises the obvious question of, well, what would it take to, uh, to, to create technology that,
+that had that, right. And is, uh, is, uh, the, uh, kind of third person observable behavior all there
+is, or is there something else? Right. So that's the kind of first person problem. Um, were you looking
+at actually like insects and animals and stuff when you were a kid? Is it, yeah. Yeah. Were you
+wondering like, what are they, yeah. What, what, what's going on there? Yeah. I mean, it started out,
+uh, I, I was, I was, I had asthma and was kind of, kind of, um, uh, didn't have access to, to
+medications at the time. And so my, what my dad used to do is take the back off of this, uh, TV
+set with these vacuum tubes and everything. And I would sit there and just sort of get distracted
+and stare at it and be like, wow. Like somebody knew how to put all those things in exactly the
+right arrangement. That didn't just like somebody knew how to do that. And then, you know, then,
+and then I would go outside and play with, you know, caterpillars and, and beetles and so on. And you say,
+okay, so, so they also have a bunch of stuff in there. And, uh, and so now what's the same
+and what's different, right. Between, between these, you actually remember kind of thinking
+that making that connection. Oh, totally. Totally. We'll talk about it later maybe, but
+the way you use robotic and biological robotics and bio robotics, it, it's different, I think.
+Um, and it, it's also kind of meshing those things together. So it's interesting. You already
+saw it almost like a continuum as a kid. Yeah. It seemed, I mean, I never, it never occurred to me that,
+that there would be any kind of a discrete break between those two things. It just seemed like
+there are various, uh, various kinds of, um, uh, behavioral repertoire, some very simple,
+some more complex. And then, uh, you know, the, the plasticity of it, uh, I remember thinking like,
+so, so, you know, so you see there's an egg and the egg becomes a caterpillar and then yet it changes
+again and becomes a butterfly. And so you ask yourself what, I mean, what's that like, what's that like to be,
+to be a, uh, a caterpillar changing into a butterfly in real time, not on the evolutionary timescale or
+whatever, but like literally one creature radically changing and living in a different world in a
+three-dimensional world instead of the two-dimensional world of a caterpillar and so on. Um, you know,
+and thinking about that and then thinking about myself and watching, you know, my older friends
+and they would, you know, they get older, they go through puberty, whatever, and thinking, wow,
+like we, we change too, you know, and, and right. And, and not only, not only do you get bigger, but
+your, your valence changes. So things that you really didn't think were at all important when
+you're 11, suddenly new things are important when you're, you know, 15 and so on. Right. And whatever.
+So, so, so just thinking about that, thinking about persistence of the self and how your mind
+changes and whatever. And so those kinds of things. And so, so later, uh, what I did was I went to,
+uh, when I went to undergrad, uh, I went for computer science. I wanted to do, um, artificial
+intelligence and, um, pretty soon it became clear that, uh, we really didn't know how to do that.
+Right. Uh, we, we just didn't have any idea and then really going back and asking, okay, so let's,
+let's take the one, the end of one example that we do have from the biological world and, and figure
+out what's going on there. And I was really, uh, sort of enamored with embryogenesis. And so the
+idea that it's a, it's a, it's a self-assembling machine, but more than that, it's like this,
+we all take that journey from, from, uh, nowadays when I, when I talk to people, somebody will say,
+that's not, uh, you know, cognition or whatever, that's just physics. Like, well, you were an
+unfertilized oocyte at one point, like you were a quiescent little blob of chemicals. You, like all
+of us were, were just, I hate that phrase, just physics. Right. And then somehow slowly, but surely,
+uh, here we are. And, and there was no magic lightning bolt during development that says,
+boom, at this point you go from being physics and chemistry to being a being that there's,
+there's no sharp line there. And so I was really interested in that. So I studied developmental
+biology, uh, as well as an undergrad and then, uh, went and got a PhD in, uh, in developmental genetics.
+And so that's, that's where these things come together. Like I'm, I'm just really interested in
+diverse embodiments of mind. I want to understand what it means to be an agent in a, in a physical
+universe and, uh, a lot of the kind of standard barriers that exist between fields, between
+journals, between ways that we're allowed to think about things that are some of the terminology.
+Like I, I, I think a lot of that is just terrible and it holds back progress because it, um, uh, it,
+it, it obscures important in variances that we can use to, to, to merge fields and, and to,
+and to do better than we have. So that's kind of my, my story.
+So yeah, I, I totally agree. And when I said coming upon your work was exactly what I was
+looking for. It's in so many ways because you don't really, um, take the dichotomy seriously.
+You're just already kind of, uh, speaking past in a way past them, which I find very unusual.
+So what was the continuity that you saw? Like if you're staring at the back of the TV set and you're
+looking at all of that, and you're looking at the caterpillar, the butterfly, your friends,
+and then, yeah, you obviously got very interested in artificial intelligence, but I guess some
+people would say that's really different, right? That, that the television set isn't necessarily
+evolving and changing. Whereas, um, what you described like with the caterpillar or your friends,
+there's some kind of clear change going on. So can you tell me how you, how did you see that?
+Did you see that more, um, as part of the same kind of system?
+So, yeah, I mean, it, it was very clear that the TV needed a lot of help to be put together,
+right? It needed other beings to put it together. The caterpillar needs a little bit of help because
+there's the butterfly that laid the egg. And it was obvious that in the egg, there was some stuff
+that had to be also put in, right? It wasn't just a random, not, not just anything turns into a
+caterpillar. So, so clearly the butterfly had to do a lot of work too. Now, of course there are
+differences. The engineers have a pretty good idea of, of how they're doing the, the TV set,
+the butterfly, probably, probably not. Um, however, in both cases, uh, there are, there are two
+components to this. There's the, there's the, how much help did you get from outside to be created?
+There's that component. And then there's the component of once you were created, how much do you
+do on your own? Because, because that's the other thing, right? The people who, and, and so first with the
+TV and T, you know, TV is kind of, kind of boring, but with computers later on, you see that there's
+all sorts of interesting, you know, after you turn on the juice, right? The job of the hardware
+engineer is done. You turn on the juice. Now, some interesting stuff happens. And I remember playing
+with a, with an early, uh, you know, it was just a calculator, but, but you could already see that,
+yeah, they created the hardware, but there's also some really cool software that happens. And part of that
+is not explained specifically by what the engineer did. It's explained by the laws of mathematics and the laws of
+physics and then biology. And so, so of course there are different degrees of, of, um, of, of agency
+here, but, uh, it didn't seem to me like, there had to be any, uh, strict barrier between them. It
+didn't, you know, it didn't seem, uh, and maybe, you know, uh, part of this is, is, is just thinking
+about it. Part of it was, it was a lot of sci-fi that I read as a kid. Uh, when you look at these
+creatures that live, living creatures, I don't see my, my intuition, isn't that this is the only way to do
+mind if this is one way, but why would you think this is the only way? And, you know, people,
+people nowadays often say, you know, well, it doesn't have a brain and it, uh, you know, it's
+not living where, and, and, and I'm just thinking it can't be that throughout the whole enormous
+universe, th th th th this, this thing, but this cortex that we're looking at, that's the only way
+to do proper agency. I mean, it just can't be that. I, I just don't see that. So, so, so to me,
+it seemed like we have an N of one example of how it can be done, you know, and then, and then thinking
+about evolution and thinking, why, why should evolution have some kind of monopoly on creating
+real agents? Like that's one way it happens, but surely, uh, engineers can eventually do better
+than this sort of random walk that, that evolution does. And, and why, why, why would it be the only
+way that real beings come? So I don't, you know, this whole business of, oh, it's a machine, you know,
+and what can machines do? I mean, I think it's a terrible question. It completely obscures the whole.
+Yeah, but it's, it's almost an assumption, not even a question anymore. And a lot of the way just
+that we talk, that the literature is written, that there's these kinds of scaffoldings that
+people don't think about very much, which you seem to have, and now I understand that you're
+already sort of thinking past it, but trying to get a way for people to understand that,
+does it have something to do with like what I call the agent base, or I think you use this
+agent a lot too, um, like from your position, of course, the TV is going to look
+less animated or whatever in that particular position. We could also scale up or down, right?
+Um, cellular or, you know, even like in the TV itself, there's going to be sort of more action
+at different scales, right? Maybe like your observer base. So yeah, I wonder, I know that
+plays a role in your work that I'm still trying to understand. So I don't know, what does that make
+you think of when I say that? Yeah. Um, so, so very much, uh, observer, um, thinking about,
+thinking about what, uh, what, what an observer sees at any particular scale and the idea that
+what we do see is, is hugely limited by our own scale and what we are, uh, trained either by
+evolution or by experience to, to perceive. And so this is, this is something else that I think you
+really get, um, if you read a lot of sci-fi is they sort of blow up all those expectations where
+something that is enormous in scale or very tiny, or, or happens on a very rapid timescale or a
+very slow timescale. You sort of realize that our, our perceptual and cognitive systems are
+so, um, narrowly constrained to think about and to, to be good at recognizing agency in a particular
+guise. So medium-sized objects moving at medium speeds through three-dimensional space. This, this
+is what we have any prayer of, of intuitively catching as intelligence. Anything that's outside of
+that, something that happens on a, on a huge scale, like, like whole evolutionary lineages, or,
+you know, at one point I was talking to some physicists to see if we can, if we can design
+a gravitational synapse, you know, like a, like literally a solar system scale thing that, that
+when something comes flying through, that's a signal. And then the next time it comes, you know,
+there's habituation or whatever, like you can imagine. So, so these kind of, right, these kind of
+giant things where, where the substrate doesn't matter. It's, it's, uh, and, and we, and, and having to be
+open to really unconventional, and, and I should, I should be really clear. This, this isn't just me
+having all these ideas. There, there are, there are plenty of people in the, um, diverse intelligence
+community that, that, you know, see things this way, but, but it's still obviously not, not, not
+mainstream in any, in any way. And, but so, so this idea that the substrate isn't the magic, uh, what is
+the magic? That's a good question. And that's what, that's what we're trying to understand is, is the
+scaling of mind and then goals and all that. Um, yeah. And just this idea that, uh, I mean,
+there's, there's also a fundamental thing here, which is, uh, I, I have a very, um, kind of
+engineering approach to things in the following way. Uh, I, I think that the way to know, uh, if
+these things, uh, if these ideas are, are, are worthwhile or not is, is to see what they enable
+you to do, what kind of research programs they open up. And this, on the one hand that makes it,
+uh, nice and easy because now we don't have to have philosophical arguments about whether
+this can or can't, uh, be, be an Asian or whatever we can, we can lay down specific, um, research
+programs of how to determine whether that's a useful worldview or not. The downside of it is that it
+catches me a lot of flack from the organicists because they see this as basically capitulating to,
+um, kind of the mechanist worldview and, and, and, and, you know, as, as a lot of people write to me,
+you know, re reducing the, the magic and sort of majesty of life. And I don't see it that way at
+all. My, my point isn't that, that, um, we have, we, we can, or should, uh, try to reduce, uh, high agency,
+uh, kinds of systems to, to simple machines, the kind of thing we, you know, people say machines,
+they really mean machines from up, up until, you know, the 1940s or so. Um, right. So I don't think it's
+that at all. I think it's, I think it's, um, understanding the, the full spectrum and having
+a, uh, a prayer of actually making progress, which means tight integration with, with engineering,
+with, with the real world. I, I don't think a lot of these things are philosophical questions.
+I think they're practical questions. And also, um, you know, it's this, uh, it's this, it's this idea
+that, um, it's been the assumption for a really long time in science that it's really bad to make a
+mistake to attribute too much agency, right. That every, that, you know, it's a slippery slope.
+You start seeing, uh, you know, um, uh, ghosts and all the rocks and things and, and, and you really
+should aim downwards and chemistry is kind of the level at which. And so to me, getting it wrong in
+either direction is terrible. Like I, the, the slope is actually much slippery or to me, the slope is
+much slipperier in the other direction, because once you start seeing, um, you know, once you start
+seeing everything as a machine, as a simple machine, it's really easy to, to have all kinds
+of lapses that first impair your technology, and then they, they have, um, uh, ethical implications.
+And so either direction, I think is bad. And I think our job as scientists is to get it right for
+any given system. You don't just want the lowest level of agency you can get away with. You want
+the optimal level of agency that you need to attribute. And I think we're, we often, uh, just assume
+that, that, that, that it's gotta, you gotta go down as far as, as possible. And I don't, um,
+yeah, I think, I think that, that screws us up as often as it helps.
+Yeah. Gosh, there's so much in there. It's, uh, you, you mentioned science fiction, for example,
+and, um, just thinking about the scales and, and stuff. I think one thing about creativity or about,
+uh, you know, reading when we're kids and is that we kind of learn how to see the world from
+different positions in a way. Um, and in, in a way that's kind of helping us maybe to get a grasp
+on this, um, perspective that I think you're talking about in your work and that you kind of,
+that you do demonstrate practically, but that you say the philosophy doesn't matter, but, um,
+well, I didn't say it doesn't matter. No, so sorry. So, so I didn't mean to,
+maybe I didn't express myself. Well, um, I, I don't mean to say it doesn't matter, but I, I actually
+think it matters a lot because people will say, I've, I've had this, um, after a talk, people will
+say, well, the data are really cool and the new capability is really cool, but I wish you'd stop
+talking about this, all this philosophical stuff. Like don't do that. Just do the science. And I think
+that's, that's a, right. That's it's like the, um, it's like the old joke where the way the, the
+business guy tells the public, the book publisher just only publish the bestsellers. Why do you publish
+all this other junk? Just publish the bestseller. It's the same thing. And I say, yeah, if, if we didn't
+have the, the philosophical outlook, we wouldn't have done these experiments that nobody else had
+done before, right. That you, you need that. And so I'm not saying the philosophy isn't important.
+I think it's critical. I'm just saying that a lot of the questions that are often treated as
+philosophical questions, meaning that you can have an opinion on it without doing anything.
+So people sitting in their armchair, I, you know, I'll show you some kind of a thing and they'll say,
+oh, there's, there's no way that thing has cognition and say, well, what experiments did you do to
+arrive at this opinion? They're like, that's, you know, you just sort of came up with that.
+That's, you know, that's, that's a, that's a background commitment that you have before
+you've done any work. And that's cheap. Yeah. Yeah. Yeah. This gets really messy,
+I think in a way that I like, because actually it's kind of proving the point in a way that
+everyone would come at you from their position in agent base. Right. So whatever references,
+like whatever way they've learned how to define a machine or to define philosophy or whatever,
+they're all going to put that on you. And in a way that's constraining, but at the same time,
+like part of what we're trying to do is find a practical way of like, of, of expanding that.
+It isn't it, I mean, isn't it connected the way that like the practical work that you're doing
+in the lab and how it would change actually maybe a linear way of thinking, for example,
+that's an assumption that, you know, there's a beginning and there's an end and there's either
+something that has cognition or doesn't that's so entrenched and such a scaffold that you almost
+have to call philosophical attention to it. But you also need, which is why, again,
+I'm so excited about your work. You need practical, actual examples of how to understand that. Right.
+And that's kind of what I see in your work, but I don't know.
+Yeah, no, you're right. The definitions that that's really important because it's kind of a,
+it's kind of strategic judgment call all the time. And because, because for example, somebody,
+somebody said to me once, we were, we were talking about learning and some weird,
+unconventional systems themselves thing. And, and she said, look, you're going to have so much
+pushback to this. Why don't you come up with a different word? Don't use learning, come up with
+something else. And then, and then, and then it'll be fine. And nobody will be upset. You just define
+it however you want. And then that's good. Right. And, and okay. You know, sometimes maybe that's the
+thing to do for a particular purpose, but overall, like, I just, I think that to me, I think back, you
+know, here, here's Isaac Newton and somebody says to him, you know, what we'll, we'll have gravity
+for the thing that holds the moon to the, you know, to the earth. And then we'll have shmavity
+for the thing that makes the, the apple fall, right. That'll be great. And then nobody has to
+be freaked out by like, yeah, I mean, great, but, but you've missed out on the whole point.
+You've missed out on the unification. And so most of the time I I'll say, no, I don't want to use these
+words the way everybody else uses them because a lot of it is wrong. And, and we, as scientists and as
+philosophers, it's on us to, to clear this up because people will say all the time, yeah, but when,
+you know, don't use intelligence like that, because when you say intelligence,
+people think human intelligence, right. Well, they need to stop. And so, and there,
+and it's not going to stop until, until the scientists, you know, put forth a better system.
+And then eventually it, it sort of trickles down. So it's a, it's a judgment call, you know, when you
+sort of bow to the, to the conventional usage and, and come up with other terms, but much of it,
+I think we got to be the tip of the spear in, in changing because that'll change perception.
+And eventually the, the, the usage will change. And that's kind of the dance to that,
+that discussion and that maybe shock, right? Like, uh, I think even there's a way in which
+if you could open the space to understand, okay, we don't all use these words in the same way.
+So maybe I'm not using it in the same way as you let's like, talk about that. Um, how, you know,
+why is this shocking for you or not? And, but you know, of course, then you can get mired in,
+in the philosophy and not, and not in the practical, in the practical aspects too. So
+before I came, before we met today, I was thinking like, what are, what are the big issues? You know,
+like, I don't know if you think about it too much, you probably do, but you know, you're doing a lot of
+work and it's a lot of energy and like, what is it, is it, what's, what's kind of, what's driving
+you? What's the motivation behind it? Um, to try to get something practical.
+Yeah. I mean, it's an interesting, uh, thing because I, I sort of go back and forth. So on,
+on Mondays and Wednesdays and Fridays, I think, uh, the real goal is to come up with
+practical interventions that improve people's lives. In other words, I'm not even a clinician.
+Okay. I don't do clinical work, but I get emails every day from people in the most unbelievable
+circumstances. I mean, birth defects, cancer, missing limbs. I mean, just the craziest things
+I've, the things I've never even heard of. They want you to help them with. Yeah. Yeah. Yeah.
+And they need, and they need help. And, and, and medicine, uh, is still largely stuck where, uh,
+computer science was in the forties and fifties. It's all about the hardware, right? I, when I give a
+talk, I show this picture of like, you know, she, she's rewiring the thing. Yeah. This is now molecular
+medicine. And I think until we fix that, and until we really learn to take advantage of the intelligence
+of, uh, the various layers of our, our, um, body architecture, uh, all of these things are not
+going to be resolved. And so, and so, so every other day, I think that that's gotta be it, but
+nothing is as important as permanently moving medicine to fix some of this stuff so that I can
+finally, like, I mean, just on a personal level, like I'm driven by the fact that, yeah, I get these,
+I get these emails and right now, all I can say to them is we're working on it. Like, hang on. Well,
+you know, how satisfying is that? Right. And so, and so on alternate days, I'm like, yeah, this is,
+we gotta drive everything to medicine. And then on sort of Tuesdays, uh, Thursdays and, uh, and,
+and, and Saturdays, I think to myself, um, well, actually that's not, none of that is gonna be
+fundamentally, uh, changed until these really basic conceptual things are sorted out. So no one,
+you know, no one can really move in that direction. It's not enough for, for me and my lab to be working
+on some of these therapeutics and whatnot. Everybody has to, uh, be empowered by it.
+And that means getting some of the very basic stuff sorted out. And that means, you know, these,
+and so, and so people write to me on that too. I get, I get emails saying, stop doing all this
+philosophical crap and just like solve can, you know, work on cancer and then be done.
+And then, and then there are the other people that say, you know, I'm seeing your papers about,
+you know, this kind of a method and that kind of enough of that, like, those are details.
+And where's the, you know, work on the deep philosophical issues. Why are you spending so
+much time on this, you know, this, this drug and that drug. So, uh, there, there's a wide ranging
+kind of opinions. I, I kind of, um, go back and forth. I try to do some of both, I think, um,
+you know, in my group, we, we have, we have some of both going on. So yeah, I, I, I wanted,
+I, I want to have a better understanding of, uh, of, of embodied minds. I think that will drive
+medicine. I think it will drive, uh, a better, um, a better set of ethics eventually. I think it will
+drive, um, you know, uh, human flourishing and so on that that's long-term. Yeah. And I think by being
+able to stay in that place, that crossroads, I, you know, it's not even just a matter of
+contradictions or different, um, different, uh, desires, you know, uh, it's also kind of,
+it can be really hard to try to hold that space and just keep doing, uh, all of it. You know,
+I think this gets to this idea too, of how we are usually tried, like we try to go into one discipline
+or one group or one something, because it gets very difficult, right. To, to try to be open to
+something that isn't, um, binary and dichotomous or just like very clearly defined, even though most of us
+us who've explored anything deeply know that it's nothing is clearly defined. And there's actually,
+it's like, as you've expressed, it's very hard to find beginnings and ends to anything,
+um, depending where you're going to look at it. So is some of the work just being able to kind of,
+um, keep yourself in a state of clarity so that you can keep sort of trying to express this because
+sometimes, sometimes it just takes time for people to be able to connect the dots.
+Yeah, much of it. I mean, much of it is just me, uh, trying to figure it out for myself and,
+and, you know, and like on my, on my YouTube channel is a bunch of conversations with, um,
+of me and my co and my, my coworkers and, and my various, various collaborators and so on. And,
+and that's just, uh, that's just us, uh, in real time, trying to figure out better ways to think
+about this stuff. You know, this is very much, um, uncharted territory. It's very much a, uh,
+um, kind of, uh, an unknown, uh, uh, yeah, you know, lots of unknowns here. And so, and so a lot of
+it is, is, is for myself and, and, uh, and for us all to kind of, uh, try to figure out what are good
+ways to think about this. And, you know, this idea of, of, uh, the spectrum and, and, and the change and
+all that is, is really key. People, oftentimes people just don't take developmental biology seriously at
+all. Um, you know, they'll say, uh, the human, they said, well, what exactly is a human, right?
+Because, you know, at one point that human was, uh, you know, was, it was a little, uh,
+was a little oversight and, and sort of, so, so where, where did they say, well, when the,
+you know, let's say, I wonder when the brain development, that takes months. So what was
+actually happening on that? You know, they sort of have this idea that, uh, these things just sort of
+pop into, pop into existence. And then, and then there you go, but actually, no, you've got to do
+the hard work of figuring out if you, if you, if you're, if we're going to have a, uh, a rigorous
+theory of whatever it is that we're talking about, you have to have a story to tell about when it shows
+up and why. And, and if, and if you think it's binary, you have, you have a really hard story to
+tell about how, how that phase transition happens and, and, and, and so on. Um, I was in, uh, this kind of
+funny story. I was in, I was in court one time as an expert witness on something and, uh, some drug,
+drugs, uh, yeah, drug, drug effects on, on birth defects, you know, and, uh, and, and the opposing
+council was trying to, um, make it seem like, uh, he, he, he wanted to, he wanted to, to, to discredit
+to whatever, whatever I was going to say as irrelevant to human medicine. Right. So, so he says,
+he says, uh, Professor Levin, you work on frogs, right? And I said, well, among other things, yeah.
+And he says, uh, don't frogs come from an egg? And I said, and it just kind of popped out. I said,
+I said, well, you came from an egg and the judge was banging the thing. Everybody's yelling because
+they thought I was struggling. They thought I was being rude to them, you know, and they go,
+Oh my God. And the judge is, you know, and I said, no, no, no. I said, you're on, you don't understand.
+Like you too. And me, all of us came from an egg, like, think about it. And then it was just dead
+silence and everybody was trying to visualize their seventh grade sex ed and like, wow, we did come from
+an egg, but no one thinks about this. You just sort of think that's a movie moment right there.
+I mean, it was incredible. I was like, wow, you know, out of all of these, you know, brilliant people,
+nobody remembers that, that, you know, that, yeah, we all frog and us and everybody else just
+about, we all come from one cell and they have this notion of, you know, you're 18, you're an
+adult, like bang, something happened, you know, the clock ticked over and now, you know, now,
+I mean, that's, we, we know that's a, that's a nonsense story, right? It's, it's a continuum.
+It's always a continuum. Yeah. But just to even have that realization is a pretty big thing for
+a lot of people in their life, I think, and also a hard thing. I mean, I think it's,
+it's hard to realize you're not as solid as you think, or that everything is sort of continuous,
+and there's no clear boundaries. These are hard things for us in the way that we currently think
+of ourself, right? Because we kind of come to awareness of ourselves in this particular way.
+So we assume all these things, we don't think about all the many, many, many creatures that we are.
+Yeah. Do you think, I mean, I guess, do you see that in reactions to your work too,
+that people just have an almost visceral reaction of it just being a difficult thing to get a hold of,
+due to their sense of self somehow?
+Yeah, it's interesting. And I also, I collaborate with, with a bunch of folks who study in the
+Buddhist tradition and so on. And they of course have a different, different take on all of this.
+But yeah, I see kind of, I see two, I see two reactions, really. Some people are really sort of
+liberated by it and feel really good about it. And then because it makes things finally, things make
+sense. All these really hard pseudo problems that were bothering them before. Now it's like, oh,
+I see if you don't try to make it binary. And if you have a, an observer based kind of perspective,
+then, then, then these things go away. There aren't these inconsistencies that are really,
+you know, we're not ever going to be resolved.
+Do you think of like a practical example of that? I mean, well, well, for example, you know, just this,
+just this business of, and we can, we can talk at length about this, this issue, but, but,
+but just this issue of the changing of the changing self and the fact that if you think about it,
+you don't have access to your past, which at any given moment, what you have access to
+are the engrams that were left for you by your past self. And it's on you to interpret them and
+to construct memories and to figure out what you are and who you are. And you have to do this all
+the time. This isn't just a, you know, what planaria do when you, when you cut their head off. This is,
+all of us are doing this all the time. And so, and so, right. And just different ways,
+according to who you're with and what situation you're in. Yeah. Yeah. Yeah. And just realizing that,
+that, that, that that's okay. There is no, there is no need to try and formulate some
+sharp thing that, you know, I am this. Yeah. But you were five years old once. What happened to that
+being? And, you know, these crazy questions that, you know, you can ask it, but you don't need any of
+that. You can just sort of realize that this is a progressive kind of, kind of process. And it doesn't
+mean that you don't exist. And it doesn't mean that, you know, your mind is an illusion. That's these
+things people say something. I mean, any of that, but it, but it does mean that it's a,
+um, uh, it's a, it's a construction, you know, kind of construction process. And then,
+and then people start to think about stuff like, um, you know, because of all the AI stuff,
+you, uh, there's some people that are trying to develop, um, proof of humanity certificates,
+right. So that it, that it's actually a person. And so you think about that and you say, okay,
+what do I want? I'm designing a proof of humanity certificate. What do I want to make sure of,
+do I want to make sure that you have standard homo sapiens DNA? I don't know about you. I could
+care less about your DNA. Uh, do I write, do I want, uh, do I want a certificate that says I've
+got all my original organs? I don't care about anybody's organs. If somebody had a bunch of
+stuff replaced with, uh, you know, new, new, new sort of cyborg stuff. I mean, great livers regenerating.
+Exactly. Right. What do I care? And, and again, this is all, you get all this from sci-fi people who've
+never read sci-fi find all this crazy, but, but in science fiction, they, they did all this a hundred,
+you know, 150 years ago, this was all done. And so, and so you think, no, I don't care about any
+of that. And so then you ask yourself, so what do I, you know, what does it mean to be a human
+actually? And, and, and, and people ask this too, when I talk about, um, and of course, I'm not the
+first by, by far person to talk about this, this idea of freedom of embodiment, that at some point,
+you know, you want to have tentacles and, and see infrared, knock yourself out. It's all going to be
+possible. You want to, you know, have a primary sense of the stock market and the solar weather,
+instead of a vision, like, sure, why not? So, so all of this is going to, is going to be possible.
+And she says, oh my God, then we're going to, you know, we're going to lose our humanity.
+And, and you just ask, you know, was your humanity tied to your wacky set of organs that you ended up
+with that are susceptible to our sorts of weird diseases and parasites? Like, was that really it or,
+and so, uh, or, or your genes, which were the product of this sort of meandering search through,
+through genetic space? Um, and then, and then you, and then, so that leads you to ask, like,
+what is really, uh, really critical here? And, and, and, you know, where I ended up was,
+we, we have a couple of papers on this, this, this idea of, uh, of, of, of compassion and, and, and
+cognitive light cones and this idea that, well, what you want from a human really to, to know that
+if, if we, if we're going to be stuck on, on Mars for the next, you know, 20 years, what I really want
+is, is for us to have an impedance match in our cognitive light cones. I want us to be able to
+care about the same scope of things. You know, if, if, if you're a Roomba.
+Cognitive light cones, that's great. Sorry. I just have to say that again.
+Yeah, it's, um, so I don't know what is illuminated sort of.
+It's, it's, it's specifically, so it has a, I, I gave it a very specific definition. It's, it's the
+scale of goals that you're able to pursue. So if you're a bacterium, all temporal, spatial and temporal,
+right? Your, your, your scale of your goals are very tiny. And, and if you're a dog, they're
+bigger, but they're still, you know, you, you're never going to care about what happens three weeks
+from now, you know, two towns over. You're just, it's impossible. Whereas if you're a human, you
+might have a planetary scale goals about things that go on long after you die and so on. So, so this
+cognitive light, so, so we want to kind of impedance match about the kinds of things we care about.
+And, and you want at least the, hopefully more, but at least a human level of compassion to, to
+literally being able to care about a certain number of a certain size of welfare of other
+individuals. Right. And, and maybe there are beings out there who do way better at that than us.
+Um, but, but at least minimally, maybe we'll learn how to be those beings.
+That's exactly right. And we talk about in this paper, uh, we, the, the, the, the team and I, um,
+talk about this idea of enlarging, committing to enlarging your cognitive light going in and
+enlarging your, your, your sphere of concern. And this is something that of course, you know,
+in the Buddhist tradition, they, they think about a lot. So, so people, I love this so much, gosh,
+well, I need to find that paper. Haven't read that one yet. I'll point you to it. Um, uh, they, uh,
+so, so, so some people, you know, sort of get this and it's, and it's, and it's, and it's,
+and it's clarifying for them. It makes them feel better. They don't need to worry about getting an
+implant or change, you know, or, or, or getting their, you know, DNA repaired or anything like that.
+They, you know, sort of feel, they feel better. Other people. So oddly, I mean, I find it surprising,
+but, but other people are profoundly destabilized by all this stuff. And it isn't just me. It's
+sort of like, there's this and, and, and with that, well, the same group were writing some,
+some stuff about this. Um, the, there's a lot of, so, you know, so, so, so if you're a thoughtful
+person and you read some physics and some neuroscience and stuff, you know, you find out that,
+uh, well, let's see, uh, uh, evolution theory tells us that, um, there really is no, uh, morality.
+It's all dog eat dog and survival of the genes. And then neuroscience, you know, you read like
+Sapolsky's book or something and they tell you, well, there's no free will. So, so you're just
+sort of humming along on what, whatever was, you know, ordained, uh, you know, whenever,
+and then, uh, right. So, so you, so you get all this stuff and then, and then here comes,
+you know, 11 tells you that you're a bunch of cells in the trench coat and, and, you know,
+you, you're this thing that's sort of constantly, um, morphing and whatnot. Again, I'm not,
+I'm not a clinician or anything remotely close, but I get these emails that say, um,
+well, I know you're not a therapist, but, and then, and then they go on with this stuff that,
+and I'm like, wow, this is terrible. I really wish. It's a lot to handle. My goodness.
+Yeah. And then from all sides, you know? Yeah. Um, it's amazing. Cause people feel,
+I think, even though I don't talk about that stuff publicly, but people feel like this impacts on their
+life that, that this, that, that the answers to these questions are not just like crazy, you know,
+you know, nerdy philosophers think about this, this is actually matters, right? People feel that,
+um, and they get, and some people get really destabilized by it. And, and I try to, uh, yeah,
+I try to, I try to walk some, some, some folks, you know, sort of off, off of that ledge and, and,
+and, uh, it's, it's, it's funny, even in the, you know, um, have you, have you seen this movie,
+Ex Machina? Have you seen that? Yeah, I have. So, you know, you know, the scene where he's at the
+mirror and he's cutting his hand because he's worried that he's a robot too. Right.
+And so, and, and so, and this, so, so this is, that's exactly right. Because, because many people
+think if, if I look inside and I suddenly find a bunch of cogs and gears and whatever, then I'm not
+as amazing as I thought I was, and I don't have this and I can't do that. Or how about, how about
+the alternative interpretation, which is, uh, you didn't learn a thing about yourself. What you learned
+is something cool about cogs and gears. You just found out that, well, geez, I guess cogs and gears
+can give rise to my amazing self. Awesome. I'm now going to do whatever it was I was going to do 10
+minutes ago and, and good. Right. So, and so, and, and people immediately, some people, I guess,
+immediately jumped to this, to the, to the first interpretation that this somehow takes something
+away from them. I think this is one of those things that Descartes actually got right. I mean,
+he catches a lot of flack from everybody nowadays, but I, but I think he got this right,
+which is that you have a primary perception of your primary experience is of being, uh,
+uh, an agent that can go do things. And that has certain properties that nothing can touch that.
+If you find out that you're made of this or that delightful. Now you've learned something about
+whatever material you're made from go do whatever awesome thing you were going to do before you
+found this out. It's fine. It doesn't, doesn't mean anything. So, so I try to kind of, you know,
+go, go through this with it. So, so some people, so anyway, that's a long question to your answer,
+but some, some people find it really liberating and some people find it disruptive.
+No, this is great. It makes me think of so many things like, um, even in Buddhism, sometimes,
+you know, they say that, uh, you, it can all, that too, can be a very, um, jolting experience.
+If you have an experience of kind of non-self or of, you know, a lot of this is just regularities.
+And, um, I mean, to get to this idea of navigation or way making or whatever, I mean,
+if we try to think of it as like trajectories that we've, we've all come on kind of different
+trajectories with different regularities. And sometimes we cross paths with people who have
+very different ones. Right. I mean, as you're talking, I'm thinking of the television set
+in the Caterpillar and how from very early on you were, this was a comfort zone. You were able to kind
+of deal with, uh, all those different, what, what, what's for some people are very different things,
+like a machine, like in this TV kind of way and a biological body. Right. I mean, um,
+but when you haven't thought about all that stuff and then you're sort of presented with it,
+I think it can just be, be very jolting, but in a way that's, if you can walk, walk through it or sit
+with it for a minute, it does become, it can become enlightening too. And the way that you described
+with the ex machina, right. If you can kind of, some of it is this practice of learning how to shift,
+um, scales or shift perspective to look at the life, look at life from the point of view of the
+Caterpillar or the television or, or whatever, right? Like that's a kind of practice in itself,
+isn't it? That maybe we learn. Yeah. It is. And you know, not to, not to beat this, uh, you know,
+dead horse, but, uh, the, um, the sci-fi thing is, is really useful for that because, because it helps
+you take the, you know, there was a, there was a story, um, called they're made of meat, you know,
+to know this old science fiction story, right? Remember this? And yeah. And these aliens,
+find out that, that, that, you know, that, that humans are actually made of meat. They're,
+they're disgusted. They're like, this cannot be right. Like what the hell? And yeah. And, and,
+and, and here we are, you know, everybody's saying, oh, it's me, you know, it's a Silicon,
+the, you know, thing that can't be, all of this stuff is a, is a, is a, is a matter of, um,
+perspective until we, we really, uh, develop. And I think this is what the field of diverse
+intelligence is about is to develop, uh, principled, um, approaches to, to recognizing agency,
+to relating to other beings. And, and by the way, all of this, this goes back to our discussion about,
+um, terminology. All of this is about, uh, I, I think practical, uh, interact optimal relationships
+to systems, right? So, so, so, so when I, when I talk about the spectrum and I say, well, you know,
+yes, a human, but really what human, like a modern human, uh, uh, you know, a, a child,
+a little bit, baby, like a fetus, like, well, like, what are we talking about? And then people
+say, well, you can do that with anything. That's the paradox of the heap, right? They say that,
+that's not a good way of reasoning because you could do that with anything. And you can say,
+well, I'm going to pile sand, you know, a pebble at a time. And eventually you've got this heap.
+So when do you have the pile? Right. And so, and so my answer to that is, oh no, it's extremely
+practical. If you call me on the phone and you'd say, Hey, um, I need you to come,
+I need you to help me move a heap. Here's what I need to know. Am I bringing a shovel,
+a spoon, a bulldozer? Like what, what am I bringing? And that's all right. We don't need
+to have a philosophical discussion. We need to know what bag of tools is going to be the way to,
+to, to, to relate to this, to the system. And I think that is exactly what we need to do in science
+is to erase some of these, uh, barriers. Um, what, when I was a, uh, when I was a postdoc, I was,
+I was, I, I, I was having this, this idea of using, uh, expressing ion channels from,
+from neurons in other types of cells to, to manipulate the bioelectrics and embryos.
+I wrote some, some letters to, to neuroscience asking for ion channel, um, plasmids, you know,
+and this one guy called my, my boss, my, my, my, my postdoc mentor. And he said, uh, he said,
+you're, you're, you're, he said, your postdoc has gone off his rocker. You need to do something
+about this. He's clearly crazy, but, but the fact, which, which was great, but, but, um, the,
+the fact is that actually none of the tools of neuroscience distinguish neurons from non-neurons.
+You can use it. All of the stuff works. The optogenetics works, the drugs with the target,
+the different sardinergic machinery and ion channels, uh, all the conceptual stuff were,
+you know, the, the multi-electrode arrays, the, the conceptual stuff, active inference, and, you know,
+all of these, you know, perceptual control, all of these things work outside the nervous system.
+Great. They were very well. If the tools can't tell the difference, who, who are we to put up
+these barriers and say, that's the neuroscience department and that's the developmental biology
+department. And don't try to, you know, they're, they're different. They're just completely different.
+I think it's totally artificial. Oh, it makes me, uh, there's so much, it makes me a little too
+excited to try to say all of this at once. But I think, again, it comes back to that agent base and
+scale. Where are you measuring it from? Right. If you're an ant, a sand pile is going to be
+different than if you're a human and also kind of like learning. If, if we take this really seriously
+in a practical way, what we're talking about, you, you, you realize, and that's the scary thing
+that you're not what you thought you were this like, um, only human, right. You're experiencing
+that scale, but we develop all kinds of tools and measurements to measure at many different scales,
+whether it's like looking at the scale or looking at the planets or whatever. And, and science
+fiction too, we re we tell stories as ways of also measuring from different perspectives and scales.
+Like this is obviously kind of what we're trying to do. Um, and maybe there's a way to say, okay,
+now I'm at this like human self scale of my trajectory and narrative, but I can also look at like
+the cellular scale or the planetary scale, or maybe put myself in another person's shoes or something
+like that. Um, yeah, but so there's all that that I would love to talk about, but also I just to
+try to get it back to like the science and that you, you mentioned the neurons, right. And I studied
+neuroscience and this is really interesting even to kind of tie it to Descartes. Cause you brought up
+Descartes of mental physical, right. And how we've come to think of the brain, the cells in the brain are
+special because they're mental. Yeah. Like from our agent, from our agent base, that's how we see it.
+Right. And it seems different than the cells elsewhere in the body, but I hear you saying,
+actually, they're all doing something similar, right? It's just, where are we measuring it from
+and what are we measuring? Yeah. Um, well, well, two, two interesting things there. Uh, one is the,
+this issue of, of, of, of measurement. My, my feeling is, and, uh, this is just a conjecture,
+but my feeling is that the reason that physicists, uh, see the machines and not mind is because they're
+using low agency tools. So when you have volt meters and rulers and, you know, things like
+this, you're using low agency tools and there needs to be some, some resonance between what
+you're using and what you're going to find. Right. So this, this, this, this old, uh, you know,
+saying, uh, you know, show me the net you're using and I'm going to show you what fish you can catch.
+Like, yeah, the tools, if you use low agency tools, you find low agency stuff. Um, what's a high,
+what's a, what's a high agency detector. Well, mines are like, we're, you know, we, we have a lot of blind
+spots, but we can recognize at least certain kinds of agency. And so when you use a high agency tool
+to, to look for things, it will guess what you find. Right. So, so, so I think measurement, um,
+you know, you have to think about what, what your, your, your measurement, uh, tool is going to let
+you find. And then, um, the thing about the cells is, um, and the, and the neurons, well, I, I've,
+I've been in discussions where, you know, we'll have a conference about this kind of stuff and somebody
+will give a talk and they start out and they say, well, neurons. And, and I, you know, I sort of say,
+well, it says, so hold on, what's, what's a neuron. And they say, yeah, come on, you know, neurons.
+I said, but no, really like what's a neuron. And, and of course you don't do this in, in neuro
+anatomy one-on-one because they are, you need to just agree and, and move on with your life. But,
+but in meetings like this, is it what, what's it, what's a neuron. And they say, okay, fine. And they,
+and they'll write down four or five, um, uh, criteria for what a neuron is. And I'll say, yeah,
+but every cell in the body does that. And they say, ah, well, that can't be, or then no, actually.
+Yeah. In fact, in fact, the Koshlin did some nice work on, on, on neuroscience and bacteria. Um,
+and, uh, and, uh, they say, oh, well then, uh, you know, it's, it's gotta be the, the, the higher
+level thing. It's, you know, they work together that they make networks to, um, uh, uh, to, to solve
+problems and to, you know, to, to represent information like, yeah, pretty every cell in your body is
+doing that, especially during development and regeneration. So, um, and it can all look a lot
+like cognition if you take it from the position of whatever agent is using it or is, that's right.
+That's exactly right. And so, and so I've been pushing this idea, uh, you know, which is, you
+know, not super popular by any means, but, but this idea that, uh, morphogenesis is literally
+behavior in anatomical space, exactly like conventional behavior is in three-dimensional space.
+And that it's the outcome of a collective intelligence in one case of neurons in the
+other case of, uh, whatever other body, you know, body cells you might have, that it's
+literally the same process. It shares, uh, molecular underpinnings. Um, we have a, we have a cool, uh,
+paper on that coming out soon, but, but, but also, um, uh, algorithmically it does a lot of the exact
+same stuff. It gets back to those patterns and regularities and how they scale and how they're
+never discontinuous. So if you can find the right tools to measure them, you can probably see their
+continuity, um, from, you know, from scale to scale. Um, but this gets at this idea of kind of,
+uh, trying to understand cognition in a different way, which is what I'm really interested in because
+I feel like it, that's one way we can start to, uh, understand, get past the linear and look at
+like maybe a multidimensional, many scaled kind of perspective of the world. Um, if we could
+understand that cognition is something that's happening at all levels and in all species,
+um, but that doesn't mean it's the same cognition or something. And I know you've, you know, you use
+the term navigation, which I used to use in someone kind of in neuroscience, as you know, that only
+always means that there's a goal, um, uh, as, as opposed to way making or something. So I changed it
+to way making, but, um, I wonder like, when did you start thinking about cognition as navigation and
+like, how does it relate to all this stuff we've been talking about? I, I, I like your point about
+way making, uh, as kind of a broader thing, because I agree, it doesn't always, uh, the relevant, it
+doesn't always have to have a goal, but, but it, well, when, when I, when I, it, it first, the two,
+two things sort of coalesced for me at one point, it was about, uh, they, they sort of came together
+in right around 2018. Um, one was that I, I, I, I love this idea of, um, uh, the latent morphe space,
+this idea that, that shapes that we see are, uh, particular regions in morphe space. And this was,
+you know, back in, uh, even, even, um, uh, Darcy Thompson in his classic on growth and forms,
+the growth and form, the, the, my favorite part, I mean, the, the whole thing is fascinating, but,
+but my favorite part of it is there's, there's four or five pages where he, he makes a grid,
+you know, just like a, like a two-dimensional grid and he draws, um, some sort of a, an animal on it,
+uh, and then he deforms the grid with these mathematical deformations. And then what you get
+is another kind of animal. And so, and so this was, you know, the twenties, I think,
+or the, the, you know, up until the forties, something like that, he was doing this stuff.
+And, and you look at this and you say, what the hell is that grid? Like, what is he actually
+deforming? But what you, you know, physically, biologically, but, but, but, but what you realize
+is that, um, any anatomical change is a move in this morphe space. And therefore the normal journey
+from egg to whatever is a set of deformations in this morphe space. In fact, more recently,
+I've started to believe that actually, uh, every, that development is really just an instance of
+regeneration. So, uh, anyway, and so, and so, and so I was thinking about, so I was already thinking
+about this idea that these are really all, I'll just, you know, sort of these, these, these,
+these movements in morphe space. And then, um, in 2018, I was at a, um, I was at a meeting at a,
+diverse intelligence conference, um, in Scotland and, uh, Pranab Das, uh, sort of laid out this
+challenge. And he said, um, uh, I want people to think about a framework in which you can put
+diverse intelligences. You can, you can directly compare and contrast very diverse intelligences.
+And so, you know, people were thinking, um, uh, octopus and, uh, you know, and, and slime mold
+and things like that. And, uh, and I heard that and I said, well, so conventional beings, but also
+swarms and aliens and AI's and synthetic, weird synthetic shit that we make in the lab. And, uh,
+like, like really let's really sort of be inclusive and ask what, what is the, um, underlying, uh,
+invariant in all of this, what, what, what, what is, uh, you know, an agent. And, uh, and then I came
+up with, so, so my take on it, of course, other people have, have, have said things about this before,
+but, but I, I, I kind of, uh, went with this, um, cognitive light cone idea and they said,
+whatever you're made of, however you got here, meaning evolution does it, you know, uh, engineering
+with however you got here, uh, the only way you're going to be an agent is if you have the ability
+to pursue some kind of goal in, in, in that, that, that will your, your, your, your, uh,
+set of goals will have some sort of envelope of the biggest goal you could possibly conceive and
+follow. Um, and that doesn't mean that every action has to have a goal. You could be exploring,
+you could be just hanging out. That's fine. But, but, but as an agent, you have the ability at some
+point to pursue some states that you prefer over other states. You have to have preferences,
+valence, and so on. And so, and so that then realizing, well, first I drew it and I, and I
+said, okay, so this is, you know, spatiotemporally in three-dimensional space. You have these goal states.
+And I thought, wait a minute, uh, but this could also be a transcriptional space. It could be, um,
+a physiological state space. And of course it could be anatomical morphous space. You could have these
+goals. So I'm going to be a limb and I need to get from here where I'm a limb bud and over here.
+Um, and of course you have all these. And so then, then I was like, ah, well, what all these things
+have in common is, uh, is, is way-making. It's what you said. It's the ability to navigate,
+adaptively navigate these spaces to get to regions that are, uh, more, uh, more, more, more, um, you
+know, more pleasant for you basically. Gosh, I love it. Um, I have to just dig in here a little bit.
+I don't actually, I'm not really clear about how, but I'm just going to talk, but, um,
+um, is it, uh, so, so to know you're an agent, you would have to, um, to have a goal, but maybe
+you could be an agent to someone else just, um, making way, right? Just you're making any kind
+of a way. So I'm trying to get at that distinction. We were talking about measurement before, and that
+word bothers me sometimes because maybe because of all the references and the trajectory and the
+history that comes with measurement and how it sounds very, you know, it can sound a certain
+way to certain people. Yeah. Um, maybe assessment is better or something, but there's like, I wonder
+how you see this, this relationship between, um, the observer and what it is to be an agent. Um, and,
+you know, if that relates to navigation, I mean, I also use navigation in my, uh, master's thesis
+because I think it expresses what people, what, what, what I want to say about what cognition is,
+but yeah, we also just wander around. Yeah. We, you know, any kind of life, even a tree or something
+is making its way. It's, it doesn't necessarily mean, uh, moving from a to B or, or something like
+this, but I mean, it is moving in physiological space. It is moving all the time, right? In three
+dimensional space, it's not moving, but in physiological space and also in transcriptional space,
+it is, it is moving. Right. Depends how you, exactly. It depends what you're like, the space,
+your temporal scale from what you're looking at is going. And which space, right? Like we, like we're
+in love with three dimensional space because all our sense organs point outwards. So because of our
+eyes and everything, we love 3d space, but you know, if, if you, I think if we humans evolved with
+a primary sense of our own, um, internal physiology, so like almost like a tongue, but it faces inward.
+So, you know exactly what your blood chemistry is at all points. And I think we would
+feel like we're living in a high dimensional space that our livers and our, and our liver and our
+kidneys are, uh, uh, intelligent agents that are solving problems in the space because we would be
+able to feel them doing this. We just, you know, we see squirrels and stuff running around in 3d space
+and we're sort of good at recognizing that. But if we had the sense organs, I think we wouldn't have
+that. Yeah. And maybe we're trying to get there in a way with our tools and stuff. And also just how
+much can we handle, right? How much can like the, the system handle it maybe can't handle being so aware of
+that maybe later we can. Yeah. Yeah. Maybe, I don't know. I mean, you know, with all the work
+on, um, augmented, uh, and, and I apologize, I have about four minutes, but, but before my next thing,
+but we can, but we can, we will, we'll schedule, you know, we can schedule another, another chat.
+Okay. Um, uh, you know, you know, sensory augmentation and, uh, and, and, and, you know,
+these weird prosthetics and everything. I'm not sure we know how much we can handle. I think we could
+probably handle a lot. And, um, I, I, I fully agree with you that, um, I don't think you need to know
+that you're an agent in order to be an agent. I mean, that's a particularly advanced sort of
+metacognitive thing, but even back. So, so here's a super simple version of this, right? Bacteria. So,
+so you got a bacterium and it can sense the sugar concentration and, and, and, and that helps it go up
+the sugar concentration gradient, right? It loves, it loves it. But now what if the sugar is poisoned
+somehow, right? That, that thing is going to fail because so, so what some bacteria have is a, they
+have a, um, uh, a metacognitive loop where instead of tracking the sugar concentration, they're tracking
+the output of their own metabolism. So the question is, so, so, so there you say, I don't know the details
+of what's going on, but how am I doing? Right. And, and if the answer is, well, yeah, the sugar sensor
+is firing gangbusters, but you're not, you're not doing very well, then the answer might be,
+well, then I need to get the hell out of here. Something's, something's not right. So, so this
+ability to write a scale. Yeah. Right. This assessment going on. Yeah. Yeah. It's assessment,
+right? This ability to, you know, measurement doesn't mean some, somebody, you know, with,
+with, with, with a ruler who sort of has a deep understanding of what the hell they're measuring.
+It's, it's, it's constant and, and the ability of, uh, beings to, to, to measure internal states as
+a, in addition to external states that leads, I think, directly to this kind of metacognitive
+feedback loop, where eventually you get, you can tell very complex, uh, stories about, you know,
+with the agents around you and all, by the way, I'm an agent too. And so on. So we can talk about
+where you actually have to expand into different spaces. Yeah. Yeah. Yeah. And just, I really like,
+we'll have to do it next time, but I want to think about this idea of regeneration too. And like,
+can you regenerate, um, if you've never, um, had that trajectory, can you read, you know, even we'll
+have to talk about it next time, but if you looked at the planarian or something and could it regenerate,
+um, without sharing, like the regularities of whatever is being regenerated. I mean,
+there's also some weird constraint there. Isn't there kind of, kind of, um, I, I've, I've got a couple
+of cool stories about that to tell you. So we can talk about xenobot regeneration, which is relevant
+because, uh, they, they have never existed before. Right. Yeah. That's so cool. Yeah.
+Yeah. And, um, even that they're kind of, yeah, we'll, we'll have to talk about it.
+Thank you. Thank you so much. Uh, it's great to meet you. Let's, let's talk again. And I really
+want to hear more about your work and then what you're. Thanks so much. I appreciate your time.
+Yeah. Okay. I'll see you soon.
+Love with everything. See ya.
+Thanks. Yep. See ya.
+Bye.

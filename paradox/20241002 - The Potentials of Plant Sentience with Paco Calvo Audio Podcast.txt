@@ -1,0 +1,914 @@
+people have a very strong reaction when this idea is brought up that plants could have intelligence.
+We keep forgetting that we might very probably be wrong as to what human intelligence consists of.
+Let's see, what is it that unites us all in the tree of life? It's like the master key.
+Plants are seeded, they don't need to be sentient. That was the Dalai Lama's approach, which means
+to me that was very informative because I understood that our prejudices, our biases,
+go way deeper. We have trouble thinking of it as nested instead of as linear.
+What we share is regularities on planet earth. The sun sets and the sun rises for any form of life.
+That's news, that's information to any form of life whatsoever.
+Bacteria swimming up a chemical gradient is generating those energy flows.
+And that interaction is the intelligence, right?
+That's it. Intelligence is flesh and bone. It has to do with biology, not with following a recipe
+book. We're navel gazing and we need to rethink everything, root and branch, like get started
+from square one because we are just not getting it. This is not against anyone. This is against
+ignorance. This is all of us teaming up together against ignorance. That's what propels science.
+Love speaks the language of molecules. Can you truly appreciate that tree or that plant you are
+walking by or encountering in itself, for itself, detached from your needs? Nothing evolves
+without somebody else co-evolving. So everything is co-evolution. Science,
+if it's not reductionist or mechanistic, already has the resources to fill the awe, the wonder.
+Hey everyone, welcome back to Love and Philosophy.
+Today we are going to talk about plant cognition. And if you think you understand what that means,
+maybe you do, but maybe you don't. Give it a try. If it turns you off, definitely listen to this.
+If it turns you on, definitely listen to this. It's with Paco Calvo, who's written a wonderful
+book called Planta Sapiens. It's very easy to read, but it's also just a really good book.
+Paco is a renowned cognitive scientist. He's a philosopher too, of biology. He's known for
+his groundbreaking research in plant cognition and intelligence. And he does that in Murcia.
+Sorry if I say that wrong. He tries to teach me at the beginning how to say it, you'll hear
+as we're coming on, but I still struggle. But Murcia, in Spain, where Paco leads the MINT
+lab, which stands for minimal intelligence lab, and he focuses on what that might mean,
+minimal cognition. There are lots of different studies about that, but he does a lot of
+interdisciplinary work between the cognitive sciences and biology. And he's very interested
+in plant behavior, plant problem solving, decision making. Again, if all of that sounds
+strange to you, if you're coming from human-based studies of those sorts of things, then I think
+this might be really interesting in his book as well. He's looking at the complex interactions
+in adaptive responses that plants exhibit, more or less. And he's really contributed to
+how we talk about and think about this word cognition and intelligence, which as you know,
+is something that's definitely part of this whole idea of navigability. What is really
+wonderful about this conversation is that we talk about rethinking cognition, rethinking what
+intelligence means. We talk about Darwin, why Paco loves him so much. Darwin laying in bed sick,
+watching his plants and how that leads to so many insights. And just that idea of observation with
+presence, what that means. Paco tells this great story about the Dalai Lama or Dalai Lama. I also
+probably say that wrong, Dalai Lama. When Paco was on his book tour and there was a reception that
+he had with the Dalai Lama and he sort of just assumed that they would be on agreement about
+life being intelligent. And you'll hear that he was a little bit wrong about that, which is very
+interesting. Also, he studied with some great philosophers, for one, Paul Churchlin. And I was
+really intrigued in his book because he tells the story of something he learned from Paul Churchlin,
+which is really wonderful and shocked me a little knowing Paul Churchlin's philosophy, which is a
+little different than what this story tells us. And actually it's been really helpful for me to
+hear that. And there's lots of other interesting stories in here and Paco himself is just a really
+great conversation partner. So I hope you enjoy it. I'm glad you're here. Hope you're doing well
+wherever you're making your way. I send you lots of love. And if you want to support this show in
+any way, it really helps. And I really thank you. And there's many ways you can find to do that
+whatever way you want. It's appreciated. Paco Calvo. Okay. I just want to make sure I don't say
+something wrong. But Paco Calvo is usually easier to pronounce. Murcia is way more difficult.
+Okay. Did I say that wrong already? Murcia. Oh, that's still wrong. No, no, that's pretty good.
+Yeah. Okay. It's not an easy word for foreigners. No, that's a hard sound. All right. Yes. Okay.
+Okay. Hi, Paco. Thank you so much for being here today. It's really wonderful to see you.
+Yeah. Thanks for having me. So I've been reading your book, this one,
+Planta Sapiens. It's so wonderful. And there's so much I want to talk about in there, but
+I kind of want to start at the end in a weird way with you discuss these expeditions to Mars and so
+on, trying to sort of explore planets and so forth. And you bring up this really interesting
+thing, which I'd never heard of until your book about plants, inspiring some new possible ways
+of thinking about these things. And I just want to tell you, I was at a neuroscience conference
+recently, and one of the questions, they were talking about computation and how we think of
+modeling the brain, of course, and all of this. And someone in the audience, one of the questions
+was, so all of these models are inspired by thinking of human brains, but does anyone ever
+think about other forms of intelligence when they're trying to come up with computational
+models? So I wonder if you could tell us a little bit about that at first, just the idea, for
+example, maybe of the grow bot. Oh, I see. Well, I mean, literally, you can find sources of
+plant based inspiration in any walk of life, literally any field whatsoever. I mean, if you
+think, because to start with, just think of the morphology, the materials, the actual, you know,
+if you think about computation, nowadays, it has become fashionable to talk of, you know, to speak
+of morphological computation or the way we decentralized or outsource computational power
+into the periphery, into the embodiment or into the environment. So how we outsource things
+out of the, you know, the CPU, right, that we are supposed to have, right. But we don't, after all,
+right. So that's one of the things about plant sapiens, because, you know, as you know, having
+gone through it, I like to think that we kill two birds with one stone, like we get to understand
+plants better for what they are in themselves and for themselves. At the same time, it allows us to
+rethink what we, you know, this distorted picture we have of ourselves. And the same happens with
+robots. So when we are designing our robots, our gadgets, our toys, think of a humanoid,
+typical Japanese humanoid or rovers on exploring Mars, right. And we can't help it, but I'm pretty
+sure we don't do it on purpose. We just can't help it. We can't implicitly, tacitly. So we
+take ourselves, however tacitly, as the gold standard. And sometimes we don't even verbalize
+it or make it explicit, but hey, if you're going to explore somewhere, your whereabouts, you got to go,
+you know, stand on your two feet and walk and locomote and, you know, to reach point B and
+starting at point A, you've got to move your body from point A to point B, right, to get there,
+to reach your target. And that's something, it's so obvious to us that we don't even give it
+some thought to the very possibility that other forms of life might have evolved different ways
+of reaching their goals, right. And one obvious alternative is growth. So plants, when we say,
+you know, when we say, hey, they are sessile, they are stuck, they are anchored to the root system and,
+you know, we think that they've got to be stupid somehow because they cannot locomote,
+as if in locomotion itself was the mark of intelligence or the borderline in between the
+non-intelligent and the intelligent, instead of saying, hey, isn't it amazing, evolution,
+how many different tricks it can play. So to me, the example of robots, which in the book,
+the reader will see, it's kind of towards the end of the book as an application, but it gives you a
+lot of food for thought to rethink many of the ways in which we approach or we appreciate our
+surroundings or our dealing, our interaction with other organisms, right, biological or artificial.
+Yeah, as you say, the robot normally, of course, we're thinking of how can it move from point A
+to point B in the way that you just laid out, but plants also move from point A to point B without
+leaving point A, you point out. And that's a whole different way to think about designing
+an explorative vehicle. It's absolutely amazing. Well, think in the case of the robots in this
+chapter nine of the book, as I explained, most of the headaches, like engineers at the Jet Propulsion
+Lab or you name it, which any space agency, when they have a rover exploring Mars or the Moon or
+whatever, all their worries have to do with things that could go wrong as I locomote from
+point A to point B. So a crack on the ground. Oh, don't get stuck. Watch your wheels or a sand dune
+and you can't keep propelling yourself or a slope, 30 degrees or a cliff. So anything
+can mean travel or, oh, I mean, for God's sake, I mean, this costs the fortune. You better keep
+your rover up and running, right? Absolutely. So this is the issue that we are not solving the
+problem by adding more code, so by adding more information to the algorithm. So you are not
+foreseeing all those possibilities, all those contingencies and trying to solve it by including
+those possibilities in the recipe book that your rover is following. You simply solve the problem by
+thinking of a different problem space. So if you grow in a growbot, a growing robot, a growbot,
+in a growbot, as you reach your target through growth, you don't care about the crack on the
+ground. You grow over the crack. So you don't care. This is like a hanging bridge. If you
+need to swim across the river to get to the other bank, you care about the stream, the strength of
+the water falling, right? But if you get across to the other river bank as a hanging bridge,
+you don't care about the stream of water. You just hang over it.
+It's a wonderful way to learn from plants. It opens up all kinds of other possibilities. Also,
+I bring it up not only because I think it's spectacular, but also because it speaks to a
+lot of these issues of when we think about what intelligence is or cognition is, we often think
+of it as you were already sort of bringing up, as somehow being able to move or something involved
+with movement. And I kind of wonder about the difference between growth and movement, to be
+very honest with you, because we could get into that a little bit later. But now I want to think
+about, in that context that we just kind of laid out, this wonderful, beautiful idea of Darwin
+watching his, was it cucumber plants and the tendrils, right? Because this is kind of
+a wonderful example of this growth that plants do, and the way that we might rethink
+something like a bot on Mars, the way that a plant can reach out with its tendrils and explore
+is just spectacular. I was going to say, but you see, I mean, even in the case of Darwin,
+you've seen there is a lot of Darwin in the book, right? Yeah, I think I fell in love with Darwin a
+little bit in your book. I've read so much Darwin, by the way, let me say. I mean, as a neuroscience
+and philosopher, Darwin is everywhere. But your book, I felt your love for him. This is love and
+philosophy, so I can use that word. I hope it's okay. Definitely. It's my hero. I mean, actually,
+even when I was writing the book, this all started in sabbatical in Edinburgh,
+and I was writing just in front of, in these cafes in the Old Town, just opposite where he was
+lodging as a medicine student in his early 20s or late teens, right? Oh, that's wonderful. Yeah,
+I felt that, that space, being in the space, and you wanted to end it kind of where he was walking.
+Absolutely, absolutely. Yeah, yeah. No, no, I was just going to mention in relation to Darwin and
+the cucumber tendrils and everything, that to me, what's truly amazing about what Darwin was able
+to do is something I keep telling my students nowadays, I mean, in 2024, because we are so
+obsessed with thinking, hey, if only you have the right tools, we would all be able to appreciate
+what we are missing, right? Like, oh, yeah, yeah, sure. This is just a matter of budget,
+of equipment. Give me the right observation tool, and I'm pretty sure I will support it, right?
+And no, we keep missing it. In our lab, we time-lapse plants, right? So, we've got to
+time-lapse them. We've got to speed them up, because the time scale in which they grow,
+the growing behavior, the time scale in which it happens, and our time scale of observation
+are so different that we need to accelerate them through time-lapse photography. So, we take a
+picture every minute, every five minutes, whatever, like for days, weeks, months, then when you
+assemble the footage, you say, oh, my God, now I see what's going on here, right? But that's,
+there is a danger here, and it's that we become mentally lazy. It's as if you could simply
+students think, oh, you know, that's pretty easy. I mean, on a Friday evening, you set the settings
+of your time-lapse camera, okay, up you go for the weekend, come back on Monday, assemble the footage,
+oh, wow, look, popcorns, and then just watch the cucumber doing its thing, right? No. Even watching
+time-lapse footage of plants doing their stuff, you will still miss it if you are not in the
+right frame of mind. So, that's why it's so important to do, first of all, prior to using
+time-lapse equipment, to do what Darwin was doing, because he was observing plant behavior
+to the naked eye. To the naked eye means in plant time, so in its own time scale. So, rather than
+accelerating plants, he was decelerating himself. So, to me, that's the right way to do it, to get
+started. Of course, then you need to do time-lapse, right? But at least to get started that way, to
+train your eye to be in the right frame of mind, and that's what Darwin was able to accomplish. So,
+to me, it's still amazing that so many people nowadays still miss plant intelligent behavior,
+and they even complain that we are anthropomorphizing plants by time-lapsing them.
+Some plant physiologists, you know, they complain along those lines, right? Like, I beg your pardon,
+and when you're studying a hummingbird flying behavior and you use speed cameras,
+are you anthropomorphizing hummingbirds? I mean, we need these tools, right, to flesh out the
+behaviors. But what Darwin was able to do to the naked eye, it still shocks me today.
+Yeah, I'll let people read the book to really get the full story, but I guess we should say
+for people listening, so he was sick, right, and he's in bed, and the plants were kind of in front
+of him. So, in a way, life sort of slowed him down, and so he was just really mesmerized by them.
+There's a wonderful quote in there, I'm not sure I remembered exactly, but that he was fascinated
+by his tendrils or something, and it was just watching them move, and sort of, as you say,
+when you slow down and actually observe something, it does open up in a different way.
+There is something more genuine, something that you do get to achieve that you just
+cannot reach otherwise. So, there is something to it.
+It's real scientific practice. I think Darwin, I mean, we won't do the whole thing about Darwin,
+but he's a great example of that in the way that he took time.
+Yeah, absolutely. And nowadays, that's an issue. I mean, today,
+fast science and, you know. Yeah, we've gotten really away from that. We've forgotten how
+important that is. Absolutely. And plants, it's another thing plants could probably teach us,
+actually. Yeah, definitely. But just to get to this, so that opens up something that I really
+want to talk about a lot, which is people have a very strong reaction, a lot of people, when
+this idea is brought up that plants could have intelligence. So, you, of course, wrote a whole
+book laying out ways of doing that. For example, with the tendrils moving, I mean, we're already
+talking about that as a kind of intelligence, but you show in a way, you show many ways,
+for example, through that they have to make choices and decisions and so on,
+how this relates to the way cognition has already been studied in human ways. But
+what's very interesting, too, is that people are so reactive about that, that
+when you hear a plant is cognitive, either it's fascinating, when there's also people
+who are completely fascinated by it, and it draws them in, and then there are other people who
+really are turned off by it, and even a bit feels like a violent thing to them. But I think,
+and I want you to talk about this, but I feel like that's coming because these words, we locate
+them with our assumptions as human, just by default. So when we hear plant cognition,
+not we, but yes, we, like the big we, it's like, okay, then that must mean that plants have what
+is a human cognition or a human intelligence. This is the part that seems very hard and nuanced,
+and of course you do a wonderful job in your book, but to realize that that's not what you mean when
+you say plant intelligence. The plant is a different embodied creature. It is a different
+embodiment. And so its intelligence will not look like human intelligence.
+Yeah. Well, there are two issues here. You're absolutely right. But there are two issues here.
+One is that sure, we should try to assess any organism's form of intelligence in its own terms.
+So you don't compare one to the other. You just do, I mean, I give this talk to secondary school
+kids, and I ask them always, who do you think has better eyesight? An earthworm or an eagle?
+And they all go, an eagle, an eagle. I say, hold on a sec. Who can see better underneath the leaves,
+the foliage? And they say, hey, yeah, sure. I mean, then this, you know, shakes all their
+convictions because they are assuming that an earthworm, the way they see the world,
+which by the way, they don't even have eyes, just an eye spot, light gradients. It's a degraded
+form of vision compared to the eagle. Instead of thinking, hey, this is the best adaptation they
+have provided the needs they do have. And they don't have the need of the eagle to identify a
+rabbit and planet from 200 yards. So we keep missing the point that it's not about comparing
+ones against the others, as if there was some measuring rod and we were providing the gold
+standard, right? With that being said, mistake number two is to, so even if you get here and
+say, okay, sure, let's just value everyone's unique form of intelligence, we keep missing,
+we keep forgetting that we might very probably be wrong as to what human intelligence consists of.
+Because even if we tell them apart and say, hey, let's talk about plant intelligence or plant
+sapiens and homo sapiens and don't go nuts about it because we don't mean to say that plant sapiens
+equates homo sapiens. So hold on a sec. In a sense, I do mean to imply that one equates the other.
+Once we have revised what we truly mean by human intelligence. So the problem is that human
+intelligence is not what computational neuroscience or cognitive psychology tells you
+it is. So we are obsessed with the computer metaphor. We are obsessed with the brain mind
+divide as if this was a matter of checking out the mental software running on your neural hardware,
+right? And that is so deeply rooted, that metaphor, the computer metaphor, that we go through
+undergrad education in psychology, in neuroscience, in computer science, and we don't
+think twice about what we truly mean by that. I mean, is somebody sitting at the wheel in my
+brain? How do you mean? So we keep forgetting that there is not a little homunculus doing the
+cognizing, the driving, the navigation when I navigate my surroundings, right? So because that
+is that, to me, distorted metaphor is so deeply rooted. That is what makes people, you even said
+violently, like very, very strongly oppose. I'm sure you felt it more than. Oh, absolutely. You
+can't imagine. I mean, I couldn't tell you the type of things that some people tell me by email,
+right? I can imagine, because it's almost a reactive. I have a feeling that by discussing
+plant intelligence, we are taking something that belongs to us. So one thing that when we put these
+two things together and we think of intelligence as a continuum and not as a binary black, black or
+white thing, even a continuum is the wrong approach, because with the idea of a continuum,
+we can think of minimal intelligence as opposed to full-fledged intelligence. And no, it's not
+that. So to me, my approach is to think, hey, let's see, what is it that unites us all in the tree of
+life? It's like the master key. So I would like to think that we are trying to search for the master
+key, some master key that unlocks any branch in the tree of life. Right. So to do that, to me,
+the idea is to get started the other way around from the bottom up, not from the top down.
+So when you get started from the top down as we are sapiens and then provide the gold standard,
+and then what do we usually do? Either we go for mammals because they have a neocortex
+or primates, or even those more open-minded try to extend it as much as possible, but always within
+the animal kingdom. Yeah. Starting with what could possibly be a brain or something. Right, right.
+And you know what's really funny? That this happened to me, that's not in the book because
+that happened afterwards, precisely when I was on tour promoting the book and I was having this
+reception with the Dalai Lama. Wow. Sorry, we have to pause for a minute. You're having a reception
+with the Dalai Lama? Yeah. Well, we were having this meeting in Dharamsala. Oh, okay. Wow. Wonderful.
+A group of Buddhist monks. So the Dalai Lama, he was receiving us, like the Western scientists,
+one morning. So the organizers, they said, hey, if you have a book or something, you can bring a
+copy with you and give it as a present to the Dalai Lama. So I brought the copy of plant sapiens
+with me and handed it to him. Oh, lovely. And said naively, out of, you know, mere ignorance,
+I was thinking, well, sure. I mean, this thing that we were talking about, like being on the same page,
+something that unites us all, I'm pretty sure like the Dalai Lama will be with me. I mean,
+we'll be on the same page as opposed to these, you know, Western reductionist plant physiologists
+that don't get it, that they think this is just a matter of unearthing molecular mechanisms or
+whatever. The Dalai Lama should, I mean, pretty sure. So I handed the copy to him of plant sapiens
+and I said, because plants are sapient, or I said plants are sentient, I told him, I think. And then
+he went like raising his eyebrows. I said, no way. He said, only animals can be sentient. And you know
+what? He gave me a copy of a book of his, like from 2012, I think. I hadn't read it. So I read
+his book on the way back, flying back to Spain. And I found this quote in his book. And it was
+just what we were talking about, robots. It was about locomotion. And he was explicitly saying that
+animals need to be sentient because they locomote. So he was identifying, connecting far too
+straightforwardly in sentience to locomotion. Plants are sessile. They stay seated. They don't
+need to be sentient. That was the Dalai Lama's approach, which means to me that was very
+informative because I understood that our prejudices, our biases go way deeper because
+for us it's too easy to blame Western mechanistic reductionist science and think that other
+traditional knowledge or other cultures have a more, and no, I realized to me this was good news
+in a sense. It was good news, like as in saying, hey, there is something way deeper than simply
+Western scientists doing their mechanistic, you know. So I think it's something very intriguing.
+It goes way deeper. So I learned from that conversation.
+That's a wonderful, wonderful story because it also helps us like bring empathy into this because
+it's not that the people who react violently or even in that case, it wasn't a violent reaction,
+but an immediate no, right? That actually, yeah, oftentimes it just comes because people care so
+deeply about trying to understand mind and cognition. And they've gone so deeply into it,
+into the literature or their whole lives are kind of based on doing a certain kind of neuroscience
+or it's because they care so much about it. And they've tried to build up a narrative.
+And it's usually this linear narrative. And it's usually in the way you were describing of the top
+down, bottom up, as if it can only be one way or the other. We have trouble thinking of it as nested
+instead of as linear, that there might be nested ways of thinking about it. So I just, I don't
+think it comes from, it comes from a place that people care so much. And the reason I think it
+gets so passionate, you would know more about this, but it's because there's such hard questions.
+If you do give intelligence to plants within that linear framework, in general, it's hard,
+but because then it becomes like for the Dalai Lama, as you were telling that story, I was thinking,
+well, then his approach to, you bring it up in the book in terms of pain and emotions and suffering
+and stuff like this. But if you're going to fit plants into that linear model, then the questions
+become almost impossible to answer. But what you're saying is we need to rethink all of that.
+Absolutely. So you know what I think? This is something which this is in the book. When I say,
+remember, I say, hey, what counts is not what's inside the head, but what the set is inside of.
+Right. This is a motto from ecological psychology. Yeah. You talk a lot about the
+relationality and the context and the environment. But to me, when we apply this other bottom-up
+approach and this thing I was telling you about, about finding or looking for this master key,
+right? That gets to open any branch in the tree of life. Think about it. If we put it this way,
+things are way simpler. I think we make it far too complicated because we are
+starting to run full of it. So if we don't think what's inside the head, but what the head is
+inside of, what are we sharing? We think that we need to be sharing brain tissue, locomotion. No,
+what we share is regularities on planet Earth. So the sun sets and the sun rises for any form of
+life. That's news. That's information to any form of life whatsoever. So we have all evolved
+adaptations that tune to environmental regularities that are all informative to any form of life.
+If you think about circadian clocks, that's crystal clear. I mean, sure, we all need to tick
+to the planetary cycles, so the day-night cycle. And you see the circadian clocks in plants are the
+very same thing as in animals. It could be so narrow-minded to say, hey, but plants don't have a
+suplachiasmatic nucleus, where you have the master clock. So you see the light goes through
+your optic nerve, then hits. So you have your master clock, and then that puts in sync
+or your peripheral clocks. So the way you explain circadian clocks in neuroscience,
+does a disfavor if it is supposed to help understand what unites us all by focusing on neural tissue
+alone, as if you couldn't tell time without the neural tissue. So what counts is not the material
+substrate, the implementation that allows you to tick, but rather, regardless of the type of
+implementation, the fact that we all have feedback loops in our molecular clocks in any form of life
+whatsoever, because the sun sets and the sun rises, and that's news that on evolutionary time,
+you need to care about, because predators come out, you need to go hunting, you need to hide,
+temperature goes down, relative humidity. So all these environmental parameters
+correlate with those day-night cycles. How come a form of life is going to ignore such regularities
+being so powerful and so informative? So when you put in those terms, it could be the other
+way around. It could be a miracle if some form of life wouldn't tune to those regularities.
+So when you put it in terms of the environmental regularities themselves,
+you don't care whether I use neural tissue or non-neuronal tissue to deliver the goods.
+It's just a matter of being in sync with those planetary cycles.
+Absolutely. I love that you bring up regularities, because this is how I think of it too. This is a
+research channel, that's how it started. But the way I've come to think of it, and what I was so
+excited about in reading your book, because you open up a lot of things connected to this, is that
+starting in so-called bottom, at the bottom, bottom up. I want to come to why I think that's
+a little problematic in a minute, but if you just think of any body that comes into this encounter,
+this world, it's all about making its way through those regularities. Now, I think of it in terms
+of making way and navigability, and that sounds like what we were talking about at the beginning,
+where something has to move from A to B. But what I'm trying to do, and I think it's very close to
+what you've already done in a way, is rethink what we mean by what that means to navigate or
+to make way. I don't use navigate all the time, because it does connect so much to this idea of
+movement in the way that Dalai Lama meant it. And for good reason, because it does explain a lot.
+But if you think of, you talk about landscape in your book too, but I try to think about different
+kinds of landscapes, different kinds of spaces. And in that sense, a plant is definitely moving
+through a space, a landscape, an encounter, its life, in the same way that everyone means by
+movement of cognition in terms of animals and plants. Plants are perceiving affordances,
+so they are perceiving their own possibilities of interaction with the surroundings.
+They do it through growth, but what counts is those encounters. Exactly, with those regularities
+of the environment. Absolutely. It's shaping it, and it's being shaped by it in the way that-
+That's it. It's got to be reciprocal. And as we say in ecological psychology,
+the unit of analysis is the plant environment system as such. If you detach it and you think
+of the organism, plant or human, or you think of the environment, you miss the plot. It's got to be
+the system as such, the plant or animal environment system as such. Then is when you get to see how
+you are generating information by either locomoting or growing. But the fact that- So now,
+if I get closer to the webcam and you see my face, you see my image expanding in your retina.
+Now, if I move away, you see my image shrinking in your retina. So these patterns of expansion
+and contraction is what's informative. Put it this way, if plants were not able to generate
+these flows of energy, in this case, an optic flow, but could be any energy form whatsoever,
+gradients and relative rates of change in this model. So if plants were not able to generate
+these energy flows, they couldn't be intelligent. But I don't know of any form of life that doesn't
+generate those energy flows. Bacteria swimming up a chemical gradient is generating those energy
+flows. Plants growing- And that interaction is the intelligence, right? That's it. That's it.
+It's not that they're intelligent and they do that. That is the intelligence,
+which then builds into what we think of as human thought.
+It's emergent. So it's an emergent phenomena out of the interaction itself. So you cannot- That's
+what I meant about the cognitive science approach. Yeah, right. Start with the brain.
+You cannot try to find what's being stored somewhere in your brain. It's about the
+interaction itself. It's always emergent, dynamical. Exactly. This is why I think the
+bottom-up is right, the way you're describing it. I think cognition starts with whatever life,
+any life that's making its way through any space. I think intelligence and cognition start there,
+although they're nothing like what we as humans experience as thought and cognition.
+But the problem is that because we are where we are as humans, and we can even think of ourselves
+as life at a certain sensory point. And at this sensory point, we have this idea of thought in
+this very traditional way where we imagine there's kind of this, it feels like there's something in
+our heads where we see images or we hear words or whatever. And so that just in an everyday assumed
+sense is what we think is cognition. And then, so that's why a plant couldn't possibly be having
+this experience, right? And people don't think about all that, but it results in a violent
+reaction when you say plants have intelligence. But it's funny. You see, this violent reaction
+because believe it or not, even the Dalai Lama was open to the very possibility of AI
+sentience. So that some future AI- I love that you bring that up. Yeah. Isn't that funny that we can
+give it to AI, but not plants? Yeah. It's amazing. I mean, I'm not kidding. So the Buddhist monks in
+this meeting, they were open to the possibility of a future AI giving rise to the emergence of
+sentience, their own form of sentience. And all these Western scientists attending the meeting,
+they did agree as well. Nobody dares to say, hey, how could an AI possibly? We don't know.
+They remain skeptic in an open sense, like saying, well, we don't know. We'll see what the future
+has for us. We'll see in 10, 20, 50 years time, future AI, we don't know how sophisticated it's
+going to be. And they don't realize that it is meaningless to me because that sophistication
+is sophistication that only has to do with algorithms. Intelligence is flesh and bone.
+It has to do with biology, not with following a recipe book. So it's not about the algorithm.
+It's about the implementation. I couldn't agree more. I guess what I was trying to say is since
+most of us began in that place, it feels linear. So when we say bottom up, the way it's heard is
+that there's a plant and then it evolves into a human. And I don't actually think of it like
+that. And I don't think you do either. I think it was more as nested. There's all kind of many
+different kinds of possible intelligences as life. But it starts from the very beginning in terms of
+the bottom of whatever you want to define as the first kind of life probably, but not in this form.
+I guess even the actual way we visualize the tree of life is distorted. Because evolution,
+we see it as if any species, animal or non-animal, we see it as an impoverished
+stage, as if they hadn't reached their goal in evolutionary terms, as if they were impoverished
+versions compared to us. We are at the pinnacle. And this is the Aristotelian approach.
+That's that linear thing. That's why top down, bottom up. I think we even have to leave that in
+a way because people then lock into that. It's not like that. It's not like that. It's not that
+there's a plant to an AI. And that's why the AI seems like it would be more easy to understand
+because it's built in that line so that it comes after us. And we don't know how it will happen,
+but at least it's like sharing all these kinds of things that we associate. It's a confusion.
+It's a confusion for me that I think it helps. I don't know what to think of affordances. If you
+think of an embodied thing like a plant or an insect or an animal or a human, then there's a
+kind of trail or a path of affordances that reflect only that body. Especially if that's
+what an affordance is. But when you think of an AI or any kind of tool or machine, the affordance
+is always to whatever's using it. Yeah, yeah, absolutely. No, no, definitely. So putting the
+example again, going back to the robots, that's a vicarious exploration of Mars, right? So we want
+to see Mars through the rover's eyes. And we don't get it that that's in principle impossible
+because the possibilities of interaction being perceived, the affordances being perceived,
+relate to the body scale of interaction. So what you are able to do as a rover on wheels,
+the type of interactions you can engage in because of the body plan that you have and
+the scale of interaction allows you to see one thing and not other things. So we speak of this
+room as if it was the room in which we can all inhabit like you or an ant or a giraffe or an
+elephant or a plant. As if the room, no, no, it's a different room for every single organism.
+Absolutely, yeah. In semiotics, we know that. That's biosemiotics. It's meaning-making.
+And there's plenty of experiments using our tools, our AI, such that we understand that a bee
+has a different phenomenology than a fox. We cannot translate from one to the other.
+It's just a nice translation. You can understand that they're
+dealing with the regularities with a pattern that's similar, but it doesn't mean the body
+is similar or the experience is similar. That's why there's something about the regularities.
+We are all dealing with the regularities of our environment with a similar pattern, but the way
+we, what those regularities are in specific and what the body is in specific and what the
+environment is all goes into is kind of whatever this is we're trying to assess, I guess.
+And you see, remember in the book, I speak in the epilogue. One of the issues that keep me awake at
+night is education, because most of it is not about scientific facts. It's not asking, hey,
+we need to replicate these experiments or we need to get more robust data. And if we get that data,
+more robust data or better experiments or better working hypothesis and test them,
+taking them to the bench as if we needed more solid science, which of course we do,
+but it's not just about that because if we don't rethink education, we won't be able to
+take to the bench alternative hypothesis. So most of this thing we are talking about doesn't
+even have to do with plants. It has to do with the overall vision that we have.
+And the problem is not about plant biology, even though we have a lot of skeptics in this field,
+like these violent responses you were mentioning. In psychology, undergrads
+studying psychology for majors, they are never exposed throughout their careers to
+Gibsonian ecological psychology, for example. They are only taught cognitive psychology.
+And the same happens in cognitive neuroscience. In some course, if you are lucky enough to have
+one professor who has an inclination and they might mention Gibson or affordances in two or three
+classes, but not asking your curriculum, academically speaking, is not envisaging
+the academic curriculum as trying to walk you through all those alternatives. So even when you
+are thinking, hey, we are doing the best possible science we can, all the alternative hypothesis
+that you are able to envisage belong to the same problem space. And thereby you are making
+inferences to the best explanation by discarding some alternative hypothesis and landing on others
+in this narrow position in which you are. Yeah, sure. I mean, that's a good way to test your
+hypothesis. But there is all this region of logical space that you have not navigated
+because you cannot simply, don't even think that it exists. And that doesn't have to do with the
+scientific method. It has to do with education. Yeah. And actually, I see this as very much
+connected to what you are opening with in terms of rethinking intelligence and the way it's
+example of it is plants in a way. Because in the same way we were talking about it,
+it's not linear and there is not only one path. If you are going to explore a landscape
+or a space, depending on your body and depending where you are and depending what tools you have
+and depending on all these things, it's going to be different how you explore and get to whatever
+the goal is, even if it's the same goal. But in science, we think there can only be one way.
+If you find the way, that's the way. It's very hard for us to hold the nestedness in the same way
+I think that it's hard for us to hold that there's different kinds of intelligences, that plants can
+be intelligent in a way that's different than humans, but it's nevertheless a similar pattern.
+Do you know what I mean? Yeah, definitely. Yeah. We put it all under as if it belonged to the same,
+in one basket. Well, even when you are critical about plant intelligence, those skeptics,
+even when they criticize the very idea of plant intelligence, they miss it completely by discussing
+plant intelligence as if all plants share one form of intelligence. Right. I love that you bring that
+up in the book that you can't speak of all plants. You have to look at each individual.
+So when people say, are plants intelligent? If I ask someone, are plants intelligent?
+Intelligent, they would go yes or no. But very few people ask, which plant are we talking about?
+So if I ask, are animals intelligent? Everyone would say, who do you have in mind? A dolphin,
+a termite. I mean, who are you talking about? Before answering, a dolphin, oh wow, an elephant,
+a mosquito. But in plants, we don't even picture the idea that different plants might exhibit
+different smarts. And even someone who would say, yes, animals are intelligent, will then say, well,
+a dolphin would be intelligent in a different way than a bee, and so forth. But plants, so you see,
+when a plant physiologist criticizes the very idea of plant intelligence by simply saying,
+physiology explains it all, like photosynthesis or this or that, that's the best proof,
+the best way to show that they are not getting at the heart of the question. Because who cares if
+first, some of them cannot do photosynthesis. Some of them don't have chlorophyll, parasites,
+and they have to suck up sugars from host trees or whatever. And so any example you provide,
+there will be counterexamples. But in the end, it's about, hey, what are your problems? Your
+problems, the ones you have to deal with. Yeah, what's your goal? What's your challenge?
+Not just the different species, but the different individuals belonging to the same species.
+I mean, remember in plant sapiens, I speak of domesticated versus wild plants, right?
+Yeah, that's wonderful. Do you need to oil your machinery to get all your smarts at their best,
+because there is no agriculture. Nobody's going to be there looking after you.
+So it's wonderful the way you began the book, too. I think this speaks to this,
+the Delphic kind of conversion moment. If you want to tell it, you can or not,
+people can just read it. But there's this kind of know thyself in Delphi. And I was recently there
+maybe like a year ago, so I could imagine it very well when I was reading it. And yeah, you talk
+about, I think you have this wonderful phrase of thinking into other organisms or the experiences
+of other organisms, thinking into that. And in a way, I feel like even with what you're talking
+about with education now and this slowing down and what we were talking about with Darwin and his
+bed, not bread, Darwin in his bed watching the vines, there's some kind of way in which
+we've arrived at a moment ecologically where we have to maybe observe in a different way and
+rethink what a self is in terms of knowing self, what that means, rethinking what intelligence is.
+I mean, I feel like you're bringing that up and starting us in that place.
+Yeah, yeah, yeah, definitely. I mean, remember, I mean, this is not a spoiler because in the
+preface, I use the expression like navel gazing, right? Yeah, right. So we're navel gazing and
+we need to rethink everything, you know, root and branch, like, like, get started from square one,
+because we are just not getting it even even. So to me, look, sometimes I'm even more worried
+about those who think they are sensitive enough or they already appreciate plant life than about
+those that don't, because the skeptics can be skeptical and you know why and it's just a matter
+of, you know, as we said, of education, whatever. But sometimes the ones who already think they do
+appreciate plant life and they are, you know, they might be doing it for the wrong reasons.
+And that's more difficult to identify because they already think they are on the same page.
+So that observation isn't happening, actually. It's a similar, like you've latched into the linear
+story and you just kind of go without. Yeah, yeah. Yeah, already. Yeah, that's it. That's it.
+So you don't get to see the hey, I started wrong for it, right? So to me, the example is I think
+of environmental studies, right? So many people who are very sensible, you know, to all the
+climate crisis, all the mess we are creating and everything. And they speak, they still speak of
+plants as resources. And then we speak of, you know. I love that part of the book too, the way
+you show that way of thinking of it. Yeah. So even then, so know yourself. Are you sure you
+know yourself? So we should be rethinking ourselves the way we think we appreciate plants,
+which might be for the wrong reasons. Yeah, and the way we just assume what they are when
+we're walking around and being in the world with them. That's it. So is it possible? There's
+something wonderful about that, by the way, which your book also does. It opens up something for you
+too, if you take the moment to do that, I would say. Your life expands in a nice way. Well, I'm
+glad you say that. I mean, I hope it does help in that sense as well. I mean. I think so. You see
+the world as more alive as it is. Yeah, yeah, yeah. So to me, I would like to think, you know,
+this is a work in progress as in myself. So every day I need to remind myself, hey Paco,
+hold on a sec. When you are encountering or walking through my garden, whatever,
+or going for a stroll in the forest, you name it. Can you truly appreciate that tree or that
+plant you are walking by or encountering in itself, for itself, detached from your needs?
+Can we truly care for them, truly forgetting about our needs? Because even when you are into
+environmental science and concern and all this, it looks to me that we are not truly getting there.
+Like we value them, but in our heart of hearts, we value them because, oh shit, we need oxygen,
+we need textile, we need food, we need them. And I think that we should rethink it all.
+We should not care for them because we need them. We should care. I mean, think about it.
+How do you mean? Do you mean to say that if we didn't need them, we shouldn't care for them?
+I mean, imagine we managed to get our oxygen, textile, some other way. Does it mean then that
+we can't, you know, forget, just, I don't care about them anymore because they are not resources
+that I need? No, they've got to have their intrinsic value. And ethically speaking,
+morally speaking, caring for them, it has got to do with what they are in themselves and for
+themselves, not because of the way I need them. And I think we are far from being there.
+I think this gets at this love, you know, word, which we'll come back to, but it's wonderful you
+say that because just a few days, not a few days, a few months ago, I guess, I asked my husband who's
+working with plants or with trees specifically, actually, like, what if they did come up with
+some way to have some kind of, or Erzot's tree that you could put in cities, because he works
+in urban planning, that you could put in cities and do the job of trees, like, something would be
+really missing there. And just to try to connect these threads a little bit, because your book,
+I think it's much bigger than even plant cognition, which is already a big thing,
+but in these ways we're talking about. But there's something in this about, like,
+we've talked about Gibson a lot, and some quote I like about him was trying to get past this
+way of thinking of subjective or objective, or thinking of I and them, human and plant,
+like, this beyond dichotomy, which is a theme of mine, and that's what I love about his writing
+in a way. And I feel like it's what I, one of the things I love about what you're doing with the book
+too, and this know thyself, and it's, like, there's, it's, we're seeing ourselves in a way,
+I mean, not to get too mystical, but if we stop and see the plants differently, we're also seeing
+our own potential and capacity differently. And in a weird way, you bring it up in the book of how
+the plants are kind of using us too. And, like, how do we want to be used? And there's this kind of,
+you know, ecological interaction that we can really change the potential of what's possible
+for us too, in this slowdown and change. Oh, I see, I see. Definitely, definitely. Well,
+that's a great way to put it. Thanks. Yeah. One thing we keep forgetting is that even when we
+put it in an evolutionary context, is that we forget that there is nothing as evolution as such.
+I mean, there is only coevolution. Nothing evolves without somebody else coevolving.
+So everything is coevolution. So when you think of a flower and a pollinator,
+sometimes we put the focus, the emphasis, the spotlight onto the pollinator, because we might
+be interested in understanding how the pollinator, you know, tracks the scent or lands on the petals
+or whatever it does. That reminds me of in the book, you talk about the bee and the orchid,
+right? The bees using the orchids and that's beautiful. So it goes both ways. But funnily
+enough, so there are like two hurdles. One is shift from evolution to coevolution.
+There is no evolution as such. Every single form of evolution is coevolution. There are always
+more than one actor. This is an arm race, right? So pollinator flowers. So this is an arm race and
+you are getting here because I got here because you, and then you understand how everything is
+flourishing. The pollinator's capacity is to navigate the flowers and the flowers to attract
+the pollinators, to lure them to all the things that this is always a pattern of coevolution.
+But the second part of it, it's that we, in this dichotomy frame of mind that we have,
+we can't help it, these binary decisions and everything. We keep thinking that, hey,
+we are, you know, they are the actors and we forget that we are, but just one more actor.
+So engage likewise in these patterns of coevolution. So the very same way that
+flowers and pollinators coevolved, agriculture, when we are selecting plants, phenotypes through,
+you know, the selection we've been doing for a few thousand years,
+we don't realize that we are the pollinators. And if so, we are also being selected.
+And if so, if everything is coevolving, it is true what you said, that we might see
+in which ways we might dynamically find other trajectories from the perspective
+of we being just one more actor and not the master overlooking its garden.
+Exactly. That's that thing that it's so hard to articulate that I feel like we're all trying to
+articulate in a new way, which is like, or that your book is, when you say we need to rethink
+intelligence, it has to do with this. And it's what I was trying to bring up with the scales and
+that it's not an either or, that it's not just one or the other, that in fact, as you were talking,
+I was thinking, yeah, so if you're going to assess it from the point of view of the bee,
+it's going to look this way. If you're going to assess it from the point of view of the orchid,
+it's going to look this way. If you're going to assess it from the point of view of the human,
+it's going to look this way. And those are just assessments. We forget that. Those are just
+measurements, right? The process itself, the ecological, the ecological is never stop. It's
+ongoing and it's all of it. And it's all mutually kind of co-determining, depending on where you
+want to look, all the potentials and what is to come. It's like the real thing unfolds in real
+time and you cannot press pause. And this is like, you run the film of evolution. And if you press
+pause by definition, you are going to miss 99% of what's going on. You're just taking snapshots.
+It's like what you were saying with the videos, right? It's wonderful to watch the video of the
+plant. But as you point out in the book, just because we've built that on our human kind of
+cognition, you miss a lot. You have to actually... Definitely. So the fact this happens in science,
+the fact that there are cognitive and subjective biases, some people think that they have this
+romantic idealized version of science and they think, no, no, science can be truly objective.
+And nobody believes that nowadays, right? We are aware of our subjective biases,
+where our cognitive biases, our confirmation biases. I mean, science is done by humans
+with their hormones, with everything we are. So science is just the product of human activity,
+like any other product, any other thing we do, right? So with its virtues and its miseries,
+so this means that it's not about finding the way to do away with those biases. It's about
+being aware and making them explicit. So I can take a snapshot and study the pollinator.
+I just need to remind to myself that this is just a snapshot from the point of view of putting the
+focus on the pollinator. And I need just simply to remind to myself, this is just a slide.
+I'm slicing reality. I'm cutting across and just getting a few dimensions. And then you need to
+remember, remind yourself that this belongs to an n-dimensional hypercube. And you're slicing.
+In the book, you bring up the famous Nagel article or essay or piece, what does it like to
+be about? And in a way, this is kind of what we're talking about too. And it relates to,
+in one way, why technology is good, because there's no objective in the sense of the opposite of
+subjective that there's some kind of, but there are inner subjective scientific practices that
+are robust and that we do make these assessments and we do try to get somewhere. And in a way,
+with our telescopes, our microscopes and you recording the plants, it's all a way for us to
+at least get a little bit better idea of how to become a plan or become, it's not that we ever
+will totally, but we are in a way in this slowing down and rethinking and know thyself,
+we're trying to see from different perspectives or invent ways, even books or music or movies
+are doing that in a sense, but science is doing it in a very rigorous sense.
+Yeah, no, definitely. Look, I mean, recently I was reading Ed Young's An Immense World.
+The best seller. I mean, many people watching this.
+About the animals and all their different sensory capabilities.
+Yeah, it's an amazing book. And if you, I mean, this is a good start. I mean, just a suggestion
+for listeners, for watchers, right? They are watching this. If you take an immense world,
+Ed Young's book and plant sapiens and literally apply Ed Young's recipe moving out of the animal
+kingdom, it explodes exponentially. So the mental gymnastics you need to do to understand
+what Ed Young's is asking you to do, like to put yourself in the shoes of what is it like to be a
+bat? What does he like to be an elephant? What does he like to be a snake? What does he like to be?
+And then to understand, hey, your sensory channels are not the ones that clear cut,
+that we have our five senses, blah, blah, blah. Things are way more complicated. Some animals,
+you wouldn't believe they would have the snake with their tongue, with having a stereo sense of
+smell. And then you get to see all the details of different animals doing their own things and in
+ways that you would never imagine. And the way you were saying, yeah, we can use all this,
+we can make an effort and a leap of imagination, scientifically informed,
+to put yourself in the shoes of all these life forms, right? So Ed Young, he even mentions
+what is it like to be a bat niggles later in the preface.
+It's a wonderful question.
+Yeah, yeah, absolutely. And in plant sapiens, this is the title of one chapter. What is it
+like to be a bat? What I really love that you present, though, is because people kind of stop
+sometimes with asking the question and sometimes it's assumed, well, we'll never know what it's
+like to be a bat. But two very interesting things. First, that you studied with Paul
+Churchill and that's very interesting. How in the world did that happen? I was kind of shocked
+by his take on it and how, I mean, just having read his other philosophy, but maybe if you feel
+like it, you could say a little bit about this moment of Paul Churchill and how you ended up
+there and this Fahrenheit Celsius thing that he... Yeah, definitely, definitely. So to me,
+I mean, Paul Churchill, both Paul and Pat Churchill, I mean, at the time that was in the
+late 90s. And so I was on a Fulbright scholarship. And so it took a year to write up my thesis
+at San Diego UCSD. So I was doing my PhD in Glasgow. So that was this year to write it out.
+Okay, because you were also with Andy Clark around this time. So yeah, there was a lot of
+kind of wonderful geography. Yeah, there was a lot of going on stuff and I was lucky enough to
+be able to be there. So in the case of San Diego, it was in the 90s. It was like the time was the
+mecca of artificial neural networks and stuff. And Pat and Paul Churchill were making all the
+progress in neural computational perspective in philosophy and all this stuff. But I do recall
+this master course Paul was teaching at the moment and I attended. This idea of truly making the
+effort as he was recounting the story of how he moving from Canada, he was changing from Fahrenheit
+to Celsius or the other way around. And having to make all this effort to change
+metrics and how you end up interiorizing it. So it becomes your new native language
+as you become fluent into thinking Celsius or thinking Fahrenheit.
+If you think through those assumptions in a way, you don't have to think about it.
+Yeah, that's it. That's it. You filter the way through the pair of glasses you wear and then
+you see the world through. But the ones you carry with you from birth, they're like your mother
+language and your mother metrics. Those are so rooted that you forget that once upon a time,
+you had to learn those. It's as if they came with you from birth. And no, of course they don't,
+right? That means that if we are patient and stubborn enough, which Paul was, you can say,
+hey, I'm going to make the extra, extra, extra effort to learn a new language as if it was my
+new native language, my new mother tongue, right? And you're going to stretch this not just from
+Celsius to Fahrenheit or vice versa, but to any other system of coordinates that you can translate
+into moving from one space to another, right? And then you can go get to more bizarre places,
+not just temperature units, but moving kinetic energy. So you can start thinking in native
+speaker in Jules if you are talking about energy or whatever. Yeah, yeah, yeah. He kind of goes
+down to if you start to try to think like the electron or something. Yeah, yeah. So now Paul
+Churchland, he's a very original thinker. And I found a lot of food for thought in brainstorming
+and having the, you know, at the time to be, I was in my twenties to me was like,
+amazing that you were around those minds. To get his, to pick his brains and all that stuff, right?
+But with that being said, there is a twist and it's what I think they didn't go far enough.
+And the Churchlands, they were doing something great at the time, which was questioning this
+language like or this for Dorian frame of mind, right? And the philosophy of psychology and the
+philosophy of science, like science and psychology doesn't have to do with, you know, reasoning and
+logic following rules and linguistic formatting. And they were exploiting this vectorial space,
+right? Like the vectorial space of the weight matrix of a neural network, an artificial neural
+network. If you have a matrix with all the values of all the synapses, the connections, the strengths,
+right? Then they were using artificial neural networks as their way of modeling the human mind
+and the mind of a scientist. That's why he was able to apply those insights from connectionism,
+from neural network theory to the philosophy of mind and to the philosophy of science.
+So that was at the time to me revolutionary, but afterwards I realized that there was something
+missing here and is that they were just changing one format for another. So they were moving from
+a linguistic format to a vectorial format. So when people think that their views were very
+radical, they were not that radical. They were changing one representational language for another,
+still representational language. So they were still into representationalism and computationalism.
+They were simply saying, hey, computations and representations are neither linguistic or
+pictorial or based on good old fashioned AI. We have vectorial vectors and we have the space
+provided by the way we are approximating a function in a neural network. But it was still
+computational. It was neuro computational. Yeah, that's a good way to explain it. I think
+it's the eliminativist kind of side. In a weird way, you could almost look at it if you wanted
+to open it up in the way that you could think of that as ecological as smushing it together,
+but then you need the ecological. That would be another talk. But what I like about what you do
+in the book and what you just said there, the way you laid it out with the vectors is actually,
+I can see how you and your young 20s had a kind of revelation because in a way they're saying what
+we've been saying. They're showing that there's multiple paths to a similar goal and that you can
+actually assess them with science and maths and kind of even think of them computationally,
+which is very helpful if we understand that it's just one assessment in the way we were
+talking about. That's right. That's right. Yeah. So it's wonderful in the book that you present it
+like that because then I started thinking, gosh, even talking about how do we start to understand
+thinking through the experience of a plant or animal or insect. We already do it when we learn
+a new language, for example, or this Fahrenheit Celsius kind of opened up to me thinking, well,
+we actually can think through different kinds of experiences. It's what we do when we read a good
+book. And so I guess it's wonderful that you made that connection and to go a little bit farther now
+as we end and to come to this love. And you do talk about plants and emotions. And for those who
+have violent reactions to plant cognition, plant emotion is even more, I guess. Absolutely. Yeah,
+definitely. Definitely. Yeah. I mean, you have the intelligence. It's a hard pill to swallow.
+Then you have sentence. How do you mean? I mean, having their own subjective experiences.
+You know, even when I say legumes go to bed. Yeah. Plants can sleep and wake. That is proven,
+actually. Yeah. Yeah. You can anesthetize plants. This is incredible. Yeah. Yeah. So, but think
+about it. I mean, the same way we spoke of the circadian clocks and what unites as only tree of
+life. This is a way, way to end, I think, because here is one master key. Think of melatonin,
+right? So melatonin, we know it's being secreted by the pineal gland. We know what it does in
+mammal. And you know what happened in the nineties when it was first seen, observed in plants,
+95, 1995. So three, four decades after it was identified in mammals. Scientists, plant
+physiologists, they couldn't see it. Yeah. It couldn't possibly be true, even though it was
+exactly the same thing. The same molecule. The same molecule. They couldn't see it because
+the frame of mind, this is a great example of the theory of observation. Yeah. So plants are not
+supposed to have it. Thereby, what I'm seeing is not melatonin. Can't possibly be that. You don't.
+But what's funny, beyond the sociology of science and how long it took for, it took like eight,
+10 more years for the society of plant physiology to acknowledge it and give it a name. They added
+the prefix phyto, no? So that it seems like it's something different, but it's the same thing,
+right? The same thing. It's exactly the same thing. The same thing. But phyto, the prefix,
+yes, because our melatonin is the good stuff. Theirs is phyto melatonin, right? But that's not,
+the more interesting part of it is that when you see legumes folding their leaves at night,
+so the legumes, they go like this. They fold their leaves on the sunsets and then they
+unfolding in the morning prior to the sun setting. So it's anticipatory folding. So it's circadian
+based. So they fold them prior to the sun setting. They unfold them prior to the sun rising in the
+morning, right? And that's an amazing pattern. But what we don't see is that they are actually
+the temporal, the dynamical profile of the concentration. It peaks with sunset and then
+it has a second peak in the middle of the night and make the worse off during the day. So the
+very same thing as in mammals. Yeah, it's this nervous system kind of. Yeah. So you can go to
+the kitchen cabinet and pick a melatonin synthetic tablet and take a pill to ease yourself to sleep
+one night because you're stressed wherever you've been on your phone for too long. So we know that
+melatonin puts us back in sync, right? And then when you see plants with the same dynamical profile,
+the same concentration levels, the same wearing off during the day
+and the leaves folding and unfolding, we resist the idea of them
+going to bed sleeping. And we know Paco's got to be speaking metaphorically.
+How do you mean metaphorically? This is the same idea of action potentials. You don't need neurons
+to fire action potentials. Plant cells fire action potentials. Doesn't need to be neuronal tissue,
+right? So what unites us all is already there. So sentience, love, right? So when you spoke of
+sentience of subjective experiences, of course, the mistake is to anthropomorphize plants and
+think, hey, if they experience the world, they've got to somehow experience it the way I do. I mean,
+for God's sake, stop, get rid of the gold standard and yourself. Imagine we don't inhabit planet
+Earth. So this is a good mental exercise. Imagine we travel back in time before humans or animals
+existed, mammals, and you see plants. Imagine you are just a Martian scientist landing on this Earth
+a few million years ago. You cannot use homo sapiens as the gold standard because we haven't
+evolved yet. So how would you study what that plant folding its leaves is doing and the
+melatonin? And so how would you study that without using yourself for the sake of comparing,
+for comparison purposes? That's the challenge, intellectually speaking. Wouldn't you arrive to
+the conclusion that they are taking a nap, that they are taking a break, that life needs to rest?
+Any form of life whatsoever needs to rest. And it's back to the regularities and what we
+sort of started with the robot and what we can learn from plants. And if we can get out of that
+human stance, I think it's also about this whole trying to think from different perspectives.
+If we can get out of that human stance and do that thought experiment like you just explained, then
+it actually opens up a lot. It tells us a lot about what intelligence is, what cognition could be,
+because this plan and the space that you just described, it's going through its encounter.
+That's its movement, I would say. It's moving from A to B without leaving A, but it's movement.
+And so it's developing something like melatonin to do that. And this is an intelligent system, but
+it doesn't look anything like humans, but then the patterns can be connected. So you open up this
+nested connection. But what I think is even more important about that and what you say in your
+book is actually then you have to give up on anthropomorphizing the plant.
+Yeah, absolutely. Absolutely. Yeah, yeah, yeah. That's the mistake. I think they are
+targeting the wrong... The type of straw man they are fighting against is not the position.
+I mean, I usually say sort of in jest, I say, hey, if I was like in your food,
+if I was in your shoes thinking that I'm thinking like this, like plants, like human-like,
+of course I would go nuts as you do. But look, that's not what I'm defending. Get rid of
+that comparison by default. It is you, the one who is anthropomorphizing them, and that's why
+you are going nuts. I would go nuts as well. Just get rid of that. That's not part of my picture.
+That's not projecting you yourself, not me. And I think that that's the hard work you're
+doing is trying to get people to slow down and realize that you're not saying what they've
+assumed that you're saying. Because that's the hard work of... And at some point it'll become
+obvious, right? But people will start to think they won't react in that violent way when they
+hear it in the same way that some people would have reacted the same way with animal intelligence
+at some point. But now because we've connected to movement, the Dalai Lama can assume that.
+But it just takes time and it takes people kind of putting themselves out there and being
+criticized. And again, education. That's why... And education in the way that you describe at
+the end of the book. The new generation. I mean, this is not about these guys that they might
+retire and never get it. It's the new generations, the people who are now in primary
+school and secondary school, those are the ones that need to understand it in this other way.
+Yeah. And if they do, it opens up a better, and I would think better, but we don't have to say
+better, but another way of being as the world, which we really need right now.
+A little bit more humility. Yeah, humility and understanding
+self ecologically. Absolutely. Absolutely. Just to kind of end though, I think one thing
+that is hard for people who do... So there's the people who react violently against the
+anthropomorphizing, but then there's also a lot of people who want that. And that's part of the
+reaction of why some people in science are so violent against it, because some people want to
+believe that plants are speaking to them in a kind of way. And of course, everything is speaking to
+everything. But I think what they don't want to give up about that is that there's something
+quite awe-inspiring and wonderful when you do start to communicate with plants. And it's hard
+to talk about that. And so it becomes like a cartoon version of it. What I say in the book,
+remember, they say at some point that the magic is already within the science.
+Absolutely. That's what I wanted. I wanted to bring that up because you bring that up in the
+book. And that's a very important point. We're not giving up anything. It's becoming more wondrous.
+It's just... Absolutely. So science, if it's not reductionist or mechanistic,
+already has the resources to feel the awe, the wonder. And this kind of space of
+also understanding that you're looking at yourself in a way when you're looking at the plant,
+or the plant's looking at itself through you or something, it becomes less mystical because
+it's kind of what we do with science. You brought up Patricia Churchland and that made
+me think of dopamine. And we didn't have time to talk about it, but plants also have dopamine
+and GABA and these kinds of these things. Many, many, many neurotransmitters. Emotion.
+Yeah. Well, think about it. No, it's funny, actually. I'm glad you brought this before we end
+because some of our critics have said, look, glutamate or GABA
+that we know plants have it, it's not a neurotransmitter. It's just a metabolic
+byproduct, secondary metabolite. Why? And you know what their answer is? Because
+this is in print. So this has been published. I mean, this is what they said. They said,
+this cannot be a neurotransmitter in plants because the Wikipedia, they went to the Wikipedia says
+that neurotransmitters relate to the idea of a synapse. So if there is not a synaptic bridge,
+a synapse in between neurons, you cannot have a neurotransmitter. So think about it.
+Instead, this is a very important, this is a very good point about education. So in plants,
+you have examples where glutamate triggers a calcium wave that spreads all over a plant
+and triggers a systemic response to herbivores. Right. So it's a signaling, it is playing a
+signaling role, systemic signaling. Right. So what a better example of glutamate as playing the role
+of a neurotransmitter than this signaling role. Right. So they stick to the definition on grounds
+that have to do with looking it up the dictionary or at the Wikipedia. And instead of saying, hey,
+in light of the evidence of this systemic signaling responses in plants that we find related
+to glutamate or GABA, oh, let's revise our definition of neurotransmitter. In plants,
+it does need to relate to the synapse because of course, implants are no synapses. So instead of
+saying, hey, we need to enlarge the picture and redefine what we mean by neurotransmitter to make
+it more encompassing, to bring in all these non-neural guys, which still exhibit systemic
+signaling responses. So instead of saying that, they ignore that evidence and say, no, no, they
+cannot possibly have it. It's just a metabolite. And we know GABA is not just a metabolite.
+The literature is there, but they want to turn a blind eye on grounds that try to stick to our
+privileged status of animals. No, no, this is an animal thing, like with melatonin. No synapse,
+no neurotransmission. End of the story. Instead of thinking, wow, I mean, this is systemic signaling,
+oh, let's enlarge the picture. Let's redefine those terms because the history of science
+is the history of revising. You cannot do science without revising. We would be stuck with Ptolemaeo
+thinking that everything revolves around the earth if we were not revising.
+Yeah, absolutely. You unpack it really well in the book. And a lot of it seems to me to be
+getting stuck on, again, that you need to have a brain and the intelligence is kind of this one
+thing and the linear stuff, rather than understanding it could come in many different ways and how
+fascinating it is that not only are their patterns shared, but there are even chemicals that are
+exactly the same chemical, right? To me, once you open up this and let it be a scaled kind of
+intelligence where it's not just like a plant needs to have a brain or there's some chain
+of going to the brain or whatever, it's very hard, but you're doing it in your book opening
+the space. But then it becomes, actually, I could see those people who are criticizing it could
+actually improve their own research in a way, in the same way that robotics can be improved
+by plant intelligence. It gives you another way of thinking about it.
+Yeah, definitely, definitely. So this is not against anyone. This is against ignorance.
+Yeah, or just like opening up the space, right? And the way that you talk about in the education
+part, which is learning a new way of thinking, I think, in the same way that you're presenting
+at the beginning. And we need adversarial collaboration. So it's good to have the skeptics
+on board. But we against them or them against us, this is all of us teaming up together against
+ignorance. That's what propels science revising without apology. You don't need to apologize for
+noticing or discovering or unearthing that things were not the way we thought.
+Sorry, the earth is not at the center of anywhere. I mean, we are just, you know, modesty, humility.
+Exactly. And this is a very hard question, but I did find myself thinking about it because this
+is called love and philosophy. And so it's interesting the way we can think about,
+you do talk about emotions and plants in a way, and in a very non dramatic, easy to access
+understanding of it in the book, I'll just leave it to people. But it kind of became, I don't know
+how to think about love and plants. It's hard. Is it like, I mean, I could think of it in a very
+mystical way of just the plan and the sunlight are in love with each other. And that's that
+process in a way, or I could think of it as my love the way that it the way that I in relation
+with the plant or the, you know, it's relational somehow. But I don't know, does it? What do you
+think? Can this word even be brought up or? I wouldn't have any problem with that. Again,
+if we if we unpack it in a way that is not, you know, doing a disservice,
+as in when we say plants go to bed, sleep tight, they are not, of course, you know,
+you don't go. No, they're not taking each other into little beds. But if you put in terms of
+energy flows, the idea of, you know, good vibe, you know, being in good terms with your surroundings,
+and, you know, in terms of kind of symbiosis or something, and energy, and, you know,
+if you think of all the sensory channels in plants, and the parameter space that the stuff
+they are able to sense and respond to, you know, electromagnetic fields, king, non-king,
+parental relations. So all the things they go through in their meaning making,
+of course, part of the story has got to do with a good vibe, good, hey, this is good news to me,
+I feel comfy, I feel bad, I feel good about it. So this is, oh, this is good. This is good. I mean,
+that's something that shouldn't be at odds, because it boils down to biochemistry.
+And in the same way that you are identifying these hormones on these neurotransmitters. So
+love speaks the language of molecules. What's wrong with that? Again, you don't miss anything
+by speaking that language. You reveal the magic in the science itself. Chemically speaking,
+plants speak an amazing language of chemicals, you know, volatiles, you know, compounds,
+airborne compounds, bringing news, sharing news. I mean, they need each other, they need other plants,
+king and non-king, other organisms belonging to different kingdoms. How come they are not gonna,
+you know, we cannot trade in? So as long as we don't personify it in human terms,
+why not? I mean, it's part of what makes the world go round, right?
+Yeah, yeah. And I think that in the same way you were talking about, when we think about the
+synopsis and all of this, like, we really have to put it in a kind of lineage always, that if we're
+talking about this kind of human cognition, then yes, we're thinking about brains and synopsis, or
+if we're talking about plants, it's a different lineage. And you have to look at the whole thing
+and then not smush them together. And why wouldn't that also be true for something like thinking about
+what love might be? Absolutely, absolutely. So I think that things are easier if we remove ourselves
+from the picture. Then things get way easier, like, you know. Yeah. But to put you right back
+in the picture for the last question, the very last question is, you've been putting a lot of
+your life into this. People criticize it. People also love it. But well, there's a lot of criticism,
+but there's also a lot of success. Yeah. But I do wonder, has it brought some kind of love into
+your life? I mean, do you ever have that kind of a feeling when you are in your garden or with your
+work? Well, definitely, definitely. Look, for one thing, it's true, this Darwinian idea of slowing
+down. I mean, when I started, look, right here, this attic, let's see if you can see this right
+there. That looks like nice wood. Takes me to the attic. Well, that's where I started time-lapsing
+vines prior to starting setting up the lab on campus, right? So that was when I started as
+a sort of amateur playing Darwin, so to speak. Literally, actually. Continuing Darwin. Well,
+I brought all my Darwin to the attic. It's still there, all Darwin, all botany books. And I was
+playing there for the sake of it, for the sake of, you know, joy, having fun, literally.
+And I did that, this exercise of stop time-lapsing and watch them to the naked eye.
+And you can't imagine how rewarding that was. Because I would sit on stool for a few hours,
+some people are going to think I'm crazy, but they are faster than you can think of. I mean,
+when we say they are so slow, well, in a sense they are, but they are way faster than
+we think. So if you take a climbing beam, Faseolus vulgaris, and you sit and watch it revolve,
+it goes, you know, a whole circle, whole revolution in less than an hour, 50 minutes,
+an hour. I mean, people watch a film for two hours. And if they like the film, time flies.
+Well, time flew for me watching the climbing beam. And really, every time I think about it,
+I feel that, you know, I felt something that I knew I wasn't getting from the time-lapse
+observations. I knew that the animation, the acceleration through time-lapse,
+assembling the footage, was in a sense an artifact. And I knew that to the naked eye,
+I was getting the real thing. That took me in my own garden. I live in the outskirts in the
+house with an orchard, so I have my orange trees or my lemon, olive trees, or like Mediterranean
+orchard. And now I have these weeds, the ones that you would pluck and pluck and pluck.
+Now I let them do their job. And I have actually even assembled some time-lapse
+in my orchard, and I time-lapse them. So I've been time-lapsing my weeds. Now I have this weed
+that has grown huge and is, you know, doing its mess on the olive tree. And I'm getting this
+perspective of 20, because I have been living here for the last 24 years. So 24 years is a decent
+amount of time to give you some perspective in terms of how the orchard has been growing and
+which trees have been, you know, having to compete for space with others who has been doing what.
+So for example, my cacti, Mediterranean weather. So cacti are a big thing. I love cacti.
+So at the beginning, you know, when you get started, you want to push them to give them a little
+little help, extra help, right, to your plants, you know, when you're gardening. Oh, you know,
+like, and then I realized, you know, I planted like, you know, like, like 80 different cacti,
+right, 80 different species, 20, 20 plus years ago. And I didn't do anything to them.
+Nothing. So summer came, forties, four weeks, months, hell. I couldn't water them.
+I wouldn't do anything to them. Most of them died.
+But those that survived, you wouldn't believe it, the size they have. I have, some of them are
+taller than the olive trees. I have never done anything to them. So we are obsessed with,
+when we think of caring about our plants, we can help to anthropomorphize our care and think that
+the pruning, we have to prune them, we have to add nutrients, we have to water them, we have to
+provide, you know, and, and we don't realize that we are not that special. And that to me was a
+message of plant sapiens to realize that we are not that special. We need them, but they don't need
+us. In fact, they do way better when we don't care about them. So when you look at my plants
+in my orchard, the ones that are doing great are the ones that were meant to do great,
+because they don't need to be spoiled by me.
+And I get joy getting to your question. I get joy out of realizing how unnecessary I am to them.
+We are not that important.
+That's very beautiful. It actually opens up your book in a new way to slowing down and
+almost plant bathing or plant being, just being with them and not trying to be
+important to them. It's a whole other kind of practice.
+Fellow travelers, not masters.
+Yeah, it's a beautiful stance to try to take. And thanks for doing it. Thanks for the book.
+Thanks for talking with me and staying with us.
+No, thank you. I really enjoyed the conversation. Thank you for your interest
+and for doing this and everything.
+Yeah, it was great.

@@ -1,0 +1,577 @@
+Okay. Hi, Max. It's so nice to meet you. Thank you for being here today.
+Thanks so much for having me.
+So we're going to talk about your book, A Brief History of Intelligence, Evolution,
+AI, and Five Breakthroughs That Made Our Brains. This seemed like it was a kind of passion project,
+almost like going back to school for something different. Is that kind of the right approach?
+Because you started, or you are, working in AI. Maybe you can give me a little intro into how
+this happened. So I've spent most of my career in commercializing AI technologies. So taking
+sort of established AI tools and bringing them to industry. So my last company, BlueCore,
+we helped really large brands and e-commerce companies implement AI to help personalize
+websites, make marketing communications more personalized. There's a bunch of sort of
+segmentation tooling we built. And so the first interaction I had with the quandary about
+neuroscience and its relationship to AI was when trying to bring these AI systems to real world
+use cases and seeing the many sort of perplexing places that they keep falling short. And all of,
+you know, this occurred before the big craze of large language models, which obviously adds a lot
+more intrigue to that whole question. But I started this process of just trying to understand just
+for my own edification, what's the discrepancy between how the human brain works and how AI systems
+work. And that sort of just unraveled into this, you know, five year long passion projects that,
+you know, led to several published papers and collaborating with neuroscientists that became
+mentors of mine and eventually culminated in the book. But yes, it was, it started as just a side project.
+Yeah, well, it's a wonderful book. And I really respect that you actually went through this whole
+process of publishing papers on this and refining it. You can really tell in the book, it's really
+tight. You can tell you've been getting a lot of comments. And yeah, so it's a wonderful resource.
+So I'm going to start with kind of the annoying questions first, more just kind of provocative. But
+I wonder if you see intelligence as beginning with brains, because, you know, we're focused on the
+brain here. And the first breakthrough is steering, which is where we're going to start. But I just wonder
+at first, like, are we talking about intelligence beginning with brains? And of course, you know,
+what a brain is, is a very blurry concept. Even in the book, we're not talking about human brains,
+of course. So I just want to throw that out there at first.
+No, it's a great question. I think undeniably, intelligence has existed way before brains.
+You know, you can see by any definition of intelligence, whether it's, you know, solving problems
+to achieve a goal or learning from experience. Both of those features of an entity's behavior
+eminently apply to a single cell. Cells have ways in which they learn from experience and cells
+surely show the ability to react to their environment to solve problems. So it's by no
+means the case that intelligence began with brains. But obviously, there is a unique interest
+we take with the intelligence instantiated in brains, because it seems to be that the most
+sophisticated or at least, you know, almost tautologically human-like, obviously, the human-like
+intelligences that we're interested in recreating are instantiated in brains. So it is an exploration
+in the history of intelligence as implemented in brains. But the first chapter does go into sort of
+the history of intelligence prior to brains. Because some of the key ways in which life itself works
+does set the stage for the evolutionary pressures that drove the evolution of the first brain and
+why the first brain emerged and what that brain did. But it's absolutely the case that brains are
+not the only way in which you can implement intelligence. Yeah. And you do a wonderful way
+of letting the brain emerge from that. I was also just kind of wondering in terms of your interest
+in AI, if it sort of starts with studying the brain, it's kind of interesting to think
+of artificial intelligence, not only connected to the brain.
+Yeah. There's a big schism that has existed between sort of naturalists and the technologists
+at multiple times throughout the history of innovation, which hinges on this question,
+how much of innovation should or has been inspired by nature? And of course, in all of these types of
+debates, the right answer is in the middle. Both sides are right. So on one hand, there's people that think,
+you know, the right way to build really successful technologies in many cases is to learn from
+nature. So, you know, we knew that flight was possible because we looked at birds and the
+structure of a bird wings gives us lots of insights about how flight works. But the counter by sort of
+the anti-naturalists would say, sure, but planes don't fly by flapping their wings. So clearly,
+we didn't directly copy nature when we build planes. And so, of course, the answer is a middle
+ground, which is nature can give us existence proofs of certain abilities and nature can give
+us waypoints for the fundamental features that we might want to use. But that doesn't mean our mission
+should be to wholesale copy what nature has created. And I think that also applies to neuroscience,
+which is, it's not to say that our goal is to recapitulate a human brain, you know, atom for
+atom. But it is to say that I think there are insights left still uncovered in how brains work
+that AI can still learn from. And that is an open debate. There are people that would argue against
+that. But I believe that there's still lots to learn from neuroscience.
+Yeah, maybe we can move into that a little bit in a different way. But so the first breakthrough
+is steering, which I just love so much that you start there. And it's sort of, I'm not sure if
+you'd agree with me, but seems to orient through the remaining breakthroughs. Could maybe talk about
+that a bit. But so we have movement and navigation. And then it's this introduction of steering that we
+start to talk about intelligence in a certain way. So would you like to kind of give a little
+summary of that, but I want to move into the AI too. And I want to talk about the symbolic AI
+versus the behavioral AI sort of schism. Yeah. So the animals before our ancestors that had brains.
+So there were animals that existed prior to the first animals with brains. And they were probably,
+we don't know for sure, but probably most akin to today's sort of sea anemones and coral,
+which are these radially symmetric jellyfish-like creatures that don't have brains, but they have
+a nerve net. So they have sort of a web of distributed reflexes. And a key feature of most of
+that grouping of animals called cnidarians is that they don't really find food by navigating towards
+food. There are a few exceptions that probably independently evolve. But if we use model organisms
+for probably our ancestors back then, it seems likely to be the case that they didn't navigate
+towards food or navigate away from danger. Their strategy was sitting in place and filter feeding.
+So waiting for food particles to pass through them, and they would sort of grasp the food.
+And when we go from that ancestor around 650 million years ago to the ancestor that had the first
+brain, we don't only see the emergence of the first brain, but the emergence with a whole variety of
+body changes that seem very well aligned with movement. So the very first bilaterians, as they're
+called, because they don't have radial symmetry around a central axis, but bilateral symmetry across
+a central plane, like humans do, all mammals do, all vertebrates do, or most do. The simple version
+of bilaterians, which are a model organism of the first bilaterians are like nematodes, small worms,
+like flatworms, et cetera. And these creatures have a centralized cluster of neurons in their head.
+And what these animals notably do relative to their radially symmetric cousins is that they're
+constantly moving around. And what's perplexing about these creatures is although they're moving
+around and they successfully get to food and avoid dangerous areas, their sensory organs are woefully
+simple. I mean, if you look at a nematode, they have no eyes. They can't render an image of the
+external world. They have a handful of sensory neurons around its head that just activate in the
+presence of certain things. So one neuron for detecting salt, another for detecting food smell,
+other types of food smells, et cetera. But if you look at the algorithm of how it finds food,
+it's actually a really simple one, something called taxis navigation, where it takes advantage
+of a simple property of the way that smells diffuse in water, which is if you have a food source in one
+location, chemicals will plume from that food source such that the closer you get to the food source,
+the higher the concentration of these chemicals. And so what evolution stumbled upon is you don't
+actually need to see anything in the world to find food. You can just have a very basic algorithm of
+keep going forward if the concentration of food smells are increasing and turn randomly if the
+concentration of food smells decrease. And by implementing that algorithm, you can get to food. And so if we look
+at simple bilaterians like nematodes, their whole brain by and large seems to be effectively
+implementing this taxis navigation algorithm. And the key feature of that is that it categorizes
+things in the world into good and bad. So it has hardwired neurons for detecting a good thing,
+which triggers forward movement and hardwired neurons for detecting quote unquote bad things,
+which triggers turning. And one reason why it's so interesting that we started so simple is because
+evolution imposes this key constraint, which is you cannot redesign things from scratch. So the
+reason why the whole motivation for taking an evolutionary approach to understanding the brain
+is that because evolution is constrained, understanding the prior structure of things
+gives us information about the subsequent structures because it has to build on itself.
+It reminds me of the plane. You mentioned the plane or planes earlier. And I think, yeah.
+Yeah. You tell this great antidote, I'm not sure what you would call it in the book about what if
+people from the 1890s came to the 1990s thinking about the plane.
+So Rodney Brooks had this great quote, which I have in the book.
+And he's Rodney Brooks, MIT. He's a big, and the founder of iRobot. He's a big proponent of,
+you know, behavioral AI, which is, you know, really trying to start from very simple structures and
+build our way up. And so he has this quote, I'm going to botch the exact wording of it. But the idea
+is if you took someone from the 1800s and you wanted them to understand how to create artificial flight
+and you put them in a time machine and let them play with a plane for an hour, would they actually
+come back identifying the correct features of the plane to recapitulate? And so he argued that they
+almost certainly would not. So they would be like, oh, look at these seats and the plastics.
+That's what we need to invent for flight, not realizing that fundamentally all they needed was a certain
+structure and surface area of a wing. And so I think one could argue with how true our inability
+to decipher the key features of a plane. But the essential point he's making is if you start by
+looking at something really complicated, like the human brain, you're at high risk of misinterpreting
+features of that complexity that emerged versus if you start simple and you have end-to-end systems
+that function like a paper kite or plane, and then you start adding to it over time,
+eventually it makes it easier for one to understand the complex thing at the end of that journey. And
+that's sort of one key motivation for why I think these evolutionary stories that I tell in the brain
+can be really insightful for understanding the human brain. Yeah. It feels very close to the approach
+of your book in a way of taking that approach. It feels like a good kind of illustration of that.
+And also we were talking about steering. So as I understand it, you know, like let's think about that in
+terms of AI. So this is going back to the beginning of what we can think of as intelligence. And it's a
+beautiful story you tell in the book and the way you lay it out and that we can almost think of, that we can
+think of steering as valence or almost zero ones or something. It's really building a kind of algorithm for
+how to survive in a way through this steering and movement. And then when we think about AI,
+you talk about the Jetsons, which is interesting. There's this kind of way in which you're framing
+or humans have thought of AI as wanting to create something that will be like us or take care of us.
+So if you start with trying to create the brain, that would be like trying to create the jet plane in
+a way. But instead, someone like Rodney Brooks decided to start more with where you started,
+with like the steering. So maybe you could tell that story of how that kind of turned out
+in terms of his, well, the first commercially viable robot, I guess.
+Yeah. So Rodney Brooks was the inventor of the Roomba. And that was the real first successfully
+successful robot that we see in our homes. And what is analogous between the Roomba and the very
+first bilaterians is its algorithm for moving around the world. So while other sort of roboticists
+and still today, we're working on these humanoid-like robots that have fine motor skills and can walk
+around and have maps of our homes. And eventually we'll build that. Rodney Brooks decided to start
+with something the same way that evolution did, which is what if we create a robot with almost no
+sensory organs whatsoever. And so it doesn't create a rich map of the world. But if we implement a
+really basic algorithm, which is pretty much exactly what Texas is, it just moves around randomly until
+it hits a wall and keeps moving around. We can actually achieve the goal we want, which is it will
+eventually get to all parts of the floor and clean things up. And so by simplifying the problem the same
+way evolution did, you know, he found something that works quite well. Of course, he found an application of
+it, which is vacuum cleaning, where you can have that type of simplicity. If we want robots to wash
+our dishes, you know, it's insufficient. We need, we need more complex things. But, but yeah, I think
+there's like the first step towards Rosie, I think Rosie the Jetsons robot, which I think if anyone knows
+who that remembers that or has seen the Jetsons. Exactly. Yeah. So it's the first, I think there's
+something satisfying about the fact that the sort of first commercially successful robot step in that
+direction had a lot of common features with the very first step in the evolution of the human
+brain. Did you have a Roomba by chance? I actually don't have a Roomba, but I have lots of friends
+with Roombas. Yeah. I've seen them. Just kind of a side note, but this idea of the robot or the AI,
+a lot of the examples I've seen have to do with taking care of humans or something like that. Do you
+think, I mean, you say this is the first step toward Rosie, but is that what you meant in a way?
+Those are the kind of robots or AI that we haven't built yet. So I just, I just wanted to see what
+you thought about that. If that's the kind of AI you would like to see a Rosie or a doctor or a
+caretaker for the elderly or something like that. Yeah. I think there's, there are certain
+applications of, so AI is an interesting technology because unlike a lot of technologies, it's not
+clearly universally good. So, you know, if someone invented a cure for cancer, I think most would
+agree that's universally a good thing. It might create secondary effects like overpopulation,
+et cetera, et cetera. But the proximate effect of that technology, everyone can universally say is
+good. Um, you know, if we invented fusion, cold fusion, you know, that might have secondary effects.
+We, we don't like, but the proximate effect seems clearly good, which is we now have more access to
+energy. We can democratize that, et cetera. AI is more akin to technologies like, you know,
+nuclear energy, where it can also be applied in dangerous ways, but it can also give us access to,
+you know, cleaner energy, depending on your proclivities on that. So I like grounding the
+discussion AI, not only in the scary things it can do, which I think is worth a discussion, but also
+what are the most like amazing things that an AI system could do that adhere to human values?
+And I think there's a few that stand out. One education is an example where, um, I think there
+can be some really magical applications for people having, you know, tutors that they can always ask
+questions to that help them go at their own pace and their own learning style. I mean, there's so many
+students that get left behind because we can't, in a, even a classroom of 20 people, you can't teach
+the same way to everyone. Everyone has different learning styles. So, um, either where, you know,
+we have to choose a style and then the people that don't have that style get, you know, a worse
+experience. So having this one-on-one coaching that people have a trusted advisor that they don't feel
+embarrassed to ask questions to that learns their style and teaches them over time, I think can be just
+a real amazing thing for people learning. Yeah. I find that so exciting. You know,
+the Consilience Project and, um, I don't know that. Oh, okay. Well, they've written about that,
+but actually I wanted to ask you, were you homeschooled or did you have a tutor of some
+kind or something? I've just, I was, I was not homeschooled, but I, I grew up with a working
+single mom. So I had a lot of time by myself reading books. Cause your, your mind seems to work in a,
+I mean, you definitely can deal with a whole lot of information and present it clearly. So I was just
+wondering, um, but yeah, so those are the kinds of, no homeschooling. But yeah, that that's,
+that is an example of an, uh, another good one to add is, um, medical use cases. I mean,
+you know, I think if you live in certain areas of the world, one might like, you know, New York or
+places in the Netherlands, you probably have access to really, you know, world-class healthcare,
+but in a lot of places in the world, if you wanted to get access to, you know, in the U S the best
+cancer place, or one of them is called Sloan Kettering, you know, you would have, it would
+be very difficult for you to get in front of a Sloan Kettering cancer doctor. And if you did,
+you'd get maybe 15 minutes of their time. And so the prospect of building an AI system to democratize
+access to high quality medical information and advice to, for largely free to anyone in the world
+is like, what an amazing possibility that could do for people that just don't have access to that type
+of information. So I think, and then another one would be what you were getting at originally where,
+um, you know, help around the home. I think there's some cases of this, which is more adhering
+to human laziness, like the value of a remote is so I can push buttons and not get up and change
+things on my TV. Maybe someone could have helped your mom deal with, I don't know. How many children
+did she have? Only one. Okay. Only one deal with you and all the housework and everything else as a
+single mom, maybe. Right. Exactly. Yes. Um, so those types of things could be great,
+but also helping elderly, I think is an amazing, you know, having someone that's around, I mean,
+there's a huge loneliness crisis. And I think you want to, one wants to be careful that we don't use
+robots to replace human interactions. Um, but that doesn't mean, you know, having someone around
+that is human-like to support people could do a lot of good. Um, so I think those are three areas
+where I think AI can really adhere and align to human values. So when thinking about the future
+we're trying to create and working backwards from, and I think it's useful to ground ourselves in
+use cases like that. Yeah. It just, it reminded me reading your book. It feels like we've gotten
+away from thinking of it like that in a way with all the LLMs and stuff that we'll get into in a
+minute, but okay. Just to go back. So there was steering and then we go into reinforcement,
+which I guess is, I was thinking it's more like instead of parts, we're now thinking of patterns
+in terms of intelligence. Is that a fair way to start to summarize what's happening in this
+area? So a key, so a key change that occurs between the first bilaterians and the first vertebrates,
+um, which is where you see reinforcement learning emerge is that early bilaterians detected things
+in the world with individual neurons. So they did not detect things as patterns. So for example,
+if you look at a nematode, when the way it learns to navigate towards salt is there is a individual
+neuron that's responsive to that, that triggers forward momentum in the presence of salt.
+Um, it is not that it detects a molecule in the air that activates a specific pattern of five of 300
+neurons. And it learns that this smell equals these specific five neurons of a hundred. So objects in
+the mind of a nematode is directly mapped to individual neurons in a vertebrate. You see the
+emergence of a structure called the cortex, not the neocortex, which we see in, in mammals, but
+something just called the cortex. Sorry, I have to stop you. Objects in the mind of the nematode,
+it's not even that they have a mind. It's like direct, right? It's like the, the neuron is,
+there's no sort of cognitive map, spatial map kind of thing going on. Correct. Yeah. So if one,
+yes, yes. So if one thinks about a mind as this type of cognitive map, then yes, then a nematode would
+have no cognition level. It would, it's just a direct mapping between a stimulus and a reflexive forward
+or turning response. Yeah. I would still think of it as cognition, but just, yeah, it's not,
+it's not working with looking at its own patterns, so to speak, but go ahead. Totally. So, um, in a
+vertebrate, you see the structure called the cortex, which can learn about objects as patterns of neural
+activations. So what that means is, and we do this all the time with visual objects. So I recognize a
+letter, not because it activates a single neuron that maps to the letter A, but because my vortex
+is deciphering a pattern of activations in my retina as being the object A. And so that ability
+of pattern recognition we see in fish and reptiles. Um, and so we're very confident in early vertebrates,
+that type of ability existed. Um, so I do think there, as you said, there's a really interesting sort
+of dividing line between recognizing things through single neurons, um, and then recognizing things
+as patterns. And there's this huge dimensionality expansion. If you can recognize things within a
+pattern of neurons, um, just as a, to sort of quantify that a little bit, if you have 20 different
+individual neurons in a nematode, it's only capable of recognizing 20 different things.
+I'm slightly oversimplifying because what actually happened in evolution, which is interesting,
+is these neurons in nematodes over 600 million years of additional evolution just became multimodal
+neurons. So there is not one neuron that activates for salts. The salt neuron actually has all of these
+crazy new types of protein receptors. So it just, so it just activates for lots of other good things.
+So one neuron doesn't mean one thing. The way evolution empowered nematodes to recognize different
+stuff is their, their neurons became really multipurpose, but in vertebrates, we have, we don't have
+that. We have neurons in our eyes, neurons in our ears, neurons in our nose that are special purposed
+for detecting certain kinds of things. And then deep in our brain, we decipher the pattern of
+activations to mean, uh, to mean things. Um, so yeah, there's a really cool dividing line,
+but in vertebrates, it's not just pattern recognition because we also see the ability to
+learn arbitrary actions, uh, sequences of arbitrary actions in response to patterns, which is something
+that we don't see in nematodes. Um, and that builds on top of this foundation of valence
+or what people in AI would call reward. That's the word that AI researchers prefer. Um, where there's
+other structures in a vertebrate brain that learns what previous behaviors did I take that led to me
+getting this reward? Um, and then how do I make sure I take those types of behaviors again?
+Which you see as sort of the main thing that we, or that life got from steering in a way, right?
+Yeah. I think, um, in AI, there's this big open question called the reward hypothesis, which is how
+much of intellectual behavior can be understood as optimizing for a reward function. And the story
+told in the book would suggest from an evolutionary perspective, intelligence did start at least brain
+based intelligence did start with something akin to reward, which is like valence. Um, however,
+as we'll get into later breakthroughs, I don't think it means that all human behavior
+is derived from reward just because the evolutionary origin is reward. And there's a distinction we can,
+we can draw there, but yeah, I think that's why steering works better because that,
+I mean, I know you're saying it is kind of linked to reward in the beginning, but I think the overall idea
+of what you're saying can be generalized. Yeah. Yeah. I think what's cool too. Yeah. 100%. What's cool
+on that also is in AI, when we think about reward, we think about this as this like scalar function of
+just like a number. Um, but in, um, in evolution, what we see, the reason why I don't, I agree with you.
+I don't think breakthrough one should be called just reward is there's no dis there's no distinction
+between reward and the action because it's all just one. So it's just fundamentally what's happening
+is the system's categorizing things in the good or bad for the sole purpose of making it a reflexive
+choice as to whether to go forward or back. It's not doing it to induce some reward function for any
+other purpose. It's only with vertebrates that we see that sort of be folded inward into the hypothalamus,
+which then becomes this sort of brain structure and vertebrates that does measure the valence of
+things in the world. And then is used by these other structures, um, to learn in a way that is
+akin to what AI researchers refer to as reward. I think this is also another thing I really like
+about the book is I would say you're talking mostly from like Mars level two or from algorithms and,
+but you're showing that they scale and nest together and all these really interesting ways. I don't,
+I think you would agree with this, but you can also correct me feel free, but it feels like, um,
+that's happening with all of this. Like we can, we're seeing how things scale algorithmically,
+which means in a way that parts and the details can change a bit, but these overall patterns
+stay the same kind of like how you just, you described the nematode neurons as being almost
+like multidimensional and in the, in their way of being. But because I kind of see something like a
+cognitive map or a spatial map or these collections of neurons doing that to the similar algorithm,
+but as kind of now groups of neurons. So I don't know what, what you think about that, but am I
+right? Are you, I mean, of course I know you're mostly working with this algorithmic level, but
+is it, do you see a kind of scaling going on? Yeah. I think that's spot on. I, um, I actually,
+in the talks I've been doing recently, I, I start with talking about the motivation of the book is
+Mars level two, which is I'm so, so you're spot on. Uh, and I think in, in, in reflection,
+I think it would have, it's a little technical because a lot of, you know, average people don't
+know what David Marr three levels are, but I think, um, it is important to grounds sort of the
+motivation of the book is I'm not as interested in the implementation details of exactly how
+biophysically these things work. And I'm less interested in sort of the computational level of
+like spatial mapping is associated with this region of the brain, but I want to know like,
+what are the underlying algorithms being implemented? Um, and I think that has two
+benefits. One benefit is perhaps more obvious, which is if we know those algorithms, it makes it
+easier to port over to Silicon and then try to re-implement them into computers. But then too, I,
+I think it's actually a much more useful and, um, fruitful way to reverse engineer how the brain
+works at the algorithmic level. Cause I think there's been so many, as we've seen in the last
+few decades, challenges trying to, you know, assign functions to brain regions is like a, you know,
+a dangerous business because what we've, the more data that we see, the more we realize that functions
+aren't associated with individual brain regions, they're distributed. And so I think thinking about
+things from an algorithmic level, um, actually gives us, uh, makes it easier to understand what's
+happening in the brain. Exactly. And that speaks to why this isn't a functional decomposition or that
+doesn't really work. Um, but you can still look at the parts without decomposing them or even composing
+them. It's just, it's a scaling, but I feel like that algorithmic way that you're using algorithm
+isn't some, some people who are maybe listening to this think that means a really, it really is really
+technical and math based. And it is, but it can also, I think, at least in my reading of this,
+or my understanding of intelligence, we can think of it, um, not only as something extremely static and
+that doesn't move, that it is also like a kind of recognition of, of patterns. You don't have to use
+exactly the same math to use the same algorithm. Maybe. What do you think about that? Yeah. Yeah. I think
+the word, I mean, the, the, what I, Mars, people interpret Mars as three levels slightly differently,
+but what I mean by algorithm is not that we need the explicit sort of, um, sort of pseudo code of
+what's happening. But I think if we understand conceptually what is being performed, what informational
+process is being performed to go from sensory input into an entity like a human to the motor output we
+see, um, that will give us a much richer understanding of how the brain works and what features we want to
+apply in AI. And I think what I'm advocating for, what I think level two would advocate for is going
+deeper into what's happening than simply saying that, you know, planning is implemented in frontal cortex
+and visual perceptions implemented in sensory cortex. I'll give one example to motivate this,
+which I think is the standard one, but is the one that originally got me excited about Mars level two.
+Um, and maybe some of your listeners are familiar with this, but it used to be the case that we would
+look at the neocortex, which is all of the folds of the human brain. Um, so when you look at a human
+brain, most of what you see is neocortex, which is the foldy stuff that surrounds it. And, based on
+lesion studies and damage studies, it seems like different regions of neocortex do lots of different
+things. So the back of your neocortex seems to be where we recognize visual objects because if it
+gets damaged, people become blind on the sides. We have auditory cortex gets damaged. You don't
+recognize speech. There's regions for language. There's a ring around the top for motor planning,
+where if it gets damaged, you become paralyzed, et cetera, et cetera. So through a lens of Mars level
+three, so computation or function, we would say, cool. Um, it looks like motor skills live here and
+visual perception lives there. And we sort of assign these functions around, but then we run into a
+problem where we realize in reality, language doesn't just live in the neocortex. It also is
+implemented in deeper structures working and interplay with each other. Um, and then we, we realize
+that visual object perception doesn't only happen in the visual cortex happens in other places like
+the amygdala. So, okay. So that complicates things, but then we also see an opportunity for
+an amazing unification. When we look into how the neocortex seems to be functioning,
+we realize the neocortex looks the same everywhere. And so that gives us this incredible constraint of
+how can the same structure be doing visual object detection in one area and motor planning in another
+area. And so if we go one level deeper, we can start saying, well, there seems to be some underlying
+conceptual one unquote algorithm being implemented that's capable of doing these different functions.
+And so by going one level deeper, um, in some ways it actually simplifies things. What was originally
+20 different functions may in fact to be only a handful of algorithms. And I think that's part of what
+is tantalizing about trying to understand what algorithms are.
+I find it really exciting. And I find also, I mean, we won't get into it, but it could work
+about trying to understand different kinds of brains or different kinds of species, because you can
+also understand that without needing to be stuck with these very specific parts, which we already
+do in a way you do it in your book, like showing kind of what the hippocampus would be and certain other
+creatures. But I think this makes it a bit easier. But since I mentioned the hippocampus, um,
+I'm really interested in when you got interested in the hippocampus, when you started thinking about
+Tolman, now we can move towards simulation and mentalization, the third and fourth breakthroughs.
+Um, this is very fascinating to me, something I think about a lot. So yeah, I'd like to kind of
+lead into that and how, so we had this kind of, um, movement steering through the world, then this way
+patterns are being recognized and created and generated. And now we start to understand how
+those, um, become patterns that can be recalled in terms of something like memory or imagination or
+something. Yeah. So with the emergence of the first mammals we see, which is, you know, depending on where
+one clocks that geologically approximately around 150 million years ago, we see the emergence of a new
+brain structure called the neocortex. And what's really interesting actually is how similar a mammal
+brain is to a fish brain. Um, they have all of the very basic structures there. The fundamental
+distinction is you see this new structure called the neocortex grow out of this sort of older cortex.
+And, um, the hippocampus, the amygdala and the olfactory cortex within mammals actually looks very
+similar to the overall cortex of non-mammalian vertebrates. So what it suggests is sort of the
+hippocampus amygdala or the what's called the cortical amygdala, um, and the olfactory cortex
+are sort of evolutionary remnants of the original cortex. And then in between nested in between them,
+we have this neocortex, which does some magical stuff as an aside. And you can see this just under
+our microscope because the older cortex has three layers and the neocortex has six. So the hippocampus
+has three layers, olfactory cortex is three layers. You get the idea. So there's this big open
+question of like, why did the neocortex evolve to which there's no, um, agreed upon answer.
+But I think the evolutionary story suggests something that is not the consensus. So I think
+most people, when they try to understand the function of the neocortex focus on its ability
+to sort of recognize objects, because that's the best understood feature of the neocortex in mammals.
+We have a part of the brain, as we said, that can recognize visual objects, sounds, et cetera.
+But what's odd about that interpretation is it's not clear at all that simpler mammals are really
+at all better in a meaningful way than non-mammalian vertebrates at object recognition.
+Fish can readily recognize human faces, even when rotated in 3D space. They can do this in one shot.
+They can maintain those memories for long periods of time.
+I can't let you just go over that. It's so cool. I mean, I love that you use fish. Having studied
+neuroscience, I don't think I ever read a fish study and you have so many and it's so cool. That one
+where the fish can actually recognize a photo. That's wonderful.
+It's wonderful. Yeah. You're absolutely right. Fish are really under-researched or really
+non-mammalian vertebrates are, from a neuroscience perspective, really under-researched. Primarily
+because a lot of the research funding goes to brain research is motivated by sort of curing
+neurological diseases in humans. And so we want brains that are as similar to us as possible. And so
+so much of it goes into rodents. But for the purposes of algorithmically trying to reverse
+engineer how our brains work, I think non-mammalian vertebrates are perhaps should be
+of equal importance because in that we can reverse engineer a more primitive foundational sort of
+template for our ancestral brains. Which you were about to demonstrate with this whole idea of
+simulation. Yeah. So when we try to understand the algorithm being implemented in the
+neocortex to pair it with this open question of why did the neocortex evolve, it's hard to motivate
+an argument that it was for better object recognition. But there's been a ton of research
+into the underlying algorithm. And again, there's no consensus, but a lot of sort of neuroscientists
+have rallied around this idea of predictive coding or generative modeling, which is this
+notion, which we do see in AI now, where the neocortex seems to be self-supervised, meaning it's
+trying to predict its own input and train itself over time to be better and better at predicting
+its own input by virtue of building its own model of the external world. And so there's a lot of
+people that write about this using different language, but it's largely the same concept, which is
+you know, the neocortex builds the sort of internal model of what's happening and it uses that to predict
+what's going to happen next. And so most people think about this internal model for the purposes of
+recognizing things. So I can real-time recognize an object when rotated because my neocortex has a
+model of that object. But there's another feature of generative models that are less appreciated,
+which I argue is the real reason the neocortex evolved, which is in order for a generative model
+to be self-supervised, it needs to be generative, by which I mean it needs to be able to simulate or
+generate its own data. Because the way it learns is it tries to predict the data and compares its
+predictions against its own input. And so a key feature of that is you're able to turn off the
+input and start exploring an internal world without the input actually occurring. And so one part of
+that is of course recognizing things, but another part of that is being able to simulate the world as
+it is not. And so when we look at the sort of comparative psychology of non-mammalian vertebrates
+and mammals, with the exception of birds, which very independently evolved simulation, we see a pretty
+strong set of evidence that mammals can do this type of imagining the future, re-rendering the past,
+imagining other alternatives. And we do not see evidence that fish and turtles and other types of
+reptiles, again, with the exception of birds, can do this. And so when we go back and look at the
+sort of neocortex, I think there's a lot of really good evidence that really what this enabled our
+ancestors to do is imagine the world as it's not. And this of course gives us episodic memories,
+it enables us to plan even our hand movements. It's one reason why if you just look at a squirrel
+and compare it to a lizard walking around a tree. I mean, we don't think about it because we're used
+to seeing squirrels jump around from tree branches and used to seeing slow moving lizards, but there's
+a very clear intellectual capacity difference that we're observing, which is the fact that a squirrel
+can look up at a bunch of branches and without any practice identify exactly how to place its hands to
+run across. It's just, you know, it's amazing. Like the roboticists desperately want to have something
+like that. Yeah. When you really start looking at the way life is, it's can be, yeah. It's like,
+how is this happening when you try to understand? It's mesmerizing. Yeah. Yeah. So, so, so simulation,
+yeah, it gives us imagination. It gives us fine motor skills, et cetera, et cetera. You study with,
+or you, I think you, you talk about David, is it Radish? Reddish? Do I say it right? Oh, David Radish,
+yep. Just really quick. So this idea of Tolman and the cognitive map was like controversial because
+people, cognitive versus behaviorist, how could the rat be doing something like planning or the
+squirrel? It was not really accepted, but then these studies, I guess it was the early 2000s sort of
+solidified for most of us that when a rat kind of stops and looks like it's thinking, and you can see
+this actually in this activity of the brain. So this is what you say is the kind of the next breakthrough,
+right? Is this mentalizing or simulation, which then becomes mentalizing. So, so just to build on
+the story you're describing, you know, even though we could see rats pause and look back and forth and
+make a choice, you know, there's, there's no proof that is actually imagining it's different options.
+And it was David Radish and his PhD student who actually recorded neurons in the hippocampus of
+a rat, which you can see it modeling space. And then when it pauses and looks back and forth,
+you can literally watch a rat's brain re-rendering different paths and making a choice, which is just
+such an incredible study that I think is so, you know, there are still a few holdouts, which I don't,
+it's hard for me to understand their arguments, but there are still some people that
+stay true to the argument that only humans can imagine the future. But if you look at that
+evidence, I find that very hard to argue, given that we can literally watch animals doing that.
+I mean, and it's such a, it's such a big breakthrough because in the absence of being
+able to plan what we're doing ahead of time, it's very hard to flexibly respond to the world. And this
+is why we, this is one of the key things that are trying to recapitulate in AI systems. So the fine
+motor skills of a squirrel derive in large part from its ability to imagine what it does before it
+acts. So what's happening almost certainly really quickly in a squirrel's brain, when it looks out
+on different paths is it considers a few options and it makes a plan of where it wants to place its,
+its hand or paw as it's moving. And we know, we can see even cats do this when it looks at platforms
+and you record the motor cortex of a cat, when its eyes no longer are gazing at the platform,
+its motor cortex stays active until it fulfills the action and then stops. So, and you can observe
+through introspection yourself doing this. If you're, if you're walking through on a hike
+and you're running really fast, um, if one introspects and what's happening, you'll look
+ahead of yourself and you'll plan where you're going to place your feet. Um, but you, your mind
+is focused on the next three steps, but somehow you hold in your minds before your feet finishes the
+action exactly where in the world you're going to place your foot as you're running to make sure
+you don't trip on branches. Yeah. And in that simple act, you're what you're, what's actually
+happening is you're doing what these early mammals did. You're not planning, you know, your career
+path. You're not imagining years in the future, but the simple act of just making plans a few seconds
+ahead of time is the algorithmic foundation for, for doing that bigger type of planning.
+Yeah, it's really cool. I mean, I don't know what you think about this, but to me, it seems
+again, that kind of scaling continuous algorithmic thing where we are navigating, we're steering,
+and we're developing these scales of, of how to do that. So the mentalizing or simulation first,
+these cognitive maps seem to me like still ways of choosing the best direction or, or valence in a way
+that it's just developing different kinds of ways of being in different kinds of landscapes. So
+mentalizing, it's something like more like metacognition or, or, or theory of, of mind,
+that's the fourth breakthrough and then leading in to, to speaking. Um, I wonder what you think
+about that. Do you see these as also like ways we're still finding to better steer and navigate
+that gets a little metaphorical, but actually kind of literal too.
+So I think this is a really, you're touching on like a really foundational open question,
+both in neuroscience, cognitive, neuroscience, cognitive psychology, and AI, which, which goes
+back to this reward hypothesis, which is how much of intelligence can be understood as fundamentally
+optimizing for a reward function. And here's a take on that. So even if the original set of actions that
+a creature takes, uh, starts with basic reflexes, um, and then there's this sort of reinforcement
+learning system that learns based on what, uh, activates positive valence neurons to repeat those
+actions. Um, even if that's sort of the foundation of an entity, which would adhere very directly to the
+reward hypothesis, you're just taking actions that maximize reward. Um, that doesn't mean all behavior
+and the end is reward for the following reason. Um, one theory for how sort of the self exists in, in
+mammals, um, is the neocortex or at least frontal cortex models an animal's own behavior, which starts
+as just fundamentally reward driven. But what it tries to do is infer an intent of why I'm doing
+certain things and then tries to drive an animal's behavior towards fulfilling that intent. So this
+speaks to what Carl Fristin refers to as active inference. It's this idea that frontal cortex is
+a model of yourself that infers who you are and what you want to do based on observing your behavior,
+and then tries to drive you towards, uh, fulfilling that. And so, for example, when an animal wakes up
+and is thirsty, um, what, you know, older vertebrate structures will do is it'll want to motivate
+actions that historically have led to the satisfaction of reward in the presence of thirst. But what the
+frontal cortex might do is it might say, okay, when I tend to be thirsty, here's behaviors I tend to do.
+It doesn't mean that it's optimizing for reward. It's trying to predict the best way to fulfill
+what it thinks the animal will do. So in simple animals, this ends up likely also optimizing for
+reward because it's learning the self model on a system that is reward driven. But that algorithm is
+not inherently optimizing for reward. That algorithm is optimizing for sort of the self supervised
+generative model that you see in the neocortex. And so that's where you get some interesting effects.
+I'll give you a more direct example of this to be less conceptual about it. Um, there's a very known
+behavior amongst humans called the, um, talking of dissonance effect. And then the, a very famous
+study on the cognitive distance effect is you, you have a person read some words aloud to get admission
+to like sorority or fraternity club, or like they have to read these words aloud for 30 minutes.
+So they worried some words to a group. And at the end of that, they joined some reading group or they
+watch a video of a group they're about to be a part of, and then they leave and a day later
+or something, they review how happy they are. They're part of the group. And so the video people
+see is exactly the same. The only difference is one group has to read really embarrassing words out loud.
+And another word has to read really innocuous words out loud. In other words,
+one admissions criteria is slightly more stressful than another admissions criteria. And a very bizarre
+effect is the people who had to struggle more and suffered more to get part of the group
+claim that they're happier and enjoyed being part of the group more.
+And so this is a direct violation of the reward hypothesis, which is I suffered more to be part
+of this group. Um, and so, and, and hence I like it more, but it makes perfect sense from an active
+inference model of the world, which is, which, which, you know, especially in the world of mentalizing,
+where we have this not only model of our own behavior, but model of our own simulation. So thinking
+about our own sort of thinking processes, because what you would infer is, well, because I went
+through that painful process and joined the group, my model of myself would suggest I must really like
+the group. It would only make sense that I did that if the group was actually good. So the algorithm
+of active inference would self report that I liked the group highly more so than it would report if there
+was actually an innocuous thing. So, so this is where, although that behaviors originally modeled
+on a human that from a young age at first is only reflexively sort of doing things probably based on
+something adhering to the reward hypothesis, more and more behavior as you get older, gets controlled
+by parts of the brain whose algorithm is not fundamentally about reward. So anyway, very long-winded
+way just to say that it's, it's a big open question, how to model behavior between reward and sort of more
+sophisticated types of algorithms. But my general point of view on this is that evolutionarily,
+it did start with reward. Ontogenetically, meaning as we grow from infants, it probably starts with
+reward, but as adult humans, not all behavior is fundamentally driven by reward.
+I agree with that. I think we can still think of steering and navigability without, as we were saying
+before, it doesn't need to be linked to reward, especially not in the scientific way that we've learned
+reward. And it doesn't even have to be linked to only one conception of self. I mean, this would be
+a whole other conversation, which we can't have because we have limited time. But I think that
+scalability and that algorithmic way of looking at it as a kind of navigation or movement, it doesn't
+need to be stuck to reward so much. But I want to get into the last one, which is, you know, speaking
+is the last breakthrough. And I think you talk about this as like a super human power, this, because it
+allows us to transfer. So if we kind of stay with this idea of finding better ways to be in the world
+or move through the world or navigate or whatever, then I mean, language is like, wow. Now, as you
+explain in the book, we can almost read each other's thoughts because we can transfer them through this
+kind of system three-ish medium. So I want to hear your thoughts on that a little bit and try to link it
+to where we are now, because in this moment, we have an explosion with the open AI and all this large
+language models and so on. Also, you mentioned Carl Friston, which makes me think of active
+inference AI. In the book a lot, you talk about the catastrophic forgetting and how AI can't learn
+in the moment. So I wonder if you see in terms of speaking and language, if we might, with large
+action models, large world models, active inference AI, get away from those constraints that you present
+early in the book. I know that's a lot, but you can do whatever you want with it the next few minutes.
+So yeah, so on the first point about the power of language, so it was fascinating to go through the
+journey of writing this book and just chronicle and weave through these past and still sometimes
+outstanding debates amongst very smart cognitive psychologists and AI researchers and neuroscientists,
+where they're, you know, people of equal sort of knowledge can still come to different conclusions
+about something. So with language, there's historically been a discussion, although most
+people fall in one camp of this, between how much of intelligence comes from language itself. In other
+words, is language a tool for thinking versus, you know, most of our intelligence is not language-based,
+but language is sort of bopped on as this ability to communicate. And so most people were in that
+latter camp and still are in that latter camp. Noam Chomsky is the most famous sort of advocate
+for language as thinking. And so the story in the book very clearly comes down on the side of language
+is not the foundation of our thinking. Language evolved as a sort of add-on that enabled us to
+communicate. That's not to say that language is not useful for our own thinking and there's feedback
+loop surely. But the evolutionary story told in the book provides evidence that clearly leads us
+towards the conclusion that human and animal intelligence is not first and foremost, or at
+least human intelligence, not first and foremost grounded in language. But language is a tool for
+us sharing something fundamental about at least mammalian intelligence, which is we can render inner
+simulations of things. And language enables us to share the results of those simulations. So as a
+more tangible example, if me and you were, you know, hunting for boar in the African savannah,
+you know, a hundred thousand years ago, what with language we could say, okay, here's the plan.
+I'm going to go right, you go left. And when I whistle three times, I'm going to run out and then you
+take out the net and you'll catch the boar and then we'll be able to eat tonight.
+And if we, if we catch that boar, that is only because we could share in a plan, a mental imagination
+of a future thing, and then make sure that we synergize that plan together. No other animal's
+capable of doing that so flexibly. And so that is, I would argue, and many others would argue is the,
+is the fundamental sort of ability that language provides us. There's a secondary effect, which is it
+feedback, it feedbacks on itself, which is when I use language to write things down, I can keep going
+over the ideas I write down and realize fundamental flaws in my own thinking and how I'm not, you know,
+putting things together correctly in my inner simulation. And in that way, it does improve
+thinking. But I, you know, writing only appeared way after language evolved. So the evolutionary pressure
+was clearly something different. And to your second, your sort of second set of questions around
+continual learning problem, I do think this is a huge area of open research where it's not clear
+if we already have the ideas, they just haven't been scaled up, or there's a fundamental change that we
+need in artificial neural networks or even something more fundamental on that in order to get these types
+of networks to learn continually as they get new information. And so there's so many different
+research streams here, there's a ton of work going into just trying to augment large language models
+with persistent memory stores and trying to sort of what I would argue is like, hack the experience
+of continual learning on the existing paradigm. And big open question how far that will go, it's possible
+that will bring us to something that feels like it's continual learning, even though under the hood,
+it's not. Or there's a whole another group of people, which is where I'm spending more of my
+time, because I find it at least more interesting, which is trying to reimagine the algorithm, the
+learning algorithms of neural networks to adhere towards or to produce the types of continual learning
+performance that we see in in mammals. But yeah, more to come on that. Yeah, I have to let you go.
+I didn't even get to ask you about your motivation and the love aspects.
+So maybe a future session. Yeah, maybe a future session. But thanks for the time.
+Thanks for the work you're doing. Thanks for the book. It's wonderful. Everyone should read it.
+I really appreciate it. It was wonderful being here. It was great. Be well.

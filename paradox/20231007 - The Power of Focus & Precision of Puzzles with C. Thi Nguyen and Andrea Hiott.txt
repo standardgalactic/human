@@ -1,0 +1,639 @@
+Hello, everyone. Welcome to Love and Philosophy Beyond Dichotomies. Today we're talking to C.T.
+Nguyen, mostly about his book Games Agency as Art, but also about many other things. Of course,
+about love, how is it related to games. T is a kind of philosopher's philosopher, so it's a
+little surprising to hear him say that philosophy was his backup career, that he actually wanted to
+be a novelist. But when you hear how much pleasure he takes in Kant's formula of humanity, I think,
+like me, you will also imagine he's always been a philosopher as well. And he is a very good writer,
+and that can sometimes be trouble in the philosophical world. Sometimes it's a little
+suspect. A lot of people we think of as writers like Nietzsche or Camus or Hannah Arendt, who herself
+said she's not a philosopher, sort of as a way of addressing this exact issue, are not really
+considered real philosophers in some very particular analytic circles. But of course, in other circles,
+they are. So it really just matters where you're coming from. But still, it's an interesting little
+puzzle that we do turn back and forth and shift around like a Rubik's cube. Art, porn, focus,
+vulnerability. We talk a lot about trust, as that's another topic that T writes about a lot. And we do
+talk about these boundaries of the academic and artistic voice. Are games and art about the attitude one
+brings to them or the object itself? Does being an agent mean we have an experience of agency? How
+gamified have our lives become? How aware are we of the stakes of that agency that's being set for us,
+either by game makers or coders? Or what is a game really? And how is it different from play? T helps
+me understand that a bit. Rather offhandedly, he gives me maybe one of the best definitions I've ever
+heard. A casual sort of definition about what a philosopher is really doing. We are talking about
+neutrality. And he says something about how in his own life, the richness that he's gotten from
+philosophers is not from thinking of philosophers as some standpoint, free, neutral observer, but rather,
+it's been understanding philosophers as people questioning. And I think he says thinking and
+talking out of themselves. I really like this phrase, out of themselves, because it can mean,
+you know, from within, from one's own path and trajectory and experience. And it can also mean
+sort of moving beyond that into different agental agent bases or perspectives, which is all stuff I'm
+really interested in, in my own research. And T sheds a lot of light on that. He's really good at pulling
+these kind of threads apart of things that we assume go together. For example, virtual reality spaces and
+gaming. Not always the same thing. Of course, you can play games in virtual reality spaces. But it's
+easy to assume, as I do sometimes that all of that is a kind of play. Also, the social media spaces that
+we're in, we also talk a lot about focus and the power of it, the power of focus for both good and bad,
+of course, depending on how you might want to use it. And we talk about this terrifying vulnerability of
+how entangled we all really are, and the trust that is required, not only to play games, but just to
+experience any form of art or connection to live, really. So love might be the opposite of games, because
+it's non-disposable, as he says, it's non-fungible. But also, you can love games, and we should enjoy them
+as we're playing them. So enjoy this conversation, and read T's work if you haven't already. It's interesting, timely,
+he's someone who loves art and film and writing, and you get to experience that in his writing.
+I learned a lot here, even about rock climbers and the percentage of mathematicians and analytic
+philosophers that happen to do it. Makes a lot of sense, the logic of it, but I hadn't thought of it
+before. Anyway, okay, I hope you enjoy this. Here we go.
+Hi, T. Thank you for being on the show today.
+It's great to be here.
+So, this is about love and philosophy, which can be a little daunting, those words together. But
+I want to start with language, because you're a very good writer, and I've also heard you speak,
+and you're a very good speaker. And I have a friend who used to say that you can't be a good
+speaker and a good writer. I don't know why he says that. But I'm just wondering, have you always been
+articulate? How did you tell me about your entry into the landscape of language?
+T. I mean, philosophy was my second backup career. I was supposed to be a novelist.
+There we go. I thought you wrote about food though. This is getting confused.
+T. That was also a side gig. I was supposed to be a novelist. I'm a failed novelist. I took tons
+of creative writing classes through college. I think my first professional journalism was like,
+I was like 15. And there was this contest in the local newspaper to be the teenage reviewer. And then
+they gave it to two of us. And I think they were expecting us to be the excitable teenagers. But
+if you get like an essay contest for 15 year olds, you're going to get the two most pretentious
+fucking assholes who just want to talk about like Polish art movies and Robert Altman or
+shit like that. So yeah, so I was, I always thought I was a writer. I did fiction stuff. Weirdly,
+I kind of did philosophy as a backup career. I've always cared about writing. I
+it's very hard for me to separate. For a lot of philosophers, there's this, I think, academic
+tone that you learn. And I, I've always been kind of allergic to it. I had to learn it to
+get through graduate school. You can do it when you have to do it.
+T. I learned and got programmed to do this academic
+tone and I had to talk my way out of it, but it was like finding my way back to like my actual
+writing style. I was part of this literary magazine in undergrad years and it was anonymous
+submission. I was one of these, I was an immigrant scholarship kid at Harvard playing on the lit mag
+with all these fancy New York types. But you had to submit anonymously. And whenever I would submit
+something, people would find me afterwards like, that was yours. And I was like, how did you know?
+And they're like, it sounds exactly like you. I could tell from the first sentence that it sounds
+exactly like you. And I felt like grad school kind of beat that out of me. And then I had to like,
+refine, refine through my own, like nervousness and sorrow. Like
+the natural voice I had when I was like 18.
+T. That's really interesting to me. It's not a dichotomy exactly, but there is this weird thing
+between serious writing and literary writing and, you know, blog-ish kind of writing, but all that's
+getting confused now too. So yeah. How do you think that serves a purpose in a way? It sounds like
+you're kind of resisting it, but yeah.
+Yeah.
+Yeah.
+I mean, there's, it's funny. I've just been reading about this. I think there's a history
+of professionalism or what it is to be a professional is to face your personality and
+operate by the rules of your institution. So I've been reading this incredible book,
+kind of a classic outside of philosophy called, from Mary Poovey called History of the Modern Fact.
+She's, she's part of the science and technology studies world. And she thinks that the foundation
+of kind of the attitude of the sciences and modern professionalism starts with double and
+entry bookkeeping in the 1600s and double entry bookkeeping, she thinks it's a, is like the first
+major system in which you create, you kind of architect a reliable system. And if everyone follows it
+and enters information in the same way, then it all becomes like interactive and portable and it all
+interconnects really easily, but it only works if people are following these standardized rules.
+So, I mean, philosophy used to be less like this. I think the sciences have moved. I mean, Poovey
+thinks that the sciences, starting with people like Bacon and Boyle, that the sciences were openly
+admiring of the double entry bookkeeping and openly thinking like, look, we are not rhetoricians or, you
+know, artists. What we're doing is we're trying to be kind of universal witnesses without particular
+standpoints or personalities who enter information in a way that has nothing to do with our individuality.
+Yeah. That's really fascinating too, to think about bookkeeping and then computers, like the first,
+the real way that word is used and how that probably is a kind of a, not even parallel path,
+but entangled paths.
+Yeah. I mean, this is, so this shows up in, so this great moment in Theodore
+Porter's Trust in Numbers, a book I've been reading a lot and I just taught, and he distinguishes
+between a two, a few different notions of objectivity. He thinks one of them is, he calls
+it professional objectivity, where you act out of your role and not your individuality. And there's a
+lot of reason for that, right? I mean, I think about this a lot as a teacher. I used to be like,
+scorn professional roles. And the more I think about it, the more like, I think when I'm a teacher,
+I should not, I am, there are certain parts of my personality suppressed. There's certain students
+you naturally like, there's certain students you naturally dislike as a person, and you have to get
+rid of all that shit, right? You are interacting with them as a professional, right? And, but I also
+think- So you have to take on a kind of role, teacher role.
+You have to take on a kind of role and remove certain parts of your personality. So he says there's
+professional objectivity, there's like objectivity as like removing bias, and there's just something
+he calls mechanical objectivity. And mechanical objectivity is repeatable by anybody, right?
+Anyone can follow the rule system. So I think there's- Sounds like a game a little bit.
+There's a lot of reason to think that a lot of what's going on is quite game-like. Anyway,
+so for your original question, I think there's a lot of institutional reasons, especially in the
+sciences to create this kind of non-personal voice because we are trying to enter data by a particular
+system. And there's this question about whether something like philosophy should be like that.
+Are we kind of neutral scholars who are entering standpoint free information? And I don't, I don't,
+I don't, that's not what philosophy has been for me. It's been people thinking and talking
+out of themselves. Yeah. A lot of the philosophers that become sort of,
+I don't know how to say, I'm thinking of someone like Nietzsche or something, or even people who
+get called philosophers, but no one who's, or most people in academic philosophy wouldn't
+consider a philosopher or something. It gets tricky, doesn't it? When you're studying philosophy
+academically, sometimes you can't even say you like those writers in a way, and you certainly can't
+really sound like them, at least not at a certain, certain time point. But I wonder,
+what was it like when you were a student? And now that you're a teacher, do you get annoyed when you
+see that in your students ever? I mean, it's really complicated. I, as a graduate student had,
+I mean, in creative writing, I carefully learned to write in a way that sounded like me. This is hard,
+like it's, it's kind of, it's, it's a developed skill to have. Definitely. It's very hard to write
+in a way that seems very easy, which your, your writing is like that. It's very easy. It flows.
+People don't feel like they're working to read it. That's a hard thing to do. It's definitely a skill.
+Thank you. By the way, thank you for noticing. I worked so fucking hard on this shit. Like,
+I think there is an assumption among people that don't spend a lot of time writing, that if it's
+easy to read, it was easy to write. The opposite usually. That's why I asked you about your language,
+because you can speak well too. And those are also difficult skills, but yeah, you don't, you don't
+usually learn one and then get the other for free. Yeah, no, they were, both of them were kind of
+learned skills. Uh, the writing, I mean, it's so much like I'll finish an argument and then I'll do
+about 20 or 30 more drafts to get the writing, right. And just play with sentences, change around
+ordering shift examples and like through like pain and suffering and polishing, like it eventually
+emerges into something kind of clean and simple. I remember a moment in writing my games book where
+I had, I had this like 15 pages of very technical argument to prove a particular point. It had like
+quantifiers. I couldn't do it in any way that didn't have like formal logic in it. And then I finally
+figured out how to do it in three sentences through a simple example and no complex argument. And I was so
+happy and it took like months to get that. And now it just feels like nothing.
+Yeah. That's how it is. That's how it is. But do you think, I was going to ask you about this
+critical thinking thing too, because I think it can go the other way around too. I think you can
+have beautiful writing in academic philosophy. You are an example. It's hard though. So it can also go
+the other way around where someone can sort of be articulate and write, but they don't do the
+critical thinking and the argumentation too, because there is something about forcing yourself
+to go into that logic. And that was hard for me, for example, especially if you're kind of more
+inclined towards the bigger picture, like learning those details. I think you also had an experience
+a little bit early on with logic or did you? I mean, I was always more on the romantic,
+poetic side of the thing. And it took me a while to slow down and be careful. I don't know. Maybe I
+can say this. I think people that concentrate on making their writing pleasing and don't have to worry
+about getting the arguments right, have an advantage in popularity and in convincing people.
+Like if you concentrate on nothing but charismatic rhetoric, you're going to be a specialist in that,
+especially if you're not loyal to like the difficult stuff. So I think for those of us who have
+some kind of loyalty to getting the ideas right and being careful and making it clear and presentable,
+like, I don't know what it takes. It's hard as shit. It takes so much work.
+But that gets us to the love. That gets us to the love a little bit. It's a difficult word,
+because why do you do it? You know? I don't know if you've ever thought of it in connection
+to that word. And of course that word is overused. And also we could talk about love of wisdom.
+It can go a lot of different ways, but just in this one sense, you know, it is really hard.
+It is really hard to learn arguments, to think critically. It's really hard in this little,
+small community of philosophers to get some respect because you have to know so much and you
+have to talk the language and then also to write well. So that's a lot of work. So what's motivating
+that?
+I think one of the things that gets you into being a philosopher is you love a good distinction. You
+love a good argument. I can say, I mean, I don't know, like I've taught Kant's formula of humanity,
+like for 20 years. And when I'm rearing up to make the argument again, I'm just like,
+fucking excited and like getting, like loving a good distinction or a cool argument. I think that's part of
+it. And then there's just, you know, I think what makes you attracted to a medium, a lot of it's
+about the kind of fussy shit you love. Like, so I love music, but I can never play music. And I,
+part of what I realized is I just have no affection for scales. Like the hard grind of being a musician,
+I don't enjoy. On the other hand, there's a lot of the academic job that sucks. And, but for me,
+if you give me a sentence and you're like, fine tune the sentence, just make it sing.
+I'm just happy. I like doing it. I love change the comma, shift this word slightly earlier.
+How does it feel like that? Just, and I, so I think for a lot of us, um, one of the things we're
+drawn to is things where the basics mechanics of the medium are appealing to us. And we're, I mean,
+it's really important that people are different, by the way, it's funny. So I, I just want to give
+a caution. Sometimes I talk about this stuff and people say that like, oh, T, you're trying to force
+everyone, even people who don't want to write to like, and I'm like, no, like what, what we should
+have in our profession is a diversity of personalities. Some people have no interest in writing
+and all their interest is an argument or scholarship. That's great. Um, but for those
+few of us in the profession who really like writing, like it would be nice to encourage that instead of
+my experience, which was having it kind of roughly beaten out of me sternly.
+Yeah. People, people are suspicious of it, I guess, in the, in the field, but once you can do it,
+then you can communicate much more widely with a lot of people, which you also eventually got to
+that point too, where it paid off or is paying off this. Does this relate to the game that you
+write a lot about games and I I'm trying to figure out where the, is the philosophy that's that part of
+you that really likes to, to solve the problem, to get the sentence right? Does that connect to this,
+the interest in games? Do you see a connection there? Of course it's you, so it's continuous, but.
+Yeah. I mean, yeah. Uh, one thing I'll note, uh, I've noticed is, so I, I mean, but not all games,
+right? But for me, the games I like are continuous with the other things I like. Like, I mean,
+I try, for example, I tried running, running, never did anything for me. And it was when I
+found rock climbing and what rock climbing is, is precision puzzle solving with your body, right?
+It's like, that's a great way to say it. It's like ecstatic physical problem solving. So like,
+I've noticed people, people, sometimes I've had people complain that
+rock climbing is like a fad among philosophers. It's, I don't, it's like this weird. Yeah. There
+are a lot of rock climber philosophers. There's also a lot of mathematician, uh, rock climbers. Um,
+I think in the early, someone did a survey of the first generation of rock climbers and they were
+overwhelmingly either gymnast or mathematicians or both, but yeah, no, there's something really,
+but like, I think the thing that appeals to you about puzzle precision, puzzle solving, um,
+is something that appeals to me across the games I play and the profession I have. Uh,
+so I think there's a, there's a deep similarity, but often that similarity is like, I don't know,
+not where people think the core of the activity is, but that's what I like.
+But it seems to be in the pattern or in the way of the progression or something. There's two things,
+right? I want to talk to you about specifications and this kind of thing of knowledge, because I think
+it disconnects, but also, um, agency. So something like rock climbing, you consider a game, something
+like chess, you consider a game. Yeah. Yeah. And you say this is a form of art. Yes. Yep. Because
+it lets us experience different agency. Is that right? Let me be, uh, fussy for a second. Yeah,
+please. So the definition of games I'm using in the book is Suits' definition of games. So Suits says
+that what it is to play. Yeah. What it is to play a game is to voluntarily take on unnecessary obstacles
+to create the possibility of the activity of struggling to overcome them, right? So for Suits,
+inefficiencies, constraints, and obstacles are part of the key constituent of the game.
+And it's kind of hidden in that little definition, but he makes clear in his full definition that part
+of how you create obstacles and struggles is by specifying goals, by specifying points, right?
+So anything in which you specify the goal and then you specify constraints for the goal that are
+necessary to hit that goal, that's a game. And you do it in order to construct a particular kind of
+activity. By the way, I should just say, I don't think he, his version, his definition of a game
+quite captures our natural language of game, but that's the thing that I think it's a clear
+part of human life, these artificial goals and constraints. So what I was trying to say is to
+use Suits to ground an aesthetic theory of games, to say that Suits is pointing to the center of
+games. So let's talk about the art form of that. Because there have been plenty of people, I think,
+who have been praising games and talking about them is incredibly valuable and important, but they tend
+to assimilate them to more familiar forms. They tend to say things like, oh, games are like movies,
+so they're really good when they have narrative and dialogue and script. They tend not to pay
+attention to like, I think a lot of what game players and game designers pay attention to,
+which is how these kind of mechanical features construct particular activities.
+So one of the things I say in the book is that if you take Suits and you look at it, what you see
+is that what makes games distinctive as an art form is they manipulate our agency. They manipulate
+what we can do, the obstacles we're against, and our goals. Like this was the key for me,
+games set goals. They tell us what to want, and then we can kind of just occupy it. What's distinctive
+about games is that they work in the medium of agency. I just want to be really clear about this
+because you said something a little different, which a lot of people tend to think I'm saying,
+which is the experience of games is always an experience of agency. That's not the same thing.
+The medium, it being the medium is not the same thing as it being the core focus. So for example,
+so like poetry, words are the medium of poetry. Is the experience of words the aesthetic experience
+of poetry? Not always. Some poetry draws your attention to the poetry, but other poetry like haiku,
+I think so haiku classically draws your attention to the world, right? Like what haiku, a good haiku.
+So one of my favorite haiku from Basho is, even in Kyoto, when I hear the cucko's cry,
+I long for Kyoto. And I think that kind of haiku pushes your attention towards thoughts about nostalgia,
+loss movement. It uses words to point to the world, where other poetry, especially a lot of modernist
+European poetry, draws your attention to the surface of the medium. Similarly, some film,
+I think really draws your attention directly towards the use of the medium. The cuts are really obvious.
+You think about the use of the medium. And other film is transparent, right? The medium is skillfully
+used and you just are lost in thinking about this character or the story. So games, I think, are really
+similar. Some games draw your attention to the agency, but other games, like when I'm playing
+limit poker, all of my attention is on other players' motivations and actions and their informational
+states. So it's not really drawing my attention to my agency. It's like using a gentle medium to push my
+attention somewhere else. The game matters. You talk about environment, you talk about constraints as the
+medium and all of that makes sense. So it depends what game you're playing and it depends. Does it
+depend also the awareness or the intention with which you're playing the game? I mean, you could play
+the game so as to X, you know, like increase. Yeah. So all of that. But this is totally, I think this is not
+distinctive of games. So I think some movies are really transparent to the characters. I think of,
+so I feel like, you know, if you're watching a Tarantino film like that, you're super drawn to
+the surfaces of the film. It's editing choices. It's so filmy, right? When I watch something like,
+I don't know, an Ozu movie, like some kind of really character based thing, my natural inclination is to
+pay attention to the characters and their inner lives. But I can also, if I'm thinking about it,
+kind of push my attention to how the cuts are working, but that's not where this film kind of
+naturally sends my attention, but I can take that attentive mode. Similarly, I feel like when I was
+studying to write, I would take writing, it was super transparent, where the point was the writing
+was self-effacing. And I could force myself to be like, no, I'm going to study this as a writer.
+How are they making this so good? Sometimes I think there are a lot of games where the game just
+kind of disappears. But when we take them apart in my game design class, we send our attention to
+the rules, even if the rules are designed to disappear from your consciousness. So a lot of
+this is freeform. Sorry, a lot of this is up to the player. But I think games are distinctive because
+there is more up to the player. Different players can play in such radically different ways. There's more
+space for agency and more space for freedom in the construction of the play experience. And that's
+one of the reasons I think traditional artistic theory has had a really difficult time coping with
+games because there's a lot of variation between different people's experience of a novel, but the
+basic sequence of events in a novel will be the same and the words will be the same. But there's so much
+variation, especially for, I mean, not just computer games, but if you think of something like tabletop
+role playing, different groups will have totally different stories, totally different personalities,
+totally different interactions. Although the game kind of colors and shapes them in a subtle way,
+pushes them towards a particular kind of experience. But the path to the particular sequence of events
+and the play experience is so much more participatory that there are really deeply different
+kind of objects. Did Suits think of games as an artwork at all? What do you think?
+He didn't talk about it explicitly. Okay. So I still wonder, I think games can be art.
+Can they also not be art? Are they always art? Oh, that's a great question.
+In the same sense that you were just describing. Yeah. So here's something I didn't say in the book.
+I've been thinking about a lot. So in the book, what I mostly said was, you know, art is basically a
+value term that's worth paying attention to. I think since then I figured something out. I think
+one of my favorite accounts of what art is comes from this debate about the difference between art and
+porn. Another subject you've written somewhat about.
+Yeah. It's super interesting. It's a super interesting debate.
+It is. And to me, it gets back to this awareness intention thing too, but go ahead.
+Yeah. No, this is where it's going. So there's this great moment. The feminist philosopher of art,
+Ann Eaton, has this passage that totally like shipped to how I think about these things, where she said,
+older definitions in feminism of what it is to be porn, say porn is representations that are demeaning
+and objectifying to women. And Eaton's response was, well, there's actually a lot of high art that's
+really demeaning and objectifying to women, but it's also recognizable as art, even though it's
+misogynistic. So that can't be exactly the difference. What's the difference? A lot of people
+have taken a stab at it, but two, I really appreciate. There's one line of thinking that says something like,
+porn is part of an older category called sentimental art. And what sentimental art is something that like
+works on you mechanistically rather than giving you freedom to experience it as, to experience it
+in the way that you want, right? In this way, I think people in this vein think that like porn is
+something like, you know, a hallmark tearjerker, right? You just want one reaction.
+Stimulating in certain ways.
+Stimulating. It's a stimulating specific reaction.
+Yeah.
+Another way that some people put it is that Jerry Levinson puts it this way.
+With porn, we don't care how it does the job. We just want the job done. With art, we care about
+the technique and how the medium was manipulated to get the effect. And so if you buy this, then I think
+for every medium, not all film is art. Some film is art and some film is porn, right? Some novels are
+and some novels are porn slash sentimental slash whatever. Same with games, I think, right? Like
+in either definition you take, some games are going to be open spots for us to take what we want from,
+and other ones will kind of push us to move mechanically. I think actually the category of
+addictive game actually has this weird relationship to sentimentality and porn because it's just
+someone made a product to jerk our chain in a particular way.
+Yes, that connects to things you've written about gamification and Twitter and social media and
+that whole addiction stimulation. This is really hard to talk about, but I want to get into it a
+little bit because when you were talking about film, you obviously seem to know a lot about film.
+I also love all those people you were talking about or we could talk about. There's all these
+different styles, but we're coming at it. We have a reference, we've watched a lot of film,
+we've thought about how they're different. So our sensory experience of it is going to be
+different. It has a lot to do with awareness and intention, but also just every film we've seen up
+until this point, right? Whereas someone else who maybe has never thought about film, and they've
+watched films but never thought about film as an art form, will watch a film and have a sensory
+experience that's different. And both are legitimate, but there's some kind of difference there. And I
+feel like that happens with games too. It can happen with social media. There's some kind of weird way in
+which the more you're interacting with the thing as a medium, knowing it's a medium, it's changing or
+I don't know. Yeah. I mean, this is really hard to put our finger on. And there's been, in the
+philosophy, in various aesthetic theories, there's been various rebellions against the elitism of the
+high arts. I think people have lost what the thing you're talking about. So I do think there's a deep
+difference between approaching something as an art or with an aesthetic attitude and not, that's
+completely unrelated to its highness or lowness or pop culture-ness or not, right? I think you can
+approach the fanciest film this way, but you can also approach like, you know, often culturally denigrated
+forms like comics and rap and games. Yeah. Or even porn. I mean, you know, we could think of porn
+as art if we really want to look at it in some weird way from some weird angle.
+Yes. So this is, so one of the interesting things in philosophy of art is that there are a set of
+theories that think what makes art different is the object itself. And another set of theories that
+think what makes art different is actually the attitude we bring to it. And then you can flip back
+and forth. Stolnitz, who is loosely Kantian, thinks something like, when you come to practical objects,
+you come to them with a narrow focus. You're like, here's what I want out of it. And you only pay
+attention to the features in it that give you the thing you thought you wanted. This sounds a lot
+like the sentimental art porn stuff, right? Like, here's the reaction I want. I'm going to watch
+this movie. It's going to make me cry. Done. Bargain seals.
+For the release or whatever. Yeah. Yes. For the release of whatever. Exactly.
+Every time I talk about this stuff, especially at school, I have to like remind myself not to get
+fired. But I mean, it really is true. We do use games and art as ways to release feelings or
+tensions or, I mean, we have to talk about all of that is, it is messy, isn't it?
+It is. It's super messy. But so in this theory, like what it is to approach something aesthetically,
+one way you put it is, you come to it open about what it could give you and how it could get there,
+right? And that, if a Stolnitzian theory is right, then the difference isn't necessarily in the work,
+it's in the viewer, whether we come to it being like, okay, I just want this feeling,
+if I get it, awesome. If I don't, it's bad. And a different attitude, a more open attitude that
+looks to the thing to see what the thing could give us, that's open to different experiences
+from the thing. And I think you can have, you can have both of those attitudes towards the game. You
+can, you can see this in reviews. You can see people saying like, look, what I want from a game is
+some list of like, yeah, or I want to, I want to get caught in the addictive loop of crafting and this
+game gives it to me. It's great. If that game doesn't, nah, right? That's the sentimental
+porny attitude. Or you can have a different attitude that's, you know, I think if you combine
+the two things we said, that's open to what the thing can give you and really interested in the
+relationship between the details of the thing and the overall experience, then you have a totally
+different attitude and relationship. Yeah. And it's similar to the one we were talking about with the
+writing and the way you craft it, and then you get into a kind of a flow. And there's this very
+strange thing about thinking about what you're doing and how that changes what you're doing.
+But just to say with games, I was just thinking last night, my husband really loves sports and we
+live in the Netherlands, he's European, so it's mostly football, right? And American football was on
+yesterday and I am from the States and I remember these games, college football, where people just go
+completely mad, like completely lose themselves in this group. We were seeing it on TV and I was
+thinking, could I do that anymore? I think there was a time when I could just go to a football match,
+maybe when I was 17 and just be in that weird spirit. And now I think I would be way too aware
+of myself in this strange atmosphere and all these people. Well, I mean, do you, is it you can't do that
+or that your circumstances have changed? I mean, for me, I've never been able to get to that state
+in a football stadium, but at the right dance environment, I can be, it's different, it's not,
+but I can be lost in this. Yeah, that's actually a good point because I never, football was never
+really the thing. I do think there's a way you can come back to it and be free in that sense and know
+you're free and it's even more enjoyable. Dance is a good, a good example of that. And I do think
+that's very, very wonderful. Right. And that actually is, has to do with that, uh, writing too,
+when you have learned the craft and you've, and then you come back to it and then something very
+exciting happens. You're in that flow, but it becomes, uh, hard to think about in terms of agency,
+I think, because this is such a big word and an agent isn't agency, right? Do those, those seem to get
+confused sometimes. Like when we think about games, because in your work, you show that this is,
+it has a very big resonance in, uh, society and the way we interact. You're very premise in your
+book about like the games, the person who's making the game is setting your agency for you in a way.
+And I know I'm not saying it right. You can correct me, but this has very high stakes, doesn't it?
+This is high stakes in both directions. I mean, setting, setting an agency is, that's the right way to put
+it. Like, I think a game designer specifies your desires in the game and you just take it on.
+This is for me, as a game player, this just makes sense, right? I mean, I play a lot of board games
+with my spouse and we open the rules and then the rules just tell us whether we're cooperating or
+competing. And we just like, it's funny that you walk in, you open the game and sometimes like you can
+not know whether you're going to be trying to kill each other or out-compete each other or cooperating to
+stop. Like, and the game just tells you and then you want that, right? So there's this found fluidity
+and I do think they get shaped, right? Like some games you get plunged into a competitive agency.
+Some games you get plunged into a cooperative agency. Some games you get plunged into an agency
+where you're hyper-calculating little statistics about like resource efficiency. Other games you get
+plunged into an agency where you're like trying to tell jokes as quickly as possible, right? These are
+different goals and different actions you can take towards those goals. That's all the claim is.
+Now I think it's, I mean, there's a question about whether this is dangerous or not. I think
+there's some people that think it's always dangerous, right? Agency shaping is always
+dangerous. I think other people think, kasha, how could you possibly worry about this? But I think
+one way to put it is that if we understand any medium, artistic medium, we can see that it's
+incredibly powerful. I mean, it's not weird to think that narratives are emotionally potent and
+that's how they can be used for good or ill, right? That a narrative can let you explore different
+emotional experiences, but it can also be used for like fascist propaganda, right? That's not surprising at
+all. And all I think I'm saying is, look, what makes games powerful is that they manipulate agency.
+You can use it for good or ill. What it's like to use it for ill is to use it to trap people in a
+pre-specified agency with no autonomy or freedom. And that relates to that, what we were saying,
+if you don't know your environment and constraints are being set, that the game is being set for you,
+that's very different stakes of agency. And when you start, because you have written about
+something like Twitter, and we do all live in a more gamified world now, and you've written about
+that. But when you're writing a book or a novel, isn't that also giving you a chance to sort of
+be within the constraints and environment of a different agency? I feel like all of our endeavors,
+in a way, when it comes to creativity, at their best, we're sort of trying to share
+our perspective from this space-time trajectory that we can't get out of, that's always a little
+different than everyone else. And at its best, whether it's film or movies or books, we get
+what you might call a pipeline. You have this beautiful thing where you say it's like opening
+pipelines between two cognitive perspectives. There's this trust, right, that happens and you
+connect in that. And that's what you're enjoying in the movie, in the book, in the game. But I don't
+know, how are games different than these other forms of art?
+I mean, there are so many forms of human expression where you're trying to communicate one
+perspective through some fixed medium. And yeah, but what the medium is, is different. I mean,
+of course, every artist has agency and makes decisions. The difference with games is that's
+what the medium is. That's what's being transmitted, right? Like, with words, with a novel,
+what you're shaping is a sequence of words that shapes a sequence of events that shapes an emotional
+perspective that someone can step into. Maybe it'll... I mean, I just think the... Saying that
+they're the art form of agency is just shorthand for saying the thing I said before, which I think
+is distinctive about games. They give you desires and they give you abilities, and then they tell you
+to do something. That's different. That's the key of the theory. Like, saying that the art of agency
+is just a shorthand handle for that. That's what makes games distinctive.
+Mm-hmm. That's wonderful. I just... I want to push a little more because,
+as we were saying, it depends what kind of game and the stakes depend on the game and all of this.
+So a board game or something, it's very clear to me, you know, what you say. That's how it's designed.
+But if it becomes something like augmented reality or virtual reality, where you can forget you're in
+there, or even a space like social media, where we might be kind of living in these game spaces or
+mental spaces or a different kind of space than we normally think of as, like, you know, physical,
+I want to ask these bigger questions about, are we trying to start to... Can we start to understand
+this in a way that might be beneficial? I know this gets really tricky philosophically and everything,
+but is there something about games that can help us better understand each other? Or is it just...
+Should we just think of it as an activity that's not necessarily going to kind of change who you are
+deep in your soul, the way a book might or art or... Let me start with a quick caveat. I don't think all
+VR environments are games. This is why I think the suit's definition is a little different from a lot of
+of the colloquial use. So there has to be a specified goal, otherwise it doesn't count as a game. I think
+there are a lot of objects we have that colloquially call video games that aren't quite that. So old
+school Minecraft, right? I think of that as a virtual environment and a virtual sandbox that doesn't
+have a specific game attached. People can make it into a game. You can decide your own game. But
+I mean, my kid plays it and some days he wants to do a survival game with zombies and other days he
+wants to build the biggest tower. And what he's doing is using a virtual environment with a preset
+toolbox to come up with different games. And I think something like World of Warcraft is going to be
+really complicated because I do think people... It's a virtual environment that has a few pre-established
+games, but people will shift between them, right? There's a max out points game, but there's also
+a virtual reality role-playing experience that can be very non-game-like. And one of the things about
+virtual reality is... I mean, it's funny because sometimes I get requests from journalists to talk
+about virtual reality and I'm like, I know nothing about virtual reality. And what it is to be a virtual
+reality is very distinct from what it is to be a game. So first caveat, a lot of the things that
+are going on in virtual reality aren't Suits-ian games. And so they're different objects. You can play
+games in them. It feels like play, I think, is the problem. You have to see play, you know, this is where
+it gets very easy. It's easy to blur. Play is a different concept from games. Suits was really
+clear on this. He has this great essay where he says that... He says play and games overlap sometimes,
+but not always. So he had this funky definition of play that I'm not sure I believe in. He said that
+what play was, was wasting normally instrumental resources for autotelic reasons. That is taking
+things that were normally useful and then just doing it for the pure pleasure of it. Like playing
+with your food, playing around. And he had these examples. He was like, look, a lot of games we
+enter into or playing pretend. There's not the game like structure, but it is play. And he said also,
+look, if you are a professional boxer who hates it, but you're making money for it and you need to
+support your family, that's work, not play, but it is a game. So I think a lot of VR spaces are playful,
+but here's something useful. Some people in the space distinguish between toys and games.
+And the difference is that games have a goal and toys don't. They're more freeform,
+but they're both forms of play. Yeah. This gets really confusing because you have the verb,
+you have the noun, but sometimes a game is a verb. Is it that there's something about the game itself
+that's more easily manipulated or more obviously manipulated or something?
+Yeah. I mean, first I want to have like one caution. When a lot of people, when people think
+about games, they tend to be looking for one value or one function they have. And I just think this is,
+this is why I like medium analyses. It's like, no one thinks that novels can only do one thing.
+Like a novel is something that uses words and events, and then you can do a billion different
+things with novels. Games use agency and you can do a billion things with them. You can use games to
+get healthy. You can use games for brain training. You can use games for free productivity. You can use
+games to relax, right? There's a billion different things you can do. Right. So they don't always
+have to have a goal then. No. So they have a goal, but I mean, what's really important is that for a
+game, a Suthian game, there's difference between the goal and the purpose. So the goal is what you
+pursue in the game and the purpose is why you do it. So for example, classic example, party games.
+The goal is to win. The purpose is to have fun. And we can tell because if we lost,
+we don't think our evening is wasted, right? If you lost and had fun, you're just as happy.
+If you're not a terrible person with a party game, if you had a great time with your friends and you
+lost, you think that it was time well spent. So what I'm talking about is games fulfill totally
+different purposes. And in fact, the same game, I mean, think about running a marathon, right?
+There's one goal that everyone shares to cross that finish line quickly. What are the purposes?
+Some people do it to get healthier. Some people do it because they want to be the best. Some
+people do it for money. Some people do it because it's going to make them like zen out and gives them
+this pure experience of calm and relaxed, right?
+So there's so many different purposes that different people can bring to the same game.
+And pursuit of a goal by a particular constraint is often really flexible about what you can get out
+of it. Like I rock climb because it shuts up the voices in my head. That's the main, it's aesthetically
+beautiful. And it makes me stop thinking for a bit. Like it's, I can't stop thinking unless I have
+something that intense and that's the main reason. It's not the reason everyone does it.
+Uh, no writing is giving into the voices in my head.
+Oh, okay. Does games do games?
+Um, totally depends on the game. I think one of the reasons I, I feel like I spend most of my life
+hyper verbal and, uh, games like tabletop role-playing are extensions of that, which are super fun for me,
+but don't refresh that part of me where rock climbing. And I've been fly fishing a lot lately.
+These are totally non-verbal, totally physical, wordless experiences. And I find them incredibly
+good for departures from that close to what you've talked about as a transition zone or something like
+that. I mean, are they, what's happening in that moment? Are you just, you're not at rest necessarily,
+or are you just, yeah, they're, it's really funky. Like, I mean, maybe some people can just rest. I
+don't rest. No, I can't, but it's weird. It's like, you were so active that it's restful or I don't know.
+Yeah. Right. But I mean, it's related to what games are. Games are often artificial hyper focuses
+on one part of your agency. And I feel like what it can do is, so fly fishing is very much about visual
+attention to the water. It's a very, like, I think, and I do my best when all the words are gone.
+Rock climbing is about intense attention to your balance and body posture. And again, words get in
+the way, right? So I feel like it often, it helps you achieve, it helps you rest. Maybe some people
+even just rest, but for me, resting the verbal part of my brain, it really helps to have a hyper focus
+on a fully nonverbal activity. This is why I find like, I also tie flies. I was talking with some
+people about how it's so similar in pleasure to crocheting. And I think like part of the similar
+similarity is I, I'm absorbed in the act of precise, physical, detailed movement with my hands.
+And it's like, it's all feel and it's all like tension and movement and flow. And there are no
+words, words mostly get in the way. So like, I mean, one way to put it is I've always thought that games
+plunge you into one aspect of your agency and give you this totalizing experience. And that often has,
+and that often is an opportunity to or encourages you to shut off other parts of your agency,
+which is really date. I mean, I think when you export this, the dangerous version of this is
+make as much money as you can and don't worry about anything else. But it deployed as a temporary
+measure. I think it's great that I have something that I can reliably do that lets me not use words for
+hours at a time. It reminds me of walking. That's what I do. I find that there's something about
+too, what you're describing and walking and that there's something about the continuity of it and
+that you're not doing the same exact thing over and over, but there's a pattern, a recognizable pattern
+that does kind of, it doesn't lull you necessarily, but, and I think that actually speaks also in,
+if we go to the dangerous side of something like Twitter or something like this kind of addiction that
+can come when real life is gamified too, because there's also something about that that can,
+like, you feel like you don't have to think or listen to the, the words.
+Yes.
+Yeah. And that can be peaceful too, in a similar way.
+Right.
+To the rock climbing.
+So maybe one way to put it is that games are focusing and focus is most powerful and dangerous.
+What it is to focus is to pay attention to certain things and ignore other things. A useful way to
+play games is to play a lot of different games. And what that is, it's focusing on different things
+serially. That's great. Right. That means you, so I think I never really saw rocks deeply until I
+started rock climbing. I never saw, you see the, you see it so differently. Like, do you, do you climb?
+I'm not a climber. It's more, um, I'm walking and this, a similar thing happens, right? When you're
+really looking at the environment, everything comes alive in a different way. The textures,
+you start to realize things aren't solid. It's very weird in a way.
+But yeah, no. So, I mean, having games heightening your attention and focus to a series of different
+things over your lifetime, I think that's a broadening experience. Spending your entire life
+on Twitter and focused only on the things that will get you more likes or retweets
+is, I think, narrowing if you don't step back from it. I mean, it's,
+focus is powerful and both abusable and usable. Like, and games are tools for a kind of focus.
+Right. And this is an important point because that is a huge leap, right? Being taken by something,
+having your attention taken or participating in a game, not knowing you're participating in a game.
+There's a big leap between that and what we're just, what we're talking about now and like,
+um, how do we open that space? This relates also to knowledge, right? Is there any connection there
+between pursuit of knowledge or sharing knowledge or? Yeah. Yeah.
+I mean, this is, so this is what makes games potent and dangerous. Like with a game,
+you're stepping into a different sculpted agent. And it's, I mean, and one of the things is,
+if the good part is that it might teach you something you don't already know, that's also
+the danger because like playing a game is a jump into the unknown, but that's the same with like
+other arts, right? Like having an aesthetic experience. You can't go back. You can't
+unplay, unsee, unhear. And like, sometimes you don't know what's there. You open yourself up to it.
+You're letting yourself enter an emotional perspective. Sometimes you learn something
+and sometimes you watch a fucking Darren Aronofsky film and you have like, like, you know,
+foulness trapped in your brain forever that you can never get rid of.
+I know exactly what you mean. There's some things that are, I mean, violin is the right word. I think
+where you don't know you're about to be changed, but you can't go back once it changes you. And it
+is art, you know? Yeah. And, but that's also like, that's what makes it powerful, right? The whole point,
+you might, that's why people gravitate toward it even. Right. I mean, I don't like fluidity can be
+good and bad. Having new, when art in general welds new parts of souls to you. Like, hope,
+hope you don't get something shitty, but also it's hard to know what, like, you know, I mean,
+sometimes we know ahead of time. Um, like there are clues. I guess what I'm trying to push a little
+bit is that, um, we are designing games for each other in a way. Do you, do you think games are only,
+um, with the rules laid out so that you can read them in the way that you woke and then you leave
+it behind? Have things blurred a little bit now where we're creating games, playing games, sometimes
+learning that life is a game and not, not able to get our awareness and attention out of that long
+enough to change it? Yeah. I mean, okay. One thing I should be clear about the idea that you can open
+up a game and put, enter into the end for a while and step back from it. That's not guaranteed. That
+is a learned skill that people may or may not have, but also like, I mean, it's also a skill that we
+learn and teach people to open up a novel, enter into another emotional perspective. And at the end,
+step back and be like, you know, it's, it's, I think valuable to read a book from the perspective of
+a terrible person that was carefully constructed to be so, and then be able to pull back from it
+afterwards. That's a skill we learn. It's a skill, but I don't, I mean, you can,
+you can probably disagree, but I don't think, I think we're kidding ourselves if we think we aren't
+changed by, by all of that. I mean, I've read, you know, I've read a book once and I couldn't stop
+reading it, but it was awful. And I literally tore the entire thing up and like threw it in the trash
+after just to try to get rid of it. I I've forgotten the name. It was literally,
+I was a teenager and it was about, let's not, let's not go there, but I, it's still,
+I still feel it now. And it, you know, these things change you. And I have to say, I think the games we
+play change us too. I've, whether they're basketball, volleyball, chess, um, a board game, a video game,
+in my experience, they changed the way I think a little bit. They changed my sensory experience of
+the world. After I've been playing games, I I'm entering, I see the world differently.
+Um, I don't know. I think we're kidding ourselves to say that we can open anything up and put it
+away and not be changed. You know, I think it's just terrifying to realize that's, that's true
+about everything. That's true about people and novels and schools. It's true about everything.
+I mean, the disposable anything in the games book is just about the victory condition. Like I try to
+win for these points. That's why I stopped caring about,
+but there are all kinds of ways you're thinking could be habituated by.
+At the end of the books, one of the things I worry about is I think that there are a lot of people
+who have worried mostly incorrectly that games might habituate you to be violent because I think
+that empirical research shows that that doesn't happen mostly because we know it's fiction. But I
+worry that playing games habituates people to expecting quantified value systems. Like that's a,
+that's not the specific goal of the game. That's something more general. Let me say,
+so the other thing I've written a lot about is trust. And I think, um,
+trust is the essential mode of being for people in this world, right? Um,
+so a lot of philosophers, but we were talking about Elijah Milgram on email, but Elijah Milgram
+changed a lot about how I think about epistemology and philosophy by really putting words to this like
+kind of inchoate thought that we are no longer in an era where we can have intellectual autonomy,
+that the key characteristic of our era is hyper-specialization. And that means to conduct
+ourselves, we're constantly having to trust, trust beyond what we can manage.
+Sometimes I take my students in an epistemology class to an exercise and the exercise is just
+how many people have you trusted with your life in the last five minutes?
+At first they're like, no one. And they're like, oh, wait, we're trusting this building not to fall
+down. How many we're trusting in you? Yeah. You're trusting the drivers on the street. You're trusting
+the brake mechanics. You're trusting the science that they use. Like how many statistics? So,
+quickly what you see is that your trust runs completely out of your control, completely out
+of your sight, that your life depends on people you have no idea who they are. And I think the
+experience I have of this is vertigo, right? It's not quite terror. It's just like, holy shit.
+So, Annette Beyer, who's my favorite, one of my favorite philosophers ever, she has this paper,
+Trust and Antitrust, which I love. And what she says is the core of trust is vulnerability.
+What it is to trust is put something of yourself and somebody else's power. And that's what makes
+it valuable, right? That we are letting, otherwise we're limited to our own powers and our own
+management. Like, and this is, this is true with like kind of interpersonal trust, trusting my
+teachers with my kids life. But it's also true with like, I'm on antibiotics right now. I have no
+idea what's in it. I, right. I trusted somebody.
+Mm-hmm. Games seem like a way where you can learn how to trust, look at that trust a little
+bit. Start to look at the patterns by which you've already since birth been trusting.
+Yes. There are so many games that are about trust. There are so many tropes about how team sports do
+this, but it is like, one of the things you learn is how to work as a precise coordinated unit and
+just trust someone absolutely. That's also kind of dangerous in a way, but also it's something you can
+learn to do. But the thing I wanted to say is, I think there's a deep trust involved in any artistic
+experience because you're opening your emotional self. You're opening yourself to transformation
+in ways that you can't expect. And I think without it, we don't grow, right? But we also let
+shit into our heads. And this is the terrifying vulnerability again. I mean, I think what you said
+is true of games, but it's true of everything. Every friendship, every novel, every movie can change
+you irrevocably. And if you refuse them all, you'll be a static being who doesn't grow. And also,
+if you try it and you put your trust in a bad thing, it will shit in your brain and there's no
+way around it because you can't know ahead of time what it is exactly. You can try. You can use guides.
+You carefully figure out who might be a good guide about what's going to be good and what's going to
+shit in your brain. But in the end, you're just opening yourself over and over again.
+Last question then. Is love ever a game?
+If it is, it's a terrible one.
+I mean, I think we have expressions like, don't play games with my heart.
+And I think there, I mean, actually, I think I put it in the book. I almost cut it out.
+But there's a part where I say that what games are and what love is, is opposite.
+What games are, is being able to be totally disattached to an end, be able to put it aside
+and put it away again and just use it instrumentally. Right?
+Yeah. That's what I was hoping you'd get to.
+Yeah. It's committed devotion or something like that. It's non-disposable. It's non-fungible. It's
+non-fluid. So I think they're really different.
+Yeah. It's more like that trust state, but it's also, you can also start to realize it and still
+give way to it, I guess. Yeah.
+Yeah. But you can love a game.
+Yeah.
+I love rock climbing with all my heart.
+Yes, definitely. In many kinds of ways as well, of course. But thank you to you for talking and
+good luck with the rest of your day there.
+Thank you so much.
+All right. Be well.

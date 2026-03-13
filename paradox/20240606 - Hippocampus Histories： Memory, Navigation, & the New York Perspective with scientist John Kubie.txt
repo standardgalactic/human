@@ -1,0 +1,1112 @@
+hello john it's so great to see you thank you so much for having this conversation today
+and thank you andrea for inviting me it's first we've emailed back and forth but the first time
+i've seen you live i've seen your podcasts and yes that's true patricia churchland uh introduced us
+way back but we are only finally getting to meet in person although i have read a lot of your
+papers over the years that i want to share with others but let's just start with the biography
+and um before we start i also want to say we're going to talk about um some issues relative to
+neuroscience but try to talk about them in a way that's a little bit general and try to find ways
+to really think about and explain these topics in a way that a lot of people will understand so but
+first john i think it started with snakes and um smell is that right do i remember pretty early
+that's not quite the start okay you know i'm an older guy and when i was in college neuroscience
+wasn't such a thing and especially we might call cognitive neuroscience was in infancy or hadn't
+been born yet whatever you know it's exploded in recent years and in college i was a biology major but
+i was really interested in psychology actually a great uncle as a psychiatrist who was very influential
+but i didn't really know that there was any fusion of the two fields and it was actually one year
+at a college that said in the aha brilliant you know you can do both a little bit and um i started
+a graduate program do you remember what the aha was i was working actually in a pediatric neurology
+clinic you know helping out and i went it took a part time took one course audited by a professor
+in the program uh walter wriss and it was called comparative neurology and it was a comparative
+description of brains and one of the things that excited me was that it was um he had a point of
+view he presented and i did science you know taught but the point of view that's really great it's
+exciting and he was really a brilliant guy very interesting lecture so it was exciting about that the
+point of view it did it mean you could yeah it wasn't just balancing all the fact you could start
+with an idea and present you know to defend it as strongly as you could that kind of thing
+he had a few basic theses that he would present throughout his introductory course one was levels
+of organization within the cns that basically you know you had a theme and you could build them
+out in different animal brains and actually he was the original editor of brain behavior and
+evolution and so that was the that's the core of the interest so when i started graduate school it
+was in his group of faculty it was in the early 1970s when neuroanatomy and comparative neuroanatomy
+was a much bigger component of neuroscience and um my advisor was in the group woman named mimi halpern
+and she was studying snake brain and she was more of a psychologist and she was learning to be a
+neuroscientist and neuroanatomist and um she was interested in studying the two olfactory systems
+in snakes and just a year or two before um others in the group frank skelly and sarah winens had shown
+that the central connections of the main and the accessory olfactory bulbs in mammals had didn't overlap
+and the accessory bulb is the relay for the vulnerable nasal system so this really reopened
+the idea that these two olfactory systems had different functions it could be drew they weren't
+just redundant or overlapping in some way which was sort of the preponderant idea but um anyway so
+it turns out that snakes have a fantastically and relatively enlarged boomer nasal system when they flick
+their tongues what they're doing is picking up chemicals from the environment and delivering it
+to their boomer nasal organs which are in the roof of the open into the roof of the mouth instead of
+into the nasal cavity the epithelium is very similar to the olfactory epithelium but it's a second
+sensory system and there was some rough idea that maybe this second system this bomber nasal system is
+sensitive to non-volatiles and non-airborne odorants the tongue would be a good way of touching and picking
+them up and delivering oh that's fascinating i love going to natural history museums where you can
+actually see for example i'm thinking of the dog because i have a dog that i just walked and of
+course the sense of smell is so prominent um the way that different creatures sense the world through
+their smell is really fascinating but were you actually interested in that when you were young yeah
+okay i was young no no it all came through this you know starting graduate school and when i started
+graduate school i wasn't at all sure that i it could be a full-time scientist you know the idea of
+spending hours a day 12 you know full-time doing stuff i've done been worked in labs and it wasn't you
+know college laboratories which last two or three hours are excruciating you know around school
+yeah that's what i'm trying to get out well what was like driving the interest because you got very much
+into technology for example i mean you're you're doing science um in the lab you're good with the
+technology were you interested in that stuff when you were a kid or was it more curiosity i know you
+were interested in emotions at this time at least i think i remember correctly so compared to my family
+i'm very good with my hands but that's a bad comparison i remember in fact science toys in the 50s
+were much but really great i had a whole bunch of they were you know not just microscopes and
+rector sets and things like that i remember i had an analog computer set i didn't quite know what it
+was but i put it together trying to get it to some math and things anyway so um going in the emotion
+side probably is similar to all of us we're all a little mixed up and we want to know you know where
+that comes from if we can fix that up a little bit and i did have us my great uncle lawrence cubie
+was a renowned psychiatrist and he was the you know the sort of famous person in our family so
+he was very motivated when i went to college and went to johns hopkins and he lived in just outside
+of baltimore and i visited him a lot and he was really inspired he was a lot of fun but also
+you know sort of helped me focus a bit although not finally but but those are some of the influences
+i can imagine that would be influential on on different levels i mean when you hear your
+family talking about him as a famous man that's influential but also when you come to that age
+where you're we all go through whether it's adolescence or later where you are like as you
+said you you feel a little confused you're trying to figure out the world it seems like it would then
+kind of yeah that would fit naturally as a place to look maybe psychology um if you had it already in
+your environment or context yeah and i was i think i was introspective so that would you know fit in
+with that sorts of things i was i would say that how does snakes and emotion and all of this come
+together and you know at some point we go to the hippocampus so this seems like these are far away but
+were they yeah let me just you know be contrarian a little bit okay and you know mclean's triune brain
+is that familiar i do but we should talk about the limbic and the yeah so mclean's was an important
+historical figure in introducing actually the study of emotion into neuroscience and i think you know
+coined the phrase the limbic system right which everyone says we shouldn't use anymore i don't know
+how you feel about that i use it okay i use it in a way that's not very controversial i say it's an
+anatomical system it's defined by its relationship to the hypothalamus and not misfunctional yeah so
+paul mclean the famous triune brain and um he's criticized for roughly saying there's a reptilian
+brain and then on top of that there's a proto-mammalian brain and on top of that is a neo-mammalian as if
+these layers spring up from nowhere and every biologist including knows that nothing comes from
+nowhere everything derives from something and paul mclean knew that well there's one just terrible
+figure that every you know that he used everyone used it seems to show these layers as if they just
+one grew miraculously but you know from the head of athena on top of another and that's just
+silliness and he never really said that and i've already read his book it's not a very good book
+but his actual work was much much better than that and he had a pretty sophisticated one of those
+things too that just went into popular culture as people talking about the lizard brain as if we've
+evolved from the lizard brain and you know in the past five or six years how emotions are made the
+book has come out and it's kind of saying okay that's a really wrong way to think about emotions
+and so yeah i think that's a really wrong way to dismiss emotions i think we did evolve from something
+like an ancestor to lizards and we can we don't understand it very well but that's a real wonderful
+problem to explore well you studied salamanders and snakes so you probably see a different
+connection than i'm able to really see i mean are you do you see some kind of continuity in a more
+general sense yes and no okay i think the biggest unknown in well let's back up a little bit so um
+there's a wonderful book came out a couple of years strider and north cut called um it's a it's the
+title but it's the evolution of the vertebrate brain and they're principally comparative neuroanatomists
+and very detailed and comparative neuroanatomy with some jumps into function they're not great
+in physiology it's such a it's an example of such a broad area that nobody can know everything it is
+a very good book but among all the books the big mystery is how we are neocortex comes from because
+neocortex we all know is really important and its roots are not agreed upon and even if they were
+agreed upon if we know let's say it came from dorsal cortex it almost certainly functionally very
+different from door it's doing you know the algorithms whatever it's doing is really unique
+and different and so we i don't think there is a great idea where this wonderful neocortex came from
+and connected to that is well this wonderful thing evolved what's it doing for us what's what benefits
+do mammals have that have a neocortex that reptiles don't have and birds have another version of
+something that does something sort of like neocortex but it's not a neocortex these are really interesting
+questions and you have to get into the functional processing level which is just beginning to be
+understood to get at that and i think that's a really wonderful approach having you to get at
+it's barely scratched the surface might be a good place for people going into yes there are a couple
+labs working in that area just a couple and i'm not the name's not coming to mind but it's a very rich
+i think originally it's you know the rewards are huge when you were working um with the snakes and
+smell were you already how are you what were you working with what was like the kind of technology
+or the equipment or the procedures methods that one of the problems with my thesis work was i love my
+thesis work your phd was on that yeah seven papers came out of it there's really it's one of the things
+where we simply answered ask questions and answer them they don't have to be investigated again
+because it was such a new field you could just say you know is the roman nasal system critical for
+mating behavior in male garbage mix the answer is yes it's an all or none it's not like that sounds so
+satisfying rarely do you get such satisfaction in science so quickly and um we did develop some novel
+techniques but they're on the behavioral lines so it was mimi was very good at doing the surgery and cut
+very carefully cutting the olfactory of the vomeronasal nerves we had great histology to verify
+the lesions and we worked in understanding the histology and degeneration of the organ systems
+i developed a technique suturing closed the vomeronasal ducts so the animals couldn't deliver
+tongue flick odorants into their boomer nasal organs and we anesthetized the local anesthesia um
+injections under the chin so so plus paralysis of the tongue muscles and they couldn't put their
+tongues as soon as that returned all the behavior in the moment it returned the behavior returned
+that kind of thing so a lot of you know video analysis of tongue flicking sort of primitive but
+there was very little background to work with we were free to develop rude but interesting techniques
+and it was a lot of fun fascinating phd but then your postdoc was well so it was fascinating but i
+didn't learn any deep skills that i knew i wanted to work in the limbic system i think i wanted to
+work in mammals i wanted to do electrophysiology and i had no idea how to do electrophysiology so
+the first postdoc i did was at pan with a guy named david moulton recording directly from the olfactory
+epithelium so using electrical recording tech well the neurons in the brain uh use electricity the signals
+they send from one neuron to another are electrical signals action potentials are in the other signals
+and so with electrodes of various sorts you can put the electrodes either in a gross area and get
+getting gross waves like eegs and field potentials or with the fine-tipped electrodes you can record
+say outside of a single neuron and listen to the activity of that single neuron action potentials go up
+or something i haven't done you can use even a finer tipped electrode and go into the cell
+and record the electrical activity within the cell that leads to the cell having an action potential or
+not that is the you can listen to its inputs and see how they add together and so there are
+a whole variety of ways of using electrical recording techniques to probe the brain and yeah was that all
+that was all being developed right as you were going to school yeah this is right so 1977 i went to
+to work at late 70s then okay i was not i was this was not new i'll get to it's new so i was just
+the recording from the olfactory epithelium and sand salamanders was relatively straightforward
+simple things we're recording what's called an electro olfactogram which is putting the electrodes on the
+mucus layer of the epithelium okay and recording a mass response of many neurons when an odor is delivered
+and these are pretty big responses and um the salamander you know we just exposed the epithelium
+and we made we're able to make maps of sensitivity in different parts of the epithelium and when you say
+maps you could well say the anterior part of the epithelium the neuron the set of neurons there
+was more sensitive to to water soluble odorants and the posterior regions to less soluble odorants
+and we mapped out different odorants in there you know where they would have a peak electro olfactograms
+and the generalization was that so that's what i meant by a map David it wasn't a map in terms of
+hippocampal maps or yeah but as i said earlier i really wanted to get into the brain into this
+emotional stuff into cognition which we may get back to and this was not cognition but it taught
+me a lot so in terms of new techniques so i went back to my phd school down to take medical school
+where i am now and jim ronk had just moved there from the university of michigan and we're going to
+gym i think in some detail i hope yeah this is so we're now we're at late 70s right this is 79 this
+is your second postdoc and you've got now you've got the experience recording a bit and now you go to
+downstate for the first time right and i had planned to go back and work with jim ronk he was an exciting
+guy and among the the exciting thing that he did was be on the forefront of being able to record single
+neurons in behaving animals so we go back to that electrical recording technique there's a pretty
+small electrodes put into the rat's brain right and it's not going into a cell it's getting close to a
+cell so it can listen to the activity of single cell hopefully single cells so this was technically
+very challenging so you're listening to the action potentials right but so it turns out that jim ronk
+and john o'keefe were two of the pioneers in being able to record single neurons in behave while the
+animals walking around in space the biggest problem is o'keefe was at mcgill we kind of already talked
+about him a little bit with lynn and he was just starting to use the same technology that you were
+using with ronk at the same time is that no yes no he was at university college london he left mcgill oh
+yeah right he was already at ucl and and he was recording from the hippocampus and jim was recording
+in hippocampus they didn't know each other there were the technique the important technical advance
+was to use something called the feet f-e-t or a field effect transistor which put a lot of um up the
+signal going up the recording cable no the action potentials of single neurons are just tiny amounts of
+electricity and if you tried to put that tiny amount of electricity up a wire any movement of
+the wire would make huge artifacts and induce currents and so you so the problem with behaving
+atom was it's going to walk around you've got a wire going to its brain and you get this crazy noise
+coming in but the fet is mounted on the head stage amplified the signal so that the electricity going up
+the wire was much stronger and meant that the relative um electricity induced by moving the
+the wire was really small and could pretty much be ignored so jim and o'keefe were among the pioneers
+maybe the pioneers in the ability to record um single cells and bathing animals and these fetes were brand
+new but they were robust enough to permit this and they were good enough engineers to see the possibility
+and so that and did you know that jim ronk was doing this already or yes okay so that's why you
+went there you wanted to be part of that okay right and i'd heard from jim i think about this
+these things called place that cells fired where the animals wasn't in a place so is this already
+the 80s then because that was about 78 that he found this is 79 okay so you were really on top of
+you were like already reading all right reading i don't know so i heard from jim word of mouth
+jim and o'keefe were working in parallel they didn't know each other um which as jim says he heard about
+o'keefe and he wrote him and said can i come over and see what you're doing right and he spent part of
+sabbatical over there got to know o'keefe and lynn and i and so i remember he didn't see any place
+cells because they weren't recording stuff in the months he was oh but he was very you know he's
+very he loved he liked them a lot i don't think he was hunter he was not 100 convinced but he was
+on their side and because he hasn't actually seen them but he so he had not recorded head direction
+cells yet he had no he had he was recording single neurons and he has a paper of the behavioral correlates
+of single neurons which goes totally different directions he was not looking at he was not paying
+much attention to where the animal was these things called approach consummate cells or approach he and
+he'll deny that they're meaningful at all because he just thinks he got it wrong although in in john
+o'keefe are much more charitable and yeah i've noticed that i mean a lot of it seems like he this time
+period at downstate him and then you and then mueller will get into it um seems very important
+but when ronk is asked about it he seems to kind of give credit away is there a reason for that i mean
+we haven't gotten into head direction so i think it's very important but i don't think i don't think
+that he would say he had anything to do with the discovery of place else so yes he mod he thinks
+well he's wonderful he gives him a full credit i think in the beginning in the introduction to the
+cognitive map book they say jim sort of saw the same thing jim denies it yeah i remember their mutual
+admiration society well that's fascinating okay and so i so you went to work with him and he put
+you to work on this three behavior test that's something similar right yeah so in those days jim
+wrote i think that 200 page grant proposal and it was all about these three behavior and he sent it to
+me the rest of it it was you know just the stuff pasted to get it was crazy it was but it was about
+the three that's what people did in those days and if you sent in 300 pages you got funded i guess
+but if it was nobody wants to read it so just give them the money three behavior tasks and the three
+behaviors he chose were um a radial arm maze which was developed by named david olton and it was very
+it was used early on for lesions and navigation spatial behavior used a lot it's very good
+apparatus um sort of before the water maze yeah it was the chief chief test but before the water maze was
+developed richard morris who also come on the show and talk about everything too right and the second
+apparatus was a large maternal box very big and he with these mother rats who were and the reason for
+that is that it was reported and true that um mother rats will have a difficult time retrieving
+their puffs after hippocampy lesions they'll retrieve them but they won't put them back in the nest they'll
+pick them up somewhere put them back somewhere else that kind of thing huh and very sad and um
+i think they didn't perhaps didn't die in they were still well yeah okay anyway my personal feelings in
+check okay and the third thing was something called the drl 16 and a different drl is differential reward
+for low rates of responding and it meant the yen we had to press a bar and wait 16 seconds before
+expressing again and then if it waited the full 16 seconds it would get a reward and build jim had built
+lovely skinner box actually two different arms could be activated and drl 16s also were reported to
+be uh sensitive to hippocampal damage so it these are three very different kinds of behaviors maybe
+we'll see things uniting these three behaviors that will tell us more about the hippocampus and for
+people who know have no idea what you just said because that was that was hard the idea was the
+hippocampal lesions would affect each behavior selected is that the selected behavior or what
+was kind of the big idea of the proposal the lesion literature showed that damaged hippocampus
+disrupted all three of these streams there was no mechanistic idea of what would combine the three
+things it was just well let's take a broad view and take a look at what happens do single neurons
+tell us anything about the relationships of these three tests and there was no recording that i knew
+i know of or anything but there was there were recordings on the radial arm maze but not the other
+two so what would you see in single neuron recordings in the other two hey so it was just exploratory
+so you were the one doing i'm sorry i came to the lab and he said he put me this big you know this
+200 page grant he put me on it so now you know you do it now i'll that's your job and i was learning
+all these you know how to make the electrodes and which is exactly what you wanted right i mean fine you
+got it so you didn't really choose the hippocampus but you chose more the method the idea i think my
+idea was i would learn the techniques in the hippocampus and then move to emotion yeah amygdala wherever
+the emotion right next is what it's going to be that was very it's funny because i think o'keefe was
+doing something with the amygdala right and then accidentally found that what he i mean from
+from your your talk with lynn i got a sense of what lynn found out about the you know the hippocampus
+and emotion or not emotion but things but never knew it so i was put in this history things and
+it was a lot of work to get them all working most of the tasks had been built the recordings
+were pretty sophisticated we recorded everything on videotape
+with the behavior on video tape yeah so you still you had a whole video archive of that
+wow yeah and i guess you still do right on the i'd like love to know where they all are but i'm not
+100 sure so the spikes were in the audio channel so they were well recorded in principle we could go
+back and analyze if we'd never really figured out once we've collected the data how we're going to
+analyze it so gosh somebody should look at that again i mean i won't go off on that tangent but there
+could be a lot there but so you're recording neurons in the hippocampus in these three tasks
+in these three tasks which are different according to what's lesioned right yeah they all get messed
+up with hippocampal damage right so what did you find was so what we found was play cells and play
+cells wow yeah that's the only thing we found um you know and can you for someone who doesn't know what
+that means what does it mean that you found play cells play cells so what a play cell is it's a
+single again we're recording from single neurons in the hippocampus we're just listening to the
+firing of the cell so the action potentials in the cells you hear it it's almost just like you're just
+hearing little tiger counter kind of noises yes just like a guy that's a good analogy so um and i'll
+use that in a moment i think i got that from you actually and so the um but ideally the recording
+has no effect on the animal's behavior it doesn't care it's got some it does probably shouldn't care
+that there's something sticking out of its head connection to a cable and stuff it's just running
+around in fact the behavior that we subsequently used well in these three tasks the behavior the
+animal was motivated for different things in the skinner box it was to getting food reward and they
+would behave pretty well for that in the maternal box the mother was retrieving pups in this case
+normally because it wasn't damaged hippocampus in the radial arm maze the animal had to solve the spatial
+problem of going down each arm remembering which and finding food at the end remembering which arm had
+already been down and so ideally sampling each of the eight arms before repeating anything and that's
+why it was a pretty good test now had you read tolman at this point partially yeah quickly yeah so you
+were aware of this idea of a cognitive map and so on and i guess that was right when lynn and john
+were publishing their book yes getting back to lynn and john and um jim wrong i think lynn mentioned
+that they sent out copies of the book to many people yeah he does and so jim had a copy that i that
+read but that would be before i came to the lab oh wow um so you were one of the first readers
+i don't remember much about my reaction but jim made lots of notes and sent it back to them and stuff
+is jim interested in philosophy at all and all these kind of bigger ideas or yeah jim's you know
+um a human that's you know very broadly educated and i would go to jim with questions about especially
+history of religion he's really good at philosophy he was a philosophy major i think in college jim's
+you know a mentor in many ways and just you know a great guy to talk to and just you know warm and
+giving and you know thoughtful and just you know a wonderful inspiration yeah people always say good
+things about him yeah that's true undeniable never heard of that um too modest so you got to work with
+him on your second postdoc being one of the first people recording play cells in a way right yeah
+yeah so what's the place now so um you're recording you you've got this right oh i'll describe it
+in a more current task where that's in in a cylindrical enclosure and we're dropping food pellets
+randomly on the floor so they're at this maybe food you know just searching for food doesn't know where
+to go and occasionally comes a little pellet meets it but it's a task that just gets the animal moving
+it doesn't have to know where it is in space it's almost certainly not a navigational task but while
+we're recording we are keeping track of where the animal is in more recent things we have an overhead
+camera that automatically tracks the animal in these earlier things you just did video it was overhead
+and we contract with the animal so um imagine that the center of a place field is a piece of radioactive
+material and the cells are geiger counters so what you hear is you know this increased pops from this
+pseudo geiger counter when it crosses the middle of a place field or a firing field and so there is no um
+it's almost like there's one little area if it can seem as if you're just watching it there's some area
+on this in this maze or in this area that the rat is where the cells fire only you hear a lot of
+crackling and popping and then elsewhere not so much yes so you're watching an animal move through
+space and when it's in a particular area of space the cell that's being monitored will start making a
+lot of noise and when it moves away less noise but there's that's only one neuron we have to remember it's
+and so the process i was going through was collecting one or sometimes two neurons at a time with the
+techniques as they were then but it was we were a lot of these were outs recording outside of the
+cells electric extracellular there were a lot of technical challenges like make sure you're eating
+the action with the pops the waveforms of one cell not its neighbor that kind of thing so this was the
+first time that someone was understanding what a place cell was john o'keefe was the first um to
+figure it out what is it though if you were thinking from an information processing it's a cell
+that tells you who's an outside person or the rat where the animal is that the information potentially
+is giving to other parts of the rat brain or to you as an outside observer and that's actually a bit
+different so maybe it's working for the rat just immediately right the rat is that's happening as
+the rat and we're modeling it and measuring it happen but um this is just the beginning right so
+these cells were found you're doing the experiments and there's many other gps we realized everyone
+that we were recording one neuron out of tens of thousands and we imagined tens of thousands of place
+cells although we were recording one or two at a time
+and initially what everyone found bokeith and us and others is that the cells would cover
+the accessible area of a of an apparatus and that we at that stage couldn't record them all at once
+but we could see that you couldn't predict one or the other so that was the cognitive map single
+cells are not a cognitive map but a whole set which gives information to the rat presumably or to us
+will signal where in the environment the animal is and yeah and tolman had kind of had this idea that
+something like that is happening in the brain that there's some kind of metric or mapping of the space
+that is also kind of the knowledge for the rat but we'll get into that but this is the very beginning
+of it so when you were doing this study were you thinking i mean did you have any idea like what were you
+just business as usual or were you really meaning like we're on to something very new astounding
+wasn't it odell nadel and keith and nadel's book the hippocampus of the cognitive map
+so your publication was 78 78 yeah it's astounding um so it was based on not a lot of cells
+but this pretty good-sized book is written about a theory based on i don't know 20 cells something
+like that and they really put a stake in the ground said this is what we think it's doing
+the title is the hippocampus as a cognitive map yeah what a brave thing to to do and it was not
+universally well received no because no one had i mean this seemed a bit crazy it still can seem very
+kind of hard to get get a grasp on but at that time you had tolman and then suddenly this area of
+the brain which we should talk about that had in the 50s been kind of locked in with memory because
+of a person named henry malias and hm this hippocampal area everyone just assumed was about memory so
+this was very weird that now o'keefe and ronkin you and this little group of people and then lennon
+nadel writing this book with this big title um this was not business as usual in neuroscience
+i mean the book laid out a goal a concept which is still present 50 years later whatever it's still
+based you know largely right not right but it's got the right ideas and there's still arguments about
+with his place special and there's just an example of something yeah they're fun arguments and but
+but basically the book is held up there's a model it was exciting they put a model in you know
+modeling and it was a pretty terrible model but it was a model you know they came tried to put how
+neurons would do this john they only knew about you know very few neurons not much was known it was theta
+in place cells that's all they put into their model yeah so but yeah i think i say it in my second
+conversation with lynn i can't remember but i do in a way too that book was it wasn't the beginning of
+neuroscience but putting all that stuff together they start with philosophy you actually wrote a
+great article about that book which i'm going to link to where you kind of summarize it a bit
+and i can also link to the book but i mean they as you're saying they really they have the model they
+have the philosophy they have the physiology there it's none of it's exactly perfect or right but it's
+setting forth this kind of orient orientation of trying to think about these subjects in a bigger
+way but were you doing that i mean were you reading that book thinking that way yeah i think i don't
+remember you don't remember i think so yeah not you know well if you were with ryan jim ronk then i guess
+that atmosphere was similar and he had already been there and yeah no he was you know that was a basic
+reference to part of what we were you know thinking about and talking about and so how did it progress
+because i do i mean i want to mention play cells were the first and that was basically um i mean
+we can what can we think of it as like how do we describe a play cell a kind of rep a cell that's
+representing space in a way can we say that in the hippocampus but then the broad interpretation
+it tells the animal where it is it um can be described as self-localization we are yeah and
+second to that what can i do when i'm here that i can't do when i'm over there right what opportunities
+do i have here that i don't have over there or maybe over there are opportunities i want to get to
+right so that gets to navigation how do i get from here to there where the opportunities are different
+than they are here and this is where it gets a bit tricky at least for me because it's not that the
+animal needs to stop and think this is where i am it's it's happening immediately i mean in a way
+it's the body in the environment and this is happening there's there's no gaps where the
+everything stops it's ongoing all the time it's the way the animal has from day one of its birth
+been in its environment fitted to match to busaki might say um its environment but that's not the only
+cell right so then when did the head direction cell come you tell me about that one thing before that
+which is um we'll call it remapping yeah yeah that's the thing that really came out of the three
+behavior experiments was not only were there play cells in the three environments but a single neuron
+could have a play cell in the in our maze a play cell in the operant chamber and then by the way these
+three devices were all in the same position in the room and they were constructed so the animal could see
+a lot of the room from the operant chain the radial armase is flat so you can see the room easily but
+the other two are you know modest walls so the animal could see lots around it um so the the they're
+really physically in the same place in the room and yet the an individual neuron would have play cells
+in different apparatuses that were really different the location was not never the same within the room frame
+and for someone who doesn't understand are you recording the same cell and all these yes yes
+different spaces the same cell is showing different one cell might have a firing firing property in one
+arm of the radial means the same cell might fire adjacent to the bar in the operant chamber and the
+same cell might never fire in the home arcade that was one of the things we found with some cells just
+were off in one or two of the apparatuses and good place cells in the other that's an important part
+too it was the first finding of what eventually came to be remapping it's our first finding so did
+that tell you the importance of context and environment i mean sort of yeah yeah because so the
+idea that the hippocampus was important for context as far as i know back to richard hirsch
+who wrote a paper on hippocampus there was just memory in context and then eight or so years later
+nadel and wilner revisited that and tried to interpret it in terms of the hippocampus
+the cognitive map didn't really go very deep it didn't get close to remapping but they did sort of
+see how this fifth with the spatial firing of neurons and then yeah so and so in in the pseudo
+papers that tim and i wrote we worked we equaled the context okay so you are already using that term
+later i know you used it a lot but i was yeah we'll get to it but i want to hear about the head
+direction cells but i also wonder if you had started studying the hippocampus and thinking of like did you
+go and look at all the stuff of penfield and hm and brenda milner i mean were you aware of that
+whole literature and everything a couple of things there um so now you know we have hip there's okie's
+idea or the hippocampus is a spatial system in rats there's hm and brenda milner and hippocampus is
+important for episodic memory how do these fit together is it the same organ doing two different
+things is it is the human hippocampus nothing like the rat hippocampus is it you know or is there a
+way you can tie these things together so that's become sort of the holy grail for the field can we
+get these things to merge and there's some ideas from the early on about how place and memory overlap
+and how they may be related but in more recently they've begun to we uh crystallize a little better
+but it's still those are two very big different things and the third thing was uh in the early 70s
+long-term potentiation was discovered so you have hm and learning episodic memory and then the ongoing
+question well how do how does the brain store memories you know what how can it store what is it what is
+information how is it stored and there were various theories and probably the most important
+discovery was this thing called long-term potentiation where they were able to show that
+if you stimulated an input pattern to a neuron in the right way the synapse could change its strength
+and the idea that synapses are not rigid fixed things they can wake strengthen and weaken and that can
+be the engine for storing or losing memory so-called synaptic efficacy yeah and you had this donald hebb
+um right and heb that there's something called the heb neuron donald hebb was a psychologist who
+talked about how simple rules for strengthening or weakening synapses would explain memory in some fashion
+and then lomo and bliss demonstrated this ltp which seemed to fit with heb's idea yeah and that idea
+generalized not quite in the right way but the way people might recognize is recognize it is neurons that
+fire together wire together yes and this was kind of a actual real experiment that showed
+something deeper than that in a way but demonstrating that thank you
+yeah and so as i wrote that blog post you were talking about the there's nothing about ltp or
+how memories would be stored but they talk about hm and learning and stuff like that they don't
+and i asked lena did you consider that i said oh yeah um bliss was down the hall we knew all about
+but they didn't it's interesting that it wasn't it's not in the book which is a little surprising
+i guess some edits had to be made i don't know so these are the three big challenge you know big
+areas of work the um centered on the hippocampus and can you make any consolidation which brings
+these three things together and get to unified function of how the hippocampus does its job
+and so we have we know the hippocampus matters for things like memory and we know that the hippocampus
+matters for place we don't i mean we're learning how those might be very much connected we're going
+to get to that but back in at this time it was still very new that this area of the brain had
+anything to do with navigation now there's been a nobel prize awarded for that but then this was a
+new beginning you're at the in the middle of it so how does it like how do you remember it kind of
+growing becoming moving at that time because place cells was just the beginning there were a whole
+family of or a zoo as i think tim behrens calls it of other cells and this what in the nobel prize
+they call a gps or a sat nav of the brain that how do you remember this time period and the other
+cells going a little chronologically and you've asked about head direction cells so now's about
+the time for head directions okay let's do that and um that's jim ronk hello you're working with
+who's given who gave you the three behavior tests right so he came as i remember and i was beginning to
+work with bob muller we'll bring him into the stories another person that's important in this
+whole story and steve fox was a very important person we'll ever can talk about that a little bit
+um so i remember him coming over and said you guys are all working hippocampus i'm going to work in
+retro hippocampal areas see what's there and so he was just putting electrodes down civiculum and
+posibiculum in different places and seeing and um seeing if anything interesting popped up
+and he got to the posibiculum which is ambiguous and also the dorsal precipiculum and you know it's
+adjacent to the hippocampal formation also adjacent to anorhinocortex and found neurons that had very
+clear toilets so the whole job here with the o'keefe and and wrong we're doing was putting
+electrodes down and just letting the animal behave and saying does the cell tell you anything does it
+tell you a story and the issue of signal to noise is very important because i mean you know you could
+well imagine the the sogo pop and then it would get to near piece of food it might increase its firing
+rate a little bit and say oh that's a food cell but that's not what we're looking you know you want
+if you're looking at this thing one cell at a time you want a really robust
+world and the plate cells are very robust correlates head direction cells put play cells to shame
+they um they're astounding can you tell us about those the title of them tells us a little something
+yeah direction and it's actually not about a gps people were somewhat confused by it early on
+so if again the same basic idea the rats found electrode in its brain and it in this post
+subiculum instead of the hippocampus and reporting listening to the firing of single cells and i said
+jim was looking in a few areas and most of them were sort of confusing or not very obvious but they
+this area the post subiculum he found neurons and the neuron would fire like a compass that is one
+neuron would fire whenever the rat's nose was pointed to northeast another east in somewhat random but
+each neuron had its preferred compass like firing direction wherever the animal is in a pretty big
+apparatus it was still northeast it was absolutely not place had nothing to do with it it was head
+direction totally independent of place and as i said the signal of toys was through the room these cells
+might fire 80 spikes a second which is almost as fast as almost beyond hearing individual pops within a
+narrow range of maybe 80 degrees head angle you know and then any other directions silent how did you
+figure out it was the head angle because he just watched it oh he watched it and then he picked
+up the animal and pointed its head different directions and then yeah it was incredible okay
+yeah it must have been quite a moment it didn't the place tells the animals pretty much have to be
+locomoting yeah direction tells no you can just pick them up and point their nose and you can lift their
+head up and not much difference but side to side is the important variable and um do you remember when he
+found this yeah i mean was it exciting or was it like ah maybe this is something you imagine these
+like eureka moments of everyone running through the halls on a sunday and no one was in the lab
+in his story he went to a party that night with friends none of whom were scientists and he tried to
+explain it to them and um that sounds fun great success but i do remember very clearly was he jim
+built a very long maybe 30 or 40 foot recording cable and this our recording rooms which are small
+closet-like room a little bigger than a closet but one adjacent to another in a big common lab space so
+one question was would it what happened if you moved the animal really an appreciable distance from
+say one of these recording rooms to another one the animal had never been in before as far as we knew
+and as i said you can just carry them get the basic phenomenon and so he carried he built this long cable
+and found a nice head direction cell in its familiar room and knew i forgot the direction reference but saw
+that carried the rat in its cell into engine and the rats by the way are pet you know they're really
+friendly you know you get to know them very well and they don't mind being carried and they'll sniff you
+know we love the rats we owe a lot to the rats yes so in the adjacent room but what i i'm sure is our
+memories are not identical but i'm right the cell is play cell initially was very quiet and after a minute or
+two began to fire a couple of spikes and after maybe two minutes became robust again with the same heading
+direction so you know a question you can ask is how did the animal maintain its sense of direction going
+from one room to another that's an interesting question basically we need to get that you have
+to sort of carry the animal carefully so that it doesn't get disoriented i see keeps the sense of
+direction from one place to another if you just put it in the box and it would get lost but by the way
+it's not 100 percent compass direction in an environment well like you know it will if you um
+move the wall cues in the field all the head direction cells will rotate so it's not as if it's
+magnetic sense always northeast in terms of pure northeast it's okay that's important it's not a compass
+in the sense of yeah actual yeah and that was shown in the first papers that very beautifully you could
+rotate the environment the animals in if you did sort of secretly so the animal it's not aware you're
+doing that you'll fool the place else head direction system it's very beautiful compass how would you
+explain that in if you put it beside remapping of place cells yeah so um the idea of remapping of place
+cells fundamentally is if you have a whole set of place cells and you go to a new environment they
+scramble with respect to each other that's what a remap is it's not with respect to the outs it'll
+effectively be with respect to the outside world but really the map is the place cells with respect so
+if two cells have overlapping fields in one environment they won't you know the chance that
+they will in the second environment the head direction cells do not remap they can re they can
+change their globally change they can get fooled but two head direction cells with say neighboring
+directionality they'll always have that neighboring directionality the whole system is coherent
+wherever the animal is well i just have to pause for a minute and say this is really amazing right
+it's amazing that this is how the body works i should also say for those who don't know that this
+was only in rats at the time but now we do know that the human hippocampus which is different from
+a rat hippocampus but nonetheless um does have these it's been shown with experiments and so
+we can say that the human also has this system data comes from bats some of the bats data comes from
+bats wonderful stuff coming from bats and you're flying and how they navigate and stuff like that
+didn't you yeah bats aren't necessarily the and more and more mice but the bats are really fantastic
+bats are fantastic i we could do a whole show just about bats but let's bracket that i couldn't
+but uh there's something that seems like there's something missing that we haven't talked about
+uh especially when you're talking about the remapping of the play cells like how do they
+know how to do this and so what else is in the gps that might help us understand this system a little
+bit so there are two other cell types that have been um looked at carefully so one gets a lot of
+attention are the bridge cells discovered in by the moser group in grondheim norway and actually the
+mosers are no key for the ones who won the nobel prize but right right and so i hope now people
+understand what play cells are like so play as individual play cell will have one maybe two
+spots in an environment where it fires grid cells also fire in locations in the environment but a
+typical grid cell will fire in many locations but what's amazing is that these aren't just randomly
+related to each other they lay out almost perfectly in a grid-like pattern hexagonal lattice yeah i'll
+show a picture of it because it's so beautiful the place cell we i'll show it but there's you as you
+were describing that you have the space and then kind of if you're going to just draw on where or make
+dots let's say where the neuron fires it'll be kind of one blob in that whole space but then when you look
+at the grid cells it's really like a beautiful kind of um honeycomb-ish metric right yeah it turns out
+you have to use a pretty big apparatus to see these multiple hot regions but once you see them
+the age is fantastic is it true you reviewed one of the early moser papers about that not about that
+okay they were they were trying to record place cells in a water maze oh really a challenging task
+yeah oh with richard morris yeah okay i won't go down that no that's another interesting and so
+what do grid cells do in this gps which i don't we don't really know i mean a lot of ideas but these
+cells all interconnect with each other the grid cells are not in the hippocampus they're in the
+adjacent region the introrhinal cortex a region that has interconnections both ways with the hippocampal
+regions and the head direction cells are in another adjacent region of this post subiculum with
+interconnections principally with the grid cells more than with the place cells
+um so in another cell type of these called border vector cells that tells the fire with relationship
+to two obstacles walls certain distance from the wall and so these are like um thicker toys we can think
+about ways that these can fit together and either reinforce each other you know one early idea when
+was the plate cells were downstream from grid cells if you but you add a few grid cells together
+you get a plate cell well it's not that simple but they do interact and you play with one group and
+it affects the other group and i don't know that there's any simple answers everyone's still trying
+to figure it out but obviously there's something beautiful happening here we have cells firing for
+borders cells fine for head direction we have cells doing some kind of weird matrix of the wherever
+it is metric um and then we have the first the play cell which is firing in a kind of in a particular
+place to to generalize it in a way so when did you start talking about spatial firing because i want
+to move a little bit into your work with bob mueller and the stuff that that you developed yeah so
+bob mueller was a little older he was a faculty member at downstate working in other stuff and he
+had a very interesting background both in psychophysics he was really you know hard wire you know hard
+science and scientist and he also had a background in psychology in in soft side of psychology up in
+canada working with case case vanderbilt not at mcgill but at institution um and um he had he studied
+with joe o'keefe somewhere or something no no were they friends i mean they knew each other actually
+from indirectly from college as we talked to you about how lynn nadel and bob muller were classmates
+in high school yeah they were sitting in front of each other behind each other or something
+elite high school and then muller went on to city college and a couple of years later o'keefe went to
+city college ah okay so muller was just a bit ahead of him and so they um both i think the guys
+they both had this mentor of this guy named phil ziegler i think that's the right and yeah i've seen
+that so told o'keefe you should be more like this guy muller who was ahead of you he was he's really
+good oh really wow so he did hear his name early on that's funny so it's funny how the new york
+connection overlaps it's funny what a small world it kind of seems like when you look back at it
+everyone's bumping around each other there and i want to take it just a pause because again i talk
+about mcgill and ucl all the time for good reason but downstate too right so all of you was wrong it
+was you and muller ended up there right right so okay and then we after the fact we called hippocampal
+group or something like that it was a wonderful atmosphere so one of the things i think jim brought
+to the place well you know to o'keefe was he really came from physiology he was a he had been
+studying impedance in the brain the most boring kind of thing imaginable you know how putting you
+know just how resistance the brain changes when you put the electrode in different positions
+and somehow jumped to recording the hippocampal neurons and behaving i've asked him a thousand times
+i sort of understand the the jump but it's not completely clear to me let's pause just a minute
+here because this is important i think this is kind of different communities isn't it the physiology
+and this because you're about to start developing a lot of technology and sometimes i feel like maybe
+that's part of it too that this side of it doesn't get talked about a lot because it's a little bit
+of a different perspective on things even though it's part of the whole evolution i mean kind of more
+psychological so what is it what is going on here with the physiology so let me so this is my looking
+back on it i think you know the miguel group you know keith and nadel they really you know do in
+in doing great physiological stuff but they came were asking psychological type questions and um jim
+ronk came from a physiology department the university of washington physiology in michigan and physiology at
+town state came from a deep physiological orientation so one of the things he began to do
+in large with steve fox was saying okay what cells in the hippocampus are these place cells
+you know are they we there are lots of people know that a lot of different cell types in the hippocampus
+and they pretty much established that they were the primal cells of ca1 and ca3
+that the other cells the whole categories of interneurons were what they call theta cells these were
+cells that increased their firing rate when the animal was principally when the animal was walking
+in the theta rhythm and the theta state with this theta cells firing a lot was critical to getting
+the place cells the behavior's place cells because so they in that sense began to put the hippocampus
+into a physiological context so for someone who has no idea what physiology means it's more like how
+are you how would you instead of the brain the tissue of the body okay not so much as the psychological
+organism it's not you're really looking at cells and actual yeah how the neurons you know what
+they're like what their membrane potentials are all the characteristic of the cells of the brain without
+paying direct attention to the psychological or high level functions right so it's really two ways of
+approaching it and strangely it overlaps in terms of findings but it can get lost or confused or seem like
+people are saying different things sometimes without understanding those different approaches at least
+in my life i think politically this was sort of important also because jim came from physiology
+and when o'keefe was claiming these things the physiologists like they feel were saying oh
+what are psychologists doing recording from the brain they don't know what the hell they're doing
+yeah i can i mean i can imagine if you're coming from a certain perspective it seems strange
+and i know that i mean i could pinpoint a few of them and o'keefe had a big resistance from major
+figures at the time and most of these were physiologists people doing the heart you know
+a difficult electrophysiology with huge racks of equipment and things like that yeah i think that's
+important to even imagine that world i was going to ask you like what does it look like in the lab and
+stuff because it is a real orientation and reference and it's a real world right and if you're not in it
+it's i think hard to imagine how all consuming it can be the way you can kind of see the world through
+it i don't know yeah i i remember myself going into say jim's lab which wasn't this hyper fancy lab
+but there were racks of recording equipment and i said my gosh i have to learn what each of these things
+does and you know but i thought that's what you wanted that's why you went there you are also yeah
+and the this was a fairly simpler set you know there's some systems with four or five racks of
+stacks of equipment and the idea that you can just understand what the signal processing this is before
+computers were playing exactly you had to really understand it right computers were just beginning
+to play a role in neurophysiology so these some of these labs were on the forefront of bringing computers
+into the labs um that's the o'keefe was not for example and the mcgill group was not but the
+physiologists were and i've been big computer machines pretty expensive stuff by research standards
+um so it was a different um that says a lot about the different mindset already right there
+that so computing with his very open style and having you know also being a little older than
+o'keefe and nadel and being from the physiology community i think helped warm some things up
+and help make entries into the physiology physiology world i do remember when i was a postdoc we were
+beginning to record play cells visiting neuroscientists would come by physiologists and they'd come
+and they'd come and they'd watch me recording a play cell and they'd say oh my gosh you know that was
+you know they flipped you know they would see what we were talking about yeah because you can't imagine
+until you've seen it i think at least not back then can you could you compare it to anything today
+that's so one one big impact was functional imaging okay and um that start roughly in the early 1990s
+and um so as i alluded to earlier cognitive neuroscience is really pretty new and it's
+expanded a lot in you know the time i've observed the fields and one of the things that made it expand
+was things it was o'keefe and the mosers and recording plate cells in the middle of the brain
+but you shouldn't go if you want to figure things out and yet something popped out you know the classical
+neurophysiologist said now it'd be crazy to put electrodes there you know work and work from the
+periphery and figure it step by step but lo and behold interesting stuff came out yeah that's an
+interesting point too that was also the prevailing sort of philosophy of the time right start at the
+edge don't go in the middle right actually the mosers say that very nicely in their nobel
+prize speech oh do they i have read that but that's probably where i got it from um and we
+felt it as well you know that the famous studies were uh the visual system going from the retina to the
+lateral genicular division yeah yeah and that's how you proceed and layers and it gets changed and
+extracted and for the motor system the inverse of that and but putting electrode in the middle of the
+brain and seeing anything and interpret people would say well it's like recording from a single
+transistor in a computer you're not going to learn anything it's not going to tell you anything yeah
+but maybe it did will and it you know we were people were lucky and it did uh and it definitely
+so it wasn't guaranteed to work yeah that's kind of the beauty of this too it was a little bit of an
+accident in a way because people still say single cells are the wrong way to think about you have
+to think in terms of networks recording tens of thousands of cells and don't even get a hint of
+an idea from single cells the argument is ongoing yeah and i would say they're both good arguments
+i mean they're both important but let's i want to talk a little bit about your work with bob moeller
+so what did you guys start doing your spatial firing you're developing new technologies so as
+moeller came in wanted to work with us and he you know he had he knew about the play cell stuff he knew
+about o'keefe nadel he was he somewhat friendly with o'keefe nadel and all that kind of thing and so
+he just said to me let's collaborate and the rough idea and i can't even pinpoint how
+the the strategies worked out it was between jim ronk and muller and i and me um between us among us
+whatever the grammar is anyway was to simplify definitely to have some camera based recording
+system for where tracking the animal in the in a very simple apparatus and the apparatus was
+a cylindrical enclosure with very simple sensory cues we put a white cube a big white
+cardboard along one wall about 90 degrees of the wall and the animals we just wanted to cover the
+apparatus without interfering with the animal behavior much without going in and poking the animal so
+we trained the rats to expect food pellets to drop randomly on the floor initially i was throwing
+them over the curtain and walking around the curtain it was curtain by the way finally getting curtains
+enclosing things and later we had an automatic dispenser that was scattering pellets but um so the
+rat pretty happy walking you and it will do it eat for 15 or 20 minutes before it wants to drink so
+that was roughly the length of the sessions and the camera yeah what was and so it required a computer
+and this was is this the first entry of the computer into this process other than a video
+in terms of uh you know in parallel mcnaught and and o'keefe were computerizing also almost exactly in
+parallel yeah that's also very interesting but from your perspective what was happening so why did you want
+to do this what advantage was it going to give you oh lots of advantages one was the you know o'keefe's
+description wasn't overly convincing people thought it's subjective he's telling you where it's you
+know it he's just making these little circles on the floor yeah and to this idea that you were saying
+one cell and so on i mean yeah so we wanted to take ourselves out of the you know system of collecting
+data and demonstrating the data but also we could you know it's a much more refined potentially more
+refined way of describing what's going on so they're doing this could you change the environments
+yeah yeah i mean initially no i mean with two papers we came out initially it was just documenting
+that their plate cells and so you were able to get a more robust documentation that this is actually
+really happening so yeah so we did i think many of the appropriate controls and so 60 times a second
+the animal's position is detected and how any spikes occurred from the target cell and then collecting
+this in a chain over 15 or so minutes and then putting it together and taking each pixel each location
+and saying okay how much time the animal collectively spend there and how many spikes were there and getting
+compute a firing rate for each pixel in the apparatus and then making a map of the firing rates and we
+didn't use the color coding system which was very expensive to to publish so we had these nice color
+pictures of these bullseyes of play cells on a yellow back yellow background were pixels that
+but this rat visited plenty but there were no spikes and it was you know these were pretty pictures that
+were pretty convincing and so we did this for a number of cells and we could characterize the size
+of the firing field shapes a little bit and um the distribution that kind of within a single apparatus
+and the other aspect was then begin to change the environment on the animal and to where you go to the
+environment i can i ask a question so kind of asking you to be a little egotistical but or not really but
+do you think this played a role in solidifying the people we're going to accept yeah place cells
+are real or this i hope so yeah i think so i think we were alone a lot of people say that this
+work with mueller and this is important but i'm not sure that how to make it really obvious but i think
+one way obvious to people who haven't read all the papers but one way is that it did show that it's
+legitimate is that fair i think so yeah yeah and so let me summarize the second study which was going
+to different environments we are we really demonstrated the remap we didn't use the word
+remapping yet but we showed the remapping the cells individual or pairs of cells would go to
+independent locations and some would turn off in some environments and the environments we used
+for cylinders and boxes and double-sized boxes and double-sized cylinders which was real interesting
+because some of the cells in the double-sized one would just expand they would show some and others
+would just remap or change so that was a a partial effect but the expansion was very interesting and um
+told us something about the nature of what you know what's going on here and then we all remember what
+your feelings were at that time were you was it exciting or was it oh it's exciting were you trying
+to piece together a larger puzzle or was it more exciting from the technological advance well it took
+us years to collect all this all the cells so yeah it wasn't a long process it wasn't you know an
+aha kind of moment wasn't eureka and i guess i can't remember the um stages but one of the you know
+reading back on those papers you know and we knew where at the time but also reading back we had
+some insights which carried forward one was we one manipulation we did was to put barriers little
+in the environment and we found that if you put a power barrier in what had previously been a place
+field it would disappear but it wouldn't affect the rest of the apparatus you put the barrier
+somewhere else and it wouldn't have an effect sorry oh yeah so it would okay so that's another
+environment remapping and so we should our conclusion or tentative conclusion was that
+it was the barrier in us the barrier could also be transparent it was whether the animal could walk
+through it or not oh and it was the behavioral space that was available that we thought was you
+know a lot of the importance of what was coming at that the in a more common term maybe when you say
+the affordances yeah that the environment presented what behaviors are possible here and what paths i
+can take what paths i can't take can't go through that wall i can't go through that barrier um that
+kind of thing so we didn't know the word affordances but we phrasing that sort of said that kind of thing
+maybe we can start to go into some kind of i don't know just like explore some territory a bit here and
+some bigger ideas um a little bit because this makes me think about so this is very behavior
+oriented or the biology the biological process related to how the animal is moving through a space
+and it makes sense that if it can't continue forward that the physiology would change i mean it just kind
+of seems to make sense but let me ask like just a big question do you think um memory is that kind
+of behavior too if we think about like tolmon and the cognitive map and the idea of just the rat let's not
+think about our understanding of memory and thought yet but just the mat the rat in the maze and the
+idea that it has a kind of cognitive map which is a kind of knowledge which is a kind of memory or is
+it not i mean it's not episodic memory it is i'm trying to get to um yeah so see any connection here
+yeah so i would my rough notion definitely memory but not memory in in a simple episodic sense
+there are sort of two layers one layer would be the substrate or the background upon which episodes
+can take place so if you have an environment say an environment covered with play cells it permits
+certain paths to take place with the paths being roughly equivalent to the episodes but the context of
+the environment are upon which the episodes rest you could not have these episodes without a background
+and that's sort of a fundamental i think that's in contrast with eichenbaum's rough idea that it's
+all associations and this is what might be called the two-layer approach a background layer and then a
+episodic layer okay let's try to unpack that a little because um for some reason i'm thinking of golf
+i mean now that's kind of going to humans because i think you wrote something very interesting about um
+golf courses there was a article in the new york times way back about how people who play golf have
+like better memory but it's like subject to better memory of the golfing experience if i remember
+correctly and i believe you said i think the article said it was for one reason which i don't know what
+maybe it was just that people who play golf have better memories um because of the action but you
+were kind of relating it to this method of loci of the space itself being important i only vaguely
+remember the golf okay we can skip that but but i agree with what just the rough idea okay if you have
+you know a very clear substrate that really rock solid that the memories within that space are easy
+you know i think of you know people who can play bridge and recall a bridge hand yeah everything i've
+tried a little bit i can remember a couple of them but people who really do a lot of you know
+chess game they can reconstruct the chess game entirely uh part of it is by chunking and things but the
+context of the experience the chess game i guess it's the chess board and the affordances of all the
+pieces or something like that yeah um and i think that once if you have a really rock solid background
+then the stuff that lays upon that is is much easier to extract i heard a similar thing about wine
+this wine specialist who could identify you know the feel of origin of grapes of wines he was tasting
+and it sounded impossible you know that globally he could tell you was some field in australia
+or something like and he was interviewing lovely sounding guys it's not as hard as that
+i just purchased it it's really not that hard first i say oh this has got to be an australian one there's
+no question about that and then from there i can make they can narrow it down and so it's a two-layered
+approach and i think that many of these things have this solid background foundation upon which a
+specialist memory can be laid how much does that have to do with experience i mean if i'm if we're
+talking about the rat and that's born if we think about its whole development it encounters a really
+certain kind of well does it let me ask if if these rats are born are they born into the situation of the
+experiment such that basically they only know these kinds of environments so that yeah both two major
+lab groups the o'keefe's and the mosers have looked into this mostly the mosers i think of trying to
+look at you know place cells head direction cells grid cells which come first what experiences are
+critical for one emerging or the other and it's not that clear story it's either technically very
+challenging things and so one of the things is technically to record from the brains of these
+very small animals um and the second thing is to manipulate the environment in interesting ways
+so they don't have say these rectangular boxes that they are growing up in they're some it's somewhat
+different and just not all that clear it i think the rough thing that i would remember from them
+apologies to them if i'm wrong is that roughly head direction cells seem to roughly proceed the other
+two categories and second it's kind of like a tuning mechanism then or something yeah i think that
+there's some you know there's a you know people talk about hardwired and not somehow that the whole
+notion i find a little hardwired is a rough term yeah i mean because everything's dependent on some
+experiential state and we're all developing different ways but here's what i'm trying to get at though how
+important how fundamental is place to memory and how fundamental are the patterns that you develop in
+place you know to i think like if you put that barrier up needing to find a way around i don't know
+my bias is that the place so there are two rough ideas one is that place is not fundamental it's just
+easy to see that you could have any low dimensional framework equally good is that more i can bomb or
+it's more it's more it's a matter of relation it doesn't i think that wouldn't even be that he would
+say there's no dimension low dimensionality is not really relevant okay but it's um something like that
+there's no background set and foreground set but these people would say there is a background set but
+space is not really special it's just easy to record and o'keefe and us we were lucky to be able to
+see that so readily i think that's not true in in two ways one is place jumps out all the time this
+place sells you want to see it or not you can put the animals in tasks that are not very special
+spatial in the space things jump out anyway the second thing is i think there's not much data here
+but i think from an evolutionary perspective and my guess this is mostly guesswork is that the
+hippocampal system and say in snakes or in reptiles back to snakes um was fundamentally a navigational
+system it wouldn't didn't do these other things didn't have to do with episodic memory and when
+increasing demands were put on the system when if well could you help us with this test with that test
+then the spatial framework got reused in different ways and so this is a complicated story to put forward
+what the hippocampus is doing in mammals and humans how it relates to memory and episodic memory and
+how it relates to navigation there's no proof for simple stories here but i do think that place and
+spatial navigate then that um location specific firing at any rate what can i do in this spot and
+something about navigation are um substrate they're foundational and then other things build upon that
+okay okay so i guess what i'm trying to get you to say i don't know if you even think it is that place
+is fundamental to memory and then i wonder is memory also fundamental to place like i feel like in a way
+from our position as humans these are seem different but are they so um jumping back in evolutionary time
+i think of some reptilian or like ancestor who um comes out into the world now the world is not
+preformed there's no way that the features of the good places and bad places would be hard hardwired
+into the right so what the creature is not coming on into the place with the little map in its head of
+the place because this doesn't work yeah yeah so to make use of this machinery that knows about places
+it has to learn about places and so that you know that's as much of an argument as i can make it
+there's no it's not you know all the snakes or whatever aren't born into the same area in which
+case they could have inherited some map that just is not realistic but they are born and they immediately
+must navigate and make way and in that environment so right so methods they're forming those
+yeah so their navigation is not all map light or you know cognitive map like there are various
+effective ways to navigate and i'm not even sure um the degree which humans use maps i mean they're
+not very many humans are not very good with maps and having an you know aerial view of where you are
+doesn't always help you get from here to there right and i think sometimes we confuse map and territory
+that even when we talk about a cognitive map it doesn't really mean it doesn't mean we're pulling
+out a little map inside our brain i mean this is the homunculus argument so it does get kind of
+confusing and we won't get into the weeds there but i wonder if you agree with this like if that snake
+or what that's creature amphibian is born into its environment and it immediately has to navigate it
+make its way through it and this is obviously creating some kind of alignment with the body and the space
+in the same way that the rats learn you know if we think of tolman the route to the reward um
+that's learning i guess right that's learning does that then set forth a kind of pattern
+um well there are various ways you can optimize navigation and i think one not easy way technique it's
+not so easy to understand but really used by animals is path integration yeah and um so this has been
+beautifully studied in desert lands oh really oh yeah so need to write that down oh uh weiner is i think
+you have the name of the principal value for the papers so imagine a desert ant has a home base
+and it's wandering out to look for food and it takes a zigzag path looking foraging through its
+environment now it finds food these ants can go meters meters across sand no information from the
+substrate and after they find food they can take a direct path back to home yeah amazing that's not a
+cognitive map and what's been shown what they effectively do since for each leg of the outbound
+journey think of each leg as a vector a straight line from one spot to another head up all of those x
+vectors if it were cartesian and xy coordinates you just add up the x's and add up the y's okay so you have
+an outbound vector and then you just invert it to make it all negative and you have a vector that points
+directly back to where you started mathematically it's beautiful now the world and the ants do it
+it's astounding so what the ant has to do is keep track of two things how far it goes on each vector
+and each leg that's counts deaths that's called the odometry and it's got to keep track of its head
+direction and so each vector is a mix of distance and direction it keeps you can think of it as xy
+coordinates but they almost certainly are not doing that that's the way we can think of it so those
+are the vectors that's all together model it invert it and the right back and they're at the answer
+incredible it's been shown that they have this directional sensitivity and that they count steps
+the counting step method in ants was to make stilts on their legs and show that they miscounted
+it oh yeah stumps off and they miscount the other direction uh it's really beautiful work but that
+is a rough summary of one kind of path integration is how you get back home but path integration can
+also work connecting to locations within a familiar environment and so path integration is one it's not
+white map like it's got features of distance and direction which are real spatial features but that
+one method animals can i think we have to assume that animals exploit all kinds of
+functional methods for navigation yeah it doesn't it's not either or and so the we're only wanting
+the gold standard like the water maze the water maze standard is can an animal take a novel route
+to an unmarked goal so in the water maze experiment the animals explore the
+water i mean they have multiple trials where they swim around blindly and find the platform which is
+a way to get out of the water and after multiple trials you can introduce them from a new start
+location and not and they can take a direct path to the platform which gets them out of the water
+so that has you know as you pointed out earlier has become certainly the robust standard technique to
+demonstrate some high level navigational ability exactly the strategies the animals are using whether
+it's really map like or path integration whatever is a little unclear to me but it is an efficient and
+effective strategy and one that's pretty easy to reproduce it's very difficult to record play cells in those
+environments which the most the most are discovered so it's not a great environment for physiology it's
+very good for behavior well let me just put something out there that you probably maybe you're going to
+totally disagree with but it'll i i'll use it to see how you think about this um what if we the ants
+of course they have they come into the world with certain bodies and they're aligning to their environment
+it's a certain pattern so in a way the dead reckoning or the path integration the body itself is providing
+something like what head direction is providing oh yeah look it's well it's now pretty well worked out
+in some um insects what the directional system is that they have a head direction system yeah with
+respect to the polarizing cue of the sun but they have a directional the neuron the neuronal mechanism is
+very similar to head direction but it's not that i guess what i'm saying is we don't have to
+necessarily think of it as they have a gps they're not like pulling out a little map in their brain
+no but they are the gps they are the gps they are the dead reckoning system they are the path integration
+i mean could this be just happening like oh you said affordance almost in a an evolved gibsonian way i
+don't mean for the insects i don't know that they had to learn anything they do have to keep
+a running tally of the vectors that's all they need but that could just be happening with the body but
+we talked about the question there's no reason i would say that they have to be conscious of what's
+going on but couldn't that be i mean i guess what i'm saying is if we think of that's just happening
+it's hard for us not to imagine they're having a little map in their head and they're aware of
+themselves but actually they're just as we do as babies do you come into the environment you must
+navigate you must find way your body itself becomes your gps system not just the brain that you're
+pulling out a little map but couldn't that could that be continuous in the sense like when we learn
+something like language and probably other animals have languages but i'll talk about human language
+that then becomes um a way that we've communicated with the world and come back to ourselves so that
+same kind of alignment or navigation through something like language we might use in a very
+continuous way that um to plan or to do something similar to navigate spaces that aren't necessarily
+geographical i know that's kind of a big thing but it feels to me continuous if we think about i'm not
+curious really sure what you're getting i think i have a little sense of what you mean by continuous
+do you mean it's the same kind of process so it's navigating i'm thinking continuous
+is distinct from a devil deliberation no i don't mean it like that i just mean so walking is sort of
+a continuous process we don't have to pay a lot of attention once we start walking we can have a
+conversation with a friend and that kind of thing and people know what to do yeah the kind of thing you're
+thinking of well no but that's actually very interesting that i would be more i think more
+of like a rhythm um i guess what i mean by continuous i mean in a really everyday sense not
+in a neuroscience sense i mean just that whatever this body is doing like the ant the rat or us when
+it is born and must navigate make way through its environment there's not like some separate thing
+that then becomes planning and all the stuff we associate with language and image for me it seems
+like you're constantly kind of learning this stuff and that so for example like the little rat right
+when it's in the maze and you put one of those barriers in front of it it seems natural to me that
+it would um use its same patterns of navigation to i mean in a cartoonish way stop and um play out
+those scenarios that it's already been in because the body would have developed a way that it can
+continue to replay those events um without it needing to be some completely new thing that suddenly evolved
+you know for me it feels like part of the same process so um i'm going to circle back to a word
+you didn't like the liberation okay but um no i do like that word but okay so i mean in this context you
+didn't see yeah um so in in a million in invertebrate brains in mammalian brains there are two memory systems
+so one is this episodic memory system but let's just say it's involved with deliberation put it aside
+for a moment and the other memory system we can think of as basal ganglia so we're a motor with
+learning skills yeah and learning sort of fairly automatic responses to stimuli and these automatic
+responses can be generalized so they could be elicited in a somewhat novel situation where the old
+strategies might just work and they're you know it's a little bit like condiments thinking fast
+and thinking slow yeah yeah i think but but that's how i think of it is this really spontaneous things
+that come out without effort you know the least resistant kind of response in situation x and if it
+matches one of your well-known responses maybe over learn and just go with it that kind of thing and is
+this like motor like we need the motor cortex to learn but once we've learned the action we don't
+necessarily need the motor cortex anymore it's like a pattern generator in the body or the spine or
+whatever that's certainly true in in rats and i'm not 100 sure how true that is in primates and humans
+but yeah that's a little bit like that where the basal ganglia can you know without a lot of thought
+if you want to put it that way generate perhaps a useful response and the more deliberation is a good
+word without deliberation yeah these can be um very smooth and very efficient it can be better than
+deliberative choices they're faster you know if you really learn the response well you think of a
+trained athlete a tennis player or something they're not thinking about all the components
+of the stroke it's all just you know but they did at some point that's kind of right right so they i
+don't think is that i'm not sure that's what you're getting at but i mean um it's one term that people
+use yeah is flow something that flow yeah yeah i think that's all connected but let me ground it back
+with the memory and the navigation kind of thing that we talked about where those seem different
+and reconciling them is kind of you know what everyone's doing now but can't quite see clearly
+um i guess i'm trying to relate it to that in a way if we think about knowledge um our conscious
+experience of our own experience like i don't mean being conscious or aware but i mean be deliberative
+becoming able to think of ourselves as a subject and consider our actions or something like this um
+all of that to me feels like the same kind of process that we we've been uncovering with something
+like navigation it doesn't feel like those are in a decartian or dualistic way like separate things
+and i know that's getting a little philosophical but i wonder how you see it yeah i think you know
+what you're saying um so i the experiment i'm thinking of that's closest to these lines is from
+pfeiffer and foster uh are you familiar with that because i think so is that the one where the um rats are
+is it a rat one yeah right yeah and where you they are kind of deliberate you kind of see the idea
+yeah so so the so i'll try to simplify it you know the description the animal a signal comes to the
+animals now you've got to find the buried food and it's in a somewhat unusual location and where the
+animal is at that moment in time is unpredictable to the animal so the animal here's the signal that now
+he has to find the buried food it has to find it gives the heat yeah um and um what the animal does
+is it rears doesn't move it rears so it's kind of stopping and right on its two hind legs it exhibits
+these things called sharp waves which are fairly slow potentials and riding on the sharp wave is a very
+rapid sequence of action potentials of action potentials seems to be imagined paths the animal
+could take from that location so now wow these according to this rough notion the animal rears
+one sharp wave occurs that imagines one path another occurs it's another path
+a third occurs that's a third path and then the animal says that second path takes me to where i
+want to be the goal and it executes something like that second path so that fits really nicely if it's
+really true there's some issues with the how pure the experiment is if it's really true it fits into what
+we think about deliberation it's not the only experiment that shows something like that so i mean
+there's been quite a few in different different ways but um yeah and it's very exciting i find that
+very exciting and the other fit into memory is consolidation during sleep oh yeah so it's something
+similar than this replay something simple again we have these sharp waves and um it's well known this is
+um uncontroversial sleep consolidates memories these are just behavioral studies in various sorts that
+if you learn something during the day sleep on it it's better it's remembered better even better than
+right after the learning episode sleep on it so the notion is that the memory the episode replays
+during sleep actually the notion is it's selective consolidation the one the important things
+replay the unimportant things fade yeah there are a lot of experiences the animal would have had before
+going to sleep so that probably has something to do with the affordances like that it wants to
+remember i mean i think of the bees for some reason and the dance well there's a paper that came out
+just this week the ones that replay the most are the episode trajectories that are associated with
+rewards oh really you have to send me that paper i don't know that it's at a bizarre piece group oh it
+is okay wonderful then i will find it and so it's not just everything that happened gets consolidated
+but there's a selection they both are replayed while the animals awake um during the task and then
+during sleep environment correctly so that's the second thing that brings the place of phenomena into the
+memory world this is very exciting and i want to for some reason bring up the idea of planning and
+prediction and we were talking about this gps of the brain and i think when i was talking to len in
+my the talk i haven't actually put on yet because we've had a few talks but we talked a little bit
+about um how what they were noticing in this system and i wonder if it's what you were noticing too was
+there's a kind of planning or a kind of um i guess what people would think of now as predictive
+processing or active inference or all these words that are very you know hot at the moment um i just
+wondered did you see something like that too and you i don't think so i mean i'm using it mostly the
+other people's experiments but i like them a lot let me just go a little further so to liberation so
+there's something going back at least 100 years which is something roughly called the two-stage two-stage
+model of decision making okay and it's roughly what we just described but it's not in rad simply it's
+it's about how it's condiments thinking slow but the idea really dates back at least to william james
+and others which is that when you have a difficult problem you imagine various solutions various
+strategy you could do and you select one to act on so stage one is playing out various what-if
+scenarios and stage two is choosing one for action
+and isn't that like take taking like after you've taken certain paths you you start to
+the body starts to the gps starts to understand certain patterns doesn't it so
+at some point maybe you can begin to deliberate about those patterns based on all this experience
+yes so you in generating these imagined paths you have to be have a lot of familiarity and some
+creativity and the paths need not be ones you've ever taken and the ability to construct paths across
+space taking routes you haven't explored before would take a system that really understands the layout of
+the environment or a two-dimensional or three-dimensional space that's not purely spatial it could be a social
+network but it probably has to be what's called low dimensionality um something like space to be able to
+construct routes possible routes across this space um yeah i'm very enamored of that two-stage model
+um i think the philosopher popper one of the famous philosophers really came across it
+across it late in life and suddenly came to the idea of that determinism isn't real because this
+is how the how we make decisions um because there's because we played out these scenarios i don't know
+quite how it defeats determinism but it undermines it it's not just sr responses well here's how i think
+it does is if we can reflect on our own patterns that means i think we only do it together i mean i don't
+think any creature that was just isolated would ever do this but i do think through this process
+of navigating the world and i'm gonna get a little metaphorical we do learn how to um reflect deliberate
+on all these paths we've taken before and then we can as you were saying kind of choose new ones that
+doesn't mean that we can create paths beyond completely beyond our comprehension but we can just
+the same way we can path integrate or do all these other things put things together in a new way or
+something so for me it does show that it can show that there's at least some space of free will or
+that there is some purpose maybe even to being becoming aware of ourselves i can see the arguments
+against you know well those paths you that are presented they're determined you can get into knots about
+that but one thing i think that people which is cool about imagining the future is you know our
+behavior is not totally determined by our past we can in fact imagine the future with some accuracy
+machines don't do that you know the the deterministic framework is it's all the path
+determining the next step but the fact that our brains can make reasonable realistic guesses about
+possible futures really takes it out of the loop and i you know that i'm not sure that gets to that
+you know i don't want to really get into the determinism issue but i think it's very important
+that we can imagine the future that our sense of ourselves has a past and a future and those are
+you know really critical aspects of sense of self in the country all these sorts of things we haven't
+talked about yeah i don't want to go down that rabbit hole either especially because it would take forever but
+i i have to just say too i do think it has to do with the paths that we open up for each other
+and that there's a kind of there is definitely a way in which there's some degree of freedom in that
+um but that would be a whole other discussion but yeah so the rat example i gave you about imagining
+paths that's not a socially constructed set of up pants it's the animal doing it itself so i don't
+really agree and that's from what i can gather that all these imagined paths have to be collectively
+determined although that certainly but the truth i'm not sure if i mean okay there's different
+degrees of it i guess so i guess i mean on a kind of human where we are now level then in terms of like
+the future of where we're going to go for me it would be a matter of um combined or sort of
+not group thinking but the communication offers a lot more possible affordance for something like
+changing the the trajectory we're currently on the rat i think you've set those paths and
+it's either going to take one or the other and maybe it's i do think that's a kind of free will
+that it has in a sense that it can decide which one to take um i guess i'm just that's one sort of
+scale and on on a wider scale i would say yeah it's it's gonna i would just make a distinction
+between deliberation and collective deliberation okay how do you see that well collective is when
+you talk to your friends and you share ideas and you get them you know a better set of alternatives
+than you would have on your own so i mean here's a kind of a leap but um thinking about memory and
+navigation and um sense of self identity i mean memory is a kind of our identity and our sense of
+self and so on but for humans we think of that as being conscious i mean the rat is conscious obviously
+but it's not conscious of itself maybe it is i don't know but so there's all these kind of levels
+of becoming aware and all this reflection and deliberation and i just wonder how you how what's your
+kind of take on that i mean do you see a continuity between for example that rat deliberating about
+which path to take and um what now we're also as humans um obsessed with this idea of consciousness
+and yeah i see continuity yeah you do i mean i could say okay i've got to get to the cafeteria what's
+the best path to take like take the elevator take this that deliberation of the sort i you know i could
+just head out and go or i could think about the roots and what i could do along the way that's you
+know not much different than the rats um and then let's expand it all very broadly so um i have career
+goals how do i get i have career goals not anywhere so i have an idea about my life and what its projects
+so and i want to to get to um some point and there are deliberative choices i put off some immediate
+gratification maybe to get to a future goal standard i think it's you know i don't see any discontinuities
+i think it's a continuum from how to get to the cafeteria to how to you know get to some family
+goals how to contribute to society how to do things that make you know that fit my sense of self
+myself worth those sorts of things um um i think that there's no you'll i don't see discontinuity
+but you know i don't think that animals have the same extended you know i think there's a whole range
+of stop points for different animals well they have different bodies and they're in different
+contexts they know that can you know those are all interesting issues they all probably do and you
+know listen to things yeah i mean yeah i won't go off on my feelings about that but i do let's go
+back to the hippocampus for a second because so the hippocampus is what is it doing with all this stuff
+i mean it's sending it to neocortex right or so um good can we relate that to what we're talking about
+i mean can we just try to bridge this let me see if i can do it quickly okay here's another theory of
+the hippocampus which i like which is that it's an index oh yeah the index and so let's
+take something like an episodic memory i you know have a memory of what it was like
+having breakfast in my kitchen when i was a kid there's a lot of stuff in it there are colors and
+people and you know the shape of the room and the smell and all these sorts of things and for someone
+who doesn't know what episodic memory is we can think of it like a memory of an episode sort of
+movie-like thing they can sort of you know envision what it was like you know which is different from
+like for example another kind of memory like associative memory or yeah yeah riding a bike or
+something right now it's you know it's like a flashback in a movie that kind of thing yeah it's kind of
+an episode like an episode in a book so um now i don't think all those things are stored in hippocampus
+but hippocampus well hippocampus they don't have that memory so those what's going on so the rough
+notion is the hippocampus has a set of pointers which project out to the neocortex and the pointers
+the memory is fleshed out by where the pointers point in the neocortex so it's not the hippocampus
+the hippocampus stores the connectivity what goes together but the content the richness is neocortex
+and i probably the essential things that make it conscious is probably neocortex and thalamus
+interacting not the hippocampus um so tons of papers on what neocortex does and
+yeah but it is kind of the newest part of the brain that does we do most people do see that as
+associated with this human experience of something like thinking and thought and so the only thing
+to add to the so the index theory is usually um what's the bell's name i can't come back to
+the name's not coming to me but it's sort of static index it's like a card
+library card catalog that tells you where to go to find the stuff one thing i'd add to that it
+has a temporal as a time ordered property which we think of these episodes as having a movie like
+a temporal sequence and i think what's what this stuff coming out of the hippocampus is like
+the sequence of play cell firing there's a time order that comes out so the hippocampus yeah it almost
+can seem like a script or something can't it right even these cognitive maps they're not static they're
+almost more like scripts that are constantly sort of going analogy i can move it's like a conductor
+in music yeah okay music music and the conductor you know is the hippocampus and then it comes out the
+orchestra is in the neocortex right so you have this environment that has this kind of statistical
+regularity that we could call music let's just say and the conductor is sort of turning that into
+something that will become like an episode what we experience as an episode could we say that i mean
+we're generalizing explore that's condensed you know a lot of ideas into a couple minutes but
+i'm sure we could do that so then we could almost say that the function of
+our own awareness of our own memory thought our experience of what we call thought which is usually
+language or image related that could be functional in the same way that the hippocampus is functional
+for navigating a geographical environment we might be navigating other statistical regularities like
+conversations or books or linguistic conceptual spaces in a similar way could we say that so you know
+getting back to this two-stage deliberation you know some of the trajectories you reject might be very
+dangerous and you reject them because i made fall off that cliff or something like that yeah so yeah
+that's got implicit functionality in that you know survival value if you will
+do you ever think about patterns um i mean do you think more about arts like the neurons or do you
+ever think in in in bigger patterns like i was thinking about the golf course and how it's it's such a
+pattern that no matter what golf course you go there are certain regularities or and how that makes it
+easier to remember or music when we hear a certain kind of music that seems to stimulate or
+enhanced memory i think you've you've written about that so that's kind of but do you see some
+connection between this pattern or recognition or regularity of some kind and i think that's one of
+the big problems i mean issues is so roughly that this remapping idea which separates one set of memories
+from another one but how do you if you want to fuse two maps if that's necessary for sort of creative
+thinking how can that work yeah where you know it's actually easier to construct a system which makes
+lots of totally separate learning systems that don't overlap but how do you take advantage of
+them being separate but sometimes they can learn from each other and that i have no real answer to
+or idea about i think that's a big challenge well let's wind it down because we've been talking a long
+time i guess you know you're still at downstate that's what i want to get to so tell me like why
+didn't you leave or is it has it been as stimulating through all these years the hippocampal group is
+just wonderful it's jim rock is retired and is somewhat debilitated bob muller unfortunately died
+others andre penton was a graduate student going through here then a young faculty member but he's left so
+so the the group that is not very functional right now um i also do a lot of teaching and i get and
+that's been at least half my life and now it's more than half of my life um i would get i enjoy it a lot
+um it informs my thinking also i think it makes me more of a generalist to try to you know more about
+neuroscience than just hippocampus and places else so i enjoy that i enjoy a lot of working with the
+students and the other faculty i wish you know i certainly would like it if the hippocampal group
+reconstituted more and i do collaborate with andre fenton at nyu i have collaborations with people
+outside of downstate but unfortunately not that much is going on here well you and fenton did a lot
+together too last kind of last question i guess is um well actually i was wondering is your how did you
+get into kind of philosophy ideas mostly through your daughter or do you still think about that is that part of
+your life yeah it's a pretty big part of me i think it was about 15 years ago um i wanted to teach
+i got graduate students together and said well we're neuroscientists a big topic is consciousness
+shouldn't we learn something about consciousness and have some idea and um at that point christophe
+cock's book what's the name of his book again um i don't know i can't remember conscious
+i'll find it later but yeah christophe cook's book so it was the you know then most promising current
+book on and we read it it was back when nobody was allowed to talk about consciousness i think right
+kind of shattered that and started out with a definition of consciousness from john searle which is
+consciousness is what you have in the morning when you wake up and you lose at night when you go to
+sleep and i said to the group we can do better than that you know so we started so that i think
+got me started with that aspect of philosophy um another thing was um uh pat churchland has been a
+wonderful influence and i've known her from maybe 15 again some maybe 15 years or 20 years um i had a
+memory that seems to be a false memory in the beginning of her book she talked about navigation
+and moving through space being a fundamental thing that animals do and i looked back and i can't find
+it and i've asked her about it but i early on read her very famous book neurophilosophy from what 1990
+and that was very inspirational um and i was very pleased after that to get to know her and you know
+i know you know her also and it's a i can't put a stamp on what got me started and thinking about
+it but does it motivate you still the teaching is one motivation are you also motivated by yeah
+no i've got this long manuscript kind of thing of trying to tie all these ideas together and um hopefully
+it'll see the light of day someday but so at the start when you were really interested in trying to
+understand who you are and emotion and so on do you think you've have you gotten any have you gotten
+ideas about emotion and they fit in with this broader thing about consciousness it would take
+me a while to lay that out yeah maybe another time but i just wonder if it's if if you found some
+answers or what yeah how that's progressed but you it sounds like you have well i don't know if answers
+they give the field neuroscience of emotion is a difficult field i mean the people they seem to come
+together about 10 or 15 years ago and now they spread apart again it's like a consensus but it's
+not there yeah i have some ideas that as an outsider which i am well i hope you publish them or put them
+somewhere um that we can read and also i hope you continue to document the downstate times i know you've
+done a lot of interviews with jim runk and i'm i'll link you know and stuff we have a long yeah andre
+fenton i did over our interview with jim a couple of years ago that was really helpful i think also
+you read some of my blog posts and that was a period of life that i really enjoyed it and they're
+actually really interesting i'm going to link to them because but i want to start up again i've got
+a whole list of topics that i never oh good because you're i mean at some point i was looking at your
+blog i think that was a few years ago and it doesn't seem up yet but i hope you put it back up
+oh it's there i think but it it's not the core yeah i couldn't get it but but anyway i'm gonna
+let you go now because you need to run an interesting thing about the blog you can't okay
+so there were two blogs it was a personal blog which just got me going and then um i was part of
+a group sponsored by the society of neuroscience bloggers about brain facts yeah but that doesn't
+go on anymore they don't they they stopped it what was interesting about that was i asked what you
+know what am i supposed to do what do you want and they said well make these posts um so where
+it's like an advanced high school or college student interested in neuroscience could understand them
+and that was a challenge yeah to make it interesting not dumbed down but understand sort of what a little
+bit what you're doing i wrote my own when i was sort of a fellow neuroscientist i wasn't making giving
+much background but to the brain facts blog i found it was a fun challenge to try to make it
+you know to introduce it in a way that a bright college student could be interested and follow
+along yeah i find it very it feels light but you actually learn a lot and because you relate it to
+things like a new york times story or memento the movie or golf or you know and i think that yeah you
+kind of sneak in the learning in a way so it's good um i just want to say thanks it's great as you know
+i think that this time period is really important and i think we're learning something about
+the relation of mind and environment and the body from it all that is a very big deal so on on that
+level too i say thanks for all the work you've all done and i wish you the best inviting me it's been
+fun i hope it makes some sense it was wonderful um is there anything you wanted to say that you know
+before we go that i haven't asked or i know we've been right at the movie ending which is hi mom
+that's perfect let's leave it there no nothing to say all right now stop recording

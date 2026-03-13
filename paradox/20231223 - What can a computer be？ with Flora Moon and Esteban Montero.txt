@@ -1,0 +1,955 @@
+Hello everyone, this is Andrea. This is a conversation about computing and what a computer can be.
+It's with two people who came into my life in 2023, Esteban Montero and Flora Moon,
+through a project called Holon, H-O-L-O-N.
+And they are rethinking, although they won't use that term as you'll hear in the very beginning,
+reorienting is maybe better, what we imagine is a computer.
+And I came across them because of Valencia, for one, and also because of Esteban and Brandon Baylor wrote a book called
+A Categorical Defense of the Future, which is about category theory.
+So that's just to say that the part of this research that sort of fits with this conversation is towards the mathematics of category theory.
+And we do talk about that a little bit here, but mostly we talk about big picture ideas of what a computer could be,
+what it has been seen as, what we want it to be in the future, both practically and also what it's made of, what it does.
+These are big questions, not easy, of course, sometimes controversial, and I ask you to just be gentle and patient.
+This one is a little bit personal, again. Some of these get really kind of intense.
+We just let them go where they want to go, and we all talk about some personal things here, especially by the end, even some vulnerabilities.
+And it all kind of relates to this idea of computing in a strange and interesting way that I'm still trying to figure out.
+So I want to share it with you, and I want to thank Esteban and Flora for being brave and open and trying to look at new parts of themselves
+and also find new ways of engineering and working in the fields that they work in.
+I also want to wish you a wonderful end of the year. It's really stormy here. I'm back in the Netherlands, and it's time for the holidays,
+and I just want to wish everyone who hears this all the best for next year, and I hope you have a beautiful end of the year
+and that this conversation brings something good into your life. Thanks for listening. Bye.
+Are you redefining computing?
+Well, redefining computer. Yeah, that's a fascinating question.
+So I think at some point in history, computers were a wide spectrum of things.
+And one of the versions of computers, which is what happens, I will say, in the 40s,
+this idea that computers are information processing machines, became very successful.
+And I guess historically overlapped with a lot of things that were happening philosophically
+and in the world of ideas and in the world of what we were seeing in the industry and so on.
+So we were exposed to more machines, and we were having this kind of analogy of the mind as a machine.
+And so on. And so it became something that we grabbed and run.
+And for the last multiple decades, it has been kind of the predominant paradigm of computing.
+So I wouldn't call it redefined because we are actually looking back, as you said.
+We are coming back to the origins to re-ask this question.
+We have all these years of scientific background and discoveries and all this progress in philosophy
+and all these things and results that we have seen from this idea of machines as processors of information.
+And we can go back and ask those original questions.
+And if you think about Babbage, one of the British scientists who was pioneering these ideas of computers,
+he used to say that the air has memory, that it was like a library.
+And he used to look at the relationship between everything and nature.
+And so in a way, we think that we owe it to them to go back and use the tools that modern science and technology has given us
+and ask the question, what will Babbage do today?
+What will Turing do today?
+Can we re-imagine that period of time, but with the modern tools and technologies,
+all the synthetic biology that we have today, all the progress in the connectivity,
+the ideas that have grown from the internet and so on?
+So can we use all of that and go back to the fundamentals?
+So in a way, yeah, we are.
+So reimagining or reorienting is better than redefining.
+You're not trying to define anything, really.
+We are not trying to, but we are kind of.
+Yeah, Flora, go ahead.
+Well, I was going to say, we're actually rethinking what the computer could be.
+So it's not necessarily redefining.
+It's more like, what is the computer not doing that we wish it would do?
+So maybe it's thinking about augmenting or additionality to how the computer has facilitated our lives.
+What else could it be doing that could be in service to our lives and our world?
+So this idea of collective computing that is a part of Holon's sort of vision, is that ecological or technological?
+It's kind of a trick question.
+Maybe there's no or there.
+But how do you see it, these two words, ecological, technological, because both of you have worked in both of those worlds in different ways.
+So I don't know that you need to make a choice, that basically in our lives today, there is no separation, except maybe intellectually, I think mankind or humankind has divorced itself from the ecology, even though we are part of it.
+So if you ask the question, if we were to integrate the ecology or think of ourselves as part of the ecology, what would you what would you do differently?
+And that's really the work that I do.
+So I think when you are thinking about how to facilitate life, and I think that's what the Holon computer does, you have to include ecology as part of that because it supports everything that we do and it supports us.
+So that's how I would answer that question.
+That also speaks to what you were saying about this reorientation or it's a different way, a different perspective of understanding what the ecological is in a way, isn't it?
+And that's also understanding what we might need from computing would have to be part of that.
+So, yeah, I mean, we're we're really doing waymaking at its sort of most expansive idea, which is if we were humans making our way to the future,
+what is it that we really need to allow us or help us do that?
+And what are the guideposts along the way?
+So I think both technology and ecology, both are essential parts of that wayfinding.
+Right.
+And they're not opposites necessarily.
+They're more different perspectives on a similar process, perhaps.
+Yeah.
+What do you think, Esteban?
+I think the way in how we arrived to our current thinking in Holland is because we started with a very kind of pragmatic industrial question,
+which was industries in industries where we work and we are engineers.
+So we were working, imagining specific projects, specific plans, building a specific distance, you know, for a particular company and so on.
+So very concrete, specific initiatives.
+Right.
+And what we started to realize is that different teams and different parts of these big corporations don't talk to each other.
+It was like a problem that in industries is called systems engineering or whatever you want to call it now.
+But there are many aspects of bringing different domains, different disciplines together.
+And so that's how we started working on this.
+And we realized that we couldn't do that without really thinking about how we bring everything together.
+You can't like divorce the question of how two teams work together if you don't also consider how two teams work with nature and work with their context and with their ecology.
+And so it was kind of a progression towards the question without ever compromising.
+We were like, how do you really bring things together?
+And it was deeper and deeper and deeper and deeper until we realized that there is for us no distinction between the technology and the ecology.
+And the computer has to be part of that question itself.
+It has to be a material, in material relationship with the ecology and where the question exists.
+That's why we call it collective.
+It's not just like two machines coming with each other.
+It's two machines coming together collectively with the decision makers and with their ecology and their context.
+And so that's how we landed to it.
+It was a kind of a natural progression of bringing things together.
+When you start studying anything really deeply, as you both have, and when you really care about the work you're doing and you start really trying to problem solve, you do find all these connections and different paths and different ways from which something could start.
+Or it starts to get very complex is the word, this feeling of complexity is not that it's a problem, but how are we going to make our way through as individuals and collectively?
+Is this kind of also something that you're trying to address with Holon?
+Yeah, let me start with that one.
+I think what happens is exactly what you said, which is when you really care about something, you can't abandon it in a sense.
+If you grab a question and you really care for that question, like what is the best solution?
+What is the best product?
+What is the best version of this company?
+And you really care for that question.
+You kind of go deeper and deeper until you realize that it involves its community.
+It involves the future and the past and all of that and all of the stakeholders and so on.
+So I think there is a relationship between kind of the tension that that starts to produce, like it really is like a very uncomfortable situation to realize that everything is a solution and a problem at the same time, that there are trade-offs, that there are implications for people that didn't sign up for, for what you are deciding.
+There's no way out.
+Every time you solve something, as you say in your work, every time you solve one thing, you've opened up new paths, which means new challenges.
+Exactly.
+And we think that's where, to relate to your work, that's where love comes into place.
+At least from my experience, love has been in my life one of the reasons why I have come to those challenges, those tensions inside.
+The fact that the people that you love die, the people that you love disagree.
+I mean, I come from, from Chile, a country where, you know, political divisions literally broke into a war and like people were killing each other literally for their ideas.
+And when you love people at both sides of these ideas, you just can't escape it.
+And so you can escape it.
+And I think a lot of people do intellectually, you can build, you know, imaginary shelters and narratives that, that allow you to, to kind of escape that, that, that suffering, let's say.
+But, but I was lucky enough to, to kind of experience constant tension and constant suffering in a way that, that I think allowed me to see that like, there's no escape really.
+And that's like, that's where the computer, I think is so important that it's phenomenological and material and specific to a context, because the more we bring it into that, that present and allow the computer to, to kind of allow technology to help us in the way in how it relates to your work, get out of the way.
+We call it get out of the way of those narratives that are blocking our, relationship with that suffering.
+I think the more we can get out of the way of our, our mind, in a way, our constructs that we are building, that we can experience the moment and then have a better relationship to the context.
+That's very fundamental to the work.
+I wanted to bring this up with, with you both, this idea of attention and awareness and the role that it plays in all of this.
+But before I do that, you just said something very interesting.
+You said you're very lucky to have experienced suffering.
+Can you unpack that a little bit?
+I've also noticed in some of the writing, you talk about discomfort and sitting with discomfort in a way is somehow important.
+Does this have something to do with kind of what Flora was saying too, about, it's not about choosing between either, or it's about somehow being able to see the space where all of these things are.
+Is that what the suffering has showed you?
+Yeah.
+So let me, let me connect that question also to the idea of a computer, right?
+So I imagine little me growing up, loving science, loving mathematics, loving the ideas that you can like reason your way through, through life.
+You can understand what is happening.
+I mean, what a word, the enlightenment, right?
+The enlightenment is like, we put light on darkness and then we can move forward.
+It's like a, it's like we clear the undesirable, you know?
+And I think I, I rely very early on, on my life, on that kind of hope that, that, that eventually we will figure it out.
+You remember thinking about that when you were a little kid?
+As a little kid, like curious about how it works.
+And let me, let me figure it out how it works.
+I remember looking at the stars, Chile has beautiful skies.
+And I remember looking at the stars and thinking like, well, let me figure it out.
+I actually wanted to be an astronomer at some point.
+And then my grandmother dies.
+Dies is eight years old.
+My father dies when I'm like 17.
+And I think you, you realize when you experience that, that there is a limit on reasoning.
+I mean, to me, at least there is a, there is a humbling moment in where like all your reasoning breaks apart.
+And, and in a way, all there is, is the experience, you know, the phenomena of like, I don't know, physical pain that you just experienced.
+And it, and it doesn't go away.
+It doesn't, you know, and that, that I think has happened to me multiple times.
+There are ways, I don't know, I, I lost that relationship too.
+And I think that's like a really hard thing to do for many people.
+Right.
+And then at the beginning, it's like, you try to reject it with more logic, with more, more narrative, with more, let's say, psychoanalysis, whatever.
+Like you try to reason your way through that suffering.
+And, and I think I was lucky to, to just like, at some point, give up to that and, and just like.
+Surrender.
+Surrender to darkness and to, and to the suffering.
+And I, I consider it luck because I think it, it transformed the way I see my relationship to this world, to, to not, to navigating, let's say, navigating for now with all the limitations of that word.
+But like to, to experiencing life in a way that is, um, way richer.
+And I would say where more like when, when you take out of the way that like need for light and you see both, um, life becomes way richer.
+And as Laura was saying, when you say, when you experience life like that and you say, well, by embracing suffering, by embracing discomfort, by, by, by, by sitting in darkness, my life got, I don't want to use this word, but better.
+Right.
+Right.
+It's not that it got better.
+It was already better, you know, in a sense, but it's like.
+It become richer and, and, and it's a better, a life that I want to live more.
+Um, and so then the question is how can, why is technology doing the opposite?
+Why is, why is computers relying on this idea of enlightenment on, on information, the computing power, the more, I mean, look what is happening with quantum computing.
+The more, the promise is the more intelligence, the better.
+The, the, the, the, the existing idea behind this technology that we call computer is that like, we will eventually figure it out.
+We will build bigger machines, more machines.
+Like I was listening to an interview of somebody talking about this large language malls in, in a few years when we have enough data, we have enough, these computers will solve everything.
+Mm-hmm I never thought about it before, but that's almost like the same kind of escape or trying not to deal with it.
+Right.
+It just, the technology will, will solve it.
+So I don't have to sit with the discomfort because that will solve it.
+Yeah.
+And going back to, to, to the eight year old looking at the stars, right.
+I used to think that the intellectual curiosity to the stars that translates into astronomy was a good thing.
+I have my hesitations today.
+I think that intellectualizing the stars is escape of the discomfort of feeling so tiny, like that you are this little tiny insignificant particle.
+In the middle of this thing, you know, that you just can't comprehend.
+And, and, and I think that's a really uncomfortable thought from a technology point of view, from a computer point of view.
+Like, it's really uncomfortable to realize that we are part of an ecology of their other, I don't know how many, but species and things and forms of lives around us.
+Mm-hmm it's not separate from us.
+It's, it's funny because looking at the stars, you can feel very small and uncomfortable, but you can also feel exhilarated and part of something larger.
+And I want to ask Flora if she's ever had experiences like this, just to bring her back in, because it's not just that you had to suffer, it's that you were somehow able to have the space to have this phenomenological understanding or awareness of that.
+But Flora, what are you thinking about as you're listening to all this?
+Does it resonate with anything in your life or childhood or?
+Yeah, so I, I sort of lived in ambiguity most of my life because my parents were sojourners.
+They were so accidental Americans.
+They came to the U.S. from China and then the government changed.
+So they weren't ever able to go to a place they called home.
+So we were always kind of, I guess, renters in the U.S. is the way to think about it.
+And it wasn't until I was able to sort of say, well, I'm actually American.
+I was born here, even though I look different and had sort of odd expectations from my parents.
+Then I had to, I was always sort of making my way through a culture that we didn't necessarily subscribe to, but we were part of.
+So I think you learn how to deal with ambiguity.
+I learned pretty early about ambiguity and how it wasn't an enemy.
+It just was a state.
+I mean, so I think in the culture that I grew up in and we are part of, a lot of us are part of, is we're forced to simplify things so that they are digestible and understandable.
+And when you do that, there's a loss of fidelity, right?
+Like the meaning somehow gets diluted or gets lost sometimes.
+And so if you can hold ambiguity and, you know, complexity can be a bad or a negative word for people, but complexity just is for me.
+So when we are dealing with this state of being divorced from reality or ecology, I say, it's really a change of a state of mind that's needed rather than something that you need to do physically.
+Right.
+And so if you don't start with the heart and the intention, then it doesn't matter what the technology does or what the, what happens in the environment.
+You, you're sort of shielded from how you react or how you respond or how you even navigate.
+It's about the subjective perspective, the position, taking the position of the subject seriously as a sensory body, bringing this into the idea of computing, collective computing.
+I'd like to know maybe how you got there.
+How did you get to this idea of computing and phenomenology actually not being dissociated?
+Well, we were working in the, in the idea of how do we bring different teams together?
+How do we bring different parts of a government together?
+How do we bring different political parties together?
+And so that was our, our business intention in a way, our professional intention.
+It was like, how, what tool do we build to, to allow people to, to kind of have some kind of mechanism for decision-making collectively.
+And, and so we originally tried to do this in computers and we went through the whole cycle that you are familiar with in cybernetics, right?
+I mean, you try to build a model, a system model, like let's try to build a universal thing.
+We, we went through all the stages of that, like this is standardized away.
+And, and we eventually realized that meaning is the key.
+I mean, there is something about the way in how Claude Shannon defined information theory that doesn't include meaning.
+I mean, he explicitly said that, right?
+Yeah.
+So information in a way strips out the meaning and allows this like information to flow between different things, right?
+So we, that's how we found mathematics of category theory, eventually category theory allows to, to represent meaning in, in incredibly powerful ways.
+And it's a, it's a very different way of thinking about mathematics and formality, but eventually we realized that we were trying to implement a new form of mathematics in computers, in machines that were designed without category theories.
+Category theory is 30, 20 something years later after, after information theory.
+So, so when Shannon and when Turing was, were thinking about computers, they didn't have that framework, right?
+So we came to the idea originally of what if we build a categorical computer?
+What if instead of having a computer that is designed at the hardware level for, for binary operations or for information processing,
+what if we build a computer that is designed for compositionality for integration and that started the, the, the path of let's, let's talk about hardware, you know, of architecture itself of the machine.
+And, and I mean, it was, it was a few days until we realized that there are other forms of, of materials of substrates, like biological entities that we could use in that, in that new architecture, in the new computer.
+And as soon as you start doing that, like the, the boundary between what is the computer and what is not becomes super undefined and, and the concept of collectiveness becomes prime.
+And as that happened in our journey, the, also the tension with kind of the, the objective, the individual objective, the individual perspective change a lot.
+Like how, how do you actually become collective kind of resolving this difference in, in perspectives, in objectives, in trajectories that each of the individuals are having.
+And, and that brought us to, to the idea of we don't have to convert phenomena into information, process information, and then go back to the phenomena.
+We can, we can, we can process phenomena.
+We can, we can process the experience itself.
+We can have a machine that intervenes that experience itself.
+And that's how we got to phenomenological computers.
+And what, what if we could have the, the ideas and the formality of mathematics, like category theory, but at a, at the level of the phenomenon.
+And, and, and when you think about that, it opens the door for a new, for a new field of computing, which is basically what, what is our interest.
+I want to bring Flora in a little bit, because this is an interesting moment to think about the work you do, Flora, because you're working with individuals often and groups.
+And you're also sort of playing with, with that, that kind of scaling a bit too.
+I mean, how do you think of the phenomenology and the subjective in terms of collective computing, but even just this idea of collective and what a collective is?
+Yeah.
+So I think collective is truly human.
+And to this point, it's not been technological.
+It's sort of been a kludge if it's technological.
+And so in my work, I do organizational change management, which means I'm brought in when people need to learn or be somewhere or do something different.
+And they need to understand how to be successful.
+What does that mean?
+What's the timetable?
+How are they going to get there?
+Sort of journey management.
+And so you can do it at the individual level, but in large, large companies, you have to do it in groups.
+And there's a collective sort of will that you work with in order to foster what success looks like in their eyes and in the leadership's eyes.
+So I'm very accustomed to working within companies, and I'm currently working at the industry level to try and influence mindset shift into regeneration.
+And these are all things that people don't, they're divorced from the ability to think about or even do something about.
+So phenomenologically, they're blind.
+And so if you actually just ask, and this is what I often do, just ask a very simple question.
+Why, how, why not?
+You know, and usually it's not in a challenging way.
+It's just saying, have you thought about it?
+And you ask the question so that they actually spend 30 seconds, maybe.
+Yeah, yeah, it can be a huge thing.
+It's just having the prompt to, in a way, it's kind of what category theory does in the way you were describing us, Devon.
+And it's almost like having this meta level of being able to step back and see, see things a little bit differently, you know, and, and rearrange them, move them around a little bit.
+When you ask somebody a question like that, Flora, it's kind of like you're giving them a chance to sort of step out of their normal perspective and look at it.
+Or do you think, I mean, it seems like that.
+Yeah, yeah, absolutely.
+And because I'm not an engineer, I'm always looked at as kind of a arty type, because I'm not an engineer, you must be an arty type.
+So, and that gives me some license to invite them to be more creative, to be more social, actually, and to invite radical thinking sometimes or innovation and give them permission in a safe space in order to navigate how they might even articulate these ideas.
+And so I often have to do coaching so that they can actually feel successful if they're going to step out of their comfort zone.
+This is really interesting when I think about the collective computing, and I can see why you're part of this project, because this phenomenological aspect, it seems we could think of computing as, in the future, in the way that you describe, in the way that I think your vision is at least giving me the feeling that we could move towards.
+We could think of computing as being able to both take that subjectivity seriously as like its own kind of path and trajectory that changes according to position, while also maybe could technology, could computing also perhaps give us a chance to step into or experience the different phenomenologies, so as to better understand.
+And the way that you're sort of, in the way that you're sort of, in the way that you're sort of trying to do with group dynamics or opening them up to other phenomenologies, like do you think of collective computing as being able to do that?
+So I actually think that people have been crying because they don't always feel heard.
+And when they're interacting with the computer, a very small sliver of themselves are actually interacting.
+And even online, it's a very tiny portion of who you actually are and what you actually do.
+That's constrained.
+Yeah.
+And so it's not like we want, we need sort of unconstrained interaction because that's chaos and we can't deal, we're not built to deal with chaos, but we can let the information that's embedded in who we are reveal itself in a more impactful way.
+Especially in business.
+Yeah.
+In business, people often feel like they have to put on a different suit and talk differently than they do at the kitchen table.
+Yeah.
+And so I often find myself saying, well, if you were talking to a friend, a smart friend, what would you say?
+And why are you speaking differently to your peers?
+Because we're all humans.
+That's great.
+That's great.
+Yeah.
+So it's more, how do you enable people to feel comfortable enough to reveal more of how they think and what they think?
+And I believe that our computer, the way we envision it, is going to enable that.
+So it's so fascinating because we do that even with our own self, right?
+You were describing it a little bit.
+When you ask these questions, you suddenly, you see that actually another self within yourself, right?
+It's the same kind of process of the way you might actually see someone differently after having a conversation with them.
+We kind of play all these different roles in our life without really thinking about it.
+And there would be a difference if we were doing that consciously.
+But Esteban, how does that relate to the category theory and this side of the equation?
+Or just what thoughts were you having as you were listening to Flora?
+Yeah, no, I think one of the things that Flora has taught me is the importance of dialogue.
+I think when we met, I was in the, I call it the naive stage of thinking that mathematical models could help us just come together and work together, right?
+But I think that Flora, her lines were always like, why don't you just grab the phone and call them?
+Why don't you just meet with them or go for a coffee?
+Yeah.
+And I think that that importance of the dialogue has been key to kind of the reliance on phenomenology.
+But I think the other part of it is that when you really have someone like Flora who pushes you towards the experience, I think what ends up happening is you just reflect yourself.
+And I think this is very related also to the concept of caring that you were mentioning at the beginning.
+Like when you really care for someone and for something, you reflect yourself.
+You see yourself in that.
+I mean, it's uncanny how much I see myself in my daughter sometimes.
+And it's really uncomfortable.
+It's a really difficult challenge as a parent.
+I mean, this is a typical thing that parents say and joke about, right?
+Like the worst things you see them reflected in some of their behavior or their saying or their, you know, attitudes.
+And I think that comes from caring.
+And so I think category theory by having that meta approach to reasoning, it becomes kind of a mirror to people.
+And by doing that, it allows to be more clear and more transparent, as Flora was saying, to others.
+And so this was our key insight for us in the architecture of collective computers.
+It was like the key to collective harmony was not the clarity of the information itself that we put together in a model, right?
+It's not the system model.
+It's the reflection that I have on the self.
+And in a way, the clarity that I have on the perspective of each of those, let's call them individuals of the collective.
+And if each of those individuals can enhance their awareness.
+And so how can we enhance the awareness of each of the individuals by allowing them to reflect through these meta languages like category theory or by formal ways of doing dialogue like the one that Flora is describing.
+It's not, it's not, it's not just getting in a room and talking, it's getting in a room with certain clarity of affordances or formalities.
+And, and if we can do that, then something, something emerges that is kind of harmonic, harmonious.
+And I think that's, that's where we are focusing.
+How do we have incitations or interventions to each of the experience so we can enhance that sharing of clarity and transparency?
+This gets so fascinating because we started to think of computing more like a conversation.
+And this idea of self has to kind of change in a complex way where, so this phenomenological aspect that you're bringing in, it's not just that the computer aligns differently to each subjectivity.
+It's also kind of opening whatever position you're in to understanding that you're actually always many positions and you can dance between them and realign.
+Which brings me to this, something I loved in the text you wrote that you sent me about form changing with function.
+So to think of a computer when it's changing its function, like when I'm using it in different ways, the actual form of it would change.
+It makes me want to ask Flora because she's worked many years with corporations and these really big bodies, big corporate kind of machines that have set a lot of trajectories for a lot of how we think and our world.
+And I wonder Flora how you've seen that change over time and how you think that this idea of collective computing as changing with the form or being more dynamic could be helpful.
+Yeah, so I think big corporations, any big body has an incredible amount of inertia.
+So what happens is you have skunk works or, you know, little labs that sort of spring up and they figure out how they can socialize radical ideas.
+They're not necessarily radical politically, but radical to the culture.
+And so the way I often enable that to happen is to understand what are the levers of culture that can be used, because not all of them can.
+And try different waffles that you throw against the wall to see what ingredients are actually the ones that are going to be successful.
+And I think with the collective computer, we have a lot of conversations about is it a technology?
+Is it a machine? Is it a process? Is it hardware? Is it software?
+Is it software because we're taught to categorize in a very limited way?
+So what I find is we almost have to create a new language, syntax, vocabulary, and rules of grammar?
+Because it's all of the things that we're talking about now.
+And they're almost antithetical to the way business.
+If you think about business schools of the last 60 or 70 years, they've spoken in one linear fashion profit above all.
+And this is how you do it. And then there are schools of better ways to make profit.
+And so if you actually challenge that paradigm and you say, actually, what if it's thrivability or generative life for all, not at the exclusion, not extractive life, then that actually changes the conversation.
+But business is actually pretty extractive.
+Have you seen that shift at all in the work that you're doing and in different sort of science approaches?
+Something is kind of shifting a little bit.
+Maybe we're going to learn how to think of the self in a little bit different way.
+Maybe we're going to have this ecological opening that incorporates all these things we're talking about.
+And I wonder in these big bodies that have such inertia, if you've noticed any shift at all that you think would be relative to this kind of collective computing, that it's opening towards that too.
+Yeah, I think it's people centric, right?
+There are specific individuals that are always going to be out ahead of the curve.
+And so you can't say that a big, big corporation is moving, but you can say there are people within that corporation that are actually thinking along lines that we're thinking.
+And I see this in the industry group that I'm very active in.
+We think like activists, but we are engineers.
+That's the tagline for the regenerative work that we do so that we have feet planted in both ideas.
+And that's what it takes, is that you have to have some brave souls or foolhardy souls, whatever you're going to describe them, who say, this is my conviction and I'm willing to share it whether or not you agree with me.
+And I'll do it in my style is to do it in a non-confrontational way so that there can be a lesson learned.
+And if you don't like it, I don't take it personally.
+Are you one of those people, Esteban? Are you one of those people who's like pushing, doing something new?
+I guess you can't really talk about yourself like that, but are you willing to be one of those people who's going to push into a new world first with this computing?
+Let me try to take it in this direction.
+I think that this computer requires a different type of world, a different type of paradigm for society.
+This is not just another technology.
+This is another set of incentives, another set of policies, another set of things that we value.
+And I believe it's as fundamental as the change from, I don't know, monarchies to meritocracies to, I think there is something fundamental that is changing in the way in how we value our role in society, our individual roles and the way we work and the way we live and the way we share as societies and so on.
+So I, I am hopeful and let's say that I am hopeful that this technology eventually will find the world, will coexist in a world where other things are valued and elevated.
+I guess I'm trying to get at like, what are the stakes here?
+You know, what do we really, what do you really care about?
+And, and how is that connected to this new form of computing?
+I see. No, I, I, I think it's a, it's a really difficult question, Andrea, because I think that what happens is that you have to make a personal commitment to something like this in the sense that like, when you try to develop a technology that requires different paradigm, the current paradigm won't reward you.
+There is no commercial interest today for collectiveness. There's so much baggage in terms of collectiveness. There's so much history and so much judgment that people have about historical forms of attempts to, to be collective and from a political point of view, from a technological point of view.
+Um, and so I think I, what, what we are doing at Holland, and this is why I'm so inspired and, and, and so happy about this project is like, we are just a few people who want to like dedicate their lives.
+To try this, even if the incentives are not there, even if the, even if the, the reward is not there in, in the sense is it's a deeper reward.
+It feels like a, like something more like a deeper exploration that transcends our own lives. It's not something that I will even need to see. Um, and this is why it's so complicated to answer your question, because if I attach myself to the desire of any form of result or reward, I couldn't do this.
+Hmm. I couldn't do this because the temptation is too big to go to quantum quantum is where the billions of dollars are.
+Yeah. That's what I'm asking you in a way, because you both have skills that are really in demand in these old paradigms, but it's not easy to resist the inertias to use that word again.
+And I mean, it must, it must be a deep connection.
+I know this from my own work too.
+And I think it does have to do with just having gone so deep that you can't go back.
+You can't unsee or unread or unsense there's another level, right?
+Which it seems like you both are trying to open up with your work that you've experienced, maybe gotten a taste of, and you want to like, you want more of it and you want the world to know more of it.
+And there's something there I'm trying to touch.
+And, and that, that at the moment, at least seems to conflict a lot with this world that's suddenly crazy about AI as if AI just appeared or something.
+And that, you know, if you can code, you can get any job you want and engineering and like, yeah, there's it's, they're not intention.
+Right. But part of what you are both trying to do is reveal that they're not intention.
+And that reminds me of what Flora was saying about people just being able to be the pioneers and try it.
+Well, let me, let me say something that I had a conversation with my therapist last week, and she said something really cool about this technology.
+It's actually the biggest compliment that I have had.
+She said, you're trying to put me out of work with this technology.
+And, and, and I take that as, you know, a technology like this would be a technology that allows people to, to be more aware, to be more reflective.
+And I, and I think what happens, what happens in there to me is that a lot of the, the way I see society right now is, is a lot of the people in power are, if you love them, if you, if you, if you, if you
+don't judge them, if you love them, you see their inner child, you see the little, the little person of themselves trying to get the love of their parents and not getting it and trying to prove the world that they are worth it by getting more money, by getting more power, by getting more recognition, by getting more.
+And, and I think there is something about the, that's what I was saying about, I was lucky enough to, to suffer tremendously, the heart break, heart broken to the core.
+Because you realize when everything breaks that you're still you, you're still there, you're still alive, and you start to love yourself in a way that doesn't need that external recognition.
+And so I think there is something about love that is very fundamental when, when it's to the self that allows you to say, you know, I'm okay dying without anyone buying these books or purchasing these computers or reading this material.
+It's okay.
+I'm, I'm doing it for myself.
+And I think that's love to, to the self, which is very fundamental to, to, I think, to be able to love others and to love the project in where you are.
+And I personally, I don't know if that makes any sense.
+What do you think of that?
+But to me, it's like, that's what moves me.
+It's like, man, that's the best thing I can do to my daughter, to my life.
+It's just to do something that, that, that respects what I want to do.
+You know, even if nobody really cares, you know, and that's, I am saying that fully acknowledging that it's incredibly painful that nobody cares.
+It's, it's, it's, it's incredibly painful.
+Of course, of course, I want to be in the, in the cover of wired magazine.
+Yeah.
+Of course, but.
+And that's fine too.
+Yeah.
+It's, it's fine to ignore, but when you acknowledge it, you, you can say it's not there and I am still going to do it.
+And it's, and, and that's like, and that's to me is, I don't know, it's love, it's love for the self.
+Yeah.
+That's a really interesting thing.
+There, there's something about to think about that suffering and discomfort that you brought up at the beginning and being able to sort of be in that and then ask yourself the questions Flora was asking her, the group, this, these why questions and get some perspective.
+And then still want to do what you're doing, thinking about that as a connection with, with love.
+I could go really deep into that, but first I want to ask Flora, when you, what is, what about this word love Flora and in your own life?
+How, how did you discover this love reservoir that's around and how does that connect to your notion of collective or, or the work you do and ecological issues?
+So I would say it's a feeling I'm trying to replicate and I would like it to be available to anybody who's looking for it.
+And it was the feeling I first had in the redwood forests in California, where I wanted to become one with the forest.
+I love the trees.
+I love the smell.
+I never wanted to leave.
+And there was a feeling of wholeness and purpose and just feeling integrated there.
+And it, it, it, this was quite, that happened quite a long time ago, but what I realized was why, you know, in these moments of ambiguity, what is it that gives you peace, solace, hope, happiness?
+It's not anything physical, physically tangible or intangible, like money or possessions or those kinds of things.
+It's really around where are, where are you feeling in your body and in your mind and your soul?
+And are you, are you harmonious?
+Are you feeling a harmony with all of those pieces?
+So my, my way of answering that was really saying, what if we were better connected to nature, almost in the way Thoreau said, you know, I'm just going to go live at Pond and watch nature around me and become part of nature.
+Well, we don't have that luxury necessarily, but that doesn't mean that in, in the voyages of your mind, that you can't spend some time there.
+To find that resonance, right, that you feel attuned with.
+And I think that's where I felt it in the redwood forest.
+Other people will feel it other places.
+And that is love.
+It's beautiful.
+Thank you for bringing.
+You're resonating with them.
+Yeah, you're welcome.
+But I think, you know, that's really, you know, love is some kind of resonance and look, there's a little disharmony sometimes, but mostly it's resonance.
+My husband works in greening cities and he has this kind of idea of like that the city itself should be kind of like the redwood forest feeling.
+In a way it connects to what the computer should be too, right?
+That why shouldn't we have those kind of resonant, as you say, experiences with all the things we interact with the city itself and the technology and this computing, they aren't separate things.
+So I love, love, love that you brought the redwood forest because we all have had that feeling of where you lose yourself, but you're more yourself than ever, but you don't need a self.
+And that is love.
+And that is love.
+I mean, that is love when it's happening with humans, when it's happening with animals, when it's happening with trees, when it's happening, sometimes watching a video on the computer or reading a book that it's almost like this kind of second order connection to the actual life that created it.
+But it comes through in a powerful way too. So it's fascinating to think about that. But you both use this word harmony a lot, harmonizing. And also in your writings, you talk about compositions. And I wondered if you thought of that as like a musical composition.
+And I want to dig into this a little bit because you just said, Flora, it doesn't always have to be harmonious. But yeah, it sounds like that's kind of the goal in a way is harmony or even surrendering to the vibrations that you're in or something.
+And I just wonder how you think about this, or if you all have discussed this, this harmony, is it too easy to just be harmonious? When I was reading in your text, I was thinking, okay, but no, maybe they mean more like a piece of music where, again, to get to this phenomenological subjectivity, where every person who reads that book or listens to that music, both of which could be compositions, will have a different experience of it based on their navigating, where they're navigating their trajectory to kind of connect it to my work.
+But at the same time, it's shared to it's it's very complex and fractal. So I wonder, what do you mean by harmonizing and composition? And do you think about this? Have you talked about it?
+Yeah, I think harmony. So one of the questions that one of the most common questions that we get when we talk about collective computer is for what, what is the goal? What is it going to, you know, and that comes from this, again, this paradigm of, again, enlightenment and intelligence and optimization
+and machines that extend our minds, these are tools for us. So harmony is, I would say, kind of a replacement word for us to all of that, all of that goal seeking behavior around technology. And so we see harmony as a word that is more about the present. It's more about different things coming together in a way that we want to, I want to exist in harmony.
+In harmony. So, you know, word limit us, it's a really tricky thing to say, what is this computer for, but if we have to choose, we believe that collectiveness will bring harmony, in the sense that we want to, to kind of avoid that, like goal seeking directional perspective, you know, of seeking to optimize in something.
+So that, that's what with harmony. And in terms of composition is about exactly, exactly, it's like a very fractal way of thinking about, it's not an input output kind of perspective, it's more, how do you bring things together and preserve their individuality at the same time?
+And I think compositionality, that's another very beautiful thing of category theory, it allows you to think that way, it allows you to reason about like, two different things coming together, but being there, themselves at the same time, and, and all the formal rules and all the, all the systems in place to, to allow that.
+That's how we're, that's how we came up with that. It's really hard to do because the question always goes to, so what? For harmony, for what? You know, this is very much influenced Andrea, just one more detail on that.
+In, in, in, in, I guess, Buddhist philosophy. And I guess the ideas of, I think in my personal journey, at least one of the things that like resonated to use that word too, in my journey of suffering and in my journey was discovering Buddhism and, and the, the ideas of like, as you say, surrendering to the present moment and so on.
+And, and, and kind of, and, and kind of, I wouldn't say rejection, but like, not seeking a goal, like the, the, the denial of that, like pursuit of something.
+Or seeing the pursuit of something as the, as, as a tool, right? It's not, that's the whole landscape. It's just that in the same way that inputs and outputs or all these other dichotomies that are a part of all this work, it's not that we, as you were saying at the very beginning, you're not rethinking it in the sense of throwing away everything that ever was before.
+And having some new thing. It's more like what the Buddhist tradition would say, or what Flora might've experienced with the Redwoods, a different awareness, a more, a meta awareness, this increasing of awareness.
+In a way, the answer to why is love, but we can't say that, can we? Because that word, it makes us uncomfortable or it seems, you know, reminds us of some Hallmark card or, oh, we don't take it seriously.
+But actually it's a very serious thing, right? And that feeling of love, like Flora described with the Redwoods or that we all have, we can all sit here for a moment and think of a moment when we felt that feeling in our chest and our whole body was, you know, vibrating, right? It was very music. It is very musical.
+In a way, that is the answer to why, isn't it? We don't understand it though. We don't know what that is fully. I don't know. What do you think, Flora?
+Well, so I always go back to nature and nature is for the most part harmonious, but sometimes it isn't.
+But it, so it's not to ask why is it or isn't it? It's just sort of to say these two things exist, coexist.
+So if we were to think about harmony within the, with people or people in the planet.
+So I always say people in the planet so that we don't forget.
+Then we sort of understand that we're not Pollyannas to say, oh, we're going to sing Kumbaya all the time.
+We're going to say, why wouldn't we want to be more harmonious as a species in the ecology in which we're part of?
+And if we can have a technology that is informed by our ecology, wouldn't that make sense to try and combine all those factors together?
+And wouldn't that be wonderful if the result was more harmony?
+As you were talking, I was thinking it's also about becoming aware of hearing, seeing, sensing other musics, other instruments.
+And how all those can somehow begin to recognize each other and play together.
+So even the idea of harmony isn't a static thing.
+It's not that we're trying to, there's some state that's harmony that we're trying to reach, right?
+It's very hard, even for me, like I was thinking of it in that way.
+But if we could really, you know, if we take my work and your work seriously, actually the harmony itself isn't some static thing.
+It's the combination of all those voices, all those instruments, hearing each other, and that itself is creating new music, right?
+So it's an ongoing scaling thing.
+Yeah, so I think we have to divorce ourselves from the idea of fixed, fixedness, right?
+Is there really, some things need to be fixed to understand.
+And so I think computers to date and our educations were fixed in certain disciplines so that we could acquire that understanding.
+But we're ready, I think, to go beyond. So I was educated in the 20th century.
+So when I look at education now, it's radically different.
+And I would say that the people who've been educated in this century are very equipped maybe to enable the best of what we did up till now, but only in that line.
+So maybe what somebody from the other century like me can bring is to say, we actually, there's so much more that we could be looking at and investigating and viewing as possibility rather than always trying to narrow and simplify.
+Yeah, that itself speaks to that different kind of awareness instead of thinking we always have to put something in its place and get to the goal.
+It's more like realizing, okay, putting stuff in its place and getting to the goal is important, but those, those are just methods, tools.
+And there's a bigger actual kind of thing going on, which again, Gastavon maybe talks to your, what you were describing in your books and stuff about, about category theory.
+Yeah, one of the, one of the things, you know, one of the experiments that we are preparing right now is, is to venture in what we are calling non-symbolic mathematics.
+So I think Florey touched a concept of education and in education, we see very early kids playing with like their fingers to count, you know, and then very, very quickly, we move into symbols.
+And the dominant paradigm there is that symbols and all the rules of mathematics that we use relying on symbols, help us deal with more complex operations, right?
+But what we are, what we are questioning in our research organization is, is that always true?
+Is it the case maybe in some, in some situations in where symbols are getting in the way of our cognition?
+And what if we could do formal operations, mathematical operations without symbols at a very complex level?
+So when, when you look at today, non-symbolic math, you will find toy exercises or recreational mathematics, as they call it, or educational tools, you know, tools for kids or pastels or stuff like that.
+But can we use non-symbolic mathematics for really complex problems?
+Can we use composition of music or composition of colors to, to make really hard decisions?
+That's wonderful.
+That's almost like a paradigm shift right there.
+If that could happen.
+It's almost like when haptics came to the phone, for some reason, that's what I thought of.
+And it just suddenly changed everything.
+It would almost be like a haptic of cognition interfacing directly.
+Yes.
+And, and that is exactly, that is exactly where the beginnings of, of a new form of computer, right?
+I mean, if we start playing with those experiments, like you were asking at the very beginning, is this a, a think tank or is this an experiment lab?
+Well, we started as a think tank, but we are starting to move right now to more experimental things.
+And there, these are toys, right?
+These are toys that we are trying to force into, into experiments.
+We want to create a space to, to play and to, and to bring back the early stages of computer science and where people were experimenting with different machines and different unconstrained ways.
+Developing new forms of math, like non-symbolic math and thinking about new ways of, of creating the theories behind those things.
+The architectural theories.
+It's more of like what we were talking about with, it's a cognitive shift that needs to happen.
+It's a kind of different sort of creativity, or there's some kind of shift in terms of how we're going to mash things up and what's possible technologically now.
+And also technologically can mean biologically now, as you know, you, you explore a bit too.
+Like you, you talk about the wristwatch in the, in one of the documents that you've made, that the wristwatch could itself be a living, a living thing that's interacting with your body.
+Like, and, and that is literal, not that a machine has come to life, that the, the watch, the wristwatch or the wrist band is itself created from something like fungi or, I mean, who knows, like an actual thing that we already consider alive.
+Yes.
+So, yeah.
+So, yeah.
+Just to bring Flora back in, like, how does that change what's possible with conversation if the technology is reoriented to be conversational?
+It's almost a social contract issue, right?
+Because I think some people will not want to disclose how they actually feel because if there's a personal impediment of some kind, maybe distrust.
+But I like to think that the better angels will come out of all of us and that, that we actually all seek a kind of sort of oasis for us and our families.
+And in that oasis is a quality of life that may be missing where some people are and work is so much a part of life.
+So why wouldn't we want that to inform how we work and what we do and how work and business actually operates?
+So to come full circle with why we originally thought about this, I mean, that's about it.
+I have spent endless hours in meetings where people are feeling enabled or disabled to say what they really think or are deferring to somebody who has more perceived more power or actual power.
+power of hiring and firing or raises and all that.
+So what if we were to make it more egalitarian so that everyone could actually express from their perspective what they actually believe could be a solution?
+I think we would be much better off.
+So I actually have a lot of hope for this technology.
+Yeah.
+And as you also both raise in your writings, we do get into these issues of privacy, of the fact that we do still think of ourselves as very particular kind of closed systems, even though, of course, we're not.
+But the idea of something like this wristband, some kind of living material, wearing it and it becoming part of your body.
+This is science fiction at the moment, but possible and happens anyway, actually.
+I mean, as we all know, our bodies are created by millions and millions of other creatures.
+We don't want to think about that, but it's just coming at it from a different side of the spectrum to think of where incorporating technology that's living consciously as of creating affordances, as you might say, instead of just adapting to affordances.
+But this scares people, doesn't it?
+There's issues of safety, as you both know.
+How do you, are those kind of the bigger issues that both of you are having to deal with when you think about actually taking this into a public space?
+So let me start with that one.
+Okay.
+I think that it's not going to be like boom overnight.
+We're all going to be wearing wristbands that talk to each other.
+Right.
+I think that we have to sort of find safe environment, quote, safe environments in which we can experiment.
+And business seems to be a good area to do that in.
+I mean, what we're talking about is not as much a fiery move as we think.
+No, we have wristbands that talk to each other already.
+We just don't know what they're saying.
+That's right.
+We're definitely always connected and sharing through traditional machines.
+So it might just take that separation from nature, that mindset shift.
+And because it's sort of bogus to think something artificially manufactured is going to be safer than something that we're surrounded with all of our lives.
+I find that sort of contradictory.
+So I think that the privacy issue is separate and in different societies, privacy is bigger or smaller.
+So in the individualistic societies, privacy is paramount because I am an individual and I am, I am, you know, my thoughts are my thoughts and I, they prevail over everyone else.
+Whereas in other areas, in other worlds, that's not the case at all.
+It's very communal.
+Yeah.
+So I think we have to sort of choose our battles.
+And the people who will be early adopters are the ones who are going to trust that maybe the builders and the manufacturers of these devices or this technology actually have these ideas pretty well thought out.
+We can't think of everything, but safeguards maybe, or affordances will be in place so that people aren't exposed where they don't want to be exposed.
+And these are things that we're working out now.
+Yeah. And that really gets messy in a way, in a way that is not bad.
+But in terms of intention, what the intention is also, even from a perspective of not thinking that this capitalism is totally bad or something.
+I mean, that there is some motivation in having businesses want to embrace that model, but also that having a spectrum of where it could become dangerous or misused and all.
+So there's a lot of messiness there.
+Yeah. I think one of the most concerning issues for us, I would say, and more fascinating as well, is the relationship between kind of what this technology means and the sociopolitical implications.
+Like, I think that you can't think about this technology without truly embracing the concepts of property, the hierarchical issues, power, you know, money, all of those things.
+Who owns a collective computer? Right? If we make something together, who owns it? You or me?
+If it's changing as we use it, I mean, that's quite spectacular, too. Who's responsible for the changes?
+Who is responsible? So we think that this is not just a technology, this is a new paradigm of socioeconomical order, in a sense.
+And I think that's really scary for a lot of people.
+But I am hopeful. And the things that give me hope are, I was very involved in recruiting.
+I was the lead of many recruiting efforts for huge corporations in the top universities in the US.
+And the things that the most talented people are searching for are so different today.
+They're searching for meaning. They're searching for harmony.
+They're searching for their respect to each other in ways that are surprising, actually.
+I think that that's a really powerful sign of hope.
+I see a lot of the changes in these old symbols of power and success are becoming like jokes.
+More people are seeing, as I was saying, little kids in diapers searching for their ego.
+I mean, I have so many friends and colleagues who have quit their corporate successful jobs to start permaculture farms and live from their gardens.
+And how do you explain that in economic terms? Where is that coming from?
+And I think we have to take those signs of change very seriously.
+And I think a lot of companies and commercial efforts are not.
+There are so many expressions of art that are talking about the collective, that are talking about regenerative systems, that are embracing biological relationships.
+I mean, there are so many signs that we are monitoring and maybe we are biasing our perspectives to give ourselves hope.
+But there is something, as you say, changing in the air, you know, something changing in the air.
+And I think that's scary because I think the resistance is not necessarily going to be a soft change, a soft transformation.
+That part is concerning. We are not a powerful corporation.
+We are just a group of small people and a small corporation, a nonprofit group trying to put these ideas forward.
+But that's what everyone is in the beginning of change.
+It goes back to something both of you said in different ways throughout this conversation.
+Something I also think about and write about a lot, which is it is a shift of mind.
+Once you understand that mind is not separate from all this phenomenological stuff that we're talking about and it comes back to this awareness again.
+And there's a way in which I call this ecological orientation, where if we take a different orientation about what self is and we start to actually truly, truly understand that we are a body awakening, that's not just this body.
+It does actually kind of solve some of that stuff if you really take it seriously because you start to feel the way we now feel about preserving our family or taking care of those we love.
+It comes back to love again, right? You feel love for a wider space and that actually starts to change and make way for a lot of the things that you all are trying to do now.
+It makes me think of this regeneration, too, which you talk about a lot, Flora.
+How does that connect to this new shift that would make a lot of this possible that you're both envisioning? Regeneration.
+Regeneration. So regeneration is is a response to the moment we find ourselves in.
+So we sort of been mindless about the way we have never have lived in the world to now and thought about the Earth's bounty as limitless.
+And recently I just read something that says it's not a problem of stocks and flows to use Danella Meadows.
+It's really a problem with stocks.
+We don't have enough stocks to continue to live the way we currently live.
+So if we don't pay attention to the flows that are needed, meaning regenerating those stocks, then we're consigning the human race, at least the human race.
+We've already consigned a lot of other species to extinction.
+So I think from a biological preservation point of view, regeneration is an absolute must.
+Is that part of that understanding we are those other species, too?
+Are we regenerating cognitively or mentally or our perspective, too, not only the way we use the resources?
+Yeah, absolutely. We're along multiple lines.
+So when I think of regeneration, it's people, planet, profit, and it's also ourselves.
+And if you start with yourself, then you're on this path to understand how everything is connected and how it touches each other.
+So, you know, there's that Buddhist analogy of a butterfly flies in the whole Himalayas, the monsoon start.
+And we now have the technology that shows us all the patterns, the natural patterns of wind and rain.
+And there's an understanding of the water cycles.
+And all of these life-giving processes of the earth enable all of us to live.
+And I think we've lost respect for the sanctity of life, ours and everything else.
+A feeling you had in the redwoods. We've kind of gotten away from that, maybe.
+I think many of us have. I think there are more and more people, as Esteban alludes to, that are finding it again.
+And it may just be being able to grow a basil plant, just connecting.
+It's magical. I mean, it gets to that perspective shift, too.
+It's actually really magical to realize you can grow something out of the dirt.
+I mean, that sounds crazy, but like some of it's just noticing, like these everyday things, which actually are really spectacular things.
+And if you start to participate with them, in them, as them, in a different way, your quality of life does change.
+I think that's what Esteban's getting at. I think that's what you're actually elevating, opening with your work, Flora.
+I mean, there's something there. We all are trying to we know it's there, but it's very hard to articulate.
+We still think of it in this dichotomous way as if it's some kind of spiritual or ephemeral thing.
+But actually, it seems to be maybe the whole point to get back to what Esteban, the question everyone asks you, what's the point?
+It's that. It's love. It's there's something more. It's not a joke and it's not mystical or it is if you want it to be, but it's there.
+And as you're talking about regeneration, it makes me think of what you both write about in this non-dualistic architecture of matter and pattern.
+If we start understanding the earth around us as a non-dualistic architecture, as a non-dualistic landscape,
+when we regenerate something in a plant, it's also regenerating what we think of now as ourself or something.
+Is this a kind of computer that we can have in the future, a conversation of constant regeneration?
+I think that the most exciting part to me about about that question or what is what is so what is the computer?
+How does the computer look like in this conversation?
+Is that I would say an unexamined answer to that would be, yeah, it is.
+This conversation is a computer, right? It's or or a planting a plant.
+And I think all of that is true. Right. But I want to use the word of Flora.
+It's like some people could call the doctor from this conversation that we are saying, let's go back to Kumbaya.
+That's the word you use, Flora. Right. And let's live in the forest. Right.
+That's not what we are saying. What we are saying is there is a huge opportunity to use actual science and technology to relate to these questions,
+to to to enhance the way in how we relate to this experience that we are having right now.
+And it is multisensorial and it is and it is all of that.
+And so there are so many progress in synthetic biology, in biology itself, in computer science, in mathematics.
+And there's so many things that we can do.
+Like, let's get back to the lab and let's let's build real technology and science.
+It's not just embracing the plants.
+I mean, plants are definitely part of that.
+Plants can be part of the computer.
+But the question is, how do we and people like our advisor Andy Adamatsky in in in the UK?
+Right. He's he's I mean, a lot of research on different types of unconventional computers using plants, using fungi, using, you know,
+proteinoids and many other forms of of of computing.
+Right. And I think for us that's that's an exciting field for scientific and technological development.
+I mean, I'm an engineer at the end of the day, I I want to see that part happening.
+Right. It's not.
+So, yes, it is this conversation.
+But is this conversation facilitated and organized in a way that is together with technology and together with nature?
+It's not just let's go back to nature is let's do both.
+And that is a really exciting part of what what we are seeing and doing.
+I think this speaks to this idea of language.
+And I think Flora said we kind of need a new language.
+And in your writings, you also say, well, actually, we don't language how I read it was almost or maybe it's from my own work, too.
+We could I think of language as one vehicle in a way that we've created for making way and connecting.
+And but we could also have other vehicles, which is kind of what you are getting at Esteban with the non symbolic math or these this other way of thinking about communication, which isn't necessarily symbolic language.
+And we already communicate in many ways that aren't symbolic language.
+So all of this messiness is just stuff we have to go through to kind of rearrange, reorient our understanding, our cognition of what all the stuff means in this kind of category, you know, and how all these categories fit together.
+We're reorienting that and that's tough, but that's what we're doing, right?
+That's this conversation.
+But it is important as I'm glad you brought it up to say that actually we all are kind of tech tech nerds or engineering minded.
+You know, each one of us has some really deep connection to what people think of as traditional science or traditional engineering or traditional coding or traditional whatever computing.
+And all of that is part of it.
+It's it's it's exciting.
+Even as you were saying, those guys who are creating the languages and stuff like that's part of it, too.
+It's just how do we realize that there's that's part that's part of that's a vehicle.
+There's other ones.
+That seems like what we're all trying to do.
+And so to end, I want to think about this idea of SIM, maybe that connects to all this SYM, which you use a lot also.
+Is that part of it, too?
+I mean, that seems like a dichotomy, right?
+Symbiosis.
+But actually, that's what we're trying to do, right, is widen that to understand it's this ongoing regenerative conversation.
+It can be between two, but it can be each of those two can be conversing with millions of others.
+We are symbiotic beings.
+I mean, we have millions of different little microbes, bacteria in our bodies.
+And so this idea that symbiosis is outside of us is as preposterous as nature being outside of us because we are we are nature.
+We are symbiotes.
+We are symbiotes.
+So it's this continuum of life.
+And we've sort of as humans, I think, artificially transected it with categories.
+So maybe what we're doing with our SIMs is saying categories allow us to way find in a certain way.
+But what if you actually allowed the whole of wholeness of nature to inform what we do and how we do it?
+What would that feel like?
+It would be a difference in the way we interact together and on the planet.
+And I will add, Andrea, I think there is one more aspect to what Flora said about this idea of symbiosis that is interesting, attractive.
+Let's say it's attractive to me, that is this concept of endosymbiosis as a key part of life, this relationship within ourselves, within the core of who we are.
+And I think that there is like something about that relationship between the mitochondria and the cell that is like in a way generating or producing the energy that moves life.
+And so there is, we come from the world of energy.
+And I think one of the bigger questions for the future of society is like, where is this energy going to come from?
+And where is this energy?
+And look what life is telling us.
+It comes from within.
+And I'm not referring it as a metaphor.
+I'm not using this as a, I am literally saying like 80% of our energy is from that little fight between the mitochondria.
+And I think there is something profound there that technologically could unlock a new future of energetic systems and resources.
+And I think we, we are at the dawn of that.
+We are just exploring that.
+And I think a computer that has an internal symbiotic relationship within, you know, we, we think about computers with components today that are performing different tasks.
+But if those components have an internal battle to become one as it, as in the mitochondria of the cell, like what if that is the source also to power the computer itself and not just to power the computer, but to power our world.
+I mean, this is an early thought, right?
+So I don't, I don't know if, if that's going to lead us anywhere, but I think we are excited and we have a whole line of research in terms of the implications of energetic systems like that.
+I'm glad you brought that up because that's an important thing for all of us, again, and all our other work that we haven't touched on, but the fuel and what's, what's, where's the energy source and what's possible.
+When we think about it in terms of that become very exciting of what we haven't yet imagined.
+That's probably already possible right around us.
+Is there anything either of you want to add before I ask the last question?
+Anything on your mind that comes up?
+I have one thing.
+I think the, the, the one aspect that I think is really fundamental to our work is, it's also related to education.
+It's this separation between humanity and the science that, that is so fundamental to the way in how we train people today.
+So hard to, to speak in industrial professional context, because a lot of people don't even have the background.
+They never had a single class of philosophy or, or art, you know, they, and so they have never encountered the questions of the self or the questions of composition or create like.
+And so I think there is something about the computer, which is, we call it a collective piece of art in a way.
+And I think there is this kind of co-creation of these things that are, and so we didn't talk about that, but there is a lot of work for us in the collectiveness of the expression, the art expression of.
+And so we think it has implications also in the, in the trajectory of art itself in the, not just in the science and the engineering, but in the art as forms of collective expression could arise in ways that we have seen pieces of that.
+There are many artists who are exploring with this concept, you know, very inspiring to see.
+But I think there could be an instrument for, for a new form of art that, that could emerge from this technology.
+Hmm. Yeah.
+It's great.
+You said that and actually links with what I was going to go to now, because I was thinking also about interdisciplinary stuff and non-disciplinary.
+And my question, the last one is, and I'll answer it first so you can kind of think, but I was just thinking here, what's some kind of category or some kind of dichotomy that's limiting us right now that might be limiting you and your work or you and your personal life or not even limiting, maybe it's a good constraint, but something, some kind of challenge or something you want to put a little attention on.
+And I'll answer first.
+I mean, I'm just thinking right now, I think when you were talking about or when we were having this conversation, I was feeling myself a little resistance to this notion of if something becomes too popular or too trendy or even a person like you're on the cover of Wired magazine or whatever, or I am or all of us are like that.
+There's something in me that hasn't figured that out yet.
+When you talked about that, I feel like I'm resisting it, like there's some kind of thing where you can't get too successful or something by these traditional terms because then somehow you're selling out.
+I don't know if that's just from my own cultural kind of upbringing or something or this kind of punk thing I had when I was like a teenager, but I think there's some resistance in me around that dichotomy or those categories.
+I think I still see the world in these kind of categories of selling out versus being true to your passion.
+And I would like to look at that and maybe release those categories a little bit and regenerate.
+So that's mine.
+What comes to mind for you and your work or your personal life?
+Either one of you or both of you, but either one of you first.
+So I'm a survivor.
+And so I would say that that was a positive.
+Actually, it was very positive because I realized that when with the diagnosis that I hadn't done what I thought I was going to do.
+And when I came out on the other side of treatment, I was hell bent to get it done.
+And and so I'd say that I used to need to have permission to do things.
+And I suddenly realized I could give myself permission than I have.
+And so it's it's a it's an amazing way to to find my way to the future.
+And I spend a lot of time thinking about the future in very positive terms.
+And I think that helps me actually arrive and help others arrive.
+Oh, yeah.
+Thank you, Flora, for sharing that.
+It also takes us back to the beginning when Esteban was talking about his childhood and the suffering and the coming out and with a different path or something.
+But yeah.
+How long ago was that?
+Was it a while ago or was that 10 years?
+So you're.
+Yeah, so it's maybe that's part of the power that comes through in your.
+In your in your poise and presence.
+Yeah.
+Thanks for sharing.
+What about you, Esteban?
+Yeah, I think about, you know, the.
+Unexamine or unaware behavior of seeking recognition.
+I think that is it's something that I reject like you.
+Right.
+I don't want to be I don't want to be the person seeking for the love that I didn't have in whatever instance.
+Right.
+The rejection of my ex ex-girlfriend or my whatever parent or whatever love figure in my life that didn't love me back.
+Mm hmm.
+So I agree with you.
+I don't want.
+I don't want to use success as a as a filler for that whole.
+Mm hmm.
+But I think there is nothing wrong with aware with being aware and seeking intentional recognition.
+And I think David Spivak, mathematician David Spivak uses a very beautiful concept, which he calls social credit.
+I think there is nothing wrong with seeking social credit in an aware and intentional pace.
+I mean, I make it personal.
+I admire your work.
+Right.
+And I would love for to get your I think this is a recognition to get to talk to you in this podcast.
+I look up to you, to your writings, to your philosophy, to your thinking.
+And so I I embrace that.
+You know, I don't I don't feel ashamed or feeling proud of talking to you.
+Right.
+But I I do agree with you that sometimes I catch myself and I'm really pursuing something in a in a way that I don't want to.
+You know, it's like it's different to eat a good meal when you like it and just to eat by because you are just anxious.
+Right. And I don't know if that analogy makes any sense, but there's no intention or what we were talking about earlier.
+It makes sense.
+Yeah. There's nothing wrong with food.
+There's there's something about that anxious and aware eating.
+Right. And that to me is attention.
+It's also social credit back to Spivak.
+Mm hmm. Yeah.
+Yeah. It makes me think of being too careful or safe or something which, you know, relates to both of your work again to of not wanting to put myself in situations where I'm I could be doing something just to be.
+Just to heal some kind of past thing that I haven't or just to be seen or I mean, I'm thinking of technology is why I'm going here, because a lot of our technology now is about.
+Following liking all these kind of awful words.
+Right. That I just don't even want to like I find myself kind of escaping in the way that you said Esteban, which is why I'm I'm trying to challenge myself here now because I don't even want to look at it.
+I don't want to have any. I've never had social media accounts only just recently, like in the past week or something, because I just don't want to play participate in that game.
+But that's part of that. In a way, I'm reinforcing the category rather than regenerating or as Flora just kind of opened up this idea of access, giving yourself.
+Like access and and giving yourself the there's there's something in what Flora was saying, a release of not playing in that system, but opening and being part of that system.
+I don't know. What do you what do you think, Flora? Does that make any sense what I'm trying to say?
+Well, whatever our constraints are right there, they're our own personal demons.
+And so I reminded that I joined a network of doers who are very much aligned with what we're talking about.
+And it's only online. And I remember because I had met the man physically and then he he said to me, you know, there's nothing about you on social media.
+And it never occurred to me that I needed, you know, I just I wanted to do I don't really care about publicizing it.
+But there is a there is some necessity if you're looking to find other like minded people to have some sort of presence in some sort of documentation.
+So people little breadcrumbs so people can find you. Absolutely.
+And if if we're serious about which we are serious, I mean, actually, but all of us have I mean, I've spent over a decade just silently reading and coming up with a theory and you don't and you both have, you know, worked really hard on things.
+It's not we actually do care about these things and we actually do want other people to experience some of the really beautiful stuff that we've realized is there.
+So it seems wrong to reject all the technology that spreads that kind of stuff.
+While at the same time, I do still feel like I need to be careful.
+I don't know. What do you think, Esteban? Have you ever had this issue?
+Absolutely. No, I think one of the the most difficult things is that balance.
+Right. I mean, it's so painful to to to not feel hurt, to not feel seen.
+You know, it's like that need to be seen is so it's so core to us.
+I just I don't know. I mean, maybe to to make it specific.
+Right. I mean, I.
+I think that rejection is a mechanism of defense, and it's so it's so tragic because we end up depriving the world from amazing things.
+I mean, you know, I imagine it's really scary to do what you're doing, releasing conversations.
+Maybe nobody will follow. Maybe nobody will listen.
+What if nobody listens?
+What if a hundred people listen? Why why another million people listen? Right.
+I mean, it's impossible to not fall into that. So I I do want to take the opportunity to say thank you, because I think you have changed Holland and ask me personally.
+The reason why we love so much your work is because it has really transformed the way we think about technology and life.
+I mean, your philosophy of way making and in general, the way of thinking.
+So I I just want you to know that at least you have made an impact on us as an organization and on me as a person.
+I think I told you that in in Spain when we met.
+But I I want to tell you again that and one one more thing.
+There's a there's a person that I really admire Hilma Hilma clean as an artist.
+I have her book right behind me, so I can show it to you.
+But she she was a pioneer right in art and he he got a lot of rejection because nobody understood what she was doing, you know, and she she did this thing that is like, you know, I'm going to preserve my work.
+For 20 years until until I die after I die.
+I think there's something there is something there that is like self protective, you know, and I respect that.
+I think, you know, I I at the beginning when I knew the story, I judge it.
+I was like, why, why, why was she not more courageous?
+Why was she not, you know, but she was like decades ahead of her time.
+You know, her mentors were rejecting her.
+Her her peers were rejecting her, you know, and she still did it.
+You know, I mean, in 20 years later, people benefit.
+I mean, her exhibition at the Guggenheim, I think it was the biggest exhibition of the museum ever.
+And so we wouldn't have that, you know, so I think there is something about doing the work anyway.
+And if you want to protect it, fine, protect it.
+And if you don't want to, like you are right now making this conversation public or not.
+I mean, you already changed at least one perspective and trajectory, which is ours.
+Thank you for that.
+Thank you so much.
+I'm going to just accept that because, you know, of course, you always want to push like, oh, really.
+But I accept that.
+And I, I welcome that.
+And I, I feel just gratitude to you for that.
+And I think it's, it gets back to that redwood forest moment.
+I sort of realized that that's like, as long as I'm doing stuff out of that space, it's this big term.
+Like you can now, I think category theory even helps you understand you can zoom out and think of this bigger space.
+Right.
+And you even think of yourself as part of something bigger and you don't, I don't understand why I feel compelled to talk to all these amazing people like you, which by the way, both of you, as you know, I'm so grateful that you sent me these things.
+It's like a huge gift.
+I mean, really, it's a gift.
+You know, it's like one of those things where it just comes into your life and it's exactly at the right time and it resonates.
+So who knows why that comes, but thank you.
+But, you know, you can start to see that all that's happening and I can't see why, but if I, if I just, I just learned, okay, if you feel that go with it.
+That's how I felt about wanting to talk to you.
+Maybe that that's how I feel about my work.
+And then, you know, the rejection gets a little smaller.
+It's like a little tiny boat on a big sea.
+So I just wanted to respond to two things.
+One is your work resonates with the way I have conducted my life.
+I mean, so when I, when Esteban told me about you and I started reading like you're articulating how I feel or how I felt and how I felt my way through life.
+So the second thing I wanted to share with you is that we're not trying to be tick tock superstars.
+Right?
+So there's this, right?
+That isn't the goal.
+Right.
+That's not the goal.
+Although we welcome it, right?
+It's fine.
+Flora can be a tick tock star if you guys want to.
+No, no, no, no.
+I think we could be the tick tock star.
+I'd rather be true.
+Yeah, that's true.
+That's true.
+It's, I think it just gets, it's hard not to get, first, thank you so much, Flora.
+I mean, wow, that's already enough reason to be alive that one person says that, to be honest, you know.
+But, and I do get, I mean, there is resonation like that.
+And I do feel like we're all, that's why I was trying to bring this up.
+You're inspiring me.
+And there's, something's happening, right?
+It's not, like, we're all sensing something that we're seeing in each other.
+And it's important that we put it out there so that we can connect, you know.
+That's why it's good to take these risks and not worry about the rejection.
+Because we're, something bigger is kind of happening.
+It doesn't, I don't mean it in a mystical way, but like, if we don't put it out there.
+If you hadn't put your things out there and I hadn't, we wouldn't be having this conversation.
+And this conversation is very important and meaningful in my life.
+So, and hopefully for others it will be because, you know, even with just what you just said about giving yourself access, that little sentence alone will probably help someone.
+One person at least who hears it, you know.
+Anyway, so it's all, it's all worth, it's all worth a lot that we can't really see in our little limited life.
+But Esteban, were you going to say something? Did I cut you off?
+No, no, no. I was, no, I was, I was going to just acknowledge how difficult it is.
+And in the context of developing a technology, we leave, I have worked recently in the, in the space of venture capital.
+And, you know, you move through money, you follow the, you know, there has, they have to have a certain pool and all of that.
+So that I was just going to.
+No, that's what I was going to say.
+It's what's hard about it is that we're in these little worlds.
+And, and it's hard in the little world when you're doing something a little different, like in my little analytic philosophy world, you know, I had to kind of push through that or in the neuroscience or you in the math, or even in our families, right?
+Or our friends who might have absolutely no clue what I'm talking about when I started talking about all these things, because they haven't, not that they couldn't understand it.
+It's just, they haven't spent 10 years reading all these books, right? It's just, it's just a matter of that trajectory of what you've absorbed, so that something seems like, oh, I couldn't, I can't understand that.
+But actually, it's just that you haven't read all the stuff. If you read all the stuff, you'd understand it just as well.
+But when you're in those little communities, it can feel really hard, right, to put things out there and deal with rejection and stuff in the way that we're saying, or just people not understanding it, what you're doing.
+But that kind of brings us back to love, right? Because when you have that feeling, or when you have conversations like this, or you meet people who you resonate with, you start, it becomes, you sense there's something holding us that's larger, and we can help each other feel more of it, right?
+Yeah. And I think Andrea, like, to me, I mean, love taught me this lesson, which is, I know, it's kind of a cheesy quote, you know, but you know, Pima Chodron, right?
+Oh, yeah, of course. Yeah, there's a book about suffering, right? I was thinking of it earlier.
+Right. I can't remember the name of that.
+She had this quote, which is like, you know, if you let yourself be annihilated, like completely destroyed, discover what is essential in you. And I think what happens with heartbreak, what happens with love is that you discover that you lose the fear of it, in a way.
+And it's not, it's not that you lose the fear, of course, I am still afraid, you know, and some people can increase. But you realize, like, you feel that when you are heartbroken, you feel like you won't survive it. You can't even sleep, right?
+Oh, yeah. I know exactly what you mean. Last big heartbreak, I couldn't even get in the bed after it. It was awful. Yeah.
+It is awful. So if you have never experienced that and survive, you are terrified of it. So how am I going to go for a technology, or a type of computer, if I'm going to get heartbroken and literally die? I mean, this is a, this is an existential question, right?
+I think I am, I don't think that I, yes, it would, I think now that it would be another heartbreak. And, but we will, we will meet with Flora, have a coffee and continue our lives.
+You're lucky you have a Flora in your life.
+I am very lucky that we have a Flora, right?
+But Flora is, is disease or going through something like that? Is that a kind of a heartbreak? Or is it, is it different? Is it, I mean, I've, we've all gone through certain things, but not as, not in the way.
+It's a wake up call, I would say. I mean, so heartbreak certainly unlocks a lot of different things. But I think when you are confronted with your own mortality,
+and you sort of do your own summing up and you find it short of what your expectation is, you have a choice.
+You can say, okay, I'm going to go for it or too late. So too bad. And I, I elected to go for it.
+Yeah. I guess it's this clarity that is a very different grain of clarity. Well, thank you for going for it. And thank you both for your work.
+And, um, I mean, I hope this is just one conversation in many that we continue to have about all these things.
+And, uh, I'm a big fan and definitely here to support you in whatever way I can. So.
+Thank you, Andrea. It was an honor to, to talk to you.
+An honor too, for me. I mean, I just, I could cry now. I just, I just feel the love for all of both of you.
+But Esteban, you have to show us a picture of the guy, a girl, a woman, if you actually have that book close.
+Oh. Just to end. Yeah. Yeah.
+Because I just, it's on my mind. Oh, it's right there. Yeah.
+Paintings for the future. These are the kind of things that she was doing before Kandinsky, before, uh, before abstract art was a thing.
+Wow. Um, so yeah. Thank you for showing that. Yeah.
+All right. Well, I have to go now. It's, um, dinner time here in Holland.
+So I hope you have a beautiful day. Thank you for spending a couple of hours with me.
+Hi, Andrea. Thank you. Bye.
+Thank you. Bye.
+Bye.

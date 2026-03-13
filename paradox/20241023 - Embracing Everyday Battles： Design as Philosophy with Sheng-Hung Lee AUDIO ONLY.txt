@@ -1,0 +1,1357 @@
+Design is not a hardcore skill or a soft skill, it's a human skill.
+Can you change people's quality of life?
+You just have to immerse yourself in all these challenges.
+That's the only way to do it.
+Every day is like a war to me.
+You know, just like, oh, you have credit card fraud.
+Your student dorm rent.
+Oh, you need, you have health problems.
+So for me, these are all ambiguity.
+And how do we embrace that?
+The funny thing is that you can actually learn a lot of things from
+the people you cannot resonate with.
+Things go wrong, it's okay to go wrong and it should be go wrong sometimes.
+Yeah.
+I still want to swim into this and to understand how can I survive and, you
+know, like a propel, not just stay there, a panic.
+Hey everyone, this is love and philosophy, a podcast that started as my research
+where I'm trying to find patterns across disciplines and talk about
+things like feeling and consciousness and mind and cognition in ways that
+don't have to fit into traditional particular boxes and categories.
+And yet are earnest and coming from a real place of trying to
+understand ourselves and the world.
+And my name is Andrea Hyatt, in case you're wondering how to say my name.
+Someone wrote and asked me it's Hyatt.
+And today the guest is Shenghong Li.
+He's a designer, an engineer, an educator.
+He's at MIT.
+As you'll hear, he has inspirations from many domains, from first becoming
+an electrical engineer to then working as an industrial designer and some of
+the best design consultancy firms in the world, like IDO, maybe you've heard of it.
+And now he's in the age lab at MIT, working on ideas of longevity and
+teaching and getting his PhD.
+I always like people who go back to school after having worked and been
+successful because I find this just really inspiring and it's something I
+did in my own life, so I know how hard it can be, but also how rewarding.
+And I found Shenghong Li because he does these little inspiring quotes.
+He has like a million LinkedIn followers and he has these wonderful little quotes
+he does about what design really means in our lives and really thinking of
+design as decoding signals.
+So like de-signing, design, de-signing.
+It's very interesting to me.
+How do we decode the signals of our life and how do we arrange those signals in
+different ways so as to have different feelings and experiences in the world?
+We talk about some of these things, but also in a more everyday practical sense,
+just how some of these design concepts can kind of help you pick up a situation
+and turn it around and look at it from different angles.
+For example, one incident in his own life as a foreign student in the United
+States, trying to kind of make his way.
+And he had to have a credit card, of course.
+And then there's this fraud thing that happens.
+We all know the situation where, and he really wanted to understand it, like
+what had happened and who had taken his credit card.
+And so he went to the bank to try to figure this out, but that was not an easy
+or stress-free process, but in any case, he brought some design principles to
+this situation and as you'll hear, it really actually improved that situation
+and his day and the way he was feeling and so on.
+So it's interesting to think of all these different levels of what we do in our
+life, whatever you're doing in your life and how you're learning things that you
+could probably apply in other areas of your life or other people could learn
+from you, which would help them.
+And Shenghan Li tells me a little bit about what human-centered design means
+and life-centered design.
+And these are interesting concepts to me, perspectives opening up in the design
+world, and he talks about one of the projects he did for the Shanghai Library,
+a big project, obviously, where he sort of redesigned the whole entryway.
+And this was basically a matter of thinking differently about the paths that
+each person took as they came into that building or left that building.
+So that's incredibly fascinating for me as I work on this idea of navigability
+and way-making and just how the ways that we move and the paths that we take
+affect what we think of as consciousness and cognition and the practical aspects
+of that in everyday design and the way that we experience buildings and place
+and space and nature and how all these are nested together.
+Everything's designed or it's being designed on some level.
+And then on another level, nothing is really fully designed by anyone or anything.
+So there's always this chaos, co-creation, entropy, order, paradox, the word
+I always have to bring up in every conversation, how do we hold it?
+That's what we talk about here, of course, in one way or another.
+How does it relate to societal issues and very real problems that we
+face or experiences that we have?
+In any case, this is a really beautiful conversation.
+We just let it go where it wants to go and try to talk about what we care about.
+And it ends up with a real emphasis on human connection and design as a way to
+help us feel that connection and open to it.
+So that's one of my favorite sort of places to get to the philosophical
+question that was on my mind when I was having this conversation is how to rethink
+this boundary that I sort of had in my mind about the way we design our lives,
+what's around us, even our appearance and the way we feel and the way we think
+and the way we interrelate with one another.
+These seem like separate categories or something, but of course, they're all
+mixed up and entangled, or are they?
+What do you think?
+In any case, I hope you're doing well wherever you are out there today.
+If you want to support love and philosophy, you can do it in a million
+different ways, just however you would like.
+Join the sub stack, that would be great.
+Or anything you find would be helpful.
+It's always good to fill your support.
+And I really appreciate that you're here.
+So thank you.
+Here's our conversation today.
+Let me know what you think.
+So I guess we can begin formally now.
+So hi, thank you so much for being here.
+It's really lovely to have you on love and philosophy.
+Thanks for inviting me.
+Very exciting.
+You always have such cool glasses, by the way.
+Yeah.
+I have 20 pairs.
+20?
+Are they, are they prescription?
+I didn't mean to start like this, but actually I love your glasses.
+It's really like a, a cool design element that makes you very noticeable, right?
+Yeah.
+It's like, uh, every time I travel, I gather different pairs of glasses
+and I mainly got a frame is prescripted and depends on the moon.
+You know, if I really like hardworking, they'll be all black.
+If it's for fun, for show, colorful sometimes matches my shoes.
+Oh, I'm so glad I asked you about that.
+That's really cool.
+So you kind of wake up and think, which pair of glasses am I
+feeling like wearing today?
+Sometimes?
+Yeah, yeah, yeah.
+Otherwise, like if it's really like no presentation, no meeting, I
+just wear black or transparent.
+Yeah.
+Okay.
+Very cool.
+I like the idea of it.
+So you're a like famous designer.
+You worked for all these famous design places that maybe nobody's
+going to really have heard of.
+And maybe people have heard of.
+I don't really know because this audience is so broad.
+So I thought to start, we'll get into you and your life, but design,
+it's such an important word.
+We all encounter it all the time, not the word, but design itself, the
+action, the process, whether it's been completed or being done to us even.
+But I don't think any of us really think about that word in daily life,
+unless we're designers like you, but how would you introduce this word to us
+design, maybe just from your perspective?
+What does it mean to you?
+Yeah.
+I mean, design is like, yeah, it's pretty broad, but for me, one way to look at it,
+we can decompose the word, right?
+Like design can think about decoding signal.
+Decoding signal means like we have, we receive so many different types of
+signals every day and how do we decode this like, um, signal also that how do
+we curate this signal?
+So that's literally like D sign.
+Yeah.
+Design decoding signal.
+Yeah.
+It's like, that's kind of where I look at it because I know people, I mean,
+it's a cliche.
+People say everyone's designer, which is true, but also, um, designer,
+like the thing more important than designs, creativity, right?
+Like you do have that mindset and be open-minded change.
+And these are things I feel like we experience every day, especially
+now after COVID post COVID.
+Everything changed dramatically faster and faster.
+Now AI, everything that, oh, how do you keep up with?
+And I feel this really ties to the coding signal.
+Also, like, how do you learn how to learn?
+Yeah, both are one to me.
+Is that how you got into it?
+When you were a little boy in Taiwan, were you imagining that you're
+going to one day be a designer?
+My major is actually like a industrial design and electric engineer.
+And I really excited and interested in architecture.
+I actually didn't know industrial design until I entered the college.
+And I feel like I always loved drawing.
+So ring tangibility and visualizing the idea is always my, my super power.
+And I feel that really helps me to understand different types of
+signals, to identify the patterns.
+And that'd be super interesting just to, oh, think about how, what happened
+like to people and why people upset or why people are super exciting.
+And these are so invisible, so like, uh, subtle, but somehow I also feel that's
+part of the design, design process.
+I love that.
+I'm kind of obsessed with this idea of pattern and the pattern that connects,
+so to speak, and noticing patterns and regularities.
+Was that something you were already doing in some way or other?
+I feel like, yeah, I feel, I don't know.
+I really, I'm really perceptive.
+I feel like I, I just, when I see something, I can intuitively think
+about some solutions, so ideas.
+And then what I got trained at school or in design consultancy, it's more
+about observation skill, design process.
+And I really helped me to feel like, oh, how do you, are you a people person?
+Right.
+And I feel like that, that really helps me a lot, like expand my, my design
+capability, because I feel design is not a hardcore skill or soft skill.
+It's a human skill.
+It's like, especially now, like we're not like, not only celebrate
+hero designers, we also think about these complicated challenges, right?
+How do you like climate change, aging, which I'm focused on now recently.
+And also all these design challenges is complicated.
+It's systematic.
+So design or designer is like, we tackle, solve the challenges collectively.
+Teamwork is important and design is no longer like a fancy term.
+It's a verb.
+It's a thing that people want to do collaborate as a team.
+It's a teamwork.
+It's not just about, oh, celebrate hero designers or live
+their signature on the work.
+Yeah.
+It's the last of all that.
+It's more about create a condition.
+This is really fascinating because if we think about design as patterns, and if
+we think about it creatively, and we think about it, like as important to
+these challenges that you just brought up, which is basically something that's
+affecting us on a really deep level, all of us in different ways, wherever we
+are in the world, but if we think about design is important to that, does it
+mean that the way we're structuring the products and the environments and
+everything we're interacting with is somehow contributing to the way that
+we think about the world itself?
+Would you say?
+Yeah, I feel like, I don't know, sometimes, I mean, people always
+looking for optimization, right?
+We're looking for efficiency, convenience, right?
+And then like, Oh, I'm so glad we have like an autonomous vehicle.
+So we don't need to drive anymore.
+We just sit on the car and enjoy the scenery.
+But the thing about like designs, like some people enjoy the driving experiences.
+Some people want to create, find their own path or another example.
+I'm thinking about, you know, like a Starbucks, they have like a coffee
+master, people have an apron and show you how to do coffee.
+And for me, when I bring, brought the client to do like inspiration
+trip, to see that services, right?
+And the clients, Oh, I want to copy that to my company to create the new services.
+And the behind the scene of that is like, yeah, we want to have this
+like human touch services, but the difficulty part is like, how do you
+create incentives, how do you make this like coffee master feel exciting to
+share their knowledge to the client, the customer every day, because they're
+not like us, we, we walk in as customer and enjoy the services and walk out.
+No, they provide the services every day.
+Can you design the right organization structure or incentive
+structure to, to promote people?
+So they want to become like real master, like different colors, the
+print or the pins on their batch.
+You know, it's these things that that's like, it also need to
+be designed the whole experiences.
+It's not about, Oh, we look for, uh, efficiency, convenience.
+I think that it's really important, but that's more like a fundamental level,
+you know, same as we talk, people talk a lot of this, like people, most
+people overuse like a generative AI tools now, like, yeah, you can give
+me like thousands of ideas, but I want to know, can you help me to curate
+my taste, my lifestyle is a less about design solutions more about, do you
+really understand what people needs?
+Can you change people's quality of life or just throw tons of ideas on them?
+Yeah.
+So for you, it's really about the experience of the people involved in it,
+not just the consumer, but even the person who's working, the
+person who's creating it.
+So you're not making these usual divisions that I often hear between
+it's all about the customer, for example, or, um, you're thinking of
+it more holistically, almost, it sounds like, is that normal in design
+or is that a new approach, a different approach?
+No, I mean, you're totally right.
+Like, um, we talk a lot about like a human centered design, right?
+And then human, we easily default, think about users, but now nowadays
+everything's we can view as a system, right?
+So we're thinking about a system and we have backup house from desk.
+So who, who are the service provider?
+And these are also human, right?
+That people provide the services, like you can't, like, you can't
+overwork, you have to think about the ethical issue, think about the culture,
+especially now aging society, how do you, how do we raise ageism, right?
+And we celebrate multi-generational culture and that implemented design
+processes, like, I think humans are designed, it's pretty important, but
+now people reflect to think about what do you mean by humanity centered design?
+Humanity from humans, like we think about broader, like policy,
+organization, structure, culture, right?
+And now people promote like live center design or even talk about longevity.
+So it's less about, yeah, human, but we also think about other aspects
+because now we're really like a whole, we're interconnected for all different
+things, not, not just about human or human center, otherwise too ego
+driven, not empathy driven process.
+I think that's true.
+And most people would say, yeah, of course that's true.
+There's all these nested levels and it's all very important now to the
+challenges you raise, like climate change or our mental health or the way we treat
+each other and all of this, but it seems like from an outsider view, it seems
+like the, like you come to some agency, design agency, and they are supposed to
+serve your, you're going to have a project and they need to solve the problems for
+you.
+And that usually ends up being about how can this product sell the most or be the
+most popular or there's something like that, right?
+That doesn't seem to fit with what you were just saying.
+Even though I think we're transitioning into a new world relative to all that,
+but I don't understand how design is doing it.
+Like, because maybe I'm wrong, but I just think of this old school kind of way of
+a client goes in, the designer has to kind of make the product the most popular or
+sellable or is that wrong?
+Has that changed a lot or how do you, how does that fit to what you were saying
+before?
+No, this is a wonderful question.
+I have to say I'm very lucky because my first two job is like design, sorry, work
+with design continuum and also ideal.
+And then you're totally right because most, I mean, business, like a
+fundamentally agency need to make money.
+We need to survive and need to be sustainable.
+And also another way, my personal experiences at ideal is like, we have the
+client came to us and then the business of the agency, at least some office is
+not good.
+They want to design.
+The client came to us.
+They say, oh, I want to design the robot that can accompany kids at home to
+replace parents.
+They're very rich.
+They bring money.
+We have budget, you guys expensive.
+We have budget and then we can do like six month project, even longer.
+And then we're as a team, the team leader is my mentor and we don't want to do it.
+We don't want to, because the reason we don't want to do it enough because they
+are great brand there.
+We communicate frequently.
+We have the workshop together.
+We know what their needs and requests, but the funny things is like, we don't
+think the robot can replace parents.
+And we don't think that's the right thing to do.
+We can design something very beautifully, very attracting and business
+successful product on the market.
+But the thing's like, it's just not right.
+So I was very shocked at the moment, to be honest, because I'm just a
+junior designer in the team.
+And I realized, oh, wow, this is another higher level thinking about like
+social impact, right?
+Like why the kids need to be accompanied by the robot and not just parents.
+So it's totally like, it's really like disrupt my, my, my learning about
+business and design consultancy.
+And I think that's really beautiful.
+Very huge impact on me.
+Yeah.
+And another thing I feel like we talk about design and business.
+I think they both are super critical, like interconnected because you need both.
+You need both what design and what's the other design business.
+Yeah.
+Because say now I'm working very lucky, working with MIT Aged Lab.
+We talk about design for retirement.
+We have the great ideas about how we designed people's retirement plan or
+financial planning or longevity planning.
+If we don't have this like a sponsor or like a client, how do we scale?
+Right.
+We all just close the door.
+Very happy, ready on the post-it notes, very sexy sketches, rendering.
+Wow.
+And then put in the library, in the publication, nothing we cannot scale.
+So I feel like both are really critical and I totally agree with you.
+I feel like the company agency, they need to make money, but we have to make sure
+that the money can be invested in the right direction.
+Yeah.
+And then, sorry, another thing I want to say, we, the way we collaborate
+with the client is also changed, shifted.
+So in the past, basically most people think about including myself, you give me
+money, I provide output, there's an input, it's a currency, it's a money,
+it's a trust, output is a product, services or experiences, but somehow
+because of the complexity of the challenges and also everything moving so
+fast, now it's more like a co-creation process.
+So we used to like work with one very famous kitchen hood brand in Asia.
+And then they came, they worked with us for like more than 10 years.
+Okay.
+Give me like the sexist, the coolest, like kitchen hood.
+I'm going to launch this year.
+Give me more like a form and shape.
+And somehow at the point we say, no, we didn't do that.
+We want to change the whole like collaboration model.
+Let's like do co-creation together, inspiration together.
+And then you guys bring these ideas back to their team, talk with engineer
+and they can come back to us again.
+Let's do a second round co-creation.
+So it's more like co-evolving.
+It's not like a one-time deliverable.
+It's like multiple times check-in to make sure our ideas, our insight can
+be implemented through their technology, not just like create like beautiful
+shape and form and then somehow, oh, we can't do it.
+So we just make a beautiful rendering and state that state.
+No, no, want to make it real.
+So we need that co-creation process.
+Yeah.
+So that's the second part I want to just want to add it.
+That's really fascinating to me because it, it kind of upends or changes the
+way we think of these typical roles of client and provider.
+I mean, I don't think those roles were ever really very human in a way, because
+it does seem that like what we really want to do is create together.
+But, um, I guess traditionally there would be certain conflicts about that.
+So you've worked for these very successful big companies.
+I want to actually hear how you got into that world and some of the projects you did.
+But before, I guess when you're already IDO or one of these big places where
+everyone wants to work with you, like your boss, then you can say, oh, well,
+actually, I don't agree with the idea that your child should be with an AI.
+And so therefore I can't create this for you.
+But is that also true at sort of, you know, not lower, that's not the right word,
+but other kinds of design firms or people who are just starting out or, you
+know, that, that don't have a reputation, are they able to do that?
+Or are they still having to just take on the project?
+Um, I guess what I'm trying to get at is, is this like what design is now?
+And I just didn't know.
+Is it co-creation or is this like very much for the stars of the business?
+Because design, like anything else, there's people who are sought after, you
+know, that, that the client wants to work with, and that's a completely
+different relationship than the one I was describing before.
+No, this is, this is a great, great question.
+And also ideas, because I have to say idea or design consult, design
+continuum, they have their own reputation in the, in the market, on the market.
+And then at the history.
+So somehow even our BD process is all, we felt like a design process.
+We have to know if the client's the right person to see our value
+and can really amplify the impact.
+So this is like, that's why they have the Green Foundation and the history in
+the past so they can have that kind of like a advantage to, to do, to
+say something like that.
+I do believe that for normal company or like the company last, like to
+have history or that foundation business is also important criteria for them.
+So yeah, let's still do it.
+And then I can do it with a relative, like a cheaper price, but give you
+like a more competitive like design or, you know, solution and it's always a
+trade off because I feel like what I learned from idea or another different
+design consultancy is like the culture is with your design solution.
+So when you deliver the deliverable, it's not just a one-time experiences.
+It's like, you, you, you bridge, you partner with your client.
+So, so that's, I feel that's really beautiful because you know each other
+and the connection, it won't be cut off after the project ended.
+Actually, when a project launched, that's the challenges started.
+That's the real challenges.
+Can you really see the, the performance, the, the final, the, the, is it
+like really work, is it valid, is it, you know, is it feasible?
+So these are things I, I feel is different than can we see like a long
+term goal versus like a short term, just get a business interest.
+That's really well said.
+And as you're talking, I'm thinking of, for example, you know, some really big
+advertising or branding or, you know, altogether projects in the past.
+And I'm not sure it really fits very well with design.
+Maybe it's more like advertising, but, you know, something like, uh, the
+beetle, the Volkswagen Beetle and that whole campaign, or I watched this
+movie recently with, uh, Nike and, and Jordan, I'm just thinking of all these
+different examples of, of design or brand or, um, things that have really
+kind of influenced us in the way we were talking about it in the beginning of
+like changing patterns.
+Let's talk about you.
+How did you end up in these places that were already so, yeah, I guess, well
+known or was that your, like, it sounds like you just graduated from school and
+ended up in this environment where you were able to do this co-creation.
+First of all, is that true?
+And then maybe we could talk about how in, in your own experience in a
+project, this actually plays out.
+Yeah.
+I mean, if you look at like people's CV, right, like, oh, these are beautiful
+name company, a great school.
+And, but actually every, like, uh, things on the CV is really like hardworking
+because I don't think I'm a smart person.
+I'm just like, we're really hard, super hard.
+And I really enjoyed this.
+And the things like took a double major in industrial design and
+electrical engineering for like seven years.
+My parents thought I have some intellectual problems.
+Are you have some mental issue or health issue?
+Why you cannot just graduate?
+Like seven years, you can get another medical degree.
+And as I know, I just really want to study very solid.
+I want to know the fundamental thing.
+And I'm not graduated for certificate.
+I'm graduated for real knowledge.
+I want to explore.
+So after that, I, before I graduate a year ahead, I actually already
+start searching the jobs.
+So it's like a year long preparation.
+And I'm really lucky because I, I don't know.
+I really care about people and culture.
+So the thing I feel I click with the people, I just want to work
+with them or surrounded by them.
+And then finally, the, the great leaders and continuum and also an ideal.
+So join them same as my MIT journey.
+It's like, I apply like so many different labs and I found my mentor, which is
+now the director of the age lab.
+It's Joe Coughlin.
+So he really helped me a lot.
+I really connect with him, his vision, his idea.
+And then we start to work some exciting project together.
+And I feel like really, like you say, like fighting pattern.
+And I will say like, more like a finding a pattern, also find the
+people you can resonate with and that pattern can resonate and that
+can amplify more impact because otherwise it would be like, if I really
+like want to work for, to get more money or I can choose like bigger corporate.
+Right.
+Cause both of design consultants, they have pretty small scale compared
+with other bigger company, but I really think people and culture really shape me.
+Yeah.
+Still shaping me.
+So I feel that's really important to me.
+That is such a beautiful way to say it, because I really think that's true that
+we also have these kinds of patterns that we resonate with as we move through our
+life and we do sort of set our own trajectory in a way, depending on how much
+we trust ourselves to resonate with that.
+So for example, like when your parents were giving you a lot of pressure, I
+guess, were you still in Taiwan then?
+Or, I mean, a lot of people, a lot of us kind of cave to that and, and we do
+whatever the people around us are telling us we should do, or they want from us
+because it's so much pressure, I mean, to take seven years and do the double
+degree and it sounds like you are actually almost like a perfectionist or
+like you, you needed to get in the rhythm, right?
+You needed to find that rhythm that you were just discussing.
+But how did you have the poise and the confidence and the kind of stubbornness
+or whatever to do that, even though it was not the thing that most people around
+you were probably saying you should do?
+Yeah, this is a great, this is such a real, I mean, great question, because
+not just my parents, my friends, my advisor, some people just don't understand
+like why you spend so much time on this.
+And then it's so weird and rare, like, what the fuck?
+It's weird.
+And then I have a friend, my classmate, she graduated within four years, got two
+degrees, you can do it very efficient.
+Like I said, you design for efficient design for convenience versus
+design for people.
+And I always feel like I pretty know what I want and what I need.
+And I know like beautiful things takes time.
+Need to be patient.
+And if everything goes too fast or too successful, that's not the real challenges.
+Yeah, you have to have some difficulty.
+It's very painful.
+It's so hard.
+Like think as engineer, you have to do the P set, problem set.
+You have to like sleep early, wake up early, testing, studying, electronic
+magnetics or advanced math, calculus, physics versus designer.
+Oh, nine hour smoking bar.
+I need some inspiration.
+So I almost like a live in two worlds all together.
+So it's really, it's really hybrid world, but I realized that really helped me to
+design things from outside in to inside out, like a mouse when I, when we have
+like a physical use physical mouse, I really inspired by this product because
+I'm not just designing the shape of the mouse.
+I want to design the electronic circuit board.
+I want to design how it works inside.
+So I can change the shape more flexible, more, more possible way.
+Right.
+So that's why really inspiring to think, Oh, I need to understand this basic
+electronics or basic mechanical stuff to help me to design the whole
+structure of the product.
+At least I can communicate with engineer.
+Yeah.
+So, so that, but that is not like, uh, there's no shortcut.
+I don't think there's a shortcut, including my now to my PhD is like, you
+just have to immerse yourself in all of these challenges.
+That's the only way to do it.
+Just put yourself in the data.
+They get like, Oh, dive, dive into it.
+And then you can say, to see the whole picture.
+Yeah, that makes a lot of sense with, yeah, that your work and kind of just
+what I know of you, that it seems like there's a wider picture, right?
+That you're, I talk about holding the paradox, you know, as a philosopher
+or kind of beyond dichotomy, meaning you embrace the dichotomy, sort of the
+power of polarity, but opening the space so that it's not oppositional.
+It's polar, it's polarity, but it's not oppositional.
+So I feel that in you and in your work a bit, you know, and, and it's not easy
+to do like, actually you have these kind of lovely little sayings on your website
+that you, you, you make these little beautiful cards sometimes on, on
+social media and stuff and a lot of them, but a lot of those are very, you're
+kind of holding both sides of things, right?
+There's this wholeness or contextuality.
+Yeah.
+And I guess that's not an easy thing to kind of learn, but it sounds like you,
+you've learned it from the start because even with what you're doing right now,
+your PhD, you didn't have to do that.
+I mean, you already were working in big firms.
+You had a big project, which I'd like to hear about, like designing a library, I
+think, in Shanghai, and there were many things we could go into a few, but why
+would you, I mean, this is another one of those moments, right?
+Where most people would look at you and say, Oh, why are you going to go back
+and do your PhD after you've already been in the successful world?
+And then you have to put yourself in this place again, of vulnerability,
+learning, going through all this effort, time, you know, everyone wants
+everything right now and this takes time.
+Like you said, you just have to do it.
+So I don't know.
+I mean, I'm just throwing a lot at you, but is it a similar, is there something
+in that process of discomfort maybe that's powerful for you?
+Yeah.
+I mean, I think most people, including myself, we really want to like, uh,
+looking for a sense of achievement.
+Like people recognize your work, like social norm of great salary.
+And you should be a lawyer, a doctor, you know, people have some
+like a stereotype on you.
+And this is very normal, like in, especially in Asia and like stronger.
+Oh, you have great, great.
+You should find a stable job when it's the time to get married and having kids.
+Beautiful life.
+That's the high standard golden rules.
+Right.
+But for me, like, I actually feel like I love everyone.
+I love like sense of achievement, but I think it's more important
+than a sense of fulfillment.
+You have to feel fulfilled.
+And what I mean by that is very simple skill.
+Like, um, every time I finished reading one book, I feel refreshing.
+And I really love that moment.
+Finish the book and take notes.
+Oh, wow.
+This is the last pages.
+And then you sign your name with the stamp and put the date and year.
+This is wonderful.
+And this is fulfillment.
+Is that what you do after you read a book?
+Yeah.
+That's why that's a wonderful practice.
+Every book I have, I guess, I think I did the same.
+Yeah.
+People have it just like, Oh, I love that.
+Oh, that's such a good idea.
+Gosh, I wish I'd been doing that my whole life with all my books.
+Although I often read them more than once, but still that would be
+cool too, to have like double stamps.
+Yeah.
+That like this one is about exploring the research.
+Yeah.
+It's like, yeah, it's like, oh yeah, that one's on your website.
+I think, or maybe you post it on LinkedIn or something.
+Oh yeah.
+I just feel like that really helps me to, to realize, Oh, when I read this
+and how, when I going to revisit this and that is like sense of fulfillment.
+And then for me, like, Oh, why are you back to study PhD?
+And really, to be honest for me, like when I back to academia, I really just
+want to learn the language for academia.
+So for me, it's not studying.
+I'm recharging and I, Oh, I understand how you guys publish in paper and how
+can we connect like, Oh, I know the language of academia, how you use like
+statistic and describe the data with a subject, and then I'm going to apply
+that to my work, to the industry work.
+So I'm more like a bridge and I feel that's really beautiful.
+Otherwise we'll be like, close the door.
+This is the CHI publication, how many citation I have.
+And that's beautiful, or I'm going to draw beautiful, sexy sketches,
+rendering, prototyping, and there's a gap.
+And then it should be like, cause for me, design is a supply science.
+It's application science and you need to have both.
+And then I love my, my advisory in college, they told us designers need
+to read a lot because you need to know what happened and how do you
+connect it with your design skill.
+And I feel I'm working on that.
+I kind of recharging learning statistic, how do you write the abstract clarity
+and how do you communicate with people from different background in industry?
+And you can, we get our hands dirty to really make it real from ideas to implementation.
+I see that's very smart of you in a way.
+Again, you're sort of taking a few steps back to get a very big picture of this
+world that is academia or that is designed from another perspective.
+And you're almost like an observer of, of it all.
+And it's actually very smart because I know you probably like, they want you
+there because you can teach and they give you money and in a way it's like,
+you know, a job, uh, but you also have this time to reflect.
+And although PhD can be very stressful because you have so much to learn and
+reflect on, but yeah, I can, I can see that.
+And I wonder about those books.
+Are they, you know, cause I, I'm very interested in the books that you read.
+We've talked about some of them and, um, have those been sort of markers in your life?
+I mean, you put the date and everything.
+Are they, do you, not only the book itself, but do you see yourself as kind
+of, is fulfillment also knowledge, like learning and developing and connecting
+in new ways, is that connected to why you like this reading and so on?
+Yeah, I, I mean, the, I think the most important things I, after reading
+the book is more about synthesizing, right?
+Like we, we, we internalize the knowledge.
+And then for me, one of the way to internalize it is through like creation,
+through drawing, through design or through writing.
+And then now, because I mean, PhD life is so busy.
+So one of the easiest ways I writing can synthesize my thoughts.
+And I think that's really important because when I, when I wrote, when I reading,
+I always mark, highlight the key sentences or quote to make sure I can
+feel, understand the context and then that I will distill writing like a
+short paragraph to make sure, Oh, this is the thing I read.
+What does it connect to design?
+I'll always connect to design.
+Even like we talk about longevity planning, uh, financial planning.
+I reframe as a design for longevity.
+So there's still a design element in it.
+It's not about, Oh, cause I'm not the expert in finance or psychology.
+I'm the expert in design.
+So I want to find the connection and I feel that can really apply
+to almost different types of books.
+I can always reflect to think about, Oh, what does that mean to design?
+Right now I'm apply like a grounded theory, constructed grounded theory.
+It's from a psychologist or a sociologist.
+And then it's, Oh, how does designer do?
+We use the post-it notes and that's the coding, you know, physical coding.
+And we just didn't know we already use the, the grounding theory in our lives.
+How do you cluster it?
+How do you constant compare?
+And we use that all the time.
+We call like synthesizing, downloading and ideal, but there is a beautiful
+connection and now other people say, Oh, let's talk about like, uh, boundary
+objects, you know, boundary objects that you connect people from different
+backgrounds and then use the physical object or not physical object to, to
+talk about something, for example, like you put the map, Oh, I look at the map.
+I look for the restaurant and you look for, uh, say, uh, uh, where it's like
+a front desk information center.
+And we use the map to open up the conversation, you know, in academia,
+people say boundary object and in design world, we say tangible artifacts.
+And there is a connection and I feel that's really beautiful.
+To connect this together and somehow that that's what I really
+exciting to do it right now.
+Yeah, that's gosh, there's so much in there and it makes me think about
+the patterns again, right.
+And the, and the rhythm and finding, finding the almost gestalt or something,
+but not gestalt always sounds so static.
+And this is like a living process.
+So I guess as you, I imagine you read something and you're almost
+learning a new patterning or rhythm.
+You're bringing everything you already knew to it.
+So for you, it's going to affect you different than another reader.
+But then that's kind of wonderful because then you can take that into what
+you're, whatever you're doing, your creation, your writing or so on.
+So it feels like there's a continuity there, a flow, you know, which is almost
+another way of saying fulfillment in the way that you were saying, isn't it?
+No, I think this is great.
+I love, I recall our previous conversation, talk about like a pattern and flow.
+I really love that because that really made me think about, I'm actually now
+learning and very good at embracing ambiguity and that's kind of multiple
+different flows, crazy, big one, huge, you know, like, uh, people are all crazy
+problems, you need problem solving and life is difficult.
+I'm an international student.
+It's so many challenges.
+Every day is like a war to me.
+You know, just like, Oh, you have credit card fraud.
+Oh, you forgot to pay your student dorm rent.
+Oh, you need, you have health problems.
+So for me, these are all ambiguity and how do we embrace that?
+You know, and then for me, because I work at a design consultancy or some
+industry experiences, work on a big, crazy project, like library design.
+I get used to it, like ambiguity part.
+And for me, these are all part of the pattern.
+And I have to like, no, okay.
+This is okay to have no answer, but I still want to swim into this and to
+understand how can I survive and, you know, like, uh, propel, not just stay
+there of panic, no, no, you still have to moving and I feel exciting for that
+because that's how challenges comes from every day, every single day, even though
+I don't even because English is not my, my first language.
+So for me, is that another layer of difficulties?
+Yeah, no, I think it's good you bringing that up because it's something people,
+a lot of, we don't always think about all these different layers of stress and
+tension that you can't dissociate from that rhythm and that pattern and that
+creation process, right?
+They are all part of us.
+We kind of think, oh, we just go where our designer hat or our PhD student hat.
+But actually there's this, all these layers that everyone's
+dealing with different ones, you know, like you have all these ongoing things,
+um, that you're kind of trying to deal with too.
+And it reminds me of something I think you wrote in one of those little snippets.
+There's little, what do you call them?
+Like they're almost like little.
+Like a self-reflection.
+Yeah.
+They're just like little beautiful quotes, but you say them, but one, I
+think is like, uh, something about what isn't design.
+Oh yeah.
+Yeah.
+And then there's also like learning how to unlearn and there's all these, I
+have to look at, try to find it in a minute, but a lot of it is about
+self-expression, personal action, and this, this kind of, this kind of flow.
+But how does that, um, how, how do you find the poise for that?
+Do you, do you, is design really life is like, when you, when you, when you get
+these alerts, like someone's been, you just told me earlier that someone's, you
+have this credit card fraud thing.
+Someone's like using your credit card for great little stuff.
+I mean, do you, do you bring your design mindset to these kind of challenges
+or when, when people don't realize that you're, you're speaking English as a
+second language and they assume, you know, there's all these things that happen,
+right?
+When you're a foreigner, I'm a foreigner here that people just assume things
+that aren't your references.
+Um, do you think of the, do you bring this design mindset to those kind of things?
+Yeah, exactly.
+This is what exactly happened.
+Yesterday I was like, Oh, it's feels so uncomfortable.
+How can I resolve this?
+I tried to get a phone call and use their app.
+It's horrible.
+Like, uh, you wait for so long and it's a AI, you know, it's, it's a chatbot.
+So they don't know.
+You didn't feel reassured.
+So I booked the real time.
+You mean like that moment where you realize you've been violated and then
+you really need to resolve it, but you can't get in touch with anyone.
+Yeah, yeah.
+It's like waiting on the phone for like 20 minutes, all listen to the same music.
+At least they can change different types of music.
+It's better, right?
+Like same music feels sleepy.
+And then I finally talk and I realized it's not a real person.
+It's a chatbot and it's really hard.
+Like the only solution they provide or suggest that, Oh, it just like cancel your car.
+I mean, that's easy, but I want to figure out what happened.
+Why my, my account got penetrated, you know, got my privacy leaking.
+So I want to know more about just like cancel my car is so easy.
+And I booked the, I make a appointment with a bank closer to me at MIT.
+And their location is so popular.
+And then the, the, the, uh, manager came to me.
+Oh, how can I help you?
+And I said, Oh, my credit card got a fraud.
+Can you help me to resolve this?
+They're too busy.
+They have no capacity to listen to what I want to say.
+And it's, Oh, just use the app to cancel the car.
+And I'm so angry, like, okay, I'm going to change different location.
+And then I found a new location, which is the people are so friendly.
+Listen to me.
+We sit down in the room.
+He closed the door.
+He's a new person.
+And I tell him my needs.
+He helped me to check.
+In the end, we still make a phone call, but make a phone call together.
+It's the same result.
+It just like call them, call the headquarters cancer, but he helped me to
+make a phone call, we wait together.
+We sit together, you know, and that changed the whole experiences and that's
+design that's that I told them, Oh my God, I feel so safe.
+I feel so supported in power.
+Rather than just do it by myself.
+So these are like a tiny detail, but as a user, as the customer, people
+feel dramatically different.
+It's the same result.
+You know, I still got my car canceled, replaced, but the feelings is so different.
+How do you design that?
+Yeah.
+Is it like really aiming for like transactional kind of feedback?
+Oh, pencil this on the phone.
+No, you need to people explain to you what happened and then
+they will follow up with you.
+And I really think about this whole night yesterday.
+This is a beautiful case study.
+Yeah.
+Well, I mean, you laugh in it, but it really is.
+And I think we almost have to laugh because we don't think of things in this way.
+Um, it's almost hard to talk about with language even that what,
+what is really happening there, you know, even when I was bringing
+up some of those products, like they're too commercial, but I mean, there's
+real reason that we connect with something like Apple or something
+like Michael Jordan or whatever.
+And it has to do with sharing some kind of connection or emotional
+feeling or community.
+And like that story you just sold is so beautiful for two reasons.
+I mean, one, because it shows how important these things are just for life.
+Like that is life, right?
+Connecting with people and feeling like you're being seen and trying to
+understand something together, even if you can't completely understand it,
+that's a good life.
+And then the other one, when everyone's too busy and everyone's just like
+talking to apps and, um, trying to get to the next thing, the next thing, the
+next thing, which feels like what we're supposed to be doing is not a very good
+life.
+Yeah.
+It's very transactional.
+Yeah.
+It's just so different feelings.
+So I'm very happy.
+I spent like $10 on Uber to find the real, I spend more money and time,
+but I feel happier.
+I feel like, oh my God, this is exactly I need.
+I, he followed up with me next week.
+Let me know the process, how I got a new car for, for how long versus like,
+Oh, everything talked to chat bot.
+I can, I don't need to spend like $10 on the Uber.
+I can just do it by myself, you know?
+But I just want to know what happened and the quality and the
+quality and the rhythm of your life is better, you know, and that is continuous.
+That was the second thing I was going to say is the reason I love that story so
+much is, um, it really speaks to what you were trying to say about design because,
+and also what I was trying to express about your way of doing it, because you
+kind of took a step back again and you shifted the perspective, right?
+Like what's another way that I could come at this instead of just feeling
+like you're stuck in that situation and you just, you know, you thought, Oh,
+well, actually I could go here and it's, I don't know how to express it, but in
+my own life, dealing with different problems, I feel like that's always an
+almost epiphany kind of moment when you're able to switch out of the habitual
+mindset that you're in, you know?
+Yeah.
+Um, yeah.
+Yeah, that's, that's, yeah.
+I just say, I mean, sometimes I think, oh, when I get older, I feel like,
+Oh, I can shift my perspective.
+You know, even like everyone has people you don't want to work with in a company
+or in organization or in the small group, people have their own circle.
+But the funny thing is that you can actually learn a lot of things from the
+people you cannot resonate with.
+You know, you can, you can look at that.
+And then I learned so much when at the time when I was an ideal and design
+continued, even now at MIT, some people just can't resonate.
+And this is so true.
+Like you cannot be like people personals or like a social butterfly all the time.
+You have your own perspective, your own value, your own belief.
+And somehow people doesn't resonate with you.
+How do you deal with that?
+And that's the piece of art.
+You can escape.
+I used to escape or disappear, but now I try to embrace it because that's
+ambiguity, right?
+You have to, Oh, let's look at different perspective, different
+shadow to look at the object.
+So you can find another perspective or landscape from that.
+Landscape.
+I use that, that word a lot.
+And again, that's that kind of holding the polarity rather than trying to resolve
+the polarity and realizing there's like not just polarity, there's all kind of
+other nested complex systems relative to whatever that position is.
+Do you remember a time in your life when you recognize that or felt that maybe
+earlier in your design career, when you, like what you were talking about with
+not feeling comfortable in the situation and instead of running away from it,
+just sitting with it.
+Do you remember any moments that like, where you learned something
+in your career that way?
+Yeah.
+When I, when I was in college, like, most people don't want to work with me
+because I'm like workaholic.
+It's too painful.
+Like, why are you so serious on this?
+Like, this is just a no critic assignment.
+And I was like, no, but this is like a, it's the attitude, you know?
+So it's so hard.
+Like nobody wanted to work with me, you know, like it's too painful.
+And then it's okay.
+I do a lot of individual work, but in the company, everything's about teamwork.
+So we have the great system.
+We have like facilitation before the project start in the middle
+of the project and post project.
+So we know, oh, what are you want things you want to learn?
+And are you a morning person, night owl?
+And how can we accompany that?
+Right.
+And which kind of role you want to play?
+Are you more like a client management style?
+We want to work on your craft or you want to more like work on
+the business side.
+So we have a lot of like communication and like, you know, just make sure
+that everyone on the same page.
+So a lot of like a communication, I think sometimes over communicate.
+So make it like people know each other better.
+And every project I work at ideal is every time with all different
+designers around the globe.
+So every project, like a new startup, you know, like, oh, startup program.
+So every time is different.
+Some people are super hard to work with or super hardcore.
+And some people are like, oh, very chill, disappear all the time.
+So how do you self-navigate and how do you find the anchor of the project?
+How do you report back to the client with the confidence?
+So these are things like, it just like, oh, it needs to be communicated
+in different ways.
+And this is like, you have, there's no shortcut.
+You have to learn, understand your pattern and also receive what other
+people's pattern looks like.
+You know, I have, I have a lot of like interesting experiences
+with a business designer.
+It's so unique, different world.
+And we have to work on the same project.
+It's painful, but also beautiful.
+The results it's great.
+You have different perspectives.
+Yeah.
+That's really important to me that what you just said, because in the
+philosophy I do, a lot of it's trying to understand that we all have
+different paths and trajectories.
+And we might be in the same landscape, but we've gotten there very differently.
+And that's why we're approaching the problem differently.
+And we even see the landscape differently.
+Like we were in the same landscape.
+It's real, but maybe we see very different things there.
+Maybe what I see, you don't even notice and vice versa.
+And I think it can be really hard to share that with one another,
+especially when you're really coming from different paths.
+But it can also be very, very creative.
+Have you had any moments like that in your actual...
+I'm sure you have them all the time in your studies, but when you were
+working first in design and maybe when you were doing some of the projects,
+I don't know if you want to talk about one in particular,
+maybe the library or maybe something else where you did notice that
+opening to these other perspectives gave you something or gave the project something.
+Yeah, the library project is a great example.
+It's like a redesigned Shanghai library innovation space.
+And you know, the Shanghai library is like a face,
+like a front door for the government, for the Shanghai city.
+And they want to redesign this.
+And I'm very lucky because I used to taught there,
+used their space to taught like university students on the grad kids.
+And then for four years, so they feel like,
+I can be a great person to leading this project.
+And it's really like a side project.
+So I'm the one person team, but one person team designer.
+And I collaborate with the whole innovation space team.
+So I have five or six people there from different department.
+So marketing, communication, or people do the research or people like leadership roles.
+So it's like very diverse, even though we all speak in Chinese,
+but people are so different.
+The way they look at library, they have different ideas and position.
+Because I'm asking, what's the value proposition for a Shanghai library?
+Like, you guys don't like a coffee shop, you guys like community hub,
+but you guys also close early at four o'clock.
+So how people get really, really enjoy the time there,
+you guys provide the class in the weekend.
+So it's very complicated project.
+And then it's a one year long project.
+We start from interviewing people who are the lower year customer,
+who really use the library a lot, the parents with the kids, and who are the vendors.
+So we know there's different voices.
+And then in their mind, we try to project how they view Shanghai library.
+Is it a community center?
+Is it like the hub to connect different people?
+Or it's just like a reading center for undergrads, for graduate students.
+So pretty amazing research and also design process.
+And then we got strongly support from the director,
+from the leadership level, from the Shanghai library.
+They want to do it well.
+So everything's pushed in the right direction.
+What I learned from this process is like, I'm the only designer,
+but also I'm not design everything.
+We co-design together.
+Like I said, like participatory design process.
+So I host like three design workshop with them.
+First workshop with all the leadership team.
+So let's bring Lego, the Play-Doh, all the things to co-create the thing,
+the corner of the library.
+So they have their ideas and we have, we really like present together.
+So they feel the ownership of this design process.
+I have to make sure their voices got heard for the final round.
+The second round, we invite some participants, some local people
+who use the library a lot to get their voices.
+The third round for the final presentation.
+So the whole design process is evolving.
+And I use that design process or workshop to really connect the dots,
+connect people from different background voices.
+Because design is not like, oh, this is a solution, make it happen.
+No, no, it's, I propose some ideas they co-create together.
+And then I do the final polish, final touch.
+And celebrate together.
+Otherwise, it's so hard.
+It's like, how's that possible?
+And most of the design challenge nowadays,
+we do like that it's very complicated and systematic.
+Gosh, that's so beautiful.
+And it reminds me of something else you said,
+maybe when we talked the other day or I don't know when,
+but about sort of finding a landing place or again,
+we were at this kind of landscape and space
+that holds all these different polarities, right?
+There's something about that of design being not about
+a linear solving of something,
+but opening a space where different people can solve their problem,
+whatever they need to solve in different ways, right?
+I think maybe you kind of expressed that at some point when we've talked before.
+And that also reminds me of what you're working on now with like longevity
+and a lot of the studies you've been doing where you have all kinds of voices
+coming in through these questionnaires and so on.
+I want to get to that before we close in this context
+that we've been talking about.
+And also we mentioned before human-centered design
+and I want to bring that in
+because I think there's also like life-centered design.
+I know you told me before there's like animal-centered design.
+Maybe there's even plant-centered design, tree-centered design.
+I don't know, but I want to try to connect that too.
+I want to hear about the longevity a bit,
+but also that also seems like design itself
+is trying to find this way of accompanying all these perspectives
+in the sense that you were just talking about,
+like the human, the animal, the plant, and they're all not separate.
+So there's all these nested levels.
+But first, maybe just what is this longevity?
+Because you brought up the financial, there's ageism,
+there's all these things that maybe people don't know how to fit together.
+Yeah, no, the ideas are designed for longevity.
+We actually, after the Industrial Revolution,
+I think we mainly think about design for linearity, design for waste.
+So everything's like, okay, you have ideas, you design,
+you do production, you manufacture, and you ship, and you dispose.
+So one way, right?
+And then now people think about design for circularity, circular economics, right?
+Oh, everything is a circuit like a butterfly chart.
+So everything's like from the beginning all the way to the end.
+How can you recycle it and to do it again and again?
+So try to optimize the material flow
+and make sure that we can really use every single material in the design process.
+And now design for longevity is like, we're not just talking about circularity.
+Also, we shipped it because things or material evolving through times.
+So it depends on your personal growth, your life stages, right?
+And your health condition.
+So that's kind of the ideas is like, yeah, we want to think about the ideas
+like design for longevity is like we're trying to think about
+the dimension of time is evolving with your personal growth.
+It's evolving with your relationship, with your patterns.
+They're all differences.
+And then somehow the human design becomes much more important
+because we don't want the product like know you every single of you.
+You don't have no privacy.
+We want to make sure you feel safe, you feel like confident to grow
+and you have some control and you know what happened.
+You can plan and prepare for that.
+So humans and design is important because now we talk about people
+but also want to talk about bigger issue like our health care system,
+our financial system, our social infrastructure.
+Because now people live longer but also aiming for better quality of lives.
+Right now, why you say people retire at age of 65 or 67?
+Retirement is a makeup concept.
+So basically like you want to live with purpose,
+you know, with a meaning, with a motivation and can designer do that, right?
+And that's part of the important reason why I feel design for longevity is super critical
+because my parents, for example, my dad retired at age of 52
+and he got upset for three years because like nobody celebrates his birthday anymore.
+You know, your friends and colleagues are different levels, right?
+And then you retire, okay, you isolated by yourself.
+Where is our society support, right?
+And people say longevity planning, finance is one pillar, like a three-leg stool.
+Finance is one pillar.
+Another pillar is like family and community and also like your quality of lives,
+your like social well-being and these are all interconnected
+and we mainly think about finance part.
+But actually people, because we're social animals, we need support,
+we need friends, we need community.
+When you relocated for aging in place or for other places or close to your kids,
+the thing you cannot move is your community.
+Where's your neighbors, right?
+Yeah, you got a better house.
+You have better restroom, bigger house.
+Everything's safe, anti-slippery, mat, you know, floor,
+but you can't bring your park with you.
+Where's your like neighbors?
+You miss that connection.
+I know we have like a AR, VR, we have like a Zoom call,
+but the human touch is missing.
+And that's why it's super important.
+And that's part of the thing I'm working on right now.
+Sorry, I talked too much, too long, but that's the idea.
+No, you didn't.
+That was wonderful.
+I wish you'd keep going actually,
+because I think that relates to so much we already brought up.
+I mean, even, you know, your parents giving you a hard time
+when you were a student about hurry up and finish
+and hurry up and make, have a good career
+and hurry up and make a lot of money and hurry up and retire and hurry up.
+That seems not what design, what we want to design, right?
+And what you were just talking about seems more, it's this rhythm.
+Like, what's the rhythm of your life?
+What's the meaning, the fulfillment you brought up that word?
+Purpose.
+I love that you're bringing all this into,
+and it also makes me think of what you just said about the finances.
+We try, we think of, everyone thinks of finances,
+but as you just kind of showed us, like,
+that's not disconnected from community, from environment,
+from all the things we mean by human centered or life centered or whatever.
+It's weird that we think of it as separate, isn't it?
+That we design our financial plan
+as if it's not related to all this other stuff.
+It's kind of a weird way of thinking.
+Do you think of design as also redesigning those weird ways of thinking?
+Is that weird?
+No, it's like, it needs to be holistic.
+It's not like, you know, like, traditional Chinese medicine,
+the Western medicine, like, when we talk about,
+this is a comparison, like, I'm thinking about traditional Chinese medicine,
+it's like, they look at the whole relationship and the vibe.
+The whole, you know, things versus like, you're too pointed.
+Both are important.
+I think, like, for design for longevity is like,
+we're not just, we can't just think about the money side,
+because otherwise, you're not happy.
+You know, what, like, how do you retire with respect, right?
+People still want greeting.
+People still want to, people celebrate your birthday.
+My parents bought a new house, I think, during the COVID.
+They all moved to there because the aging in place.
+But the thing is like, okay, where's our neighbor?
+Where's, you know, where's the part we usually went to,
+you know, to hang out with your friends?
+And somehow, this makes me realize, oh, wow, this is super important.
+Yeah, you can get any material things new, but the connection, the care,
+the respect, the motivation, the purpose,
+these are things people need some help.
+Yeah, it's not like come directly.
+It's not like transaction.
+No, these are, it takes time.
+You know, like, do you have the great therapist?
+Know yourself, right?
+Do you talk to yourself or like, you just feel isolated?
+And I feel the sad thing about people who live in the city is like,
+we thought we have everything.
+But the funny thing is like, like your podcast name, The Bluff.
+How do you, how do you feel love?
+How do you love other people?
+Everything is like concrete.
+You know, in the glass boxes, where's the handshake?
+You know, where's like the thing we can talk?
+It's just like somehow I feel this missing part,
+especially for design for longevity section.
+Yeah.
+Yeah, I was going to bring up love, of course,
+because this is love and philosophy and all of this has been very about philosophy.
+But I do think we've been talking about love a bit too,
+because that rhythm or that, I don't know, how do you see,
+how do you see that word in your, in your work, in design or in life?
+These aren't separate compartments either, right?
+It's, we don't always talk about it in those terms,
+but it is kind of what we want in a way out of this.
+Yeah, I feel, I just feel like lucky and hard work for me to find the right person.
+So I feel being loved.
+People need to be in love and then they can love people.
+They can know how to give back.
+And I feel like, I feel being loved by my family, friends,
+my, my committee members, very supportive.
+And then you realize, oh, even in academia or in industry,
+you know how to give back to help people who you need.
+You know, not just like, oh, very harsh on the deadline or no,
+there is something else you can give and talk about it.
+And then it could be like work as a family, not as an enemy.
+You know, it's just, everything's about collaboration.
+It's really connected.
+And I feel like that, that people need to feel being loved first
+and to give love to other people.
+And that's really important.
+Yeah, well said.
+Thank you.
+I mean, you're doing all these interesting interviews for your PhD.
+And I guess like all of this comes out in those two, right?
+Because when you're here, because you kind of sent out all these surveys
+and you've gotten them all back and to connect this.
+I mean, you are asking in a way about almost,
+it's almost like a psychological quality of life kind of survey in a sense.
+Because I guess you see that, right?
+That people are hungry for community, for love, or do you?
+Or am I imposing that, projecting that?
+No, I think I interviewed like 81 participants across different ages.
+And they mainly, we focus on people based in Boston, greater Boston area.
+And then I'm very surprised that this project,
+because we try to design like very safe environment.
+It is safe environment, make sure there's no privacy leaking.
+It's just everything's safe.
+It's just like, you can feel like people struggling all the time.
+People like fight for their environment, fight for their health.
+And also they're looking for empowerment.
+And these are like, people are very vulnerable and fragile.
+And they're looking for not just like finance, like support.
+They're really actually for finance, like a consultant
+to reduce their anxiety about things beyond just money.
+Money for them is easy.
+Like, yeah, it's just like in and out.
+But the feeling, the sense of purpose,
+one participant told me that he has to wake up every day before eight o'clock
+to keep the days moving.
+He's like 63.
+And another participant, she's in the age of 67.
+She said, I have to make my calendar full.
+I have to three things in my day.
+And I'm reading.
+So, you know, like the purpose is so important.
+They say, oh, I feel more busier after I retire
+because so many things I want to do.
+I want to feel connected.
+I want to hang out with a younger generation.
+I do like 20 volunteers.
+So, you know, these are things that you realize
+it's really, it's more than just money problems.
+Yeah, because we should say the survey is basically about finances,
+longevity in terms of that.
+But then all these other things are part of it.
+Like, you can't separate it.
+And it reminds me too of,
+because I've also had people in my life who retire
+and then they sort of feel like, who am I?
+What's my worth?
+Nobody cares about my birthday kind of stuff, right?
+And I think that's connected to what we were talking about with the rhythm.
+Like, if you took the time to find what the organic rhythm of your life was
+and you've been trying to live that and bring that forth,
+and of course, that's not easy, but it's, you know who you are, right?
+You've said that a few times.
+But I think a lot of the older generations, our parents or people today too,
+young kids, like you just get pushed into these trajectories
+that don't feel organic for you.
+You haven't found your own rhythm.
+You're just taking on what looks successful and what is safe,
+it seems safe, right?
+And then you retire and it's like, what did I just do?
+Versus someone like who you just described in that survey
+who has a lot to do, right?
+They obviously had a lot of interest.
+It wasn't a cut maybe their retirement.
+It was like an opportunity to now explore more and more and more of that rhythm.
+So that's interesting too, to think about how that relates
+to all these things we've been talking about
+in terms of designing your life.
+Yes, yes.
+No, that's really important.
+Like, yeah, what people are looking for and what's your purpose of your life?
+You know, are you working for yourself or you're working for the company?
+Most people work for the company.
+So when you finish your work, you lost yourself.
+And you have to work yourself first and then work with the company.
+Like for me, I view MIT as my client.
+I'm very happy because I work with my client, but also I work for myself.
+And that's really important.
+You always have like a sense of fulfillment,
+not just your identity is not defined by your business card.
+It's defined by your work, your life experiences, your lifestyle, your taste.
+Otherwise, I tear up the business card.
+Tell me your story.
+No, I cannot tell you my story because all the story is confidential.
+You have to tell your story.
+I'm curious about you as a person, not you as a product of the company.
+So that's the thing.
+It's very different.
+And I feel that's why I didn't feel I'm really studying.
+I really enjoy my different life stages, transforming and shifting.
+It's hard.
+It's challenging.
+But it's still, I for me, exciting and want to export more.
+That's wonderful.
+Yeah.
+And that's not an easy thing to be okay with who you are and feel like you are important.
+But actually it's true of all of us, right?
+Because we all have unique perspectives and positions.
+And when we can embrace them and dance with them, then if we do bring forth something,
+who knows what it is?
+Maybe it's something that seems small by these other standards,
+but it's not small actually in the big dance of things.
+So anyway, I just want to say thanks for what you're doing.
+And you've said some really beautiful things today and told us some really beautiful stories.
+So it means a lot.
+Is there anything I haven't brought up or that is on your mind or that you wanted to say
+or that came to mind that I didn't let you say earlier before?
+No, thanks for having me.
+I think it's wonderful.
+I think it's more than just design.
+It's like everything connected.
+And then I feel like human beings as a whole, it's not like,
+sometimes we're just too focused on a specific part and miss the whole picture.
+And I mean, things can go wrong and people are human, right?
+Well, things go wrong.
+It's okay to go around and it should be go around sometimes.
+Yeah.
+Yeah, you can learn.
+Like with the bank thing, that was not a nice experience to have,
+but actually it ended up being a beautiful kind of
+explication of design, right?
+The credit card thing that we talked about.
+Exactly.
+Yeah, so it's a good example.
+Well, thank you so much.
+It's been really great to talk to you.
+And I brought up those little cards a few times in our talk.
+So for the listeners, I'll make sure I put those in the show notes or whatever.
+You'll have to, I think it's on your website so I can find it.
+And also some of the books that you've been reading.
+But thanks a lot.
+And I wish you lots of good luck with your work.
+Thank you so much.
+It's a wonderful talk.
+Love it.
+Yeah.
+Cool.

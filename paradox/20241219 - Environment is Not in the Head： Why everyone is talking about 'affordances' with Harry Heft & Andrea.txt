@@ -1,0 +1,1170 @@
+How can we cut across this dichotomy of subjective and objective, rather than choose between
+one or the other?
+Gibson, I think, on the shoulders of somebody like William James and a few others, I'll
+mention John Dewey as well, really have offered a revolution in our thinking to think relationally,
+not dualistically.
+Immediate experience points both to the experiencer and that which is experienced.
+And when we use particular language, we should try to be as clear as possible.
+If you use a term in lots of different ways, before long, the term has no meaning anymore.
+So what are affordances?
+They're relational properties.
+They're properties of the environment defined relative to an active organism.
+Let me just say one thing about the paper you mentioned, affordances in the body.
+The purpose of that was that back at the time it was written, there were several people
+writing about affordances who said affordances might apply to grabbing tools and objects
+and glasses, but it has nothing to do with culture.
+And that paper is completely to refute that argument, that we can extend affordances to
+the cultural domain and the meanings in the cultural domain while being consistent with
+the approach of ecological psychology.
+We perceive by moving through the world.
+So if we think about navigation as moving through the world, what happens is we detect
+information as we move through it.
+We don't need a map to find our way.
+It's a tool and it can help us.
+A map has great utility, but we don't need a map to find our way.
+Animacy is the most essential quality of living things.
+The problem historically is we've been stuck only in that second area.
+Think about how Descartes even starts his meditations.
+He's reflecting about himself.
+He's not reflecting on the world.
+The environment is not in the head.
+Hello, everyone.
+Welcome to Love and Philosophy, Beyond Ecotomy, where we look for the patterns that connect
+and explore spaces holding what might seem contradictory or irreconcilable, holding paradox.
+And that word is a good word here, paradox, but not as good as love.
+I'm glad you're here.
+Today we have a really special guest named Harry Heft, who is legendary in circles in
+environmental and ecological psychology.
+What those terms mean, we will talk about here with Harry.
+For those of you who are big JJ Gibson fans, you might be thrilled to learn that Harry
+Heft knew Gibson and even drove him to work every day for a while when he was a student,
+asked by Eleanor Gibson, by the way, another prominent scientist.
+And during that time, they discussed today's topic, which is affordances that has a lot
+to do with this subject-object meeting place that is beyond both subject and object in
+these direct perception ideas where perception and action can be seen kaleidoscopically as
+one process, or where navigation and making way might be understood as cognition, but
+before cognition was ever called cognition.
+Terry and I mentioned navigation, cognitive maps, and wayfinding.
+And wayfinding is a specific term that's used in neuroscience and psychology.
+You could best understand it as ascertaining your position and then planning and following
+a route.
+And that's different from this term waymaking, which you might hear sometimes, which is a
+more general term that I use just to mean moving through the encounter.
+It doesn't require planning or routing or anything.
+Can include that, but doesn't have to.
+It's just embodied movement or movement in bodies.
+But that's a topic for another time.
+Today is all about Harry Heft and his amazing life and work and its connection to JJ Gibson,
+but also to another person I've loved since I was a teenager, William James, someone that
+really influenced Harry, too.
+In one of his books, he traces the path from William James to Gibson.
+Actually, for those of you who like these kind of literary families, you can actually
+trace James to Holt to Gibson to Harry, if you really want to.
+Anyway, the term that we will talk about mostly here is affordances.
+I wonder, for those of you who work in neuroscience or philosophy or some STEM field, how many
+times you've heard the word affordances or used it yourself in the last week.
+It seems to be a term that expresses quite a lot for us these days, and Harry and I discuss
+whether it's overused.
+He's one of the first people to talk about affordances, to bring it into popular discourse,
+so to speak, scientifically.
+So it's interesting to hear his opinion about whether that word is still meaningful, if
+it still has the same meaning, if it's used in something like computational or technological
+contexts, if it still makes any sense.
+But the word itself is often defined as opportunities for behavior.
+For those of you who have knowledge that overlaps in other fields and don't use this word a
+lot or don't use this word at all, it just means opportunities for behavior.
+So if you think of a human and a dog and maybe an insect walking in the forest on a path
+to the lake or something like that, they're all going to have different affordances, different
+opportunities of behavior in that same shared space.
+So maybe there's a piece of wood that's great for the human to sit on and rest.
+Maybe it's good for another creature there, the insect perhaps, as a home.
+Maybe there's moss growing on it.
+Also the dog might perceive different affordances.
+Maybe it wants to drink water from the lake, if that's okay.
+There's also the trees themselves, which would have different affordances.
+An important point is that affordance is a neutral term.
+It can be good or bad for the position, the person, the creature, the embodied interaction
+or transaction that's going on.
+So in any case, it's different affordances for everyone according to their body and position.
+That's a very general, basic idea of this word, which we will try to get a better grip
+on.
+I also would highly recommend Harry's books, which I will link to, especially Ecological
+Psychology in Context, where he talks about James Gibson and Roger Barker and this legacy
+of William James.
+And also the paper that I talk about here with him about affordances, which I'm putting
+in the show notes.
+And you cannot go all the way back to the 80s, I think even 1980, and read An Examination
+of Constructivist and Gibsonian Approaches to Environmental Psychology, which is by Harry.
+There's a lot that he's done relative to these themes.
+He's also done a lot of work in the lab and work with kids and work with landscapes.
+And his main inspiration, as you'll hear him talk about here, is environmental in an even
+bigger sense.
+He was first inspired to go into this because of Earth Day.
+That was just starting, E-A-R-T-H, Earth Day.
+And he wanted to understand how children and their environments interact.
+What are the affordances that are beneficial there?
+And this nests into bigger ideas of the environment itself, humans as part of that environment,
+and how we might be creating changing affordances for ourselves, but also at all these other
+nested levels.
+So we get into quite a lot of that here.
+I'm just really thankful for Harry and his work, and I hope you enjoy this conversation.
+We're mid-December now, so there will be one more conversation that I'll post.
+That's going to be with Karl Friston.
+Season's greetings with Karl Friston.
+Christmas with Karl.
+Whatever term you like to use is good for me.
+And then in the New Year, Evan Thompson, one of my favorite scholars in the world.
+I will post our conversation.
+Also, most of you know I'm very interested in Hegel.
+And I have a wonderful conversation with Karen Ng, who's a wonderful Hegelian scholar.
+She wrote The Concept of Life.
+I'm going to post that early next year as well.
+Many conversations already coming.
+But just as the year winds down, I hope everything's going well for you and it's not stressful
+and you're looking forward to the holidays, whatever you're going to do.
+See family or just read a good book, take a walk.
+Nourishing and with delightful affordances.
+I'm really glad that I got to know you this year or that we've come into contact this year.
+I appreciate you being here and listening and all that you do.
+Thank you for supporting this show and this research.
+Signing up for Substack or YouTube or whatever you do.
+Even just thinking of it in a good way.
+Thanks for that.
+Here we go.
+Hello, Harry.
+Thank you for being here.
+It's really wonderful to see you today.
+Yeah, thank you.
+It's nice to see you again.
+Thanks for the invitation.
+Yes.
+It's my honor.
+I'm really fascinated by so much of your work.
+Today we're going to focus on this term affordance, which in many different fields I work in,
+I hear used all the time.
+And many of us in psychology and philosophy know that word associated with your work and
+with Gibson.
+This is where I want to start today.
+You have such an amazing reputation relative to ecological psychology, environmental psychology.
+For those who don't know these terms, maybe we could start with what is environmental
+psychology or ecological psychology?
+Are these different?
+How would you approach those two words, disciplines, fields?
+Yeah.
+If I may, may I start with just a little bit of autobiography to explain this?
+So I think most of us are products of the times in which we grew up.
+And when I was a student, a graduate student, it was the time of the first Earth days.
+And it was prompting attention to the relationship between human activity and environmental quality.
+And there were a group of psychologists then who were kind of late in their career, but
+they thought psychology needs to get engaged in environmental issues.
+And they came together and they started a field called environmental psychology, which
+is a pretty big umbrella term.
+And that's what initially hooked me.
+It was a time of environmental activism.
+And it's like, okay, this appeals to my late adolescent mind.
+Let's get engaged in this.
+So it's a pretty sprawling field.
+I ended up going through a graduate program, which was an interdisciplinary program on
+environmental studies and psychology and planning and so on.
+And what I was interested in at the time was the relationship between the quality of environments
+and human development, particularly child development.
+And my view at the time, which is kind of this sort of sophomoric approach to things,
+is how can we make environments optimal for child development?
+So starting there and within the umbrella of environmental psychology, I thought, well,
+let me see how psychology treats the environment.
+And that's when I became really frustrated because it leads to, I think, a couple of
+directions which were not helpful for my applied interests and then ultimately for my theoretical
+interests, one of which when it instilled that there's two threads and they're both
+dominant and they're both kind of related.
+One is to define the environment in physical terms, as a physical scientist might, which
+has great value.
+There's no question about that.
+But then, you know, is that the best way to approach thinking about the environment when
+it comes to psychological problems?
+I was doubtful.
+And then the other thread, and it kind of comes, stems from the first one, is people
+arguing that, well, we experience the environment subjectively, you know, the environment we
+experience is in our head and the person variables matter a lot.
+Well, the person I was studying with at the time who kind of helped shape my early thinking
+wrote this great essay to environmental psychologists with the title, The Environment is Not in
+the Head.
+Okay.
+He said, you need to look, you need to look elsewhere.
+I mean, there's going to be connections, but like, how do we conceptualize the environment?
+And that's when he steered me in the direction of James Gibson's work.
+So Gibson developed ecological psychology, which is different from environmental psychology
+for theoretical reasons.
+Environmental psychology is somewhat a theoretical.
+I mean, it's sort of a grab bag of different approaches to try to see how we can answer
+a particular problem.
+But Gibson was concerned about the fact that indeed the environment is not in the head.
+His philosophical inclinations led him to think that the notion of indirect realism,
+that is that we each experience the environment indirectly by way of, let's say, mental representations,
+does just not sound philosophically.
+For one thing, and I know this is familiar ground to you, it leads to a position of solipsism.
+And so we're all trapped in our own private worlds.
+And so when I went back to my initial question, well, how can we make environments psychologically
+more better for kids, it can't be thinking about the environment as being in the head,
+but the environment, that's sort of a common ground for all of us.
+And this is what Gibson did.
+And what he did was he provided the grounds for a direct theory of perception, that is
+not perceiving the environment indirectly, but perceiving it directly.
+How do you do that?
+And this is sort of the revelation, and it really redirected all my thinking.
+I came across this in graduate school.
+Do you remember when that happened exactly?
+Was it one of those moments where it's kind of what you've been looking for?
+Absolutely.
+I mean, I could point the paragraphs to the paragraphs in Gibson's 1966 book.
+I was sitting in my office as a graduate student, just about still on my chair.
+It's like, oh, that makes perfect sense.
+Life-changing.
+And it's really, I mean, he didn't explain it the way I've been about to, but it's really
+pretty simple.
+I mean, if you ask, how do we hear?
+And we can think about the model of like two tuning forks.
+If you set one tuning fork resonating, how does it cause the other one to resonate?
+And the answer is not very mysterious, is that there are vibrations that are set in
+the air, which travel from one place to another.
+We've known that for centuries.
+But no one ever thought about applying that to vision.
+And so what Gibson did, building on a few earlier ideas, is he developed the idea of
+a medium for vision.
+That is to say that we can think about the air in our room as filled with reflected light.
+If we're not sitting in the dark, which we're not, neither one of us are right now, there's
+light coming from a radiant source, like a lamp or something, and that light bounces
+off of all the surfaces in the environment and creates sort of the steady state of reflected
+light.
+And then what Gibson then did is let's look at what the structure of that reflected light
+might be.
+Now, at this point, I won't go down a rabbit hole, but basically what he showed is there's
+structure in reflected light, which allows you to detect a surface at a distance from
+you.
+In other words, there's a possibility for direct real-life.
+And so when I went back to thinking about children, it's like, well, what are the environments
+that children are directly experiencing?
+And although in my dissertation, I was looking at physical variables and other things, it
+became clear that the key to it was what is it that kids perceive, adults perceive, directly?
+And Gibson answered that question as they perceive affordances.
+Okay.
+So what are affordances?
+Briefly, no, no, they're relational properties.
+They're properties of the environment defined relative to an active organism.
+Before you go into affordance, because I think there's a lot to discuss there, I just want
+to try to think big picture about what we're doing or what this is.
+So we're thinking about experience and perception.
+Is it safe to say that the kind of main problem is how do we account for, I think you say
+meaning and perceptual experience in your work often, this word meaning, but really
+it's how is this happening?
+What are we trying to do with all this?
+Well, let me answer by sort of providing one other piece of background, and this will be
+a moment.
+What, once I sort of had been working in Gibson's domain for a while, it was always very puzzling
+to me where this, these ideas came from.
+And one day and on 30 years ago, I was talking to a colleague in philosophy and I instantly
+saw where it came from and it turns out for you philosophers that listening, it comes
+from William James's radical empiricism.
+For people who aren't philosophers and you've read James, you've only read James's principles
+psychology probably or varieties of religious experience, but that's not where you're going
+to find this.
+You're going to find it in his last essays where what he does there is reject dualism.
+He says that immediate experience points both to the experiencer and that which is experienced.
+So if we, if we perceive whether, and this is referring to an affordance with, if we
+perceive whether an object is graspable, we experience that in our immediate experience.
+Now we can subsequently reflect that, oh, it has to do with the properties of the object,
+objective properties, where we can reflect after it has to do with my experience of grasping
+things and my body size, but that's not the immediate experience.
+Those are kind of post-hoc analysis.
+The immediate experience is this object that I can do something with.
+It's affordance and it's, although William James does not use the term affordances, that's
+where radical empiricism begins.
+It's a complete rejection of dualistic epistemologies.
+So if anyone wants to give, well, I have to say that my book that was published in 2001,
+the first half of the book is really justifying that claim.
+There's a lot in there I would like to think about.
+First of all, it's interesting you mentioned James.
+Did Gibson study with James, with his student or something?
+Yeah, the first part of my book was a historical treatment of that question.
+So James, James's student toward the end of his career was Edwin Holt, who was at Princeton
+and Gibson was a graduate student at Princeton.
+So there's a lot of circumstantial evidence which points to the fact that Gibson sort
+of came, was exposed to these ideas through Holt.
+Okay.
+That's what I was trying to remember because I knew there was really a direct connection,
+not only in ideas, but even in place and people being in similar learning environments.
+And then you knew Gibson, which we'll get to, but I like this big picture.
+You're talking about childhood place and how, and a lot of your work thinks about what that
+is and how to understand that.
+We can think about what importances lead to what sorts of paths and ways.
+I'm trying to think about this big picture of we're in the world and it feels like everything
+is in our head somehow.
+There's this idea that perception is in the head, I'm being very general, or it's a matter
+of something physical in the environment that's causing something.
+So there's always been this either or, it's either subjective, it's about me and my experience
+in my head, or it's objective, it's something happening in the world.
+And it's been very hard for us to hold those things as not opposites.
+And I think what Gibson does in your work and James, even though it might seem sometimes
+it's one way or the other, even radical empiricism can sound really on one side, but if you really
+dig into it from my perspective, it's actually showing a way that both of these are interacting
+in some kind of dynamism.
+How do you think about that?
+Even that sounds too dualistic to me.
+Okay.
+Okay.
+Yeah, so let me just say something about behaviorism, which some people take very negatively as
+being reductionistic, but there's another kind of behaviorism, which is sort of what
+organisms do as whole organisms.
+So imagine, and this is just a hypothetical, you put a child on the floor with a bunch
+of objects, but they're going to crawl around, and that's important, and they'll come back
+to that, but what they're going to do is they're going to interact with things that
+they can meaningfully touch or lift or grab.
+And so kids will grab objects that are compatible with their hand span and so on.
+In other words, they engage the world in terms of objects that have properties that are suitable
+and scale to their body and scale to their skills.
+So the objects that they grab, they are affordances because they point both to the object itself
+and to the possibilities for action of the individual.
+So part of the difficulty for traditional philosophers is, okay, let's start with the
+mind because that's where Descartes told us to start, but a behaviorist of the stripe
+that I like says, no, let's begin with action, with behavior.
+And in fact, among philosophers, that's where Mirleau-Ponty starts.
+He starts with action.
+So what is it that we're engaging and what are the properties of those things we engage?
+And Mirleau-Ponty didn't use the term affordances, but he and Gibson really fit together quite
+nicely.
+There are so many terms in phenomenology that fit very well with the idea of affordance.
+And you bring that out actually in the paper, which I think you wrote in 1989, and it's
+called Affordances in the Body, an Intentional Analysis of Gibson.
+That one is really famous.
+I think everyone's read it and I encourage everyone to go and read it now.
+But okay, so it is a kind of phenomenological lived experience in the way you described
+it.
+The child is going to have a different experience of those objects on the floor than the dog
+or the cat or the parent.
+But at the same time, those objects on the floor are the environment.
+So we have both and for some reason we feel like we either have to start inside or outside
+to try to describe it.
+But I feel like what you are starting to get at with that paper where you bring in Mirleau-Ponty
+is that it's both.
+When you're talking about action, you're already talking about both, some body, the situation.
+If you start with action in an environment that has things in it, you're not starting
+inside.
+You're starting at where the individual and the world meet.
+It's really, if you will, a transactional concept.
+I prefer transactional than interaction.
+Is that the work of the affordance right there?
+That almost synopsis kind of space of, because an affordance is also not a static thing.
+It is that relation that you described of the child and the object.
+We can't put it in the child or the object.
+Or how would you?
+Right.
+But there are some constancies.
+So for example, depending on the object, like I have my glass right here.
+I mean, it has some fairly constant properties, and one of it is its width and its weight
+and so on.
+And I have some somewhat constant properties in terms of my hand, pants, span, and my strength.
+But those are all changeable at different timescales.
+Yeah.
+There's patterns, there's regularities that would change with the consistency most of
+the time.
+We can say that.
+Right.
+But there's not a static thing.
+Yeah.
+And the body changes over certain timescales.
+My colleague Karen Adolph of New York University looks at how children's decisions about locomotion
+change as their body size changes, as their skills change.
+So the world is dynamically changing, but the thing we have to remember is it's different
+aspects of the change at different rates.
+So the glass on my desk is relatively stable.
+My body will be slowly changing, but entropy does win out of the event.
+Right.
+So when we're trying to understand what's happening, when we're trying to understand
+the meaning and how we have meaning and how this happens, this amazing life that we're
+living, affordances starts to do some work for us in a way.
+And also thinking of it more ecologically in terms of ecological psychology, where we're
+not just looking at the brain or just looking inside or just looking outside.
+How would you start to think about what that's doing and how that's helping us with this
+problem?
+Yeah.
+Well, let me drag my prop in again.
+Yeah.
+I have one too.
+We can...
+Cheers.
+Cheers with our water.
+Yeah.
+And that is because of its properties in relationship to my body, it's meaningful.
+It's graspable.
+If you will, it has the affordance of being graspable or graspability.
+The terms are getting a little clunky, although I guess it's not uncomfortable for German
+speakers to have these long, extended words.
+In English it gets a little weird, but we can talk about what an object or a feature
+affords an individual.
+And so some of the work that I did, I dabbled a little bit in design and with some landscape
+designers.
+And if we want to design a space where people might gather, we want to design a space where
+people can sit.
+So how high should you make these seats or these ledges or these benches?
+Well, it should be relative to the body scaling of the people who are going to sit there.
+So in other words, it affords these structures, affords sitting on it.
+I'm sure we've all been in places where the things that look like there's...
+You could sit on it, but they're too high or too small or someone.
+So the property of being...
+The affordance of sitableness, if you will, is defined relative to the person who's going
+to be doing the sitting.
+It's not in the person, it's not in the object, but it takes into account both parts of that
+I would say duality, not dualism.
+So is it almost a practice of a different kind of noticing or a different kind of coming
+at this problem or this project of looking for meaning and building for meaning and creating
+spaces that are meaningful?
+I'll give you an example.
+One of my closest friends here is a philosopher.
+And for years, we argued over what affordances were.
+And then he and his wife had twins.
+And then the twins got old enough to go around the house.
+And they started looking for light sockets and cracks and sharp edges.
+And he called me and said, okay, now I know what affordances are.
+Can I ask, what did he think they were before?
+What was the argument?
+It's really been a long time, but they just seem to be mysterious.
+I mean, if you say to someone, well, there's this thing here, but it's neither in the person
+nor in the world.
+It's like, well, what are you talking about?
+Isn't that because we are kind of born into a dualistic framework?
+Not that the dualistic framework is somehow ordained by God or something,
+but it's just the way we've built our science and our language,
+not without good reason to try to understand it.
+But isn't that why it doesn't make sense?
+Because we think we have to put it in one of those boxes, right?
+Yeah.
+It also goes back to the influence of Judeo-Christian thinking,
+that there's sort of the world and then there's the mind.
+And the world is sort of not necessarily sacred.
+We can do things to the world.
+We can be poles in it and blow it up.
+But the mind is next to God.
+So we have this dualism that comes from our religious tradition.
+And then Descartes, for really good reasons, tried to solve some problems.
+And we've been stuck in that framework for a long time.
+So Gibson, I think, on the shoulders of somebody like William James and a few others,
+I'll mention John Dewey as well, really have offered a revolution in our thinking,
+to think relationally, not dualistically.
+But I want to add one thing, and this of course is in James's work,
+that we do act in the world over time.
+But there are moments when we kind of step back from that action and we reflect on it.
+We engage in cognition too.
+But it's important to distinguish between perceiving as a process in the course of
+perception-action in time and reflection or cognition,
+which is kind of stepping out of time a little bit.
+The problem historically is we've been stuck only in that second area.
+So think about how Descartes even starts his meditations.
+He's reflecting about himself.
+He's not reflecting on the world.
+I think it's almost like such a kind of awe and mysterious experience that we
+have the experience of the world and then we can experience our experience of the world.
+Which I think is continuous in a way, even with your work,
+and we can even understand that reflection as a kind of perception of our own perception
+and so forth.
+But I won't go down that rabbit hole.
+But it is understandable that we get kind of amazed by it.
+Yeah.
+And one other thing let's remember with Descartes is he was really interested in trying to get to
+the topic of certainty and truth.
+He wasn't asking about the world.
+He was asking about epistemology in those very influential essays.
+But things have gotten sort of balled up over time, particularly for psychologists.
+Yeah.
+There's a lot of assumptions that we all start with as if they're facts without
+realizing that we do.
+And a lot of this work ends up trying to call that into question, which I think is something
+that Gibson does just by offering another way to think about it.
+But then that gets cartooned too in the sense of, well, it can't all be direct because yes,
+obviously there is something going on inside.
+But as you're saying it, the point isn't that there's not something going on inside.
+It's how can we, he even says it in one of my favorite quotes, like how can we cut across
+this dichotomy of subjective and objective, right?
+How can we hold both those at once rather than choose between one or the other?
+We do it all the time.
+I mean, when we're in the world engaging objects, when we're talking to other people,
+we're not, the dialogue is happening between us.
+And we're each bringing something to that dialogue, but the dialogue exists relationally.
+Now we can step back and after our phone call, we can reflect on what we said,
+but that's not perceiving.
+I mean, that's an act of reflection or cognition and that's legitimate.
+That's not perceiving yourself.
+And this is something I get confused about too, like with perception
+where everyone puts the limit on it.
+I'm thinking about what I said to you.
+I feel like I'm still perceiving my own habits or patterns in a way.
+Well, yeah, but let's go back to my earlier comments about the medium.
+Yeah, I mean, so it's the basis for our sort of existing in a common medium
+that enables us to act.
+And if we're talking about vision, that medium is reflected light,
+then we can talk much more specifically about the character of that.
+That's a good point.
+In your paper, you say, I think you quote Gibson about these polls of attention,
+quote, which is just wonderful, right?
+Because that's what you're saying, right?
+The poll of attention shifts from so-called subjective to so-called objectives.
+Yeah, or that's right.
+That's right.
+Or I would say from sort of relational engagement to much more inward engagement.
+Or relational with self-engagement.
+Yeah, so I mean, we know a common complaint in relationships is that
+one person says, well, you're really not listening to me.
+You're really thinking about what you're going to ask.
+You're listening to your own thoughts, not mine.
+Yeah, well, that's fine, but that's not dialogue.
+Is it real?
+Sure.
+Is it important?
+Sure.
+But it's not dialogue.
+So we really want to talk about this dynamic exchange that goes on between us.
+I'm trying to remember also in that paper when you talk about, because it's wonderful
+in the way that you show that relational is an alternative to this dualistic way of thinking.
+And I feel like one part of it that was really strong for me is when you're talking about
+the continuity.
+And this gets into something I want to go into with you too, about how we confuse our
+maps for our territories or the maps for the process.
+But what I think, what I remember is when you're talking about relationality, you're
+talking about the continuity and that everything is ongoing and moving in a process.
+But with the dualistic point of view, we always freeze it into little static parts and it's
+almost as if something starts and stops.
+But all of this is always ongoing in a process.
+We never get to have a beginning or end.
+Isn't that part of when you're talking about relationality and the difference?
+Sure.
+But yeah, let me return to like, let's take something simple and that is like perceiving
+an object.
+So if you walk into a room and there's an object on the table and you don't know what
+it is immediately, what do you do?
+You walk closer to it, you walk around it, you look from different vantage points.
+From an ecological point of view, what you're doing is you're sort of isolating the
+specifying information that tells you what that thing is.
+I mean, organisms move.
+Frankly, organisms didn't begin perceiving, they began moving.
+Animacy is the most essential quality of living things, even single-celled organisms.
+And then subsequently in evolutionary history, we develop these means to actually cease to
+detect things that are maybe at a distance from us.
+Visually, auditorily, and also through smell.
+But we want to begin with animism, animacy.
+We want to begin with action.
+And that leads me back to what I said a minute ago.
+We want to be good molar behaviorists, not reductionistic behaviorists.
+Just look at what an organism is doing.
+The problem with behaviorism was they didn't take seriously that we have this subjective
+experience, this thing we call consciousness, which gets called a million things.
+But behaviorism itself is kind of all of this, right?
+I mean, it got rejected with the Chomsky article and all that.
+Right.
+Yeah.
+But just remember, the behaviorism that most people have been familiar with is a
+reductionistic one.
+Let's go down to the most basic unit of something.
+But that's not the kind of behaviorism I'm talking about.
+That's what I'm trying to point out.
+Because I think some people will hear that and that's what they think.
+That's like the opposite of what you're saying.
+Now, go out to the neighborhood playground and watch the kids playing on the equipment.
+You're a behaviorist.
+What are they doing?
+And why are they doing what they're doing?
+And then if you're looking at them playing in the playground, you instantly see that,
+oh, they're engaging affordances.
+They're climbing on things and sliding down things.
+Yeah.
+So just sort of observing the world, which neither philosophers nor psychologists have
+been particularly good at, you start to see action and affordances.
+They're right there in front of your face.
+In fact, you do it all the time.
+That's why I brought up this practice of awareness because it's almost like that's
+the most important part.
+I think we could say that about a lot of science and writing and philosophy.
+But there's two open threads here that I really want to explore.
+The first, you brought up design.
+And I know that this term affordance has become a huge thing in design and architecture.
+And gosh, in every field, everyone's using the idea of affordance.
+And there's been some other work written about it.
+Do you, because in that paper from 1989, you show that it's okay to think of affordance
+in a different way so long as you're coming from it from this intentional point of view,
+which connecting to what we were saying about Merleau-Ponty is situating it in the body
+and understanding the trajectory, so to speak, or the goal that we're assessing.
+But how do you feel about this word affordance?
+I hear all the time in all fields now in different ways.
+Do you feel like that paper and the way you lay out affordance is the way that it's still
+being used?
+And if not, does it bother you?
+There are two points.
+But the main thing is, and I don't want to cast aspersions, but unfortunately, decades ago,
+someone in computer design decided to apply the concept of affordances to what's generally
+called interaction design.
+Interaction design means how we engage with computer interfaces.
+That was a huge mistake because it's using the term affordances in a very different way.
+And that's okay.
+You can use words any way you want, but we have to be consistent.
+Otherwise, we're completely confused.
+One of the things that I've been trying to do over many decades is to say,
+here's how we're going to use it in ecological psychology.
+And I wish others who would use it in different ways would be much more careful.
+And the reason why is not because I'm trying to be territorial about the term.
+But if you use a term in lots of different ways, before long, the term has no meaning anymore.
+It has no value anymore.
+It applies to all these different things.
+And then, as a scientific concept, it's useless.
+Well, I think it relates to also meaning, this word that I keep bringing up,
+and that if we're really trying to understand the world and the meaning,
+that's part of what we're trying to do with psychology and philosophy.
+And in a practical way, you talked about kids and the places that we grow up.
+And that's incredibly important to think about and look at,
+and how are we going to structure that?
+But once we start using affordance in terms of computer language and stuff,
+I don't think that it's necessarily wrong.
+But the activity that we were just describing of why this was
+an important new direction kind of gets collapsed, doesn't it?
+Because we then have forgotten the body, the situatedness, the meaning, all that.
+No, that's exactly right.
+Exactly right.
+Until robotics develops a lot a bit further than it is,
+there's no body when we're talking about computer design.
+And so to use that word affordances in that concept, it just weakens the term.
+It also strengthens it in a weird way in that context that they're using it.
+Because I think the reason we like that word so much is exactly because of this powerful
+connection to meaning and body and place.
+And that's what it's carrying with it.
+And so I think what we want to do when we use that sometimes in AI or computer
+programming or whatever, these other fields that are different,
+is where we want to take some of that inertia into it.
+Well, we also want to look current and cutting edge.
+That's part of it.
+If it's a buzzword, it's not going to have much scientific value.
+Science can't advance on buzzwords.
+It has to advance with terms that are well-defined.
+Define affordances with greater precision today,
+because I don't want to go down a sidetrack.
+But it can be defined mathematically, at least in some cases it has been.
+Well, that kind of goes into something else I want to talk about before.
+I just want to say also that I think it is a very important word,
+even in this world of robotics computer programming.
+Because if we could use it the right way there, it actually could really be very helpful.
+I think if we really think about affordance in the way situated towards a goal with a body,
+all these things, it actually solves a lot of problems there.
+Because then we realize actually there are affordances,
+but they're not to the robot or the computer.
+It's to the person who's doing the programming or so on or so forth.
+You can get to that place of a body and a situation and all of it.
+And actually going through that could be really beneficial in the field.
+So I think there's even more of a reason to not just say don't use the word,
+but learn the history of the word.
+Because it could help you actually with what you're trying to describe
+and even philosophically to talk about it.
+Yeah, sure.
+Yeah, I'll be patient and see how it all develops.
+Let me just say one thing about the paper you mentioned, affordances in the body.
+The purpose of that was that back at the time it was written,
+there were several people writing about affordances who said,
+well affordances might apply to grabbing tools and objects and glasses,
+but it has nothing to do with culture.
+And that paper is completely to refute that argument,
+that we can extend affordances to the cultural domain
+and the meanings in the cultural domain
+while being consistent with the approach of ecological psychology.
+And that's an incredibly important contribution
+and one reason that paper has made such a splash.
+Also, I really could see that continuing on
+in this tradition of philosophy of technology or thinking of AI.
+But of course, that would be a whole other discussion.
+But just for anyone who might want to follow that,
+there's something rich there.
+Maybe. I'm going to be skeptical until I see something.
+That's good.
+So there's two other things.
+The idea of wayfinding and navigation and how this relates.
+Because we've talked about trying to understand place,
+trying to understand the affordances of place
+and all of this is how it's making meaning
+or how perceptual experience is meaningful.
+And you've talked about this as movement.
+And so how do we relate this to your work
+with something like navigation and wayfinding?
+Because it's almost as if we just start to think of
+our perceptual experience or even our life
+as almost like a path or an exploration
+or a following of another path.
+How would you put those together?
+How did they come together for you?
+Yeah. Well, when I use the terms navigation or wayfinding,
+I literally mean moving from one place to another place.
+Now, we can use wayfinding sort of metaphorically
+and talk about my search for meaning in life.
+But that's not how I use the term.
+I mean, literally, how do we get from here to there?
+And again, this goes back to what I said
+at the very outside of our discussion.
+In environmental psychology, the way in which wayfinding
+or navigation was studied was assuming
+that we have maps in our head.
+In fact, a recent Nobel Prize winner received the award
+for his work on saying that the hippocampus in the brain
+is a cognitive map.
+I don't doubt the findings about the hippocampus,
+but I am critical of calling it a cognitive map.
+Talking about having maps in your head removes us
+from understanding how we find our way in real environments,
+how I get from my house to the grocery store three blocks away.
+I mean, that's the navigation that I'm interested in.
+Now, and from a Gibsonian point of view,
+which I didn't stress this earlier,
+but it's perception actions, not just perceiving.
+It's not just perceiving.
+So we perceive by moving through the world.
+So if we think about navigation as moving through the world,
+what happens is we detect information
+as we move through it.
+There are features that are revealed as we move through it.
+And it's that information that I was most interested in.
+This is the work I did early in my career.
+But again, it's information that's perceived over time.
+It's always over time.
+We can talk about perceiving pictures,
+but that's a whole different universe.
+We're talking about perceiving dynamically over time.
+So that's where my work on navigation started.
+And Frank, well, I'll leave it at that for now.
+Yeah.
+No, this is great because I don't think you know this.
+I don't think we talked about this,
+but I was in a lot of those labs that you're talking about.
+And I've had a lot of discussions with those same people
+about this subject, even on this channel.
+So it's interesting to think about the cognitive map.
+And here's something that's really hard to talk about,
+but it's really related to your work
+and everything we've already been talking about.
+I think you would say there is no such thing
+as a cognitive map and others.
+No, I wouldn't say that.
+Well, I wouldn't say that.
+And this connects to something I was mentioning earlier.
+I told you wayfinding, I would navigate from my house
+to the market several blocks away.
+But I could sit in my chair and imagine how I can do that.
+I don't mind calling that a cognitive map.
+In other words, I'm withdrawn from engaging the world
+and I can reflect on the world.
+And certainly we do that all the time
+when we're walking around cities, right?
+We're following familiar paths, but let's say
+a route that's familiar to you is blocked at the moment.
+Then you might start reflecting on,
+oh, how else can I get around here?
+Well, I don't have any trouble with cognitive maps
+used in that second sense.
+But to say that cognitive maps
+are what drives online ongoing perception action
+I think is problematic.
+Because a map, as you said in a different context,
+is static, it's frozen.
+And even GPS maps, they're limited in scope.
+So we want to keep the emphasis, as Gibson and others have done,
+and James did, on experience as being dynamic and over time.
+I mean, the main contribution of William James
+in the book that most people might know,
+The Principle of Psychology, is the stream of thought.
+It rejects the idea that they're frozen bits and pieces
+of images in thinking, but that thought goes on.
+Actually, that's what he said, mental life goes on.
+And you can leap forward decades, and that's Merleau-Ponty.
+Same thing.
+What Merleau-Ponty does, which James didn't do,
+is he includes the body in trying to account for change over time.
+But yeah, we can have a cognitive map.
+I can sit still and sort of reflect on how I might get someplace.
+Yeah, I think I disagree with both sides of this in a way,
+and agree with both sides of it, which I guess is fitting with this
+trying to hold the paradox of subject and objective.
+Because I do think they're cognitive maps, but they're not in our heads.
+And I don't even think, there's a confusion that I feel is something
+we've been touching on between when we try to create representations externally,
+or what you might think of as analytically maps or objects,
+languages, documents, things like this, and the ongoing process itself.
+Do you see any confusion there between, for example,
+I think you've even talked about it, that from day one,
+we are thinking about maps in our life.
+We're encountering actual maps, whether it's on our phone or the old paper ones,
+or even just diagrams and things like that.
+So it structures the way that we think about the world.
+Of course, in that way, we are mapping,
+but we don't have a cognitive map in our head.
+Do you see those as two different things?
+In some other things I've written, there's work in cultural anthropology,
+places where people don't have maps, and they find them quite well.
+So a map has great utility, but we don't need a map to find our way.
+It's a tool, and it can help us.
+But the process, the pattern itself, can be, I think,
+studied and understood in the way that you were describing.
+We can physically find our way through the world, wayfinding.
+From A to B, literally, the body is moving.
+But if you think of language in terms of something like a landscape,
+a city is basically a collection of regularities
+that your body is patterning itself with as it's moving through it.
+But when we're in a thought space, or when we're moving through something like a book,
+or even memories, isn't there also a similar pattern?
+Well, I wouldn't make that leap, because I don't think we know enough about what it...
+Well, no, I put it a different way.
+I don't think I've thought enough about what it means to move through a book
+as opposed to moving through the world.
+But I've thought a lot about what it means to move through the world.
+And it requires my body.
+It's an action.
+Yeah.
+So I think, again, it's sort of similar to what I was saying earlier about affordances.
+We have to be careful with our terms.
+So we can say, oh, yeah, I'm navigating through a book.
+Well, is that the same thing as what I mean when I say I'm navigating through the city?
+I don't think so.
+So even though we're using the same terms,
+it doesn't mean that they're supported by the same underlying processes.
+I think, again, the use of terms is absolutely critical.
+I would say if you can separate the way that we're going to try to assess or measure it
+from the process itself, the patterns might be in common, even though it's a different thing.
+But we have to be very careful not to just take the metaphor
+and then put it to all the science that's been done.
+It doesn't help anything.
+I think it's important, and this is probably one of the things I most learned from Gibson,
+to be careful and consistent with the language that we use.
+When we use particular language, we should try to be as clear as possible about it.
+So let me give you just one example in terms of a book I'm reading now.
+So this book I'm reading now has time jumps.
+I'm reading it, and now suddenly I'm back 20 years earlier than a minute ago.
+It's like, that's not navigation in a terrestrial sense.
+So I could say I'm navigating through this book that doesn't have a linear narrative.
+Well, then that's something different.
+And if I was a psychologist interested in reading, I would like to know how I can do that.
+I think it would happen the same way that if someone suddenly changed,
+if they could, if you were in a VR city or something and they suddenly changed it to another
+city, you would have to re-adjust, realign with the regularities.
+I don't think it's different from it.
+I think the patterns are very similar, and I actually think this is a way to
+do what Gibson wanted and overcome that dichotomy of thinking that something that's in the head
+is somehow different than the physical.
+They do share similar patterns.
+But I agree, we do have to be very careful because if you use certain terminology in a way,
+then whatever way everyone's heard that terminology before, they're applying to that.
+But also, again, I mean, fundamentally, even though some might not think of me this way,
+I am a scientist.
+And so I want to say, okay, I want to talk about, okay, empirically, what do we know about this?
+Well, there is a very smart ecological psychologist at Brown, Bill Warren,
+who works in this very large virtual reality space.
+And he's done studies where he has people go through wormholes.
+They're in this enclosure and they're walking around and suddenly they
+go through a wall and they're at some place completely different.
+Now, I'm not going to report on what he found, but I'm saying you can study these things
+empirically without saying, oh, they're the same.
+I don't know that they're the same.
+There have been studies.
+There have been studies on the hippocampus and of course it has a very big role in memory
+and also in navigation.
+And there have been experiments designed where you are literally moving through some kind of a
+virtual space or an informational space.
+We do still see similar patterns to when you're moving through a physical space.
+Now, that doesn't mean that it's the same, but it does provide a bit of a link between
+not thinking of what's happening when we're thinking and remembering and having emotion
+and what's happening when we're moving from A to B in the physical world and being physical
+as completely different, dualistic, right?
+There might be a way that they're relational that we just haven't been able to kind of
+widen our perspective to see yet.
+Well, I'd say part of our problem is, and this is actually a point Wittgenstein makes,
+we're trapped with pictures.
+We think about things, we try to envision.
+So I would say if you want to understand, let's say, wayfinding or navigation, the analogy
+should be listening to music because music is this structure that unfolds over time.
+And I would say navigation is similarly a structure that changes over time, although
+the difference is you move through the environment.
+So you used the word memory a minute ago.
+So when I'm walking to this familiar store not far from me, as I go, am I sort of relying
+on memory?
+I don't think so, any more than when I'm listening to a very familiar melody that every step in the
+way I have to think about, oh, where's this melody go next?
+No, that's not it at all.
+It's a relational structure that unfolds over time.
+And navigation, I would say, is that as well.
+I would say that's already a cognitive act.
+I wouldn't separate that action from being and perception and cognition as if they're
+all separate things.
+So yes, I think there's a difference when we are aware that we're thinking about something.
+I'm remembering actively.
+There's different kinds of memory.
+You remember how to ride a bicycle, but you're not thinking about riding a bicycle.
+There's all these different kinds of memory.
+And I think when we move through the city, after we've moved through it many times, we're
+of course not remembering it in that active sense of remembrance, as if there's a subject.
+But our body's engaging in, I would say, active memory.
+I wouldn't distinguish those in a dualistic way.
+But doesn't that indicate that we need to use the word memory with greater care?
+Yeah, it needs to be thought of a lot differently.
+So when I'm riding a bicycle, why even bring memory into it?
+What I'm employing is a skill that I've developed over a history, and I just sort of engage it.
+Even going back to this classic paper written in the 40s by Carl Lashley, one of the famous,
+there are certain things that happen too quickly, I think he talks about in the
+arpeggio, that can't rely on memory in the traditional sense of sort of reaching back
+and pulling out something that occurred before.
+It's actually in this paper he wrote called In Search of the Engram, which is a term referred
+to memory.
+And he basically says in certain circumstances that there is no memory.
+It's that the body has developed a pattern of skilled action.
+I think using the term memory there just confuses matters.
+I think it might confuse, but it's a confusion we need to work through.
+I think even to go back to Gibson and the idea of more direct perception.
+And there's something like ecological memory and ecological perception.
+I think the problem that we don't use those words and really think through it and change
+that, that's the hard work of changing this framework and these patterns of dualism that
+we're all stuck in, is we need to rethink that.
+Cognition and memory aren't things in the head, and they aren't just our thoughts and
+images that we have in this kind of way that we are aware of ourselves.
+They're very, for me, they're very much the way that the body is in the world.
+And only later do we get to this point where we feel like we have memories in the sense
+that we attach them to words and images.
+And that's a really hard thing to think about.
+And it's really radical to start thinking about ecological memory in that sense.
+But for me, it seems like the only way we're ever going to really get beyond these dichotomies
+that are shaping everything, because they are built in the language.
+And if we just don't use the language, then we just stay with them.
+Well, I recommend, I mean, folks have thought about this a long time, and we
+neglect classic works at an apparel.
+So if you go back to the 30s, there's a wonderful book written by Frederick Bartlett,
+British psychologist, called Remembering.
+Basically, so it's the same thing that you just said, but maybe in different words.
+Bartlett.
+Yeah, so if you read my work, I almost always start with history.
+I think that's where we need to begin, not to stay there, but to sort of build on the
+insights of others who have sort of made some progress in some area.
+Yeah, I really like that.
+I think that's connected to this continuity, right?
+That we really understand that everything is continuous and understanding where it's
+coming from is absolutely essential to understanding how to use it or what it is.
+But we don't really take the time to do that.
+But I wanted to understand your biography a little, and we've gotten into all these
+big ideas, because can we go back to before you wrote that 1989 paper, and when you discovered
+this thing by Gibson, and how did all those dominoes start to fall?
+Because I believe you got to know him well, and were you teaching with him or something?
+I have all these kind of ideas of how did all that begin?
+Yeah, well, I wouldn't say that I knew him well.
+I spent about a year at Cornell, and I interacted with him quite a bit there.
+In fact, what happened was, so after I finished my graduate work, I was looking around for a job,
+and the only job I got was a crummy job I didn't want.
+And I thought, well, why not try to spend some time with Gibson?
+Because I was just barely learning this stuff.
+This is going to relate to navigation.
+When I got up to Cornell, in a bunch of circumstances, I'll make the story short.
+You don't have to.
+Well, it turns out that he was retired at that point, although he had a weekly seminar.
+But he was also teaching a course once a week at this other university that was 40 minutes away.
+Where Cornell is in the winter is a pretty rugged area.
+So he was going to co-teach a course at this other university during the winter months,
+and it was an evening course.
+And so his wife, who is just an imminent psychologist as he, Eleanor Gibson,
+approached me soon after I got there.
+And she said, would you mind being his driver to get to this course?
+And of course I said, well, yeah, of course I will.
+Because in fact, I didn't know much about his work, and I thought, great,
+I'm going to have him in a car for two hours every week to talk to him.
+And so one of the questions that kept coming up for me in our conversations is,
+how are we finding our way from Ithaca, where Cornell is, to this other city, Binghamton?
+I mean, how are we even doing this?
+And that's kind of where my interest in navigation started.
+Oh, I love that.
+Did you talk to him about that?
+Oh, sure.
+Yeah, because at that point, so if those listeners who maybe have read some of Gibson,
+will have only probably read his last book, The Ecological Approach of Visual Perception.
+When I was there, that book was in manuscript form.
+And he had already written a bunch of stuff on this question, which I hadn't seen yet.
+So we talked about what he had written about navigation and wayfinding in his yet-
+So he was literally working on that as you were having these,
+that's quite a weird synchronicity.
+Yeah, my whole career is full of luck.
+Yeah, no, I saw him in his office and on the bookshelves are all the chapters sort of
+stretched the way, and I would read them.
+And of course, then I could ask him about them because I was really an novice at the time.
+And so my earliest publications, once I got a faculty position, was trying to test the ideas
+that were implicit in his writing about navigation and wayfinding.
+So the first 10 years of my career was mostly on that topic.
+And you are a scientist and you have done a lot of work that's scientific,
+but I wonder at that time, how was that considered?
+Because now where I am, there's a lot of love for Gibson, right?
+Or there's a lot of appreciation, even though there's also a lot of controversy.
+But I wonder then, had you just found someone that no one had heard of or was he already
+a big player? What was it like in that time period?
+Yeah, well, it turns out that's really an interesting question where it leads.
+So Gibson published a book in 1950 that made a huge splash for a whole bunch of reasons,
+which we don't have the time to, I could do it, but we don't have time to go into.
+And then when he wrote his next book, which was published like 16 years later,
+he basically disavowed most things he wrote in the first book.
+But in the meantime, the psychological community had embraced that first book and thought,
+oh, he's fantastic.
+Was the first one the senses considered as perceptual?
+No, the first one's called The Perception of the Visual World.
+Okay. I didn't even know about that one.
+When he wrote the senses as considered as perceptual systems, I mean, he didn't completely
+reject everything in the first book, but he basically moved away from it.
+Was the first one more traditionally?
+Exactly.
+Yeah. So then the question becomes, well, how does the psychological audience now react to
+the second book? And most of them said at the time, and since they bought the first argument,
+he was smart once, but he's kind of gone off his rocker now.
+And yeah, so for a long time, the second book, which was really the main book,
+The Senses Considered, was sort of treated as interesting, but kind of quirky.
+And then over the next 50 years, people saw, oh no, wait a minute.
+This is really the heart of his ideas.
+So if you look at mainstream psychologists, and I can cite some examples, and you see,
+and if they cite Gibson, you almost always see that they cite his 1950 book, which she gave up
+on. Yeah.
+I did not even know that. That was the one that made the difference for me, The Senses Considered.
+There's a parallel story to that, and that is during the time that Gibson was at Cornell,
+a seasoned faculty member was hired, namely Ulrich Neisser.
+And in 1967, Neisser wrote the book on information processing called Cognitive Psychology.
+It was like the Bible of information processing.
+And then he went to Cornell and started talking to Gibson, and he said, I was completely wrong.
+And he wrote a follow-up book. So the same thing happened.
+It's like Gibson's work convinced Neisser to move away from most, not all, to be sure,
+but most of his earlier ideas. But the audience of psychologists who read this work are really
+reluctant to let go of these old ideas, and why? Because they've done hundreds of experiments
+based on them. They built an entire career on them. Yeah. So change is slow.
+And what is so different about the first book and the second book, if you had to put it in?
+Of Gibson's?
+Yeah. If you had to say, is it the directness?
+No. It's mainly that he, instead of... So earlier on, I talked about ecological optics,
+that is to say the information of reflective light. That's what comes up in this...
+Optical flow, yeah.
+Yeah. In the first book, he's talking about the visual image as largely static.
+He's still largely talking about the retinal image. Although that's not completely fair.
+He tries to break away from it, but it's mostly still tied to the idea that we have a
+projection of information on our retina.
+I see. So it's the vision psychology that you're talking about that sticks to that. Yeah.
+Yeah. Yeah. And so if listeners know Gibson's work on texture gradients,
+which is really what was really very famous work, it comes at... And they're still valid,
+but it comes out of that first book. But by the second book, he said, nah, forget about that,
+because what I did wrong there is I really didn't talk about the active organism.
+He considered perceiving from largely, not completely, but largely a stationary point of
+view. But now let's think about individuals, animals moving around in the world. How does
+that force us to change our thinking? And that's where the risk proceeds.
+Well, it's amazing. And I can understand how going so deeply as he did probably to write
+that first book that he would be able to then see it differently. But it's weird how that
+happens sometimes that you almost have to completely immerse yourself in what is,
+and then you see, oh, actually, I don't know if you've had that experience.
+You're absolutely right. Nyser did the same thing. It's really an act of
+courage. Because again, imagine you have this great reputation and you decide, no, wait a minute,
+that wasn't right. Let me try again. That's really remarkable. And it doesn't happen in
+science very often. No, it doesn't. And you've brought up time a lot here. And the time can
+be unfair in a way, because all those ideas are important in making a lot of new...
+They're starting a lot of new things and have been for a long time. Your work is one example,
+right, of all that you've opened up because of that. But over time, he doesn't get to see that.
+So in that moment, it is really brave. But it might also just be a matter of clarity,
+because if you've really studied deeply and you know what you've studied and you know
+what you're presenting, you don't have a choice. There's been a lot of scientists and people who've
+had that experience over time where they just are like, okay, nobody's going to understand for a
+while, but got to do it. Yeah. Well, these ideas that led to this newer work were clearly gnawing
+at him for decades. Let me explain what I mean by that. The jerk transformation is to think about
+visual perception as you move through the world. And so in the 1930s, he published a book
+basically about how we drive a car. What's the world look like when we're driving a car?
+And it's about perceiving over time. During the war, he worked for a division of the Air Force.
+And the main question was how do pilots perceive the ground as they're coming in for a landing?
+So in other words, these problems of perceiving over time were always there,
+but it doesn't really come to fruition until 1966 and then the last book in 1979.
+I'm so glad you brought that up. I'd love to read that book about the car. I didn't know about that,
+but is it available anymore?
+No, it's an article.
+It's an article, okay. And I did know about the flight stuff because I think a lot of that,
+you can see a lot of that if you look in the books of, he was really, it's not just a thought
+experiment. He was trying to understand the way things were happening.
+Exactly. And so you give me far too much credit by the way, but I'm hopefully just trying to
+I don't think so, Harry. I mean, that paper's made a big difference for a lot of people. And
+you know how much I care about this bridging of seeming opposites, and that's definitely a really
+good academic example of perspective shifting. So these things matter. It's not just flattery.
+I just, I really think they matter over time. It's just sometimes it takes so long for them
+to really be visible.
+Yeah. Well, I mean, what's gratifying to me is that some of my younger colleagues
+are appreciating it now. I don't think my work was given all that much attention for a long time.
+So that happens.
+Do you feel like you've understood better? I mean, I wanted to ask you, why did you want
+to understand how to make place better for children? Why was that so early? Because even
+some of your last papers, which I didn't get to talk to, but the ones in the last 10, 15 years
+where you do really interesting stuff in different collaborations about how children are in their
+environments or how they make them sustainable. I can't remember all the titles now, but you're
+still doing it and following through on that. Where did that come from? And do you feel,
+how do you feel about that trajectory?
+Well, I said at the very beginning, Earth Day occurred when I was just finishing undergraduate
+studies and environmental activism was really what people, well, environmental, anti-war,
+and women's rights.
+But why kids? Because you were a kid still? Why children? Why children?
+You just thought that's where it matters most?
+Yeah. Because what we've known within psychology for a long time is the early years are formative.
+And now the notion of brain plasticity is non-controversial. But back then,
+the thought was our kids kind of born and pre-wired to engage the world in certain ways.
+And there's a lot of skepticism at the time. And with the skepticism comes the question,
+well, do the environments then matter that kids are growing up in?
+Is it going to affect how they develop? So that's kind of where I came in.
+But again, I was interested in students of the 60s and early 70s is like, well,
+how can we change things to make them better? And that went out of fashion for a long time.
+But I think it's come back now. So that's kind of where I started.
+Now, do you think that affordances are phenomenological and environmental?
+I mean, do you think we can change our affordances through kind of attention in
+the way that we've been discussing? Or have you seen it happen over all these years?
+We can change. Well, we change affordances all the time because we alter the environment.
+It's always happening both ways. It changes us and we're changing it.
+Yeah. I mean, the concept that many people might be familiar with now, which came up really about
+10 years ago, is the idea of niche construction. That organisms alter their habitat to better live
+in it. All organisms do that. And so do we. And in doing that, what we do is we change the
+available affordances of the environment. Yeah. So do you think in thinking about this problem of
+how we find meaning through perceptual experience, just by putting attention on this and understanding
+this process that we might, if we try to nest all of this in different ways, it is a different kind
+of world and lived experience of the world. At least I think of it like that. Do you connect
+to the work you've been doing in these ideas to those, the bigger place where you started
+with something like Earth Day and really trying to think of what self and Earth are in a different
+way? Is that too sentimental? No. Because what we haven't mentioned at all in this conversation,
+which was understandable, is what I've done with most of my time over the past 50 years.
+I spent 42 years teaching at an undergraduate college.
+The same one since 1976.
+Yeah, exactly. And teaching, and I saw teaching undergraduates as not only teaching some basic
+things about psychology and so on, but also making them aware of the world we live in.
+And hopefully making them more sensitive to the ways in which their environment is changing.
+And like 25 years ago, I had to argue with them to convince them that,
+yeah, the climate's changing. Here's the data. And there's a lot of resistance to climate change
+for reasons I don't have to go into. And now 40 years later, of course, it's changing.
+We've known this all along. Yeah, so teaching is crucial. And in my role as a teacher,
+I tried to inform my students about what was going on in the world around them.
+Yeah. In fact, frankly, that was more important than teaching them psychology.
+Because, again, they're undergraduates. Most of them are not going to go on to have careers
+in psychology. But they are going to go on to live as citizens in a country and as businesspeople
+and whatever. And having an awareness of the dynamic changes in the environment is positive.
+So that was really my main commitment. And fortunately, I was able to squeeze everything
+else in around the corners. I'm so glad you said that. And I mean,
+this is love and philosophy. And to me, that feels like an act of love. I think that Gibson
+doing what he had to do and changing course is kind of an act of love too. But so many,
+and I've had a lot of discussions with a lot of famous people over my life, and they almost always
+end up saying it was one teacher who said one thing that sort of put them on that path.
+So, I mean, yes, your papers are very important. They will pass on and on. And you're passing on
+the James and the Gibson tradition in a way. But probably the most important acts of love that you
+did was that, right? Going to work every day and teaching and being able to kind of transmit that
+in little small moments. Yeah. Yeah. I mean, I wouldn't phrase it that way,
+but I think that's absolutely accurate. Yeah. I mean, I love teaching. I love being in the
+classroom. And even now that I'm not teaching, I'm writing every day. These are acts of love
+because that's what I do. Those activities. I mean, I could be doing other activities as
+acts of love. I'd be cooking for my family and that would be an act of love, but I'm not a very
+good cook. I do these things. Those are my acts of love. Well, I really appreciate it. And it's
+meaningful, right? Back to that word meaning and all this perceptual experience. And yeah, I think
+it's good to, at times, just call it out for what it is because it matters. And young people seeing
+it, it's good to know that as you progress through your career, those are what matter,
+those moments. And coming from that place, it might not be teaching, it might be teaching, but
+whatever it is that feels like that, it still matters over time and space, I guess.
+Yeah. No, I think so. I do have students who I've been in contact with over many decades
+and hopefully that had some impact on them. I have the impression that it did.
+It did. I was just with you in Spain and I saw for myself.
+Thank you.
+I've witnessed it firsthand. Well, thank you. I'll let you go. We already talked a bit over time
+and it's been kind of an intense talk. So I really appreciate you and I really appreciate
+your work. And this has just been great. And yeah.
+Thank you. I've had a great time. Take care. I hope we can stay in...
+Yeah, me too. I'd love to talk to you again sometime. You've got such a huge body of work.
+Thank you.

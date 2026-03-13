@@ -1,0 +1,1079 @@
+You can't compute human emotions, in my view.
+You can't compute human intelligence, let alone human potential.
+And I think that's really what adaptive resilience is about.
+It's about exploring and discovering and learning about our potential.
+And that's the expansive power of the mind, which I don't believe we can put into a computational
+environment.
+Maybe I'm wrong, but that's my feeling.
+The human AI relationship needs to be reconceptualized.
+And we need to put technology into the right context, into the right dimension.
+Don't think we can reduce ethics to some sort of finite set of variables or set of rules
+or algorithms.
+And if you talk to some of the people who are very much in the field, they will tell you,
+we do not have the mathematics to complete the system.
+So we need to recognize that.
+But even if we were to stop at what we have today, and we were to use it in a better way,
+in a more human way, we could perform magic and miracles in the sense that we could start
+to solve some of the most intractable problems that we have in society.
+We could, but we're not doing it.
+And that's very regrettable.
+It's a missed opportunity.
+Hello, everyone.
+Welcome back to Love and Philosophy Beyond Dichotomy.
+This is a conversation with Maria Santa Catarina, who is a CEO, advisor, board director.
+It's about her wonderful book, Adaptive Resilience, which is about trying to find a way to understand
+the relationship between AI and humans that could be inclusive, equitable, sustainable,
+and transform organizations and businesses in ways that we haven't quite thought of yet,
+but really must think of in order to move forward with the challenges we face.
+She wrote a LinkedIn post recently, which I think summarizes it quite well, especially
+in terms of Beyond Dichotomy, because she says, is AI good or bad?
+It's neither, but it also isn't neutral.
+So this speaks very well to this idea I'm constantly talking about of trying to hold
+the paradox and in so doing develop a more nuanced understanding and discourse about
+what AI intelligence is and realizing that our tools are not human.
+It can sound so simple, but it can also make people quite angry from one side or the other.
+But it's just kind of a fact that artificial intelligence is not the same as human intelligence.
+And it matters that we understand this and look into the nuance and the difference of it
+if we want to have a resilient future as humans in relation to our technology and to the planet
+and to one another.
+So all this is part of Maria's book, and it's what we talk about here today.
+And I look forward to hearing what you think about it.
+Hope you're doing well wherever you're making your way.
+Thank you for being here today.
+Hi, thank you very much for inviting me.
+Delighted to be here.
+So I was telling you just a minute ago a little bit how I found your work.
+I was coming at it from resiliency in terms of environmental issues of mobility and things like this
+and philosophy and technology and neuroscience and interestingly trying to connect it to business.
+And there's not a lot, that's a lot of connections to make,
+but your book is really beautifully in the intersection of all of those things.
+So just to start, I wonder if there was a starting point for you
+or if from the beginning it was all connected together.
+So that's a really good question, Andrea.
+So where did I start?
+That's a good question.
+I don't really believe in beginnings or ends anyway, to be honest, but where can we start
+to understand it?
+Because, you know, there's so many paths and threads in there.
+Well, I have a humanities background.
+So my academic career, if you like, let's start there, began in sort of studying modern languages
+and literature and philosophy and politics and I did these sociology courses in the process.
+So as much as I learned about language, I also learned about, you know, the social constructs
+and really through literature, I learned about culture and different cultural influences and how
+that somehow is all intertwined.
+And you really can't separate humanity's evolution into distinct categories.
+And so that's quite revelatory when you have that kind of training and you start looking at AI.
+But before we get to AI, I'll just interject that I also did a master's in international relations.
+And that is something that I think is going to become even more relevant, especially, you know,
+in the trajectory that we're currently following.
+Yeah, just to kind of set that up a little bit, just as you're telling the rest of your story,
+I'm very interested in how all these different paths and ways that you studied, this learning,
+this curiosity, informed the vision that you have in the book of Adaptive Resilience,
+because I think that's a big contribution of the book.
+Reading the book, you want to learn more and you want to try to see the world from different angles.
+So I suppose that was part of your...
+That was my mission.
+Yeah, okay.
+Okay.
+My hope and my dream, it was to be able to reach an audience, inspire people and say,
+look, there are many different possibilities that we can imagine and that we can pursue
+and that we can create.
+And I think that is the huge distinction between any mechanical means that we may invent, create,
+develop to help us.
+And that can contribute to our learning, certainly, but they can't replace our human learning.
+That's the distinction.
+What you push back to the front is this curiosity and knowledge and sensuality of exploring the
+world from many different angles.
+It's not that you're against technology and AI, of course.
+No, at all.
+Yeah.
+It has become my passion.
+And the more I learn about AI, the more fascinated I become by AI.
+But I try to make it clear in the book that AI is a thing and we are not things.
+We are animate human beings.
+That means that we are complex and we continue to evolve every single day.
+You can argue on the other side of the fence that AI is doing the same thing.
+It isn't.
+At the best, you know, at its absolute best, it can imitate, mimic, simulate, mirror, whichever
+term you would like to use, an element of our lived experience.
+And I say lived, not living experience.
+And there's a big distinction in that too.
+So anything that is pertaining to the past perhaps can be somewhat modelled, but, you
+know, it's only a fragment of what that might look like.
+But the model can't think, reason, feel, believe, imagine, inspire, motivate, all the
+things that we've been talking about just now in terms of human learning the same way
+we do.
+And in fact, there's a bit of a myth that I think we need to bust.
+And that is to say that data and information is not the same thing as knowledge.
+For me, knowledge pertains to consciousness, human consciousness, and it pertains to wisdom.
+And in that sense, it is something that is spectacularly human.
+I don't think we can transfer knowledge through machinery.
+We can certainly help people to understand elements of the reality, but then we have to
+distinguish between what is called data input that generates a data output and what then
+becomes an outcome.
+And therein lies human intelligence, because we are the interpreters par excellence of our
+reality.
+So we have the ability to explore through science, through the arts, through the humanities,
+all aspects of the world and of our living planet and of ourselves.
+I am at heart a humanist.
+However, I very much appreciate science, too, and also technology.
+So I went back to Aristotle.
+I'm sort of, you know, in favor of his vision of virtues in the sense that virtues pertain
+to human values and, you know, they pertain to the essence of our humanity.
+And so that's why I'm quite a big fan of that way of thinking, because how else can we
+distinguish ourselves from inanimate objects?
+If you think about it, if we reduce the human brain, which is something that came about midway
+through the 20th century, if I'm not mistaken, computer science emerged as a field of study.
+And so this idea that the computational interpretation of the mind was going to be, you know, the foundation
+for what we have today as technology.
+If we reduce it to that level, then we are really denying our human identity, our human
+dignity, and I would argue the essence of our humanity.
+And by that, I also mean intelligence.
+And intelligence is complex because you use the word sensuality, and that's certainly a
+part of it.
+You know, we talk about aesthetic value in philosophy, and we talk about beauty in philosophy.
+And even if you talk to the scientists or the mathematicians, they will also talk about
+that, and they will also talk about intuition and instinct.
+So how does science come about?
+So think about it for a second.
+It doesn't come about just by accident.
+It comes about because somebody somewhere has started to think about something and has
+an intuition, an inkling, an instinct, some sort of a hint that something might be this
+way.
+And then you create an experiment and you try to gather evidence and you try to empirically
+test something, but it is an experiment.
+And so the result from that experiment is not the answer necessarily.
+It's not the truth.
+In fact, we don't have a definition of truth or human intelligence or human consciousness.
+No, we don't.
+And through the ages, you know, we have been trying to establish what that looks like.
+And so some of us have turned to religion and, you know, there are many expressions of
+religion.
+Some of us have a sense of spirituality.
+Whatever it is, we are beings.
+That means that we are living our reality as we perceive it, as we experience it, as we
+interact with others and also with our surroundings and the bigger picture of the environment and
+what's happening in the world around us in general.
+So all of those dimensions, I would argue, are very difficult to, let's say, in inverted
+commas, model.
+How can you model the complexities of an ever-changing reality in something that is actually quite
+static and that is any way defined by a computational environment, a set of rules, a set of algorithms
+and so forth?
+And somebody's worldview, because don't forget, it's not that the machinery exists by itself.
+Somebody somewhere has come up with a set of rules, put in their own personal worldview, biases, if you
+would like to call it.
+But you can't compute human emotions, in my view.
+You can't compute human intelligence, let alone human potential.
+And I think that's really what adaptive resilience is about.
+It's about exploring and discovering and learning about our potential.
+And that's the expansive power of the mind, which I don't believe we can put into a computational
+environment.
+Maybe I'm wrong, but that's my feeling.
+As you were just talking, I understand what you mean that we can't, you said we can't
+model it, but I'm not sure if you, do you mean we can't model it or that the models aren't
+the territory?
+Because for me, the modeling is fine.
+And like, that's what science and that's what we do.
+We model things, we create diagrams, we create visualizations, books, what I would call
+representations, which by that I always mean external, not like in the brain.
+I mean, we represent things in the world as models.
+And that's how we learn because we like a book, right?
+Or we all come to the same book and we sort of, in a way, begin to share perspective through
+that creation.
+And I think technologies can be like that too, and that we can model things.
+But the problem I see, and maybe you can push back on me if you really, or explain to me
+where you're coming from, because I think we can model these things and that's not the
+problem, but it's that we've somehow begun to think the model is the territory and that
+we don't understand we're just modeling.
+So the whole point of being communicating and finding ever more ways to be human and better
+humans, as you express in your book, all of that becomes collapsed in a way because
+we've thought now, the thing we build is the map has become the territory.
+The model is the important thing, not-
+Is the answer.
+Yeah, exactly.
+Does that make sense?
+That's what I mean.
+That's why I'm pushing back.
+Because I think, you know, for a scientist or somebody who is competent in the field or
+who understands what a model is and what it isn't, what it can and what it can't do,
+that's absolutely fine.
+But where I see the problem is that, I mean, we're even teaching kids now through an iPad.
+We're teaching kids mathematics through an iPad.
+Well, what kind of mathematical reasoning or logical reasoning is that going to develop?
+Not very much, I will argue.
+And so you take that into the workplace or you take that into, you know, the broader society
+and there is this assumption that people understand what the technology is and isn't, what it can
+and can't do, and that is not the case.
+You take it into the workplace or critical settings and it's even worse.
+So when you model something, you can model an element of, a part of the reality.
+You can't model the whole.
+I mean, we don't have a computer big enough to model the whole of our existence because
+that's what we're really talking about.
+We're talking about human existence.
+We talk about digital twins and things as if we can do that now, right?
+Yeah.
+And then add into the mix other living organisms and our interactions and the complexities
+of our interdependencies and our interconnectedness and so forth and the interrelations and so
+forth.
+The variables are infinite.
+Variables are infinite.
+And that's what I mean when I say we can't model the world as a whole.
+We can model elements of it.
+And this is what I mean to say, techne, as Aristotle put it, was a completion of nature.
+So where our imagination fails or our mind has not yet expanded to explore those new realms
+of knowledge, we can use technology to help us get there.
+So, you know, we've gone to the moon.
+Why?
+Because we now have fantastic computers that can help us get there and we can explore space
+further.
+But to say that technology is then going to replace human intelligence or substitute for
+human intelligence is really, it's an oxymoron because this technology actually depends upon
+human intelligence, creativity, ingenuity, without which it would not be able to flourish,
+develop and so forth.
+And so our trajectories are intertwined, but the human AI relationship needs to be reconceptualized
+and we need to put technology into the right context, into the right dimension.
+So, for instance, if you use an algorithm to determine whether somebody receives care
+or not, that is questionable from an ethical and a moral perspective because we are not
+able to model the whole of human existence, humanities, experiences and variables and so
+forth.
+And every individual is unique.
+So how can you say because of, you know, a few variables such as age or, you know, situational,
+let's say elements, how can you determine whether somebody is suitable for treatment or not and
+deny their experience and deny their knowledge of their own person, if you like.
+But that is actually what's happening.
+And you take it to the extreme and you have insurance companies tweaking the algorithm in
+a certain direction.
+So the machine looks somewhere and not somewhere else.
+And that person doesn't receive the care or the treatment.
+So there are good and bad uses of technology.
+And it is about the uses.
+So I'll take a step back.
+It's about the way you construct the technology, the way you use the technology, the form that
+it takes, the shape that it takes, if you will.
+And that is determined by us.
+Nobody else.
+I love that you say that.
+And I think a lot of people have used these words in different ways.
+And I think that's exactly why some people get turned on or off where it seems like,
+okay, she's just against technology.
+Or another person is like, oh, she's too much into technology.
+But I think this point that you make is something that's really happening now.
+And that we, I mean, just in everyday life, people who don't study technology and don't
+need to, and they do other things.
+It seems like, in my experience, that people assume that AI is smarter.
+And they don't understand that the reason it's smarter is it's just got more access to
+more human sort of input.
+So it's not that there's some kind of magical thing happening that gets confused with consciousness,
+I think, that the AI is somehow creating some smarter being.
+But it's more that all, it's like you just put all the stuff into it, and then it's going
+to kind of regurgitate that to you in different ways.
+But the responsibility is still with what went into it, which is human.
+Somehow there's a kind of blind spot there that people just ask the AI, and they think
+the answer is going to be right or smart.
+They don't understand that the ultimate responsibility is still based in us, you know, not that we
+can just ask the machine and then do what the machine says.
+And we don't have the responsibility, because it's somehow smarter.
+Does this make any sense?
+Well, I think that's where the cookie crumbles.
+You know, we've anthropomorphized artificial intelligence.
+It's artificial, but it's not intelligent.
+It's not a human, but it's made to look like a human.
+You see robots, you know, dancing around and doing backflips.
+And so, I mean, this idea that we can replicate ourselves through artificial means is nothing
+new.
+I think in my research, you know, even as far as we've discovered so far in pre, I mean,
+sort of ancient Egyptian civilization, there was some sort of a robot thing going on.
+I mean, and perhaps even before, maybe we just haven't discovered, you know, our imagination,
+you know, where it took us in the past.
+You know, we're still learning in that sense.
+So, first of all, you know, we don't have complete knowledge of everything.
+We know a lot.
+We know enough about a lot of things.
+But that is very different than saying, we know everything.
+We don't.
+And I think that's partly, you know, because that's why we're human.
+You know, that's why we have human intelligence is that we are on a quest for meaning.
+And that is a lifelong journey.
+And it is a generational and intergenerational and a millennial long journey.
+It's nothing that's going to end tomorrow.
+And if we knew everything, we probably wouldn't be around anymore.
+That's a big part of your, you know, in your writing, too, that it's dynamic.
+It's a process.
+That's why you can't model everything, because as soon as you put the model out, everything has changed.
+And you've only been able to take in certain elements.
+So whatever data is available to you and then, you know, what is the quality of that data?
+Where does it come from?
+So, you know, I think the when you're in a scientific environment and when you're in the laboratory,
+that is fantastic because you have very competent people, highly trained.
+They understand what they're doing and they know how to interpret the model.
+But when you suddenly throw that out into the, you know, wild, as they're calling it,
+and ordinary people come into contact with this thing that looks like it's a human because it
+speaks in natural language, but it actually doesn't speak and actually doesn't communicate.
+And it's not really natural language.
+It's just a pattern matching service from, you know, some sort of statistical database,
+which happens to put forward tokens, as they're calling them, that look like you and I are
+speaking, but it's not really happening.
+It's just some sort of a statistical inference combined with probabilistic analysis.
+And then comes an output which looks realistic, but it isn't.
+So when you take all of that into account, what we're actually doing is compressing, condensing,
+repressing, oppressing human intelligence in a kind of a way, because we're conditioning people.
+So there's a big difference between acculturation and enculturation.
+Enculturation is the good stuff, the exploring stuff, the discovery stuff.
+I'm learning because I'm a human being and I like to find out new things.
+The other side of it is acculturation.
+You're a human being.
+You must do what I tell you to do in the way that I tell you to do it.
+And this is the machine talking.
+Well, you know, there's a problem with that.
+I've oversimplified it.
+But so people go to work and they don't feel fulfilled.
+They are asked to carry out tasks or do jobs, but people don't want tasks and jobs.
+They don't want to be atomized and disintegrated into things, automatons.
+You know, the assembly line has ruled for a long time.
+So if you go back a little bit further, pre-scientific revolution, there was an exchange of ideas
+across the world.
+And even if we had less mobility, I know that's one of your interest points, somehow we managed
+to find a way to get the ideas to flow across the world, philosophy, science, humanities,
+whatever it might be.
+Post-scientific revolution, something changed and then you get to the industrial revolution
+and you have the agricultural revolution in between.
+And then things changed dramatically because all of a sudden mechanical means were to replace
+human capabilities.
+And that has just kind of come to a crescendo now in the 21st century where the new version
+of those mechanical means that replaced the power of human capability has turned into this
+thing called AI and it purports to replace the human mind, but it cannot because we don't
+know how to define the human mind.
+And it's not something that one can say is localized within, let's say, the human skull.
+I mean, there's a brain and some people will argue that, you know, the brain is the mind.
+And I will say differently, it's not.
+Look at literature, look at, you know, the existentialist literature of the 1960s and other
+areas that you can look at.
+It is impossible to define the mind.
+And the point is, whether you go at the mind through science or whether you go at the mind
+through, let's say, humanities types of subjects, such as literature, for example, or philosophy
+and those kinds of areas, nobody can agree on a definition of the mind.
+And that is to say, it is something that is bigger than us.
+I mean, we all have an individual brain and an individual mind, but there is something
+collective about it, too.
+That's why we are so intertwined.
+And that is the collective consciousness.
+That is the real power.
+That's where knowledge, you know, is stored, if you like, and is passed on in generations.
+And so some people argue it's culture, it's passed on through culture and, you know, telling
+stories.
+That's why narrative is so important for us.
+And I don't think we can assign the art of creativity to a computer by definition, because
+a computer computes, calculates.
+And art is something else.
+It's something that is much more chaotic, much more free, much more natural and organic
+and animate.
+You know, it comes from inside, deep inside of you.
+Maybe it's a place called love.
+I don't know exactly how to define it in a computer.
+It's mathematical.
+It's calculated.
+It's computation.
+It's a whole different thing.
+And you can't compare the two.
+An inanimate object, an empty vessel produces an output is very different than a human being
+with all of their essence, sentience, intelligence, consciousness, imagination, intuition, all of
+the things that we talked about, senses, the sensuality that you mentioned, all of that, which is not
+definable, it's intangible.
+You can't locate it somewhere.
+You can't say it's a phenomena.
+It's not physical in that sense.
+You can't compare the two.
+It's very different.
+Let's hold on a second here, because this is, you said we can't, we can never define mind and
+cognition.
+And I agree with you because of it is dynamic and it's always changing and it's not located
+in an individual, it's a relational process.
+I'm just speaking from my own kind of feeling.
+But at the same time, I think part of the problem is that we haven't really thought much
+about what mind and intelligence are outside of a computational way lately.
+Coming from philosophy and neuroscience, I mean, computational approaches have been, you
+know, wonderful in many ways, in the same way that the creation of computers have been
+wonderful in many ways, and they're all intertwined, starting with Turing and all of this.
+But we have started to think of, a lot of people have started to think of the mind as
+the brain and the brain as a computer.
+And that's something that's become every day in a weird way.
+So in that sense, I almost think that we aren't, we can't define mind and intelligence, but there's
+a kind of underground assumption that not even, that's not even thought about much anymore,
+that brains and minds are synonymous because of all of this, and that they work something like a computer.
+And that's why we trust the computer weirdly, even though we're putting all the input in, as we discussed.
+So for me, too, I mean, this is why I've worked with phenomenology and embodied cognition and ecological notions, because there's something about all of that richness that is mind.
+And it might be part of this confusion that we now think AI is going to be human.
+I mean, there's a weird looping going on there.
+Well, not unless you're going to become a toaster, no.
+If you're going to become a toaster, then yep, it's going to be superhuman.
+That's what I want to be, a superhuman toaster.
+That's what I really like.
+No, I mean, I think we human beings are a bit more than just a bunch of task kind of completers, if you like.
+So I think that's where the problem lies.
+It's that we are no longer comfortable, or some of us are no longer comfortable thinking, reasoning, exploring, debating,
+critically thinking about something.
+So in this world at the moment, if you say something that is contrary to mainstream dogma, I'll put it like that,
+well, you are cast out of society.
+They call it cancel culture.
+If you say something that is not the norm of how things are spoken of, again, you're not listened to, you're not heard.
+And actually, that's a huge mistake, because you can't have a stakeholder economy or a stakeholder business or any kind of organization where voices are heard if you don't hear and listen to people.
+And it doesn't matter what you do, but people are, you know, complex, you know, there's a messiness to it, there's a chaotic order to it.
+But there is nonetheless an order, and I think we've lost sight of the art of leadership, we've gone scientific about it, but you can't put people in boxes, you can't categorize people.
+You can't limit their abilities if you do, and you use algorithms to, you know, uberize, let's say, there's this term now that's being used, to uberize the economy.
+If you do that, you will have no economy, because you won't be doing anything productive.
+You're just going to be remixing, regurgitating, useless objects, nobody wants, and creating more waste.
+So I've exaggerated, but the point is, that is what is happening at the moment.
+We are not creating anything of value.
+And to create something of value means that you have to have values.
+So what are our values?
+And that means you have to start thinking more critically about what you're doing.
+So if you're running a business, you need a vision, you need a purpose, you need a strategy, you need a culture that is vibrant, and that is multifaceted, and that continues to evolve as your business develops and grows.
+After all, what is a business?
+It is a social entity.
+It's a bunch of people, a bunch of human intelligences, if you like, let's put it like this, you know, that have social intelligence, and emotional intelligence, and cognitive intelligence, and their potential is infinite.
+This is the point that is always missed.
+Human potential is never, ever valued sufficiently.
+But it's a necessary thing to do right here and now.
+Because if we don't, then we have machinery dictating to us what the contours are of our world.
+So I think we have a choice that we need to make.
+We like to have tools that can help us learn.
+As you mentioned earlier, you can model a reality, and you can learn something from it.
+But you are interacting with a tool, and it's helping you to understand something.
+But you're not taking that as, you know, the oracle of truth.
+You're using that as a part of a learning process.
+But the learning process belongs to you, and you take ownership of that.
+What we can't do is seed our agency and our autonomy and that learning process that I'm trying to describe here to a mechanical tool, an object that cannot understand the human form of natural language.
+And that sounds like a big phrase, but I've had to put it like that.
+It's the human form of natural language, not the mechanical form, not the reductive mathematical formulae that I use.
+I mean, Shannon's cryptography was very much about reducing to the absolute minimum the elements to be transmitted.
+That means that, you know, the nuance of language, the layers of meaning, the richness, the complexities of culture that go into my use of language or your use of language, and it is idiosyncratic.
+Each of us perceives and feels and expresses language differently.
+That is lost.
+That's what they call informational entropy.
+But we can't recover it through machinery.
+And that's what we're trying to do, which is a bit of an oxymoron.
+So where can we use the machinery successfully, beneficially?
+And that also means profits, by the way.
+When I say beneficial, it means profits, too, because, you know, the world works on a money system at the moment.
+So we need that.
+But how can it be of benefit to people and planet?
+How can it help us to enhance our surroundings, elevate human knowledge, rather than destroy the very capabilities that are essential for this technology to continue?
+So that's the paradox.
+So there's so much in there, but to get at international relations, when you were studying that, to me, that sounds like organizations, businesses, political groups, large groups of people working in ways that we used to think of as almost like machines.
+I want to understand, like, what that learning process was like, because I feel like it's informing a lot of this.
+And it's actually part of this shift of how our models now are kind of broken.
+And we need to reevaluate them through the lenses that you present in the book.
+International relations is really about human relations, but it's taken at the macro level, if you will.
+So we look at human history, we look at politics, we look at nation states and their behaviors, we look at, you know, wars and how they come about, and also the mechanics of war.
+I mean, one of my papers was actually on mechanics of war and trying to understand that kind of strange logic that goes into wars and the destruction that comes of them.
+I was actually at the Hopkins when we were in the midst of the Gulf War, so the Maastricht happened, and the Gulf War happened, so that was quite interesting.
+Those are two of the papers that I did.
+But everything that is at the macro level in terms of human relations or international relations, I mean, if you take a big step back, whether it's arts, humanities, or sciences, it's still about people.
+We're still, you know, on this quest for knowledge, but we're just looking at it through different disciplines.
+The scientific revolution made everything quite, put everything on a trajectory of reduction, you know, let's reduce everything to the simplest form, the atom or whatever.
+But this atomization of life, if you will, is problematic, because not everybody is prepared or well-versed in how to understand science, okay?
+And so it's not necessarily instinctive or intuitive for many people.
+And so that means that when you translate science into technology and you use technology to inform people's views of the world, it becomes quite reductive.
+And it becomes quite dangerous in that sense.
+International relations is much more expansive because it was a global view of the world.
+And so, yes, I do have a bias toward a global view of the world.
+I couldn't put everything into the book that I've learned along the way, but I tried to pick some indicative examples.
+But, you know, fundamentally, when you take away the politics and you take away the constructs and you take everything, you strip everything back, we are all people.
+And people have this need to survive.
+It's about self-preservation.
+But I don't mean that in a selfish way, in the way that, you know, homo economicus is depicted.
+You know, we're not rational agents, self-interested.
+You know, I mean, there are a few people who behave like that, but that's not everybody.
+Most people would like to have a nice life, you know, and experience some quality experiences in their lives, to put it in this way.
+And they can be very simple things.
+And I think, you know, you mentioned earlier about COVID.
+COVID was a huge wake-up call.
+And the hope was that we would all wake up to reality and say, we need to do this differently.
+We need to grow the economy differently.
+We need to grow.
+And we need profits.
+And we need, you know, capital kind of growing, because otherwise there's nothing to finance public services or healthcare or whatever it might be.
+So we need to grow.
+But the point is how, which is where I begin, you know, vision.
+Vision, in human terms, is a very complex system, and it is sensory and all of those things.
+And it connects our whole being to our environment and to others within our surroundings.
+Computer vision is different.
+Computer vision, you know, pattern matches, you know, a cat looks like a cat.
+But to learn that a cat looks like a cat, it takes how many examples?
+Whereas human beings get it instantaneously, and we know that if a cat is a cat, it's a cat, without you thinking about it.
+We get it through our development, which is a completely, like, I think you are showing that learning is different between a human and what we think of as learning in a machine.
+And also that learning is what we need right now, a cognitive shift as humanity.
+But this international relations, the reason I keep bringing it up and thinking about it in this group dynamics is because I feel like there's a connection.
+You show this historical way that things have moved socially, and it's almost as if we've become more internationally related and connected, also locally.
+But there's been this, I don't want to speak linearly, but it does feel like, you know, it could be nested, a nested way that this happened too.
+But we've become more, obviously, more aware of one another, more able to, there's more information if we want to look for it.
+But there's more international relations, so to speak.
+And in that kind of, it feels overwhelming, I think, for humans, for all of us, if we're in a company, or if we're teaching in a fifth grade class, or if we're working at the mall.
+I mean, like all these jobs now, it feels so overwhelming that we do look to technology to help us because we're all humans still.
+You know, that's the point, but being human is also being fragile and vulnerable, and in the same way we can't model everything, we also can't be everything that we see around us, but we feel like we are supposed to or we have to be.
+Whether we're a corporate leader, a CEO, a board member, a teacher, whatever we are, there's that pressure now.
+And I'm trying to relate these because I feel like that expansion of relation to the acceleration, and it's also overwhelming.
+And I can understand why we have gone to try to technology to deal with it and why there is value in that.
+I mean, you said we're not creating anything of value, and I'm not sure.
+I think we are creating things of value, but we're not using them in a way that's valuable or something like that.
+Yes, exactly.
+It's not, I say in the book, I think beneficial ends.
+It's very difficult to articulate very quickly the complexity of the subject.
+But what I mean when we're not creating anything of value, what I mean is that everything is about market price.
+You know, I'm thinking more in business terms here.
+Determined by the market price rather than the intrinsic value of something.
+So a company has extrinsic value, which is measured by market price arguably, but it also has, and this is what I'm arguing in the book, intrinsic value, and that is its people.
+So if a company, if an organization knows how to leverage the full potential of its people, it will be any company hands down.
+And the overwhelming part that you mentioned is because we are being pressurized and forced to absorb all of this knowledge and all of this expansive opportunity that we now have through technology in a way that we don't have time as humans to absorb it in our human pace.
+And that is something that is worrisome.
+Not everybody has the capacity to think quickly and act quickly and absorb it and take it in their stride.
+Some people do feel overwhelmed, but the solution is not a machine that tells you how to answer in a culturally appropriate manner.
+The answer is you allow people to discover through their own human interactions what the right thing to say is and do.
+That's how we evolve as people.
+So international relations actually does have a big part to play in this.
+At the macro level, we would like to see some sort of internationally agreed governance structure, which says that, you know, here is the limit.
+Here is the red line, for example, in the military domain or genetic engineering domain or other problematic areas, which are questionable from an ethical perspective, but also from a moral constraint and restraint perspective.
+That must be agreed internationally.
+So international relations have a big part to play.
+On the micro level, it's really no different.
+If you go in an organization, whether it's a for-profit business or not-for-profit business, it is made up of many different people who now have, through technology, access to many more different people around the world.
+And so that's why AI is a global phenomenon, and you can't localize it and regionalize it the same way you might have done with other technological revolutions.
+So I think, you know, one of the biggest changes was when we started to have steamships, right, and people started to travel, and then you started to get something called mass tourism, around about 1870s, I think it was.
+So that vortex of change, you know, was something that we've managed to navigate, but now the pace of change in that vortex of change is, in fact, exponential.
+In that sense, yes, technology is moving so fast, it's very hard to stay on top of all the developments.
+But, for instance, all of the studies I've seen with regards to alignment or misalignment, therein lies the danger.
+And that's, I go back to the point I was making earlier about acculturation and enculturation.
+Culture is not something that grows on trees, the same way money doesn't grow on trees.
+Culture takes time.
+It's a process.
+It's an evolution.
+And as you, to your point, the more access we have to many different types of realities, the more time we need to think things through and to be critical about our thinking and our reasoning processes, so that when we do absorb the new knowledge, we can absorb it with cognizance, you know, with sentience.
+Yeah, reflection.
+And the Huxley, you talk about this reflection, and consciously and deliberately, you know, this is very fascinating because, in a way,
+it seems like technology in early years sort of freed us to have time to deliberate, to think, to create, to write books, to do philosophy, these kind of things.
+And when I say us, I mean, I'm speaking in a weird way.
+But in general, we could think of technology as opening up space for consciousness and deliberation.
+But to your points that you were just making, I was thinking, okay, but somehow we've gotten in this.
+So it's not just that technology is one part of society anymore.
+If we look at late 1800s to now, the focus, it's not that technology is only a tool, a thing that we use sometimes.
+It's become so ubiquitous.
+And that plays a very big part in the way it's sold to us from the companies who are making money from it.
+Not even one person or one, like, bad person.
+But there's an inertia that is developed where you try to create technology such that it almost takes the attention away and takes the space of consciousness and deliberation away.
+We have this attention economy.
+And so there's a weird thing that's happened where the technology itself is now being designed to fill the space of the consciousness and deliberation, which is exactly the problem that we have with technology.
+Exactly. It's a vicious cycle. It's a feedback loop that has been orchestrated by some detrimental ideological stances.
+Let me put it like this. I think the acronym that is used is the acronym that is used is Tez Creel.
+So you hear of things such as transhumanism and you hear things such as effective altruism and super alignment and such things.
+That is dangerous territory.
+But to be fair, that too is very complicated because a lot of people come at that from many different paths and it's not meant only the way that it's portrayed in different ways.
+So that too is very complicated.
+But I see what you mean.
+There's definitely a lot of movement towards something like overcoming what is human with what is technological.
+All that is messy, too, but even within just like even if we set that aside, just that we no longer know how to be with ourselves in a room consciously and deliberately.
+Right. Because of all of this, in a sense, it's hard.
+I mean, for a lot of people to.
+Be reflective and be with themselves and the technology, it doesn't help, but it feels like it fills that space.
+It's a bit like a drug in that sense.
+So it is very complicated.
+None of this is simple.
+But let me just say this.
+I don't know of any technologist or scientist who set out to create something harmful or something bad.
+That was never the intention.
+But there is my point.
+Human values and human intentions are complex and very hard to distill and envelop in a computational environment.
+That's what I mean about, you know, you can't model everything.
+And so when we talk about meaning, even meaning emerges over time, for example, I will read a book today and I'll read it again tomorrow or the next day and I will get something different because my thinking is evolving.
+I'm absorbing something and I'm thinking about it and I'm developing at the same time.
+The art of writing, the physical act of writing is in itself a formative experience.
+If all I do is press a button and the screen tells me something, that is not the same.
+So we have a situation now where if I look at children today, their handwriting is underdeveloped.
+I think when I was seven or eight, which is probably showing my age, but I was doing Shakespearean italics, you know, perfectly beautifully crafted italics.
+It was developing a part of my brain because we had to do calligraphy.
+Now, all of these things are gone.
+You know, it was I had to, you know, it was part of my education.
+Today, maybe I would choose to in the sense that it's a formative art.
+And, you know, if we don't have, let's say, cognitive development and we don't have manual dexterity as part of our learning experiences,
+and I include work in that, I don't say tasks or jobs as they are defined in the, you know, AI field.
+I say work because work is an edifying experience.
+It is part of our human dignity.
+It's part of our identity.
+It's part of our self-worth.
+You can't take that away from a human being.
+You can't replace that with universal basic income if we want to talk about it in economic terms.
+That is detrimental to society and to human progress, and I would even say to human survival if you think about it.
+Absolutely, because it is to your point, too, about the difference between embodied human intelligence and what we think of an artificial intelligence,
+because the body develops as you come into the world and you develop your patterns, and that is your intelligence.
+And it's all this embodied action.
+It's doing the calligraphy, for example, but it's having the conversations.
+It's reading the books.
+It's you're learning these patterns so as to make your way through all that you encounter.
+And if you're somehow just relying on the technology to generate those patterns, there's not a survival.
+There's not a resiliency that builds up through your development.
+What is it about that process that's so important?
+What is it? Why do we not? You just gave a great example of just if you haven't read the books or whatever and you just get the answer,
+you're not really learning anything. But why does that matter?
+I know it matters and you express it in the book in different ways, but it matters deeply and profoundly.
+We wouldn't be who we are if we didn't write, create art, invent tools.
+In whichever way we express our humanity, our essence, we are able to move beyond the limitations of our immediate environment and surroundings.
+And what technology is doing in the adverse sense is somehow restricting, constraining, limiting our experiences.
+Because if we rely upon the patterns that are generated, remixed, regurgitated, shall we say, by mechanical means,
+then we are not participating in an expansive universe.
+Arguably, the universe is an expanding entity, for want of a better definition.
+It is infinite. We don't know, but we think it is because we continually want to explore it.
+And, you know, through the ages, we're trying to understand it.
+And so that's why we invent all these things from religion right the way through to new philosophies.
+But fundamentally, I don't think our quest for meaning will ever be satisfied or our thirst for knowledge or our curiosity will ever be quashed unless we deny ourselves the opportunity of exercising human agency and human autonomy.
+And then you take that into the legal domain and it's called civil liberties and human rights and, you know, it takes on a whole new dimension in this world because we are now talking about protecting the human mind.
+So the exploitation of human data, the commodification of human beings is plain for all to see.
+The problem that we have with technology, because of its technical limitations, is its application in critical settings, ranging from health care, education, employment to criminal justice.
+So when we take it down to real, everyday living and lived experiences, it is very problematic due to the manner in which it is constructed, the form that it takes, the uses that are made of it and the competencies that are lacking.
+They are lacking mechanically in terms of abilities to do something and technically there are limitations.
+And so that's why we have this endless form filling going on in absolutely every aspect of our life.
+But this oversimplification, this binary codification of a human being somehow, that's what's happening, is very reductive and is very dangerous for humanity's own survival because we'll end up making the wrong decisions.
+And our space for choice is being reduced all the time from the surveillance economy, as it was called by Shazana to, you know, quite pernicious, I would say, and restrictive practices in the workplace where, you know, a Uber driver is, you know, they play games on the psyche of, you know, human vulnerabilities are exploited to tell the driver to go to this corner or that corner and then there's no customer.
+There, because they want them to work longer hours, that is exploitative to the extreme, it doesn't cost the company much, but it costs the human being very much.
+So then you look at the knock-on effects, ill health and mental problems and so on and so forth and we haven't got enough resources and there's not enough money for healthcare and all these sort of things.
+So if you think about it as a whole, and here international relations come into play as well, I don't think we can resolve the so-called intractable problems at a national level any longer or regional or local level any longer when we are dealing with something called artificial intelligence.
+Because, you know, this arms race that is going on, it's not just in the military sphere, it is in every sphere, and I think that's new, and we don't quite know how to deal with it yet.
+We're trying to learn, we're grappling with all these kind of different challenges.
+I don't think we fully understand them yet either, and so maybe on the one hand we have a simplistic dichotomy between the superhuman computer and us little beings that are so inefficient that we can't compute as fast as.
+But what is the superhuman computer computing exactly, I asked myself that question.
+Is it relevant, is it pertinent to me as an individual or to society collectively, and where are we actually heading.
+And I think you've got to ask those questions, those difficult questions, and you've got to try and figure it out to find your purpose and see how to use the technology in a good way.
+So I'm an advocate of creating good technology and using it in a good way.
+Yeah, towards flourishing and transformation in the good sense that you talk about.
+Yes, transformation, going from one place, which is maybe suboptimal, to a much better place.
+Right.
+That's my hope.
+Not like transformers, not like transforming into...
+No, that's not my idea of technology.
+I agree with all of this, and at the same time, I know some people are hearing it a bit differently.
+And so I guess, you know, what you say is so true that we can't rely on artificial...
+Let's just...
+Like, we can't rely on artificial intelligence.
+We can't rely on...
+Even though we've made these wonderful tools, which can be helpful, and there's a lot of value in them.
+When it comes to something like...
+You said healthcare, I think.
+So if I'm a doctor, or I work at a hospital, I, of course, need technology now.
+There's a lot of value in that, in keeping track of a lot of data, in finding patterns in the way that AI does,
+which is really just looking at tons of data in kind of different layers, and finding the patterns in it,
+you know, which is all very...
+There's nothing superhuman, wonderful coming out of that.
+It's just kind of regurgitating from a really big pool.
+So we can think of it as, like, a really...
+Like, a water source.
+But if human activity were to stop, that water source would also be finite and would be gone.
+So there's not some kind of thing feeding the AI that's not feeding...
+That's not human.
+Okay.
+But if I'm a doctor, a nurse, whatever, I need this.
+But what you're trying...
+What you're pointing out is that if we just start thinking,
+Okay, well, that limits...
+That finite source is being fed by something other than humanity, so I can trust it to...
+I can just trust that and not think of it in human responsibility or in terms of that that needs to constantly be questioned and improved and that there need to be checks and balances on that system.
+And that system needs to evolve.
+If I just trust it, then I'm probably going to use some data that's been sourced from a particular pool that includes a very small percentage of what is actually the case.
+Because as you were saying, we can't model everything.
+We're only modeling...
+You know, those are just data from a very small pool.
+And so when I'm going to try to help someone and prescribe them some medicine or say what's wrong with them, I could cause real harm if I'm not taking into consideration all the new variables that are unique to their situation and who they are, which aren't going to be in that AI, right?
+So it gets so nuanced, but it's so important and it's in every little decision of our lives that there's so much nuance to every human coming into that situation that the data just cannot represent because no one's like you and no one's like me.
+We have our own development and that has to be accounted for and it can't be from this finite pool, right?
+I'm trying, but what does that...
+Well, this is the point.
+So when you have aggregated data, it's exactly that.
+It's aggregated.
+So you lose the signal, if you like, of the individual.
+So if you take that in a healthcare context, which is, you know, apropos at the moment, you can identify trends.
+For instance, you can identify which environmental factors might influence the development of cancer, for instance, or diabetes.
+That's one thing.
+It can give you useful background information of a population, provided that you have good sources of data, qualitatively, you know, verified, not just quantitatively, but qualitatively.
+But the point is, the way that we are collecting data is qualitatively deficient.
+It is only quantitatively efficient, arguably, I would say.
+It's metrics, but it's not the actual experience.
+For example, I might ask you a questionnaire of different things about your unique experience.
+That's not in the data.
+You don't, that's not quantitative.
+I'm only given a choice, a binary choice.
+It's black or it's white, but I'm not black or I'm not white.
+And when I say nuance, I also refer to a deeper level of meaning.
+That detail is important when it's a life and death situation.
+So, for example, if I am a medical doctor and I have data to substantiate my giving somebody drug A or drug B, just because I have data to substantiate my selection of drug A or drug B, if it is not relevant to the person's condition or the data is wrong, then I will cause harm.
+And it's happened already.
+So, also, if you go one step back, the development of drugs, it's really good that we got the vaccine so quickly for COVID.
+And it's really good that we can now jump through hula hoops, which we couldn't do before.
+And now we have the technology to help us.
+But you still have to have checks and balances and you still have to look at the individual.
+So, I think we risk losing the art of communication, which is a human form of the use of language.
+And it's not a mechanical form.
+So, if I'm communicating with you, that means I am actively listening, hearing, understanding, trying to grasp the nuance of what you're saying, what you're driving at and how you're coming across and so forth.
+I'm thinking a ton of things whilst we are speaking and it's all instantaneous.
+That is not computation.
+It's something more than computation and you can't really exactly explain it.
+That's why we have such a hard time with what they call model interpretability or model explainability.
+So, where I know how the machine works inside and where I know how the output has arrived.
+Those are two different things, but we can't explain it.
+So, there's all this scaremongering going on about loss of control and superhuman computers are going to take over the world and all the rest of it.
+I don't believe that because, first of all, they don't have intelligence.
+I think Lacoon came out and said, you know, it's no more intelligent than a cat.
+No disrespect to the cat.
+But we haven't figured out how human beings learn yet.
+There are many theories, of course, but look at the way an infant is born into the world.
+Arguably doesn't know anything, but all of a sudden starts walking, talking, absorbing information like, you know, the most efficient computer that we could ever imagine, if you want to put it in that frame.
+Or nothing like the most efficient computer that we could imagine.
+That is magic in a kind of way, because how does the child suddenly learn multiple languages, understand the environment,
+make certain questions, you know, whatever it is.
+That is the kind of pre-reflection that then becomes something like deliberation.
+But it's what the body does.
+It's what life is doing.
+That is life.
+And that's not what a computer or a machine is doing, but we have confuses.
+And so, if we have these amazing tools alongside us, imagine what more we can do.
+So, you know, when I was a child, I would go to the library and maybe read books and that sort of thing.
+Then I would ask my teacher and so forth.
+But that human contact is what we risk losing.
+And that human connection and to your point of value, that reflection, that moment to ask your own questions after you've read something and then maybe go and clarify that with your teacher or your classmates.
+We lost that during COVID, and it has hindered the development of many children.
+Yeah.
+And you hear university students say it.
+You hear, you know, higher education, you know, people going through those formative years say it.
+You hear younger children say it.
+They were very disoriented.
+Call it a social experiment, not one that we want to repeat.
+So, we don't need to live our lives in some sort of synthetic multiverse environment.
+We need to live our lives whereby we can connect with others, our environment, our surroundings in a natural, organic manner on the one hand.
+And at the same time, when we need to, how we choose to use these amazing tools to help us carry out particular tasks.
+There, I would say tasks, because the machine is good at doing some things, but not other things.
+So, if, for example, I'm a researcher, and I would like to try to identify some trends, and I have been able to verify the source of the data, validate its quality, and so forth with particular, let's say, methodologies.
+They're not foolproof, but, you know, there are some good methodologies out there.
+Then, certainly, it can help me advance my thinking to advance my research.
+But what we can't do is substitute for my thinking, and my reasoning, and the hard work that goes with us.
+And we don't want it to, do we?
+I mean, I think we've confused that, too, as you, I don't know about you, but what are the meaningful moments in your life?
+Are they when you got an answer from AI?
+No, I mean.
+I'm sad to say no.
+The meaningful moments in our lives are, you said the word connection just a little bit ago, and I'm really glad you brought that up, because we, I think the AI and the technology often substitutes, or we use it to connect.
+But the real thing that matters is the connection with our world, like with living, the living world, living humans.
+And the technology is pretty meaningless if there's not something on the other side of it that we're imagining is living, that we're connecting with.
+Even if we're imagining that thing is living, what we've done is confused all the living that went into the algorithms making it with the thing itself, which is understandable.
+But what we want is the living connection.
+Those are the meaningful moments in life.
+That's the fun stuff.
+Yeah, that's the fun stuff.
+We want that, right?
+Or new ideas and going to new places and meeting new people and whatever it might be, and learning new sports or becoming an athlete or becoming a great cook, whatever it might be.
+I'm feeling like you were challenged and you went through that challenge, that you've, you know, all that richness, not just having it answered.
+I'm satisfied with an answer.
+Yeah, I mean, there are no final answers.
+I mean, that's part of it, too, is that journey, you know?
+Just, you know, what is face value?
+But that's my point.
+You know, we are being reduced to taking outputs, data outputs.
+They're not even answers.
+They are data outputs at face value.
+And unless we understand how those data outputs are arrived at, then we risk making the wrong decisions.
+And that is a real danger, and it happens every single day.
+I'll give you a silly example.
+Well, actually, not so silly, but a young girl went into a store here in London, and she was then barred from going to any store.
+She was a case of facial recognition gone wrong, i.e. mistaken identity.
+She was accused of being a thief, and she was none of those things.
+Oh, no.
+Now, if we have to prove our human identity to the machine and not vice versa, we have a problem.
+That's where I say we need to reconceptualize technology and our use of technology and how we construct it and where we deploy it and so forth.
+It needs to be thoughtful.
+We can use technology really well, even just the technology we have.
+And, you know, even if we were not to develop it any further, which, of course, we will, and we'll also always try to find better ways of making better technology.
+That's, you know, a given.
+But even if we were to stop at what we have today and we were to use it in a better way, in a more human way, we could perform magic and miracles in the sense that we could start to solve some of the most intractable problems that we have in society.
+We could, but we're not doing it, and that's, you know, very regrettable.
+It's a missed opportunity.
+So, you know, the opportunities that we have are huge, but we're not using them, and that's really silly.
+So I go to conferences, you know, I chair meetings, and I hear, you know, the technical teams, the senior levels struggling to identify use cases for generative AI, because how long does it take?
+To put in a prompt and put it in the right way to get some sort of an output that may or may not be right.
+I mean, it's a laborious process.
+So what we have at the moment is one gigantic human experiment.
+It's a laboratory.
+We are all guinea pigs.
+We're all being observed.
+We're all teaching the machines.
+But what are we gaining from it?
+That's an existential question.
+It's a very important question.
+So I just think we need to be more realistic.
+We need to just put things into perspective, be more pragmatic about it, if you wish.
+But I think also a little bit idealistic, in the sense that we need to recreate a static value also from technology, or derive it from technology, I should say, but not substitute with technology.
+That's the point I'm trying to make, which is a nuanced argument.
+And I know that not everybody is going to be in agreement, but that's okay.
+I mean, we should debate the point, too.
+Part of it is, you know, getting the debate on some level where it's about these issues so that people are thinking about them.
+Yeah, and I think a lot, to be honest, I think a lot of people are.
+And I think that even though we have this thing called ICT, information communication technology, we have lots of information.
+We have lots of technology.
+And I always joke, the sea has gone, you know, and taken a holiday somewhere.
+The communication isn't there.
+We need the sea.
+We need to bring the sea back.
+Right.
+Where's the sea?
+Well, that's this values-based approach that you, I mean, one way to bring the sea back is to get your book and read it, because, you know, that's what you're.
+And to create a socio-technical system with the emphasis being on the social, because if you start with the social need, or the human need, or the environmental need, that's what I mean by social, the big S, life.
+You know, life, you can create a technical system that facilitates aspects of life that we'd like to be facilitated.
+But you've got to identify what is desirable in technology, what is not desirable, what is acceptable, what is not acceptable.
+I mean, that is something that, you know, can be decided in a local level.
+So within an organization, you know, a company can decide where to deploy AI, where not to deploy is more important, actually, in today's world.
+Because we need to understand that we are losing our sense of safety and security at a rate that is something that we can't quite fathom.
+And that's why there's all this scare moment going on about loss of control, because arguably machines can do many things.
+Do they always produce the right output?
+No.
+Hallucinations.
+But what is a hallucination?
+It's a pattern mismatch, to put it in a simple way, but it's a bit more than that.
+It can be very misleading.
+And if people take that output at face value, it's dangerous.
+Yeah.
+I mean, if you Google someone and the AI tells you that they did something and you believe it, but a lot of times now it's a hallucination.
+They've created some kind of book or paper that fits very well with the person, but they didn't actually make it.
+And if you think of that kind of exponentially, what could happen with that?
+And yeah, for me, it feels like you're saying we need a shift.
+We're at a tipping point.
+You should, you say that.
+And it's very important that we take a minute, deliberate.
+What are we doing?
+What do we really want?
+What are the values?
+This becomes incredibly crucial for all of us.
+And it's not that the machines are going to take over the world so much.
+It's just that I think for me, it's the same human problem of that we're allowing things to be easily manipulated.
+And if we don't take a moment to realize that we can be manipulated, we're going to be manipulated.
+By whom and with what sort of intentions could be many different things.
+But again, it's going back to the human kind of potential for both harm and creation there.
+Yeah, and deception is going to be a big theme.
+It's coming up now.
+They're talking about it in terms of antitrust as well and competition and so forth.
+On the one hand, you know, some, you know, investigations going on, big tech companies also in America.
+You know, that's a bit of a kind of a blurred field, shall I say, but deception or the manipulation of information by algorithmic means, which is beyond our comprehension, because we don't know how the machine derives certain outputs in some cases, or the idea that you can have super alignment,
+which means an AI trying to become a researcher of human values to educate another AI, another algorithm, you know, to me, that's just not the right way to approach it.
+In my view, I don't think we can code ethics.
+I don't think we can reduce ethics to some sort of finite set of variables or set of rules or algorithms, no matter.
+And if you talk to some of the people who are very much in the field, they will tell you, we do not have the mathematics to complete the system.
+So we have complete systems and we need to recognize that.
+And if we recognize that, then we can start to build systems that are useful in certain tasks and deploy them in certain ways that we can control them.
+We are in command of the system. We can try to align the system towards human values and towards human intentions, but also intervene at the right time.
+So you have a complete monitoring, you know, kind of governance.
+It's continuous monitoring of the model pre-inception, pre-conception.
+If you'd like, you need to go through the hard thinking, then you need to ideate the model and design it and so forth.
+But it's a continuous process and you're continually checking to make sure that the model doesn't break or that it doesn't bring in erroneous data or whatever it might be.
+But then you've also got prompt injections, you've got malicious actors, you've got, you know, a ton of things, a ton of variables on top of that you need to think about.
+So it's not an easy process.
+So when I hear that the machines are going to be more productive, they're going to increase productivity or that they're going to increase value, I question that.
+Because value can be increased if you have human input without whom you cannot increase value.
+And you have to start with values.
+That's why I say we have to start with purpose.
+You know, Cynics talks about, you know, start with why.
+But I'm saying let's start with the purpose of what is the reason why.
+So let's make it a bit more complex.
+We need to do something.
+And then once we understand that and we are aware about that, then we embark upon our journey of discovery or exploration as to how we can create the tools that we need to help us achieve a certain task within a defined space.
+But it can't substitute for our intelligence, because if we allow it to, then we are in real problems, as we've been discussing all along, I believe.
+No, I think it's a really important message that we really need now and that people resonate with if they can think about it for a second.
+It's not saying we don't need technology, it's saying, let's think about how we can best use this technology to do these things like connect to, I mean, I'm trying to get back to that motivation.
+You know, in the book, you do talk about, you know, getting away from fear, from negative feelings, from self-interest.
+I mean, there are levels of this on our personal human everyday interactions that this is all connected to how we've thought about our values and how our technology and our interactions together and the way we use the technology are shaping our everyday lives and feelings and experience of life.
+We have this one life and, yeah, I mean, you're doing so much and you have to handle so much and you're working in all these powerful places and there's a lot of high stress, I imagine.
+Like, how do you keep your focus on that?
+I was going to ask you, because, you know, I think this book came out of COVID.
+I was going to say some good things did come out of COVID, right?
+Even with technology, but also with, you know, like writing this book.
+So there was a positive side.
+And so you had the time then, I imagine.
+And I guess just to kind of go towards the end, I wonder about like how you find your own poise and how you stay curious and keep learning, even though you also are one of these people who has to manage so much stress and data and information and ideas and people coming at you.
+Well, yeah, I mean, in the good old days, you would have an idea and then, you know, you'd be asked to go away, you know, in a business setting, for example.
+And, okay, you have an idea, substantiate it, come back and tell me how you're going to do that and why it's going to work.
+And that was fine.
+Today, you have data.
+So you sit at the boardroom table, you have an idea, but the data says.
+And so you're constantly fighting against this thing that is called data.
+But if the data is wrong, how can you prove it?
+You know, it's very difficult.
+And a lot of people don't challenge it, actually.
+And this is really where I'm coming from.
+So you need curiosity always.
+That's, I think that's just a part of us.
+That is, you know, adaptive resilience in each of us.
+You need courage too.
+You need courage to say, I'm not sure that's right, or I don't know this, or I don't understand that, or whatever it might be.
+You need courage.
+Courage is something that is being lost in organizations because you have all of the pressures, you know, stock market prices.
+Deliveries of impossible goals and targets.
+And they're all tactical things.
+They're not really strategic, actually.
+And that's part of the problem.
+And it's because there's a vision that is lacking.
+So when I talk about purpose, I also mean vision.
+You know, you can't think about the quarterly return.
+You need to think about, I don't know, the next 100 years.
+You know, how is your company?
+How is your organization?
+Whatever it might be, profit or not-for-profit, government or otherwise, it doesn't matter what it is.
+But how is your organization, meaning your group of people, your potential, your talent, your intelligences, and put it like that, human intelligence, how are you going to use it to make the world a better place?
+To make people's lives worth living, you know, and give them a better quality of life and give people hope and inspire people and motivate people.
+Because when you do that, you get the best out of people.
+So that means leadership.
+That means true leadership.
+And you establish trust.
+I mean, if I'm a leader and I say I know everything, I don't think I'm going to be very credible.
+If I'm a leader and I say, well, you know what, I'm not sure about that, let me think about it.
+I think I start to earn trust and it takes time.
+And then you take the company with you on that transformation journey.
+But it's not a binary decision.
+It is complicated, as we said earlier.
+It's also complex.
+And so I think as business-
+Complex is a better word.
+Complexity.
+But we need to understand what complexity is as opposed to complicatedness.
+And I think the better cookie crumbles is that we have a lot of complicatedness going on.
+So you've got a lot of systems upon systems and applications upon applications.
+But nobody knows how to get out the spaghetti junction, right?
+And it's a tabyrinth.
+And it's getting bigger and bigger.
+And people decide of actually what is worthwhile, what is meaningful, what is purposeful.
+And that's where the value lies.
+So if we orient technology towards the human values, the meaningful, the purposeful, the useful in that sense, and it's aligned with our intentions, then that's fantastic.
+That is the technology I would like to see in the world, where it is expansive in a good way, in a beneficial way for all of us and the environment, because you can't separate the two.
+So you mentioned earlier, taking more of an ecological view and an approach, which is actually a relational approach.
+Yeah.
+You know, the relationship between natural systems and human systems.
+And that's what I'm interested in.
+And that's why I looked at it from science and humanities, art, philosophy.
+I kind of brought all of these to try to understand what was happening, because I was writing my book in COVID, but also when ChatGPT came onto the scene.
+And so trying to get your head around that whilst you're putting the finishing touches was not an easy task, I will admit, but hopefully I was able to make some sense and put it into perspective so that business leaders, particularly the audience I was aiming at, C-suite boards and, you know, senior execs, you know, that they can think a bit more broadly, a bit more deeply about this because we all contribute to a system.
+It's a much bigger system than our own organizations.
+And if we think about it as the whole system, then we can start to make steps towards taking the right choices, making the right decisions and so forth.
+We can't just work in isolation.
+So, you know, I spent my life breaking down silos in businesses.
+So that means creating communication flows.
+I don't want to call them information flows because I've used that, but communication and instigating communication, which is necessary for change, right?
+And getting people to work together.
+That is so important.
+That is leadership.
+And you learn those skills by understanding human relations, by learning about human relations every day.
+It's not a given.
+And I think that's where many people make a mistake.
+They think that you manage people like you manage things, objects.
+You lead people.
+You inspire people.
+You guide people.
+You help people.
+You support people.
+In that sense, that's the role that also technology should be assuming if it is to help us.
+And the tasks that we assign to it should be deliberate.
+They should be conscious choices, not just, oh, let's have this foundation model and let's use it in any setting that we wish to use it because it's going to be fine.
+It is not going to be fine because it wasn't designed for that purpose.
+So I think it was Wiener who said, don't look at what the model could do or might do or would do.
+Look at what it does.
+And that's really what I'm trying to say about adaptive resilience in the technological or the infosphere or the modern world.
+And it is, can we please think about how we are going to make ourselves more adaptive and more resilient in the process of creating this technology to some beneficial end that is desirable for everyone.
+And I think that we need to move away from destruction.
+That is the bottom line.
+Yeah, to realize we're moving towards it.
+Which is the most powerful, for me, the most powerful emotion.
+And it's very much aligned with love, too.
+But hope is something that never dies.
+And that's why you end with hope.
+I was going to go there.
+The book ends in a very hopeful place.
+And for me, okay, here's, it feels like there's a kind of, something's kind of cracking or opening or maybe we're sort of turning a corner and there's sort of some light coming in.
+You know, you kind of mentioned it in these, there's a kind of refrain, even in this conversation a bit, where you do talk about how there's so much more possible if only we shift our vision a bit.
+This is a tipping point.
+And to me, I'm reading it through my philosophical lens, of course, but I feel like you're saying, look, we can think in a different way.
+We can open up how we're right now so limited by the way we think of the human and the technology and what's possible with that partnership.
+If we deliberate a little bit and reorient, then it feels like there's a kind of opening of a whole other possibility, which I don't think is only individual, but that's why I brought up this internet, these relations, international relations, business relations, because for me, those all seem siloed.
+And you just said you're breaking through silos and that is part of that excitement for me of what is possible.
+If we can connect differently together as humans, and if we can raise up what humanity means with each other, which is what we all want.
+Let's, you know, if we take a minute, that's what we want.
+We want to connect.
+We want to feel loved.
+We want to feel love.
+And it's in all these sectors, right?
+It's not just at home or by yours.
+It's in business.
+It's in everything you're doing with your life, you know?
+So that's how I feel like you're kind of cracking that open by the end of the book.
+Is that, how does that strike you?
+What do you, and this big word love, I mean.
+It's the quest for meaning, which for me equates to the quest for beauty, aesthetic value, all of those good things that makes us human.
+And I think that we need to embrace and own our responsibilities and our accountability towards each other, towards the world, the environment.
+You know, if we start to become human again, we can achieve so much more.
+So if I'm running a business, you know, I always take a very wide, broad lens, you know, sort of explore avenues that they didn't even think of and possibilities that didn't, and then you start to narrow it down.
+But if you don't begin with a blank canvas, and if you don't explore all these amazing things that could be, then how do you know what it is that you really want to achieve or where you actually really want to go?
+So it's about creating a direction rather than a destination.
+And the crafting of that is the most wonderful process and the most exciting process and exhilarating and fulfilling process, because when you get everybody on side and we're all pulling in the right direction, the same direction that we all want, which is what you've just said, that is the best feeling on earth.
+It really is, yeah.
+That opportunity.
+So we shouldn't let go of that.
+And I, yeah, and I don't think we will, and we didn't get to talk about it a lot, but I also just think for younger people who may feel pressured to go into certain areas of life, I know, you know, a lot of languages, I think, or it seems like you do, and you've read from a lot of different sides of humanities.
+And so I always think about waymaking and paths that we make, and as we were talking about this, the way we develop all the things we open ourselves to in this deliberative way that we've been discussing, that we read, that we study, the exciting things that turn us on and we follow those paths.
+Because I feel like reading you and imagining you in the high-powered contexts in which you work and the things that you've done, I feel like you bring that skill, that you've been able to see many different perspectives and parts of things.
+And so then you can open these silos because that's a real beautiful skill, not only for living a good life, but for helping corporations, politicians, whoever, international relations, all of this.
+And I feel like if you're a young person today, you want to cultivate that, don't you? You don't want to just give it to the AI.
+I don't think we should be afraid to fashion our own paths and craft our own paths in life. And I think we're in danger of losing sight of that opportunity. I think this conditioning I referred to earlier, we all do STEM, nothing against STEM. I mean, perhaps I should have done more STEM and I'm doing more STEM now than I do.
+Yeah, STEM is wonderful. Yeah. We're both in STEM, so nothing wrong. That's, yeah, that's great.
+I couldn't do both. They didn't fit in the timetable. It's a silly thing. But there is my point. Why do we have to separate everything?
+You don't, no. Yeah.
+You know, understanding the context of the evolution of science or mathematics or, you know, philosophy or religion or whatever it might be.
+We need a much more multidisciplinary approach to education per se. So teach children about, I don't know, financial management and AI coding and computing and things from a very early age so they understand it and they can put it into context.
+Don't bring them up only on some sort of connectivity, you know, or, you know, let's say artificial connectivity, which is different than human connection.
+That's why I try to differentiate the terms.
+Yeah, yeah.
+Very careful not to anthropomorphize myself.
+What is artificial connectivity?
+No, I like that.
+It's difficult because everything is so good.
+It is, I know.
+But connectivity, you know, through an artificial tool is one thing and that can be a good thing, can be part of the learning process, but it shouldn't substitute for the human connection, the real dimension, which is where we transfer knowledge.
+So I think in the 80s, there was a lot of talk about knowledge transfers and everybody got excited that IT, you know, was going to solve it or ICT was going to solve it.
+But in reality, we haven't solved it.
+As I said, lots of information has been generated, created, gathered, stored, whatever.
+There's lots of technology and it is evolving very fast and it's fantastic.
+But the C, we lost sight of, which is the human part, the communication part.
+And so if we can get back to that and we can reimagine education, reimagine the enterprise, reimagine government, its institutions and the social contracts, constructs and contracts, actually, there's two sides of the coin there, then we can build a better future.
+I really do believe that.
+And we have to believe that because if we don't have hope, then, you know, it's a very bleak and dark world that we'll be living in.
+And we don't want that.
+We want to see the light.
+So you go back to Plato and the allegory of the cave.
+We don't want to be dancing in the shadows.
+We want to be outside enjoying the sunlight.
+Don't watch the cave walls.
+Go out the door.
+Look at the beautiful earth.
+That's the human mind.
+We have that ability.
+And that's what I will always advocate for.
+Well, thank you for doing it.
+And thank you for your time and energy today, but also that you put into this.
+I know right now at times it might feel like quite a fight because you do have to be very strong and come at it in a certain way.
+And there is a lot of talk in the book about the tipping point and what's wrong and the problems.
+But there is hope and optimism, actually, is the message, I think.
+And I thank you for that, too.
+Thank you.
+I mean, it's been wonderful to speak to you today, Andrea.
+And, yeah, I hope that, yeah, there'll be other opportunities for us to discuss further.
+Is there anything that you wanted to say today that you didn't get to say yet or that anything that's on your mind, just whatever that you want to say before we?
+Well, just to leave people with this thought, that technology is neither good nor bad, but nor is it neutral.
+And that is not my phrase.
+That is a phrase.
+I can't remember who said it, but I think that is quite meaningful and quite powerful.
+And if we start to reflect on how we use the human form of natural language, choose our words carefully, use our words carefully, we can communicate and we can change the world.
+All right, let's get to it.
+Let's do it.
+Well, thanks for everything.
+Thank you for today.
+It's my pleasure.
+Thank you very much for inviting me.
+It was beautiful.

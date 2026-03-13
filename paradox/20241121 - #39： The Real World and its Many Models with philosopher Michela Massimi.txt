@@ -1,0 +1,1030 @@
+Hello everyone, welcome back to Love and Philosophy.
+This episode is with Michaela Massimi.
+She is a philosopher who wrote one of my favorite books, Perspectival Realism.
+She has also written many wonderful papers about perspectivism that are very important
+for my research and that relate to navigability and waymaking.
+There are other words for this idea of perspectival realism, perspectivism, epistemological pluralism
+is close and connected, also realist metaphysics.
+Honestly, there's a whole history of situated knowledges and different terms that relate
+to this idea of what I would say is a path through a landscape that is unique to each
+person making their way through that landscape.
+In any case, in this episode, we talk about it from a perspective of philosophy of science
+and how these ideas relate to rethinking the dichotomy of realism and anti-realism or the
+problem of the plurality of models and how maybe that might not be a problem, it might
+be okay to have many different models.
+How might we be realist and pluralist?
+How might we believe there's a real world out there, but there might not need to be
+only one correct model to describe it?
+Many different models could be possibly helping us to understand that world, but at the same
+time, those models have to be rigorous.
+They have to be able to withstand criticism and observation of their parts.
+So it's not just saying any model is correct, but it might also not be saying that only
+one model is correct.
+We talk about this in depth here, also discussing how to think of the connection between, for
+example, physics and philosophy, which are both very important to Michaela and her work.
+In her book, she also mentions a lot of writers such as Borges and Calvino, especially Italio
+Calvino.
+There are many quotes in her book from him, and I love that because I also love Borges
+and I also love Calvino, especially Calvino's book Invisible Cities.
+So just to get us started, here's a few quotes from that.
+Memory is redundant.
+It repeats signs so that the city can begin to exist.
+The traveler's path changes according to the route he has followed.
+We take delight not in a city's seven or seventy wonders, but in the answer it gives
+to a question of yours.
+And maybe one from Borges, too.
+Let's see.
+I thought of a labyrinth of labyrinths, of one sinuous, spreading labyrinth that would
+encompass the past and the future and in some way involve the stars.
+So the books of both Borges and Calvino are really good exercises in what Michaela and
+I talk about here philosophically.
+She also brings up forking, F-O-R-K-I-N-G paths, the Garden of Forking Paths, is by Borges.
+And this idea of forking paths, always moving away from each other but cross again in this
+kind of Escher-like landscape where direction isn't binary, Borges, Calvino, Escher, these
+are written or visual examples of what we are trying to talk about here philosophically.
+I really find this a very important issue in philosophy of science and I love what people
+like Gary, who is a big inspiration for Michaela and others, are doing.
+It also extends back, for those of you who love Nietzsche or Plato or Wittgenstein, Kant,
+there are traces, very deep traces and important paths that lead from their work to this work.
+And we discussed that a little bit here.
+We think about landscapes and gardens and all the many paths and ways we might be making
+our way through those in terms of knowledge base.
+So I just love this conversation.
+I love her book.
+I know I already said that but I really do.
+And I hope that you will check it out and even if it doesn't all make sense because
+sometimes it's a little annoying all these words like essentialism and realism and so
+on.
+It's an amazing exercise if you want to learn critical thinking to try to unravel all of
+this.
+But I think also you can just listen to it in a big picture sort of way.
+You can go crazy with the philosophy of this.
+I'll put some links if you really want to look into it.
+But the overall big picture important issue for me here is we're all trying to understand
+the world and we're all creating different models and artworks and different creations
+towards trying to understand that.
+And sometimes we confuse those models, whether they're scientific or what have you, for the
+reality.
+How do we unravel that strange tension, especially once we realize that language itself might
+be some sort of a model?
+And why does this matter in normal everyday life?
+I think it matters because we often associate one another's worldviews with whatever particular
+model or music or organization, etc. that we've identified ourselves with.
+And it can be helpful to realize none of us are any one of those things that we've identified
+ourselves with.
+And the people that we're talking to and trying to understand, we also can't identify them
+completely with any one of those models or representations or whatever you want to call
+it there.
+These are all difficult issues philosophically, but Michaela impacts them very well in her
+writing and I think we had a really lively and beautiful conversation about these big
+issues.
+So thank you for being here.
+If you want to help love and philosophy in any way, we would be very happy to have your
+support.
+There's lots of ways to do it.
+Please join the YouTube or join the Substack or whatever way you can be creative.
+I'm glad you're here and I hope wherever you are today, something good is happening.
+Some kind of new insight is coming.
+Some exciting, motivating swirl of energy comes through your life and you feel connected
+to what's around you.
+All right, here we go.
+Hi, Michaela.
+Thank you so much for being here today.
+Hi, Andrea.
+Thank you very much for having me.
+It's great to see you and talk to you.
+I want to talk about perspectival realism, your book mostly today.
+And one word that's big or important in that book is community.
+So to start, I want to think about that word and how you found your community in terms
+of philosophy.
+I was trying to imagine when you were a kid, if you were reading a lot of science books
+or because you seem to know so many science stories, and then also how the philosophy
+came in, the philosophy community, how you got into that, how you found that.
+Yeah, I know.
+Thank you.
+Wow.
+So how do I find my own community?
+I went to a start, my birth starts from the beginning.
+how I got interested in philosophy.
+So I, as you can tell from my accent, I'm born and bred Italian, and the great thing
+about Italian system is that philosophy is actually taught as a compulsory subject in
+most senior school streams.
+So I encountered philosophy pretty early on at the age of 14, 15, when I was in my first
+or second year senior school.
+And I still remember the moment, I remember my teacher, I remember when we were studying
+Plato and the theory of knowing as reminiscence, and I just, I remember I was completely amazed
+and enthused by the subject.
+And then I started reading by myself during the summer holiday, I remember suggestions
+by my high school teacher about Plato's dialogues and other small things that she suggested
+about Pascal and others.
+And so I just developed my own interest in philosophy, but I've always been interested
+also in science, so I used to, I used to read again during my summer holiday, kind of popular
+science books, mostly on physics, cosmology, just very simple ones, you know, but so when
+I had to choose what to do at the age of 19 in Italy, I was really torn because I really
+wanted to do physics.
+But then I knew inside myself that really my passion was for philosophy and I just couldn't
+let it go.
+So I decided that I was going to do for a degree in philosophy, and that doesn't mean
+that I met my community.
+At that point, I met some important mentors that have been inspiring for, I think, some
+of the work that I've been doing all along.
+So had you met Kant, Immanuel Kant?
+Yeah, actually, true, some of those mentors.
+So my teacher of philosophy of science in the in-room La Sapienza, where I graduated,
+somehow had a kind of Kantian, neo-Kantian upbringing.
+So the name of Kant would appear and obviously Kant would be everywhere in the Italian curriculum,
+you know, theoretical philosophy, there would be Kant, practical philosophy, there would
+be Kant, aesthetics, there would be Kant, absolutely everywhere.
+Fascinating to me that you have so much philosophy in Italy, so different from the way it is
+in America.
+Yeah, I think the Italian curriculum, especially at the time, so it's a pre-reform, I think
+that reform it seems, but back in the day, 1993-1997, was still very much, very much
+historical in the kind of curriculum and so Kant was really pretty much everywhere.
+There's an odor, so the sort of odor that we studied was Play-Doh, Aristotle, we got
+Descartes.
+I don't even think we got to Kant in secondary school.
+So yeah, the encounter with Kant was later, but it wasn't really until I graduated and
+in fact until after my PhD that I went back to Kant, because my PhD I was doing pretty
+much history of physics and history and philosophy of physics on the arithmetic theory, but I've
+always had an interest in Kant and Kant's philosophy of nature, so it was really after
+my PhD that during the year when I went back to Kant that I discovered this whole trend
+of philosophers of science that had a Kantian kind of interest and were working in the Kantian
+tradition, thinking of Michael Friedman, for example, has been a very influential figure
+in his kind of Kantian take applied to the history of physics.
+So you already loved science and physics when you were really young, but you felt more
+like you just wanted to understand the ideas of it or something, because yeah, you did
+your PhD combining both of them, and of course they've always been connected.
+We separated them and now that maybe they're coming back together, was that important for
+you too, finding a way of holding those things?
+I mean, physics itself, as I think of it, is doing that, sort of holding the philosophical
+and the scientific in a special way.
+What I loved about physics was the big idea, the big concept, the questioning of reality,
+which is not necessarily what actual working physicists have to do on any basis.
+There is a lot more kind of practical aspects involved into physics, and what fascinated
+me about physics were really the big questions.
+So my kind of laurea dissertation, which is what you did at the end of your four-year
+degree in Italy, was on the Bohr-Einstein debate on the concept of physical reality
+in 1935, the Einstein-Botoski-Rosen and the Bohr-Kovenegen interpretation.
+And again, I found this absolute gem, because it's one of those debates, which is really
+deeply philosophical about what is physical reality, how do we define an element of physical
+reality, where do we draw the line between the observer and reality, and so that's what
+really fascinated me, and I think that, you know, going back to your question about finding
+the community, I thought, yes, so this is where I see myself going, this is what I
+want to study, that kind of questioning, yeah, profound philosophical questions, I think
+some of the best sciences, no matter if it's physics or biology or else, typically do going
+down to the very foundations of questions about knowledge and reality.
+So I found my community a bit, yeah, in that way, but then, as I said, I went back to come,
+but I continued to work in that area with the philosophy of the physical sciences and
+developed a more historical interest in Kantian New-Kantianism, but I think for a long time,
+I was really trying to find some kind of a chemedown platform where I could address the
+sort of Kantian questions about how is knowledge possible, and engage with questions about,
+you know, reality as science portrays science, reality, and it really took me a long time
+to get to Giri respectivism, because I couldn't really see what was the genuine question that
+was really interesting from a philosophical point of view, I didn't want to fall back
+into some kind of outdated, that quote on me about, I don't know, the categories of
+the understanding and reality of the phenomenon, the norm, and I thought that all that really
+didn't find necessarily a character part in contemporary science.
+And then I encountered Ron Giri's book, and I thought, okay, this is an interesting way
+of addressing the sort of questions that I've always been interested in about the nature
+of physical reality really, and the role of us human being in understanding that physical
+reality without necessarily falling back into some sort of platitudes of, okay, the object
+and the subjects, or the code to me.
+He really tries to get past that.
+I think he talks about dyads, and I don't know if it's in that book, or in papers, or
+in subject-object, but the reason I raised Kant, and the reason I'm also trying to figure
+out how you found the community in philosophy and physics is because exactly that question
+you raised, how is knowledge possible?
+I feel like with your work, you're opening a different space we just met, but you do
+know that I'm kind of obsessed with this getting beyond the dichotomy without rejecting it,
+the either or, and I'm trying to see in your own life, if that was a question that's posed
+when you came into this environment, did you feel like you had to choose between philosophy
+and science, or this kind of mental exploration and physical exploration in this question
+of how is knowledge possible to get closer to your work?
+Is the world real?
+Are we going to talk about realism, or are we going to talk about anti-realism?
+Did you feel those pressures to choose your side early on, or were you always trying
+to open up the space, maybe just opening it up naturally?
+Yeah, no, absolutely.
+It was a constant struggle to overcome, you know, dichotomous choices, you are there,
+especially the Italian system where I grew up, that didn't really allow any combination
+of physics and philosophy, so in the UK where I now live, it's obviously possible to combine
+the two, so there are degrees that specialize in philosophy and physics, but that was impossible
+in Italy at the time.
+Definitely, in the Italian system, I grew up, it was impossible, so it was a very stark
+choice, either you do humanities, and you do 19 exams, philosophy, and all the philosophy,
+or you do physics.
+And I remember I started kind of subverting a little bit shorter by going to physics and
+auditing classes, but I could not take them for credit, which I always regret, because
+I think, you know, would have had a much better education if I were allowed to actually sit
+those classes and do the coursework, like the others.
+Couldn't use it for credit, but you just went anyway, and they wouldn't let you put it on
+the list.
+I remember just going, because I was interested, and I took some classes with Marcello Cini
+at the time, I was in the physics in La Fabianza, but just really auditing, just sitting in
+the class, and I remember, yeah, when I was preparing my dissertation, spending a lot
+of time in the basement, a very dusty basement of the physics department in the campus,
+the main campus, university campus in Rome.
+Was that where all those Boer-Einstein documents were?
+Yeah!
+So it was one of those archives where you need to turn, and yeah, I remember it was
+really spooky, I was the only one there, there was no one around, there was just books covered
+in dust.
+Because obviously, at the time, it died, right, and now you go online, you click and one click,
+you get the EPR paper on your computer, but at the time it was not digitized, so you had
+to go down in the basement, yeah, which was exciting, so it was part of the field of kind
+of, yeah, slightly subverting the issue, the dichotomy.
+Early on, you were pushing into kind of that new space.
+I don't know if you would agree with this, but your book, Perspectival Realism, feels
+to me like it is opening the space of dichotomy.
+The way you put it together assumes a space around things that were once considered choices
+you had to make in the way that you've kind of described the way the Italian system was.
+That's how I see it.
+No, absolutely.
+So when later on, you're in my PhD or in my postdoc here, and I kind of started delving
+into the bit of realism in science, it was very clear, there was this other, they called
+me, you either are a scientific realist or you are an anti-realist, and obviously there
+are different nuances and families of realist and anti-realist, but there is really this
+gap in between.
+And so then the big problem was you can't really be a realist about science if you take
+seriously pluralism.
+So at the time, really the background, I also think the background of Giri's book is really
+pluralism, sensitive pluralism.
+And there was this flurry of scholarly work that's been influential for me on sensitive
+pluralism, where philosophers were discovering the importance of plurality of method, plurality
+of explanatory modes, plurality of approaches and so forth.
+But all that debate about pluralism was very often presented in the light of varieties
+of anti-realism.
+So I said, yeah, if you're really a pluralist, then you can't be a realist, because to be
+a realist about science, there is one way and one way only in which theories are the
+true or false, obviously, and the best theories of mature science are approximately true and
+past theories that have been rejected were false.
+So there was no middle way of kind of understanding what it means.
+So a way of overcoming that dichotomy was really through the situated knowledge thesis,
+something that came from the feminist literature, feminist philosophy of science, standpoint
+theory in epistemology.
+So I thought probably a better way of asking the question about how to be a realist about
+science, but also give you credit to the fact that it is a pluralist enterprise is not by
+starting with the question of, look, there is this plurality of models and they make
+contradictory or incompatible assertions about the target system, how can you be a
+realist about that?
+One of them must be true, the others must be false, or what is even the purpose of them
+and all this plurality of models.
+So in a way, the problem of inconsistent model was what got me into this debate in philosophy
+of science, but I thought the way of overcoming that dichotomy was by stressing the situated
+knowledge thesis, the idea that if we start with the human standpoint that our knowledge
+is situated, it's the product of communities, they have a story of culture and situated
+natural real people at real time that live in a particular culture and have access to
+particular resources and so forth.
+Then the question about realism is not a question of how we map the model into reality and why
+say that we have this plurality of models here, just for reality there, but the problem
+is how do we model reality from our situated vantage point so that we can understand the
+comprehend and produce the epistemic feat of science that we have produced over centuries
+and millennia.
+So that became the project of the book.
+I love that.
+I noticed the terms coming from feminine studies and so on, even like the intersectionality,
+but it's interesting to make that connection.
+In the book, one thing I really love is you call attention to that we often start with
+the models and say that they're incompatible, therefore you must be anti-realist.
+If there's so many different ways of getting there, if there's so many different models,
+it must be that we can't even ask the question of the target system, which after you read
+your book and you kind of look at it in a different way, it makes not a lot of sense,
+right?
+If you go back to lived experience and you go back to the phenomena and so on, then you
+can see how these different models might build up from different experiences.
+You talk about paths and gardens and landscapes and that's something I'm in common with me
+interested in.
+As I was reading your book, I was thinking, well, it's almost like saying, okay, there's
+many different paths to the fountain and the garden.
+You speak of gardens a lot.
+So there must be no fountain, which is actually weird.
+When you flip the script the way you did, it becomes almost the opposite.
+If there's many paths to the fountain, the fountain is probably there.
+At some point they will appear.
+This meandering path is kind of fun, actually we find it precisely because all those paths
+at some point intersect.
+Exactly.
+I think you nicely summed up the book.
+I think one of the problems is that the traditional debate of realism and anti-realism for many
+decades has always been rearsed in the form of this sort of God's eye view on you're
+from nowhere.
+Here is science and here is reality.
+How do the two talk to one another?
+Is there a way of showing that your models or parts of your model mapping to parts of
+the target system?
+And then obviously the problem with just the model is what if you have many models for
+the same target system?
+So some of the literature start the way from nuclear physics and models of the nucleus.
+Why do we represent the nucleus in different ways?
+Sometimes it's just a collection of nucleons that are in terms made of quarks according
+to hyperchromodynamics.
+But if we want to study say nuclear fission, we use a different model, we use the liquid
+draw model.
+So we represent the nucleus as a squeegee bubble of incompressible nuclear fluid.
+And if we want to study other phenomena like standard nuclear synthesis, then we use another
+family of model, the cluster model.
+So philosophers start wondering why is it that we have this plurality and what can we
+really say about the nature of the nucleus if we have this plurality of model?
+So as I said, it took me a long time to figure out what was the problem really with these
+impacts that people were describing, why is it that pluralism should land us with a selling
+to some kind of anti-realist view?
+And what is the value of the pluralism, pluralism not as a problem, pluralism not as a stumbling
+block.
+So pluralism is actually a bonus of what scientific inquiry is.
+And so not some kind of, I don't know, kind of collateral damage of scientific inquiry
+that you have all these communities that come up with their model and somehow, okay, we
+need to make sense of it.
+But actually as the typical example of why those communities work as well as they do
+by producing the plurality of models.
+And so the question for me became the question of exactly, going back to the Kant question,
+how is knowledge possible?
+How is it possible for human beings like us that are historically and culturally situated,
+how is it possible for communities working, quanto a chromodynamics as opposed to stellar
+nucleosynthesis or any other area, to produce knowledge through their modeling practices
+that is reliable knowledge that doesn't have to be pitted against one another by such a
+part of the fabric of knowing that those communities, many plural communities, produce
+over time without necessarily having to pick and choose and what was wrong or what is the
+best model?
+What is the model?
+And what is the other value of the others if they're not the model?
+So that became, yeah, so that became the motivation behind the book and I'll tend to tell a story
+the scientific practice and looking really at modeling as the practice of what perspective
+does.
+So a perspective is, in my language, really the historically culturally situated practice
+of a community.
+But what the practice does is to model reality, to produce what I call perceptual modeling.
+And the modeling doesn't just include the models, it includes inferences that we make
+from the data to the phenomena via the models, via sometimes experiential practices and know-how
+that is not necessarily relying on any sophisticated models who have a very kind of general stake
+on what is the scientific practice and what are the systemic communities, communities
+capable of knowledge.
+But once you pose the question in that way, then reality, we encounter reality in a reliable
+way, precisely by going back to what you were saying, I use this metaphor again, from
+Borges, walking in the garden of walking path, by making inferences that we learn how to
+refine and improve and make more and more sophisticated over time so that we know that
+we're never lost, you know, we're wandering at the same time, you have to go through that
+of inferences and, you know, producing modeling that eventually give us that knowledge of
+reality.
+Reality is not there or is it plain for us to discover and it's not a matter of us stepping
+back as if we had a God's view and say, here's the model, here's reality, we're always in
+the model, we're part of the whole, we're part of the modeling practice.
+Yeah, exactly.
+And it changes as we know it, that's a basic thing of physics too, right?
+But I guess it's really hard to hold all of this.
+I mean, I can't understand how, even in my own life or when I study, that you just want
+something definite and because the thing is, it's not just one garden, right, or it's not
+just one city.
+I mean, this is very Borges like too, but it's almost like a matrix of many overlapping
+multidimensional gardens and matrices.
+And so even though all of that is connected in the way you say and changing each other,
+it becomes hard to talk about it.
+Once you understand that it's there, you almost go into metaphysics or you almost lose this
+robustness and reliability, which are important words in your book.
+And I think one way that you could counteract this or open up a new path is you're kind
+of telling us a different story of what a model is, but you're not just stopping there.
+I think this is how you develop the idea of the blueprint maybe, right?
+So yeah, kind of zooming in into the detail of how this is done in the book and the kind
+of positive view apart from, okay, going beyond the dichotomy between realism and surrealism
+or pluralism and realism.
+Then the question is, how do we know that we are making reliable inferences from within
+our situated knowledge?
+How do we know that we're not subject to hallucination or a function or whatever we produce is just
+a figment of our imagination and maybe doesn't really exist or, you know, that's the threat
+of anti-realism that keeps on coming back as soon as you, again, put the human standpoint
+to center stage, even through the feminist idea of situated knowledge thesis.
+But that question keeps on coming back, but how do you know that it's reliable?
+How do you know that you're not, you know, ending up in some form of idealism or I don't
+know, constructivism or whatever you want to call it.
+You talk about stable events and I think about regularities and it's almost like we're trying
+to figure out how we're talking about the same regularities.
+Yeah.
+So there are two components in the book.
+So in the first part of the book, I try to explain any kind of epistemology.
+So how do we come to know the world in a reliable way because that's the idea of inferential
+blueprints.
+What is the model?
+How do we use those models to make those reliable inferences?
+And in the second part of the book, I address the metaphysical questions about what is reality
+going to look like once we take that step, assuming we're willing to take that first
+step of situated knowledge thesis.
+And so the idea of inferential blueprints is really kind of going back to the metaphor
+of perspectivism.
+What does it mean to draw in perspective?
+So back to the history of art, it means to be able to represent on a two-dimensional
+a three-dimensional space, means we are able to skillfully arrange planes and angles so
+that we can give the impression of a space that opens up in front of us, even if it's
+just a flat canvas.
+And so that got me thinking about what is so special about modeling is exactly that
+we encounter reality through those exact techniques of opening up a space of reality,
+which doesn't mean that the space is not real, the space is real, but it's a space that we
+have to open up for ourselves by using those small dots as inferential blueprints.
+And so the idea that really, and something that I want to stress is that very often people
+think, oh, well, respect our drawing is just an example of us as human spectator of nature.
+So it kind of reiterated the code, I mean, there's us spectators and nature, but no,
+because actually the image of the inferential blueprint is patterned on a perspectival
+technique in architecture.
+So the example I gave is building a house, you need a blueprint, which was this technique
+used before xerography became common.
+What you have in a blueprint is effectively a collaboration of engineer and architect
+and carpenter and mason that they are able to use the blueprint as a way of exchanging
+instructions about how tall the door should be, what the relation between the height of
+the door and the height of the windows and so forth.
+So I see models as having that role of allowing different communities of people, doesn't matter
+whether they are, I don't know, nuclear physicists as opposed to chemists or biologists to come
+together and exchange that information in a way that the inferences that we make ultimately
+are reliable, are inferences that we can trust upon and that lead us to what I call more
+than a robust phenomenon.
+So the second part of the book is the part where I try to spell out exactly what it means
+to be a realist once you take this step and how it looks like.
+So I introduce the king of terms like more than a robust phenomenon, stable events and
+so forth.
+I'm not sure I want to go into it.
+The reason I brought it up here is because something I want to ask you about or get your
+advice about or ask you to unpack more is, okay, so realism is connected to truth and
+representation broadly.
+And then you're showing us a different idea of the model and what you just described about
+the blueprint.
+I love it in the book that you go into architecture.
+So in the way I was clumsily talking about all these paths leading to the fountain, blueprints,
+that's a better example because you have to build the house.
+And it's almost like a, I want to say third space, somehow the model or the representation,
+are those different?
+I don't know.
+I would like to know what you think is the space where everyone can meet somehow.
+The blueprint becomes a place where we can, when you're building a house, you need many
+different kinds of people with different kinds of skills, but then you have this place where
+you can all meet and talk about it in a way.
+And I guess what the reason I brought up the stable events and regularities is because
+there is this real thing going on that we're all seeing from these different perspectives
+and the model gives us a place to what?
+I don't know how you would say it, meet, discuss, all of that together.
+Yeah, exactly.
+So that the modeling, so the perspective on modeling is the wider practice of making inferences
+about those phenomena.
+The models are some of the key tools that we use in that perspective on modeling.
+But I insist it's not, modeling is broader than models because it's not just about the
+models.
+We can have a perspective on modeling or reality using experiential know-how or local communities
+that don't have a model, don't use models as we understand the concept of modeling,
+the way I was just explaining before with the other models of the nucleus, for example.
+So the model, going back to the kind of more parodied example from nuclear physics.
+So the model is really the place where, as you rightly said, different communities, doesn't
+matter if they're working on nuclear physics or quantum chromodynamics or whatever, meet
+and they can exchange information, make inferences, that's why they're called the inferential
+blueprint.
+So it's the place where the inference takes place, it's the inferential space where we
+come to encounter reality.
+And we do that because we have a very sophisticated way of using those models as a way of imagining
+or conceiving what the object might look like within the constraints given by some laws
+of nature or rule-like dependencies.
+So the imagining is not totally unconstrained and it's not totally free-floated.
+It's actually constrained by the practice that includes obviously background knowledge
+on whatever the rule-like dependence in the community happens to know.
+But then there is a point where the rubber hits the road, so it's how that imagining
+and conceiving about a certain target system proves reliable or not.
+So this is where stable events come in place.
+So if you ask me about where is the realism in our story, I mean, we have to tell a story
+of realism from within, from the situated vantage point of particular communities and
+they're encountering each other within the space of models as inferential blueprints.
+How do I ever know that the inference I'm making are trustworthy, are reliable, are
+actually telling me something about what the nucleus is or whatever the object I'm studying
+is.
+And so this is where the stable events come in.
+So I'm a realist in the sense that I believe that the world is made of events that are
+stable in the sense that they have some kind of inbuilt low-likeness in the way in which
+an electric charge is repelled by a magnetic field.
+That for me is a stable event in nature.
+It's there and will be there even if J. J. Tomsol never existed.
+So whatever model J. J. Tomsol or any other scientist that come up with to explain reality,
+there is a point where the rubber hits the road, which is the point where those stable
+events effectively can constrain the space of the inferences that we make and then guide
+us very often down different paths.
+So as I said, this process is never a process of convergence.
+It's never a process of one-to-one mapping, but it's a process of tagging, finding our
+way through, yeah, a bogus kind of inferential working path where we have to make inferences
+about what is the size of this object that we are observing as being deflected by a magnetic
+field that seems like the same size of an hydrogen ion or is actually smaller than an
+hydrogen ion.
+So we rely on, you know, like dependencies to make those kind of inferences.
+And that's what stable events do, they kind of constrain the space of possibility that
+we explore through models that inferential bloated.
+And that's that flipping the script part that I really love is the stable events are there
+before we've named them.
+In a way, it's weird because we use language and it's kind of this representation and model
+within itself.
+I don't know if you would agree with that.
+You talk a lot about language in one of the examples as you're building the positivist
+case for perspectivalism.
+And by the way, for everyone listening, I do want to say that you spend many, many chapters
+going into, for example, that positive case and talking about the atom climate change
+language really building it up with a lot of great nerdy examples.
+So there's a lot of substance here for everyone to go and look at.
+But since we can't talk about all of that, I guess the thing I'm trying to get at is
+you start with that.
+What I've thought of as regularities, stable events, things that whatever you're going
+to call them or however you're going to model them, they're their phenomena, right?
+And maybe this is a moment to kind of get into natural kinds a little bit.
+And also this confusion that we often have, which is connected to what we were talking
+about earlier of assuming that we then, you say it in a great way, something about like
+we have to determine the essential properties of the target system.
+That becomes, that's a metaphysical kind of thing that gets confused somehow, right?
+But how are you shifting this idea of natural kinds maybe, or maybe you can just even correct
+me a little bit in what I'm talking about there about thinking more of these regularities
+first or these stable events and those being like a natural kind, which we continually
+figure out through this representational practice, which isn't determining essential properties
+of that target system.
+Yeah, no, thank you.
+It's a lot.
+You've been summing up like five, six, how much?
+Yeah, and it's really, yeah, there's a lot.
+You really make the case very deeply in a philosophical way, which you have to do because
+it's so much assumption just around a word.
+It could easily be like, oh, this is just essentialism, which you definitely show it
+isn't over three chapters.
+But yeah.
+Yeah.
+So yeah, I'll try to, I'll try to be brief in the answer, but I got through that five
+chapters.
+So your book is there for people to really dig in for everyone that wants to, yes, kind
+of going back just to make things probably more kind of tangible with the example of
+the problem and consistent model.
+So one of the, one of the problems with the realist literature very often has been that
+the world comes pre-packaged with not four kinds.
+So there is an electron, there are, you know, atomic nuclei, piper, lemons, you name it,
+the natural kind, water and so forth.
+And the idea is that the aim of science is to tell us the true story about this card,
+the joints of nature by identifying correctly what are the essential properties of those
+objects.
+So that's the way in which the debate in philosophy of science for many decades have proceeded.
+Some kind of, you know, debate on realities about theories, theories being true or false,
+going hand in hand with the metaphysics of nature that just buys into the picture that
+the world comes pre-packaged with those natural currents and certain kinds and kind constituting
+properties, essential property of a kind.
+So to be an electron is to be a particle, the head, spin one half, a negative electric
+charge.
+Those are all essential.
+Now if you take that picture, it's very difficult to be a pluralist of science because then
+you get a plurality of models, as we were just saying before, that seems to attribute
+very different essential properties to the same target system.
+So according to the liquid draw model, the nucleus has the essential property of being
+a drop of incompressible nuclear fluid.
+But according to the quantum thermodynamics model, the nucleus is a bunch of quarks.
+So those seem to be very different metaphysical feature, very different essential property.
+How can we be realist about that?
+So my way of turning the script and kind of say, okay, there's something not quite right
+in this way of answering the question is to show that, well, again, if we take this view
+from within, and so from within our practice of modeling reality, and we take models as
+inferential blueprints, the purpose of the model is not to attribute essential properties
+to the target system.
+In fact, we don't even know that there are those essential properties to start with.
+So that's an assumption that we start with.
+The purpose of the model is to be exploratory, is to allow us to ask questions about what
+could be the case, what is possible about the objects that we're trying to study.
+So that's my take on anti-essentialism and anti-foundationalism in the sense that really
+the whole way in which the debate on realism was originally posed and the dichotomy with
+pluralism started because we were making some pretty strong assumptions about the nature
+of physical reality.
+Once you make the strong assumption, then obviously pluralism becomes some kind of weird
+stumbling block to explain why the model is a representation of reality.
+So in a way of bypassing all that and coming up with a different story of how to be a realist
+while also being a pluralist about science, I came to articulate this view as I said,
+this different chapter.
+So I'll be brief, but there are three main elements in this metaphysics of reality that
+I explore in the book.
+So there are stable events, there are modally robust phenomena, and then there are natural
+kinds with a human face or an incurrentialist view of natural kinds.
+I'd say very briefly what each of those elements are.
+So the stable event is the simplest kind of realist commitment to the, as a perspective
+of a realist I have, as I was saying before, I believe that an electric charge would be
+repelled by a magnetic field, okay, that's part of the fabric of nature.
+Of course I need an instrument, I need a cathode ray tube, but to even know that there
+is such a stable event, to be able to explain it.
+So in a way we're always within our perspectival modeling, but there's a sense in which that
+reality is there and it will be there even if we don't have a cathode ray, it's not
+a cathode ray that creates some kind of figment of the imagination about the electric charge
+being repelled.
+If you think about like AMBER or however they used to do it, was it with AMBER and LASPER?
+They attract pieces of paper, right?
+Just have that experience without having understood it, named it, and all this.
+But if you want to do that, you need to develop these models, right?
+That's right.
+So if you want to have an understanding of what goes on, once you see that the AMBER
+attracts pieces of paper, then obviously it becomes exceedingly complicated because you
+need to come up with a theory that tells you what was on the subatomic level, and obviously
+it's a fascinating story.
+How Thomson had his own kind of partially false view, partially true view of what the
+electron was, but somehow, you know, he was the one that discovered the electron, got
+the Nobel Prize for it because he was able to measure with precision this kind of stable
+qualu-like event in nature, how there is a mass to charge ratio that tends to remain
+fairly stable.
+So this is the simple level of stable events.
+And there's a level of what I call the more robust phenomena.
+This is the Kantian bit, if you like, in the metaphysics, because it's the idea that really
+our knowledge is knowledge of phenomena and I can't, but these phenomena are effectively
+stable events, okay, that we have been able to infer and reign fair over and over again
+using different models, different techniques.
+So in your example, it's the fountain that we meet at the center of the garden.
+There's a point where all these paths somehow intersect and inter-fine and you encounter
+realities of where they intersect.
+What we encounter is what I call the more robust phenomena.
+There can be sometimes incredibly complex things like global warming, so it's one of
+the case studies I discussed in chapter 4a of the book, or the stability of particular
+isotopes.
+So at the level of phenomena, we're not talking about things, we're talking about phenomena
+like stability of particular kind of atoms, or we're talking about exactly global warming
+in the sense of how do we measure the sensitivity to greenhouse gases in the mean global surface
+temperature of the planet and so forth.
+And then there's a final level, which is now short kinds with the human face, which I borrowed
+from Pattenham, I had this 1990 book, Realism Over the Humored Face.
+So I developed a view of natural kind as an inferentialist view.
+And I have to say there have been a lot of natural kind that's been dwindling and I shared
+the sentiment that there's good reason why it's been kind of dwindling over time.
+The fact of the matter is that we use terms in our language every day.
+We talk about water, we talk about electron, we talk about atoms, global warming and climate
+and those are natural kind terms, terms that in philosophical language refer to the joints
+of nature.
+Then the question is, what can we as philosophers say about those joints of nature?
+So for me, the story about essentialism had already gone out of the window in chapter
+three of the book, because as I said, that was the main stumbling block to my whole question
+about how to be a realist and a pluralist about science.
+And I thought the only way of being a realist and pluralist is just by getting rid of essentialism
+and getting rid of this idea that the model represent by attributing essential properties
+to the outer system.
+So the question then is, okay, what becomes a natural kind?
+What is an electron if you are a perspectival realist?
+And so the story I tell is that, well, natural kinds are just concept, sort of concept, concept
+that we use to sort phenomena into grouping that are open-ended, revisable and are grouping
+of phenomena.
+So the level of reality is the level of the stable event and the phenomena across stable
+event that have been inferred and we inferred, but that's all there is really.
+So we hang on to the categories of natural kinds because they are part of our natural
+languages.
+theories of the electron, theories of water and so forth.
+But if you ask the metaphysical question, what is there, I would just say what we have
+are open-ended grouping or restoring identified phenomena.
+Then obviously we can change or revise as we discover new phenomena.
+But again, the grouping is not kind of random, the grouping is the outcome of this working
+in the garden of inferential fucking path.
+So the fact that we have arrived at this grouping is just because of how this particular community
+historically and related their discovery of particular phenomena with others, not because
+there is some sort of predefined catalog of what are the phenomena, they are part of a
+natural kind.
+So because there is a predefined set of nonsense sense of condition or kind constitutive essential
+properties and so forth, there's a very kind of, it's an inferentially small level view
+of what kinds are and really it's a kind of just concept that are useful only to the extent
+that they're useful, but can also obviously trade on power structure and sometimes hide
+some power structures in how we cluster some of those phenomena and so forth.
+I think there's so much really important stuff in here for science, for philosophy, but also
+for life and what we're doing here.
+What's the big picture?
+What are we really trying to do with science and philosophy?
+But how do I get into that?
+It's interesting because as you were talking, I'm thinking, I don't know how you would feel
+about this, it's too big of a question, but language itself almost seems like it's telling
+us that we have these stable events and regularities, right?
+Otherwise you wouldn't have the term that people understood because it's a little model
+of that stable phenomena in a way.
+We're trying to find the formula or the essential properties or the one thing that's going to
+tell us the answer and what you're doing, there's a whole lineage that you're combining,
+is open that up and say, okay, instead of saying what's the formula, one formula or
+the one recipe of essential properties, let's look at, let's hold those things together.
+Maybe there's many different ones.
+Let's open the space for exploration and then you open new possibility and this becomes
+really important in terms of what we're trying to do with science and if we're not exploring
+and we're not finding possibilities, if we're just trying to find the one formula, this
+develops us into a certain mindset.
+I know I'm getting abstract, but it feels very important to me and I think it does lead
+into the last part of the book with the multiculturalism and cosmopolitanism because if we think there's
+only one way to get to the fountain, then if you didn't take that way, you must be wrong
+or you just aren't heard.
+You're not part of science or you're not part of philosophy.
+I think what you're trying to do, you can correct me, is, okay, let's stop talking about
+winners and losers and all these things and step back, hold it all, try to understand
+how there might be more things to explore and therefore we also find more potential.
+I don't know.
+That's a lot.
+No, no.
+Thank you.
+Yeah.
+So no, that's exactly right.
+So there are two really, you know, as explained at the beginning of the book, really, there
+are two main motivations behind the book.
+historical because I do history of philosophy of science, so it has always struck me as
+a bit weird as well, this story about realism, that there's a winning in history, it's due
+or take history as some kind of, as I said, collateral damage about the successes and
+the winners.
+So, and then there's a bunch of theories, there are a bunch of losers, but if you're
+the history of science and you look back and delve into the history as I, as I did when
+going back to the beginning of our interviews, right, I was keen to go down the archive in
+physics and kind of go down this dusty basement to look at the book.
+You discover that, you know, that the history is not done by winners and losers.
+The history is done by communities that got it partially right, partially wrong, had their
+own view, speculations, imaginations about what the reality was going to be like, but
+in a way that the fabric of how we produce scientific knowledge is immensely diverse.
+So we don't tell the story about the diversity of the, of the public very often, we tend
+to tell the story that becomes some sort of ex post facto, a geography of the winner.
+So now we know, and now we know that this was the real story and all the others were
+false, but obviously ex post facto, we can always say that, but once you are situated,
+you are from within, you don't have any privilege view of knowing where this garden of forking
+path is going to lead us.
+So I've always found very strange that kind of lack of historical sensitivity in the debate
+about realism.
+And in addition to that, I always found it very striking that exactly the lack of historical
+sensitivity tend to go hand in hand with the lack of sensitivity to multiculturalism
+and science in the sense of recognizing that science is not just the product of one community
+at one time, the dominant community in the dominant socio-cultural economic setting,
+the one that got it right, but in a way something that humankind does over time, over and over
+again.
+So shifting emphasis on reliability and the reliability of the practices and the reliability
+of making those inferences.
+I wanted to create a space where scientific perspective as situated practices were not
+just understood in the kind of classic way in which we understand, I don't know, climate
+science, nuclear physics or whatever, but could allow the space for a local communities
+repository of knowledge that may be lived experience, experiential knowledge, experiential
+know-how, but not necessarily codified in curriculum, but still part of a perspectival
+modeling, an important part of how we come to know the world in a reliable way.
+And so this is the theme that I kind of tease out very briefly in the last part of the book
+and something of which I hope to work more as we speak in the book is the idea of how
+the situated knowledge thesis really forces us to reassess questions about who produces
+knowledge and who ought to benefit from scientific knowledge.
+So Judges and Obligations in Science, which is the other big theme at the end of the book.
+And it seems to me that as soon as we open up the space for recognizing a plurality of
+ways of knowing and the fact that really the reliable knowledge is not the prerogative
+of one particular community at a particular historical time, then we need to open a much
+bigger conversation about how do we make sure that the benefit of scientific knowledge and
+the benefit of technology and innovations are really shared widely.
+And obviously that's a huge topic that goes well with your science.
+That I simply briefly kind of touch at the end of the book because it's the question
+as I said, not just one's knowledge, but really how to think about access and benefit sharing
+when it comes to that kind of knowledge, what you're taking into account today is the product
+of a myriad of communities of different historical cultural time.
+And so it latches on to questions about the right to science that I've been working on
+more recently, as Esti said, they are participating in science, something that, you know, it's
+a human right, it's enshrined in the UN Declaration of Human Rights.
+We all have the right to benefit from scientific progress and the stark reality of how, you
+know, we're seeing that during the COVID pandemic with the vaccine nationalism and how very
+often the way science is done through patents and trade secrets and the natural property
+right actually poses barrier and clear delimitation to sharing that knowledge as knowledge that
+belongs to, you know, just the rich and wealthy developed country, but it's a product of humankind
+and large.
+So that's all those things, but it's at the very end of the book.
+And as I said, it's something that I'm working on now.
+It's very rich.
+And as you're talking, I think something we haven't made really clear that you do make
+really clear in the book is that this isn't like saying that there are many ways to the
+same place, like many paths to the same fountain and there's a matrices of gardens and so on
+doesn't mean that it's not saying everything is meaningless, anything goes relativism.
+You're building in the book a case for the opposite of that, right?
+I want to make that sure that's clear.
+Yes, please.
+But that said, I think when we start to talk about all of this, but it can be very hard
+to not collapse into the kind of relativism or go the other way and hold on to, well,
+my community must be right or my science must be right.
+We talked about at the beginning how you had to choose between philosophy and science
+and academia itself is still kind of built where you need to become part of a community
+and publish and so on and so forth in order to succeed or make a living.
+Maybe it's changing a little bit.
+But do you see what I mean?
+There's a kind of tension that scales up to where we need to choose between relativism
+or constructivism or instrumentalism and then make our career in that, which I think can
+or scale up into the topics you began to unpack a bit with multiculturalism and cosmopolitanism.
+So I guess what I'm asking is, do you think this practicing what we've been talking about,
+do you think that could be even has it been helpful in your own life or do you see a way
+in which that could be helpful in terms of the way we do science and philosophy and life
+or?
+Yeah, it's a difficult question, right?
+So in a way, I guess the way of what philosophers can do in this space where you're really kind
+of addressing why there are issues that are more structural, they're more systemic, they're
+more embedded into reality, is really to highlight where the point of tensions are.
+So I don't know whether this answers your question, but to me, what was important was
+to show exactly that there was another way of thinking about those issues that didn't
+necessarily have to fall back into relativism or constructivism.
+So I had this exchange with my very good colleague, Martin Cusci, just actually a few months ago,
+they were visiting Edinburgh.
+Martin has been a scholar of relativism, so we had this exchange about very discussing
+the extent to which perspectivism is different or not different, as you might probably argue
+before, from a form of relativism.
+So in my mind, it was important to not fall back into that dichotomy of, again, realism,
+anti-realism, relativism as a form of anti-realism.
+Ultimately, I wanted to show that exactly all that dichotomy is based on a series of
+assumptions that we make about the natural reality, about classifying and grouping things,
+that we don't need to take that face value, that it's just possible to actually question
+all that.
+And that's the beauty of philosophy.
+Does it mean form the world, change the world?
+No, but it's important if our world, our work gets taken out of the philosophy and people
+that actually are engaged more directly in addressing some of those tensions, or other
+people that work in human rights law, for example, on the right to science, or people
+that work on ocean governance when it comes to the remote of sharing into the biodiversity
+without cutting off or subjecting local coastal communities to injustices.
+So what you're asking is the broader questions of what difference can philosophy make, and
+that really depends to some extent on what other practitioners in other fields think
+of philosophy or how they may even be aware of philosophical work or relate or see that
+as resonant with some of the work that gets done in this area, where questions about local
+knowledge becomes more and more important as part of the governance and policy and practice
+of how we have a more diverse participatory way of thinking about science and enjoying
+the benefit of scientific progress.
+Doesn't matter if we're talking about biodiversity or we're talking about food systems or any
+other area.
+Yeah, the book is wonderfully written, I should say, too, making it sound like it's so nerdy,
+but it is in a great way, but it's also very easy to read.
+There's a practice to the book that helps us take steps back.
+It's actually very delightful to be able to have a practice by which you can explore and
+see more possibility.
+And I think a lot of philosophy has tried to do that.
+I'm getting into my own focus in here of holding the paradox doesn't mean there isn't differences,
+but that practice of it does something really wonderful.
+And I think it's happening in a lot of different ways.
+You talk about art in the book a lot, which we haven't mentioned yet, so I just got to
+mention it.
+In terms of perspective, it's another way of showing there's different perspectives
+and how that opens up possibility.
+But I also bring it up because Calvino is in the book a lot.
+Writing is a way to do this too.
+Borges Calvino shows us these different paths to similar places, whereby the place itself
+opens up into different possibility and so on.
+So I'm talking a lot, like you can tell me whatever you're thinking, but I do want to
+get into kind of just to end what that's meant to you, because the book too has a lot of
+quotes from that book you just raised, Invisible Cities by Calvino.
+What comes to mind when I say that?
+So Calvino is one of the authors that I loved reading when I was growing up as a teenager
+in Italy, so I read a lot of Calvino.
+And Invisible City is one of those.
+And I don't know whether, I don't know, I started thinking that a bit like in Calvino,
+right, the cities are not, the reality of the city is not a given.
+It's a process of coming to imagine and conceive the existence of this incredible city.
+They have very funny architecture and structural features, but they're really cities seen
+through the lenses of the emotions and feelings of the inhabitants.
+So a city is not just a bunch of buildings and squares and streets.
+A city is the piercing tensions of some of the feelings of the people that leave the
+city.
+And I think this is the beauty of Calvino's short story about Invisible City, where there's
+this imagining of possible cities and then asking the questions whether those cities
+are even real, whether they exist or not, or they just exist in the imagination of the
+main character, Marco Polo.
+And so that became a bit of a kind of meta, meta, this book, because it was a bit like
+going back to this idea that we use situated practices, including models, to model reality.
+And then we ask the question of whether what we are modeling is real or not.
+So we use the stable events, we use the rule of dependence as a way of testing whether
+our inferences are real or not.
+But the reality is not given to us in a single play.
+is constructed in a way through this network of human emotions and human imagination.
+And so in a way, I thought it was a nice meta narrative to the story about presentable modeling
+and how we encounter reality not as a given on a silver plate from the word go, but as
+the outcome of those inferences.
+And so that's why I wanted to use some of the passages from the Invisible City.
+It's wonderful.
+I was going to experiment in phenomenological framing devices, showing how many ways we
+can experience a city and that it's not about holding on to the model or the story or magic
+realism.
+But I think it's not just magic realism, it's really, yeah, it's this unique way of
+copying or talking about reality, but really, from a deeply humor point of view, like really
+from pizza down.
+Yeah, that local knowledge, I think you call it maybe local knowledge and universal knowledge
+coming from a sort of smaller town.
+And a lot of those people there, your mom, for example, or I come from a small town too
+in the States.
+And I think of my grandmother who has this incredible knowledge, but it wouldn't necessarily
+be called science wouldn't really call it knowledge.
+And it seems to have something to do with the fact that in her life, she had to understand
+a lot of different perspectives and be able to negotiate them in a way.
+Yeah, as I say in the, I think I said this in the chapter one of the book, in a way there's
+a kind of biographical element in the book and that, you know, the reason why I got interested
+in in a way, perspectivism and then this much broader notion of what is a perspective,
+including varieties of local knowledge is precisely because I wanted to counter this
+idea that science or scientific knowledge is this well-defined thing that we tend to
+associate with scientists, people that are well-educated and so forth and have a sense
+in which participatory element to the fact that in a way scientific knowledge is the
+product of humankind at large.
+So you don't need to have a PhD in botany to understand sometimes phenomena about topical
+culture.
+So I mentioned my grandfather at the start of the book and that, you know, cultivated
+only trees, but also had bees and so forth, but he was uneducated, he was illiterate.
+So you know, coming from a family, I was my first gen, so my parents didn't have a first
+degree and my grandparents finished school pretty much at the level of a primary school.
+But as I said, the other biographical element there is the fact that I see a lot of reliable
+knowledge in that kind of local community where I grew up, if not anything in the form
+of very specific phenomena, like I know, and it's reliable in the sense that you need to
+know what the pollination peak is for a plant, obviously the local farmers will know what
+that is fairly reliably.
+And so I wanted that to be part of the story of yes, how we come to know the world in a
+reliable way.
+And again, without falling back on the god way between what the STL scholar would say,
+you know, certified knowledge versus experiential knowledge or, you know, science versus peasants,
+basically.
+Yeah.
+And show that the peasants may be repository of knowledge.
+So both of us have left our little small communities in our pursuit of knowledge and philosophy
+and so on.
+We've explored in many different possibilities.
+And that's attention too, for me.
+I don't know if it is for you.
+I think I remember in the book, you do say something about it being hard that you're
+not spending more time with your mom or something.
+I brought up community at the beginning and it does feel like that's been a very important
+part for you.
+There's these layers in the beginning of the book of family, community that's important
+and also your academic community.
+A lot of people that you had learned from or that had changed your direction in different
+ways were passing away around the time you were putting this book out or do you feel
+the sense of kind of continuance?
+I also know you wrote the book in the time of COVID and maybe even had a son.
+You have a philosopher husband, which haven't even brought up.
+There's a lot of layers here that feel connected, but what does that bring up for you?
+Well, it brings up life, right?
+Yeah.
+The real life, right?
+The realism.
+The real life.
+You know, writing a book is not just the sort of things you do in your library tower.
+It's actually part of this daily fabric where, yeah, you're dealing on the phone with, you
+know, your mom in COVID lockdown on the other side, obviously, of the English channel and
+you know, you're a whole schooling your son for long periods of time while trying to get
+on with your work.
+You have, yeah, you have your local community, obviously to whom I owe a lot, but I don't
+get to see very often.
+You've got lots of a community that you get to see a lot on Zoom and then there's a life
+in between.
+So yeah, the book kind of unwittingly became slightly, yeah, probably there's more about
+me than I thought myself when I was writing, but I think that's, I mean, that's inevitable,
+right?
+Your real life when you're writing the book isn't actually different from the book.
+Yeah.
+Yeah.
+And then writing the book becomes really, you know, it's your daily life, a very sustained
+period of time.
+Definitely was this one.
+I went through several, yeah, it was a very long process of writing and rewriting and,
+you know, changing it and so forth, but yeah, it took sort of your life because you can't
+really have a dichotomy between, you know, Miguela the philosopher and Miguela the daughter,
+the wife, the mother, you know, all the other rules that we have.
+So this is like great answer to your question.
+No, it is because it speaks to that scale and it's something I'm interested in because
+we can see our own selves in this.
+When you went down into those dusty archives to find the stuff from Boren Einstein, a lot
+of that stuff is personal, philosophical, scientific.
+And from where we sit now, from this perspective, you can see how much those inner personal
+philosophical scientific struggles that were all of that at once have changed our potentials
+and what we can explore now.
+I guess I bring it up not to be too, you know, whatever, praising you too much, but I think
+this book is important.
+There's a lot of things going on like this in different parts where we're trying to,
+we're trying to open up some spaces in places that were traditionally maybe choices.
+And so I guess just in that continuity, I wanted to place it in there and just say thanks
+and hope you keep going.
+I'm sure you will with this.
+So much Andrea.
+Thank you so much.
+And yeah, just to say that, you know, those personal threads and, you know, what keep
+me going on at any basis is the reason why I love doing philosophy.
+It's not because it's some sort of alien field, but it's because of the things that
+we care.
+I think it probably applies to all of us, the things that we care, the thing that matters
+to us about this level that we get into particular topic, into particular area of research.
+And so, yeah, we think there is always a kind of somewhat of biographical element to this
+senior in there, but just because it's what, it's what got us there in the first instance
+in terms of interest and in terms of, yeah, just keep going on at any basis in terms of,
+you know, it's hard work for philosophies and writing a book, writing a book in the
+time of pandemic and isolation.
+It's a lot of willing exercise there.
+But yeah, there was this wonderful community of people that, you know, were willing to
+part of drafts and provide feedback and comments in Zoom, actually.
+So the first thing I started doing, because I finished the first draft just when we were
+entering the lockdown, and so, no, obviously, no way for long that was going to last.
+I remember reaching out to colleagues and say, I got the first draft, would anyone be
+willing to?
+I think just because everyone's desperate to, you know, get to see other people on Zoom
+at the time.
+That was good timing, it was in March of 2020, and yeah, it's a wonderful group of people
+that, yeah, read the chromatic comments and obviously that changed the book quite a bit.
+You're very generous in the book, naming people that have helped you, and I think that's very
+important and it's great you do it, and also I'm glad you said what you just said too about
+this all being connected and mattering, because I think a lot of young people often feel like
+they have to do it alone or choose a side and we can help each other and yeah, you know,
+I reach out to people because people, you know, they'll be surprised when people are
+willing to actually, if you found them on a good day, that they're not in the gramp
+chain, they don't have any Zoom fatigue, then they'll be willing to read and provide feedback
+and comments.
+And then you grow the community together, so that's what's happened to me since I wrote
+this book that, you know, I developed very good kind of friendship with colleagues up
+until the point we're just colleagues, but then I discovered that you're kind of a fellow
+traveler on a very similar part of the path about topics that, again, matter and we both
+care for, so yeah, so you create your own community, your macro niche ecosystem, and
+you don't have to choose between the personal and like, I mean, we didn't get into the
+epistemology versus metaphysics or something like that, but I think a lot of people can
+cling on to metaphysics because you want to explore the personal and understand all these
+really important everyday feelings and things and what I love about the book is you show
+that you can be really robust and you can be really hard on yourself in the way that
+we have to be as philosophers and scientists and it is hard work, but you're doing it connected
+to your personal feelings and desires and goals, right? I think it would be great if
+we had more of that because people, it's there, right? It can be.
+Absolutely, yes. Well, thank you for bringing all this up.
+Well, thank you and thank you for your time.
+Is there anything we didn't talk about that you want to make sure we say?
+Oh, no, it's been very extensive and I thank you so much for, yeah, first of all, putting
+part in me and second before, yeah, engaging with my name in my book with, yeah, so much
+detail and care and attention, so it's no great reward knowing that the book is bad.
+It's very important and I still have a lot I want to go through and think about more,
+so it's definitely one of those books that's very meaningful for me and I'm not just saying
+that, it's really true. So thank you. Thank you so much. Thank you. Very good.
+Yeah, I'm going to stop recording, but.

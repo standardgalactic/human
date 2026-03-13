@@ -1,0 +1,1245 @@
+Doing what you're told is not always the best idea.
+It made the right choices on the basis of what you're being asked to do at each point.
+As long as those choices are contextualized with an overall direction of travel, but not
+too worried about the particular choice at hand, then you do quite naturally flow along.
+So I think that for me, flow in the service of reaching a conclusion, you know, is just
+a description of existence.
+So it would look like things are measuring things.
+It would look like things are observing things.
+And crucially, it's not that we're just passive ingestants and assimilators of the flow of
+sensory input.
+We can now act upon the world to sample and direct that flow.
+So you've now got this interesting circular perception action cycle.
+The circle comes out into the inside and the outside.
+Where I'm trying to make sense through a process of inference, if I can do that gracefully
+for a long period of time, I am basically in tune with my environment, with my world.
+Keeping your mind open and finding the simplest explanation, that's the best way to reach
+understanding or explanation for the world.
+It's too easy to mistake the model for the reality and you think you're fighting about
+the reality, but you're fighting about the model.
+These would be issues if it was only me on Mars, I wouldn't need a theory of mind.
+But as soon as it's something like me, like you, I now need a theory of mind because we're
+not talking about one particular state of being.
+The world is always moving.
+And as you say, it's not about finding the perfect state of being.
+It's finding the best fit to a constantly changing world.
+And it's always constantly changing because you're changing it for me and I'm changing
+it for you.
+So as soon as we put two things like us together, we guarantee that we're going to be
+learning from each other and constantly changing.
+We're always chasing away uncertainty, always chasing away surprise, always chasing
+away epistemic entropy, always on the moon.
+So this is what I meant by flow, flowing on this attracting set or attracting manifold
+where that manifold or that attracting set is all consistent with the kind of thing
+that I am.
+And it's incredibly itinerant, technically space filling, that has low volume in the
+sense of only a very small number of all the states I could be in that are consistent
+with me living and being alive.
+Hello, everyone, welcome to Love and Philosophy Beyond Dichotomy, where we try to look past
+traditional divides and divisions and notice the pattern that connects.
+Today is a holiday episode or even Carl called it the birthday episode because this has
+been one year since I've been putting these conversations online.
+And it's also the end of the year.
+Twenty twenty five is almost here.
+It's holiday season.
+So this is holiday flow with Carl because this word flow, as you'll hear, is very
+important in this conversation, comes up from the beginning and goes through to the
+end and connects some of the terms that we're using.
+Also, this tricky way that a lot of these terms are everyday terms, but mean something
+a bit different in the mathematics, in the neuroscience and the way that Carl uses them
+in his work, words like energy, value, entropy, belief, connection, surprise, flow.
+We talk about all of those from different perspectives here, and I try to think about
+them in a way that can be understood from whatever side you might be coming to, whether
+you're thinking of those in terms of mathematics or just in everyday life.
+Carl Friston is maybe the most famous neuroscientist in the world.
+That's how he's often described.
+We talk about that and why that is as it is some of the inventions that he's come up
+with over his life.
+But in the YouTube world or the podcast world, he's most known for this idea of active
+inference or free energy principle, which is a first principles account of sentient
+behavior, I guess is the short definition of it.
+He's trying to understand what sentient behavior is and how we can go to the beginning
+of it, so to speak, although we talk here about maybe not thinking of this in a linear
+way, but what connects life and sentient behavior and how can we understand that?
+As you know, this podcast is a lot about patterns that connect and I actually see a
+lot of the math, which is very difficult, by the way, and we don't talk about math here
+too much. Certainly, we don't talk about it in any way that you need to understand math
+to listen, but his work, Carl's work and active inference and the free energy principle
+are very mathematical.
+But I see this as a sort of maths of how we might notice the patterns that connect at
+different multiscaled areas of behavior or cognition or life, depending on how you want
+to use those different words.
+And by that, I mean that it's a way we can externally represent these processes and
+activities so that we can see the patterns that connect them and what they have in
+common. What's different about life and non-life, for example, or how we connect
+something like the way we move through the world to the way that we think through the
+world. I try to bring in some of those ideas here and ask him about them.
+And as you'll hear, we get to some really interesting places because there's actually a
+lot of paradox being held in his work and in the math that he's doing.
+There's this kind of math called Bayesian statistics, which I think within itself is
+able to hold paradox and part of how we can now maybe have mathematical models that do
+this, that help us understand the patterns that connect.
+So we talk about that here.
+He explains in a way that I think is very understandable, this almost contradiction at
+the heart of the free energy principle and active inference and a lot of his ideas, which
+is that we're both minimizing and maximizing energy or entropy.
+I'm going to let you listen to him and to the conversation to understand that.
+But I just want to note it here that it's one of those patterns that I'm talking about
+and that he explains very well, even though you might have to listen to it a few times or
+read some of his other papers before it starts to really fully open.
+But even if you don't want to read any of these hard papers or think about these
+difficult issues, you can listen to this conversation, not needing to know all of this
+stuff, because what we talk about is what that model is showing.
+And it's this idea of flow of how does one stay in the sweet spot, which is to say, stay
+alive. And that is through this minimizing and maximizing of energy and entropy at the
+same time and at multiple scales.
+And that has a lot to do with how we think about the body, what we think of as life.
+That's why this can seem like a theory of everything, almost like you just can't
+handle to think about it because it's so big.
+But in this conversation, we walk through these ideas in a way that's very
+understandable. There's so much more here than I could really get to.
+For example, he mentions Jeffrey Anton and Peter Diane and Jerry Edelman.
+All of those are figures I would love to have talked for an hour with Karl about,
+because there's a lot of history.
+I'm going to link to some things that you could read if you want to know more about
+that history. We do touch on quite a lot of it here.
+I think one of the most interesting parts for me is when we talk about what philosophers
+will recognize as a common problem or issue that is often talked about in terms of what
+is alive or not alive, why isn't a thermostat or a watts governor or some sort of machine
+that's functioning in an organized way, not able to be called life.
+In my work, I link it to affordances in the thesis I'm writing.
+Affordances are the way we can distinguish these things and solve some of these bigger
+problems. I bring that up here with Karl.
+He seems to agree with that or it seems to fit very well with his work, even though it
+takes a bit of time for us, Karl and I, to become clear about exactly what these words
+are meaning as we're using them.
+He also says at some point that inference can be exchanged with computation or measurement,
+the word itself, because I push him a little bit on the idea of unconscious inference,
+which is an important word in his work.
+And it's a term that could also mean unconscious conclusion, for example.
+And Karl says that inference could be exchanged with computation or measurement or any of
+these words. And this points to another theme that we've talked about a lot here on the
+show, which is what's the difference between the model and the process that's being
+modeled, especially when we are the process doing the modeling of our own process.
+This can become very meta, confused, hard to understand.
+How am I as a person able to model my own patterns or habits to myself?
+And within that entanglement, what's the model and what's not the model?
+And all of this has important repercussions in real life, because it starts to matter
+how we think about what the brain is, what the body is, if it's a machine, if it's not
+what's objective, what's subjective, which one of those sides should be taken seriously.
+All of these are very important themes for holding paradox.
+And we talk about those here in a very particular way.
+There's a lot of answers here to a lot of big questions.
+If one is willing to be patient and try to understand where Karl is coming from and
+understand this line of questioning about how I'm trying to understand what the space is
+holding binaries.
+We also talk about listening, and Karl says that the secret to success is doing what you're told.
+That's another thread that runs through this conversation that's very interesting and that
+will become a little bit like holding the paradox by the end, because being told what
+to do, as Karl eventually unpacks, is actually being able to listen to what other people
+are saying to you relative to where you are, to your perspective.
+This conversation connects to the last one with affordances with Harry Haft and to the
+one coming next, which is with Evan Thompson, where we discuss in a very pointed way a lot
+of the ideas that I raise here with Karl about subjective and objective and the difference
+between the process and the science that's modeling or measuring that process.
+But I just want to say from the beginning, these are hard subjects and a lot of people
+are trying to figure them out in the best way possible.
+Karl has done so much work on so many levels.
+You'll hear about a lot of it here, but there's even so much more.
+He's really given a lot in all sorts of fields and disciplines.
+He has dedicated his life to trying to articulate what I think of as the pattern that connects.
+The work or the writing about the free energy principle can get criticized for what I was
+just saying, that it's taking the model for the territory, which by the way, Karl is definitely
+not doing.
+He's always saying this is just a model of the process.
+But because our language is so tied up with these binaries, it can be very hard to even
+talk about it without lapsing, as he says, back into that language.
+So it does get very confusing, but Karl himself is clear about it.
+Some of the things I push him on here are just to clarify that and to make it understood
+for myself and for listeners.
+Because there's a lot of insight here that can be a gift if we are able to understand
+exactly what these terms are doing, the work they're doing, and understand it as a way
+that we can see how these different patterns of life and cognition and consciousness connect
+at many different scales within our own lives, within our own bodies, but also within the
+wider ecological world.
+So thanks for being here, and I wish you a very beautiful holiday season wherever you
+may be.
+And if it's not a holiday season for you, I wish you a wonderful couple of weeks until
+I see you or hear you or you hear me or see me again.
+Thanks for all that you gave this year.
+Thanks for becoming part of this endeavor.
+And I send you lots of love and warm greetings.
+Hi, Karl.
+We already said hello, but thank you so much for being on Love and Philosophy today.
+Thank you very much for having me.
+To get started, I thought I'd ask, what's been on your mind over all these years?
+You're humble, and you often say, no, I'm not.
+But many people have told me or say that you're the most successful scientist of our times
+and so on.
+And you've worked on a lot of different things.
+But before we get into that, I wonder if there's been any one problem or idea that stands out
+for you as something you had at the beginning of your career that you still have.
+That's a nice question to start with.
+I think the secret of success, and certainly my success, is to do what you're told.
+So the very fact that I have got involved in so many things, it's because most of my
+work is in response to collaborations or interactions, usually with younger people, with students
+to whom I am responsible.
+And they go off in very, very many different directions, and one has to follow to a certain
+extent.
+Has there been one overriding ambition or question?
+Yeah, there certainly has.
+I started my career, or I designed my career, really, or made the choices that enabled me
+to study what arrogantly is probably the most interesting thing in the universe, which
+is me, or at least my brain.
+So from a very early age, I was looking forward to a time in life where I could just focus
+scientifically, well, on many levels, on how I work or how one's brain work.
+And of course, that necessarily entails an understanding of how other people's brains
+work.
+So that had implications in terms of my journey, specifically in terms of doing both mathematics
+and physics to formalise that research and that understanding, but at the same time also
+going into medicine and psychiatry and qualifying as a psychiatrist.
+So in later life, I was able to combine these dual routes to self-understanding and probably
+more importantly, other understanding.
+I'm glad you brought up those different roads that you've met or have been part of your
+life.
+But as you were talking, two things came up.
+I was wondering if you ever say no to things, because I know a lot of people you help and
+work with.
+So one wonders how you can possibly do it all.
+You seem to say yes, and somehow you're able to do it.
+Connected to that, I seem to remember that's how you got into psychiatry in a way.
+Someone told you that you needed to have all of that in order to pursue the more physics
+or mathematics-based interests that you had.
+Was it that also a matter of doing what someone wanted from you?
+Well, doing what you're told, yes.
+Yeah, doing what you're told.
+It's nice you heard that story, which is absolutely true, yes.
+So I was in my late teens deciding what kind of A-levels or baccalaureates and then what
+kind of course I'd like to do at university, and there were two funny stories.
+One funny story was that this was at the time that computers were being invented and used,
+and one of the computers was deployed to try and predict the perfect career for school
+children.
+And I was a guinea pig, and I remember actually being televised by the local television stage
+station, putting in all my preferences for the perfect life into this computer and then
+waiting.
+I was about 15 years of age, 16 years of age, but in those days there was no email.
+You had to print out things on cards and send them to Liverpool University and wait for
+the response.
+So a week later, the envelope arrived, my perfect career, having spated my enthusiasm
+for nature and working outside, but I also liked physics and engineering and electrical
+things.
+So my perfect career apparently should have been a television aerial erector, which means
+I could...
+What?
+What is that?
+Sorry, a television aerial erector?
+Erectors, yes.
+I've never heard of such a thing.
+Well, yes, nowadays with sky, with dishes and cable, you wouldn't need them.
+In those days, you had to have an aerial on the top of your house in order to receive
+the radio waves to make it work.
+Like an antenna.
+An antenna, yes.
+A television antenna erector.
+Okay.
+Wow.
+Hello.
+I took this to my career advisor and said, well, actually what I'd really like to do
+is the mathematics or the physics of psychology.
+And he said, oh, if you want to be a psychologist, you have to be a doctor first.
+And what he meant was he thought I wanted to be a psychiatrist as opposed to a psychologist.
+And of course, in the UK, you have to become a doctor before you become a psychiatrist.
+So neither of us knew the difference between psychology and psychiatry.
+So I dutifully applied to do medicine and then went to university to do medicine and
+then discovered afterwards that I didn't quite have the mathematics or the physics.
+So I was able to put that into my early undergraduate training by mixing and matching courses.
+Yeah, so you're absolutely right.
+Doing what you're told is not always the best idea if what you're being told is not quite
+what you had in mind.
+In this case, though, maybe, considering where you are now, something good happened.
+Yeah.
+It was very important.
+Absolutely.
+Yeah.
+The quest for understanding others themselves clearly was made much more poignant by the
+fact that I ended up trying to learn about, diagnose, treat, help people with very psychiatric
+conditions and particularly schizophrenia.
+I wonder where, when, if there's a memory of the mathematics becoming such a fascinating
+puzzle for you.
+Also the psychological, I've heard you talk something about maybe you wanted to do psychological
+mathematics or mathematical psychology, but that's becoming a more normal thing to put
+those together.
+But I don't think back in the days when you were being told to become an antenna erector,
+those were really commonly put together.
+Maybe I'm wrong, but I wonder if you remember trying to put those together already early
+on.
+Yes.
+I mean, very explicitly.
+I applied to a university, Cambridge University in the UK, specifically because they allowed
+you to do and still do a natural sciences trade post that allowed you to do a mixture
+of psychology and physics.
+So I was able to study quantum physics and probability theory at the same time as studying
+psychology in service of acquiring a medical degree.
+That decision I think was probably much simplified, but now looking back, I think it was in deference
+to the dual interests of my parents.
+So my mother loved psychology and she used to get all the popular psychology books, Thinking
+Elatially and all the books that one would read in the 1960s to gain insight into yourself.
+I had to read all of those, then my father was an engineer, and he had a passion for
+understanding things mathematically in terms of the physics and made me read again an instance
+of doing as you're told, reading Serafa Reddington's Space, Time and Gravitations.
+So there were two of these two feats, so it was quite natural for me to try and lay one
+to the other and to build a career that allowed you to do that.
+You're absolutely right.
+Now that is almost the norm, isn't it?
+If you think about computational neuroscience, theoretical neurobiology or indeed nowadays
+machine learning, artificial intelligence research, to make a difference practically
+in the 21st century, you have to be at least have some fluency with computer science and
+with programming, with data science and the underlying maths of that.
+And of course, the most interesting thing to apply that to is other people and other
+users.
+Yes, exactly.
+There's computational everything now, psychiatry, neuropsychiatry.
+But you mentioned schizophrenia, and that's an important part of your early world coming
+into the neuroscience.
+Was it a residency?
+I'm not sure what it was, but I feel you spent some years living with patients, people who
+have what we call schizophrenia.
+Is that correct?
+Yes, absolutely.
+Yes, it was exactly a residency.
+It was a training program in psychiatry, a long program lasting for many years before
+came a member of the Royal College of Psychiatrists in the UK.
+And two of those years involved partaking or being part of a therapeutic community for
+people with chronic schizophrenia.
+Absolutely.
+Yeah.
+That's a very strong, I mean, for me to try to imagine being in that environment for
+so long, would you say that influenced all that was to come or was it just a sort of
+interlude?
+I'm wondering when you're in that environment with people who are operating or living in
+a way that's different from the so-called norm, whatever that might be, if that influenced
+the way you think of, you thought of things like energy and entropy and the way they can
+be different for different people in different circumstances, because later on you would
+deal with all of that in different ways.
+If I think at the time, what I recall was the de-skilling that is required to be open
+to understanding and living with people who in this instance had chronic psychotic disorders.
+So that really requires you to pull down and to de-reify everything you thought you knew
+in order to be receptive to a different perspective and a different set of experiences.
+So in fact, the formalization or the naturalization of the way that people made sense and things
+and made decisions that I was dealing with as a young psychiatrist came after the event,
+after many, many years.
+So what needed to be understood was the gift of that kind of early clinical experience.
+So at the time you were not thinking about free energy or entropy, you were trying to
+understand why this person was distressed or enjoying your neologisms and their natural
+thinking.
+But then as time went on and you got more and more into biological psychiatry and neuropharmacology
+and the bi-physical mechanisms that underwrote this kind of sentience and decision-making,
+you started to apply what you had learned as a student in terms of modeling and the
+physics, both in application like MRI physics and neuroimaging, but also in terms of inference
+and modeling that inherits from a knowledge of probability theory and statistics.
+So you wrote this paper with Chris Frith that's pretty much what it was and still is a different
+notion of how to deal with something like schizophrenia, the disconnection hypothesis.
+In there I think you talk about value and belief or I read somewhere maybe that was
+part of what inspired that hypothesis that the disconnection hypothesis that cells aren't
+connecting properly, you can explain it better than me, might be maybe in the prefrontal
+and temporal lobe, have to do with some of the manifestations of schizophrenia.
+I feel like that was already connected to words like belief and value and so on.
+Is that right or was that later too?
+No that's absolutely right and you phrased it very nicely.
+So in getting into research I was lucky, I did as I was told, I was focusing on brain
+imaging by people like Peter Little who was at that time one of the young, good and great
+of schizophrenia researcher who had seen the potential of brain imaging and the people
+in charge of assembling an expert team to deploy brain imaging to understand schizophrenia
+included people from Chris Frith who was at that time at Northwick Park.
+That was the scene setting in the UK at the inception of modern human brain mapping but
+I did a sabbatical with Jerry Edelman at the Neuroscientists Institute at the Rockefeller
+subsequently Scripps Institute in California and our focus at that time and I say our
+including people like Reid Montagu and Julio Snoddy, Olaf Sponsi and some key young men that
+Edelman was mentoring was on value dependent learning.
+So I think that's where the value gets it and you're absolutely right to understand how we
+wire ourselves to understand the fundamentals of how we make associations and how those
+associations are installed in terms of synaptic connections requires a very mechanistic understanding
+of when and where you should consolidate those synaptic connections.
+So it was a natural step then to think well if people who have positive or negative symptoms
+of schizophrenia in some way are suffering from a failure of this kind of associative
+plasticity and this what subsequently now could be regarded as a kind of synaptopathy a pathology
+of synaptic connections then this would be a natural explanation for the disintegration
+of the psyche described by people like Loyler a century previously.
+So what that pointed to was a failure of functional integration or a failure
+of connectivity in the sense that the connection the connectivity dictates the coordination
+of neuronal networks neural activity that underwrites our sense making and the way we behave.
+So on return to England and analyzing the brain imaging data from schizophrenia we were looking
+for evidence of this pernicious kind of disconnections disintegration not of the
+sort that you get with a stroke or a neurodeteriorative disease where well certainly
+sort of for example nuclear dystrophies where you might get a disconnection due to a cutting
+of the wires more a functional disconnection that rested upon a failure of synaptic integration
+at the sort of molecular level and more specifically the failure of to modulate appropriately
+contextualize when and where and how you should consolidate this connection or modulate this
+this connection. So the value here was a rather generic notion of value the kind of value that
+you find in utility theory in economics or reward in behavioral reinforcement learning
+from Jerry Edelman's point of view it was even more generic it's just basically
+adaptive fitness how fit is this path of connections in order to ensure the assistance
+or longevity of these neuronal groups in response to this sensory input and so he read value very
+much as a theoretical biologist might read adaptive fitness you know simply how is it
+that certain connections and certain on cell assemblies neuronal groups come to into existence
+in the same spirit and you know how is it that phenotypes such as you and me come into existence
+at an evolutionary time scale and then looked at the same maths to try and explain things in terms
+of this value dependent or fitness dependent pathos the shape.
+I'm trying to imagine the time period because it feels like to me was this the beginning of
+something like fmri which was that was like the 90s right when that first became okay so this was
+really in the moment of the first time a lot of this was happening and when at what you just
+described was that an application of psychology to brain imaging something like I think it's
+called schwarz theory of value or these it makes me think of circular causality and loops because
+there's all these old ways of thinking in psychology there's sort of these loops and circles of
+usually binary sort of categorizations of what's called value and values are considered to be
+beliefs and so on so is that a jump was it literally being applied to the mathematics
+and the mechanics those at that time in those early years or was it already removed from those
+sources? No no I think I think there was an intimate and deep link and you're absolutely
+right and these this early work was coincided with the inception of things like functional
+magnetic resonance imaging in fact the very early this and the empirical evidence for
+the disconnection hypothesis in schizophrenia actually came from positron emission tomography
+which was had been going for about half a decade before fmri started you know to become available
+routinely in the early 90s so slightly before fmri were the first evidence not just from our
+group but a number of groups who for the first time could image the entire brain that's important
+because if you want to make a comment about or infer a failure or dynamic coordination or
+functional integration that involves all of the brain you have to be able to measure all of the
+brain at the same time so brain imaging was very important and be able to do that was the first
+time ever that people had a window on the functional integration over all of the brain
+and were able to make comments about the coupling between brain areas of connection the functional
+connectivity as it's currently known because you were able to measure that at the same time
+the maths in terms of the beliefs and the value so you could certainly read it from a sort of
+psychological perspective but you could also read it from the point of view of
+behavioral psychology in terms of reward learning and so the kind of value that Jerry Adelman was
+talking about and that we were talking about transpired to be easily translated in terms of
+reward for example it's not you know there are certain it's subsequently transpired that that's
+not the complete story but certainly you could talk very comfortably to with people in behavioral
+psychology reinforcement learning and the early machine learning and computational or neural
+network people who have been working on the similar and you know what was the right objective
+function in order to learn the right weights in a neural as opposed to a neuronal network
+I think the notion of value that you are referring to and the circle of causality
+was it came to the fore a little bit later in my life in terms of understanding the more generic
+principles of the self-organizing brain and those I think were inspired by
+work on predictive coding and certainly the work of my next door neighbor who was Jeffrey Hinton
+who was you know at that time he'd come from the Americans and was working next door in Queen
+Square at the Gatsby competition neuroscience unit so his work was inspirational along with
+his younger colleague Peter Diane in terms of taking Helmholtzian ideas about the unconscious
+inference and also the mechanics of how an artifact and a neural network for example
+would comply with those basic principles of modeling and understanding that could be read
+in terms of a Helmholtzian notion of unconscious inference and at that point I think the kind of
+value that you're talking about became center stage in terms of what is valuable to me what
+are my prior preferences and you know how would I write that down in terms of a physical principle
+of least action that which is just a biology principle and how would I demonstrate and reach
+out to cognitive neuroscience and philosophy sorry not psychology psychology more generally
+and the philosophy of mind and psychology.
+It's fascinating I think a lot about dichotomies when this beyond dichotomy and binaries and of
+course in everything that we've already brought up there's a lot of binary built in whether it's zero
+one or whether it's these models that are usually either or or versus I think that Schwarz model if
+I remember correctly is something versus something always in psychology and I'm wondering if it was
+sort of co-creating you know the technology and the way that we approach mind body or I mean there's
+all these dual not dualisms but just binaries of the way that we come to understand the body and
+the brain and all the cognition and you know we see we seem to have used binaries to progress up
+to this point and it's interesting to see how the technology and the ideas were sort of co-evolving
+what was influencing what at that time is very interesting that you were with Hinton and you also
+brought up unconscious inference which I want to ask you about but first I should just say I remember
+once I think that for some I was in with you in the same room or something was in Berlin at the
+Technical University when you came and that was a while ago maybe 2019 and I think I remember
+someone saying here's Carl Friston basically every image you see of the brain depends on him
+or or you're looking at his work or something because because of the software you invented
+which I can't remember all of it I know there's a lot like VBM and SPM and um the the dynamical
+okay but the point for people who are listening in case they don't know they only know that all
+this other stuff you're famous for you actually have invented or I guess that's the word invented
+a lot of software or programs that have really become so important to the way we image the brain
+you brought up this amazing moment of being able to actually look at the brain as you were
+describing it I was thinking of the first time we could take a picture of the earth from the
+moon or something this kind of moment where things change where you get a different perspective and
+you can see in a whole way I wonder if you felt that in the community at that time
+of a perspective shift and then I wonder why you wanted to make this new software
+that has become so important to everyone who's looking at that bigger perspective in a as
+general as possible way maybe you could walk me through that part of this part of your journey
+right um but that's a good question and I have to say because um I was new to the game for me
+it wasn't a um drop the mic moment or what for me this seemed to be the natural way to study the
+brain to basically image the brain in action um and um well let me come back to you know answering
+that question but just briefly um for your for your listeners just um explain the nature of
+that software and its importance at that time so we have lots and lots of data so this was the
+first instance of big data so this before the human genome so this is this was the first time
+that people had to deal um with very large time series with you know thousands millions of
+pixel elements or volume elements called voxels that constituted a great image not just at any
+one point in time but a sequence of these things that could last for minutes if not hours
+so to handle that you basically have to solve a relatively difficult statistical problem
+which is inferring where your interventions during these successive acquisitions of brain
+images were causing a difference in brain activity and neuronal response of neurophysiological or
+hemodynamic response based upon the blood flow changes um the difficulty was um that there was
+a certain slowness imposed by the um the brain imaging which meant that you have to adjust for
+an account for um that statistically so basically what we did was invent a um a statistical procedure
+that effectively gave you x-rays of brain activation um so you know when people point to uh
+these um heat maps of brain responses they are almost universally images of statistics or not
+images of activation they're the images of how significant is that activation
+understanding carefully all the correlations and all the confounds that could have caused that
+so that was statistical parametric mapping just to stop you for a second for people who are
+listening so almost everyone in some science magazine or just anywhere on media social media
+you see these images now right of i almost sometimes think we need this little
+caption underneath like this is not a pipe this this is not a brain because those images are
+almost the way we think of brains now as those are brains with like little parts that are lighted up
+but that we're basically looking at your work in a way right well yeah i think that's slightly
+it's a little grandiose but that's what it is like everyone has seen it probably even if you've
+never studied neuroscience but you you've said something very important there about this sort of
+you know understanding what you are looking at in terms of lots of little activations lots of
+little bits of the brain lighting up of course that's not the complete story um and perhaps
+i'm kindly perhaps um in a joyful way people used to refer to this as cartography or neocartography
+map making in terms of you know this is the part of the brain the city that does color this is the
+part that does uh sound this is a part that does edges this is a part that does love you know
+just building little maps of the brain of course that's not um an understand not convey an
+understanding of the functional architecture of the brain it does to a certain extent in the sense
+you can now confirm the principle of function segregation by which i mean that the the brain
+is organized according to a principle where different functions are anatomically segregated
+specialized in anatomically segregated regions and that's basically what you're looking at with
+these little heat maps the other side of the coin though is a functional integration it's the
+coordination that we were talking about before the connectivity so these dual principles of
+functional specialization of functional integration you can even say functional
+differentiation of functional integration um were um part of the journey of developing the
+right kind of maths and software in order people to for people to answer questions about not just
+where in the brain their favorite cognitive process or their favorite decision making or
+their favorite um the sexual synthesis was occurring but how that processing was distributed
+and coordinated um in terms of the coupling between the holes integrated in terms of the
+coupling and that's where the dynamic cause of modeling came in so that was the the next wave
+it's moving on from cartography to connectivity um and that's um i repeat reflects this sort of
+um distinction between specialization and integration as these two principles of
+functional brain functional brain architectures then there was vvm no vvm yeah vvm is just a um
+application of the same statistical procedures as to call statistical parametric mapping
+not to functional images that are acquired over time but structural images of anatomy
+that are acquired over different people so that allows you to pick out if there has been um say
+a particular deficit in the anatomical structure in this brain region when i compare a whole bunch
+of people who are neurotypical with say people who have Alzheimer's disease and you can track
+that longitudinally as well and voxel-based morphometries it's an application of svm to
+structural data um so you know the the bright line really is the move from um these whole brain
+statistical analyses to the connectivity and the dynamics and the cause and more causal yeah what
+causes what to come back to your circular causality uh which is important for the brain because i know
+well with the exception of some um corticobasic ganglia connections there are no connections in
+the brain that are not recurrent to everything all of some organization is inherently circular
+um but to come back to your your what was this um did people realize that this was a moonshot
+moment or there were people so there were people for example people like semizeki who was one
+you know the uk's um great and good in terms of understanding uh functional anatomy but all of
+his life and all of his uh intellectual forefathers could only have very limited views of what how the
+brain was put together either through neuropsychology looking at the the lesion deficit um model in the
+sense that if i leave a little part of the brain what function is is lost although using um in
+electrophysiology just to measure one little part of the brain at a time or indeed is even um
+possibly even one neuron a neural population at a time so no one had actually looked at the entire
+brain in action um in a context sensitive way previously so i think for for neuroanatomists
+and neurophysiologists who had spent their lives either doing neuropsychology or neuroanatomy or
+doing neurophysiology in animal models that this was a remarkable moment i mean there was a degree
+of um not physics only but some imaging envy from these people who couldn't actually get access to
+so it wasn't all uh joy and and back slapping
+because you know um you know what i do remember quite acutely is the monkey electrophysiologists
+got very cross with the um the young uh turks that were doing all this brain imaging
+simply because they could acquire their data in one week take a week to analyze the data and then
+write a paper and it would always get into nature because it was such an exciting new technology
+whereas the poor monkey electrophysiologists would spend two years training that monkey
+acquiring the data carefully in a crafted way uh for six months spend a year arguing with
+the viewers before they get their paper published and they just could not understand why you could
+short circuit all of this hard work and crucially of course you were brain imaging was attracting
+all the talent all the young phd students now wanted to do brain imaging so there was a lot
+of tension in that paradigm shift that basically took cognitive signs into the area of cognitive
+neuroscience i think you you could really um say that neuro brain imaging of this kind neuro
+imaging of this kind um so made cognitive science into a neuro biological science should be because
+now you have an empirical measurement of the culture mechanics that people have been studying
+up and up until that time and i didn't know that remember i came from psychiatry and theoretical
+neurobiology and i had no experience with monkey electrophysiology or neuropsychology
+so for me it was just quite just the thing to do you just fit sort of perfectly in the time
+where that's what you learned to as your skill set right very very lucky but again if you
+disrupt upon doing what you're told this thing needs to be done i'm not sure i believe you always
+just do what you're told but i mean was it was it really so or maybe it's it there is a kind of um
+what's i don't think you meditate or anything but there's a kind of
+meditative sense to you and your work that you do sort of stay in a flow is that just been natural
+for you since those early years that you kind of found a way to flow with life i know i'm being
+i'm simplifying it but is that kind of what you mean by doing what you're told or was it really
+just yes i think that would be a nice way of describing it so you just have to make
+um listen to the right people well make the right choices on the basis of what you're being asked
+to do at each point and it you're as long as those choices are contextualized with an overall
+direction trouble but not too worried about the particular choice at hand um then you do
+quite naturally flow along absolutely it's a very nice way to describe it
+and there's something about also getting a perspective and an overview because you have
+to choose which person you're going to listen to because a lot of people will be telling you
+what to do or could be telling you what to do so yes um yeah well um as you get older there are
+more people who want to tell you what to do oh really as you get older oh yes yes because
+you get more famous and more people start to think that you should be doing that
+when you're young you're just grateful for the opportunity to do something and so it wasn't
+quite as difficult to make those choices as it would be nowadays so this is one part of why
+you're so famous and everyone wants to tell you what to do is because you created these amazing
+software things that now everyone uses in your i think your double in the h-index and quoted more
+than anyone a lot because of that because everybody's using it but you mentioned this
+unconscious inference from him old and that moves into another thing that you're famous for which
+is this active inference free energy principle there's a lot of connections there but i want
+to just this word bothers me because i wonder about him old unbevus to schluss unbevus to schluss
+yeah i know german but i sound terrible saying it sorry everyone but as i understand that that's an
+unconscious conclusion or statement or something like this so why is it translated as inference
+because this gets to some of the confusion i have personally about for example the image of the
+brain with the brain itself or life flowing along in the in a way with metacognition life knowing
+that it's flowing along could you just maybe tell me how you came across him old and what this word
+means for you the unconscious inference right yeah well again an excellent question which has
+so many different answers that present themselves to get to some foreground the points you're making
+um first of all um inference is read here in a very generic sense um and it's just read in the
+sense of indeed reaching a conclusion on the basis of some evidence it just so happens that in um
+Helmholtz's unconscious um inference um the evidence at hand is his sensory input
+but you know the notion of inference here is just basically explanation to the you know to
+or an explanation predicated upon evidence the evidence what the evidence what what is
+um the thing that has the attribute of evidence well it's a conclusion it's a hypothesis it's a
+model um so that conclusion of alternative conclusions or hypotheses that has the greatest
+evidence is the one that you normally commit to and that committing is a process and it's
+a process that can be described as inference but it's also a process that can be described in terms
+of dynamics and physics so you could argue um that everything is or can be read as or described
+as a process of inference it it looks as if it is measuring something or observing something
+so i'm quite happy happy treating synonymously inference um measurement observation
+computation all of these things are just different words for the same um underlying process that
+entails some optimization of the evidence for your modeling of either your data and your
+in dynamic causal modeling for example or um of your sensorium and notice because it's a process
+it is a flow it is literally a flow and indeed the free energy principle or the the classical
+physics derivation of the free energy principle starts with a flow equation it just says if the
+world can be written down or if some universe can be written down in terms of the way that
+my states or any state in the universe flows as a function of where you are in state space
+that's it that's that's what the starting point of the free energy principle and all you're saying
+is of this particular flow blows um a gradient or in a direction that maximizes the evidence
+for an implicit model and then you have to get into the game of a model of what well the model
+of everything that's causing my sensory inputs or my data and then you have to carefully define
+the boundary that defines that set me up the sensory inputs from the world out there from
+the thing that's doing the sense making so for me it's a mark of blanket sort of absolutely yeah
+that is exactly the money is the mark of blanket or the boundary that separates you from everything
+else and the universe impresses itself very much in the spirit of helmholtz's version
+of sensations impressing themselves on your sensory veil on your sense sensory epithelia
+that would just be the sensory sector of your mark of boundary or your mark of blanket and then
+that induces some flow on the inside and that flow is inevitably not necessarily under the
+free energy principle um describe it you can describe it as a principle because it's maximizing
+the the basic model evidence for the underlying um or the implicit generative model of what's
+going on so yeah i think that's yeah for me flow and in the service of regional conclusion
+you know is just a description of it of existence so it would look like things are measuring things
+it would look like things are uh observing things and crucially just to bring in your
+circular causality again of course it's not that we're just passive sessile
+ingestants and assimilators of the flow of sensory input we can now act upon the world
+to sample and direct that flow so you've now got this interesting circular perception action cycle
+the circular causality to the inside and the outside where i'm trying to make sense through
+a process of inference of the data that i am myself creating through action and if i can do
+that gracefully for a long period of time i am basically in tune with my environment with my
+world i have this adaptive fitness in the sense of edelman's value this generic notion of value
+to come back to our earlier conversation yeah and that's actually a good description of what i was
+trying to describe as what you meant by doing what people told you to do but carl this part is
+really hard for me and i hope it's okay we already time is flying by but i really hope we can dig
+into this just a minute because i find it so confusing and also so inspiring that what you
+just said that there you start with the flow that flow that is the first equation and i feel like
+what what a lot of your work with the free energy principle in active inference does is
+give a model to that ongoing process that can't ever be fully modeled and it does it in a way
+that such that the model itself can continue to change and evolve because the process has to
+continue and to change and evolve which is a very different kind of math and a very different kind
+of statistics and i think related to why bayes bayesian statistics is involved but just this
+unconscious inference versus unconscious conclusion i wonder what you think for me
+it seems like what himholz was talking about or what you even are or just describing is
+that life process that can't be separated it's not inferring in the way at least not in the
+everyday use of that term in the sense that something is setting against itself in making
+a decision it feels more like that flow or that alignment such that for example my body comes in
+and every single thing that it's encountering it has to not be molded by but in a sense be molded
+by fit to i guess would be a word some people use fitting to the world and the brain part of that
+a very big part of that and then out of that same continuity and that same flow we can begin to
+recognize the ways that we've aligned and start to make something like inferences
+that's how it seems for me so then when i i don't hear those things distinguished
+maybe they don't need to be distinguished or maybe i just misunderstand it but does that
+make sense to you at all no it does absolutely i think i think we certainly need to be distinguished
+so let me just be very clear about the way that people like me use the word inference
+so notice that unconscious inference immediately tells you this is not about a propositional
+declarative subjective explicit act it's not a mental act at all this is something
+unconscious exactly exactly so i think what you're saying is that if we now want to have
+conclusions and inferring things in a propositional way that i could actually
+articulate not just to something else but to myself then you'd certainly need to have now
+a meta inference a meta cognition that's looking at your unconscious very low level processes of
+the kind of thermostat could be accused of having you could argue that a thermostat is an instance
+a very very simple one but it is an instance of unconscious inference in the sense that it has
+a prior Bayesian belief and again i'm using belief here not in the vernacular it's just a
+description of a Bayesian probability distribution but you could argue that the
+thermostat as a Bayesian belief that the temperature of this room should be at a fixed set point
+and everything that it does all the way that it acts upon the environment is to make that
+belief come true so it's basically doing active inference it's just inferring what the cause of
+its thermoreceptors is and if it deviates from its prior Bayesian belief it will act upon
+all the world to realize its priority but no point would you say that the
+thermostat is thinking or has any awareness or is making decisions or reaching any conclusions
+i think you then need a layer on top of a myriad of coupled thermostats
+for you and me of course these would be autonomic reflexes and motor reflexes
+you're truly embodied the brain and the body perspective and you'll be looking at that and
+you may have to do that several times before you've got to this is not a pine to know that you are
+proceeding to know that you are engaging in unconscious inference consciously requires an
+enormously elaborate kind of generative model and interestingly you know from the point of
+view of writing down the kind of models that you need to be able to do this kind of medical
+mission and have self-awareness they have a hierarchical depth so you're now very much in
+the same sort of architectural space as deep learning so the deep in deep learning to says
+you've got hierarchical depth so i think that's what you're talking about and it's really you
+know you mentioned you've mentioned a couple of times you know this um the way that we understand
+the world um very often can be cast in terms of a dichotomy or a binary um kind of representational
+state space i think that's very insightful i would read that as basically
+um curbing nature at its joints in order to understand that um and certainly that's been
+my experience in computational modeling and it's been a move away from these continuous um flow like
+generative models at the periphery near our sensations as we get deeper and deeper and
+these models they'll become very categorical you know for example words you know there's no
+um you know there is no sense in which a particular word saying definite article
+has any continuous representation it's just what it is as opposed to another word so i i think
+the way that we carve nature at its joints as in store in these generative models does speak to
+this simple binary categorization at some point that we could articulate and actually talk to
+ourselves about them and you know and communicate not just with other people but also you know with
+ourselves at that uh that's a very very deep and abstract in kind of inference which now may encroach
+upon conscious inference and awareness and experience in the way that i've carved my
+world at its joints and my world is largely all about me and my body and my interactions with
+other things that have bodies like me i infer minds like me so yeah i often get told off as
+talking about some beliefs um in my world a belief is just a probability distribution so you talk
+quite freely about Bayesian belief updating so a thermostat can do Bayesian belief updating
+of course it's a very trivial kind but it does it um and so you know the Bayesian aspect means
+that it is not the vernacular kind of belief so i'm assuming when you talk about conclusion you
+actually meant a conclusion that i was aware of that i've committed to this as a as opposed as
+opposed to that and that would require a very special kind of artifact or phenotype or system
+um you know beyond uh i i would imagine um insects or even some small small mammals
+it would require something like you a beach you know as it is by communication language for example
+yes thank you there's so many things i want to say in that i think maybe the thermostat is
+something that could help me unpack this i think what i meant by conclusion wasn't
+again i know you said like languages can be distinguished but even that we're coming from
+a perspective and oftentimes we use the same words in different ways and that's part of what gets so
+confusing here and why i'm looking deeply into this word inference and conclusion but i really
+meant more something kind of at one with itself like it's closed together or something but that
+doesn't necessarily mean static um but let's let me think about the thermostat because
+this is a big philosophical problem there's all kinds of people writing about whether
+you know can we apply certain things to thermostats consciousness and so on but
+i think it's very different that flow that we started with and what the equations are talking
+about being it's it's dynamic and it has its own trajectory you're often talking about
+things referring back to their own past um like sampling their own going back to where to their
+own habits or patterns in a way this this dynamic flow is very hard to talk about but that that is
+itself already a trajectory that's always changing but that we can sort of go back to and revisit i
+mean that's what memory is in a way and i don't think a thermostat has that um that continuity
+or it doesn't have affordances that apply only to its own trajectory was how i would say it's
+almost a distinction between living and non-living right so um the affordances of the thermostat are
+our affordances and they apply to our ongoing trajectory so i guess what i'm saying is exactly
+that's the difference for me that the thermostat is going to just be doing what it's doing
+mechanically and it's built on a binary way that we've understood ourselves and so we can create
+sort of a little model or representation of what a body does in the thermostat to help control
+the room and like that sort of seems the direction of that technology in relation to
+the flow for me but what i'm talking about is like actual life and how we
+we are a bit like life becoming aware of itself as life and i think your work helps us understand
+that it's putting a kind of mathematics on letting us glimpse at that process but i often
+hear it described more like the way that was describing the thermostat which confuses me
+because it seems it i feel like we can see beyond the binaries a bit even though they've been so
+helpful and this might be a way to do that but we keep trying to fit everything back into those binaries
+I think that that was an excellent deconstruction of a key distinction between the thermostat and
+you and me and i think that everything rests upon what you said in relation to where is the
+affordance so if you wanted and i am flattered and pleased that you think that the free energy
+principle might afford a mathematical image of the distinction between life as well as the
+distinction between life as we know it or since life is as if inspired things like you and you
+and me that is not a characteristic of the thermostat and i think the bright line between
+thermostats or what's governors or viruses and the kind of life that you're talking about
+i say prions not viruses but viruses that are alive
+is all rests upon this notion of affordance so just think what affordance is an attribute of
+it is an attribute of what i can do and as soon as you say i and do you've brought two really big
+things to the table that the thermostat doesn't have first of all the thermostat has no notion
+of itself and crucially it doesn't know what it's doing whereas to have affordance you have
+to have a generative model that can generate the consequences of your own action and if those
+consequences are apt for the kind of thing that you are and conform to your preferences that define
+that attracting set you're talking about you're returning to time and time again to these
+characteristic states that constitute the the preferred states of being on the technically
+the attracting the attracting states and define the kind of thing that you are
+if you can do if you can run out into the future and evaluate the consequences of this action or
+that action then you can evaluate the affordance so now the game is to try and if you like
+mathematicalize up how would you write that down in terms of the principle of least action
+and it's actually quite simple and you your you could argue that people like Richard Feynman
+were doing this during his PhD thesis you know excuse me and you know many decades ago so all
+you need to do is to under your model of the consequences of your action in the future
+just roll out and measure the value for me that would be the free energy you would expect
+if you committed to this course of action in the future and then you add up all the values and that
+can be cast as a path integral and the addition of all the energies is known as an action in physics
+and then you find the path of least action and so the path of least action into the future under
+this plan or that plan the things that I do now describes the best kinds of action and then you
+can simulate that and now you have I think a much more expressive kind of physics that does not
+apply to a thermostat but would apply to you if you make choices about the things that you could
+do in the world you could respond to affordances and not just affordances of the kind oh I can sit
+in that chair we're talking about a much more generic notion of affordance which is that which
+minimizes your uncertainty about the world which can also be read as an epistemic affordance
+which basically makes us curious creatures so I think that's the difference between a thermostat
+and what could I even argue a large language model and you and me is that we have epistemic
+affordances built into our beliefs about the kind of thing that we are and then we just select the
+path of least action but the path of least expected free energy to commit to because that's the kind
+of thing that we do that we end up watching television shows reading books doing podcasts
+asking questions of each other simply because the kind of thing we are this is these are the
+attracting paths these are the attracting states and notice that in so doing now we've again got
+another bright line between the thermostat and you and me because we're not talking about one
+particular state and being we're talking about a very itinerant attracting set that is constantly
+evolving and we're always chasing away uncertainty always chasing away expect surprise always chasing
+away epistemic entropy always on the move the world is always moving and as you say
+it's not about finding the perfect state of being it's finding the best fit to a constantly changing
+world and it's always constantly changing because you're changing it for me and I'm changing it for
+you so as soon as we put two things like us together we guarantee that we're going to be
+learning from each other and constantly changing the thermostat on the other hand has an attracting
+set which is technically a fixed point attractor so all roads lead to one point it's too hot it'll
+cool things down it's too cold it'll heat things up that's not the kind of attracting set that
+characterizes life and certainly not you and me so the attracting set that we're talking about
+is enormously space-filling I can be in many many different states and still be me
+but I have a lawful flow from one of these attracting states to another one so this is what
+I meant by flow flowing on this attracting set or since one attracting manifold where that manifold
+or that attracting set is all consistent with the kind of thing that I am and it's incredibly
+itinerant technically space-filling that has no volume in the sense there's only a very small
+number of all the states I could be in that are consistent with me living and being alive so I
+I gotta come back to your notion of flow because you're mathematically this is just a flow on an
+attracting set and those flows trace our paths of least action and the action is the expected
+free energy or uncertainty or surprise you can write it another way and instead of trying to
+minimize expected energy you're trying to maximize the expected evidence for your model of the world
+that dictates the direction of flow on this manifold so on that view life would really
+be defined in terms of the space-filling attracting set as soon as you have something
+that's not a point attractor like a thermostat what that tells you immediately
+is it's going to be this you know you you look quite explicit about returning to
+various states of being and what would that look like well it would look like very complicated
+oscillations so for example at every scale so it could be the kind of oscillations that
+Uri Bezaki my friend Yuri loves to talk about here in terms of
+fast gamma oscillations or other kinds of rhythms in the brain but also at different
+scales and different parts of me for example my cardiac cycle has exact incitinerant quasi
+periodic orbit you can go beyond that you can go right through to fluctuations over the month
+over the year and indeed at an evolutionary time scale this reproduction itself is this life
+cycle so wherever you look there's this characteristic dynamic that speaks to cycles
+of rhythms and oscillations that are not part of the thermostats attracting set which is just
+sitting at one point and what that means for basically if you do have a point attractor that
+means you're dead and that basically means you have attained an equilibrium steady state
+where you're now subject to the laws of your schoolboy physics laws and you start to dissipate
+and decay as your free energy minimizes so just keeping yourself away from this fixed point
+attractor in the flow literally all the time on this attracting set is exactly what the
+fear and your principle is trying to is trying to describe yes and i think that's why affordance
+is so helpful here or why it even opens up affordance in a new way i think of jj gibson
+talking about wanting to overcome subject object dichotomy just to get back to that theme of
+dichotomy and binary and how i see this as pushing out of that because to have an affordance it
+requires this looping relationship depending on from wherever you're going to try to measure it
+there's always going to be and we keep talking about circles and that's another thing that
+bothers me a bit because a circle seems to always come back exactly to where it started
+but we're sort of coming back to where we started but it's a new place always it's more of a
+spiral i mean we're never coming back exactly to where we are or but the regularities and the
+pattern is enough such that it's the same sort of place that we're sampling is that does that make
+sense no absolutely technically that's what i would describe in terms of stochastic chaos
+so when i'm writing carefully for an informed reader i will say to the neighborhood of where
+you once were you never ever man stepped in the same river twice but you can be in the same locale
+so these attracting sets are not circles and they're not points and you know if you were dead
+and they are right they are regimes and so you have to be in the neighborhood and you're always
+being pushed off this attracting set by random fluctuations in the physics version of the
+fear and your principle but i'll draw back through this flow since flow just keeps you close to so
+yeah every day you'll go through the same routine but you'll never be in exactly the same state
+twice but you've been pretty close and that even if everything changes it could be the regularities
+are similar there with some dimensions that are replicated absolutely and that's an important
+point that you know many of these dimensions of these state spaces are very forgiving yeah i can
+be me in melbourne and i can be me in london but i can only be me between 36.2 and 37.8 degrees
+centigrade so some of the things that characterize me and indeed sometimes one talks about the
+characteristic set of states that characterize a particular entity for example me as being the
+members of this attracting set some of them are very very precise but some of them are very
+forgiving so you know depending upon what attribute you're looking at you know things
+could be vastly different but from another perspective yeah you're exactly at this temperature
+or you're having your evening meal at eight o'clock pm just like you were yesterday
+there are these sort of sweet spots but i think that that reminds me of when you were talking
+about measurement and that requires that we understand we're always measuring from a particular
+point or perspective so if we're going to measure from the cell or we're going to measure from the
+whole human body or we're going to measure from then those parameters are going to look
+a bit different too which sort of opens up this fracticality or something that i wanted to talk
+to you about in terms of getting through the binary but to get into that so a free energy
+the free energy principle basically states you could say it better but systems change
+so as to decrease their free energy some people say to to sort of avoid entropy or there's
+confusion here for me between free energy and the entropy of the free energy or how free energy
+and entropy might be different maybe you could help me or we could unpack that just a minute
+just to link it to that fracticality i'm talking about it seems to me from different perspectives
+what's free energy or what's entropy or those parameters are also shifting like maybe some
+system's entropy is another's energy or vice versa but i wonder what you think about that
+yes i think that's absolutely right well you said three key things there first of all the
+the fractional dimension how the fractality of these things i i tend to not to use that because
+fractal has a very specific meaning in the context of
+chaotic attractors and the dimensionality as said before these the attracting sets of things like
+you and me are space filling but with low measure and effectively the fractal fractional dimension
+measures the dimensionality of the actual space that is actually occupiable by
+by any given particle or person what i tend to prefer is scale free or scale invariant
+and i think that's what you're talking about so you can apply the free energy principle
+at all scales all the way down and all the way up so you can apply it to a single cell
+and indeed it's been applied to tentative reorganization you can also apply it to entire
+behavior of the embodied brain you could even apply it in principle as people have them to
+communities exchanging beliefs or emails or modeling the extended beliefs and emails and
+messages so you can apply to many many different scales and of course each scale provides the
+context of the scale below so i can't have a free energy minimizing almost sort of thermostat like
+single cell unless i have a particular organ or organelle
+and i can't have an organ unless i've got a body and i can't have a body unless i've got a family
+and i can't have a family as an institution i can't have an institution unless i've got a country i
+can't have a country unless i've got a biosphere i can have a biosphere and so on and so forth
+at every level the way in which you measure things or describe things should in principle
+conform to the free energy principle there's always a description of this in terms of some
+kind of inference it can be really elemental like a thermostat or the blue going around the sun
+but notice again the circular aspect that you know the rhythm of the heavenly bodies
+and very large scales or it could be much more intricate and space-filling and itinerant of the
+kind that we talked about that would apply to our scale of say from multiple cells multicellular
+organization through to say a body so i think that scale invariance is vitally important and
+you should always remember there's always a scale above that contextualizes the scale both in space
+and time that you're applying the free energy principle to and there's always a scale below
+there's also microscopic scale below that is if you like feeding the key order parameters
+or macroscopic variables that you're dealing with in terms of applying the free energy principle
+so i think that that was an important point remind me what wells you you said about three
+things which were really quite yeah there were too many things in there i was talking about
+entropy and energy and whether the yeah what they what's different from free energy
+and the entropy of the free energy or or if one system's entropy can be another system's energy
+that's right that was a father to you and and you're on some fairly heuristic thermodynamic
+explanation or thermodynamic account of variation free engine minimization that is absolutely true
+that i would require free energy in order to do my belief updating my inference even if i was a
+thermostat and there are some physics principles that say how that works and indeed chris fields
+a colleague and friend of mine who has pursued a quantum theoretic formulation for energy
+principle has a very explicit set of arguments about the thermodynamics of this often read in
+terms of that we are offloading energy into the environment in order to do to maintain our
+organization and lots of different ways of articulating them however you don't need to
+get into the thermodynamics i think to answer the question you're answering that asking which i think
+is quite crucial which is going to get a bit technical but i think it's quite important to
+understand it so entropy is just a description of a probability distribution a little bit like the
+mean of something or the variance of something so there is no one entropy but whenever there's a
+probability distribution there is an entropy so you have to say the entropy of what so the the
+entropy that you're trying to minimize when you're invoking the free energy principle
+as a simple explanation or description of things that resist the second law of thermodynamics should
+it apply then we're talking about the entropy of the mark of boundary states on the sensory
+states so what we're saying is that certain things in virtue of maintaining themselves
+on their attracting manifold or within their attracting set or within their characteristic
+states certain things that have this generalized homeostasis have a very low dispersion to the
+sensory states that they express and that has a low entropy so the entropy the sensory entropy
+is just the average of the certain self-information or the surprise and all
+the free energy so the free energy scores in information theory the self-information
+often summarized in terms of surprise or surprise all and you want to keep that small at the
+ab the entropy of the set the sensory entropy is the average or the free energy so if you keep the
+free energy small all the time basically avoid surprising sensory samples from the world
+that you are going to minimize your sensory entropy and that's the entropy that has been
+minimized and that means that you don't dissipate your sensory states those observable states on
+your mark of blanket do not dissipate it of dissolving to the environment you you maintain
+your self-organization through minimizing the average self-information of the sensory states
+then meet the sensory entropy now there's another entropy which is
+which is actually maximized so remember free energy is equal to energy total energy minus
+entropy so if i want to minimize my variational free energy i now want to maximize my variational
+entropy what is the variational entropy it's the entropy of my Bayesian beliefs about the causes
+of my sensory input so you've got this completely opposite yin yang you want to
+explain things that minimize their sensory entropy the entropy of over time of real
+deterministic sensory inputs and they're actually from the world as well but the market you know
+everything that constitutes mark of blanket whilst and you do that by maximizing the entropy
+of your beliefs and this is very very confusing to people but it's a shame because once you realize
+it's important to maximize your Bayesian maximize the entropy of your Bayesian beliefs the internal
+or the if you like representational entropy you can now see that the free energy principle is
+due to something which is very important in physics which is james's maximum entropy principle
+so maximum entropy there is a maximum entropy principle which is talks about not the thing
+that is being measured but the inferences of that measurement so if you want to infer how long
+if you're measuring something then you want a probability a belief about the
+cause of your measurement in the outside world that is as non-committal as possible to keep
+your options open and this is very closely related to things like occam's principle
+finding the simplest explanation possible but no simpler finding an accurate explanation that is
+minimally complex and that's why you need to maximize the entropy that is put together with
+the accurate with the the energy or the the log likelihood to constitute the variation free energy
+so it can be very confusing but it actually works very very beautifully once you realize that there's
+no there's no one entropy you either talk about the entropy of your sensory exchanges with the
+world or you can talk about the entropy of your inferred beliefs basing beliefs encoded by your
+internal states and one you have to try to maximize in order to minimize the other one
+does that help wonderful i love that because i'm always talking about trying to hold the paradox
+in a way because i feel like that's where you start to get exactly what you just did and by
+hold the paradox i don't mean we squish together the parts or try to resolve them or reconcile them
+or that the paradox is bad but that you just open the space for it in the way you just did describing
+that and then there's a kind of another view that becomes possible and again that relates to this
+idea i'm trying to push a little bit of how to get unstuck from certain binary
+ways of being in the world this gets to bigger issues because a lot of this science and philosophy
+that we're talking about reverbiates in this through these very same processes we're talking
+about into all other areas of life so when we're discussing these i think we're also discussing
+that at a different level it's why i brought up fractals and i'm very interested that you don't
+like that word and i also use multi-scale or scale free and maybe that's a better way of describing
+it but i think people are attracted to the idea of fractal for the reason i just brought up that we
+can start to understand that there are similar patterns maybe at these different scales and
+which is what i think again correct me but something like the maths that you're providing
+show the patterns that connect at these different scales i don't know if you would agree with that
+how you would see that or if what you just said is an example of how there might be another way
+of understanding how these different kinds of systems can look different from different places
+i guess another way of asking this question is there only one correct model or can there be
+many different models depending where we've set all of our experimental parameters and so forth
+right yes yes and yes
+so yeah don't worry about using fractal it's just technically you get this
+similar patterns at different scales within the definition of scaling variance and you're
+absolutely right you know what the free energy principle is committed to is that the pattern of
+self-organization read in terms of the dynamics or the flow on a lagrangian or in this instance the
+free energy is conserved exactly at each level you have to renormalize the variables and the
+like but the actual pattern of the flow is identical in its functional form so that's
+exactly what you know what defines the scaling variance and certainly a an application of things
+like the renormalization group to the free energy principle of applying the free energy
+principle in the context of the renormalization group so you know the spirit of fractal is exactly
+what underwrites this application the spirit of fractal that's a better way of saying it more
+than like a mandelbrot set or something it's the spirit of what fractal means i think you want to
+talk about self-similarity and i think that's exactly similarity yeah um yes yeah so forgive
+me when i when i said i don't i do use the word fractal it's just that i read that as fractional
+dimension whereas i think what you mean is this fundamental aspect which of this self-similarity
+and 40 multi-scale perspectives on the same thing at different levels of analysis or different
+scales of analysis which is the only way of i think um sort of breaking i'm now understanding
+more clearly what you meant by binary you mean a sort of commitment just it's either like this or
+it's not um and of course that's exactly what you're trying to avoid with uh the view of the
+free energy principle as a maximum entropy principle or a constrained maximum entry principle
+so i i use the phrase before keeping your options open so as you as you try to form a belief about
+what's out there or an explanation about what you know what could have caught us because
+the sensory well this um sensory trajectory you're trying to do it in a way that keeps your
+keeps your options open and there could be lots of possible explanations
+so you're not committing to one if you commit to one particular binary
+um hypothesis or explanation for these data then you are basically
+limiting yourself in a very dangerous way because that particular explanation will not generalize
+so you see this practically in machine learning for example where you have a very brittle
+explanation too many parameters you maximize the accuracy but you haven't you haven't done so
+in a way that keeps your options open by minimizing the complexity so you know i think
+so the non-binary where we're reading binary now is a very discrete unitary explanation for things
+that doesn't have much riddle room that's exactly the wrong way to do things you know you need to
+maximize the entropy and thereby minimize the free energy and maximize the uh effectively the uh the
+evidence for your uh for the evidence in the data for your particular model of what's going on
+so i think i think that is a very comfortable argument you could certainly make there from
+first principles and you know including non-disciplinary principle but james's
+maximally actually principle that you could then relate back to hawkins principle that um you know
+keeping your mind open and finding the simplest explanation that's the way that things generalize
+and that's the best way to to to reach understanding or explanation uh explanation for the world and
+then you uh the final point you made about the dangers of being binary i think you addressed it
+or i don't even remember my own thing now but i can't unless you remember but there's something
+you just opened up there too that was beautiful and thank you and i want to think about hierarchies
+a little bit are you still okay for just a little while yes of course okay so the hierarchies is
+obviously a very important word in your work and in all of this and i want to talk about it in two
+ways one how the difference between the model and the brain or the ongoing flow and process
+keep bringing it up but first this fracticality that's the spirit of fracticality or multi-scale
+competency i think that's levin or these different ways we're trying to open up beyond the binary
+in and the math is opening up i think bayesian statistics opens it up because it implies the
+subjectivity that people often accuse it of because you have to you can set your priors and
+that's going to account for these different perspectives maybe in a way that we've been
+talking about but to make it a little more grounded when you're talking about something
+like hierarchy you often talk about the low road or the high road or open or closed or there's
+the way we understand it is right now through these kind of binaries although most usually i
+feel like the answer is that it's open and closed it's low and high it's just that we're using these
+ways to talk about it so i wonder what if that sounds true to you i wonder when you're really
+thinking about the brain itself and its hierarchical composition if you see it as something more
+along the lines of this nested multi-scale not necessarily linear from high to low maybe it
+could be from left to right and in all directions in a more fractal or multi-scale sense if that's
+more akin to what you're meaning by hierarchy because i think it often gets taken as almost
+like in a class system or something it steps up the ladder and i think that's also a confusion at
+least it feels like one sometimes to me right no well again that's absolutely right so in virtue
+of the spirit of fractality and the self-similarity out there that we now have to make sense of and
+in fact implicitly more that immediately tells you that the apt good models of the data generated
+by this multi-scale self-similar world must itself have a self-similar structure
+and that's what i mean by a hierarchy so it literally means there is a dip to the
+causal explanations you bring to the table that is not binary in the sense and that was your
+third point in the sense that there are multiple levels of hierarchical abstraction so you can
+and each level constrains the other so there's no one privileged level that in your head you
+literally have cortical hierarchies that represent the same kinds of things but different levels of
+abstraction and course grading over different time courses so there's no one privileged level
+of explanation there's no one privileged conclusion depends upon which part of the brain
+you're looking at in terms of the structure of these things i often think of this not in terms
+of a ladder a subsumption hierarchy but much more in terms of a series of concentric spheres
+so for me what's on the outside is basically our sensory epithelia and our actuators
+and then as we get further and further in monosynaptic neural connection by neural
+connection you get further and further further and you get deeper and deeper and deeper into
+inner layers and then what that creates is now a view of the brain for example where
+this surface like like a big onion so in the same way that an onion has an element layered
+structure it has a deep concentric structure one can also envisage certainly the connectivity of
+the brain conforming to the same kind of architecture and as you get deeper and deeper things
+in the center can see much more of the range of the surface so if i had this third of the onion
+was auditory and this third was interceptive then at some point there's going to be a deep
+representation can see both now these become now a modal representations that basically explain
+causes of my sensations in both an auditory and an interceptive modality and what also tends to
+happen in the mechanics of this is that your your belief structures your your the states the
+latent states sometimes called hidden states that are represented by neuronal dynamics
+cover more extended periods of time again in a self-similar way in the way that you zoom out
+in a mountain broke set you're also zooming out in time it's in this in the flow which means that
+as you get deeper and deeper and deeper you are representing things that can be read as the context
+that lasts longer than the content at the level below all the more superficial levels as you
+you get right out here very fast reflexes at the at the um the periphery uh so that's what i mean
+by hierarchy i'm talking about a very particular um sparsity structure and sparse causal structure
+where uh that defines a hierarchy in the sense that um you only have connections or circular
+causality between subjacent or adjacent levels of hierarchy but it's a concentric one uh you know
+as a certain closure it probably is a heterarchy so it probably isn't a nice orderly onion
+but you know it it you know maybe a broccoli a broccoli made of broccolis i mean i i love the
+onion thing but it's it's even feels too constraining for me because it seems so
+neat and that you have these layers and it's just but it's more like there's or i see it more as
+there's many onions within onions and depending on yes like you don't see all the other onions
+you think you're in one onion but if you kind of went to a different perspective you'd be in a
+whole other onion and all those layers are sort of overlapping in different ways does that make
+sense yes absolutely i mean there's a little literature out there in terms of mark of black
+kids of mark of black kids and you know bags of onion then bags of bags of onions and yeah
+this goes on forever yeah absolutely yeah and it has to go on forever because of this self-similarity
+so it has to go on to the biggest and add to the smallest but of course there is no biggest and
+there is no smallest because that depends on your position right so there can be
+infinite kinds of big bigger or smaller depending where you're going to shift your
+position of measurement which i think this is really like a hard paradox to hold because we
+have trouble getting out of the position we're in uh to understand that but maybe that's what
+technology helps us do and math in a way yes absolutely well but yeah what comes to mind
+when you said that sort of the use of microscopes and telescopes try to reach up into larger scales
+and reach down into smaller scales and of course you could have mathematical microscopes if you're
+clever but i think there's something you know you talk about holding the paradox before i think you
+have to hold the fact that you cannot see beyond this too many scales above simply because you
+don't last long enough so remember unlike the mandelbrot set there is also self-similarity in
+time things last for shorter periods of time at any particular scale rather than scale above
+which means me as an observer of the universe cannot last long enough to observe one slow
+or one part of the scale at the scale above furthermore when i look down things change
+they don't exist for long enough to be measurable and if you think about what that means at a very
+small scale something cannot be actually measured because it doesn't last long enough to be measured
+that's quantum physics so now all we can talk about is the probability distribution of things
+if i were able to measure it but now i can just talk about the bag or the probability distribution
+of a measurement because it's changed so quickly i can never actually measure it so you know there
+are there are limits on the mic the depth that you can look down over scales you know using even
+using technological extensions such as microscopes at some point you know you can't do it so we
+we're all coming back to you sort of dissolving the binary perspective and and celebrating
+the perspectival or relational aspect of the way that we make sense of the universe
+you know we are just tied to our scale and we can't see many more scales above or below
+and that we can only sense make and exist within that particular scale or your one or two scales
+about i think people think it's six in the sense that you can't fold a piece of paper more than
+six times i think i'm sure oh he scales yeah but that's from our scale so it's very hard to hold
+that that there might not even be necessarily this huge conflict for example between these
+different kinds of physics and systems it might just be that we're positioning ourselves in places
+where those different maths are going to work in the from those positions and not from others and
+we could hold that paradox in a way that's what i meant by does it only have to be one model that
+fits to everything because the more we learn how to put ourselves in different positions maybe
+we're going to have to learn to hold the idea that different models work in those different
+positions which is also very hard well i mean a lovely example of that is the difference between
+say general relativity and quantum mechanics i mean that general relativity is about big things
+and quantum mechanics is about very very small things i think scale really matters because of
+this temporal dilation or you get with this sort of renormalization perspective so it could be the
+same kind of thing but they are very very different models and yet they're completely consistent they
+can be held together just because you could only apply to the scales up above and you apply the
+quantum mechanics at the scale scales below i don't want to demean quantum information theory
+there are quantum information theory is actually also scale free but quantum mechanics of small
+particles where random fluctuations dominate that's limited to very very small things
+this gets to the other sorry no i was gonna say if you were talking to mike levin um you know
+his way of articulating those things only get interesting when you move from one cell or one
+molecule to multiple cells or macromolecules you know when you're building up to higher scales
+so things start to get interesting yeah i think mike and i have had had some conversations maybe
+three already about different ways of thinking about scales in the biological sense so it
+definitely applies and i think it also touches on this difference that i have been trying to
+get at between the models and the process or the flow and how those get confused because there's
+a lot of fighting about you know classical mechanics versus quantum this is this versus that
+and it's hard to understand how they can be held in a space that we haven't explored yet right
+but also i think part of the confusion can be at least from my point of view that it's too easy
+to mistake the model for the reality and you think you're fighting about the reality but you're
+fighting about the model and sometimes i feel this in the literature around free energy and i
+wonder if it's for example when you say something like that you're using hierarchical no you i think
+you say the brain uses hierarchical models correct me but it might be uses them in different contexts
+but the brain is talked about as if the brain is using the model and for me that's a little
+bit confusing because i feel like from our position we've understood that the brain is
+working in a certain way and we've modeled it which can be different from the brain using a
+model although the brain could perhaps be using a model for example in corollary discharge or
+efferent copies or something like that maybe that's the kind of way in which the brain
+is used the body is using its own model but i feel like these are different things and they
+get confused or maybe i'm just confusing them but yeah i i think that um that confusion is
+prevalent um in the philosophy literature although certainly the philosophy that um likes to um
+shout about the free energy principle um and sometimes articulate in terms of the
+math territory fallacy of the fallacy of the math territory well the math you're definitely not
+saying that but it can i can understand how it easily sounds like that do you know if i do
+i and when i sometimes i give up and sometimes i i lapse but um often when i um hear people write
+down the brain uses a generative model i delete that and say um you know the the brain um entails
+a generative model but that generative model is just implicit it's just a mathematical construct
+that allows you to understand the flow literally the gradient flow on the variation free energy
+yeah you say it all the time you also i've noticed you say describe it as a model or something like
+this but it gets collapsed together i think yes it can do uh well that's entertaining though
+somebody doesn't shout at me i tend to do something that i can't do uh but you know
+i i think it's useful just to remind people um that you'll never quite know what the brain is
+doing unless you break it unless you do something phase in physiology in which case it's not the
+brain anymore so all you can do is infer and describe the um what you can see of me uh in
+terms it looks as if i am doing belief updating under a generative model and therefore it looks
+as if my brain and all the neural message passing entails a generative model and i can try and
+reverse what kind of generative model would best explain my behavior and indeed that's quite a
+practical application if you actually principle when it comes to things like psychiatry some
+reverse engineering the generative model that would have been used if i wanted to explain this
+behavior in light of these uh these these data so i think it's a useful construct when it comes to
+simulation explanation because you'll never know because you can't you know whatever's going on in
+my behind my Markov blanket is private to me uh by definition it's conditionally independent of
+anybody observing me uh so you know to me it's it's it's um you know it's not a worrisome question
+but it is a vex philosophical question yeah and i i know it must be annoying for you but i think
+it has repercussions all the way up and into the side and in all directions in terms of the way
+humans treat one another and the way we treat the world around us because when we confuse
+our models in the processes that they're modeling something strange happens in terms of
+the way we think about um perspective like what i hear you saying is that we always need to
+understand we're modeling from a perspective and we're modeling a part of a process but
+that gets lost completely and that seems like the important part that situatedness
+which is why i'm just trying to bring it back up to bring the situatedness back into it
+yeah and what important aspect of that situatedness um is the fact that i spent most of my life
+inferring things about other people so i think that's that's something which which often gets
+lost because once you recognize that your lived world is basically generated by other things like
+you so you spend most of your generated modeling trying to infer predict understand other things
+like you and then but perspective taking empathy attribution of agency um the theory of mind all
+of these things now become really really important attributes of good generative models for a
+community of conspecifics that live together you know these would not be issues if it was only me
+on mars i wouldn't be a theory of mind but as soon as something like me like you i now need a
+theory of mind of course then the as ifness now becomes from my point of view uh quite a useful
+hypothesis or fantasy that provides a simple explanation for the way that you behave i think
+you're conscious i think that you are inferring i think you are and i might be like you so perhaps
+i am conscious yeah and then you get to these sort of meta levels it reminds me of the connection
+and to try to bring it to love a little bit because this is love and philosophy uh i wonder
+about you know when when you're the disconnection hypothesis right of that we started with way early
+in your career with the schizophrenia patients and the cells were not connecting maybe they
+were connecting in a different way um i wonder if this happens on larger levels and what you
+were just talking about because we're trying to understand each other all the time as ways
+of understanding ourselves and all this is very much entangled and i wonder if there's also ways
+we get disconnected so to speak in this fractal way we were talking or if that's too metaphorical
+and too going too far out or if you see that maybe there is some similarity self-similarity
+to these sorts of things no i think i think that there absolutely isn't um indeed there are
+simulations you know baby step simulations but certainly it's a great field uh applying the
+pre-energy principle or specifically active influence in a ethological or social neuroscience
+context indeed there are funded programs by the eu to look at to apply these ideas to look say
+voting behavior population voting behavior there's some very nice simulations already out there
+that exactly lead to to what you were talking about which is you know the segregation into
+into in groups and groups that rests upon effectively me and furry whether you are like
+me or not if i can infer that you are like me then you now interactions with you acquire an
+epistemic affordance and then we can consolidate our beliefs but if i say you're not like me
+then i am not going to associate interactions or communication with you with any epistemic
+forms and i'm going to effectively at the same time as it as basically dehumanizing you because
+um i now do not see you as the same kind of thing as me therefore you are not human
+not only that but i will not listen to you i will uh or i will trade everything you say as fake news
+so these are completely base optimal um you know sort of processes processes of inference at a
+societal or interpersonal level beyond the dyadic and can be applied to some
+information and even simulate the different conditions but all as you say rest upon the
+fact that you are um you are taking a particular perspective and also uh taking the other person's
+perspective if and only if they share with you the same um implicit generative model so if there's a
+shared generative model a shared narrative a shared set of conclusion and i can infer so if
+i can infer that there is a shared narrative that you are actually like me to share the same kind of
+generative model then we can talk and you are part of my group if not then you know you are not not
+part of me and that can lead to um you know uh the kind of segregation you might see in some reaction
+diffusion systems where you get this sort of separation segregation which again i say is
+completely base optimal and slightly paradoxical in the sense that you think that you know our job
+is to be mutually predictable uh therefore we should all share sing from the same hymn sheet
+so we can all predict ourselves that's not what happens when you break the symmetry um you know
+unless if you took everything away apart from all you know all human beings
+what might and made them speak the same language then you might get that kind of um relatively
+unstable group dynamic uh but in the absence of that then that kind of segregation is going to be
+an emerging property yeah it's almost like learning a new rhythm this we've touched on it
+with the holding the paradox and the way you've described things which are quite difficult and
+challenging to for one to be able to understand but i do feel this is a case in which working it
+out mathematically and working it out in these difficult situations that are very practical in
+terms of bodily and brain dynamics i do think there's a pattern there in the way we were talking
+about regularities and that is not exactly the same parts but the process and the patterns maybe
+could help us understand how to not do that segregation or to understand that certain ways
+we're going to be segregated from others but if we move our position those regularities are going
+to align differently and there are going to be ways in which we do connect with just about anyone
+if we could figure out how to do that fractal dance which i think is really quite quite difficult
+but i wonder if that rings true for you or if you've found in your own life that
+living in that state of flow is a matter of being able to understand how to shift perspective
+in that way a little bit yeah i think it comes back to doing what you're told to do to do what
+you're told means you have to hear people to hear people means that you are not invoking
+if i get a mathematical kind of sensory attenuation and i use the word sensory
+attenuation because of your observation that what can apply the max and the mechanics of
+computational psychiatry to societal interactions and i think that the ability to ignore the ability
+to evaluate the epistemic affordance of interactions with that kind of person as very very small means
+i'm going to ignore them effectively i'm going to attenuate any truthiness or precision
+in relation to their exchanges their posts their messages their ideology
+so that basically means i don't hear them if i don't hear them you can't do what you're told
+so i think you're absolutely right being in the flow in the in the in the some more poetic sense
+um really does require you to suspend sensory attenuation and to listen um and to well
+both to listen and to also evaluate the precision of what you're of what you're hearing um and then
+there will be an opportunity to reevaluate your prior conviction that this person is or is not
+human for example you know thinking about the current you know pit crises and wars and all
+exactly that's a very very beautiful way to think about it and it makes me wonder if that's you've
+been your way of being in love of course we could all mean different things by love but
+when you were talking i was thinking about presence and awareness that it takes to listen you have
+there's a kind of stance where you step out of your narrative or yourself but more into your
+whole body which means you're you are immersed in all that you think is not you that that flow
+that we talked about or that place that you're in it it is a bit sentimental to say but you do need
+something of motivation to go through a life doing the science that you've been doing it's a lot of
+hard work and what you just described that's a way of for me that seems like letting the energy
+refresh or it it shows me how maybe you were when you're in that flow it aids it helps
+that process right uh yes um again for me i i have some respect for you as well i know no other way
+um but it was nice to use the word motivation because the motivation is just the affordances
+and the affordances are largely epistemic so that's just curiosity and to be curious means you have
+to be able to hear to listen to listen is a some can be an act of of love to to listen and to act
+to perceive and to act and in that way i think can also be an act of love in the most kind of
+banal sense but the most important sense well carl i really appreciate your work and your
+perspective and everything that you you do and i you know that's going to be a new year when i'm
+publishing this is there anything you're looking forward to or any
+anything you want to minimize any surprise you want minimized or what what what's your feeling
+about the coming year no i'm afraid yes uh my dear new year's resolution will be to not make
+any more new year resolutions so as you as you get older you just want to as you say minimize
+your surprise and carry on and keep calm well that sounds good well i wish you the best and again
+thank you very much is there anything that you want to make sure gets said i think we've said
+all the important things thanks for spending this time my pleasure i've enjoyed speaking
+yes happy christmas happy new year
+you

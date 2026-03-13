@@ -1,0 +1,699 @@
+Hello everyone, welcome to Love and Philosophy. This is the third post in one week. I had
+these conversations many months ago, but this is how they all finally come together. I've
+been trying to understand what empowerment is, and I guess I mean that in an everyday
+sense, but I also mean it in the sense of algorithms, artificial intelligence, Shannon
+information theory, measurement. If you have no idea what I'm talking about, don't worry.
+I didn't really understand this either not too long ago, and I still don't, which is
+why I'm doing this podcast, to try to understand it.
+Claude Shannon and information theory is at the heart of pretty much every device you're
+near right now. Whatever you're listening to this on, your computers, our phones, everything
+has to do with this digital computing, which deals with a way of transferring information.
+It's pretty much that process of my voice coming into your world right now. Claude
+Shannon made that possible. He reconsidered the way that we might change one form of energy
+or communication into another one. I would have a look at the diagram of Claude Shannon.
+If you just Google Claude Shannon information theory, you'll see this wonderful little diagram
+of a receiver in the process of encoding and decoding to get to the receiver. This is a
+conversation of me trying to learn about empowerment with someone who works in robotics, Dari Trendelov,
+and he is trying to help me understand it, and we talk about how it relates to a lot
+of the other themes I've talked about on this show, like affordances, because Gibson is
+a big inspiration there. Empowerment is looking at this quantity that's information based so as
+to characterize how efficient the perception action loop is between the organism and the
+environment. But in this case, it's not an organism, it's a robot. So the robot and its
+environment. So the real sticky hard question is what's the difference between an organism
+or a living body and a robot. But it is important that we realize we're all using words
+in different ways. Information, empowerment, entropy, inference, belief, all these are
+really important words, and they mean really different things, depending on which world
+you're using them in. I'm bringing it up here because it's part of what this conversation is,
+is trying to understand what I feel like gets really, really blurry when we're working in
+technology. For example, Dari, who talks with me here, is working in robotics, and I'm very
+interested in robotics, and the empowerment measurement is something that he's working with
+as he works with swarming robotics. So that's fascinating. But as you'll hear in the conversation,
+we quite often switch between talking about humans and these words as they're used for humans and
+the robots, which are really different things, actually. I mean, empowerment is a measurement
+in a very literal sense, which I'm trying to understand in the way it's used in developing
+artificial intelligence. Empowerment in the field of artificial intelligence is formalizing and
+quantifying the potential an agent perceives that it has to influence its environment.
+So it's the measurement of channel capacity, of how much the robot, for example, perceives it can
+influence its environment. It's the robot's intrinsic parameterization relative to its
+encounter. It's a utility function that depends on the information gathered from the encounter.
+So how can it gather information from its encounter so as to increase its control
+within that interaction? I think that's kind of what empowerment is measuring.
+It helps develop patterns so as to increase control. So it's rewarding what we would call
+intrinsic behavior, which means the robot will inherently be rewarded for exploration and
+curiosity because the more of its environment that it encounters, the more it's going to increase its
+ability to control those kinds of regularities. This is really similar to the way psychologists
+talk about intrinsic motivation and empowerment, too, because that also has to do with the body,
+our ongoing living activity, and that we are doing things to satisfy our internal desire for control
+or wanting to have control. But also intrinsic motivation could just be something like hunger
+and wanting to satisfy your hunger. So perhaps the more you can explore the world, the more likely
+you are to find something that will be edible. Either way, empowerment is measuring the potential
+of this agent, this robot, or this organism to align with the environment such that the environment
+itself becomes a way for it to actualize itself. It's almost imprinting itself in the environment
+and the environment in itself through this perception-action loop of interaction. And I
+think that perception-action loop is the information, and the technologies are the translators of that
+perception-action loop. I think information is really a translation process. It's not a thing.
+We tend to think of information as a thing that's being moved through the world, but I actually have
+come to think of it as a translation, the process of translation, which is the movement from, for
+example, my voice right now into your ear. So there's not one thing that's moving from me to you right
+now, but there's a process of translation that's happening from me to you right now, and that is
+information in my point of view. That's not the point of view of information theory as it stands
+right now, and that's what I want to understand better and discuss. A lot of Bayesian approaches
+are doing an inverse. They're working in ways that you can infer the so-called internal structure,
+or maybe the way that we are as living life, the way that we're coming to align with or increase
+our control of the encounter, so to speak. You can kind of infer this from the way that the external
+world, the data that that world generates, so it's going kind of backwards. So you're starting to
+infer the structure of the external world from the data of that world. So it can go both ways,
+I guess, in empowerment. You can understand how life, the living body, is controlling the world,
+and by controlling the world, that means increasing its ability to structure it,
+and you can also understand how the world is controlling the body or the mind, which is to say,
+structuring it. So I'm really interested in the way patterns and regularities of the world
+might empower those of the body, and it goes vice versa. The body is also empowering
+particular regularities that are experienced in the world, and this might be something that
+empowerment can help us to better understand at the individual level, but also at levels of
+robots swarming or birds swarming or humans acting in crowds. In any case, empowerment,
+as it's used by people like Dari here, is an information theoretic quantity that's usually
+motivated by some desire to make the sensory motor loop more efficient between the agent
+and the environment. We sometimes confuse and say it's the robot that's trying to become more
+efficient, but really it's whatever that robot's affordances point to, which is the human who has
+created it or that wants it to do something. It's really for those, that's really where the
+empowerment is. It's not in the robot, but the empowerment measures how well that's happening
+via this technology, this agent-environment system, and these stochastic transitions.
+How much then does that technology, that agent, that robot have over the environment that it's
+being tested with them? Two words that come up a lot are controllability, which is the influence
+on the environment, and observability, which is the measurement by the sensors, and that's
+the controllability and observability has to do with this ongoing encounter or what we call
+the environment. You can't take those things away from each other, so that's the interaction.
+This ongoing interaction, sensory motor loop between the body and the environment, and we
+substitute the robot into that, and we discuss it as if it's the robot's sensory motor loop,
+but actually that robot is an extension of the scientist or the engineer or whomever is
+focused on it or whoever has created it. It's actually an extension of their
+sensory motor loop. I think that's what gets confusing. We're actually studying the empowerment
+of this scientist or the researcher, not the robot, but the measurements that are being taken
+are also called the empowerment measurement because that robot is itself part of our sensory
+motor loop as the researcher. We've done something very similar to what happens when we
+talk into a telephone and our voice is translated. We've just sort of talked into this robot,
+so to speak, with our controllability of the environment. We've sensed that into the robot
+or somehow tried to translate that into this robotic model, represented it there so that we
+can then look at that sensory motor loop from a different point of view and translate it,
+hopefully, into the environment. Who's the receiver of that? What's the destination?
+In this case, it's the same researcher or at least the field of study that the researcher
+is studying. It might be, for example, if it's with a Nokia phone. As Dari says, then the Nokia
+company and the researcher have extended their affordances into this robot so as to see how that
+robot might increase the controllability of the sensory motor loop in that environment such that
+it will afford them better because it will mean they can give their customers a better utility
+function. It's also important, some of these studies, I found that this only works when you
+have a very particular recognizable semantics. That also speaks to this idea that the robot is
+already an extension of the researcher or the research project, so the affordances aren't the
+robot's affordances. They're the affordance of the researcher or of this field of study. It only makes
+sense as long as you have set that parameter, that landscape of potentials. That's why it's so
+confusing and also so fitting to use these words like intrinsic motivation and empowerment
+because, in fact, in a way that we aren't always very clear on, it actually is about the empowerment
+of the research project or the researcher or the field of study. It is intrinsic motivation. It's
+just that we've represented it in the robot and we're now measuring it with very particular kinds
+of maths and algorithms that we call empowerment and intrinsic motivation. It's a bit of the
+doubling that Thomas and I talk about, which doesn't mean that we've doubled life. We're not
+a double body or a double person, but we've done this heuristic of doubling so as to better
+understand ourselves or understand this process, this looping between ourselves and our encounter,
+but it's a very limited one because we've had to set this very limited scope of semantics
+so as to be able to study it. It's a very limited and controlled representation of
+one part of our sensorimotor loop with the environment, but in doing that we can understand
+it better in the same way that in writing something down we might understand it better
+in drawing a diagram. It's just that we've now been able to do that in a more complicated
+way in the creation of a robot, for example. We say it's about the robot's potential ability
+to influence the environment by this capacity to imprint information into that environment
+and then perceive it through its sensors. That's the representation, all of that,
+is an external representation, like a little model of our own sensorimotor loop, but it's also part
+of that sensorimotor loop. We've literally extended it and created this little model,
+but the voice, so to speak, like when the voice goes into the telephone, in this case we're still
+putting the voice into the robot, and by voice I really just mean the whatever it is that we're
+trying to understand. We are the sender of that into the robot, but the affordances always point
+back to us as the researcher or us as the company or whoever, wherever you want to put the scale,
+and that's what often gets confused, I think, and what I was trying to better understand with Tomas
+in the conversation about the body, and it also gets to this very essential question,
+which I think is the real question at the heart of this, which is, again, what's the difference
+between the living body or the body and the material technology or machine, the phone or the
+artificial intelligence or the computer or whatever you want to call it, and I think that the
+difference is in the affordances. I talked about this with Carl Friston, too, and he seemed to agree.
+We talked about the thermostat, for example, and that the affordances of the thermostat are
+not its affordances. They're the affordances of whomever might be using that thermostat in order
+to control their own sensory motor loop. So I've been thinking about Boolean logic and George Boole,
+who had this idea that we might be able to put things into a kind of binary logic that would
+help us understand thought, that would actually give us a kind of math of thought, and I think
+that's very interesting because what we often think it is is that we're trying to solve what
+thought is, but in fact what we're doing is representing thought externally so as to create
+ways to better understand the process that is thought. So it's not that we've created something
+that thinks. Instead, we've represented our own thinking with something, and the affordances
+always point back to us. So actually Boolean logic and Shannon information theory and also
+Shannon's early paper, the masters that he did, where he basically came up with the binary
+digital computing code that we are all so familiar with, we often think of that as if we're getting
+a computer to think, but what we've really done is, and it's a remarkable thing to have done,
+is we've found a way to represent this ongoing process by which we come into different states of
+life, what we call thinking, and we've found a way to represent that in the most simple form
+so as to understand what is redundant and what is not, and in so doing that we're increasing our
+efficiency for further translation and communication, but we haven't actually created
+technology that thinks. We've created technology that represents our thinking. This is a really,
+really different thing, and I actually think that once we understand that the affordances of that
+representation or that model, that robot, actually point to the researcher and the specific
+semantics of the research interest, which are the researcher's affordances, then it actually
+starts to make sense. The robot is not the one that has the affordances. It's an extension of
+some sort of research semantic program, therefore the affordances point to those bodies, that
+researcher or that group of researchers. I go into that more in my research diary, trying to understand
+it, and for now I'll just leave it, and those of you who want to try to learn with me, this is just
+a conversation I'm sharing with you, with someone who is generous and try to open up the world of
+robotics and the measurement of empowerment with me. I'm trying to find a happy balance here between
+people who've never heard of such things, people like me who are trying to learn of it, and then
+others of you out there who are already experts. If you want to comment on the YouTube video of
+this or the YouTube audio of this and share some points in a friendly way that might help us all,
+you're welcome to do that. I would love it. So here we go.
+Hi. Hi, darling. Thanks for being here. It's great to talk to you today.
+Thank you, Andrea. Thank you for inviting me. It's a pleasure for me to be here.
+Ah, good. So we met because of a conference in France about complex systems, and after the
+conference, actually, you brought up this wonderful, which was then at the time new to me, the idea of
+empowerment, which we are going to talk about in terms of reinforcement learning and machine
+learning and so on. But to start, first of all, maybe we could just hear a little bit about you.
+You work in swarm robotics and intelligence. Would you like to tell us a little bit about
+in general your scope? Yes. Currently, I work in the field of swarm robotics,
+artificial intelligence, and more precisely in applying the empowerment measure to
+different contexts and scenarios in the field of swarm robotics. For example, one scenario
+in this domain is collective perception. Another scenario is a site selection task,
+and there are further and further scenarios. So we try to apply the empowerment measure to provide
+generic predictions for swarm performance and enable the design of different decision-making
+controllers for the robotic swarms to operate in a decentralized and autonomous manner.
+So this is currently the goal of my research. That's great. I just wanted to set it up so
+people know we're coming at this from that background in a way, because empowerment,
+you mean so much to so many different people, right? Yes. Especially listening to this.
+The term is actually quite overloaded. As I noticed yesterday, I gave another talk here,
+the Sorbonne, and actually this question popped up exactly after the talk that,
+wait a minute, empowerment, it means so many different things, and we are just using it as a
+very narrow technical term. It's like a function, mathematical function, and it's probably misleading
+because in different contexts, it could mean, of course, it's used in sociology, in
+humanities as well, so in politics as well. And people tend to have different, slightly
+different meaning, but here, as I will talk about it, it will have purely well-defined
+mathematical content. Yeah, it's kind of a sexy word. It kind of draws you in and
+can kind of mean a lot of things. And actually, the way it's used, you sent me a bunch of papers
+to sort of help me get an overview, and there's no way we'll get through them all today. But as
+I was looking through these and trying to get my head around all of this, coming from a more
+philosophical background, so in your work, are you working with multi-agent reinforcement learning
+mostly? Well, yes and no. So currently, we're involved in swarm robotic studies, so this is
+kind of a multi-agent environment. But that's one form of reinforcement learning, and then
+there's also reinforcement learning that's just with the single agent. That's a more kind of normal
+way that it's used. Well, yeah, that's the standard way how it began, and it was invented,
+but it was then applied to multiple agents. And the more agents you get into the scene,
+the more complex it gets. So in a sense, in swarm robotics, I'll get back again to that field that
+I'm working on currently. The difficulty in swarm robotics is to enable multiple agents to perform
+dynamic tasks and operations simultaneously without any guidance from a control system,
+from a central control system, and self-organize to perform the task and achieve the goal,
+which is a completely decentralized multi-agent system. And in the case, it's a collective
+intelligence task. So the term is also very well used, collective intelligence. Because all agents
+are intelligent, and they are right on, and they perform, and they behave independently from
+everybody else. They still communicate and are driven by a goal in the end of the day.
+Like humans, we also have collective intelligence when we do things together,
+and we try to emulate this in robotic agents, too.
+I think so, but some people would... That whole idea of collective intelligence and what even
+intelligence is, you can go down many rabbit holes. But just for the sake of this, an agent,
+in your case, do you mean an actual kind of robot, an independent robot?
+It's one independent robot. So if we take the case of bees, for example, it's one bee. We also try
+to emulate nature, so we learn from bees and ants. And they are also swarms of independent agents.
+And when you say the environment, that's just everything that's
+not included in what the agent is? Does that include all the other agents for each
+individual agent? It could be. Yeah, that's a very good question. So the environment can be
+anything outside the swarm, or depending how you look at your model of the world, it could be also,
+if you look from the viewpoint of one single agent, then everything else, including
+all the other agents, could be considered as environment. But it could be that
+only everything else, except the swarm, is the environment. So you see the difference.
+So it depends where you're going to put the scale. Depending where you put the viewpoint.
+Okay. And that'll matter if learning is happening or not, right? Depending on where you set the
+scale. And what's learning? Is the swarm learning or is the agent, individual agent learning, right?
+Yes, exactly. Very good point. So that is exactly what is the difference. Because if you set
+the model to be a single agent, then you learn the policy or the behavior of a single agent.
+But if you set it for a swarm, then you optimize the behavior of the whole swarm at once.
+And then by learning, right? So we've got this agent, we've got some kind of environment. It's
+going to depend where we set the scale, but we can definitely set the scale where the agent is,
+where the environment is in terms of actual math and everything. But then the learning itself,
+how would you describe that? So the learning process is of course driven by some task.
+So there is a goal for the swarm and therefore for the individual robots to perform something
+collectively. One simple example is the collective perception where the agents explore a swarm of
+agents, explore a field, a site, or you can imagine it can be an agricultural field or it
+can be a minefield. And the agent tried to count the number of the bugs in the agricultural field
+or the number of mines in the minefield to discover them. So it is exploring the two-dimensional
+environment or the field on the ground simultaneously, and deciding the quality
+of that field. Is it very damaged or is it good quality? For example, so this is just a very,
+very abstract example, but the point here is that a single agent, and that's what's important in
+swarm robotics, is that a single agent is not able to cover the whole field or it would take
+very long time and it would not last so long to detect the quality of the field on its own.
+So that's why a group of agents can do this faster cooperatively, but they have to communicate and
+they have to share their knowledge and therefore they need a sort of decision-making mechanism.
+How they exchange opinions by communicating with each other locally and then arrive at a
+consensus, at a conclusion in the end of the day and solve the problem and decide that the site is
+badly damaged or the site is good enough. So if there is something to work on or to perform
+on this site. Okay, I'm going to stop you there just for a second because this is where it gets
+kind of confusing for me. So if I was thinking of something like rats, which is used a lot in
+neuroscience, and of course in the literature, the rat needs to explore the space and all of
+this and then relative to how it's going to solve the task and so on and there's a goal and all of
+this and it sounds a little bit like that. They have to explore the space and there's a goal,
+but it's not quite like that because you've programmed them in a certain way. Can you help
+me understand kind of what you've given these agents such that they then are going to kind of
+do something new with it? So in this particular example that I mentioned, collective perception,
+the agent or the robot have a simple sensor for detecting the ground, the quality of the soil or
+the ground, the floor and that's what they can detect. They can move freely, they can randomly
+explore the environment and then they just read the quality of the ground underneath.
+So it might be like a little camera. Yeah, it's a little camera. Yeah, exactly. That's a little
+camera. So it's trained on images of what it's going to see with that camera. Yes, it collects
+the data from this camera, from the images and by collecting the data, it forms an opinion of the
+quality of the site and it changes that opinion because as it moves, it finds different patterns
+of different quality around as it walks in the field and it changes its opinion, but it also
+changes its opinion by sharing information through communication with its neighbors,
+with the close neighbors. So if the close neighbors are telling each other that the quality is very
+low of this field, then they kind of persuade each other. So they convince each other that
+the quality is low and that's driving the consensus, the convergence of the swarm.
+But nevertheless, the exploration is driven by this sensor which is deriving the images of the
+field. But because this is local, they cannot see the whole field at once. They can only explore
+one little piece of it at a time and they have to move around to explore other pieces of it.
+So this would take forever for a single agent. So by communicating and exploring at the same time,
+they share information and in a way they collectively integrate or aggregate that
+information. They're almost like, we were talking about scales before, so they almost become sensors
+themselves. Yes, yes, exactly. Yes. For the larger collection. Exactly, intelligence sensors, yes.
+You've input things in before. They've been trained on many, many different images that
+they could encounter. So in this, because this is quite a simple example, there are actually no
+real images for training because the quality of the site is binary. It's black or white.
+So it's really blank. But what is learned here and what is trained is the decision-making mechanism.
+So how they decide when to change their opinions and how they aggregate that information.
+So in our case, this is trained using evolutionary algorithms and it evolves
+and actually a neural network. So this is a neural network, which is a black box, as you
+also know, which drives the decision-making control mechanism for the individual robot.
+And that put together on a swarm scale drives the self-organizing behavior that will collectively
+solve the problem. So here the learning is how to share and how to exchange information and
+change the opinions of each other. So this is what is automatically generated. And if we train
+that with evolutionary techniques, as I mentioned, we use machine learning for that.
+And we don't know the actual mechanism because it's, as I mentioned, it's a black box.
+Does it answer your question? Yeah, yeah, it's great. So it's not standard machine learning,
+as you thought I think it was, but it is the same thing, essentially.
+Well, what gets confusing is sometimes there is no robot, right? And so it's just,
+then it's kind of an algorithm as the agent. Yes. Yeah. Then let me iterate on this,
+because probably that would be useful. So here we are talking about the behavior of the individual
+agent, of the individual robot. So there are real robots that we are using for this. We just
+develop using evolutionary algorithms, we develop the neural network that we install into the
+agent. So the agent has an algorithm. So it's like an algorithm, which decides what the agent does
+when it reads black or white, and when it reads from the communication with the neighbors,
+when it again reads black or white, how does it integrate that information? So this is the
+neural network or the algorithm that is evolved, and that is the black box in this case. So that
+is the decision-making mechanism only. So I'll say something and then you correct me, right?
+In this very general example, and I'm generalizing too, the swarm is a lot of different agents trying
+to come to a conclusion about this space. And then they're going to do that through communicating.
+Is the problem of overfitting that each individual agent will just sort of fit their own algorithm
+to the algorithm that they're communicating with? I'm trying to understand why something like
+intrinsic versus extrinsic motivation to get towards empowerment.
+Yes. Okay. Well, when we talk about intrinsic motivation, we mean some drivers that are inherent
+to the agent itself, which for example, we have typically homeostasis as one biological metaphor
+for that, because this is not driven from the environment from outside, but this is internal
+for the survival of the organism that is necessary. And similarly in robotic systems, we try to
+apply this same principle of intrinsic motivation that is independent from the external world.
+And any driver that is coming from outside, then that is extrinsic. So when you have something,
+yeah, that is driving you. So for example, yeah, you can think about hunger. It's an
+intrinsic motivation. So this is entirely within a single organism. So that process-
+We'll see, but now we flip to the biological.
+Yeah. Yes. I'm sorry.
+No, no, it's not your fault, but the papers do it. Everyone does it. And I understand these things
+in real life, or even in philosophy or neuroscience or biology, the way they're used. But I don't know
+if I understand this correct, but maybe you can go into the history of that. But I seem to think
+that machine learning and all of this robotics, in terms of robotics, to sort of develop on an
+extrinsic or with concern about the external, like there's a goal and you have to reach it.
+And so it doesn't matter that much about something like the equivalent of hunger, right? But there
+were some problems with that in terms of maybe with the swarm intelligence not working as well,
+or I don't know what, but intrinsic motivation, which is basically modeling something like
+hunger or the robot itself having its own kind of algorithms that apply only to it,
+and that only it can kind of work with through the sensors. This is something different,
+but I don't understand it yet, really.
+Yes. Yes. Yes. I will set this right now because yeah, I understand the point because yeah,
+we were talking about a few different things at the same time now, but to make it clear,
+when we talk about intrinsic motivation, this is one of the motivations and the driving force for
+empowerment. So I think because we have read the papers about empowerment and you have seen
+intrinsic motivation there many times, hopefully. And empowerment is such a driver. Let me just
+explain because when you apply empowerment to guide an agent or robot or whatever or organism,
+you are trying to maximize the influence of that agent over the environment.
+And that is something inherent or internal. And that is why empowerment is an intrinsic
+motivation drive because it forces the agent to maximize its influence over the environment by
+applying actions and perceiving the effect of those actions. So that is what actually
+empowerment measures. And by maximizing this level of control over the environment,
+the agent places itself in a better position to survive. And that is driven, so that is
+not driven by the environment or by external forces. This is driven purely by internal forces
+for the agent.
+How much one robot can influence its own environment or how much agent E that robot has on that
+environment would be the...
+Yes, so that is the drive for the agent itself. And as empowerment is defined, it is purely
+measuring the level of control an agent has over its environment. And if the agent tries to
+maximize its level of control, tries to maximize its empowerment, then therefore it is driven
+only purely by intrinsic motivation. So that is why intrinsic motivation is mentioned so
+much in those papers. So it is not related to machine learning. So we have to separate
+now this.
+Okay, that is very good. And how is that different from before there was such a thing as... Or if
+you do not use intrinsic motivation, it has to do with the goal, I guess, or I do not know.
+Yeah, well, yes. So the goal is something external to the agent. And if the agent needs to
+set targets and achieve goals, then there is usually a reward function and that is used in
+reinforcement learning to drive the process. So there are different perspectives in this,
+also in machine learning. So the important thing is that when you try to look at the
+natural drives in nature and you try to mimic them, as I already mentioned, bees and ants
+and other organisms, they are really very well studied nowadays, especially the simple
+organisms, which are easier to study. And principles from their intrinsic motivation and
+from their biophysical process being implemented in machines and in robots. So that is why
+intrinsic motivation is gaining so much traction, also in research and in robotics. So there are
+different concepts and there are different applications for intrinsic and extrinsic
+motivation. So we should not mix them. I just wanted to say that intrinsic motivation has been
+evolving over time as a way to mimic nature. Because microorganisms, people, humans, animals,
+microorganisms, they all have intrinsic motivation for survival. And that is a basic principle
+that is driving the behavior from foraging, feeding, to mating, to everything. And that is
+the principle to reproduce and survive. And those are purely intrinsic motivational processes. So
+that is something behind many robotics achievements nowadays as well. But yeah, I'll stop here now.
+And it's sort of independent of the task too, right? So there's something very interesting.
+I mean, can we kind of think about the big picture of why robotics is so important? And when you're
+making these swarm robotics and you're studying intelligence through robotics, do you think of
+yourself as sort of modeling what's going on in nature so as to try to understand nature? Or is
+there any kind of orientation like that for you? Yeah, a very good question, by the way. Thank you.
+Because I should have raised that topic as well. So as we try to understand nature and we try to
+replicate it in robots and in machines, by creating these theoretical or artificial models,
+which we implement in machines, we also can reverse the trend and understand better what
+nature is doing. Because we can do simulations in machines. By using these models, we can run
+simulations. And by seeing the performance of these models, the performance of the natural
+models in artificial simulations, we can compare to the observed behavior of the natural systems.
+And we can pipe that feedback into the biological studies and then help
+observe better and better natural systems. So this is a two-way process, actually.
+That's perfect. And that's kind of the point too, because it can get very confusing about the
+difference between the process itself and modeling the process, first of all. But also, I'm trying to
+understand the bigger picture for you too. You as a person, but also what your field is doing and
+what's motivating the work. Where you came across it and in so unpacking that, maybe we can start
+to unpack the history of empowerment too. Okay. Yes. Yes. Yes. Okay. Very good question.
+Because then I will say some words about how I came across and why and why empowerment.
+So let's get that clear. So as I mentioned, I started in the field of human-computer interaction.
+And when I first... Did you get a degree in human-computer interaction?
+Yes. Yes. Actually, I did my PhD research in human-computer interaction.
+Okay. And that's when I was looking for some potential measures that could help
+human-computer interaction research. Why were you interested in that? Did you just
+happen to kind of come across it or was it something you'd been interested in for a long time?
+Was there a problem you wanted to figure out? Well, I was working at Nokia Research on
+mobile multimodal human-computer interaction. So human-computer interaction for mobile devices,
+smartphones, et cetera. So there we have used the usual methods and tools used in human-computer
+interaction and usability testing. And we have realized the limits and the difficulties that
+every researcher in human-computer interaction faces because there are various theories and
+schools of thought in that field. I guess that's what I want to hear. For those who aren't familiar
+like me with that whole area, what's a problem that you hit your head against early on that
+you might want to solve or that you're still trying to solve? Yeah. I will come to that now.
+So there are different methods and there are different disciplines actually
+studying this field like psychology, sociology, physiology, engineering, computer science,
+or linguistics. So you have people from all different backgrounds and so it's quite a complex
+research community. And they're all concerned with studying and improving the factors that influence
+the effectiveness or efficiency of human-computer interaction. But what is used in that field is
+usability testing, usability specifications and metrics. And they are used to ensure consistency
+and the compatibility when we create these structural user interfaces. And that is typically
+the goal of UI design. However, the usability in general provides tools and measures which
+guarantee the user goals and needs. But as the market becomes increasingly more discriminating,
+this term of usability or ease of use becomes very often too vague. And it needs more rigorous
+evidence to back claims like easy to use or user-friendly interface. Because we have been
+working on improving user interfaces for mobile devices and mobile device small. So it was
+difficult to come across the exact paradigm at that time. And from that, we thought that we need
+some more formal models and more sound theories and principles to enable this whole process of
+research that will improve the current usability studies. And because this usually is like in
+HCI research, when I was looking for some potential methods and tools, I came across empowerment.
+And during my PhD research, I looked into this formalism of empowerment or the principle of
+empowerment for characterizing human performance. Since it was quite novel at that time, it was
+quite novel information theoretic measure that taps directly into the perception action loop of
+dynamic interactive systems. And that's what I needed for mobile human computer interaction.
+Let me just be a little bit ignorant or something. If you're basically creating technologies or
+working on how to create better technologies, is that kind of fair? And then you want it to be
+usable, which basically means that the consumers are going to easily be able to interact with it.
+So that's the human computer interaction. When you pick up a phone, the way that you interact with it
+is everything about how successful that technology is going to be, but also like for the company,
+but also for the person who's using it. But what I don't really understand is how that connects to
+the algorithms or to this intrinsic motivation. Maybe you can help me with a bridge there of
+why would you start looking at empowerment if you're trying to think about
+the usability of a machine device for a human? Yes. Well, okay. Then I'll explain that now
+because I think that we need some motivation for this because the view now of a user interface
+for human computer interaction, the view rests that the user behavior is about the user controlling
+their own perceptions. So we have interaction, we have actions and feedback as we press buttons
+on the touch screen and then we get feedback from that. And so these are actions and perceptions. So
+this closed loop interaction, but when you have a human in the loop, then there becomes a
+perception action loop. Well, now it becomes an integrated system because you have a machine
+and a human and that's why it's called human computer interaction. And it depends both on the
+computer and both on the human because there is a closed loop. The human has sensors like eyes
+and ears, and it has actuators like fingers and voice. It can speak as well. And it's interacting
+through the microphone or through the speaker and through the touch screen. And it can also get
+vibrotactile feedback as a feedback. It can get audio alerts or audio icons and it gets
+text on the screen. It gets images on the screen. Just taking generally, for me this sounds like
+the machine, which in this case we're talking about a phone, but all of this is kind of cartoon
+examples, but that we need the machine in the interaction. The machine needs to be able to work
+with similar patterns in a way, in a kind of continuous way with the human for the communication
+to be seamless. So somehow the patterns of interaction need to be continuous. Does that
+make sense? Yes. Yes. Perfect sense. And now the focus of my work in this field was actually to
+develop a measure that could qualify or quantify the effectiveness or the user-friendliness of
+user interface from a human perspective. Okay, now I get it. So it's not about designing robots
+or designing artificial humans. It was about measuring or capturing the essence of a human
+computer interface, how usable it is. Because previous usability, as I mentioned, they are very
+different and vague. Sometimes they cannot be replicated. Usability I think mostly conveys some
+satisfaction, user satisfaction. But actually in this kind of work that you're doing and in terms
+of how it's going to scale up into other things like the swarm robotics, there's actually a very
+real connection there between why we would want to care about the way that the phone or whatever the
+machine is, its algorithms or its motivation in the sense because there's this dynamic
+interconnection. But you were going to tell me how you got into empowerment from here, right?
+Yeah. Yeah. And yeah, so it starts from this view that the user's behavior is about them controlling
+their perceptions. And since the perception is tangled up with specific possibilities of action,
+which are called affordances by Gibson. So such affordances are the possibility for use and
+interpret the actions which are offered by the environment to the embodied agent.
+Wonderful you bring up Gibson. Were you reading him? Were you aware of that back there?
+Oh yeah. That was all part of your...
+In HCI he's one of the seminal reference.
+Yeah. I just interviewed someone who was one of his students actually. Harry Heft who writes a
+lot about affordance and it's a really different way that they're using it there. But that doesn't
+matter. What I'm interested in is just that you were already really influenced by that early on.
+Well, as I mentioned, this field is very much mixed with researchers and their
+psychologists and sociologists. And they come with references from from Gibson, Wittgenstein,
+and others. Because that term affordance is perfect for what I was just trying to describe
+because that is that interaction, right? It's not in the environment or in the person. Yes.
+It's the interaction. It's the human computer interface or the whatever, the dynamism of that.
+Exactly. Okay. So you get it now because actually that is the primary motivation from my work in
+that field that was at that time an ability to quantify affordances in a principled way,
+just to benefit the design of HCI systems. So...
+Wonderful. Fascinating. So that was your motivation in a way.
+Yes. Yes.
+Okay. And then so you were kind of dissatisfied with what you had, the tools that you had.
+Yeah. Right.
+And how did you find Empowerment? Was it already... When did it start?
+The first publication of Empowerment was 2005. So it was about that time. So I started a bit later
+my work on human computer interaction, but Empowerment was already published and
+that's what I came across.
+Do you remember when you came across it?
+2008, I think.
+In what context were you trying?
+I was in a collaboration project with researchers in the University of Glasgow
+and that was brought up to my attention by Professor Roderick Murray-Smith,
+who later became my PhD supervisor.
+So that was how it came together.
+Okay. And maybe now we could say what Empowerment even is in a way.
+Well, if we want to give some brief description for the original principle of Empowerment. So
+as I mentioned, it was introduced as a universal task-independent utility,
+which is defined by the channel capacity between the agent's actions and the subsequent sensory
+observation. The Empowerment is the channel capacity. So if I put it with direct terminology
+using Shannon channel capacity between the actions of the agent and the subsequent
+perceptions. So that's channel capacity is maximum mutual information between the actions
+and the perceptions. And in that sense, it measures as mutual information measures
+the common amount of information between actions and perceptions. So the relevance
+between actions and perceptions. So if your actions and perceptions are irrelevant
+between themselves, then it doesn't matter what you do and what you observe, there is no
+correlation at all. So if we use that term correlation instead of Empowerment. So if they're
+highly correlated, then you are in control of your perception action loop because you know
+what to expect when you apply an action. You know what perception you will observe in the end
+of the perception action loop. So that is essentially what this mutual information
+or the channel capacity is measuring because it's maximizing the mutual information between
+actions and perceptions. And when you maximize this mutual information, you maximize your level
+of control through this perception action loop. So it's a measure of perceivable control because
+you perceive an observation from the environment through which you're applying your actions. So
+it's a closed loop through the environment. So that's why it is very important to emphasize that
+the perception action loop is between the agent and the environment. So agent applies an action
+through the environment and receives a feedback from the environment and applies another action.
+That unrolls over time. So you can do this over many time steps and then
+you can ask for the perception after n time steps. And there we talk about n-step Empowerment,
+for example. If you skip the intermittent steps, you just apply actions but you don't observe
+anything and you observe the feedback from the environment just after n time step, then you have
+quite a long horizon in this perception action loop. And of course, the longer the horizon,
+the more options you might have, but you never know.
+Did that speak to this idea of potential? Because in the papers or in a lot of the writings,
+there's these distinctions made between. And so you can measure kind of
+almost like patterns or potentials. This is showing you kind of patterns and potentials
+that can be applied in different situations. You don't have to have the environment exactly
+the same way or do you? No, the environment depends on the task or the scenario and it's
+part of the stochastic models. So for the model, you need specification of both the agents and
+the environment and that is all up to you. So that is why it's flexible. It can be applied
+to anything because it is actually something like a scheme. So that's why we call it a notion
+and a principle because it's not strictly defined for some applications or environments.
+It is just a tool, that mathematical tool that can be applied. It's not guaranteed that it
+will be beneficial for all cases, but it is quite abstract and universal.
+It might be with some tweaking and expertise, it might be applied to almost anything
+on an uncertain level because it's quite abstract. And you also mentioned, yes, so it's just to
+state that it's measured in a single unit, it's measured in bits because that is what
+entropy is actually, that's the background. What is measured? The motivation is measured?
+Well, the channel capacity, the channel capacity actually is measured in bits because it's a
+communication problem. Shannon communication theory is defined for communication. We were
+talking in these bigger senses about what is intrinsic motivation in this kind of wider sense
+and then this is where I get kind of lost because if we start talking about Shannon information,
+we are talking about bits, right? Yes, that is the measure. It's minimizing surprise more or less
+then. Would that be almost like what the intrinsic motivation model is helping the agent do,
+minimize surprise? If we talk about entropy, yes, you can say, yes, entropy is measured in bits.
+But this is a model, so it's literally doing it through bits of information, which is different
+probably than how it's happening in the real world, but we've used the model to understand
+the real world. Well, now this measure is quite a bit of different bits because it gives you
+now a measure, a value of bits, which doesn't tell you much because it's incomparable to other
+problems, to other models. It depends only on the model. So the point of this measure is
+to give you a benchmark so you know the range of this measure for this particular problem.
+When you design it, you know what's the maximum level of empowerment, what's the minimum.
+And then within this range, you can benchmark what you get for different solutions.
+And that's how you can tune your system. For example, your user interface or your swarm
+robotics decision-making controllers. But it will be all different. So if I say now for this
+problem, the range of empowerment is between zero and one bit, but that doesn't say too much
+because for other problems it can be between zero and one million bits. It all depends on the model
+and that's why it's not absolute. It's all relative to the model and you cannot compare
+the values of empowerment in absolute terms. You cannot compare them between different models.
+They're just illustrative for one particular model and for one particular
+scenario that you want to study. When is this helpful? I mean we talked about the phone or
+we talked about the robots or I don't know how to kind of make it into kind of an example that can
+then help us understand the parameters towards a real-life situation. I mean this will be messy,
+but something like with the phone or with if you're trying to understand how you're interacting with
+your iPhone or whatever, why would that click or put a light on in your head that oh this might be
+a way to go at this problem of understanding this affordance relation? What is clicking for you
+that's helping you understand something that interaction differently? If you're trying to
+understand the human computer interaction between any device, why is that way of looking at it
+giving you something that without that way you don't have? Do you know what I mean?
+Yeah, I understand. Let's say in the example with the phone, so if you
+you're trying to make a case or scenario use case of empowerment in the case of a mobile phone
+with which you interact every day and you know that there are different factors that constrain
+the usability of the device. So there are usually different form factors, different sizes,
+smaller, bigger. The keyboard is quite packed. It can have different characters
+from Chinese, Japanese, Latin, whatever. Different number and Arabic as well. So
+operating with for example such keyboard with now we can also consider different people with
+different finger size. People who can hit three buttons at the same time when they touch the
+keyboard and that's not really helpful to type a message. So this all boils down to usability.
+So we can just term it as a disturbance or uncertainty. So for example you press a button,
+you try to type a message and there is an uncertainty which letter will come up because
+sometimes you hit the wrong letter because they're too small or you're walking on the street and
+a lot of disturbances again. So this is noise. So now let's put this all together. Uncertainty,
+noise, disturbances of any kind. So from your sensorimotor system, so your finger, your muscle
+which is operated by your brain but your brain is at the same time guiding your walk on the street
+so you are multitasking. So these are disturbances that constrain your abilities to type
+properly while you're moving and your hands are moving as well, your body is moving
+so it's shaking and whatever people are hitting you on the street. So there are all kinds of
+disturbances, noise and on top of that we also have system disturbances that are bringing delays
+and there are also sensor inaccuracies in system errors in the software itself. So you know there
+are windows that come and disturb your typing every now and then and then you think that you
+have hit a button but actually you just closed the pop-up window because it was on top of it.
+So this all accounts to the uncertainty in the interaction process. So if you try to model that
+and this all affects your measure of control over the interface. Now if we think the environment
+as the phone and that's the interface you're trying to interact with and if you have a
+very bad performance, let's say very bad typing accuracy, it is due to low empowerment. Does it
+make sense? It makes sense but what's interesting is this can happen at the algorithmic level,
+can't it? So like the phone could, in a way, instead of needing me to get exactly everything
+right, infer from the overall kind of pattern that I've expressed. It can use this algorithm
+to find that solution quicker is what I'm trying to get at. Exactly and they are doing that. They
+also use machine learning for correcting user errors. That's exactly correct but empowerment
+is not the replacement for these algorithms. It is just a measure that encapsulates all these
+different kinds of disturbances that I just mentioned and listed. All these different types
+of noise and uncertainty in the interaction process which otherwise would have to be measured
+separately by sensor imprecision noise with some units, by communication delays which are measured
+by milliseconds or something, by size of the keys on the keyboard because some are bigger,
+some are smaller and these are all contributing to your user satisfaction or to the usability
+filter interface, essentially to your performance, typing performance and if you consider them all
+separately then it's not too handy, it's not too useful. Empowerment, if you bring all of this
+uncertainty, types of uncertainty into the same model, you measure it in the end in bits. It's
+just a single value and as I said if you know the range 0 to 5 or 0 to 100, let's say in percentage,
+then you can modulate, you can control the level of user satisfaction by changing for example
+the size of the keys on the keyboard. But essentially that was exactly the motivation
+to understand better the quality of the user interface and therefore use that information
+to design a better user interface in the end. That's wonderful and that makes things a lot
+clearer for me and as you were talking I was also thinking back to the robots that we started with
+because you were saying at the beginning how each one can explore the whole space by itself
+and needs everyone else so to speak but it also has to sort of communicate. Does it help you there
+too to understand how each robot might have its own intrinsic motivation? Sorry I'm kind of making
+it a little too psychological but if each robot is talking to each other and sharing information
+is there also a way in which studying it this way, even from your point of view, the way you're
+studying the robots this can help you understand what collective intelligence really is happening
+there or what does that bring up for you when I try to bring it back to that, to these different
+agents who are trying to communicate and your position trying to understand how to make them
+communicate better? Yeah yeah very good point because there is again a two-way interaction
+between these studies and the natural studies so we try to implement
+decision-making mechanisms or neural networks into robots to drive the swarm
+towards some goal but in the same time these observations and these swarm models can be used
+to compare with data that is observed in nature in bird flocks or in fish schools and
+swarms of ants and bees because that's where we learn from, that's what we get as a
+background and we just try to mimic but when we implement these simple robotic swarms we have the
+tools and also the simulation so we also do a lot of work with simulated robots because that's
+much faster and easier and there you can do much more and with those models of simulated robotic
+swarms you can try to understand better what happens in nature so because those are models
+that you can control so there are system parameters you can you can change control variables and then
+the behavior of the whole swarm changes and then you can link it to bird flocks or other natural
+swarms and then infer what is actually the behavior or the driving force behind that.
+That makes a lot of sense to me then because I think I was trying to put it into the robot or into
+the swarm right and actually empowerment isn't about putting it into it in the sense that I'm
+talking about it's about from your perspective understanding what you're trying to understand
+by building that whole system because understanding that then sort of increases our agency and our
+wonder of the world and from that position from you trying to understand it it makes a lot more
+sense to me because I can see how that would give you something of trying to understand better how
+certain changes in the pattern of the kind of intrinsic motivation of one robot could lead to
+a whole kind of cascade of changes in a way that like to go up a scale would itself seem
+like one intrinsic motivation. Does that make sense? Like the swarm's intrinsic motivation.
+Yeah yeah yeah and exactly it's just analytical measure which gives some kind of quality
+estimation of what's going on if that makes sense of the process and that helps you
+that helps you actually see the big picture because it brings together many things
+on a higher level and it can explain and it can actually make predictions so the important
+thing is that because it's analytical you can compute it theoretically with the system that
+you have designed you don't have to run any experiments you don't have to buy expensive
+robots and invest in that but just by computing the level of empowerment for specific system
+parameters for specific levels of some parameters you can decide actually what you need
+in your future robot when you're building robot for example what capacities what sensor range
+what communication range what camera you want to build in your robot because usually swarm
+robotics i didn't mention that is is is driven by by very low cost small robots which are
+notorious for being able to to break very easily because they're they're very low cost but that's
+okay because there is a redundancy in the system because the swarm is big enough but of course that
+is why you you try for minimizing all the costs of sensors all the hardware because you know that
+it's dispensable anyway and you still want the swarm to solve the problem because you have to
+invest into the hardware something but you want to to trade off the the cost versus the performance
+and if you can do that in design time and if you can get a prediction from the empowerment measure
+prediction for the system parameters that will solve your problem at this cost
+then you don't have to play with real hardware to decide that oh no this is too expensive
+to solve the problem i i should do something simpler so you understand what i what i'm trying
+to say you you can yeah yeah that makes a lot of sense relative to your work and also how you got
+into this and everything yeah that's like the big picture of it yeah do you think of yourself as
+modeling intelligence well it's not not oh well um modeling intelligence and i mean modeling
+intelligence when you see intelligence in the world do you think the birds forming are intelligent
+for example or does that word not apply it only applies well i think it's a it's a kind of
+collective intelligence it depends on what we mean by intelligence of course because
+it's a collective behavior certainly and because it is it is very complex we might say that it
+needs a certain level of collective intelligence to to perform all these shapes of bird flocks
+without collisions you know they're they're very proficient in that and and and that is yeah that's
+incredible but yeah i just want to point out that the empowerment is not uh directly supposed to
+build intelligence so if you ask me if i'm creating intelligence not not with empowerment so of course
+for the robotic swarms we build systems that behave intelligently but they they use neural
+networks so not that empowerment i don't think you're creating intelligence but i meant modeling
+it trying to understand it modeling well yeah it's part of yes yeah well it's part of the process
+yeah and by intelligence i mean to go to gibson or somebody that almost any to try to get past that
+dichotomy he was trying to get past that subject object the way we think of mind body and so on
+for me any creature any being especially birds and swarms of birds that's intelligence but when
+people hear that word they often think of it as human intelligence which means it's attached to
+some kind of symbols and it's thinking about itself and all of this which i definitely don't
+mean at all i really mean almost like a foundational problem solving movement you know so to speak and
+it seems you would almost have to go to that level when you're modeling something like a bird a swarm
+you know that you almost have to go to that level of yeah whatever that is yeah yeah yeah
+well that that's exactly right so there are different different levels in in this in this
+process and and empowerment is is operating on one particular level as i already mentioned
+perception action loop level but of course yeah we are we are aware that there are levels up and
+down of that so um and which are very important and empowerment just like a building block in that
+process yeah what's like really exciting for you when something happens in your work what's like a
+something you is it when you figure out a math equation is it when the robots do something
+different is it collaborating with everyone around you like what what's what feels yeah well um i
+think in in my work most exciting uh parts have been uh by bringing together different fields
+of science and research and applying models from one field to another like cross-pollinating
+different fields and in particular applying empowerment to to different different paradigms
+which uh seemingly disparate but in the end as i said empowerment is quite abstract too and
+it can it can be leveraged to to quite many i mean different sciences i mean
+don't mean just natural sciences but humanities as well
+so the empowerment is so empowerment is measuring channel capacity or somehow the utility is a channel
+capacity but i wonder how we relate that to love what's empowerment relative to
+you love does love have a channel capacity does our expression of love in the world have
+some sort of parameters of capacity
+so
+you

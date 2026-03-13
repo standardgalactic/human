@@ -1,0 +1,820 @@
+Hi, Richard. Thank you so much for being here today. It's great to see you.
+Pleasure, pleasure to join you. Cheers.
+Cheers. So I want to start in London today with your PhD.
+I believe this is around the time you met John O'Keefe and Lynn Nadel.
+So maybe we can sort of start there and lead into how you became the famous neuroscience for things like memory and, of course, the water maze and many other things.
+But I want to start in that moment. Can you maybe take me to that moment and what you were doing, thinking about?
+Yeah, well, I'm not sure I'm a famous neuroscientist, probably more of an infamous neuroscientist.
+Why do you say that? Why infamous?
+Oh, I don't know. So first of all, I actually didn't do my PhD in London.
+I did it at Sussex University to the south of London, down by the coast.
+And I was doing a pretty standard kind of experimental psychology PhD.
+And as I was sort of writing it up, I kind of crystallized in my mind something that had been on my mind for some while,
+which was that I didn't want to just do plain psychology.
+I wanted to, with studies of behavior, I wanted to actually get into the brain.
+And it was at that time that I heard about the work of John O'Keefe and Lynn Nadel.
+So I made a point of, you know, going up on the train to visit them in London.
+And that's where I met them.
+So it wasn't actually in London.
+Well, when we met, it was in London, but I had been working elsewhere.
+So I'm sure exactly when that would be sort of about 1973, something like that, thereabouts, maybe 74.
+Okay. So that was well before they published their book then.
+It was before they published their book, but they'd made, John had made the discovery of place cells.
+And Lynn had done a study suggesting that lesions of the hippocampus actually impaired spatial memory too.
+So, you know, that was their sort of starting point.
+And they were starting to talk about a cognitive map, but they hadn't written it up.
+Yeah.
+And why were you interested in that?
+Had you already been interested in this area of the brain before or what was going on?
+Well, I was starting to read around to try and sort of find a topic that I could, you know, dig into.
+And this seemed really fascinating.
+And during my meetings there, we talked initially.
+And then I sat in John's lab and, you know, watched place cells firing away.
+And it just seemed captivating to me.
+And I thought, well, I might try and, you know, see if I could carve out a niche and make a contribution if I could.
+And what came apparent in the discussions with John was that he discovered cells which, you know, depended on the animal's interaction with the environment, hearing and sight and smell and so on.
+But the fundamental concept that they were digging at was that place is a sort of abstract concept separate from, dependent upon, but separate from sensory information.
+And that we could have a concept of place.
+And so John actually sort of set me the task.
+He said, you know, we don't really have any tasks that we can use to sort of study this well.
+And with your background, maybe you could think out a task where the animal has to go to a place that he can't see, he can't hear, he can't smell.
+Can you do that?
+And it was from that kind of starting point that I began to think, well, you know, how on earth could I meet that challenge from John?
+And that's what led me subsequently into the kind of research that I then started out doing.
+So it's really interesting to think about that.
+Let me just say a bit more about this.
+I mean, the kind of idea is that, and it's a difficult one, people kind of tend to think, you know, we get sensory information, it's processed perceptually, and then we make kind of associations between, you know, sight and sound and sight and smell and so on.
+But they were saying, look, look, there's some kind of internal processing going on in the brain to do with where you are.
+And the more I thought about that, the more I thought, well, this is pretty fundamental and seems like a really kind of key idea to get at.
+And, you know, if you think of an animal, you know, like rodents, but it may be other animals, they come out of their burrow and it's been snowing.
+So the world looks different, right?
+But it's still the case that where the food is normally found or where the water is normally found is going to be in the same place, even if everything looks different.
+So this kind of sense that they would have some idea of kind of where things are dependent upon, but also independent of, you know, the specific sensory information they're given.
+Yeah, let's unpack that just a second, because that's really interesting to me, this idea of trying, like, so the body is the senses in a way.
+I mean, the creature comes out and he is, it is, she is, whatever the sense is.
+So that is the body in a way from my perspective.
+So as you're saying, of course, it's going to be dependent on whatever's happening inside.
+But in some way, these cells, play cells and so on, or at that moment, it was play cells, were somehow firing for all of that, or some kind of regularity, experienced regularity that didn't necessarily depend on the fluctuations of that sensory experience.
+Exactly that.
+Okay.
+Exactly that.
+And let me give you another story.
+I recently, I don't know, Christmas, couple of years ago, my family and I were wandering around Edinburgh, and I thought, oh, this will be fun.
+I'll take Louise, my eldest daughter, to where she was born.
+Oh, wow.
+And the hospital building where she was born had been knocked down, and it was now a block of flats, a block of apartments, right?
+But I knew exactly where it was, right?
+Wow.
+And I was able to sort of stand there with Louise and say, you know, Lulu, this is where you were born.
+And that was kind of an exciting moment for both of us, because we were in the place.
+But of course, it looked totally different from what it had been at the time.
+Yeah, that reminds me, I was just in Prague, and when I was young, I had this kind of thing for Kafka and Max Broad.
+And I just happened to end up staying in the apartment complex where Max Broad, the kind of, the person who was the champion of Kafka, lived.
+It was totally by chance.
+But something about knowing you're in the space that these other people were in, there's something very meaningful about it.
+And it's interesting, the continuity over time and the connection between space.
+And of course, this has a lot to do with memory, but it is a very powerful, it is a very powerful, I don't know if you would call it a skill
+or what it is about the body, that somehow this is happening all the time for us.
+And that, like, with you and your daughter, I don't know how old she is, but a lot of time has gone by.
+And still, that continuity and that powerful feeling is there.
+That's right.
+Yeah.
+Yeah, yeah, absolutely.
+So were you interested in that in a kind of broader sense?
+Like, I'm wondering about when you were a kid and growing up and starting to study and stuff, like, how did you, obviously you caught on to this.
+You wanted to find John.
+Nobody was paying much attention to this in that moment, even though it was really an extraordinary thing.
+It was so new and so weird to think of the hippocampus and cells firing for space and all the stuff we've been talking about.
+So obviously you latched on to that a bit, and I'm just kind of wondering, did you, can you see now, like, looking back, any kind of reason for why that lit you up a bit?
+Not really, to be honest.
+I mean, I didn't, I'd been reading a few papers, but they weren't particularly, you know, drawing me in.
+It was really sitting in John's lab listening to place cells was the kind of key turning point.
+But there was one incident during my PhD, which relates also to this importance of the sense of place, a bit like your Kafka story, which was that, although I was at Sussex University in Brighton, you know, many, many years before, I mean, 23 years before I'd been born in the next door town, which is called Worthing.
+And one weekend I had not much to do.
+I thought, oh, well, I'll go find the house we used to live in.
+And so, you know, I chugged off in my car, and, and I didn't really know quite where it was, and I had some idea of kind of roughly where it was.
+And eventually, after sort of wandering around a whole bunch of streets, I found the street, and I found the house, and it was still there.
+Right.
+And so I parked outside, and I had a little conversation with myself, you know, shall I go and knock on the door and tell them that this is where I was brought up?
+Yeah, I didn't have the courage to do that.
+So, you know, I sort of walked up and down the street, then got back in the car and drove off.
+And about two to three weeks later, the police knocked on the door of my parents' house, which was, you know, miles away now, I mean, north of London.
+And they said, your son's been prowling around a housing estate in Worthing, and the neighborhood watch people have reported him.
+And my mom just burst into laughter and explained to the police what it was all about.
+So, I mean, again, you know, that's an example of how, you know, places can be sort of so important to us.
+And, you know, I think everyone has a story like that.
+I think that's a very human thing that if you've lived somewhere, I've done that too.
+I've gone back, because we moved a lot when I was a kid, and I've definitely gone back to places just, you know, there's something that draws you to be in the space.
+It's a really kind of an amazing thing.
+And actually, it kind of leads into the next thing, which is, I wanted to talk to you about St. Andrews, because there's also a way in which, you know, place really does shape us.
+And it's not, it feels kind of accidental in a way.
+So you had kind of met John, and you were interested in all of this, and Lynn.
+And then you went to St. Andrews, I believe.
+Well, actually, I'm sorry, my life's a bit more complicated, because I went off to a postdoc, a research fellowship on my own, and, you know, tried to sort of rise to John's challenge and develop a task that would work, but it didn't, it sort of worked, but didn't quite work.
+It wasn't there yet.
+And then I got very bored, and I left academic life.
+Oh, I didn't know.
+And I went to help build an exhibition of human biology at the Natural History Museum in London.
+And then I joined the BBC and worked in television for a while.
+And it was during that period, which I found absolutely fascinating, because it was a live television program.
+And we had to, you know, have the program as 24 minutes and 30 seconds long every week, and had to be live.
+And so there's disciplines associated with doing all of that, which was great fun.
+But I had to find science stories.
+And as this went on, this job, which I found fascinating, nonetheless, I found myself actually more interested in the science than I was in the presentation of the science.
+And I thought, right, okay, I've got to go be a scientist.
+So I left there and got the job in St. Andrews.
+Oh, wow.
+I didn't know about that little, that interlude.
+How long was that?
+Oh, well, I was out for about, I don't know, three and a half years, something like that.
+Oh, wow.
+So by that time, by the time you reentered the book, Hippocampus is a Cognitive Map.
+The book had been published the year before, yeah.
+Okay.
+Yeah, yeah.
+But you still had this task, which was to develop.
+To develop this thing.
+Okay, so then something really amazing happened, which was that I joined this department.
+I mean, at that time, I had a girlfriend in Scotland who I was very, very fond of, and we wanted to be together.
+And I sort of, well, just took the job because it took me to Scotland.
+So that was great.
+Another place-oriented decision.
+Yeah, absolutely.
+Which, as I was getting to earlier, ended up being very fortuitous.
+Yeah, it did.
+And Patricia and I were together for about nine years, but we went our different ways later.
+But the key bit of the story is that I did my lectures for the whole year and tried to be a sort of conscientious new lecturer in the department, assistant professor,
+or whatever we want to call it.
+And at the end of the year, I went to the professor who very sort of much ran the show.
+And I said, look, you know, I'm really enjoying it here.
+I'm loving it.
+But I really want to, you know, do some research.
+And there isn't the facilities in the building to do that.
+So, you know, and I want to do some animal research.
+So he said, leave it with me.
+And again, you know, a little while later, about a week later or so, he said, look, I think I might have found you something.
+And I said, good.
+And he said, well, it's down at the Gatti Marine Laboratory down by the beach because there's just on the sea.
+And so I went down there and was shown to a series of rooms which they weren't using.
+And I was asked if this would be suitable and, you know, could I keep animals there?
+And they said yes.
+And so I proceeded to sort of set up this laboratory and start thinking again about, you know, John's task for me, so to speak.
+And the reason this was fortuitous is because every day I would walk into this marine laboratory past, you know, lots of static displays of various marine mollusks and fish and, you know, what, but also some tanks of swimming things.
+And I thought, hey, I wonder if rats could swim and could this be the solution to the problem?
+And so everything then happened in a spirit of about 20 minutes.
+I sort of filled a huge cage washing tank with water and put a rat in and it swam around very happily.
+And I thought, well, okay, this is the way to do it.
+So then I thought, well, I can hide the destination under the water.
+And I think I had a bottle of milk.
+I put milk in to make it, you know, so I couldn't see anything.
+So the rat couldn't see.
+It all worked and the rat climbed onto this thing and looked reasonably happy.
+And this is fortuitous just in case people don't know because, and I don't think you've ever used this in your papers, the Morris Water Maze.
+But everyone who hears your name, Richard Morris.
+You will not find a single paper where it refers to.
+No? Okay, I didn't think so.
+Well, that's immodest.
+So I didn't do that, no.
+Okay, but still, I mean, it's called, everyone knows it as the Morris Water Maze.
+And it's really, really, I don't know if there's anything that's more kind of well-known in neuroscience in terms of a framework or a tool or what would you even call it?
+Anyway, it's very famous and it's kind of amazing that it just, I mean, do you think you ever would have had that idea if you hadn't ended up in the, was it the Gadi Marine?
+No, I think I was just very lucky.
+I mean, I say in talks that I had the great good fortune to be appointed to a department with no lab facilities.
+Yeah, it's wonderful.
+And this building, I think I've seen it once in one of your talks or something.
+It looks like a giant, old, crazy ship or something.
+It's a crazy old thing.
+And the previous director had been very famous physiologist, but he'd left for Australia by that point.
+So then we, I and a technician who was appointed to work with me, we then built the first water maze just out of, you know, plywood and resin and stuff and went underway.
+And it basically looks like a little pool and you make the water cloudy and there's this kind of rising, I mean, just the very basics.
+And there's this kind of a very basic thing.
+And we had a camera above so that we could, you know, watch what was going on.
+We did everything by hand to start off with.
+I mean, these were in early days.
+I mean, I think I did have a computer, but they were, they were not really geared up yet to sort of doing live video and stuff.
+But later, later on, you know, a year or two later, we then started, you know, automatic tracking and stuff.
+And you use milk to cloud the water, which I love.
+I mean, it's just so kind of DIY.
+You use milk, yeah.
+And I didn't have a big research grant at that time.
+So, you know, every cost was adding up, you know, to use this every day.
+And I think one of the milk companies gave you like a whole supply of powdered milk or something?
+I published my first paper just showing that the thing worked and that the animals could learn and learn well and they could approach the target from novel directions,
+which was one of the things that John had suggested we had to test and that worked.
+And then we started going in to sort of look, well, is the hippocampus involved in this?
+And so then and until I got my sort of big paper, I couldn't really get a big research grant to or any research grant to sort of work on this.
+So I was full of youthful naivety at that point.
+And I wrote to the managing director of a company that sold powdered milk.
+And I mean, I wish I'd kept a copy of the letter or taken a photograph or something.
+I never did.
+Anyway, it was the most embarrassing letter about how important my research was.
+And I needed, you know, a huge supply of powdered milk and this would help me.
+And then I said to him, I said, well, you know, look, if when we publish our paper, I'll be sure to thank the company for the supply.
+And he wrote back saying, look, you should have received now a huge parcel of powdered milk, which I had done.
+And he said, you know, I hope this will help you in your research, but please do not thank the company.
+Gosh, too bad for that company, though.
+By now it would have been the best advertising ever.
+Yeah, that's what happened.
+So let's try to understand why this was such an important thing that you developed.
+And in relation to, so we had these cells, John had found by accident in a way that certain cells in the hippocampus fire relative to where the animal is in the environment.
+So we talked about how it doesn't really, the sensory fluctuations don't change, but the body sensing where it is in the place, the cells are firing in that specific place.
+And he needed a way to test this that didn't depend on those sensory fluctuations, I guess.
+So how did your maze solve that?
+Okay, so how did the maze solve that?
+Well, the first thing is that the animal's swimming with his eyes pretty much at the water surface.
+And by putting in the powdered milk to hide the platform, there was simply no way that the animal could see the platform before he'd got to it.
+All right, that's the first thing.
+I'll put up some images, too.
+You can tell very well when you see it.
+And the second is that, of course, the platform's silent, so there's no auditory cue.
+Right.
+The third is if there were any kind of air currents in the room, you know, from the heating or the air conditioning, what have you, they wouldn't be guiding the animal specifically to that platform.
+There might have been some smells left by the animal when he got to the platform, but we swirled the water around between trials, and so we would have confused all of those.
+And, yes, the animal could feel the platform, but he couldn't feel the platform until he'd got onto it.
+So there was no way in which the somatosensory information could be a guide to the destination.
+So this seemed to me to address the fundamental issue, which was that the animals, you know, would have some sense of a place to go to that he could neither see, hear, smell, nor feel.
+And it worked.
+And then we did the next sort of critical study was to make complete lesions of the hippocampus.
+I studied, I did jointly with both with John and with a guy called, a friend of mine called Nick Rawlins, and what we found was that when you did that, the animals were unable to find the platform.
+So that suggested that the hippocampus played some sort of causal role in this performance.
+It didn't show that the storage was there, and it didn't, you know, confirm place cells because we weren't doing electrophysiology, but it was, you know, a step in, you know, building the picture.
+And I had the good fortune that was published in a great journal in Nature, and it had had some kind of impact and presented it at the Society for Neuroscience later that year.
+Yes, it definitely had an impact.
+I'm wondering around this time when you were starting to, this was happening and it was becoming so impactful, were you think, because before the hippocampus had been known for memory with studies like HM and so on.
+And so, and that memory seemed something different than this that we're talking about now.
+And then John had found these cells in the same area of the brain that's associated with memory that are now somehow, like, it gets generalized and cartooned as a kind of a GPS of the brain because subsequently many other kinds of cells were found, like head direction cells and so on, were being found around the same time.
+So, in any case, I'm wondering what you were thinking about at this time, were you seeing this area of the brain as navigational or were you thinking about this, like, spatial memory or what were you thinking about in terms of memory and so on?
+And that's a really good question, Andrea, because I was thinking about that, but I couldn't find a solution to it.
+You know, when we talk about, say, episodic memory and autobiographical memory, the very memory that HM and other amnesic patients fail in, you know, usually they're asked, you know, to describe some event.
+And, of course, you can't ask an animal that kind of question, at least not directly.
+You have to do it sort of indirectly.
+And we couldn't really find a way of doing this.
+But I did start developing modifications of the behavioral procedure where they had to go to a different place each day.
+And they learned that, too.
+And so I began to sort of think, well, the animal isn't just when he gets into the pool remembering one place to go to.
+He's remembering where do I go today?
+So the thing was starting to get more episodic in nature.
+And that was published in the mid-80s as well.
+But I didn't really kind of actually understand the experiment I'd done.
+I mean, I published it and I described it.
+But it was only later I realized that, you know, by further modifications along these lines that we could build a sort of episodic-like features into this spatial memory task.
+But at that point, something else happened, which was critical for my development, which was that I was, on the one hand, I was really pleased about this hippocampal lesion study.
+And I went on various, gave various seminars about it.
+And I'll tell you about one of those, which was important later.
+So, but it was at that point that I started to sort of think about the possibility of looking at the physiology indirectly.
+I didn't want to do exactly what John was doing.
+But it was then that I became aware of all the work on long-term potentiation and people suggesting this might be the memory mechanism.
+So, then I had the challenge in front of me of kind of, well, how do I investigate whether, you know, activity-dependent synaptic plasticity could be involved in this learning?
+And that then became a whole branch of research.
+But let me just segue a tangent for a moment to say something, which for me is historically sort of important, is that I made a trip to Canada.
+And during that time, I was asked to go and give a talk in the town of Lethbridge, which is in Alberta.
+And Pat and I took the train across Canada.
+We were going to Vancouver.
+She had a meeting, a scientific meeting in Vancouver at the end of the year and end of the end of the summer.
+And so, we sort of timed it so that she could go to her meeting and I give my talk in Lethbridge.
+And so, I gave this talk about the water maze and it was the first time they'd heard about it.
+And they, in the lab there, started calling it the Morris Water Maze.
+So, the origin of the name Morris Water Maze is not from me.
+It came from a bunch of scientists in Lethbridge in Canada.
+Wow, that was really early on then.
+No wonder it started.
+And so, I'm very grateful to them for having done that because, you know, I didn't want to, you know, name something after myself.
+But it helped to disseminate the idea that, you know, this was sort of somehow different in some way.
+And they went on and did some extremely important research, you know, complementary but different from mine.
+And that helped to publicize the whole thing in North America.
+Yeah, well, it's very rare that an experimental method can be so clean and so understandable and so on purpose, you know.
+I can't actually think of many others that can do that.
+Well, there's another funny one.
+There's another funny one that I think is nice is that there's a guy called Ed Southern who's a biochemist.
+And he, at the time, was working in Edinburgh and then he moved to Oxford, became a very famous professor in Oxford, Ed Southern.
+And he developed a blotting technique, which is called Southern blotting.
+And then when further developments were made, for example, looking at proteins, since they already had Southern blotting, they called it Western blotting and so on.
+So the Southwest and so on in the blot all comes from the name of Ed Southern.
+That's really funny.
+That's actually very lucky for him.
+Yeah.
+So were you thinking of navigation as separate from memory?
+Like when you were, were you reading Tolman already?
+Were you reading John and Lynn's book?
+Did you, were you also starting to think of these things as not necessarily distinct?
+Obviously, in your own words, I was, I was, but the tasks we had were basically navigational tasks.
+So, you know, I did describe them in navigational terms, you know, place navigation and this kind of thing, rather than using the language of memory.
+But later, as I got more involved in trying to investigate whether long-term potentiation or something like it was happening in the hippocampus, I began to think more widely about memory generally.
+And this fueled my interests a lot.
+And so I actually did a sabbatical in California, University College, Irvine, in the laboratory of a guy called Gary Lynch, who's a remarkable figure who's played a very key role in the development of work on the neurobiology of memory.
+And it was there that we started testing a drug that he was very interested in that might be able to block long-term potentiation.
+And we did some studies with this drug, Lupeptin, and they produced effects, but they were kind of mild.
+We managed to publish them.
+But while I was there, I was approached by a guy called Eric Harris, who said, well, have you seen this amazing paper of Graham Collingridge's in which he's got a drug called aminophosphonovaleric acid, APV, that appears to block LTP very selectively?
+And so I read the paper.
+And then when I got back to Britain, I approached Graham, and he said, well, you must write to Jeff Watkins.
+And Jeff Watkins was a medicinal chemist working in the pharmacology department in Bristol.
+And he sadly recently died at a great age, but he was a remarkable chemist who developed a whole range of compounds that could interact with excitatory receptors.
+And he, together with his colleagues, worked out the whole way in which you've got NMDA receptors and AMPA receptors and so on, using these different kind of compounds.
+And fortunately, I had a chance to go and meet with Jeff and talk to him about how I wanted to try this in the water maze.
+And he supplied me with some APV free of charge from his laboratory.
+And we then, 1986, found that if we infuse this using an osmotic mini pump into the hippocampus, that would also block learning in the water maze.
+So that was very exciting because we now were not damaging the hippocampus.
+We were just temporarily blocking the ability for it to allow synaptic weight changes to occur.
+So it's a much more subtle manipulation.
+That's fascinating.
+That gets more towards synaptic tagging, your other work.
+That came later, that's right.
+That's heading in that direction a bit.
+I can already see that.
+Just for people who don't know, we should probably say, like, long-term potentiation.
+It's kind of this Donald Hebbian, I mean, to generalize, cartoonish, neurons that fire together, wire together kind of thing,
+so that you're actually changing offline with online, so to speak.
+That's right.
+Exactly, yes.
+And it's a fascinating physiological phenomenon.
+It may be induced normally using different parameters than are used in the conventional lab experiments and physiology,
+but that doesn't really matter.
+The key point was that you could change the strength of synapses,
+and you could do so selectively depending on what inputs they're getting.
+So this is really fascinating because you have memory, you have learning, you have navigation,
+and you're already, in a way, bridging all those things,
+but I guess you could not have possibly made all those connections and seen all that at the time
+because it was all swirling and just kind of happening.
+And then, so then what happened after that, so I published the 86 paper also in Nature
+and then an 89 paper in Journal of Neuroscience,
+and I presented a poster at a meeting of the European Neuroscience Association in Stockholm, in Sweden.
+And that was...
+Nineties?
+Yeah, 1990, something like that.
+That's right.
+And while I was there, there was a poster being given by a couple of very young people,
+PhD students from Oslo,
+about the idea that you could impair the water maze with dorsal hippocampal lesions, not ventral,
+which in the human brain would be posterior, not anterior.
+And it looked like a very convincing study, but I raised some queries with them.
+We had a nice sort of discussion.
+And...
+A couple, you said they were, right?
+I were a couple, a man and a girl, and I talked with them for some while.
+And I said, look, isn't there a better way we could do this using a chemical lesion
+rather than an aspiration lesion?
+They said, yes.
+So I said, would you want to come to my lab to do this?
+And they were, of course, Edvard and Mibet-Mosa.
+And so they came a little bit later.
+They had to finish their PhD.
+They came later.
+And we did that study in Edinburgh together.
+Another, you know, amazing kind of place connection.
+Well, I think this is a general point we need to make about science.
+You know, we sort of tend to think, and I think your book could be really valuable here of telling the personal stories.
+We tend to sort of think we, you know, sit and read the journals and then work out what to do.
+But actually, you know, the meeting of people and the discussions between people is a central part of this.
+And I think it's a really interesting issue right at the moment because for all sorts of reasons to do with climate change and post-COVID time and so on, people aren't traveling so much now.
+They're doing things just like you and I are on Zoom together.
+And we may be missing out on those sort of fortuitous, you know, face-to-face meetings.
+You know, do you have the same sense of humor?
+Can you get on and so on?
+But actually...
+Luckily, we met in person before.
+That's right.
+That's right.
+Yeah.
+Yeah, exactly.
+Otherwise, it would have been totally different.
+For the first time on Zoom, it's terrible.
+Yeah, yeah, yeah.
+You've got to meet...
+Once you're friends, it's fine.
+It's okay.
+Yeah, yeah.
+But I think you're right.
+I mean, I don't think we understand that this is a different kind of a place that we're in here.
+And it doesn't afford the same things as being in physical space together.
+And they're both just different.
+And I don't think we've really understood that yet.
+And I think it actually connects to the sensory body that we were talking about in terms of how we are processing and learning and the meaningfulness of space over time.
+And I mean, that would be a whole other conversation we might have to have at some point.
+But for now, since we don't have much time today, I'll just try to keep it on.
+But I'm glad you brought that up because I think it's a very important point.
+But so for those who don't know, this young couple who did end up coming to work at your lab, and I think working with the water maze, right?
+They worked with the water maze with me for...
+Yeah, they were with me for about three years.
+But then towards the end of that time, we had a three-year grant.
+And they were about two and a half years into it when Edvard came to see me and said, you know, we've done some field potential physiology, we've done lesion work, we've done behavioral work.
+What we'd really like to do now is to learn about unit recording, single cell recording, which I didn't have in the lab at that time.
+And they said, well, we're wondering about perhaps spending the last few months of our time here before they had to go back to Norway, working with John O'Keefe.
+And I said, fine, you know, you go do that.
+So I actually carried on paying their salary, even though they were with John, because, you know, just seeing the next logical step scientifically for them to be taking.
+And by then...
+I always thought you would introduce them to John, too.
+I thought they...
+I think I did probably, you know, say, look, there's these...
+I thought you had said that's kind of the place you want to look at.
+Yeah, I said that they were an interesting couple.
+And then they went down to London and learned about place cell recording with John.
+And maybe, you know, that was the beginning of these additional cells.
+Perhaps, I don't know when the border cells came, but, you know, John was starting to see other cell types as well.
+I think at Downstate, they'd had the head direction cells.
+They had the head direction cells in Downstate.
+Yeah, and then I don't know when border came, but it was all starting to...
+People were starting to find cells all over the place.
+That's right, exactly.
+And so then they went back to Norway.
+They got a job in Trondheim, having left Oslo, where they were PhD students.
+And it was then about five years later that they discovered the grid cells.
+Were they already married?
+Did they have their kids with them?
+They were not only married, they had two kids.
+Yeah, I feel like they had their kids in your lab and stuff, right?
+Or something?
+Yeah, we had a blanket on the floor where the two little babies were playing.
+That's so sweet.
+It's so amazing to imagine that time.
+Yeah, it was lovely.
+It was a super atmosphere.
+And, you know, we have a sort of work hard, play hard atmosphere in there.
+Yeah.
+Yeah.
+Yeah, so, okay.
+So, for those who don't know, that young couple ended up, I mean, many, many years later,
+winning the Nobel Prize with John O'Keefe for the discovery of this so-called GPS of the
+brain, because they found grid cells, which is a whole other exciting kind of statistical
+looking regularity firing cell in the same area of the brain, which we don't have time
+to get into.
+But this was all what you were part of sort of nurturing and creating at that time period.
+That didn't come until, what was it, 2014 they won?
+The prize was 2014.
+The discovery of the grid cells was, the paper was 2003 or something.
+Oh, okay.
+Or something.
+So this was really over decades.
+But this time when they were with you, you found them in a poster, which is kind of beautiful
+for any students who are listening, which just might be kind of sad that their poster only
+got accepted, not their talk.
+But, you know, this was a poster that you saw and that ended up leading down the street.
+Leading to a collaboration.
+And we actually did together what for me was a very important study is because I had been
+using pharmacological techniques to limit LTP and finding these effects in both my standard
+version of the water maze and this episodic-like version.
+And in fact, 1999, not with them, but with another colleague, we showed APV affected this
+day-to-day learning of the water maze as well.
+So we knew that, you know, it was doing something to memory, not just, you know, the ability to
+navigate.
+And but at that time, in parallel with that, I wanted to do a study, a so-called occlusion
+study.
+Now, occlusion studies are very, very important because if you say something is causing something,
+then if you identify what that physiological mechanism is, you if you induce that physiological
+mechanism to saturation, you should block that process.
+You then don't have to use any drugs at all.
+You're just using a physiological technique.
+So Edvard, my Brit and I did a study in which we we did the study both ways around.
+We saturated LTP physiologically with electrodes prior to putting the animals in the water maze
+and then they couldn't learn.
+So that was good.
+And the second study we did was let them learn and show that they could have learned perfectly
+well, then go in subsequently and saturate LTP, you know, outside of the water maze in
+a separate place and then put them back in the water maze.
+And now they couldn't remember.
+So, you know, we knew then just using these physiological techniques, not using drugs that
+we could we could interact with this, you know, possible physiological mechanism that was is the
+basis for the memory.
+Really amazing.
+Were you starting to fall in love a little bit with the hippocampus by this time?
+Because by the time I met you, you were well in love with it.
+Yeah, I know.
+I was lost by then.
+Lost in the hippocampus.
+OK, yeah.
+I mean, there's something about it.
+This little part of the brain, the seahorse shaped area of the brain, people seem to really
+fall in love with it.
+I mean, I have to now.
+But I want to kind of like zoom out a little bit and think about these bigger issues.
+And then I want to look at your paper that you did more recent, like 2022, I think, with
+I think it's your paper in the in penis, the one you or the rats are sort of we can see
+the rats sort of thinking in the start box.
+Yeah.
+Yeah.
+So I want to think about maybe if you can go back and imagine the problems you were dealing
+with then, which were navigational, but already, as you showed, connected to learning and to
+memory and so so on.
+And and I wonder sort of how over these years those things have clarified or not clarified,
+become more blurred together or what?
+Yeah, well, that's great.
+I think that's good.
+So there are two key concepts here which are not necessarily connected, but but I was trying
+to sort of work out, might there be a connection between them?
+So the first concept was a problem with the idea of place cells and cognitive mapping, which
+I put to John quite early on.
+And I actually published a paper about 30 years ago about this problem, which is that
+place cells are defined as cells that fire if and only if the animal is in a particular
+location.
+So if he's in a location over here, one set of place cells are firing.
+If he's in a location over there, a different set of place cells are firing.
+And although you do see some place cells with multiple fields, most of them have basically
+a single prominent field.
+So this presents the problem that the rat in the water maze is put in to the pool at one
+particular position.
+We'll call that place A. And he now needs to get to place B, which is where the hidden
+platform is.
+How does he at place A access the information about place B without first going there?
+Because if place cells, by definition, are defined as cells that only fire if and only
+if the animal's in that location, then at his starting position, the place cells corresponding
+to the target cannot be firing.
+And so it didn't seem to me that this would necessarily be a map that could be useful.
+It might be a map that tells you where you are, but it wasn't clear to me that it was a
+map that would enable you to navigate.
+So that leads on to the later 2022 paper.
+And we can come to that in a moment.
+But there's another kind of issue, which is also conceptual, which has to do with the
+memory of events.
+An event happens in your life.
+And let's think of something.
+OK, let's take, say, a traffic accident.
+OK, you're driving along and you see a traffic accident.
+OK, and the police are already there.
+So you drive past, you go home.
+And then once you're home, your partner says, you know, how was your day?
+You say your day was great.
+But I saw this traffic accident on the way home.
+Right.
+So what's the first question your partner asks you?
+Well, they say, well, was anybody hurt?
+Right.
+And you say, I don't think so.
+It was wasn't a really big accident.
+I don't think anybody was hurt with.
+And then the next question is, where did it happen?
+Now, suppose you said to your partner, oh, I don't know where it happened.
+I just saw an accident.
+Wouldn't that be a weird reply?
+That'd be a really weird reply.
+So some sort of automatic binding happens between the event and the place where the event
+happens.
+And you weren't trying as you drove past in your car to say to yourself, God, I better
+remember where this accident happened so I can tell my partner when I get home.
+There's no intentional aspect here.
+It just sort of automatically binds the two things together.
+And so this kind of leads into the notion that episodic memory is some kind of binding
+of what and where and possibly of when as well.
+Although that's more complicated, but certainly some kind of binding of what and where.
+And so maybe there was a way of linking memory to all this navigational stuff, because if
+the hippocampus and the grid cell framework, the place cells, the head direction, so is
+giving an animal a very rich description with different sorts of cell types of where it is,
+where it's going, you know, the metric of space and so on.
+Perhaps that provides a framework into which to put events, right?
+Some kind of binding could happen.
+So and I think that kind of idea is developed in a number of people's minds.
+I mean, not just me.
+And the question is how to sort of address it.
+And I don't think it's been done very well, to be honest.
+If you look at the human literature, people talk about episodic memory of, you know, university
+students learning lists of words in a laboratory, right?
+It really tests the where aspect in any particular sense, where they still call it episodic memory.
+So it's a little bit lazy on their part to do that.
+And equally in the animal work, there's been, you know, hundreds, if not thousands of papers
+on place cells, but not very much has attended to the issue of what events happen in these
+places.
+And that's hard to do.
+But somehow one has to try to do that.
+And I think that's a big challenge for us in the future to try and get the animals to
+sort of remember some event.
+And so perhaps that's the point to segue to this new work, because what the new work
+was thinking was, well, maybe we never see these place cells in anticipation of where
+they are, because we're not recording from enough cells, all right?
+So when John was starting, he was recording one cell at a time.
+And then they had the tetrodes, which enabled them to record for 10, 20 cells, something like
+that.
+And there are new recording techniques now with silicon probes where they can record,
+you know, hundreds of cells.
+But it's not done very often.
+And in addition, you can't record using those electrophysiological techniques over several
+days.
+You just get a recording on one particular day.
+But a new technique has been developed in the last few years called calcium imaging.
+In calcium imaging, you actually have an image of the brain taken through a miniature lens
+that's pushed down to sort of just above the hippocampus or whatever your brain area of
+interest.
+With really good resolutions.
+Kind of like putting your iPhone down there.
+Well, it is.
+What you have above is a little iPhone camera, basically, all in a little two-gram thing that
+sits on the animal's head.
+And this enables you to see calcium images.
+You have to put in a particular construct called GCAMP6F in.
+And that enables you to see the calcium transients when the cells fire.
+So you can see literally hundreds of cells simultaneously.
+And the following day, you can see the same cells.
+And the next day, the same cells.
+This is incredible.
+Let's stop for just a moment.
+First, I need to say thank you to all the amazing animals who have let us do this to
+them.
+I always feel so deeply moved by that in a way.
+I just need to say that.
+But also...
+You all get very fond of our animals.
+Yeah, I know you do.
+I know you do.
+And I know it's hard for everybody working with them.
+And we're very careful about the techniques we use.
+People say the water maze is stressful, but it's actually not.
+It's at 25 degrees C, the water, which is warmer than the Mediterranean most of the time.
+Yeah, the rats look pretty happy.
+But let's not get sidetracked.
+I just needed to say that because I always feel like it's important.
+So we started with the water maze.
+It's good you brought that up.
+And then you could sort of see that somehow these...
+Like when you release the rat, it would know kind of where to go.
+And you could see maybe one firing of one play cell that was for that place where the
+platform was.
+I'm generalizing, I know.
+And now, so you can see, okay, that play cell is firing when it's on that platform,
+so to speak.
+But now you're able to, with the calcium imaging, you can see like populations of neurons firing,
+which gives you a way of seeing almost like the narrative of the play cells in a way.
+So you're almost able to now see how they're all firing together in a way.
+Is that fair to say?
+That's right.
+So we get an average of about 190 cells per animal in the published study.
+And that's exactly right.
+I think that word narrative is perfect because it's talking about the experiences that are
+happening to the animals one after another.
+And the key observation in that paper was that we didn't use a water maze.
+We used a dry land thing, but it's basically the same kind of task, the episodic version,
+where the animal has to go to different positions each day.
+And the animal has a few goes until he knows which way to go.
+And then in the start box, before they even get into the arena where they're being tested,
+we're looking at the population of cells that are firing there.
+And of course, we see play cells that correspond to the start box and only firing the start box.
+But what we also see is play cells that correspond to where the animal's intending to go.
+So he's, as it were, planning what's going to come before.
+Which is really beautiful if you think about Tolman and kind of the, where you started with
+John and the cognitive map and Lynn, because in a way you're now putting this little camera
+in and watching the rat before it begins, just as Tolman would have probably wanted to do.
+That's right.
+Exactly.
+Exactly.
+And what you see is that they, what we would say they kind of plan or think, or they are doing
+what was proposed, that they're sort of playing out these little
+paths that they will then take.
+So you can see, so I guess we should say they've been trained in this environment.
+So they've already run all around it and you've already seen what happens in their brain as
+they do that.
+So you know what play cells fire for where.
+So, and the environment is very structured.
+So, you know, you know what's going to happen in the brain.
+Like it's just the same way if you show the, the, an image to the brain, it's going to fire
+in a certain way for that image in that certain space.
+So it's very controlled.
+And so then you can see when they're just in the start box that they're sort of playing out these,
+these routes that they've already taken in previous times in the box, right.
+To try to find whatever it is that they're going to find.
+So you can see their little brains kind of doing that.
+What we think of as thinking or memory.
+That's right.
+Yeah.
+And that's, that's exactly the way we think about it.
+I mean, one could, you know, to be very academic about it, say, well, they're just playing
+out things that have happened from the past, but we are now doing a new study in which we're
+trying to investigate whether, whether they're just playing out what's happened in the past
+or whether they're thinking and anticipating.
+And I don't want to go into the details of that because the, because it's an experiment
+that's still sort of underway and we're not, you know, finally sure of the results, but
+we, we, we, we think we can distinguish between them just playing out a path that they've
+taken before and, uh, thinking out a destination and we've devised a way where they have to
+go to a particular destination using a different path from before.
+Oh, that's interesting.
+You'll see the destination.
+Yeah.
+You'll see the destination cells in, in, in the start box.
+So we, we think it is, it is, um, you know, that's fascinating.
+I can't wait to read that.
+You know, this, this really gets, I mean, just to kind of pass a few kind of crazy things
+in here at the end, this is very interesting because I mean, as humans listening to this,
+who don't haven't followed all this, it can sound really weird to think of rats thinking,
+but of course they are.
+I mean, in this very sense that we described, but that's different than what you might think
+of as remembrance.
+I've heard you called it before.
+So this memory is different than remembrance, like the way we might remember September 11th
+or the way we're, so there's kind of these scales or nestedness, uh, going on in this
+way.
+And I, I guess what I hear you saying in that experiment is you might be able to see if there
+is a kind of further nestedness going on with, uh, with the rats too, uh, not necessarily
+maybe a remembrance, but, um, another kind of scale or nestedness beyond just the memory
+that is kind of replaying past, uh, paths.
+I think that's right.
+We've got to be careful not to be anthropomorphic about this, you know, famous, uh, uh, um,
+philosophical article about what's it like to be a bat, you know?
+Um, and, um, you know, one could say, well, what's it like to be a rat?
+And of course we don't really know.
+Um, so we've got to be careful not to impose, you know, imagine that they're little humans.
+They're not, not little humans, but they have a different body and they're in a different
+space, but they still have decision-making and, and, and I think we're getting at something
+that's to do with coming out from a place where they can start a, a, a, a sort of foraging
+thing in this case for food rather than to escape from water.
+And, um, you know, do I go over here or do I go over there?
+And they're thinking about that in the start box.
+And then they, then they go and do it, which is, yeah, it's wonderful.
+And I think we have to be careful not to go the other way too, and not think of them
+as less than human because they are just little creatures with completely different bodies.
+They're nothing like humans because they have a body.
+There's nothing like a human, but that doesn't mean they aren't having memory in some sense,
+but it doesn't mean they're having remembrance like, but they might have that too.
+We don't know.
+So, um, and if they do have it, it won't look anything.
+Let me just add one thing, which is, um, is, um, we've not talked too much about techniques,
+but I would like to pay credit to, you know, the various laboratories around the world,
+neuroscience laboratories, which over the last 10 to 15 years have transformed, um,
+the technology that we're using, you know, optogenetics is just, so we've also done the
+optogenetics study and the calcium and the calcium, but in the optogenetics study, what we do
+is we then use, um, we didn't actually use channelrhodopsin. We used an inhibitory option
+and we put an inhibitory option into the dorsal hippocampus and then shine, um, in this case,
+red light into the hippocampus when the animals are in the start box.
+Okay. So as they leave the start box, we turn the light off and they can have the hippocampus
+working normally. And what happens is the animals then make mistakes. So if we interrupt this
+decision-making that's happening at the beginning, they sort of like, they don't have a chance to
+plan out their route. And of course they, that sounds familiar to me too. It's just,
+once you have the kind of, uh, the path is in motion, once it gets interrupted, it's hard to get
+back on it, but gosh, we're just gonna have to talk another time, Richard, but all this does,
+you know, I have two last questions because we have to kind of go, but this makes me think a lot
+about the different kinds of memory and like spatial memory, episodic memory, semantic memory,
+that maybe they're not actually that different, that maybe what's different is the, the space in
+which they're being studied. I mean, if you looked at language as a landscape or in a way, you might also
+find these kinds of similar paths and regularities, uh, in the brain or in terms of semantic or, um,
+and, and we already, you know, episodic and the narrative of place seem to kind of be hard to
+separate. I wonder if you see all of those as really cleanly separated or more as like terms for
+orienting us towards what we're actually studying. Well, I think it's a very interesting line of
+thought as it happens, the 1978 book by, uh, Lynn and John, Lynn Adele and John Akief, um, does have
+a chapter on language and it does talk about the whole idea that there are lots of words in language,
+at least in the English language, which are sort of, you know, something's beside something else and so
+on. Oh yeah, yeah. I think of Eleanor Rauch or concepts. That's right. Exactly. So I, I think that's a
+line of thought to pursue and it may well be that the concept of place doesn't fit neatly into either
+episodic or semantic. It's a bit of both as it were. And so I ever give talks. I, I disagree with
+the textbook view that declarative memory is divided into episodic and semantic. You, you also have to
+add in spatial as, as a separate category. And I always try to do that in my talks and my papers.
+Yeah. I like it that you do that. And also that it's, um, these kinds of memories are ways for us to
+understand, uh, what's the research and what's going on and how that research is oriented and
+not necessarily hard categories within the body itself. I think that's also something that gets
+assumed in a weird way, but now we kind of have to go, but I just want to ask you about like your
+passion and motivation for this. And I said, you know, that you fell in love with hippocampus and
+I know you really did, but I do wonder since that time when you first met John and then you went to St.
+Andrew's and all this, you know, you've had a lot of amazing adventures and success and loves and so on.
+And I just kind of, I don't know. I just wonder if you've seen it all as one, um, thing in your own
+life, when you think about the memory of all of this as your life been lived in one way,
+academically and in another way personally, or have you seen all of this as part of the same
+memory in the making? I don't know if that makes sense, but.
+Well, yeah, I mean, I have a kind of separate personal life in some sense, although,
+you know, my partners in life have understood my passion for science and themselves being part of
+it. Um, I, I think that, um, um, uh, there is an aspect which I know, um, young students nowadays
+are thinking about a lot of kind of, well, there's this, you know, as it were very academic work of
+absolutely sort of trying to understand the brain in all its complexities. But, you know, can we from
+these discoveries put any of this to work and there's now a growing interest in sort of translational
+kind of work? And I, I also, um, have felt this very strongly. I didn't want to be just somebody who
+was, you know, working away in the laboratory doing things which important though they may have been
+scientifically and theoretically weren't really having a wider impact. So I did decide in 1995 to
+devote about a third of my lab to translational work. I called it applied at that time. The word
+translation wasn't about. And so I started working on Alzheimer's disease because, uh,
+there had recently been a paper published in nature on the first successful mouse model
+of Alzheimer's disease. And I wrote to the company, um, Elan, which was in South San Francisco,
+just opposite Genentech and said, you know, are your mice forgetful? And they wrote back saying,
+would you like to find out? So I then started working with these animals and found indeed that, um,
+as they got older, as the, as the amyloid plaque started to be deposited in their brain, then they
+became more and more forgetful. They had real trouble in learning the water maze and that then
+led on to the early work that Elan pioneered. Uh, I played no part in it, but I was able to do
+follow-up studies in, in, in developing the idea of immunization vaccination. Um, yeah,
+I wanted to ask you about that. It's this whole other interesting thing that possibly having an
+immunization against Alzheimer's. There's one study I'm very proud of. It's hardly ever cited,
+but I'm very proud of it. And, and, um, probably my least cited paper, but probably,
+you know, maybe my most- I think people just don't get it yet. I mean, it's not,
+what happened was that, was that Dale Schenk had published in nature in 1999, that he could remove the
+plaques with an antibody, um, to these, um, to these plaques. Um, but that was just simply,
+you know, anatomy and, and, and so on. And then they started working on what was, what was going
+on? How was this happening? Microglia eating up the plaques and, and so on. But I thought,
+well, okay, well, we've got to do the key study, which is to vaccinate these animals and see if they
+can now learn better. And what we found and published in 2007 was that if you immunize the
+animals long before they develop plaques, when they were three months old, which they started
+develop plaques at seven to eight months, then you could rescue the cognitive deficit.
+But if you waited till 11 months, even though it removed the plaques or reduced the plaque load,
+just as Dale Schenk had shown in his Nature paper, the cognitive deficits were just as big.
+I think that's an incredibly fascinating thing that- So that was done in 2007.
+Just the very idea that you might be able to preempt-
+That's right. But nowadays, everybody is talking about early detection, right?
+And, and since, you know, these mouse models, they were transgenic overexpression and lots of
+problems with them. And I recognize all those problems, but nonetheless, that observation led
+me to think, you know, the key thing you've got to go for is early detection. And I've been sort of
+trying to talk about that in, in talks.
+Well, hopefully some young person listening to this will pursue this because it might be the,
+you know, the polio vaccine was nobody knew, could have imagined. And then suddenly it cured tons of
+hundreds, millions of people. So, I mean, who knows?
+So, yeah, sort of, so I've touched that field. I wouldn't say, you know, made it-
+Yeah, you've done so much more than we've been able to touch on here in this very limited time.
+We didn't even go into synaptic tagging and all that. We'll just have to talk again,
+if you're, if you want, if you're willing, and maybe focus on some of those.
+It is a fascinating story. And it relates to, to a talk I gave about, if you really want to,
+want to improve memory, the best way to do it is actually to enhance forgetting.
+But let's- I love that too, the importance of forgetting.
+Another time. Another time.
+Another time, because I do have to go and I know you do too, but this has been wonderful. And I just,
+I thank you for your work. And, you know, I appreciate it very much. And I appreciate you. And
+I look forward to talking to you again. It's been a pleasure to talk with you, Andrea.
+All right. Bye, Richard. Be well.
