@@ -1,0 +1,577 @@
+and I want to send you some beauty if it's in my power at all today. I think this conversation
+is beautiful, so I didn't make it, but I send it to you. All right, be well.
+Hi Sekiel. Thank you so much for taking the time to speak to me and come on the podcast.
+My pleasure.
+As you know, I've been really interested in your work for quite some time,
+and trying to keep up with also the current research you're doing and the inactive approach,
+which I hope we get to talk about some of these things. But I wanted to start and go a little
+bit back to maybe the roots of the inactive approach and the roots of your own thinking
+in the work of Francisco Varela and especially his book Principles of Biological Autonomy
+that you've recently re-edited, re-published together with Evan Thompson, which is great
+because it was since the publication in 1979. I think it was out of print, actually.
+Yes, it was very, very hard to get that book. I never owned the copy myself. I had a photocopy
+that I got when I was a student, and then when I tried to buy one, the copies were so expensive.
+I was also, because I was getting into Varela's work and my master's, and I was looking for a
+copy because I always wanted to read books and sort of copy. I was like, yeah, that's too expensive.
+That's true, that's true.
+I'm curious to know about your first encounter with the book. If there's a moment you can pinpoint.
+Yeah, this is a good starting point because I wasn't aware of this work until I started
+doing my PhD at the University of Sussex. I was doing my PhD in what was then called the School
+of Cognitive and Computing Sciences, which was a very special place because it was very
+interdisciplinary. You would share offices with psychologists, linguists, roboticists, AI people,
+and so on. One of the founders was Margaret Bowden. So many people there
+enjoy some sort of challenging and free discussions and debates, let's put it like that.
+And it was then that people started to mention ideas such as autopoiesis. I believe it was
+Mike Wheeler, actually, who gave a seminar introducing the concepts of autopoiesis,
+autopoiesis for the under fives. That was the title of the seminar.
+And at that point, I was already reading some of Maturana and Varela, and it was a bit of a bet.
+I had to imagine that I had to go through this very difficult convoluted language, obscure prose,
+because probably at the end of it, the ideas, there will be a payoff, or I will be transformed
+by the process of reading it in such a way that things would make sense to me. I wouldn't say
+that they made total sense to me, but I could see the potential. And then I started just tracing
+anything I could get by these authors. And then, of course, the library of
+Sussex had a copy of Principles of Biological Autonomy. And that's an interesting book because
+you cannot really guess from the publication dates, because autopoiesis and cognition,
+the book written by Varela and Maturana appears in 1980 in English. But in fact,
+it was written before. It was written in the mid-70s, more or less.
+Was it in Spanish, the original?
+There was a version in Spanish, the Machinas y Seres Vivos, published in Chile.
+But there was a version in English before the Spanish version in terms of reports,
+the technical reports of the biology computing lab in the University of Illinois.
+So all of that seems like, okay, well, this idea seems, all these books that appear more or less
+at the same time. But in fact, autopoiesis and cognition is a bit like a first stage,
+which in the book Principles of Biological Autonomy, Varela picks up on that. And in fact,
+several of the first chapters are kind of repeating, going over again with slight changes,
+but going over again the main points of the theory of autopoiesis.
+But at that point, there's also, in Varela, there's a need to move in other directions.
+He had interest in trying to formalize some of these ideas using formal systems, mathematics,
+and so on, category theory. And he wanted to apply this in a more open-ended manner,
+because the theory of autopoiesis was becoming too self-unclosed. I would say, this is my opinion,
+in any case, not everybody will probably agree with it, in the sense that it was talking to
+itself in circles and circles and so on. And Varela had a more, I would say, exploratory
+spirit as a scientist. I think he wanted to look at examples in biological systems, such as
+the immune system, neural oscillations, things like that, and the biology of the cell, and the
+extracellular matrix, things like that. So the book is this moment of departure from a more
+abstract beginning. This doesn't mean, I mean, Varela was also an experimental neuroscientist,
+and so was Maturana. But the theory itself was rather abstract, and putting them together back
+into work. And in doing this, he also kind of sets on its own course. And towards the end of the book,
+you start reading something about naturalized epistemologies and things like that, that are
+very reminiscent, with hindsight, that are very reminiscent of what we talk about in the inactive
+approach over the last couple of decades. So that's a little bit about the book. And of course,
+for me, it was very inspiring. It was like, not the mathematical part, because I was not really
+able to apply it directly. I mean, I could follow it, but it was not like, okay, it was too abstract.
+But the third part of the book was quite novel to me, because he was seeing
+autonomy as a generalization of the idea of autopoiesis, which means, like the self-production
+of a living cell, the self-production, self-distinction of a living cell. He says,
+like, well, there are many systems that are similar in what they do in self-individuating
+at different domains. And yet, he was very cautious of applying the idea of autopoiesis directly.
+To systems like many people were very tempted to do, like, you know, the recurrent patterns in
+family relations, for instance, there will be people, psychotherapists who say, well,
+the family is an autopoietic system. And he said, no, this is not precise. We need another concept.
+And that was his proposal in this book, the concept of autonomy, which then is very influential later
+on down the line for an activist. So yeah, I think it was time for this book to become
+more available again. And the idea came to not just reissue the book, but essentially
+introduce it with some essays and lots of marching annotations, about 200 of them,
+that connect the ideas in the book with later developments in Varela's work, but also
+you know, contemporaneous interests and concerns in biology, in ecology, in psychology, neuroscience,
+and so on. So that's the purpose of the new edition. That's great. I think it only came out
+a couple of weeks ago. Indeed. I only got my, if I can show it, my personal copy a few days ago.
+I mean, I don't know what it took so long, but this stuff with the annotations on the side to
+clarifications and things like that. I only had time to read the introduction
+and also the nice foreword by Amy Cohn Varela. Yes. You and Evan Thompson in the introduction
+talk about this as a kind of an active text, or maybe you can think about the book as interesting,
+many concepts that have become really central in the inactive approach.
+First and foremost, the idea of autonomy. Can you give a rough maybe explanation of
+the idea of autonomy and also how it relates to this idea of organisational closure or
+operational closure? Yes. Yes, sure. Okay. Well, as I said, the idea of autonomy is a generalisation
+of idea of autopoiesis. Maybe if I say what autopoiesis is very quickly, it would be easier
+to understand autonomy. So autopoiesis was proposed as a kind of organisation that a system can have
+such that it continues to produce and maintain this same organisation. It's a bit of a circular
+idea. But with that, the point was to try to capture the constant self-production and
+self-distinction properties of living organisms. We are made of stuff that is constantly flowing
+through our bodies. And at the same time, we're not just simply made, like produced, but we also
+distinguish from the environment. In the case of a single cell, there is the production of this
+membrane and the cytoskeleton and things like that. And even now we know that there are
+processes that are similar to some kind of immune system at the level of a single cell and so on.
+All of those things are trying to work such that the cell doesn't quite dissolve into the
+environment that's become indistinct. So as I was saying, this is a very interesting and powerful
+idea that comes from a tradition of systems thinking in cybernetics. And for that, I used
+the word organisation, essentially what matters here in the autopoietic theory that an organisation
+is what is conserved and is tied to the identity of the living organism. Identity
+in several senses, but maybe the most important one being that the identity of the organism as
+such that we know that it's the same because it's conserving its organisation, kind of a token
+identity. But you might say, well, isn't the organism constantly changing? Indeed. So what's
+changing is not the organisation, but what they call the structure. So they present these two
+concepts, structure and organisation as dual concepts. One kind of hits the other to be
+properly defined. So say, well, you know, changes in structure can happen all the time, provided
+that you remain autopoietic, then there's no problem. So all the phenomena of life that
+we normally are interested in, like growth, reproduction, cognition, and so on. These
+are manifested as changes in the structure, plastic changes in interactions with the environment.
+What characterises the organisation is what sometimes is called organisational closure or
+operational closure, which is this self-reference that I was saying earlier, that the organisation
+is such that the processes that form the organised network operate in such a way that
+they result in the reinstanciation of the whole network. I mean, there's some circularity there.
+That's the idea of closure comes from mathematics. It doesn't mean that the system is closed to the
+environment. So autonomy essentially is matching that story told, not necessarily at the level or
+in the domain of molecular interactions that happen in the level of the cell of the living
+cell, but told in other domains. The interactions between antigens and the immune system and the
+immune system with itself can also be understood as a closed network that is sustained in itself.
+This is an idea that then Varela connects to existing work on immune networks that was very
+interesting and quite radically different from the traditional perspective. You could apply
+this idea in different places. What Varela proposes is what he calls the closure thesis. It says,
+well, in order to tell that a system is autonomous in this technical sense, it's enough to see or to
+ask whether the system is operationally closed, whether we find in it this organisation that I
+was talking about that is circular. So that's a little bit rough. There are lots of technical
+details, but that's a little bit the rough idea of autonomy in this technical sense. I have to
+emphasise because, of course, the idea of autonomy is broader than this. I think it also has been
+developed in many different ways. I guess we will talk about that as well. I was interested in that
+because in the book The Embodied Mind, which was I think in 1991 with Varela, Evan Thompson and
+Eleanor Roche, introduces first this idea of an action and the inactive approach, which is then
+in the last two or three decades been developed in various kinds of ways, but they actually don't
+explicitly, I think, mention this idea of autonomy so much.
+So I would be curious to understand a bit better the relationship between
+the autonomy perspective on organisms and the kind of
+way that it implies of how we think about the relationship between
+environment and so on. And this idea of that in the inactive approach is called bringing forth
+the world, right? Indeed. Yes, yes. Okay, so it's a long story, but a couple of things to keep in mind.
+As you said, I mean, The Embodied Mind, which is like the founding text of an active approach,
+appears in 1991. It doesn't mention the idea of autopoiesis at all. I don't think it even appears
+in a note. I don't know. And it talks a little, sometimes it talks about autonomous systems.
+And you might be forgiven by imagining that, okay, maybe Varela left all that autonomy stuff behind
+him and then just moved on to something else. But that's not quite true. I mean, in 1991,
+he also publishes a paper called Organism, Meshwork of Selfless Selves, where there
+is almost as if there are different births of inactive thinking. One is the one that faces
+the cognitive science audience and neuroscience audience and say, look how we have missed
+understanding cognition from a dynamical, embodied and experiential perspective.
+And how important it would be to continue the project of phenomenologists like Maurice
+Malopanti in the context of a cognitive science that is dominated by computer metaphors.
+And so there is that. And then there is Varela also writing on his own in 1991 and then in
+1997, again, a whole sketch of what I often sometimes call an inactive theory. So you've
+got an inactive approach, but there is a theory within the inactive approach which puts together
+these concepts, autonomy, sense making, agency, blah, blah, blah. And he was already sketching
+that relation. And the two things can only make sense together because you may read the embodied
+mind and think like, so what do they mean by bringing forth the world? Do they mean it
+purely in epistemic sense, in a sense of, for instance, yeah, we have different views on the
+world. If our sensory systems are different, we want to see different things, if we even see things.
+Well, there's a bit of that. But if you put that in connection with the other stuff that Varela is
+working on, at the same time, you realize that this is a stronger claim. The claim being that,
+I'm going to speak very, very bluntly, the whole of cognitive science got its problems wrong.
+The problem of perception being the reconstruction of objective features of the world that then I
+have to process and then that fits into some representational economy in my brain and so on.
+Organisms don't do that. Organisms are constantly acting in the world, constantly doing stuff.
+They're not in the business of reconstructing objective features of the world.
+They can essentially survive and do very well by tuning in their dynamics, their embodied dynamics,
+to the dynamics of what's relevant to them. And in doing so, they're not just selecting
+what's relevant out of all possible interactions that they could have. There are only a few that
+matter to them. They're also changing the world. They're also introducing changes by acting in the
+world. Ideas that much later, not much later, a few years later, became more popular in biology
+in terms of niche construction, for instance. The environment is not independent of developing
+populations. Well, for the next approach, bringing forth another way of saying the environment and
+the embodied agent are codependent. They're mutually defining and changing themselves
+ongoingly. And if you get that problem right, then the whole approach implies maybe looking
+for other things than necessarily what's happening, whether the brain is representing stuff or
+reconstructing the world. Maybe the brain has a different business that is doing something else.
+And that was, if you like, the key idea of the embodied mind. That one, and also the idea that
+you have to bring lived experience into the fold. You can't just simply later figure out whether
+this is connected to the way we actually experience our lives as embodied beings. It has to be there
+from the beginning in terms of shaping the questions we ask, shaping the methodologies
+we care about and so on. But then the other stuff is also there. And I think what happens later and
+one of the last papers that Varela wrote in the early 2000s, just before he passed
+with Andreas Weber, it's a kind of attempt to bring them together, right? So the idea of
+autonomy comes back again, autopoiesis, autonomy, and idea of sense-making.
+If you like the bringing forth of worlds, that is an activity more than something that happens in my
+head. And combined with new actors, to put it like this, like the philosophy of Hans Jonas,
+which is quite important and so on. So that is the chapter that brings the lines back together,
+that apparently, if you only read the embodied mind, you may not see how everything is connected.
+So I read this paper called F slash Acts. I don't really know how to pronounce this by you.
+Just facts.
+Which I think for me was really helpful in clarifying a little bit this stronger sense
+of an action that you were talking about. And I think you mentioned in this paper also
+this idea that you find in Varela's other work in the 90s, apart from the embodied mind that you
+mentioned, of this kind of, I think you call it like a dialectical tension between ideas of self
+production and self distinction. And I think for me, that was really helpful in also, I mean,
+it's challenging to think about this in the right kind of way, because you're so used to thinking
+about the organism and the environment on one side and the idea of them, in a sense, co-constructing
+each other. Yeah, it's challenging. But after a while, by looking at concrete cases, by looking
+at, as I was saying, if you look at it in biology, it seems less challenging, because you actually see
+beavers building dams, changing the landscape and so on and so forth. And then growing in that
+changed landscape, of course, that happens over more on, it's not just the one organism doing it,
+so it's cumulative. So you start seeing, once you accept the idea, then you start seeing it,
+you know, it pops up in many places, from human relations to, you know, microbiology. Now,
+indeed, when, I think in the 90s, there was a re-edition of the Spanish version of Teotepoiesis
+book, the Machinas y Ceres Vivos. And at that point, both Varela and Maturana wrote
+their own introductions, their own, yeah, forwards to the world with their own reflections and so on.
+Yeah, forwards to the world with their own reflections and so on.
+And Varela does say something like what we were just saying, say like, we started with an idea
+that he still thinks is correct, but it could be easily interpreted in very internalistic ways.
+Like, okay, I'm self-producing, and I just kept my nutrients from the environment, and that's it.
+And I reject the rest. And my mind is essentially how I cannot distinguish hallucinations from
+perceptions, because all is happening inside me. And he said that, yeah, that criticism was kind of
+right, because it was easy to get that idea, which is not what I intended. But he says that
+since working on an inactive perspective, he wanted to emphasize that there's this historical
+co-dependence between agents and environments, that they're mutually defining and building
+themselves. And then that, later work, work that other people have done, myself included,
+have emphasized that relationality, so that if autonomy becomes relational autonomy,
+because it's constantly being enacted. That is the nice thing about the word
+inaction, because you're not just enacting a world of meaning by engaging the world in certain ways,
+thus transforming it and the whole transformation being significant for your own viability,
+for your own continuity. You're also enacting your own body, you're enacting yourself,
+you're constantly, by doing whatever you're doing, the body becomes, or is in constant becoming
+itself, and changing and transforming itself. So you see that we start with ideas that seem to be
+very locked into a world where things are the way they are, and they cannot change to, from there,
+using the power of some of those ideas, start putting them in a different configuration,
+such that we can understand change, transformation, and in human cases, we can understand
+how we become together with others, how we participate in ongoing transformation,
+mutual transformations, and things like that. So that is a little bit of a sketch of a trajectory
+of inactive ideas. Well, since this book, we mentioned the embodied mind and later work,
+it's an opening up of that initially very self-enclosed idea of production, which
+in some writings, I talk about the dialectics between the two conditions of autopoiesis,
+as I said, you're making yourself and you're making yourself different from the other,
+from the environment. And I say that those two things are not independent, because the conditions
+that would best satisfy self-production would be that every relation with the environment is useful.
+Everything is food, so to speak. But if everything is useful, is that you have to accept
+any interaction with the environment, it's like you're essentially open to the environment.
+And the opposite happens if you want to do self-distinction the best possible way,
+you just build a wall around yourself and do not allow any influence on the outside. But of course,
+it will die because you cannot get the energy and the nutrients. So each of these two requirements
+is pointing in opposite directions. And what you need to do is to see this as a dialectic
+and the step that overcomes this tension, that keeps the distinction. It doesn't erase the
+distinction between ideas. But now the ideas are working in a new plane, in a new mode. And that
+I propose is an inactive idea of agency and adaptivity, that you're using the environment
+constantly to build yourself. And in doing so, you build this self-distinction, but you're
+also open. Adaptively, you're trying to conserve certain paths of becoming.
+And that is a little bit the resolution of that initial dialectical tension.
+At the, I guess, more existential phenomenological level, this is this idea
+from Hans Jonas, this idea of needful freedom, both open, but at the same time,
+I think Andrea also talked about this in another episode. I think for me, this was really helpful
+because it really links the idea of autonomy directly to a notion of becoming in the inactive
+approach. And I think that's one of the themes of your more recent research from what I could
+tell is that you're trying to also make sense of this idea, how it relates to the idea of
+a body, what a body is, which is actually very hard to say, although there is this
+all this literature in a body cognitive science. So can you talk a little bit about this?
+Absolutely. Yeah, yeah, yeah, you're right. I think that, well, you just said it, the question,
+what is a body? You know, when we asked that question, in the context of a body cognitive
+science, you don't find many clear answers. That is something surprising. I mean, in other areas,
+in other areas of inquiry, you know, there may be better, some better answers, but it's almost like
+embodied cognition was trying to say, well, it's almost obvious what a body is. Come on,
+it's our anatomical physiological structures, you know, our biological body, our sensor apparatus,
+blah, blah, blah. Well, yeah, but that doesn't, in my opinion, go deep enough, because
+you may speak of a body of anything like this, you know, a typewriter may have a body in that
+sense, because it has a structure and so on, and it may interact with the world. So I think
+the inactive theory, as I was saying, gives us a lot of tools to try to work out better
+approaches to a more principled conception of bodies, bodies in the plural, I will also say,
+because we end up proposing that we don't have just this one dimension of embodiment. We do
+have an organic dimension, you know, our physiology, and so on. But we also have a sensory
+mortal dimension. We are active in the world, we have powers, we can do things, we are sensitive
+to things, and so on. And that seems to be not reducible to the biology, because, for instance,
+you also depend on the environment for the possibilities that you can, you know, the
+affordances you have, the obstacles, and so on, so forth. And then we have a social,
+intersubjective dimension as well. You know, we are, again, these dynamics of affirmation,
+recognition, distinction, they're also happening in this social domain. So we speak of these
+dimensions of regulations of embodiment, or dimensions of embodiment. And the fact that
+tells you that it's a good proposal is that these dimensions are sometimes at odds with each other.
+You know, you may consider that for health reasons, you should go on a diet or something
+like this. But that's something that comes from our linguistic knowledge. We know about it,
+we're told, some people give us good arguments, we recognize that that's a good argument and realize
+reflectively that we should do that. But the sensory motor body doesn't really agree with
+that. You know, when we see the ice cream, we want to have some ice cream. It's hard to,
+so that's all breaking a bad habit, because it could be unhealthy, you know, like habit of smoking.
+So that is a total sign that is quite right to see that the body is not just this
+unified thing. Even if you want to consider it's a process, it's not just this unified,
+but it's an entanglement of different kinds of autonomy. That is what we propose that there,
+the idea of autonomy comes back as a proposal. This is a theory, of course,
+in the sensory motor domain. So we have sensory motor agency, and it comes back in the interaction
+domain and the linguistic domains. That is a little bit of the inactive trick. If you like,
+you just see whether in the new domain of interest, something seems to be conserving itself while
+other things change, and see, propose, see if it is possible that there is evidence that that,
+which is conserved, might be conceived as an autonomous system.
+So becoming involves all of these dimensions. It's just not the one dimension. And in here,
+you mentioned Hans Jonas, which is also, he's very useful also to distinguish these forms,
+transitions in forms of life, from basic, little freedom to animal life or mobile, mobile life,
+essentially, that can, you can perceive, you can have different dimensions for your emotional
+life, and so on and so forth, to human and so on. So you see these transitions there, but another
+interlocutor for me has been the philosopher Jean-Bernard Simon Don, with his theories of
+individuation and so on, which, of course, is quite complex, and maybe we shouldn't go into that now,
+but essentially, there is a confirmation of this notion that becoming is an entanglement of
+dimensions of becoming. And when you talk about bodies, well, the first problem is that
+you should not try to reduce the idea of a body to any one of these dimensions,
+as if one was more important than the others. I have said many times that,
+yes, you need an organic body to then become a sensory motor agent, and you need to be a sensory
+motor agent to interact socially. Yes, but that's chronology, that that's not as relevant as what
+happens afterwards, when all these dimensions are mutually transforming each other, so that our
+physiology is very much dependent on the jobs we have, for instance, on the urban environment
+where we live, and whether we have jobs or not. So that affects our body chemistry, affects our
+immune system, and so on. So we constantly, all these dimensions are shaping each other.
+And so becoming, what does it mean? It's not simply to highlight this process that bodies are
+unfinished. They're always in a process of arriving, but never arriving. They're always like,
+okay, let's go to this point, let's go to this point, but then you have to start again.
+But it also speaks to, if you like, the more human dimension of becoming, which is the more
+existential one, you know, whether you feel that you're living the life you want to live,
+whether you live in a place that gives you the possibilities to do that, whether you can set
+yourself goals that you can try to achieve, or whether that's very hard.
+And then I've done some work on that existential dimension to show that
+most of the times we think about it in a very individualistic sense, but in fact, becoming,
+to make things even more complicated, can only happen, human becoming can only happen
+in a community with others.
+There's also an idea that's really at the roots also of Varela's thinking, no, in many ways.
+In many ways, yes, yes, yes, yes, because Varela was also very concerned with such things as, well,
+communities appear in many places, even in the early book, and because he talks about observers,
+but then he says, in fact, we should say a community of observers. He keeps realizing
+that he has to bring the community because the community will set a set of rules and norms and
+interests to which you as a researcher would have to somehow connect, either by saying,
+I follow this, or either by saying, look, no, I think we should change. By being critical of
+them, you can also, but not by being indifferent. You are shaped by the community, which is also
+an idea that Simon Donne has. Human individuation happens at the collective level. We become
+individuals thanks to the collective, not against the collective, which is the traditional
+way of thinking. It's like, oh, you've got the individual and the collective. The collective was
+only the source of obstacles to your individuality. I mean, the collective is also the one,
+the source of your desires, of your drive, of your powers. They also come from having developed in
+this collective. So the idea becomes quite rich, and that starts to connect, opens up what was
+originally an approach concerned with the study of the mind, or maybe life and mind,
+to find connections with several interesting questions in the humanities, in social science,
+in medical sciences, and so on and so forth. Yeah. I mean, you and together with Hannad Jäger,
+I think this idea of participatory sense-making, which Andrea also has talked about with other
+guests in previous conversations, I guess is the inactive attempt and version to understand this
+social dimension and the way that it's entangled with our organic and sensorimotor dimensions of
+embodiment, as you put it. And you think in the book Linguistic Bodies that you wrote together
+with Hannad Jäger and Elena Koufari, talk about this primordial tension, as you call it, that is
+implied by this notion of participatory sense-making. And I find this really an interesting
+idea. So I was wondering if you can say a little bit more.
+Yeah, sure, sure, sure. So the work we've done with Hannah on participatory sense-making is,
+it was, if you like, the first connection that we could establish between these ideas of autonomy,
+embodiment sense-making, with the social domain, with the, let's put it in the same interactive
+domain, where more than one agent is involved in affecting each other. And so what we proposed
+there in the context of debates on social cognition was that at the root of our interactions,
+there is a way in which we are constantly affecting our sense-making. And sometimes
+it could be an indirect way, like in an interaction, I point to something and you understand that as
+maybe look in that direction, and then you see something you were not seeing, some influence in
+your sense-making. Two more sophisticated ways in which we can create something together. We're
+working on a project together, and it's hard to tell who is the author of these ideas, you know,
+because we're constantly being developed together. So we did apply the inactive trick. So we said,
+like, okay, we have our autonomy of these individuals and so on. But when is it a social
+interaction? Well, we suggested that the interaction itself, the dynamics of interaction,
+momentarily takes an autonomous dynamics too, an autonomous organization too. And then we asked,
+well, if that's the case, we should have experiences where the interaction wants to go on
+despite everybody wanting to stop it. And we did find those experiences, like the typical
+case of the narrow corridor situation with two people walking in opposite directions. And then
+by miscoordination or maybe by coordination, you end up doing this sideway dance for a while until
+somebody says, oh, you first. Well, that's a case in which the interaction, something is becoming
+self-generating, at least for a moment, temporarily. I'm not saying interaction is an agent or
+anything like this. It's just this temporary organization. So we then proposed that a social
+interaction should be defined as a situation where we as participants can maintain our autonomy
+as participants. We are not negated in the encounter. And also it's not just simply that
+we're sitting together ignoring each other, but somehow the flow of these dynamics, of these
+relations, at least momentarily acquires a life of its own. And in sociology, there were lots of
+support for the idea of interactions having a life of their own. So what is the primordial tension?
+Okay. So the primordial tension is exactly, if you like, that tension within these two
+forms of autonomy, that of the participants and that of the in-between, the encounter.
+It's not necessarily tension between people participating. It doesn't have to be a negative
+connotation to this idea of tension, but we are individual cognizers embodied, cognizers wanting
+to do things, to do stuff. One of the things we're doing is participating in an interaction,
+but I may find myself, I don't know, maybe I'd like to drink some tea now, but I kind of just
+go and prepare the tea now. So the interaction that we're having now is regulating that desire
+to say, no, later you have the tea later. So, or in the middle of interaction, we may have dissonances
+because I look at somebody behind you that I know of, and you might interpret that as if I'm not
+paying attention to you. Well, in fact, I am listening to you, but that change that was part
+of my own sense-making, noticing somebody, has had an influence on you and has an influence on the
+dynamics of interaction. Perhaps from that point on, you start thinking, you know, suspecting that
+I'm not really taking you seriously in what you're telling me, just because I had that moment,
+and so on. So the primordial tension is that tension that we have to navigate to
+work through this potential misunderstandings, this potential dissonances, lack of coordination,
+and when we do break down the interaction, we have to bring the resources to try to repair it
+in some way, and that is essentially where we actually learn something new. The interaction is
+telling us something like, oh, sorry, you know, the typical thing is, sorry, I thought that,
+whatever, I thought you meant something else, I thought you wanted something else,
+and then you recover that, and we do it linguistically, but it could be in a dance,
+it could be people dancing tango, that that happens to. So the primordial tension is always
+there, but in the book Linguistic Bodies, what we propose is to start from there and start developing
+a dialectical understanding of this tension that takes you to increasingly more complex forms of
+social agency. Each form of social agency reproduces the original tension in a different
+way. It resolves it, apparently, but then you realize that, oh, from now on, there is another
+tension and another tension, and eventually you go from basic participatory sense-making,
+mutual influence in our sense-making, to things like acts that regulate how we interact, like
+gestures, and so on, partial acts, we call them, to ways in which we regulate how we use those acts
+with familiar participants or unfamiliar ones, to the formation of dialogical structures,
+mutual recognition as participants in the dialogue, and eventually, you know, the possibility of
+reflecting and utterances in the dialogue. You say something and I reflect something about what
+you say, either using the same words or just in the tone or in my response, there's a connection.
+So the dialogue becomes like a braided history, and that brings several interesting things,
+consequences, like the possibility of personhood, essentially. Personhood, as such, becomes
+theorized in an active approach at that level, when we can recognize each other
+and we can reflect, because I can reflect utterances, I can also reflect my own utterances,
+I can eventually self-talk, have self-control that is not just simply
+self-regulation, like the, you know, the blood temperature is self-regulating. No, I mean,
+I have a power which is imbued with social normativity that then I apply to directing my
+becoming as a person. So that's why we are persons. So that's, sorry, in the end, I ended up talking.
+I think we should maybe at some later point do another conversation.
+One thing that you, or this idea of this tension, I think it connects very well to
+a comment that I think Shea Welch made with Andrea in an earlier podcast, where she
+made this interesting point that sometimes it seems like you're actually communicating
+better with people that have sort of different styles, different perceptions, different ways of
+being in the world because of the effort that you have to bring into this interaction.
+And I think Rebecca Todd at this point said that, you know, this also shows the importance of love
+in conversation and communicating success. This idea that I think you find also in the work of
+Erich Fromm, for example, which I really like, that, you know, love is this ongoing practice of
+trying to engage despite breakdowns, despite tensions. So how do you think about this,
+since this is a podcast also about love and philosophy?
+Oh, absolutely. Well, I think I think that's absolutely right. This is also
+stepping a little bit into the ethical territory. What should be your attitude
+if you want to participate and know the other? You can't come to this interaction
+with insufficient openness to the other. You must let the other have their space, their say and so
+on. And so even if that takes a lot of effort, okay, because that typically will take a lot
+of effort because you think it's so easy, like, well, you know, I'm open-minded. And then imagine
+you have to talk to somebody who says, I'm not open-minded. How are you going to be open-minded
+towards that attitude? And then you have to really try. Okay, so essentially, what I'm trying to
+drive out here is that if you think that our understanding and our becoming advances in
+communities and through participation, if you like, one basic ethical attitude that you have
+would be to always attempt to connect and attempt to reopen. That in itself will introduce new
+tensions. And this is, I mean, Hannah has looked into this engaged and engaging epistemology,
+precisely calling it loving and knowing. So you should then say, well, I'm not trying to
+over-determine what's happening here, like coming with preconceived ideas about what you want to
+tell me, who you are, what you're saying, the meaning of what you're saying. But at the same
+time, you kind of just simply say everything is fine and disappear into the others that are around
+you. So again, you find that tension, which is analogous to that original thing we talk about,
+the self-production and self-distinction. In a sense, you are in these interactions
+forming yourself, producing yourself, if you like, as a human being from all these relations.
+So you must be open to them and you must be open to change and maybe change in directions that are
+maybe scary. But at the same time, you should also be able to affirm your direction. So becoming is
+not some simple change. It's affirming or attempting to direct your process of becoming
+in a good way. And what counts as good will be a difficult question to ask, but it cannot just be
+simply good for you because of how you depend on others constitutively, you know, existentially.
+And maybe the flip side of this as well that I think also came up in this conversation that I
+mentioned earlier, which I think they call the study of complexity, fatigue, that maybe sometimes
+you're too open to everything at the same time. Exactly, exactly. Very overwhelming. And I mean,
+I know this from my own experience as someone who I think needs a lot of time to like digest,
+agents digest different viewpoints, but I'm also always open and wanting to engage. And finding
+this right balance is really difficult. It is obviously difficult. And there's no recipe for
+it. That's the difficulty as well in the sense that, yeah, you can get some advice about like,
+oh, listen to what the others has to say. Do not interrupt. Fine. That's fine. But
+these things never do away with the possibility of full breakdown and misunderstanding that that
+can happen at any time and not because anybody wants it. Often it happens when everybody is
+trying to avoid it. That's also one of the reasons why it happens. It's paradoxical.
+Now, so what does love have to do with it? What's love got to do with it? Okay.
+Uh, I think, okay, there are many, many different connections. But one is that this, this open this
+that, uh, but would direct you to what it's like good ways to know others and to know anything
+really is it has the same structure as, as the one we find when we love somebody or sometimes
+more generally, you could love a place you could love, but in love, you do have that basic
+existential structure of dependence, openness, but also tension and constant becoming, constant
+negotiation and constant change. And there must be something that pulls this process forward because
+sometimes it's just too much work. And what is it? I mean, well, I think it has to do with the fact
+that you're into it, that in this complex relations, you're also changing yourself to the kind of
+person you want to be. When it goes like in that direction, sometimes it may not be like that,
+but sometimes you see that as a possibility, as a potentiality that then you, you become therefore
+the person that you desire to be through this, this, this complex forms of relations.
+So that, if you like, that can be extended to all forms of engagement with the world,
+engagement with nature, engagement with communities and so on and so forth.
+And that does not mean, please, this should be obvious that everything is rosy and great,
+because suddenly we are kind of open and ready to love everyone. No, no, it's on the contrary.
+It's what some of the more difficult forms of interaction. And sometimes it just doesn't work.
+That's the thing. I mean, the good knowledge, like that, what Shay was saying, also the effort
+you put into understanding somebody, just sometimes it does not work and it breaks down and that's it.
+You, you, you try it. Maybe the things need to change in order for that to happen again,
+maybe try again later. I was wondering how you think, how this connects to another theme that
+I'm very interested in that I also came up in my conversation with Michael Wheeler, which is the
+idea of authenticity and also being sort of yourself, a very big term.
+Absolutely. Well, again, it's a really good question and I wouldn't have like an
+absolutely clear answer. I mean, I have a certain direction because these ideas of becoming
+that we were talking about already kind of suggest to you that authenticity
+is not quite rightly conceived as a way of being true to something static, you know,
+because there is nothing, nothing static. I mean, so, so I'm constantly changing. It doesn't mean
+I'm inauthentic. No, I mean, obviously there's a tension. When you may be authentic is in that
+process of becoming you're in a way involved in it. You just simply not being pulled and pushed
+without you ever bringing yourself into it critically, reflectively and say,
+maybe this is not quite right. These things are manifested emotionally before they're manifested
+consciously as ways of thinking, but emotionally, you know that you're not living through a right
+situation. Something doesn't fit. What is authentic is not necessarily also the self,
+although that's how the language works, unfortunately, but what is authentic is the
+form of life and in your situation, not just you. So it has to be authenticity also has to be
+considered relational in relational terms. And then you look at authenticity also is historical
+because in past societies, authenticity was not such an issue because you had your place in the
+world, you know, the evil times of ancient societies. And to be authentic would be to
+play that role. You were a farmer, you were something else. You were a soldier
+and you just did that. The role defined you. It's just that it's become an issue, you know,
+with enlightenment and maybe even earlier in the sense that the individual was put at the center
+of the inquiry and then we became very conscious of ourselves as individuals.
+What is interesting is that I like, for instance, I think it was Oscar Wilde who said that
+I can't remember the exact quote, but it's something like
+to be true to yourself, you should constantly engage in new artificial changes all the time.
+You know, that is the way to be true. You don't need to conserve anything. You need to keep on
+changing. I wish I had the exact quote. So that is interesting because it also speaks of
+speaks of an openness of, if you like, the human essence, proxically being something that is not
+fixed. There's a becoming. And in the article about inactive becoming, I talk about several
+philosophers who have been looking at becoming, you know, from Renaissance philosophers like
+Pico della Mirandola, 20th century psychologists like Gordon Oldport,
+people like Paulo Freire, you know, his critical pedagogy and Marxist philosophy and so on.
+So each of them is telling you something about becoming that is right, but it's just them
+is telling, pointing to what's missing in the other one. And eventually you come to a conception
+of becoming that I think is quite rich and based on ideas of Simon Donne and things like that.
+How do you think about this in an academic context or maybe in a reflective context where you have
+to engage with other people's ideas critically, but also stay true to your own ideas? It's
+sometimes very difficult because of course there's so much information, there's so much
+to read and you find yourself sort of repeating what other people have said and not really sure
+is that what I think or is that what they so and I know one thing I find inspiring about your work
+is that whether or not someone agrees with it, you know, you develop your own kind of positions
+also often against mainstream positions, exposing yourself to this kind of criticism
+and that's not an easy thing to do and you have to I think have also trust in your own thinking,
+but there's always of course also the possibility that you're wrong and that you're and so I was
+wondering how do you deal with this? Do you have some kind of advice for people? I think it's a
+great question and I think you have to navigate it in each circumstance. Circumstances will be
+different, it's not like a general thing, but one thing that I think might be general and helpful
+is to stay true to your questions, to stay true to maybe your question keeps changing shape
+because the formulations, the things you learn help you formulate it in a different way and so on,
+but it's something that is driving your interest and your questions and so on and
+that you end up knowing these questions so intimately, you know, you want to know
+really what this means, that there is no, let's put it this way, that there is little chance
+that you will be overwhelmed to the point that you abandon them.
+They can change their shape, but if your question is sincere, authentic,
+you will not be overwhelmed so much by the information. You may then, if you do it more
+consciously, you may then understand better whether the information is really that useful for you or
+not. You say, well, this seems to be about the same issue that I'm interested in, but after reading
+two lines, I realized that they mean something else. Do I need to really learn all of this?
+Maybe not right now. Maybe you seek everything, the things that connect most directly to your
+question and speak to you. You postpone everything else, you know, of course,
+the problem is that there are other requirements in an academic life, like you had to be scholarly,
+you had to know lots of stuff and write lots of papers. Fine, that is difficult, but if you
+at least want to make sure that you're true to your path, to what you want to do,
+keep asking your central question or questions and then say, here is something that connects to it.
+Often it's very clear. It's not intellectual, it's emotional. Often it's very clear. You just
+read some old philosopher that you've never heard of and it suddenly comes across a paragraph and
+say, wow, yes, that's exactly the right way to put it. Who is this guy? And those things
+are emotional. You just feel them like this aha moment, this thing that hits you.
+Other times, the opposite is happening. You're dragging on, you're dragging on. It's like,
+why am I even reading this? Okay. Well, perhaps it's not the right time.
+Somebody told you it's relevant. Maybe they're right. If it's such a difficult thing, perhaps
+you should keep your questions alive because the real problem is that the whole machinery
+often will just simply kill your inquiry, will kill the spirit with which you started and that
+is a very common problem. If you keep to the track that you see as the one that is
+interesting to you or important to you, you will be likely to be doing the right thing.
+Of course, that doesn't mean your questions kind of change. It doesn't mean that you cannot learn
+new things and new ideas. That's fine. But it's the same thing. You're enacting, you're bringing
+forth your academic world, so to speak, and therefore you have to do it right. Not just
+you, maybe with a community of people, you have to do it right by being truthful to what's
+really important to all of you. So I know that that's not very practical advice.
+Oh, it's super helpful, I think, and important also to remember. I was just wondering,
+are there questions for you that you would say maybe they've somehow been left behind
+a little bit that are driving you in the background but you would like to spend more time
+thinking about in the future or are thinking about at the moment?
+Oh, I'm sure there are. There are many, yeah, undoubtedly. I think, maybe too many.
+We didn't mention the word dualism in this conversation, but the inactive approach,
+it should be clear, it rejects dualistic ways of thinking. Like, oh, you have this on the one hand
+and it's very different from that. You have rationality in institutions on one side and
+biology drives perception on the other. There may be differences, but there are not
+big walls. That's the thing. So everything interacts. But I'm interested in like,
+okay, what kind of ontology is the right ontology for serving as the basis for this way of thinking?
+I mean, of course, it's kind of going to be a kind of process relation on ontology and so on.
+But then how does it extend to other questions such as that these ontological ideas will
+connect to problems such as environmental emergencies or politics or science? The
+problems in science and quantum mechanics, what's going on? So I see all these connections
+that I find interesting and I've done some work on or have conversations about,
+all coming from these very basic questions like, what kind of universe is this that we are able to
+continuously do this creative stuff that seems to be unfinished and that when we do stuff,
+it's changing. So interesting. I like to understand that better.
+Wow. Okay. Yeah, that's a big, big task. I guess you still have.
+Yeah. You asked for a question. It is a big one.
+I think we probably have to come to an end soon because my attention span is running out. But
+is there anything that we didn't mention that you would have loved to talk about?
+I think we covered a lot. Happy. Thank you so much.
+Okay. Thank you.

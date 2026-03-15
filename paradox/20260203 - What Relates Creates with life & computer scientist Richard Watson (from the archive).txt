@@ -1,0 +1,819 @@
+Hey, everyone. Welcome to Love and Philosophy. This is Andrea Hyatt. This is an old conversation
+from two years ago with Richard Watson. Although, strangely, I decided I wanted to play it again.
+I listened to it. It's about what is a body in a way, at least for me, the way it was
+oriented for my research. And I'm actually about to talk about that same subject in Heidelberg
+again. But this intro is from two years ago. Gosh, when I think about myself two years
+ago walking in the snow in Heidelberg, as you'll hear, it just seems like a completely
+different world. And I guess maybe it always seems like that after two years have passed.
+But it seems especially strong right now. In any case, this conversation resonates even
+more than it did two years ago, at least for me. And I hope it will also for you. There's
+a beautiful definition of love here and of the vulnerability and care that is actually
+a strength and that I hope we come to realize as a strength more and more in these next
+two years. So I hope you're doing well wherever you are out there. We'll be back to normal
+or a new schedule in March, starting in the spring. So look forward to that. And thanks
+for all your support. Join us wherever you can on Substack or YouTube or whatever you
+can. I'm not able to read all the emails right now, but at some point I will get to it. I
+All right, be well out there. Send in lots of love. Bye.
+I'm so glad I did because it relates really well to something I've been thinking about
+a lot, which is the individual and the body and how to define these. I gave a talk here
+at the Colloquium recently and this issue was one that really came up a lot is how am
+I going to really define the individual and the body. And so we talk about that a lot
+in this conversation. We talk about evolutionary units and individual units. And I kind of
+had this epiphany just now that maybe what we're trying to do as humans on the planet
+has become responsible enough to engage in what Richard calls here, mutual transformative
+change. Whoa, I don't even know what I mean by that yet. It just sort of came to me. But
+I just say it because there's so many exciting ideas in this conversation. And we get really
+deep by the end. Though at the beginning, we talk about some very precise academic ideas
+about evolution and cognition, the work that he is doing, the work the papers that he and
+Michael Levin have written together that have these very illuminating definitions of individual
+and body and agency, which I'm finding very helpful in my work. Because of course, my
+idea and way making is that all encountering is cognition for the body. All that encountering
+is the development of mind and intelligence, which are themselves physical patterns of
+encountering. So have to be really careful here that it's understood that I'm not reducing
+walking and crawling and swimming to cognition. It's almost the reverse. And as you'll hear here,
+the definition that Watson and Levin give of agent or body is very helpful in this way,
+because it also sort of flips that traditional script. And it's also a way to show, at least for
+me, that I'm not saying that plants and animals and insects have human cognition. That when we
+define cognition in this way, we also have to distinguish that each body or individual will
+have its own development of cognition. So this conversation was illuminating in that sense,
+or is illuminating. I will continue listening to it, because I'm not sure I understood it myself
+yet. But it's also illuminating in another way. And my other conversations with Richard since then
+have been illuminating in this way. And that is in understanding how it relates to relationships
+and everyday feelings, which is part of what I also am trying to do in my work. What is meant
+by love? It might sound shocking to say that word in the context of bringing up the work of Richard
+Watson, because he studied artificial intelligence and adaptive systems. And then he got a PhD in
+computer science from Brandeis. And he works now on all these connectionist ideas of learning.
+But of course, his work actually goes way beyond that, too. And I'll link to his website so you
+can see all that he's doing. But we get to this warmer second part of it, in the second part of
+our conversation. And even though it's kind of uncomfortable and challenging to put this word
+love with this word science, that's what we look at here. And we even look at the importance of
+subjectivity. And as Richard says, it might even be that subjectivity itself is the most sort of
+original or important thing that we bring to the table, even in these discussions of scientific
+evolution. So how can we hold that weird paradox in mind? About 40 minutes in, we start to talk
+about these different trajectories. And I asked Richard if he would say his experience with these
+two different approaches. And he bravely talks about it and shares his own story a little bit.
+And as you'll hear some great musical gifts come out of it. So I'll leave it there and let you
+listen. I just want to say thank you to Richard Watson and to all of you. Hope you're having a
+good day wherever you are. All right. Bye. Hey, Richard. It's great to be here. As I was already
+saying before I hit record, I'm really excited about your work and about the connections. And
+thanks so much. I already feel a lot of gratitude to you. We'd said it a moment ago. But yeah,
+I'm really excited to speak to you. The stuff that I read in your master's thesis really resonates
+with me very strongly. So it looks like we have a lot to talk about. Yeah, thanks. I went back to
+do that master's just because of all these ideas. I wanted to somehow have them tested academically.
+So I've been thinking about this a long time. It seems like you have too. But to just give people
+an idea of who you are, I thought we'd start with this. I guess it's a dichotomy or it's an either
+or of the idea of natural selection. It seems like we've sort of just accepted that anything
+that has to do with adaptation or evolution must be this Darwinism that we've learned,
+universal Darwinism, as you call it, or others call it. Your work is challenging that. I remember
+when I was doing my neuroscience master, I wrote in one of the forums where you have to write about
+papers. I feel like people are starting to challenge traditional notions of Darwinism,
+and I got so much pushback. So okay, that's just to kind of set it up. Yeah, that's a good place
+to start. So the idea that biological adaptation occurs through heritable variation and reproductive
+success, you know, the principles of Darwinian evolution, that was an answer that Darwin provided
+for how things appear to be so amazingly complex and adapted. And prior to that, we didn't have any
+explanation of how biological things would be so design-like. And that idea of random variation
+and selection is a very simple and very powerful idea that, you know, that Dennett refers to as
+the universal acid that can solve any problem, right? So it's a really simple process.
+Things vary at random, and those entities which are thereby better able to survive and or reproduce,
+you'll have more copies of it. It's an automatic thing, right? It can't not be true. It's logically
+true. Now, it's also a process which you can take to be not just about biology. If you have any
+sort of set of entities which are subject to differential survival, that some of them have
+properties that enable them to survive that others don't, hard grains of sand and soft grains of sand,
+you'll end up with only the hard ones because the soft ones don't survive as well as the hard ones
+do. Oh, I hate that, but yes. So that's selection that's natural without it being a biological thing.
+Now, in order for it to be, but that's, you know, you can already see that that's not very
+interesting, is it? Because you're just throwing away the things which survive less well, but the
+things that you end up with are things which you had at the beginning in that example, right? Just
+the hard grains of sand. And biological evolution is obviously much more creative and productive than
+that, to which we say, well, if you just do that lots of times, but with random variation thrown in,
+then there'll be a cumulative increase in the adaptiveness of a system towards
+its ability to survive. So that idea of generalising Darwinism to other substrates,
+sometimes called generalised Darwinism, it's been applied to all sorts of things. You know,
+it's been applied to physical organisations, it's been applied to the universe as a whole. In fact,
+why does the universe have such peculiar parameters that enable stuff to exist? Well,
+there must have been a multiverse and this was the universe that survived. Institutions or businesses,
+ideas or memes that travel through cultural inheritance through human populations.
+Yeah, so we have this idea of like selfishness, competition, survival of the fittest, which is
+sort of taken out of context. Almost everyone knows these terms now, right? We assume that's
+the way things work. So when it's applied to human social systems, sometimes referred to
+as social Darwinism, the idea that people or organisations which are better able to survive
+or better able to out-compete other people or organisations, well, those are the ones which
+are most adapted, then the position is that that's been taken out of context now, right? That
+no, no, no, no, Darwin and biologists didn't mean that. We were just talking about how organisms
+survive and reproduce. And when you take that to the context of culture and society, that's a
+misappropriation. None that they say. It happens anyway. But it still happens. Yes. So nonetheless,
+that idea that variation and selection is a process of adaptation, which can happen in any
+substrate is sometimes known as generalised Darwinism. But the idea is also, as you said at
+the beginning, taken further to mean it's not just that it could apply in lots of different cases.
+It's that in any case, when you see adaptation, it is Darwinism. So that's universal Darwinism
+that Dawkins describes as if you were to find life on another planet that was adapted, you would know
+without even looking that it must have been produced through natural selection,
+because natural selection is the only possible mechanism that can ever produce adaptation,
+except design. And since design is ruled out, because we don't require genuine design,
+we're able to acquire an intelligent designer. If it's a natural process, it must have been natural
+selection. There isn't anywhere the way in which a system can get better by itself without a designer,
+by itself meaning without a designer. Right. That's really very well said. I remember a
+friend of mine who's an artist actually found Richard Dawkins book and was like, oh, this is
+great. It describes me, the selfish gene, because he's always in his own family been sort of selfish.
+I think that's just an example of how it gets, you just, you get these kind of big, big statements
+or ideas and people just see them and take it in a certain direction, which I think you're describing
+there. Yeah. And then, you know, Dawkins will say, oh, no, I never meant that. I always, you can do,
+you know, morally valuable, ethical things if you want to, that's your choice. One thing that's
+extraordinary about us is our ability to choose to do something other, something other than our
+biological makeup. And it's like, that's totally not what you wrote, though, is it? Right? You
+described us as lumbering robots determined by our genes. As you've also pointed out, he's such a good
+writer. I mean, I love that book, even though I find it not, I mean, I don't agree with this
+overall approach we're talking about, but it's seductive. It's a brilliant oration, not just of
+of his thinking about the topic, but it's a brilliant oration of the received view,
+the received wisdom about how things work and how things are in the scientific understanding
+of living systems, right? It's all controlled. Everything is reductionist, so everything is
+controlled bottom up. And the thing that's at the bottom of biology is genes. So genes. There's
+something so simple about it. And we like that, I think, in a way, the other notion, which we're
+going to get into can feel a little more complex. So it is clear to us that, in fact, there are
+other adaptive mechanisms other than natural selection, namely learning. Learning isn't,
+doesn't have to be a variation and selection process. So you can describe the way in which
+connections between neurons change in the brain in a way that doesn't involve a population of
+neurons, some of which are changing at random, some of which survive or reproduce better than
+other neurons. You can just say the connection between these two neurons gets stronger and the
+connection between these two neurons gets weaker. Now, others, Campbell and others, have suggested
+that, oh, but actually it is an Edelman. Actually, it is a variation and selection process going on
+inside the head. There really are populations of neurons, some of which are being useful
+and retained, and other neurons are not being so useful and being culled. And there really are
+connections which are useful, which are being retained, and connections which are not useful,
+which are being culled. And almost as though appealing to the amazingness of biological
+evolution, which obviously works by natural selection, that natural selection can do amazing
+things in biology. So maybe natural selection also explains the amazing things that brains,
+minds, and cognition does. But although you could implement an adaptive process based on natural
+selection inside the head, you don't have to. It's possible to write a simple model of a learning
+process based on strengthening or weakening connections that is directional. The connections
+between two neurons which are excited at the same time get strengthened. And you don't need to create
+some connections which are stronger and some connections which are weaker and keep the ones
+which are strong when they're supposed to be stronger, throw away the ones which are weak
+when they're supposed to be weak. You don't need any variation selection to do that kind of learning
+process. So that means that there is in the universe more than one kind of adaptive process.
+There's variation and selection processes and learning processes, which are sometimes called
+transformational processes. It's one system that changes its shape or organization over time,
+not a population of different systems, and you retain some and discard others, right?
+Right. Maybe we could clarify a little bit the difference between evolution and adaptation.
+Yeah, so good. So in biology, adaptation and evolution are generally treated as synonyms.
+That the only, since the only mechanism that can produce adaptation is evolution by natural
+selection, adaptation is defined as the product of evolution by natural selection. That whatever
+evolution by natural selection does happened because it served as survival and reproduction
+of the entities to which it applied. And that's what adaptation is, increasing the survival
+and reproduction of the entities which are involved. I don't find that very satisfactory
+because, not least, you can't ask the question I was asking if you define adaptation that way.
+You can't ask the question, are there any other sources of adaptation
+if adaptation is defined as the product of a particular adaptive mechanism?
+So learning is not necessarily anything to do with survival and reproduction. It might be in the
+context of a brain inside an organism, but in principle, learning is to do with building a
+model of a data set that enables you to make inferences or generalizations over that data set.
+And you would call that adaptation, but it wouldn't be evolution by natural selection.
+So here we get into your computer science around a bit and the idea of connectionism and unsupervised
+learning and this too you've kind of used as a way to understand that we could have other options
+instead of this one. That's right. So the process of learning that goes on inside the head can be
+modeled in a very simple way. I mean, what goes on in brains for sure, very complicated,
+not simple, don't understand how it all works, totally amazing, but you can do a really simple
+model of a learning process that's sort of an abstract simple algorithm that learns. And that's
+the basis of all machine learning and modern AI stuff is at the moment is connectionism,
+which is just about building models, right? So if you take it on face value that, oh,
+this thing happened. Oh, this other thing happened. And you represent those independently.
+You haven't made a model of it. You've just recorded what happened. But when you make a
+model of it, you say, you know what, I think this happens when this happens or the opposite of this
+happens when that happens. So they're correlated or anti-correlated. Now you're beginning to model
+what happens. You're beginning to make sense of what happens, not just record what happens.
+And that simple process of reinforcing, strengthening or weakening connections between
+your observations is sort of one of the fundamental principles of learning systems
+that's necessary to explain how they can store memories of multiple things and generate
+creative solutions to problems that they haven't been exposed to before. In other words, generalize.
+And these are all phenomena which are familiar to us in the context of
+organisms that have brains. But that doesn't provide an alternative to a different source
+of adaptation because only organisms with brains can learn or machine learning systems
+that were designed by organisms with brains can learn. But if you wanted an alternative
+for how adaptation could happen spontaneously in the natural world, well, that isn't it,
+because brains are themselves a product of natural selection. So it was all natural selection
+after all. It's just natural selection is even more clever than you thought because it also
+invented other adaptive mechanisms. Nonetheless, it is enough for us to know that the existence
+of learning algorithms, whether in the head or artificial, shows us that there are other
+principles of adaptation apart from random variation and selection. The question then
+becomes what kinds of systems can exhibit learning? Is it only ones which have been evolved for the
+purpose of doing learning or ones which have been designed for the purpose of doing learning? Or can
+learning systems occur spontaneously? And the work that I've been doing over the last
+10 years has been about showing how you don't need anything special for a system to do adaptation
+in the way that a connectionist learning system does adaptation, that that can happen spontaneously
+in networks with suitable properties. Right. And I think your paper's on that, especially related
+to what you call natural induction, but also the connectionism ones start to explain that.
+These are kind of hard issues though. So I don't know, maybe I can just ask some basic questions
+that I find a little bit difficult. I want to get to this dichotomy of logic versus love at some
+point, because that's kind of an interesting way that you framed it. But before we do,
+is the difference that you don't need competition or that you don't need this paradigm of competition
+when it comes to something like this connectionist or unsupervised
+learning model or natural induction model of adaptation? Is that giving us a way to understand
+how systems evolve without this framework of competition and if you don't have the best
+qualities, you're going to die kind of mentality? Is that the difference? Because I sometimes have
+trouble understanding how adaptation and learning are different except from maybe the agent base
+that's assessing them. Yeah. So evolution by natural selection, the fundamental principles are
+differential survival and reproduction. Some things survive, others don't. Some things reproduce,
+others don't. Mechanism by which the differences between my survivability and your survivability
+or my reproducibility and your reproducibility play out in the natural world is competition.
+There's a principle of mutual exclusion. One of us is going to make it and one of us isn't. That's
+how the population is going to change over time. That's this universal Darwinism. Well,
+it's the basis of natural selection. And if you think that natural selection is the only adaptive
+mechanism there is, then it's the basis of all adaptation. Now, one might quickly counter,
+but biology is full of cooperation. Biology is full of organisms like the clownfish in the sea
+and enemy that cooperate with one another. You scratch my back, I'll scratch yours.
+And not just that there are these sort of esoteric examples of cooperation, but that it's actually
+fundamental to all of life that in order to have a multicellular organism, all the cells of your
+body need to cooperate with one another. And you wouldn't have any interesting changes in the level
+of complexity in biology if it wasn't for cooperation. It's like, yeah, fine. I agree
+with that observation. Now explain how natural selection did it. Now explain how a principle
+that's intrinsically based on competition produced those cooperative relationships.
+Right. That would be cells competing against each other, which is like cancer or something.
+Yeah. So which can happen, but why doesn't it? Well, you'd say, well, because the organisms that
+get their cancer under control survive better and reproduce better than the organisms that don't get
+their cancer under control. Oh, okay. So you just move the competitive argument up a level
+and that explains why the cells have to cooperate with one another.
+They're not cooperating with one another out of the kindness of their hearts. They're cooperating
+with one another because they are in a very controlled circumstance created by the organism
+that makes them cooperate in that way. And if they don't, the organism will die and then with it.
+Right. So it's still competition, which explains that cooperation. Competition is the prime mover,
+as it were. And you have this sort of story that competition is the prime mover,
+but the winners are those who cooperate best. So there is cooperation because if you cooperate
+well, you'll win, but winning means you competed somebody, right? You're actually using the
+competition to explain the cooperation, but that only works after you've got a higher level of
+organization that can compete with another higher level of organization. If it's true,
+the natural selection is operating at the level of multicellular organisms that are competing with
+one another. That would explain the cooperation of the parts they're in. But for systems that are not
+evolutionary units, like societies or populations or the biosphere as a whole, you can't have
+cooperation at that level because they're not evolutionary units. They're not organisms that
+exhibit or undergo differential survival or differential reproduction. So they would be,
+according to the natural selection story, there would be limits on the scale of organization
+can exhibit cooperation, namely they have to be inside units which are competing.
+As we're talking, it's really hard not to assume this either or a mindset of it's either competition
+and natural selection or it's natural induction and this other model which you've shown, right?
+And that's not even what you're saying either. I feel like if anything you're saying,
+here's another way it could happen, you're trying to open up the space and say, okay,
+it's not about either or, it's about there's many different ways we could assess what's happening
+here. Is that right? Yeah, I think they are both right at different levels of explanation.
+Exactly. And then there's an interesting case about, you know, but which came first or which
+is at the bottom, which is sort of separate questions, right? Yeah, and this is that mindset
+of we need it to be one or the other, which gets to this individuality too, I think, and how
+can we understand? I often find myself drawn into the competition between my theory and your theory
+between natural induction and natural selection of my theory is better than your theory. You're
+like, oh no, I got sucked into it. It's very hard not to, right? Like even this conversation,
+we already talk about it as if it's one or the other. And you say very specifically,
+this is an alternative, you know, it's about trying to break that. But I think that's what's
+so hard about having what you talk about as a history, what I might talk about as a trajectory
+that's kind of structured in a certain way. And now you with your work are trying to kind of
+notice that structure and offer open the space around it. But it's weird, right? Because you're
+still using that structure and within that structure. Do you ever feel like that constraint of
+it's exactly what you write about to trying to sort of change the system from within the system,
+which is you can't help but do, but the system itself has a history. And so you're constrained
+by that history. Yeah, but cycles within cycles, right? That there are given the way things are,
+the components within that system are likely to be competing with one another for limited resources.
+But how did they get to be that way? How did that get to be the rules? How did that get to
+be the circumstances explaining the origination of the organization in which those relationships
+was playing out? It wasn't explained by competition. That was explained by their
+mutual transformative change in the nature of their relationship between the entities.
+Some people say, you know, there's just lots of different levels of selection.
+And that explains everything else. All the other details just follow from that, right? So the
+selection at the genic level, there might be selection at the cellular level, or they used to
+be, there might be the still isn't single celled organisms, there might be selection at the
+level of the multicellular organism. And in some very special cases, there might be selection at
+the level of groups, but it's selection all the way up and all the way down. The interesting thing,
+though, is that in order to explain how biology moved from one level of organization to another,
+you can't use selection to do that. Why would an organism get involved in a relationship
+that creates a higher level entity that then forces them to do something they don't want to do?
+Why would my cells get involved in a social contract, we call the multicellular organism,
+that now forces them to do things they don't want to do? Now, if it doesn't force them to do something
+they don't want to do, then the multicellular organism isn't really there. You can just think
+of it as an ecology of cells, like ecosystems out there are supposed to supposedly not organisms,
+I don't need a high level of selection to explain what they do. Nobody's doing anything they don't
+want to do, they just do whatever is best for them. Right? It's a jungle out there, or a tangled bank,
+as Darwin called it, but they have interactions with one another, but self-interest explains what
+you see. So if self-interest doesn't explain what you see, that must mean that you're in some sort
+of social contract that causes you to do something else. Why would I want to be in a social contract
+that causes me to do something I don't want to do? So you can't explain it from the bottom up.
+Now you could explain that, but if there was a higher level of selection, then an organismic
+contract that makes its parts do this could survive and reproduce better than an organismic
+contract that makes its parts do that. But that's what you wanted to explain, right? You can't use
+that to explain the cooperation of the parts until after it exists. So you have this sort of catch-22
+that selection from below and selection from above neither can explain the origination of
+the higher level of organization. Let's come back to this individual idea. Is it? Oh, yes.
+Because that's what you're sort of talking about here too. It's like,
+is there a way that if you change what we understand as an individual that alleviates some
+of this? Isn't part of it that we are talking about an individual and assuming something that
+means as if it's static? Yeah. So there are at least two quite different notions of individuality
+that are relevant to living systems. One is the idea of an evolutionary unit or a Darwinian unit,
+which means a unit that's capable of self-reproduction that exhibits heritable
+variation and reproductive success, a proper evolutionary unit. It can undergo a population
+of them can undergo a natural selection. So their, you know, genes, collections of genes
+in a single cell organism, multi-cellular organisms, and sometimes spatially aggregated
+or compartmentalized social groups can be evolutionary units, but other things can't
+because they don't have heritable variation in reproductive success. But a quite different
+notion of individuality is more related to ideas like agency. What's the sort of scale of a system
+or scope of a system that is capable of acting on its own behalf? And there I like Mike Levin's
+terminology of a system that exhibits information integration and collective action.
+So if you had a bunch of little components, which didn't integrate information with one another
+and didn't do collective action, you'd say, well, that's not one individual, that's many. But if they
+do share information with one another, undergo a collective decision point, and then take collective
+action, you say, well, that's not a population of things. That's one thing. By virtue of the fact
+that they do information integration and collective action, they are one individual.
+And that's kind of what we mean by the difference between a single-celled organism and a petri dish
+full of a population of single-celled organisms. And it's also what we mean by what's the difference
+between a bag of single-celled organisms and a multi-cellular organism, right? What's the
+difference, right? In the bag of single-celled organisms, they're not doing any information
+integration and collective action, they're all acting individually. But in a multi-cellular
+organism, they clearly are doing information integration, taking in information from all of
+your senses all over your body, making collective decisions and then acting collectively on them.
+And that's what makes them an organism. What's the relationship between these two types of
+individuality? So it's been suggested that that kind of agential or cognitive view of information
+integration and collective action, that cognitive view of individuality is coextensive with life
+itself, right? There's no such thing as a living system that doesn't do information integration
+and collective action. That's what it means for it to be one system and not just a bag of little
+systems. So then what's the relationship between that notion of living systems and the evolutionary
+units? Well, the usual associations that it's sort of one-to-one and onto, that only evolutionary
+units can be agential units, and even then only in very special cases. So we're an evolutionary unit
+and we're agents. I don't know, let's give it to dogs and chimps. Or maybe we could give it to a
+few other things. But when you get down to, I'm not sure about insects or maybe not single-celled
+organisms, and you know, like now it's just getting silly. They're not really agents, they're just
+evolutionary units. So it would be that agency is a product of evolution by natural selection,
+and therefore agency can only be a trait of a thing which is an evolutionary unit.
+So the only thing that can be an agent is an evolutionary unit, and even then only in special
+cases, probably too rare to worry about. My view and Mike's view is, Mike Levin, is that
+it makes more sense that it's the other way around. That acting in a way that exhibits information
+integration and collective action is primary to living systems, and that happens at all sorts
+of biological scales, regardless of whether they are evolutionary units or not. And that ecosystems
+do information integration and collective action, even though they're not evolutionary units.
+And that it was an ecosystem of cells prior to becoming an evolutionary unit that was doing
+information integration and collective action that enabled them to become an evolutionary unit
+at the higher level of organization. When their collective action turns upon things which are
+vital to their survival and reproduction, it creates an evolutionary unit at a higher level
+of organization. But the evolutionary unit is a product of the agency, not the other way around.
+So there's agency everywhere, not all of which are evolutionary units,
+and the evolutionary units are a special case rather than the driving factor.
+I think it's a paper that you and Michael Levin did together where you define individuality.
+As I wrote down here, where the evolution of the whole is a non-decomposable function of
+the evolution of the parts. I think this is one of the best definitions I've ever seen of it, and
+it is sort of flipping it. Yeah, so when people say the ecosystem isn't an organism,
+or the biosphere isn't an organism, what do they mean? They mean, well, it's just a free-for-all,
+right? It's just a jungle out there. It's just everybody acting for themselves, right? Everybody
+is self-interested. And the difference with an organism, let's leave aside whether it's an
+evolutionary unit for the moment, is that each of the components, instead of having each of the
+components acting for their individual short-term self-interest, you have a system which is behaving
+in a manner which is consistent with the long-term collective interest instead of the short-term
+self-interest. And that change in physical scale and temporal scale is the thing that makes this
+collection is a higher level organism and this collection isn't. This really gets at something
+that I think is important to all three of us, you, and Michael, Evan, and me, and probably lots of
+other people, and that's this trying to understand scale, nestedness, and non-linearity. So I don't
+know how to get into that except to ask maybe, does universal Darwinism, does it preclude
+complexity or dynamical systems or networks? Yeah, that's a great way to get into it. So
+it doesn't preclude it at all, right? So natural selection doesn't in any way preclude the fact
+that organisms are complex dynamical systems. Although natural selection operates on genes,
+organisms aren't just the sum of the genetic contributions of each of the genes that they
+contain. There's a complex dynamical interplay between all of those parts, which is what it
+means to develop from the genotype into the phenotype, the bodily form and behaviour of
+the organism, and that's complicated and dynamical. The difference though is that the gene's eye view
+says, yeah, but all that matters to selection is, all that matters to evolutionary adaptation is,
+if I change this gene, what difference does it make? And if I change that gene, what difference
+does it make? As though you can treat all the other genes for a moment as though they're just
+a context or environment of this gene and say, if I were to optimise this gene such that it maximises
+the survival reproduction of the whole, which allele for that gene would I choose? And if you
+were to do that for all of the other genes, then that would just be what the evolution of the
+organism is. So you think about genes as being the difference makers and all of this complicated
+dynamical system between the genes and the phenotype as being, yeah, sure, it's complicated,
+but it's not part of the mechanism. If anything, it's just an annoyance which obfuscates the
+mechanism. The real mechanism is variation and selection acting on genes, and all of that
+complexity makes it more difficult. It's not an enabling actor in this process. The real nub of
+the issue is reductionism, right? Is it sensible to think of all of the systems that we're interested
+in as being the sum of the parts that they contain? Even though they have non-linear interactions
+between them, their parts and their interactions in their totality explains everything that happens.
+What else could be going on? Well, maybe what the organism chooses to do affects what happens here,
+or what the cell's behaviours are affects what happens here. And the reductionist says,
+but what the organism chooses to do and what the cell's behaviour are is all determined by
+what was happening at the lower level. That's not even a thing. I could describe all of it at the
+lower level and only ever talk about the lower level and that would be fine.
+That's exactly what I mean though. That's very constrictive because it assumes there's only one
+trajectory. So when Mike shows, for example, that you can change the number of heads that an
+organism has without changing its genes, what should we make of that? You said, well, I thought
+that the morphology and behaviour of an organism was determined by its genes,
+including things like what size it is, what shape it is and probably how many heads it has,
+right? That if you wanted to change how many heads it has, you should have to change its genes,
+right? But I've changed the number of heads it has and I haven't changed its genes. By the way,
+weirdly, it's heritable when the worm reproduces through fissioning, it's still two-headed.
+Yeah, this is just almost such a huge difference in the way we've thought about things that it's
+very exciting and also I think people almost just ignore it because...
+Yeah, but how can you ignore it, right? So one thing you can ignore it is you can say, oh, well,
+it could be epigenetics, right? Because you didn't change the DNA, but everybody knows that if you
+change the gene expression, the epigenetic marking and the gene expression of a cell,
+then that changes what it does. So of course, in principle, you could create different tissues,
+different organs, different morphologies without changing the DNA because you would change the
+expression of it. And obviously, Mike interfered with it. He changed the bioelectric patterns
+of the bioelectricity in the tissue and that's how we got them to do something else.
+And so they get to keep their reductionist perspective about what was happening here,
+is that it was all bottom-up except for when Mike interfered with it and then he made it do something
+else, right? But I don't think that holds because as you've, I think I heard you discussing with
+Mike and Chris Fields maybe, that actually shows that the environment itself could be understood
+as an agent and then we really can't fit it into that same mold anymore. Yeah, there's a beautiful
+experiment with putting a single cell on a very tiny little platform, a little
+pillar. And if the pillar is round, the cell just sits nicely, roundly on the top of the pillar.
+If the pillar is square, it tends to spread out, you know, just through the physics of sitting on
+the top of the square pillar. And you say, well, okay, well, that's not, you know, recognizing or
+adapting to the shape of the pillar that it's on. It's just physics making the cell blob out to the
+shape of the thing that it's sitting on. Yes, that's right, it is. But it changes the gene
+expression of the cell, right? The cell's shape induced by, clearly induced by the environment,
+changes the gene expression patterns inside the cell. So there's a two-way relationship,
+right, between, you know, the traditional direction is that the cells determine the shape and morphology,
+sorry, the genes determine the shape and morphology of the cell. But if you change the shape of the
+cell, it changes the genetic activity, right? That's a bi-directional relationship, not one way.
+And that means that if there was a way of getting information into cells that didn't come from the
+genes, there is a pathway that could get that information into the genes, at least into their
+activity, if not into their sequence. This is closer to induction. And then the problem is,
+but there isn't a way in which you could get adaptive information into the phenotypes of
+organisms. So all of the adaptive information that's in the phenotype of organisms has to come
+from natural selection in the genes. So even if there was a pathway that went backwards,
+it would only be passing back information which would come up, right? You'd put the information
+in the genes, it would go up into the morphology, and then the adaptive information would go back
+into the genes. But I don't know why, because it was there anyway, who cares? And the way in
+which the environment has modified it is not modifying it adaptively, it's just messing with
+it, right? That's not where, there's no mechanism by which you could get more adaptive information
+on the way back than you did on the way up, right? If you assume the natural selection is the only
+possible mechanism without adaptation. And if you stay in that linear, it's got to be
+unidirectional, that same model, right? I've heard you
+say that this ends up in a kind of science or logic versus love paradigm, which is a little
+bit what we've been talking about in kind of a different way. But I wonder if you might open
+that up a little bit, like, what do you really mean by love in that formulation?
+Deeply vulnerable mutual knowing is my current working definition of love.
+So imagine that I was an intelligent system trying to learn about my environment
+for the purposes of survival and reproduction. I might think of this as an exercise in acquiring
+information about the outside world, and perhaps internalizing a model of the outside world,
+for what? So that I can manipulate it, control it, predict it, so that it can maintain my
+survival and reproduction at the expense of someone else's. That's the conventional way of
+thinking about what agency and intelligence is for. But where to begin talking about what's
+wrong with that view of the world? Maybe we could begin with how I've seen you
+structure it before. So we've been talking about a really, really Western idea of evolution. And
+of course, now it's sort of spread and, you know, whatever. I mean, it's a bully in a way.
+But there was another kind of trajectory, and it's still around. And I mean, of course,
+again, we're putting things in boxes that don't really fit in the boxes.
+But I mean, you know, I can remember watching, I think it was from Carl Sagan's Cosmos, not from
+David Attenborough when I was a kid, explaining how natural selection worked and getting it
+when I was like 12. And then thinking about the spider in the corner of my bedroom and like,
+oh, it's not running away because it's afraid, or because it, you know, it wants to get away from me.
+It's running away because spiders that didn't run away died. You know, it's like the natural
+explanation, natural selection explanation of behaviour right there. And that was, you know,
+I was inspired by that and awed by that. Isn't that amazing that such a simple mechanism could
+produce all of the incredible adaptive complexity that we see in the natural world? I want to study
+that. I want to understand that better. So it's been a long road. You know, there's a sort of
+a scientific story about how I came to realise that it doesn't explain the things we wanted to
+explain. And there's also a personal story. Now, there's an interesting, there's an interesting
+hesitation there, right? Because scientists aren't allowed to have personal stories, right?
+Because personal stories might influence your scientific trajectories.
+Right. That's this whole logic versus love thing.
+Yeah. That we should be entirely objective, devoid of any subjectivity,
+devoid of any values even. We're just learning about what the reality of the world is.
+And we don't bring anything personal to it. We don't bring agendas to it. You can't have an
+agenda in science. That's not ascientific, right? Right. But a different way to look at it is that
+one's subjectivity is the only thing that you bring to the table that's new, right? The only
+thing that you bring to the universe that stands a chance of participating in the creative process
+is your subjectivity. It's the thing that's unique. It's the thing that's
+the new thing that you're bringing to the table. And scientists know that their
+subjectivity influences what they do, but they treat that as a problem that ought to be removed
+because it's preventing you from being objective. Or they just refuse to see it.
+Or worse, refuse to see it. I wasn't being subjective. That's really how it is. Yeah.
+But I think that there's a different way to look at it. But anyway,
+shall I tell briefly the scientific story first? Basically, so I studied evolutionary algorithms,
+which in computer science are the sort of abstraction of the variation and selection process.
+And for sure, if you run an evolutionary algorithm on a difficult optimization problem,
+it gives you better solutions over time. You say, that's it. You've cracked it. John Holland
+showed this in the seventies, the first simple computational abstraction of a Darwinian process
+in a computer. So you run your evolutionary algorithm and it gives you better solutions
+over time. And you think, that's kind of cool. And you think, I wonder what would happen if
+I run it longer. So you let it run for a week instead of overnight, or it doesn't really do
+very much. In reading one for a month, it seems to be stuck. Now from that sort of lack of scaling
+of the algorithm, you could say, well, if you had a really fast computer or a massively parallel
+computer and two billion years, then maybe that would do everything, right? Maybe that would
+explain all of the adaptive complexity that we see around us. And for sure, it is a massively
+parallel life. Living systems are a massively parallel computer and they have been running for
+two billion years. So, you know, maybe the fact that you don't get anything more in a month than
+you got in an hour is not a showstopper for that theory. But with a computer science hat on and
+different interpretation of this is that you haven't really captured the algorithm properly.
+It's not that you just need to run it longer. It's that you haven't really captured the algorithm
+properly. And so just a straightforward disillusionment with what that mechanism
+can do when abstracted inside a computer motivated me to sort of look outside the box, right?
+So at first the suspicion is that the algorithm that we've implemented inside the computer
+must not be what Darwin said. Maybe we didn't incorporate all of the details or subtleties
+that mattered, but we did, right? There is random variation. There does produce differences in
+fitness and there is heritability from one generation to the next. We keep the solutions
+that work and we discard the solutions that don't. Those are the three properties necessary
+for natural selection to occur. It is artificial selection, but it's a variation of selection
+process that's occurring. So we didn't miss what Darwin said. So if this algorithmic process
+doesn't produce, isn't sufficient to explain the adaptive complexity that we see in nature,
+it's not because we misinterpreted Darwin. It's because Darwin misinterpreted nature.
+It's because the way that biological evolution works isn't explained by evolution by natural
+selection as Darwin described it. And I don't just mean as Darwin described it 150 years ago. I mean,
+as we still understand it now in the framing of natural selection introduced by Darwin.
+I began to think about things like the evolution of cooperation, the transitions in individuality,
+which I've mentioned and eventually came to the conclusion that natural selection couldn't
+explain transitions in individuality and that if natural selection can't explain transitions in
+individuality, it can't explain biological evolution because the transitions in different
+levels of organization, that's where all of the action is. The amazing biological complexity
+that we see around us. It's the changes in the scale of organization. That's the biological
+complexity that needs explaining. And that isn't explained by those processes. It's explained by
+the transformative change in the nature of relationships between things,
+not the competitive exclusion of one thing for another.
+When you say individual transformation, or is that the word you used? Transition?
+An evolutionary transition in individuality.
+Yeah. What's that really mean to you?
+Okay. So Maynard Smith and Ersh Sathmary wrote a book in 1995, The Major Transitions in Evolution.
+And they said, look, you have this idea of things changing over time through an evolutionary
+process like a giraffe getting a longer neck. But there are also these fundamental changes
+in the evolutionary process, which are much more interesting. They describe it as entities that
+were capable of independent replication before the transition can reproduce only as part of a larger
+whole after the transition. So before the transition, they're all individuals, little things.
+And after the transition, they're working together as a larger whole. And their examples include
+from self-replicating molecules to the first chromosomes, from simple prokaryote cells to
+eukaryote cells, from single-celled eukaryotes to multicellular organisms, from multi-single,
+solitary multicellular organisms to eusocial insects, and then some hand-waving stuff about
+society and language and stuff like that. And the crucial characteristics are that there's a
+change in the level of evolutionary unit in these transitions, so that things which were separate
+before are part of a larger whole afterwards. And that's where the real action is in evolution.
+Taking something of a particular scale and refining it, that's not really where the action is.
+It's like, how do we get from self-replicating molecules to bacterial cells, to eukaryote cells,
+to multicellular organisms? That's where the real action is. And explaining those transitions.
+Maynard Smith and Sathmary, I should say, were fully on board with the idea that natural selection
+has to explain those transitions, because, as we all know, natural selection is the only adaptive
+process there is, and it explains all biological complexity, so it must explain those transitions.
+We don't know that anymore, actually, but yes.
+So I took that as my sort of personal research project to understand how natural selection
+could do that, and eventually came to the conclusion that it doesn't.
+So the personal story is, unsurprisingly, a lot to do with can't we just be nice?
+Does the world have to be so harsh? Does it have to be true that everything is driven by self-interest?
+Couldn't we be a little bit kinder? Couldn't we be a little bit nicer?
+Now, in evolutionary biology, that expectation and that attitude has been
+driven out by natural selection. That's just, I'm sorry, but that just isn't the way the world works.
+It is nature, red in tooth and claw. It is competition. It is survival of the fittest.
+It is a fight to survive. And you don't have to take it personally. That's just the machinery of
+the thing, right? It's not mean. It's just how it works. And to imagine that it's anything other
+than that is because you're soft in the head. It's because you don't understand how natural
+selection really works. When it isn't because I don't understand how natural selection works,
+it's because I don't think natural selection is the explanation for it.
+So it turns out that there's a whole other community of people out there that already
+know that love is the answer, that already know that competitive mutual exclusion is not the
+driver that matters and self-interest isn't the driver that matters. And I say, hey, did you know
+it isn't really all about competition after all? And they're like, yeah, we did know that, right?
+And that's why we never paid any attention to the theory of natural selection, because
+we know it isn't about competition. We know life isn't about competition and that isn't the way
+that it works. And you're like, oh, you knew that? That's like, oh. But how do we reconcile
+that the personal conviction that love is the way, not competition and mutual exclusion,
+not the discompassionate treatment of one another in the natural world,
+but the compassionate and vulnerable connection with people? How do we reconcile that with natural
+selection is the only mechanism that produces adaptation? It's the only mechanism by which any
+system can better by itself, except by design. Well, one answer is, well, that's because
+humans, like many other organisms, are social creatures. And in the past, organisms which
+lived in social groups that took care of one another outcompeted other social groups that
+didn't take care of one another. So that's why your program and by your genes to be social.
+And when you go extending those social dispositions to other people that you're
+not related to, or other parts of the natural world or the biosphere as a whole,
+that's just your intellect failing to grasp the fact that you sort of overextended or
+overgeneralized beyond the thing that really mattered, which was the survival and reproduction
+of your own genes. But yeah.
+So there's no such thing as being nice to one another. It's just you accidentally
+overgeneralized from something which was actually driven by competitive self.
+I mean, you're describing what a reaction is. And is what is that reaction? Why would why would we
+want to fit everything into that same set of constraints? Is it just so that we feel like
+we understand how the world works? Does it relate to this sense of how love can be very
+uncomfortable and scary and the world suddenly? And I don't only mean romantic love. I mean,
+trying to live in, not even trying, just living in that vulnerable place as you described is not an
+easy place to sit, right? Because it is dynamic in the way we were saying. And this other view is
+more static and you can fit things in. Is that do you think that's the motivation for wanting to
+do that? So, you know, the sign, the scientific view would say, well, it's not driven by anything.
+It's just the it's just the way the world works, right? I see the world objectively and you don't.
+My current understanding, though, is that it's the subjective force that drives that conclusion
+is is the fear of loss of self. If you're really afraid that by being vulnerable,
+you won't exist anymore, then you'll do anything to defend that point of view.
+And it's not just about it's not just a sort of biological imperative that self-interest must be
+the driver. There's a logic of self-interest that's really hard to get out from under.
+If you have an individual and they have interests, then the logical thing for the
+individual to do is the thing that maximizes their interests. How can you get out from under that
+logic, whether they are an individual produced by natural selection or not, whether they're a gene
+or organism or multicellular organism or a person of a particular kind of multicellular organism,
+how can you get out from under the logic of self-interest? If your starting position is
+I'm a self and my existence matters, then everything else has to fit with that way of
+viewing the world, which is that everything that I do is about sustaining me. Everything that I
+learn is about ways to manipulate and control the outside world in order to persist longer myself
+or maybe to live vicariously through my descendants in future generations.
+But if your starting point is the self and the persistence of the self, then all of that other
+stuff, it's not just that it isn't biologically true, it's that it just doesn't logically make
+sense. It doesn't logically make sense for an individual to do something that hurts themselves
+for the benefit of another. And by herd it can just be being uncomfortable or opening yourself
+up. This morning I woke up and I thought, wow, I really love my partner and I'm really like,
+this is wonderful. And underneath that there was like a, but you could lose it. That can be really
+scary, right? For good reason. And there's something about all of this that isn't disconnected.
+So when you come to know another person, that knowledge is not just a sort of repository of
+facts which you add on and carry around with yourself. I think that when you come to know
+another person, you become a model of them. In the knowing you are changed. Your internal makeup is
+modified so that you become essentially more like them or a mirror of them. So I don't think you can
+really know someone in a way that isn't vulnerable because if you haven't been changed by
+the coming into knowing with them, you don't really know them at all.
+And that's the thing that's vulnerable about it because to really know somebody means
+you have to let go of the idea that you're going to be the same. I'm not going to be the same person
+after I enter into this relationship or after I get to know this thing about my environment,
+including other agents that are in it, right? So Friston's work, Carl Friston's work about
+the free energy principle and becoming a model of your environment or a model of how you can act in
+the environment such that nothing is surprising about the environment. The Markov blanket and
+all that. Yeah. So that blanket, the interface between that separates me from you.
+Chris Fields has pointed out that that's really symmetric, right? That the it's just as true to
+say that I'm internalizing a model of my environment as it is to say that my environment
+is a model of me, right? That those two sides of the mirror are complementary of one another.
+Now, I think that's more obvious when a person meets another person. When you meet, when System A
+meets System B and System A is sort of physiologically like System B, you can see that
+you can mirror each other. But I think that we also do that with everything because the only thing
+that we can really understand about our right side world is the aspects of it that are like us.
+And that in knowing it, we are entering into a resonance with it
+that is changing us, as well as us getting a deeper understanding or deeper knowledge of the
+thing. I have to push it that a little bit. The only thing we can know about another is something
+like us strikes me as, I think that might be what draws us or what allows us to communicate that we
+have certain amount of overlapping regularities. But none of us have 100% completely overlapping
+regularities. I mean, I think of it in terms of like way making as a trajectory, right? We all
+are coming with a different sort of trajectory of everything that we've experienced, all our
+regularities. And for the most part, a lot of those overlap, but they also are really considerably
+different. So there's a way in which when two people, A and B, the systems come together,
+there is that overlapping of regularities. But also what you were just saying, that growth
+and change kind of comes with how when those two systems are interacting, they start to share those
+new paths or creating new paths. That's right. So in the transformation that makes them better
+models of each other, they become more similar. But there is still a complementarity, right?
+They're a mirror image, not literally the same. That complementarity is the reflection of one
+another is important for that relationship to create something which is more than the sum of
+the paths. Because otherwise it's like one plus one equals one. I didn't have anything new that
+we're identical, right? But in the dance that we enter into when we enter into a relationship,
+romantic or otherwise, we are learning how to move in a way which doesn't clash with the other,
+that doesn't crash into one another as we move. And that requires each of us to internalize a
+better model of the other so that we can anticipate how they change and understand what will stress
+them and how they will respond to things. And that means that as we become a better model of how they
+are, it means that we are also stressed by the same things, that we also respond to the environment
+in the same way, we hear the music in the same way, so that we're dancing together. But of course,
+it's always underdetermined. I can only see the way that you behave on the outside.
+So I'm trying to become in tune with you by being in contact and remaining vulnerable. I necessarily
+become in tune with you that I begin to resonate with you. But because I'm not able to have an
+internal structure that's identical to yours just by observing what you do, that's an
+undetermined problem. There's always a difference or a mismatch between what we do in the way that
+we dance together. But as that becomes more harmonious, the differences also take on the
+form of something which is harmonious and not just a buzz, not just a clash, but a space between us,
+which is itself dynamic and flowing rather than crashing into each other. But a different way to
+view that is that in coming to know you better, I become concerned with the same things that
+you're concerned with. So that we are now concerned about that thing instead of I'm only concerned
+about it because it affected my survival and reproduction. In knowing one another, we expand
+the scope of we become a thing. You can open the space and think of it differently so that
+yes, of course, we want to have good lives as individuals and survive and thrive and all of
+that. And that's not incompatible with the fact that everything we come into contact with is
+changing us. And so that actually our individual self or even this evolutionary unit isn't actually
+what we think it is. It's not this body. There's multiple ones going on. So the survival of those
+does also matter. From the self-interested point of view, it's like, why should I be interested in
+the wellbeing of things other than me? And the way that I think about it these days, if one wants
+to explain it in terms of how does that look from the self-interested point of view? So it's like
+the electron needs the proton to exist, right? They're not in competition with one another.
+They create one another through their mirroring of one another. Yeah, I don't know why I want to
+push on this modeling and mirroring. I feel like there's some messiness here and entropy.
+And even when you were talking, I was thinking, sometimes entropy for one system is the nutrients
+of another system, if that makes sense. So what we're trying to understand here is we're almost
+too big to really understand at this point. But if we can really open the space in this way,
+then you do start to understand that what you were describing as those interactions where we're
+reflecting one another, that is itself a different form of whatever all this is we're talking about,
+right? Evolution, biology. This morning, I thought too, I had this kind of like, what is it we are
+really trying to figure out, right? When you study adaptation and evolution and computation and all,
+what is it? What's motivating us to do that? I mean, we just want to understand all this
+connection and change and how there's something very, very exciting in it all, right? Do you feel
+that too, sometimes? And love is the best word to describe that. It is the best word to describe.
+Yes, wonderful. I was going to ask you to show that. There's something very practical about that too.
+We're drawn to love. It's in the nature of the universe, not just in the nature of things created
+by natural selection. It's in the nature of the universe to be drawn into harmony, which is another
+way of saying being drawn into relationships that harmonize or resonate with others. And that is the
+fundamentally creative process that in coming to know one another in a way which is harmonious,
+we become something that is more than the sum of the parts. I think it makes sense to think of
+creation as a process that derives from love, rather than think of creation as the process
+that derives from self-interest. That's beautiful, but I think it's really hard, as you were saying,
+this comes back to the science versus love, or logic versus love. It's almost love itself
+that makes it so vulnerable and uncomfortable to talk about those in connection.
+There's an expression which people sometimes use to describe the sort of fundamental
+logic that under the special case logic of natural selection, which is just what persists exists.
+So the things which are successful in continuing to persist are the things that we see, and the
+things which are not successful in continuing to persist are not the things that we see. What
+persists exists, that's it. That's the principle which explains the way the universe works, the
+way life works, the way organisms are, and it's supposed to explain why you're deluded into loving
+things sometimes as well, just because that enables your persistence. Whilst there's
+a truth to that principle, I think it misses the point, which I would put as what relates creates.
+It's true that the things that persist will persist, but you didn't explain the creation,
+you didn't explain where they came from, you didn't explain how you got something more than
+what you started with, with that principle. And it's the putting things together in new ways
+that is actually the creative process. And the putting things together in new ways is about
+relating, not about just persisting. It's about creating a new interaction between things.
+I really love that. And that, I think, is really what evolution and life
+is doing. I mean, we're one experiment of it as this form of a human, I guess, but
+you could think of it the way... I mean, it's really sunny here today. I don't know if it is
+there. We have 30 degrees in the Netherlands again, and I'm looking at the trees and they seem
+in love with the sun. I mean, there's a way in which life is what you just described, not
+this persistence only. There's a way in which, yeah, just persisting does sound like it's static
+and not changing. And life is not like that at all. There's nothing that's the same in the next
+minute as it is in this minute. The modeling or mirroring that I mentioned before, you mentioned
+it being the feeling a little static, right? So you're absolutely right that it's a dynamic thing.
+And so Friston does get that it's a dynamic thing. That is, you know, because I act on the world,
+and then my senses see what the changes are in the world, and there's a dynamical flow to it.
+But now put that dynamical flow and that mirroring together. So there's a thing on both
+sides, system A and system B, and they are acting on one another, interacting with one another,
+creating a dynamics at a high level of organization that moves beyond the dynamics that they have
+inside each one separately. And I like to think of it more like a dance, by which I mean a sort
+of a combination of an organization, a dynamic, and a little bit of musical harmony, right? That
+it's more like a dance that I'm doing a dance and you're doing a dance. And when we don't know each
+other, our dances are literally going to crash into each other. And as we do know each other,
+our dances will become more harmonious, which isn't to say that we'll be identical to one
+another, but they will harmonize in a way which is complementary to one another. But that
+complementariness has an element of similarity that we have to be in the same key, and an element
+of difference that we're not just singing in unison, but we're singing in harmony with one another.
+Oh, yeah, I love this. And also that we sort of grew up with the same
+scale, you know, in a way, we're not, it's not, we don't, what I hear is harmonious isn't what
+you learned was dissonant. Although those can change, too, the more we interact if we,
+even if we don't align at first over time. But I do think that ultimately, it does come from
+something much deeper, right, that we are literally made of the same stuff. And that the stuff that
+the stuff I'm made of resonates to the stuff that you're made of and other living things,
+and that that extends beyond living things and the physics of our whole universe is made of the
+same stuff. And, you know, you can get a resonance between a high-pitched version of a song and a
+low-pitched version of a song, the same song at a different octave, still sort of harmonized together,
+even though they are at a different frequency scale and therefore at a different physical scale.
+But that wouldn't be possible if the operative relation wasn't intrinsic to the stuff that they
+were made out of, that the doubling in frequency is a natural thing. We are the same movement in a
+way. And I think music is a wonderful way to try to understand it, or the dance, because when you're
+dancing, you're always a vibration, but you are the dance in a sense, right? And it's a
+vibration and it's dynamic and it's changing. And when we're always dancing with others,
+I don't know, something about it made me think, too, of how we were talking about two systems
+coming together. And as you were saying, if it's just those two systems interacting over time,
+it would probably become sort of an equilibrium, almost like one thing. And that's kind of getting
+at that static model. But none of us are only interacting only with one system at any one time,
+which also gets to the scale and nestedness. So in a way, those two systems are always interacting
+with multiple other systems, many of which the other system A is not interacting with the one
+system B is, and system B is interacting with one system A isn't. And so that's also kind of
+co-creating system A and B, which is then also contributing to this dance, too, right? So you
+have this kind of multiple sharing and changing and dynamism that's going on.
+Yeah, that's right. So if A, B are in a little dance together, they've harmonized together and
+they meet A' B' who are not in that little dance together, they haven't harmonized together,
+they haven't found that resonance. Then A' B' are induced to get into relationship, because then
+they would be a better model of A, B, right? You know, as they are without that relationship,
+they're not modeling very accurately what's going on in A, B, which is another way of saying
+that that level of organization, the relationship between A, B has been reproduced into A' B',
+that it constructs the organization that mirrors itself.
+That sort of brings it full circle back to where I sort of started with your work and how you've
+opened up a different space than just universal Darwinism, which isn't saying evolution is not
+happening, it's saying there might be another way evolution is happening. And it's exactly what
+you're talking about here, because if you have these two systems, we're always influencing each
+other and we're setting the vibration, we're creating the music of how the present moment,
+how we're dancing and also kind of setting the trajectory and the frameworks for future
+generations. So you could take that and say, well, it's just an analogy, isn't it? Right? You know,
+the biological things or the way that two atoms or two molecules interact with another, the physical
+things, it's just an analogy for how two people interact with one another. It's not really the
+same thing. I think it is really the same thing. And the reductionist way of thinking about things
+is that, well, but none of that is a real thing anyway, because the only real thing is the atoms,
+the only real thing is the molecular level. The conventional story is a meaning eliminating story,
+right? An alternative view that's based instead of what persists exists, of what relates creates,
+it's saying that the organisms are the prime movers, that organizations of information
+integration and collective action come first when, and they orchestrate and are connected with
+all scales of organizations above and below that relating can happen at any level of organization,
+and it can be a prime mover. It's determined mostly by other stuff that's going on at its
+own scale in a way which is semi-independent of what was happening above or below, but it's all
+connected, also connected with the scales that are above and below through those harmonic relationships,
+right? So that the octave relationship is double the frequency, but it's also double the physical
+scale, double the frequency, half the physical scale. And the stuff which is going on at one
+level of organization, for example, the level of organization that we care about, the level of
+organization where we have relationships, where we have beliefs, desires and intentions, where we have
+goals, where things have meaning to us, that is as much a part of the process as all of the other
+levels in that physical system. And it means that what matters to us does matter because it's
+part of the process of creation and not just a product of a mechanism which was happening at
+a lower level of organization. I don't mean it just in the sense of an analogy. I mean,
+it's all part of the same system. Yes, it's continuous and it matters in a very,
+very practical way. Yeah, because it's a choice between love and fear, right? Exactly. If you
+start with fear, then you're worried about yourself and you're worried about not existing
+and you want to protect it and you want to exclude other things. You never get anything
+creative that way. If you start with love, then you're interested in moving towards things and
+leaning in and being vulnerable and being open to change and transformation and that's the creative
+process. And we do start in love. I think when you're born, I don't know if there's a way in
+which you're starting with that connection, but you don't know it yet. It's like that TSLA thing
+coming back to where you started and knowing it for the first time. We all start in this complete
+sense of vulnerability, especially human babies where you're just completely vulnerable, right?
+You absolutely have to depend on love of something or someone, not even depend on just living it. You
+have to live in it and you don't even know it. And it's not that easy though for us to just say,
+live in love, start with love, that's the real thing. There really is this system and this
+process and you talk about it in your work too about that natural selection isn't the opposite
+of constraint. Sometimes the vibrations of the dance aren't always harmonious and that has a
+role too, I guess, right? Well, so imagine that everything was just pure love. I almost think
+it's a little bit like there isn't anything there, but the...
+It's just like a worm hum, you know?
+Yeah, it's just on, right? But the creation of entities is a sort of breaking of symmetry.
+It's like there's a thing and the thing is separate from the non-thing and there
+wouldn't be a dance between those things if you didn't have the two things. And whilst
+those two things exist, we can enjoy the beauty of the dance that they're in and be grateful for
+their self-interest, which enables them to persist long enough for the dance to happen with the other
+thing with its self-interest whilst recognising that those two selves were created by the hum.
+They were created by the love and the complementarity between them and that they need each other to
+exist and that they won't persist forever because there's no enduring selves and that's all part
+of the dance. But there wouldn't be any things to be dancing if there wasn't also the yang as
+well as the yin, right? It's like what's the same here? But the mistake is to get too attached to
+the regularities and not see the transformation. Right, that's wonderful. I think that's exactly
+the point. So I'll say we leave it there for now. That's been really fun. Thank you so much for the
+conversation. It's been great. Thank you. I'd love to do more.

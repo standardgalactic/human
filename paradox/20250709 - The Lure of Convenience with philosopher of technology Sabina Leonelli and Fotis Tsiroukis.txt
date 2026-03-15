@@ -1,0 +1,1000 @@
+I've always had a very strong fascination with people who completely
+disrespected what we would now think of as disciplinary boundaries. It's true
+that within the contemporary academic world it's a problem because a lot of
+colleagues who are more humanist regard me as not a humanist, you know, because I'm
+too interested in the sciences to be a proper humanist and of course on the
+natural science side they would say no because you really are a philosopher
+you're not necessarily producing lots of scientific papers so you're not a scientist.
+I mean I don't particularly care about any of this. What does it matter to know
+that microbes play such an important role in our existence, for instance? What
+implications does that have for how we think about ourselves and our autonomy
+as human beings? I've yet to see a complex issue, especially global issue, that
+doesn't require mixed methods, so both a quantitative and qualitative source of
+information. I think there are two big problems in our society very generally,
+I would say probably globally, at this point. One has to do with the idea of
+control. This utopia of total control, if you posit as the overarching goal for
+science and technology that it would allow humans to fully control the
+environment, we're doing very badly because humans are not particularly
+great decision makers and also because such control I think has been proven
+over and over again over history. It's just not possible. We are part of
+something bigger and it'd be much nicer to confront life in that way. The other
+problem is this lure of convenience. Life is becoming ever more complex for humans
+on the planet. People are trying to look for shortcuts to deal with that
+complexity and unfortunately feel that they can do things effortlessly. Being
+able to achieve something very quickly without really putting work into it is
+in itself the goal. The less effort you spend on interacting with the world, the
+better you're going to be. So a lot of AI innovation at the moment is set up
+along those lines that well you know isn't that great and eventually machines
+will do everything for us so we can just sit back and look at the sky and all be
+philosophers. Lots of people are actually making those kinds of arguments. I think
+the fundamental idea, the expectation, that you would live better if you engage
+less with the world and if you put less effort in doing that, it's so fundamentally
+wrong and so devastating to people that it will, it's making victims. Using it as
+a way to avoid living or to avoid engaging your body, your soul, your
+cognitive capacities in a way that allows you to progress as a human being,
+that I think potentially is a big problem but it's too often now seen as
+a utopia. So for me that combination is the dangerous one. We're having a
+tendency to want to control things as much as possible so nothing unexpected
+happens to you and also you can use that control to do as little as possible. One
+could argue that social media most generally is the biggest Panem et
+Circensum strategy ever invented in human history and by Panem et Circensum I
+refer to the conceptualization that Roman emperors had of the
+citizenship, that as long as you entertain them with the circus and you
+kept them happy then they wouldn't question your government, they wouldn't
+really get interested in politics or what their involvement could be or
+whether they could actually have a better life because they'd be distracted
+basically. I think the way our geopolitics are working now seem to
+indicate that there is something like that going on and that's I think in fact
+the tragedy of contemporary notions of digital divide. It's not anymore a
+question of who has access to technology, who hasn't. It's a question of who is able
+to use the technology really to their advantage and who is said is just
+dominated by these technologies. I mean I would say it's really nice to talk
+about love right because that is clearly something which is maximally
+inconvenient. There is no love without vulnerability, there is no love without
+the recognition of fragility of being incomplete or not being in control, there
+is no love without recognizing that you may need something else and that you may
+not even be sure of what it is. There is no love without trust and very often
+literally blind trust ultimately is a leap of faith. I mean it's one of the
+most fundamental experiences humans can have. So love is a wonderful teacher if
+one that's it. Hello everybody this is another episode of Love and Philosophy
+once more once again hosted by me, Fotis. You might remember me from the
+episode with Joje Jager or the latest meta commentary on podcasting we did
+with Andrea. This episode is a conversation with Sabina Leonelli, a
+philosopher of science, a philosopher of technology. She's mostly known for
+establishing the field of the philosophy of data, of data philosophy and also of
+the philosophy of open science and a really big part of that is the research
+project called PhilOS, a philosophy of open science in diverse research
+environments which aims to develop an empirically grounded philosophy of open
+science with a focus on more under-researched institutions and part of
+this project is also me and my own PhD project where I conduct qualitative
+ethnographic research with a focus on local plant science and agricultural
+science and this is not a very usual kind of research work because it's really
+the interdisciplinary intersection between high theory in the philosophy of
+science and very on-the-ground participatory work and this is the kind
+of approach and methodology that Sabina herself has been promoting and
+advocating for very very actively. Now no brief intro can do justice to the
+extent and prolificness of her work which spans various fields and mainly
+the intersection between humanities on the one side, philosophy, history and
+social studies of biology and then contemporary data intensive biological
+practices. She has a 60 page CV which you can find online and also it is a CV
+written with a super small font and no line spacing so there is no reason for
+me to recapitulate her achievements you can easily find them online. What I think
+is the most important takeaway from this conversation is Sabina's willingness
+to stay with the trouble to really be in between the dichotomies and Sabina is
+a natural at that. She has been operating between the continental analytic divide
+humanities versus technologies, quantitative versus qualitative. The tension is
+really present in her work and I understood through the interview that
+there is an underlying quest for complementarity in all of her
+intellectual trajectory which is driven by an impetus to not only stain the
+uncomfortable coziness of critical inquiry but be productive and really
+attempt to mess around to get her hands dirty and attempt to make a change. So
+this attitude of getting your hands dirty as an intellectual is what I want
+listeners especially those that are more philosophically minded to keep in mind.
+This is what I also think the role for intellectual in the 21st century
+involves personally and I also try to embody this in my own way which is a bit
+different. Sabina tries to work with established structures such as for
+example the EU and move them to a better direction. I tend to aim more for
+facilitating and building alternative infrastructures but we both know that
+given our current social ills the response should not be to destroy or to
+rebel without any rhyme or reason but to build and persevere in the face of
+adversity. Now if it helps you you can consider this kind of research as close
+to this newly emerging approaches of meta science or research on research but
+with a more humanistic affinity closer to philosophical inquiry. This
+idiosyncratic approach is also something that we talk a lot about in our
+conversation with Sabina. This approach is often called complementary science
+which is about this question of what does it mean to work closely with other
+scientists as a philosopher or as a humanities scholar sometimes even as
+part of their same research project. And this opens up interesting tangents
+about social epistemology or knowledge essentially being a social practice
+something that requires scrutiny and criticism and feedback. We talked about
+the willingness of practicing scientists to engage with this kind of
+epistemological framework. We also talked about the dominant paradigms of
+scientific methodology, the quantitative versus qualitative divide and what
+drives the impetus towards more quantification or more automation in
+science with Sabina framed as this need for total control and in the end we
+talked about the necessity of love as a driver both for navigating human life
+but also intellectual pursuits and even politics especially given our tendency
+for more and more convenience which Sabina sees as missing the point about
+what love really is which is something extremely inconvenient. So I hope you
+enjoy this conversation and I'm happy to hear your feedback and comments. So here
+is Sabina Leonelli.
+All right. Hello Sabina. Hello. Nice to have you here. So first of all I want to
+start from context setting an introductory question about yourself. How
+would you frame your own work and what you do because I know you just as any
+important thing to mention is that Sabina is my supervisor so I got to know
+you fairly well but how would you put yourself out there? How would you frame
+that? Thank you Fatis. Very nice of course to be invited to do this and to have this
+dialogue with you. Different format than usual. So I guess the way I would
+introduce myself is as somebody who does philosophy and history of science and
+what that means is thinking about why is it that we as a society tend to think
+about science and technologies are something that are reliable something we
+can trust and which are so sort of authority in society what makes it so.
+How is it the scientists discover what they do and how is it possible in fact
+that people who are limited you know we are very limited in the way we perceive
+the world the way we interact with it we have very diverse perspectives very
+different ways of thinking about the world how is it that you can combine all
+of this and produce knowledge which tends to be reliable for pretty much
+everybody and how can you intervene in the system of science that sometimes can
+look a little bit closed or very difficult for people who don't know what
+it is and don't know anything about scientific methods and feel like it's
+complicated for them but how can you intervene and participate in it in ways
+that actually can help to make society better so how do you help science to
+continue to serve the needs of society rather than take his own road if you
+want and just keep it developing science for the sake of developing science so
+that's in a nutshell I guess why I do the job I do. Yeah and it seems that this
+is very closely related to scientific work to the interests and concerns of
+scientists rather than it being either a critical endeavor that does this from a
+distance let's say and that's not something usual especially in the
+broader territory of philosophy of science or science studies so I'm
+interested in how you got into that that more hands-on the say or a little bit
+more active participatory approach to philosophy of science and your
+motivations basically behind that and the defining moments so if you can trace
+a trajectory let's say you can trace your own journey of how you were led to
+that direction what would you start and what would you say for one or two
+pivotal shifts? I mean I suppose you know gosh one can rewrite one's history in
+lots of different ways but I think for me the thing that never changed since I
+was very very small in fact as far as I can remember was my fascination with
+figures in the history of particularly Western thought because that was what
+was familiar with when I was a kid because I'm half Italian half Greek so
+and that was at that point there was no exposure in my education as yet as I was
+growing up to more global influences right but I've always had a very strong
+fascination with people who completely disrespected what we would now think of
+as disciplinary boundaries so natural philosophy being one and that can range
+from Pythagoras to Aristotle from Helmholtz to Schiller from Goethe to
+Leonardo da Vinci and figures like that and so I've always been very interested
+in philosophical thinking but philosophical thinking that was very
+strongly anchored in human experience and in the human attempt to try and make
+some sense of the world around us and to take very seriously non-human lives
+and so you know it sounds a bit complicated but it really comes down to
+the fact that I always had this very strong intuition I guess some people you
+know we all have our things that we're born with right and for me it was very
+much the idea that we live in a world which is broadly sentient our life
+depends and is completely interrelated with the lives of so many other different
+creatures but also lots of inanimate processes around us you know from the
+cosmos all the way to the structure of the planet and that if you really wanted
+to think philosophically about the meaning of human existence and potential
+purpose of human lives and it was impossible at least for me to
+conceptualize doing that without considering the very long trajectory of
+people who really try to understand the world around them and how their
+understanding of nature shaped their own self-understanding as part of nature so
+to me it was always really pretty clear I think even when I sometimes have a
+look at some of the things I was writing as a child this idea that if you're
+interested in understanding the human role in the world this goes through a
+deep engagement both conceptual but also empirical we try to understand
+nature around you in your role in it that was always very strong and in fact
+I had quite a few problems with that growing up and because you know I mean I
+was lucky to find a high school which was an experimental program so I didn't
+actually have to choose as you have to do in Italy typically between a
+linguistic or naturalistic or a more humanistic branch I could do all three
+which meant many more subjects but it also meant that I managed to cover the
+whole spectrum so I didn't really have to choose anything in terms of subjects
+until I was 18 or just turned 18 it was a big problem in terms of finding a
+university training but that's where as somebody who had never heard the
+philosophy of science and absolutely no idea about philosophy generally I don't
+come from an academic family you know no idea about any of that I totally
+randomly stumbled across this program in philosophy history and social studies
+of science in London and I moved to London pretty much like that with this
+idea that I am you know if I stayed in Italy I would have probably gone to
+study physics theoretical physics because that was the closest thing I
+could find to doing both philosophy or you know some very abstract conceptual
+science but yeah I mean I was I'm really glad now that just you know by a whole
+series of coincidences and just randomness and the goodwill of a few
+people I did manage to go to London even without knowing a lot of English at that
+point and I absolutely loved that course of studies because that was precisely
+the idea you know it's really the fashion idea of natural philosophy doing
+philosophy in that way where there's no boundary between your engagement with
+nature and trying to understand as much as possible all the latest methods and
+technologies used to engage with nature but without abandoning that sense of
+having a you know meta view which allows you to step back and really thinking
+about the meaning also of these practices and why do we believe them in
+the first place and why does it matter why does it matter to know the microbes
+play such an important role in our existence for instance what implications
+does that have for how we think about ourselves and our autonomy as human
+beings and all those kinds of things so I think in that sense it's pretty
+consistent it's not a very interesting story I'd say the opposite is you're
+really trying to balance the two cultures between the more let's say
+humanistic big picture understanding of the world with the getting your hands
+dirty in the actual empirical practice and methods of actually doing that
+and I think we're missing that a lot of people would say that there is this is a
+mode that has gone a little bit extinct considering I would agree yeah yeah it's
+not it's not the easiest thing to do of course and I'm you know I'm never
+entirely sure what it means to do this well it works for me I can't think any
+other way so that's you know that's the way I function is true that within the
+contemporary academic world it's a problem because a lot of colleagues
+were more humanist regard me as not a humanist you know because I'm too
+interested in the sciences to be a proper humanist and of course on the
+natural science side they would say no because you really are a philosopher
+you're not necessarily producing lots of scientific papers so you're not a
+scientist I mean I don't particularly care about any of this because I was
+lucky enough to find my own way and to get that academic position anyhow and to
+be able to do interesting work so I basically decided a while ago that I
+didn't need to care too much about whether people would see me as fitting
+or not in particular cultures in a selfish way I really like to do that
+kind of work and there's lots of people I found on my trajectory that have me
+and that are very interested in working in this way so you know that's enough
+and if you can say who was figures that make you to that direction without you
+having to worry who would you credit for that I mean in terms of before I went to
+university certainly my more humanist teachers so especially literature were
+fantastic for me that was really important because I'm a huge literature
+buff and I read a lot I mean outside of work like novels and so and so for me
+that was very very important the fact that I spent quite a bit of my early
+education in basically a lot of my social life revolved around the parish
+within a Catholic kind of upbringing not really within my family but more in a
+social sense which meant I did a lot of theology and that was very useful
+because it was really the only thing I could find at that point in Italy when I
+was about 14 15 16 that was actually the closest to philosophy abstract
+systematic argument that gets you put a particular position that you can defend
+and actually is meaningful to you right because philosophy wasn't done like that
+in Italy at that point and so the only thing you could go through was theology so I definitely think I
+would credit a lot of people that I was lucky enough to hear about I'm not sure
+I would share their moral views now but it was very very useful for me to pick
+on their conceptual way of understanding the world that was useful so including
+priests and people that were training at the higher level and theologians
+at that point that I was lucky to meet and at university well of course the
+world changed quite a bit at that point and definitely for me one of the big
+influences was Azok Chang who is a well-known philosopher historian of
+science that I was lucky to meet even before I started university because he
+was the person who interviewed me to determine whether I would be selected to
+be part of the program at the University College London where I went to study and
+he continues to be a close friend and an important influence in my thinking in a
+variety of ways and the idea that he has of doing he calls it complementary
+science so he mostly thinks historically for the work that he does of course I do
+slightly more contemporary work but the way he thinks about it is history itself
+can also become a complement to contemporary science because ultimately
+it also is trying to understand the world better but in Azok's words
+that would mean also by considering paths not taken right counterfactual so
+situations where there may have been five or six very interesting research
+programs say at the beginning of the 19th century in a particular subject a few of
+them got lost sometimes not for the most rational reasons just because you know
+people die or they don't get funding or they're not popular at that point or you
+know a world war happens or something like that and then you know but some of
+those ideas are still valuable right and so doing history that we can help the
+sciences so it was one and certainly in and many people that I met at UCL at
+that point Joe Kane introduced me to the philosophy history biology basically
+converted me I would say it took me about two lessons and I was totally sold
+to abandoning my fascination well I didn't abandon my fascination for the
+physical sciences but I just decided I would devote the bulk of my interest to
+biology and environmental sciences
+I don't think it took me it took him much more than just mentioning the fact
+that so many people have insisted on theoretical physics being the place where
+you do big thinking well in fact in biology there's just so many other and
+potentially you know at least as equally complex issues that you find that people
+have been thinking in fact less about in a philosophical sense and this was in
+the context of you know a very beginning philosophy biology course I think it was
+even our first year and thinking about things like the evolutionary synthesis
+but I I was sold within 10 minutes I think it didn't take long for me to
+consider this and say is absolutely right
+I mean talking about people who of course influenced me another person who
+ended up having a huge influence but was already having it at the time in writing
+was on to pray when did I've been a very very close friend and my colleague for
+many many years I was very lucky in that respect at the University of
+where I was before but before actually meeting him in person and discovering was
+also amazing wonderful person and I met him in his writing and this was one of
+the philosophers of science in the 1990s and that was really influential
+because you could think about very big philosophical questions about reference
+about what exists and doesn't how do we classify the world things like that but
+do it on the basis of very deep engagement in biological knowledge so
+that really exemplified the kind of thing that I thought yeah it's exactly
+the way I would like to do things so so that was also a big influence then and
+later on I was very very lucky to work with Mary Morgan who is very very
+important philosopher and historian of economics and she like passed on to me
+or certainly reinforced my interest in the social sciences and she at least
+gave me the sense of just how much I don't understand about economics and
+just how important this would be which I'm always going to be grateful for and
+then I spent a period in Amsterdam that was also very very formative for me
+working with Hank Direct and Hans Rader taught a different way of
+thinking about these issues much less Americanized than my education was until
+then and so I'm very grateful for that period too because it was a way to go
+back to my continental roots but in a kind of northern European context which
+was also influential well I mean let's say certainly in the Netherlands at the
+beginning of 2000s when I started my PhD there there was more openness to a
+tracing links between the continental philosophical tradition both actually
+actually philosophical and also naturalistic and what was going on at
+the time in philosophy of science and this was at a moment where in places
+like the London School of Economics where I was doing my training before in
+London this was not only unheard of but very strongly opposed so there will be a
+sense that you wouldn't really be a proper philosopher of science
+if you thought in those terms and this is exactly the kind of boundary
+setting that I absolutely detest so I didn't like it there and I left and at
+that moment but that was where the Netherlands really gave me much more
+freedom because there was a much you know much more openness indeed towards
+the approach I liked which was to try and engage with scientific practices as a
+philosopher and somebody who's interested also in the history of science
+and at the same time not to be too rigid about which philosophical tradition you
+would getting your insights from I mean I still consider myself to be in the more
+analytic Anglo-American tradition but I've taken a lot of ideas and insights
+also from continental philosophy I'm very grateful to come from that
+tradition so that divide is also something I'm not very happy about so it
+is especially the approach of complementary science I guess not many
+people are aware of and I guess you took steps towards that early on in your
+career and wondering how this looks in from your case what kind of work you do
+in that kind of approach and what other ways are to name your approach and also
+in my mind since we're working in your project which has a little bit of that
+let's say so yeah like how how did this start off and where has it led to now
+you don't need to go too much into this but if you can say a little bit of what
+inspired you first and what are the current problems that you're working on
+I'll pick up a few things I guess so one of the early things I got very
+interested in was why is it that people like you know a lot of biologists so
+many biologists probably the vast majority of biologists work on organisms
+that don't seem to have any obvious relation to humans like little weeds or
+you know little worms or zebrafish or water fleas you know and they think that
+they can acquire insights by modeling those creatures that will be directly
+relevant for us to understand the whole of biology our whole evolutionary
+history and also ourselves and so that's a situation where I ended up over time
+collaborating with Rachel Ankeny and who is my closest colleague and with whom
+we've been doing a lot of work on the history and the philosophy of the use of
+organisms in research particularly biological research and I think that's
+an example where we have been digging into the history of how these organisms
+came to be so popular so widely adopted what the implications of that adoption
+have been for biology as a whole for better or worse and how this is now
+evolving and quite a bit of that work and I think has ended up being
+recognized as useful by scientists and many of the scientists that actually work on
+these organisms and are curious about their history or are curious about how
+do we tell a story about their credibility right especially to people
+who are not technicians or not you know used to the way of thinking why would
+somebody who doesn't work in the worm community because there is such a thing
+would believe that you can study worms and understand the development of human
+brains right but how would you make that leap and so so that's been very nice
+because that showed me early on also by looking at what Rachel was already doing
+when I started my PhD and she was already full-fledged academic that in
+fact is perfectly possible to collaborate with scientists offering a
+different set of skills and insights from the ones that they are developing
+but in ways that is very complementary that is very collaborative and can be in
+fact productive towards pushing the field in one way or another right so
+maybe sitting on committees where you say you know which organism should be
+developed next or you know how should organism work be developed in the
+future you know and this has implications for really a lot of our
+general understanding of nature because these are techniques and methods that
+look very technical but actually they very much determine what you find in
+biology textbooks even the ones that my daughter uses now in at the beginning of
+high school right so so these things I showed me early on that this was in fact
+not only possible but very useful and very interesting for me to do and then
+another bit where it became very important very quickly I got interested
+in these questions around the use of data and supposedly data-driven approaches
+to research so this idea that oh now we have all this data and so research is
+completely determined by the data as long as you have lots of data then
+eventually we'll get to a world and of course that takes us now to current AI
+right artificial intelligence to a world where all you need to do is to feed lots
+of data to a machine and then the machine will become smart enough you know
+it will have intelligence so that it will just produce discoveries one after
+the other and you know there's no need for science anymore because all you need
+to do is to find good automated ways of analyzing data and that fascinated me
+very early on and so I devoted a lot of time over the last 20 years trying to
+think about that what actually our data can we even think about data analysis
+working in this way the answer is absolutely not by the way and what
+implications does doing philosophy of data really have on data practices and
+which actually of which there are many and because you know I think over the
+course of the years I did show even for instance during the pandemic that
+certain approaches to just you know reading the data and pretending that
+there was one univocal obvious way to interpret them was really a really big
+problem and anybody who had that expectation ended up not going not doing
+very well let's put it this way with their predictions and the models that
+they propose so I mean this philosophy ideas that I think in that realm too of
+this old data world that also showed me that it made sense to do what I do and
+it does make a difference though of course a lot of people wouldn't you know
+consider that kind of work we wouldn't know about it but with the people I
+collaborated with it made a difference and of course that brings us to some of
+the things that we're working on together which are broader questions
+around how do we even communicate and collaborate in science if it's not just
+by means of throwing data around or just sharing methods and you know with
+expectation that other people can just pick them up and run with them and
+that's how science works if that's not white house science work then how do we
+tell that story how do we think about what's the point of science being an
+open an open activity in which science is it open how do people in fact
+collaborate how do people learn from each other what is the role of so-called
+tacit knowledge and know-how in scientific research what is it that we
+cannot quite formalize through algorithms for instance what implications
+are these are for today and these are the kind of questions I think that we
+dealing with now it seems like in a way it is a different set of questions that
+what the technician or the practicing research scientists would do both in the
+case of biology and I would be very interested in actually the difference
+in terms of the questions being asked between these two different ways of
+approaching the target mother the worms in one case and I guess data driven
+inquiry in the other and when you're dealing with collaborations in either
+with biologists or computer scientists or data scientists I mean you already
+went into how they view you in a way but I'm really wonder interested in this
+interaction and what kind of questions you see not being asked I guess also in
+the case of biology because in the case of data science you've already went into
+that all the suspects of is there only one interpretation what cannot be
+formalized so first of all I'll be interested in the biological going back
+to the biological case of what questions are completely left out and especially
+now because we have this interesting intersection between data driven methods
+with biology, genomics, bioinformatics, all kinds of omics and all kinds of
+the disciplinary chimeras in medicine biology what kind of questions do you
+see being left out repeatedly let's say so yeah that's a very nice
+question and I would say very often collaborations really start from
+finding common questions maybe that people will be asking themselves maybe
+not formulating them in exactly the same way but you know I the vast majority of
+cases I had a collaboration with biologists especially but also data
+scientists and people were asking questions that actually were similar to
+mine but didn't really have time to pursue them at that level because of
+course had to get off with their work which is in a sense technical and very
+specific in terms of deliverables and also didn't have sometimes the instruments
+and the skills to pursue them because after all and it does help to have a
+grounded in philosophy and history it does help to devote a lot of time within
+literature that deals with these issues which most scientists don't really have
+the time to do and don't have the training to do so I suppose the most
+difficult conversations happen with scientists that have been educated to
+not even want to consider the extent to which science really is ultimately a
+human and social activity and there are people who think in those terms right
+there are scientists and I respect their work it's just that that's a very hard
+premise to to go past right and who really are in that game are in the game
+of science because for them it's a way to reach objective knowledge which is
+totally a contextual where context doesn't matter at all values interests
+play no role all you're doing is producing reliable data and then reading
+knowledge out of the data and that's how you you know produce watertight neutral
+objective knowledge now if you're the kind of scientist who's in it for that
+and I've met both biology statisticians for instance we're being strongly on
+that side it's actually a bit hard to collaborate and ask similar questions
+because many of the questions I would ask are questions that start from almost
+the premise and the observation that science requires lots of choices and
+judgments and many of those are linked to the specific situations scientists are
+in the interest they have the goals they have the constraints they work under the
+institutions they work for the type of funding that they have all of those
+things which doesn't make science less legitimate or worse but it simply means
+that you then really think about scientific developments in the direction
+of research and some of the outcomes and the content of research also by
+taking these elements into account yeah and now if you're the kind of scientists
+who really doesn't want to do that because you believe that the moment you
+do that science becomes a completely relativistic endeavor and you lose any
+trace of objectivity then it becomes difficult then there's lots of questions
+you will not ask because you will not want to engage with those questions in
+the first place right so if you're the kind of data modeler that thinks that
+if you get to the perfect model eventually that would be a model that is
+completely comprehensive so it doesn't require any choice it doesn't require
+you to have a vision about what those results may mean in the future it doesn't
+require you to make any big conceptual assumption is just a model of what there
+is then there's no space for me for the kind of questions I ask because my
+questions are about with a second I mean in the model you're not using in the in
+the results you're not producing what are actually the assumptions could there
+have been different assumptions why you choose certain methods other than not
+why are you consulting certain experts rather than others you know what impact
+do all those choices have on your work where there is much more space to have
+common ground and to ask common questions is where people are willing to
+consider that and to see the fact at least for me to be honest it is a fact
+that's why it's so difficult to get past it and that science is affected by all
+of those human factors and actually is the strength of science to be affected
+by those human factors that they direct your attention that they give you a
+particular objective or goal to work towards during the pandemic there was a
+real global emergency was recognized to be a global emergency which is rare we
+have lots of global emergencies very often you know they're not acknowledged
+to be such by politicians and by private citizens right but in the pandemic I
+think pretty much everybody around the globe recognized that this was a rather
+difficult moment and so there was also consensus in the scientific community to
+all work towards that and actually made in many cases for better science for
+science that was better integrated where people were more willing to talk to each
+other and exchange results and that came out of the acknowledgeable the fact
+that now there is a specific need and we're going to work towards that for
+reasons which have all to do with humans and you know and a demand the society has
+at the moment rather than simply because we want to know more about viruses right
+and so I think you know once you recognize this historical nature of how
+are we thinking about scientific developments then the kind of questions I
+ask become feasible and they are of that sort right so why do we choose the
+conceptual commitments that we choose what could be the alternatives and what
+would be the implications of thinking about certain research domains
+differently what would happen in biology if people were maybe a little bit less
+obsessed with genetics which have been for a long time and thought a bit more
+about development for instance and how a genetic gene expression and genetic
+pathways actually manifest themselves in a development not just in select in
+evolution by selection and actually how does that affect the way in which
+organisms grow reproduce and how we think as humans and you know there's
+there's many questions you can ask once you recognize that science is made of
+very hard work great achievements in understanding but there is a degree of
+serendipity and there is a degree of subjectivity to which research directions
+people take what they decide to focus on a particular moment what concepts they
+really decide to explore and which ones they leave behind and so for me it's
+never a question of critiquing biologists I meet because I feel that
+their research is pointless right that's very very very rarely the case I mean
+but sometimes what may happen is that I encourage them to think about well you're
+making all of these assumptions in your work what happened if you were to think
+a little bit outside of your own box and consider maybe other ways of going to
+the same problem would that make a difference to what you do or not it
+doesn't take absolutely anything away from their discoveries but may help to
+try and contextualize them a little bit more broadly and to think maybe a bit
+more systematically about the broader implications right so I mean the thing
+that I think a lot of philosophers of biology constantly get annoyed by is
+this big social belief which a lot of scientists unfortunately have pushed
+about the linguistic nature of the genetic code like it's like a language
+that we can read better and better and once we can read it we can program
+people and other creatures you know and that's something that annoys a lot of us
+because this is like packing up so many problematic metaphors around how biology
+actually works that we don't think is particularly useful we think it has been
+useful in in some ways I mean certainly thinking about gene sequencing as
+reading a code has been of course foundational I mean a lot of our
+discoveries in genetics the very way in which we can now modify organisms both
+in medical terms and in terms of you know modifying them for food purposes for
+instance or for defense and all of this come from that particular way of
+thinking it certainly has been effective but I would also think is very limited
+you know and there's other ways of thinking about the role of genes in
+development in evolution that are potentially you know if not richer
+certainly just as useful and particularly at a moment where you know
+we seem to be going down this path of trying to automate reality as much as
+possible in a way that is very ideological and sometimes rather
+ineffective considering other ways of thinking may be useful right so yeah at
+least that's a beginning answer I guess yeah I mean to contextualize it a bit it
+seems that there is we could call it wave an intellectual new wave of various
+thinkers various scientists were addressing that had the conversation the
+other time with the Johannes Jäger Yogi Jäger who's also from his own approach
+and also from his experience in biology trying to address these issues of how
+subjectivity or social context have been are being left out especially in applied
+research settings like these questions are not being asked at all then there's
+Evan Thompson's blind spot which has been hot let's say this kind of area for
+people who are interested in this kind of questions of like how can we do
+science differently given this past issues however there's still from my
+experience and from my end I always see this conversations as liking a little
+bit in terms of the more suggestive part of how this different environments
+look like how these different settings look like and also I don't know from
+your case too can you find some sort of virtue in this kind of unwillingness
+sometimes to engage with the social questions I'm playing the devil's advocate
+here for example all of these problems that we're talking about about the
+social context being excluded about judgment being excluded about the
+subjectivity being excluded sometimes out of the conversation for example when it
+comes to dealing with the division between quantitative and qualitative
+research and data it is the case that we talk about qualitative research more more
+as a complement or that something that comes afterwards to contextualize
+quantitative data but do you think this is an issue of culture an issue of
+underlying philosophical stance that leads to that or is it something about
+these sort of methodologies that is actually very powerful that we should
+also be taking into account that yes quantitative data maybe are actually
+very important to look at and to have like better methods and to have all of
+this efficiency or optimization maybe they are very important so what do you
+position yourself when it comes to that and I guess this is also a question that
+goes into the techno optimism techno pessimism kind of stances towards science
+scientific practice and just to compress a little bit that question what is bad
+about quantitative purely quantitative well I never said that there's something
+bad about purely quantitative by the way I'm over exaggerating just what I think
+is a problem sometimes is not you know science is a modular affair and it's got
+to be research and inquiry generally I mean our experience with the world has
+got to be modularized and then we can't think about everything all at the same
+time right so specializing focusing is absolutely fundamental to human
+experience in any of these forms we cannot always all do all the same thing
+we would never learn anything we would never be able to move on in life I mean
+so one of the one of the things that makes humans so interesting as an
+organism is this ability to modularize your experience and to choose a focus of
+attention for long enough but you can actually really build a whole set of
+experiences on it and you can build methods to analyze the experiences and
+actually really get advanced knowledge on that particular aspect of reality so
+science obviously is the ultimate manifestation of that way of doing
+inquiry more generally right so there's nothing wrong with that in fact that's
+that's a very very very powerful thing and that's very clear from the history
+of science and technology where it becomes very dangerous is where there
+are in entrenched hierarchies among these if you want different modules of
+knowledge that becomes so entrenched so absolutely untouchable that people are
+not even able to question or see that hierarchy anymore so if you're in a
+situation where doing computational analysis is seen to be the absolute
+gold standard for how you do research and doing qualitative research say an
+ethnographic study or anthropological studies of some sort or a survey is seen
+to be kind of iffy not great knowledge kind of subjective not you know you
+don't learn much from it and that way of you know putting up a hierarchy around
+methods about around different domains of knowledge without in fact looking at
+the content of the particular research without looking at what kind of knowledge
+you need for any particular purpose that is extremely dangerous because it gives
+you a situation where instead of thinking for any question you pose any
+problem you have what is the best combination of insights types of
+expertise that are right now at our disposal to address this you instead go
+to this hierarchy no matter what you know and just think okay for instance
+during the pandemic I picked up the example because people have it still in
+their mind I guess the immediate reaction of a lot of governments was
+well we're gonna take financial model errors and people who do statistics have
+them turn through data that come from hospitals and then we give us answers
+around the rate of transmissions of this disease and we're gonna be able to
+predict where it goes and stop it right now that was very much instead of really
+sitting down and thinking what kind of knowledge do we need what is around
+here there was a very standardized assumption that well here what we need
+to do is to do some sort of complex modeling the more mathematical the
+better and it will give us accurate answers that everybody can trust which
+basically by the way takes responsibility away from governments
+from making decisions because then the government like the UK case can just say
+oh science told us what to do so we just did it right like no decision-making
+responsibility whatsoever now that works terribly because what should have
+happened at that moment and I think many people recognize this is so a much
+better sense and consultations around okay what kind of expertise are around
+sure modern is very important biology is very important by medical knowledge is
+very important but the experience of people who are experiencing public
+health is also very important the experience of frontline doctors is
+extremely important because they were the ones to see first for instance the
+symptoms of long COVID the experience of patient families and groups is
+extremely important because these people again are on the front line they're
+seeing the disease as it emerges any manifests not taking those forms of
+knowledge into account was a big mistake yeah it produced notice that was not as
+good as it would have been overall as an integrated whole if one hadn't made
+rather unfortunate assumptions at the very beginning about what is best right
+so I'm absolutely you know a lot of my research is on quantitative methods and
+I'm very used I'm very happy to use them when I can in collaboration with people
+who are better than me in that respect but the message is really don't make
+assumptions about what methods or what combination of methods and expertise
+will be the best to address your problem and they really thought about it there's
+no magic formula here for different problems that present themselves to the
+world there's gonna be a need for different tools I have to say in all of
+this I've yet to see a complex issue especially global issue systematic issue
+that doesn't require mixed methods so both a quantitative and qualitative
+source of information would you say this is an issue of trust in the end
+because there's when it comes to some benchmarks and gold standards that are
+there and when it comes to statistical measurements to now with Bayesian
+modeling now with AI there is a lot of talk about standards there's a lot of
+like at least the way I would put it from my own perspective is a lot of
+trust in the method itself as a method which takes subjectivity away which
+takes and in certain ways in science is considered a good thing the fact that it
+takes the subjectivity as much as possible I think it's a perfectly
+understandable mechanism especially when science is supposed to be the grounding
+the evidence for lots of very very important decisions that governments and
+corporations and public administrations and you know people take every day but
+the fact is I really don't see a way out of the problem of trust ultimately
+whether we're looking at methods models data systems or at the know-how of
+particular scientists and you're always gonna find situations where certain
+choices have been made sense of judgment be made and they're opaque right because
+not everybody can be an expert in everything to understand these things in
+depth so we live in a system which is a trust system where we hope that we have
+institutions and mechanism which are good enough that we're gonna be able to
+filter out what is the most reliable knowledge whether you're a scientist or
+not that's still gonna be true I mean most scientists that work with of course
+they're a specialist in their own area but for everything else they have to
+trust other scientists you know to be reliable to tell them the truth so we
+somehow or the best possible the closest possible version of reality that we have
+right now closes to the truth and so there's no getting out of having to
+trust others right like appealing to a particular method is not gonna save you
+because that method typically to be applied also requires people making
+choices and adding a certain know-how and a level of expertise
+I mean the knowledge of the neurosurgeon and the trust that you have to give for
+urban operation to perform on you which is not mathematically formalized the
+knowledge that there is some discourse around being able to formalize it but
+I'm not very convinced but that's a very good example it's a very good example
+because of course a surgeon or many medical practitioners with a perfect
+example of people that constantly combine highly technical knowledge a
+very high level of training consultations with other specialists with
+subjective understanding of the patient of their history being able to put it in
+a particular context being able to think for this particular person in the
+situation given their own experience as a physician what is best right in
+particularly with surgery a lot of decisions need to be made right on the
+spot like you open somebody's brain try to understand how to intervene very
+often you only see how you can intervene in a surgery once you open somebody up
+because there's a limit to the image in that we have so the issue of course is
+with AI and with the combination of AI and robotics we have made really very
+important progress in the accuracy of surgeries for sure I mean especially in
+situations like surgery on the eye for instance a very particular part of the
+brain where you know precision is going to make all the difference in the life
+of the patient going forward it's incredible to see how much we have
+managed to program robots through very particular rules very particular
+algorithms to help out but this is constantly complementary with the
+exercise of this know-how and expertise and judgment right so typically these
+robots help physicians understand how to intervene all the system work best when
+they are you know they have a humanity loop to put it in as some people would
+put it like so the artificial intelligence is set up to complement in
+very important ways the type of judgment call that a physician would make I think
+that's really a good example because it shows you that we can make huge amounts
+of progress in technological terms and in terms of innovation and a lot of
+quantitative and kind of algorithmic knowledge but it works at its best when
+it continues to be complementary supplementing augmenting like the kind
+of judgment and experience that humans bring to particular jobs it's a
+collaboration with a non-human the way I hear you put it which is a much more
+reasonable way to approach this because the discourse is either oh this thing
+is competing as an entity of its own or it is totally our own control it's just
+like we're just a pretty problem and this goes like that from my end this
+seems to be lacking a lot even if there's more awareness for example with
+a lens that they are essentially assistive tools or collaborative tools
+it seems so easy to regress back to this kind of polarity of this is just like
+merely a mindless tool of its own or just like something that is trying to
+take my job or trying to get all of the expertise that I've gained throughout the
+years that this is now competing with me and I have to compete with it so I'm
+wondering is there a way to lead the conversation towards this appreciation
+of this collaborative element well you know I mean I think there are two big
+problems in our society very generally I would say probably globally at this
+point in trying to have that set up one has to do with the idea of control that
+you just mentioned I think unfortunately this ghost of the
+aspiration to control control our lives control how people react to us control
+the way society works control our machines interact with us and this
+utopia of total control as a very specific historical lineage I think
+feminist scholars and most adequately described some of these issues but is
+incredibly damaging because if you posit as the overarching goal for
+science technology that it would allow humans to fully control the environment
+we're doing very badly because humans are not particularly great decision
+makers for one thing and also because such control I think has been proven
+over and over again over history it's just not possible you are part of
+something bigger and it'd be much nicer to confront life in that way
+In this complexity you say rather than a well-planned, well-engineered kind of thing?
+The other problem is this lure of convenience the fact that life is
+becoming ever more complex for humans on the planet in a variety of different
+ways people are trying to look for shortcuts to deal with that complexity
+and unfortunately the shortcuts that become most easily available to people
+that are marketed very heavily to people are the ones where again people may feel
+that they can do things easily effortlessly right like that the lack
+of effort being able to achieve something very quickly without really
+putting work into it is in itself the goal and that the less effort you spend
+on living on interacting with the world the better you're gonna be right so a
+lot of AI innovation at the moment is set up along those lines and that well
+you know isn't that great and eventually machines will do everything for us so
+we can basically sit back and look at the sky and all be philosophers right
+lots of people are actually making those kinds of arguments
+Department of government efficiency
+Exactly, lots of novels written about this like there's I'm sure people who are listening will have their own references for all of that
+now I think the fundamental idea the expectation that you would live better
+if you engage less with the world and if you put less effort in doing that it's
+so fundamentally wrong is so devastating to people that it will it's making
+victims right so the fact that you don't you know using a collaboration with
+machines or different types of knowledges as a way to live better is one
+thing using it as a way to avoid living for you know for lack of a better word
+or to avoid engaging your body your soul your cognitive capacities your
+abilities in a way that allows you to progress as a human being to kind of
+develop yourself to learn new things to solve problems for yourself that I think
+potentially is a big problem but it's too often now seen as a utopia no I have
+too many friends now that instead of engaging in reading a book just ask
+CharGDP to summarize it for them for some books that may even be an
+adequate treatment maybe depending on what you want to do with them but it
+does take away the experience of engaging in a focused way with a long
+piece of writing right there are skills you're missing there there's things
+that are being lost so for me that combination is the dangerous one at this
+moment in time we're having a tendency to want to control things as much as
+possible so nothing unexpected happens to you you can just control your
+environment as fully as you can and also you can use that control to do as little
+as possible engage only with very limited like that again I'm gonna be
+predictable I'm gonna be easy they're not gonna challenge you is that the
+case though because that's what I'm wondering because where would do we draw
+the line in fact because it is a moving target the thing is that's like these
+advancements let's say technological or otherwise that's reduce the work that is
+needed to be done can free up space and free up attention and free up time for
+other stuff at least what you've said before about like we will be philosophers
+AGI is fully out of the box but in many ways we are surrounded and scaffolded by
+our technologically enhanced environments in a way that we don't have
+to rely on that stuff like when was the last time we use them up to navigate in
+a different country like I'm wondering also if this line is always sifting we're
+sifting with it and we're developing with it that's certainly the case and of
+course I'm not saying that these kind of innovations haven't helped in many ways
+to forge new ways of human life of course that's what happens all the time I
+mean that's history that we are constantly moving target and things are
+always evolving in their own way but I think there's a fair amount of
+technological innovation that actually has not at all created more space for
+people in fact I think there is no argument to be made and many people have
+made it that technologies have ended up being yet another set of distractions
+from things that potentially may be said to matter one could argue that social
+media most generally is basically is the biggest Panem et Cirsensum strategy ever
+invented in human history and by Panem et Cirsensum I refer to this is the Latin
+term indicating the conceptualization that Roman emperors had of the
+citizenship that as long as you entertain them with the circus and you
+kept them happy and you gave them bread and entertainment then they wouldn't
+question your government they wouldn't really get interested in politics or in
+you know what their involvement could be or whether they could actually have a
+better life because they'd be distracted basically I think the way our geopolitics
+are working now seem to indicate potentially that there is something like
+that going on and that there is a huge amount of confusion and frustration at
+the diversity of information people are bombarded with at the different platforms
+they can go to to try and understand how the world works and diversity of voices
+they may encounter and ultimately it's becoming so confusing that in fact it
+becomes all of it becomes a huge distraction because it becomes much more
+random who we end up trusting it becomes more random who we end up talking with
+and these are smaller smaller circles like the so-called echo chambers there's
+in fact less communication going on and a lot of people whichever age end up
+being taken in by looking at endless Instagram loops or TikTok videos or you
+name it of course engineered by companies and by a type of knowledge
+which is specifically designed to distract you and to distract you as much
+as humanly possible because that's basically their business model so in that
+kind of reality which I think in my perception is that's actually the reality
+that the vast majority of people are experiencing at the moment certainly
+the ones that have access to a mobile phone yeah the idea of you know the
+technological utopia of this wonderful world where AI for instance is coming in
+saving us all this work and allowing us to think about more important things or
+things that actually matter more for our life or be able to read books or to get
+more information or to learn new things I mean I don't see that happening and in
+fact almost at all it seems to be a very very elitist way of understanding the
+impact of some of these technologies for the vast majority of people I don't see
+that happening at all and that's I think in fact the tragedy of contemporary
+notions of digital divide right it's not anymore a question of who has access to
+technology who hasn't it's a question of who is be is able to use the technology
+really to their advantage and who is said is just by dominated by these
+technologies and their life is just completely taken over one way or the
+other and they lose a sense of agency and then is a vicious cycle because the
+more you feel you lose an agency the more it becomes difficult to counter
+that sense that actually is very often right like the sense that people are
+losing agency but then how do you counter it in a world that's so totally
+appropriated and dominated by technologies you can't control there's
+this way of people ditching their phones again it happens once in a while okay now
+I have time to read which was supposed to be the premise of what this was
+supposed to bring you anyway on the other hand there's some assumptions
+this one specific one that I want to question about this being designed from
+the get-go like that because I remember an early Facebook for example was not
+designed to in terms of user engagement to have like algorithm that can have
+this analytics that can show it very clearly the engagement of the users and
+then this feedback loop started with a business model system to advertisers in
+fact the feed was not there from its first designs and there was when the
+feed was introduced as a feature there were so many Facebook groups that was
+that were going against it and like the feed is gonna kill the platform we don't
+want this in the end they weren't heard so I'm wondering like I don't want this
+to be to seem as if it is only a matter of the agency of some powerful people
+but also all kinds of incentives complex incentives that are involved and that's
+because I've seen also the aspect of capture of how developers or all kinds
+of very creative individuals and end up being captured by the broader incentive
+structures even though the motivations were that's the system we live in it's
+called you know system of capitalism that's exactly what it does and there
+are a few winners and but is not the story is not about the winners I mean
+well you know it really is about the system and the way cops you so I agree
+with you but that's why many people talk about the death of the dream of the
+internet right I mean of course it was born with a completely different set of
+assumptions and understandings about the opportunity would open up in terms of
+communication in terms of freedom and openness and and then it ended up being
+cobbled up by the global capitalist system which is no longer global
+actually right as of today but it still is a complex and at the type of market
+where there's gonna be only a few winners and there's gonna be winners by
+using a particular kind of business model and and so the people who adopt
+that right at this moment continue to win which unfortunately is what engenders
+this incredible situation of corporate domination of the internet social media
+and much of AI at the moment so I'm wondering how to regain agency in that
+kind of respect and with that kind of perspective because I guess for
+somebody who hears that it might lead to a kind of techno-optimism is hard to get
+out of and techno-optimism is also hard to get out of that's the reality of it yeah it's a
+techno pessimism that is hard to get out of it invokes a bit of helplessness
+especially I'm wondering about the engagement that somebody in that mode
+has to do with technology and with methods in order to deal with this issue
+and from your perspective have you see how do you see that relationship but how
+do we gain agency I think first of all acknowledging these feelings of
+hopelessness is really important because it's exactly the same thing when you
+look at technology as it is when you look at climate change I think and there's
+are there are good reasons to feel hopeless in that respect because in both
+cases but of course we're looking at very interrelated phenomena and first of all
+but you're looking at extremely complex systemic phenomena the kind of thing
+that you can't as an individual think okay you know what I will change the
+world that will make a difference in this it's just not gonna be possible it's
+not the kind of thinking that that will only get you down right because it's
+gonna become so clear so very very quickly that the one individual can do
+nothing against this kind of overarching very ingrained systems that we're living
+in but that's where I think two things become extremely important and one is
+recognizing the power of collective agency and social relationships I think
+the myth of the lone hacker or the lone technologists that can you know keep up
+the world through goodwill and good intentions I mean it never really was
+there because whatever good has come from that community has always come from
+collective action but even as a myth it should die right I mean it's very very
+important for people to recognize that the only way to counter these very very
+strong trends we're all suffering from is to kind of seek like-minded people
+and think about collective ways of reacting right and that brings me to the
+second point which is good old-fashioned politics unfortunately
+politics as a space has gone out of fashion especially among young people
+partly because of the huge amount of disillusionment disappointment in the
+contemporary political landscape the lack of inspiring figures and so on and
+so forth the fact that is so hard to fight against the system that we're
+living in but ultimately politics and the nation states remain an incredibly
+powerful force on the world stage something like the European Commission
+with all of these problems remains an incredibly important site where
+different cultures different perspectives meet and try at least to
+have a dialogue right transnational agreements transnational venues and
+organizations all of this their very existence is a moment of hope because it
+means that there is something like the potential to bring together a variety
+of different people to engender the kind of collective actions specific ones that
+may in fact make a difference structurally rather than just being you
+know something that gets left on the wayside and of course the Trump
+administration has a perfect exemplification of this this is an
+administration predicated on the total mistrust and almost denial of the power
+of the state that government should have any role in society but as soon as they
+got into government they're basically well you know I would say destroying but
+certainly affecting society and not just within the US but globally right so I
+would say one of the big recipes and that's something that I feel very
+strongly about and I really want to devote a lot of time also my work doing
+in the next few years is for people to see the importance of engaging with
+politics in a way that actually allows you to exercise your learning in science
+and technology and engaging with society in a broader sense to bring together
+different expertise but bring them to the political stage too because
+otherwise we end up with a whole set of people a whole in fact not just one
+generation but at least two or three by now completely disillusioned who are all
+amazing people I meet them all the time who have the most incredible ideas of
+the right motivations really want to do good for the world but they're so
+disillusioned by politics that they don't transfer all of that knowledge
+expertise capabilities and goodwill into making a difference for society as a
+whole in a structural level and that's a huge issue if you have that kind of
+possibility of vote it's a huge issue because ultimately even if you may not
+have the best choices in front of you you're not even engaging you know with
+that with that set up but ultimately this is one of the most powerful ones
+that we still have I mean either you go and work for one of the big corporations
+you become a CEO but by the time you get to a leadership position you can't have
+had to absorb the business logic of it so it's not necessarily the most
+successful way of changing the world and it's been tried and tested I don't really
+see this working very well and or you actually engage with politics in a way
+there's a bit more substantive and and try and canvas and get active and make
+sure that your intellectual and social ideas also translate into a political
+reality that you may be happier with yeah I guess people's concern and maybe
+we can wrap this up when it comes to the this point specific which is also very
+urgent is the kind of irony or the realization that's usual ways of doing
+politics do not work protests do not work anymore this this is at least what
+is on people's minds and it is way too pervasive so maybe this is where the
+theme of love may come in because there is maybe we intellectualize politics is
+a little bit too much the same way we over intellectualize science or
+philosophy and the motivating factors or the stakes that are involved are being
+left out and I think we are in a way very way too comfortable talking about
+this aspect of things this convenience and this broader context of convenience
+maybe we're too much in that and we forget that caring is hard-won so I'm
+wondering like from your case how would you see how how could we I mean it
+sounds too patronizing to say like get people to care about things that are
+important but I think this is maybe what we have to do and maybe the frustration
+and guilt that comes out when talking about these things as part of that so
+from your end I mean I would say it's really nice to talk about love right
+because especially when one thinks about romantic love as a starting point
+because that's obviously something that many people would have hopefully have
+that some experience of or be familiar with that is clearly something which is
+inconvenient right I mean there is no love without vulnerability there is no
+love without the recognition of fragility of being complete or not being
+in control yeah there is no love without recognizing that you may need something
+else and that you may not even be sure of what it is but you may need something
+else there's no love without trust and very often literally blind trust I mean
+you may have some reasons to trust somebody but really ultimately is a leap
+of faith but at the very same time romantic love is one of the pillars of
+human existence I mean it's one of the most fundamental experiences humans can
+have and you know it's very widely recognized to be very difficult very
+often leading to enormous tragedy and just heartbreak actually always pretty
+much because even for people who are very happily together for many many
+years if that's what you like you know eventually one of them dies so but is
+is also ultimately such a fundamental recognition of the nature of human life
+I think which is limited it's fallible it's constrained it ends it has all
+sorts of biological constraints in terms of what we can and cannot do you know
+even when we're in our 20s and those of us who are able-bodied by most intent
+and purposes and living in democracies where we can exercise all sorts of
+different rights and abilities I mean even in those moments there's lots of
+things you cannot do you have the body you have you have the mind you have you
+have the background you have so all of this is a constant lesson into how you
+can't quite control your environment you can't quite predict what's gonna
+happen you you can't you know control other people's behavior so love is a
+wonderful teacher if one lets it right it's no surprise that so many people
+especially among young generations now are so alienated right in a Marxist
+sense from the world because it becomes so difficult to open yourself up and
+make yourself vulnerable in a situation when you feel fragility all around you
+right and you feel like you have to kind of put up a face and a front because
+otherwise you're gonna be gobbled up by all these powers to be that are all
+around you don't quite understand but they seem to just give you no sense of
+agency right and so I think in that sense like you know about being in
+situations where you're supported especially as younger people in making a
+direct connection that's something the philosophy is good at a direct
+connection between your lived experience as a human being who has family
+relationships who has love affairs who has engagements at the social level but
+also as a human being who's intellectually engaged who is asking
+questions who is recognizing that you don't know things you know so you're
+making yourself vulnerable intellectually and therefore looking for
+answers in the sciences in technology in these kind of things and also as a
+biological being which is pummeled with not being able to breathe well because
+your city is incredibly polluted not having good access to medical care
+because there's serious problems with medical assistance in many countries not
+being able to take advantage of green spaces because they're taken over by
+uncontrolled urbanism you know not being able to access mountains or the
+coast because too far away is too expensive and all of those kinds of
+things I mean all of that and of course being subject to climate emergencies of
+all types which by now is becoming a common experience for almost everybody on
+the planet I mean all of these identities and all of these different
+kinds of vulnerabilities really are all interrelated right and I think that's
+what is creating so many problems that is almost like people think that you can
+acknowledge your vulnerability as you know a scorned lover and find solutions
+for that vulnerability in technology for instance or you can acknowledge your
+vulnerability as somebody who suffered the flooding or a wildfire and find
+solutions for that again in technology and innovation right well in fact
+knowledge and understanding science is also a type of vulnerability you're
+opening yourself up to a different way of knowing and it's a question of
+engaging with it in an open way rather than just saying oh I have a problem in
+a part of my life and I'm gonna go and look for easy solutions somewhere else
+and if they don't work then I'm gonna get upset right I mean it's it's it's
+having a more organic view of the fact that you know if you feel like you have
+a problem it means that you care you care about yourself you care about
+somebody else and that's the leverage that's what you need to use to then
+foster your engagement in all those opportunities we have to learn and to
+and to do things in society rather than the other way around so I suppose
+caring you know it sounds very abstract but for me works in my own life also I
+mean caring starts from acknowledging the fact that you have needs and you
+have things that you're unhappy with and you have problems and using that to
+engender forms of care in all the aspects of your life so we have some
+wonderful things to take home from this we can have control in this complex
+natural world that we're embedded in things are transient do with it you
+never work alone and we need to feel inconvenient I guess in this context of
+convenience so thank you so much for giving this space to have a different
+kind of conversation. Thanks so much for this I mean collaborating with you is one of the joys of the job so thank you

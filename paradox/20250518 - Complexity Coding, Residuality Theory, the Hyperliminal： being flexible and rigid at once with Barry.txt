@@ -1,0 +1,1967 @@
+Software is nice and rigid and stiff, does what you tell it, and business
+environments are insane and impossible to predict and impossible to control.
+We're not just producing clones who sit and write code that can be replaced by
+LLMs, but we're producing human beings who have to interact with human systems.
+And we're sending them out there with knowledge of nothing more than the code
+to interact with these human systems.
+And we're doing them a disservice.
+We're making their jobs harder and to be able to build software requires that
+you can interface with both sides of this.
+And programmers are very definitely taught and selected for their ability
+to think linearly, and that means solving problems, thinking logically,
+taking one step at a time, always being correct, being very critical
+in how you view things.
+You can start with the fathers of computer science.
+So Turing and Von Neumann, you work backwards and you realize that
+Turing and Von Neumann both worked with Wittgenstein and Russell, who was
+influenced by Friede and you take another few steps back, so it doesn't take
+long to get back to Plato and Parmenides.
+And you realize that, God, this is not something that's just
+turned up in the last 50 years.
+This is a way of looking at the world that's been around for a very, very long time.
+And the paradox is that that particular way of thinking, which in the book, I
+relate back to Friede and Russell and Wittgenstein, that particular way of
+thinking is incredibly necessary to invent the computer.
+We would never have got to Alan Turing.
+We would never have got to the computer without that way of thinking.
+But that way of thinking turns out to be absolutely horrendously horrible for
+dealing with or describing or managing any kind of human problem.
+And as soon as you apply it to a human problem, the only thing you can do is
+create constructs that are rigid and brittle.
+And the problem as I've seen it is that those static models describe a snapshot
+of the business environment at one point in time from one person's perspective.
+And that reality keeps moving and keeps changing.
+And as that reality moves and change, anything that we've put into
+software, into code, cracks and breaks.
+And then we experience poor quality software.
+We have to change it.
+It takes time.
+It gets more brittle every time we touch it.
+And what I've said is that we can't live in this world where we believe in this
+static snapshot of the business environment.
+It doesn't exist.
+It just never is like that.
+And the residue is a kind of clever little trick that says, look, there is a
+snapshot of the system at this one particular time.
+And we'll put that, we'll wrap that in a wrapper called the residue.
+And a residue is just whatever's left over when the system breaks.
+And then you tweak your original architecture so that when you go down
+that trouser leg, the thing that breaks still keeps working.
+And software has to be based on a model of what's going on because it's
+based on a model we have of a human system.
+And the software becomes even more rigid than the model itself because it's
+encased in code, difficult and expensive to change.
+And what happens is that we use this linear way of thinking to model the
+human system, then we take that model, turn it into code, the human system
+moves and the code breaks.
+And so the architect's paradox is that this linear way of thinking that gets us
+to the computer causes a crisis when we try to apply it to the human systems,
+which we're trying to use the software to help.
+And here's a set of tools that allows you to live comfortably with this
+uncertainty and not only that, but to leverage the uncertainty to get to a
+result, which while it's not certain is, is scientifically as good as we can get.
+That shifts everything and it shifts the way we talk.
+It shifts the way we look at problems.
+The feedback I get from developers and people in the field is that it's a
+relief.
+It's like, we don't have to pretend anymore.
+I would say that given my education, which was pure mathematics followed by
+software engineering, that the education and this default philosophy that all
+people who follow that track that I talk about in the book pick up, shuts you out
+from a huge, huge chunk of the world, huge chunk of life.
+And what the philosophy has done for me, while staying very close to the code is
+brought me and pulled me into contact with all kinds of things.
+Hello, everyone.
+Welcome to Love and Philosophy.
+I'm so glad you're here today.
+I have Barry O'Reilly with me as my guest, and I'm very excited about this one.
+Although it's about a subject you might think isn't philosophical, which is
+software development, but anyone who's studied philosophy knows that there's so
+many metaphors or even ideas that are taken literally in terms of computation,
+in terms of the way we build our computers, the way we think about them.
+And this is sort of flipping that script in a way, because here's a guy, Barry,
+who's worked for a lot of top companies.
+He's really good at his job developing architecture, software architecture.
+He's an architect in this world of coding and software development, enterprise
+architecture, started out in math, pure mathematics, became a coder, a software
+architect, and he's bringing complexity theory into software development, which
+is the first time that's ever been done.
+I find it extremely exciting.
+I really think he's got something urgent to teach us as philosophers, even though
+philosophers might quibble a bit with his interpretations of philosophy.
+If you read his book, he actually does a very good job of it.
+He's really studied and condensed so many different sorts of philosophies in a way
+that actually makes it very understandable and brings something really
+important to software architecture.
+He's actually come up with a whole new theory in software architecture, which
+actually has to do with the way that it's done, and it's called residuality theory.
+And it's a theory of software design that tries to make it easier to design
+software systems based on these complex systems notions for the real world, for
+complex business environments, for complex everyday life, for the kind of
+problems we actually face as humans, as life, even though we have to use this
+linear code to solve them.
+So he's holding this paradox.
+He actually talks about it as a paradox, as you'll hear.
+It's a theory that model software systems is interconnected, and he has
+this wonderful idea of residues and he's working with the residue as a kind of unit.
+This is a really good introduction into it and just to understand how it's
+important for philosophy and also why philosophy can actually be helpful in
+the real world of business and computer design and computer software.
+He's basically coming up with an idea of process modeling.
+You know, he's using process philosophy and complexity theory to come up with a
+way to do the software architecture that actually works.
+It's actually been proven to work.
+A word he talks about a lot is uncertainty, so he's finding a way to
+manage uncertainty, which is a part of all design practice, even though we code
+in a very linear way, the problems that those codings are solving in the real
+world are messy and uncertain, full of chance and change.
+And for those of you who are coders and software designers, this is an
+introduction to philosophy that can be really helpful to you, his work, because
+he really spent years and years reading through everything from Plato to
+Deleuze and noticing a lot of the residues, dare I say, that have come out
+of philosophy, but that people didn't necessarily think of as philosophy.
+He talks about how everyone has a philosophy, we just don't know it, which
+is something I've said myself actually, or that a lot of us have been talking
+about lately, which is maybe one reason we ended up finding each other.
+In any case, I hope you will listen to this conversation through to the end
+because it really gets good towards the end.
+I think it's good all the way through, but these aren't necessarily easy ideas.
+And we're combining a lot of worlds here as usual with love and philosophy, but
+they're all connected by this idea of paradox, holding the paradox, looking at
+the world a bit differently, thinking differently from the either or
+mindsets that characterize so much of what we do every day and how we do
+business and not saying that those are bad.
+This isn't about coding being bad or linearity being bad or any of that.
+It's just a different way of approaching it, which actually allows some more
+randomness, some more entropy, while at the same time giving us a
+different kind of order.
+So that reminded me a lot of the conversation I had with Carl
+Friston, for example.
+There's a lot of ideas from all the other conversations in this one.
+So a lot of these episodes have a lot to do with complexity and complexity science.
+We mentioned it in the last one with Kevin Kelly.
+The tech maverick of co-founder of Wired Magazine.
+And then there's a few other talks coming up, which have quite a bit to
+do with complexity and philosophy and physics.
+But this one is really fascinating because it's in a very practical
+everyday application, software design, software architecture.
+However, I find it very fascinating too, because of the way we talk about
+computation and the way we talk about computers within philosophy, I actually
+see this is very helpful for breaking out of that mindset a bit and also
+being able to hold it and understand the worth in it at the same time.
+I hope you enjoy this conversation.
+I hope you'll go and find Barry's talks on YouTube, which I'm linking to,
+of course, in the show notes.
+They're really worth watching, listening to.
+His books are great too.
+I read them, loving them.
+There's a lot in there you'll recognize and then, but there's a lot of
+connections that he makes because he's coming at it from a different way
+that even if you're a philosopher and you're very trained in all the
+philosophy he mentions or talks about, you still get something out of it.
+And if you're a software designer, a coder, you get an introduction into
+philosophy that will make a lot of sense to you.
+We also come back to the idea of care and love, what it really means in the
+world to be embracing uncertainty and not to be just holding onto this
+linear way of thinking and imagining that LLMs and the whole AI revolution
+is somehow safer or smarter or anything like that.
+It's just a product of powerful technology that's been
+formed with a linear mindset.
+There's a whole other world.
+There's a whole other side to the paradox and it's time to explore it and
+even embrace that uncertainty and let it open us up to the world again.
+And I also want to say, I think residuality theory probably could have
+some interesting applications in other fields.
+No one's really tried it yet.
+I've just learned about it, but I've already had quite a few ideas
+relative to neuroscience, which of course I won't have time to test out myself.
+Just for those of you listening, maybe it sparks something.
+Maybe it's worth actually listening to the end and looking at his videos
+because there's a new approach here, especially for those of us coming at
+it from the traditional routes of cognitive science.
+I'm always happy to hear from you, hear your ideas and I hope you'll
+support the show in whatever way you can.
+Hope you're having a beautiful May.
+It's the month of my birthday, so it's one of my favorite months and things
+are coming up from the ground.
+As I said last time, it's been very sunny.
+I'm off to Japan, so I'm sending you a lot of love today.
+Hope you're doing well wherever you are and that something good
+happens in your life this week.
+All right.
+Cheers.
+Shall we start?
+Yeah.
+Okay.
+Hi, Barry.
+Thank you so much for being on Love and Philosophy.
+It's wonderful to see you today.
+Thanks, Andrea.
+Cool to be here.
+I just thought at the beginning, maybe you could just tell everyone
+a little bit about yourself.
+You have such an interesting history.
+I know we're going to talk about your two books a bit today, but first,
+who are you, Barry O'Reilly?
+So my name is Barry O'Reilly.
+I live in the archipelago outside Stockholm in Sweden.
+Originally I grew up in Ireland, in the north of the country.
+I worked with software engineering for a very long time.
+Originally my first degree was in pure mathematics and got into the
+software industry and worked for a very long time there as a software
+engineer, software architect, worked for Microsoft for quite a few years,
+led the solutions architecture community there, became a chief
+architect and in that time got very interested in the idea of what is a
+software architect, because no one really knows and got into really into
+trying to define what that is.
+How do we teach architects?
+How do we become architects?
+Cause it's all very accidental.
+It's all very random.
+The industry is very immature.
+It doesn't really understand what we're about yet.
+And from there, I decided to, I had a bunch of ideas about how we should do
+this, how we should carry this out, how we should, how we should be as architects.
+And I started to speak on the IT conference circuits, but I was a little
+bit disillusioned with it because it's, you know, in, at IT conferences, you
+can get up on a stage, you can say anything and people would just nod and
+say, that's really interesting.
+And you don't have to verify anything.
+You don't have to validate what you're saying.
+And I felt that I wanted to go deeper.
+So I started a PhD.
+I got interested in the links between what we do as software architects
+and the complexity sciences.
+Started to investigate those things and sort of pulled on that thread until
+eventually I ended up looking into philosophy, encouraged by my wife.
+She's, she's just finishing her PhD in education.
+So she was the first philosopher in the house and she kept leaving books on my
+desk and saying, you need to read this.
+You're the things you're talking about have already been talked about.
+You need to read this guy and this thing and that.
+And so I started to get deeper and deeper into that.
+And then maybe it went a bit too far.
+And so last year I was writing, asked to write a little booklet for a
+conference and they would give it away as the domain of a design conference
+in Amsterdam, and they were going to give this little booklet away to
+everyone who came to the conference.
+And so there was some kind of mix up in communication.
+And so by booklet, they meant 16 pages.
+And so I sent them a message when I got to 200, this is going well.
+And they're like, no, stop.
+That's not what we meant.
+So eventually we, we compromised on like 72 or 74 pages.
+Then people started to hear about the book.
+So they started to write to me and say, how do we get this book?
+I was like, well, it's not for sale.
+So I published it online through Lean Pub and it turned out to be a big success.
+And one of the things that happened to get down from 200 pages, I had to
+take all the philosophy stuff out.
+And that was just sort of lying there on a shelf in my, in my hard drive.
+And then I did a talk at a conference, the NDC conference in Oslo about the
+philosophy behind architecture and discovered that it wasn't just a niche
+interest that I thought was interesting, but lots of people were very interested
+in it, so I took those extra pages and turned them into the second book.
+Which was released in February this year.
+Well, that's a more philosophical one.
+Yeah.
+And that's, yeah, that's the, the architect's paradox.
+It's very interesting because you're kind of, you're bringing, as far as I know,
+you're bringing complexity theory into software architecture and coding, and I'm
+not sure that's ever been done before.
+And it's this whole new world relative to what it could mean to be an architect
+in terms of software.
+Did you already start having these ideas relative to residues, to the residuality
+theory before you went back to school?
+Where, when did complex systems come in?
+Like, how did all this, how did you discover this?
+So I was, I was given a job while I was at Microsoft.
+They, they, I went over to the head office and they said to me, look, we
+need someone to teach the next generation of architects because we're
+having, we're having some struggles.
+And sort of people who can cover the technology, because technology at the
+time was changing and we're moving to cloud-based systems, which was
+challenging for a lot of people.
+So a lot of our old knowledge was crumbling away and we were expected to
+learn new things and we were also expected to be able to translate those
+new things into business environments.
+Business environments are very different things than, than software.
+Software is nice and rigid and stiff, does what you tell it.
+And business environments are insane and impossible to predict
+and impossible to control.
+And so I started thinking about how do I teach this?
+And I had to ask some hard questions of myself and how do I do this?
+Cause I'm not entirely sure.
+And at that point, I'm fairly confident that I can do this job well, because
+it keeps working out for me, but I can't articulate what do I do?
+What do I, how do I know what to do?
+Where are these ideas come from?
+How do I know what to say next?
+And I started to dig into that and realized that sort of myself and
+other senior architects had a grasp of complexity that, sorry, a grasp of
+uncertainty that, or a comfort in uncertainty that sort of junior
+architects and developers just didn't have.
+And so when things started to become uncertain, where you couldn't really
+grasp what's happening in this business system and no one could tell you what
+was happening and there was a lot of uncertainty around how does this work?
+And what are we even trying to do?
+You would see junior architects, junior software developers melt away and just
+not really know how to handle it.
+And senior architects and people like me would think, oh, well, now this is
+interesting because no one knows what's going on and we don't know what we're
+going to do and it's really difficult to map this to software constructs.
+It's not textbook.
+It's not easy.
+And so I started to just read a little bit on what is uncertainty?
+What are the, how do we deal with that?
+And so as a mathematician, you end up, of course, always coming back to Bay
+theorem and things like that.
+There's a lot of ideas around that, but they all sound real good, but you can't
+apply them to real life.
+You can't do anything really concrete with them.
+And so I just pulled on that thread.
+I ended up in the complexity sciences, reading people like Ralph Stacey and
+Nassim Taleb.
+And then I started to formulate my own ideas around that.
+And it's sort of the early, the early incantations of this were based around
+Taleb's idea of anti-fragile.
+I realized that it's a good metaphor for what I'm doing, but it doesn't capture
+what I'm trying to do at the component level.
+And so the concept of residues was born out of melting all of these ideas from
+the complexity sciences together with the ideas from computer science and
+practical experience and sort of trying to capture what it is that senior
+architects do in a way that, as I've presented these ideas back to the
+community, in a way that senior architects themselves didn't, were doing,
+but couldn't articulate.
+And that's been nice to hear from people in the industry say, look, I already do
+this. What you're describing sounds really familiar, but we've never had
+words for this before.
+You know, we've never been able to say what it is that we do until now.
+And so it was quite, it was more or less going to Google, typing in the word
+uncertainty, clicking on the first few links and going, ah, okay, it's this.
+And then I wrote a few articles.
+They got published in some computer science journals.
+And then I decided to do it more with it.
+So I found a university and started working on a PhD, which I'm writing up as
+we speak.
+Well, not literally right now, but this week I'm supposed to be writing it up.
+Good luck.
+Well, you have written two books in the time you were writing your PhD.
+So you're doing a lot of writing, that's for sure.
+Yeah.
+You said you studied math first.
+Were you already interested in Bayes and all of this?
+Because that's not exactly, I mean, there's a lot of different kinds of math
+and that's not necessarily typical or it's becoming more typical, but.
+Yeah.
+So the math that I studied was pure mathematics.
+So algebraic topology, linear algebra, things like that.
+And math for the sake of math, absolutely no application whatsoever.
+No statistics.
+Statistics was a dirty word in our department.
+So we didn't do any of that.
+Statistics came much later, maybe 10 or so years ago when in the last wave of machine
+learning interest, then I had to get into statistics.
+And then obviously as part of your PhD training, there's a lot of statistics in there.
+But yeah.
+It sounds like you were doing something that was working really well, as you kind of said,
+and you were succeeding a lot in Microsoft and all these big worlds.
+And then you started trying to figure out exactly why and you hit upon uncertainty.
+Was it your capacity to handle uncertainty?
+What was it about that word?
+That word is important.
+I think it's in the title of both your books even.
+It is, yes.
+So it's the ability to work in uncertainty.
+And so if you study computer science or software engineering,
+there's always someone who tells you, look, this is what we're doing.
+This is the duty.
+This is the task.
+You need to build a bit of code that does this.
+You need to build a bit of code that does this.
+When you're doing your assignments and all of those things.
+And when you're a developer, then there's these people who appear around you,
+business analysts, requirement engineers, people who tell you,
+we need to build this and you need to build that.
+It needs to look like this.
+So you talk to a user and the user says, I needed to do this.
+When I click on this button, this needs to happen.
+And it's always done from the perspective and it's taught from the perspective that
+we can be certain about what users want or what's actually happening in this business environment.
+And if you're not certain about that, then you can become certain by asking questions
+and making sure and double checking that this is what we want.
+And in the real world, it doesn't work like that at all.
+Businesses don't know what they want.
+Users don't really know what they want.
+They have opinions, but they don't know what they want.
+They're not entirely sure what they need.
+And it doesn't matter even if they did actually know what they wanted today.
+Everything's moving.
+Everything's changing anyway.
+And you get to a certain point where you realize that the coding bit, that's easy.
+That's, you know, that's trivial almost.
+The real challenge is that when everything's moving, everything's swirling.
+How do you decide what to do?
+How do you build a piece of code that can react to an environment that could jump off,
+lurch off in any direction at any one point in time?
+And that uncertainty I find across my career.
+That's what I look for in a project because there's no uncertainty.
+There's no fun.
+There's no challenge.
+And it's also the thing that kind of makes or breaks a career.
+If you can handle that uncertainty in a software project,
+then you're going to be able to cope with these kind of environments.
+For many people, it's a ceiling.
+When they can't get that kind of certainty,
+then they just push it back on to business people and say, we're not doing this.
+And there's nowhere in our educations as software people,
+do they teach us how to deal with this kind of uncertainty apart from be more certain.
+Ask them to explain it again, drill down into their language,
+force them to express themselves in a way that's clear.
+And we learn about these things, like how you harden a requirement,
+how you get someone to be absolutely explicit about what it is that they're saying
+and things like this.
+And so the answer is always that the answer to uncertainty,
+as we're taught, is to get rid of it.
+Whereas a senior architect, someone who can handle these things,
+can learn to live with that and learn to live with the fact that there's
+always uncertainty in a business environment.
+And senior managers know this.
+They know that you can't be completely certain about everything all the time.
+And so what I've seen that the step from being a programmer,
+somebody who just writes instructions to help the machine,
+what to do to be an architect is being able to cope with this natural uncertainty
+that exists in any human environment.
+Any collection of people will produce a great deal of uncertainty
+just when they speak to each other about a particular problem.
+And for me, that became fascinating.
+And that's the bit that I drilled down into.
+Because when you see projects fail, an enormous amount of my work
+has been rescuing projects that have crashed for some reason.
+And over and over and over again, we see that this uncertainty causes flux.
+It causes problems.
+It causes people to either check out and not make any decisions
+or go too hard in and make too many decisions.
+How do we handle uncertainty in our software projects
+is a central theme to everything that we do.
+And it's kind of the dividing line for me between the architect and the programmer.
+Can you handle uncertainty?
+Then you're ready for architecture.
+And we have a very ambivalent relationship with it in our industry.
+Most of the time, we like to sweep it under the rug.
+Sometimes we like to talk about it,
+but we talk about it in terms of how we kill it, how we get rid of it,
+not how we can actually use it to drive a result.
+Yes, that's one thing I love about both books is that you're...
+I talk about holding paradox a lot.
+And I feel like together, both those books are holding the paradox,
+which means you're not trying to smush one side into the other or resolve it.
+You're recognizing that it's not resolvable in a sense.
+And you're not trying to get rid of the uncertainty necessarily.
+It's almost a plus, isn't it?
+Something to play with is you talk about the gap between programming
+and the architecture or software architecture.
+Maybe is that something that people recognized
+before you started writing about it like this?
+Because I hear it a lot of different ways, like everyone's just a programmer.
+And that means that is that kind of linear thinking
+that where uncertainty isn't good because you're writing code
+and you don't want it to crash.
+Can you talk about that tension a little bit?
+Yeah. So the tension that I describe in the book is that as a programmer,
+you're taught to, first of all, taught how to think in a very linear way,
+which is good.
+And most mathematicians can do this, think quite linearly,
+at least in the early stages.
+And programmers are very definitely taught and selected
+for their ability to think linearly.
+And that means solving problems, thinking logically, taking one step at a time,
+always being correct, being very critical in how you view things.
+And the paradox is that that particular way of thinking,
+which in the book I relate back to Friggen and Russell and Wittgenstein,
+that particular way of thinking is incredibly necessary to invent the computer.
+We could never have got to Alan Turing,
+we would never have got to the computer without that way of thinking.
+But that way of thinking turns out to be absolutely horrendously horrible
+for dealing with or describing or managing any kind of human problem.
+And as soon as you apply it to a human problem,
+the only thing you can do is create constructs that are rigid and brittle.
+And the human system will move and those rigid, brittle constructs will smash and crack.
+And software has to be based on a model of what's going on,
+because it's based on a model we have of a human system.
+And the software becomes even more rigid than the model itself,
+because it's encased in code, difficult and expensive to change.
+And what happens is that we use this linear way of thinking to model the human system,
+then we take that model, turn it into code,
+the human system moves and the code breaks.
+And so the architect's paradox is that this linear way of thinking
+that gets us to the computer causes a crisis
+when we try to apply it to the human systems,
+which we're trying to use the software to help.
+And so we're caught in this never-ending loop of crisis.
+And this was realized by our industry already in 1968,
+when they had this big meeting in Garmisch in Germany,
+called the NATO conferences,
+and all of the big names of the software engineering industry of the day
+met and said, why do we have this constant sense of crisis?
+They haven't still really figured it out.
+So in 1968, the conclusion was, we are not good enough engineers.
+We need to be better at engineering.
+We need to go back to the drawing board and come up with better ways.
+We need to be more precise.
+It was kind of doubling down on that linear way of looking at the world.
+And it's only really with the advent of the agile movement,
+which happened around the turn of the century,
+when people started to say, maybe we need to just chill out a bit
+and stop trying to be precise
+and stop trying to map all of these things so meticulously to logical structures.
+Maybe that's getting us into trouble.
+The problem with the agile movement is that they were absolutely right
+in this diagnosis, but they threw half of the stuff out,
+all the stuff that the managers were using,
+and said all that rigid linear stuff doesn't work for us,
+but they kept the rigid linear stuff within the code.
+Ideas like object orientation, where you model the world
+as a series of interacting objects inside your code.
+They kept a lot of those things, which are just as guilty
+as the stuff they were throwing out for bringing rigidity
+to something that needed to be fluid, that needed to be able to move.
+And it's that paradox that's constantly there.
+And I describe it in the book, it's not really an intellectual problem,
+it's a full-blown identity crisis,
+because our industry is only 70 years old,
+and we're still asking, who are we?
+What way do we look at the world?
+And we were born, as the book says, in mathematics,
+which is where we come from.
+That's our first tool, our first weapon of choice is logic,
+when we try to solve a problem.
+And there's a stubbornness to how we approach these human systems with logic.
+We won't give it up, we won't let it go.
+Long, long after the death of logical positivism,
+we're still trying to model these systems
+as structures of statements related to each other.
+And so the book is very much about not breaking this paradox,
+not solving it, but just get comfortable with the idea
+that these two things are always moving around each other.
+One is trying to destroy the other constantly.
+Logic is trying to impose rigidity on the fluidity of our human systems,
+and the fluidity of our human systems breaks our software constantly.
+Once we're aware of that,
+it changes how we think and design and build software.
+You talk about it almost as if it's an awakening to a new kind of life, too,
+which I think is very important.
+I mean, this nests and scales into a lot of things that's going on today.
+When you're talking, I'm thinking about computational theories of mind
+and the ways that we think about what a body is and stuff,
+and how that's related to all these ideas that you present.
+And maybe we should talk about residuality a little bit first.
+What actually is this kind of alternative that you're presenting
+for how to hold this paradox, so to speak?
+Or where are you focusing, turning the attention from?
+I mean, even maybe for someone who doesn't really understand
+what agile and all of this is,
+maybe you could set up a little bit of how you've kind of shifted
+the playing field just a bit.
+Yeah, so it's been fairly standard.
+If we go back to the 1950s, so look at computer science in the 1950s.
+Computer science was computing, which is basically a list of instructions
+that you told the computer to do this and do this and do this
+and move this bit of data over here.
+And when you're finished doing this, jump back to line 20
+and then start this bit all over again.
+And this started to cause a whole lot of problems
+because it got very complicated.
+And if you tried to make a change in that code,
+then you had to know which lines does it jump to?
+Where does it affect?
+How do I change this?
+And people got frustrated with this.
+And the solution to this was considered to be by the late 1960s
+to break your software up into many small pieces
+and just have small pieces of code, not one big file.
+And these were modules.
+And then what starts to happen is that we say,
+well, what's the best way to break our modules up?
+How do we break them up?
+Where are the boundaries?
+And we started to look at the real world.
+And we started to look at, well, here we have a business system.
+And in that business system, we have something called a customer
+and we have something called a product.
+And we have to store data about these things.
+So wouldn't it be smart to break up these pieces of code
+so that we have one piece of code that's just about customers
+and one piece of code that's just about products?
+And so we started mapping these pieces of code
+to concepts in the real world.
+And it became this idea of objects
+and it became very much about things.
+And so what are the things in the world?
+And that's where the programmer would start.
+And this is driven by various trends,
+including how we model things in databases and things like that.
+And so the software engineer, before they decide
+what are the modules that's going to make up my application,
+they would look at the world and they would look for nouns and say,
+well, all the things are going to be little blocks of code,
+which we call objects.
+And inside those little blocks of code,
+we're going to have functions that execute and do stuff
+and some data, perhaps.
+And this is the way I was taught to do software.
+That's the way most people are taught to do software.
+And what we end up with are these static pictures of the reality around us.
+Here's a customer.
+A customer has multiple products and has an address and has a credit card
+and all of these things, all these links and structures
+that we start to build up to describe business environment.
+And the problem, as I've seen it, is that those static models
+describe a snapshot of the business environment
+at one point in time from one person's perspective.
+And that reality keeps moving and keeps changing.
+And as that reality moves and change,
+anything that we've put into software, into code, cracks and breaks,
+and then we experience poor quality software,
+we have to change it, it takes time, it gets more brittle every time we touch it.
+And what I've said is that we can't live in this world
+where we believe in this static snapshot of the business environment.
+It doesn't exist.
+It just never is like that.
+And the residue is a kind of clever little trick that says,
+look, there is a snapshot of the system at this one particular time.
+And we'll put that, we'll wrap that in a wrapper called the residue.
+This is what it looks like in these particular conditions.
+But if something twitches, if something changes in the environment,
+then we go down another trouser leg, a different timeline
+with a different impact, and the architecture will break.
+So we need to change this a little bit
+so that it will live in this trouser leg, it'll continue to work.
+We call that a residue.
+And a residue is just whatever's left over when the system breaks.
+And then you tweak your original architecture
+so that when you go down that trouser leg,
+the thing that breaks still keeps working.
+And what we end up with is rather than just one static picture,
+we end up with potentially hundreds of little pictures
+of the changes with our architecture needs
+in order to be able to move through all of these trouser legs
+in different orders at different times.
+And it has, in philosophical terms, we're moving from, you know,
+a structure or a platonic ideal to Bergson's multiplicity,
+you know, this thing that can go off in any number of directions.
+And that's a pretty huge shift, philosophically.
+Very, very difficult to get engineers on board with that,
+especially because we're using our imaginations
+to talk about what these trouser legs might be.
+We're not saying that this is definitely going to happen.
+A lot of programmers find it very difficult to build a software system
+whenever what we're talking about might not happen.
+We have to be certain.
+We have to be sure this is going to happen before we spend any money.
+And that's a very difficult topic for them to even talk about.
+And so this leads to a completely different way of thinking about systems,
+a completely different way of modeling them.
+But the results that we get out of this,
+and this is what I've been able to show empirically,
+is that when you think this way about a system,
+you produce a software structure that is more likely to survive
+when something unexpected happens.
+And something unexpected happens all the time when you build software.
+There's always something that isn't in the spec.
+And so what we get out of this way of thinking
+is a software system that survives off spec.
+And that's a huge benefit as a software architect.
+And it's the only reason we exist,
+because if it was just requirements
+and we just had to build in a world of certainty,
+then we wouldn't need an architect.
+A programmer could do everything.
+And so what we get is a system that's going to survive
+things that aren't in its spec,
+things that haven't been described, stuff that's in its future.
+And it isn't just particular things,
+but it has a tendency to survive off spec.
+And that's the thing that makes this interesting,
+that this way of thinking offers to the teams who use it.
+It almost sounds like classical mechanics,
+Newtonian sort of worldview or like the clock or something.
+And in the books a lot, you do sort of give this impression
+that a lot of coders and software architects
+were sort of living almost like in a matrix kind of world,
+where we pretend like everything works like clockwork.
+And we pretend like the Newtonian model always works,
+even though it's always breaking.
+So there's this kind of constant tension.
+And as you even say, it's even a little bit lucrative at times,
+because of course it's going to break
+and then they need you again.
+Yeah.
+Yeah. And I feel like you're now kind of trying to open up
+to process philosophy and complexity theory and all of this.
+Had anyone tried to do that before as far as you know?
+I mean, because when you bring in Kauffman networks
+and all of this stuff, yeah, is this a first for coding?
+It is.
+In the world that I live in, which is enterprise software,
+it is a first.
+People have not brought this kind of thinking
+into software engineering before.
+There have been attempts to bring complexity
+into computing in the last couple of years,
+but they've been very much focused on the concept of teams.
+And they've led to very sort of fluffy advice,
+where we'll talk about systems thinking and we'll say,
+hey, you have to think about the whole system,
+not just the one little part.
+And programmers immediately become sceptical and say,
+what am I supposed to do with that?
+Tell me what to do is what they want to hear.
+To bring in the Kauffman stuff,
+to talk about process philosophy is a huge jump.
+For programmers, and for many a jump too far,
+because they don't even know what problem is it solving?
+And they say, well, if we're solving the problem
+with substance philosophy, what's substance philosophy?
+It's the fact that you think everything is an object.
+And for some people, that's, you know, swearing in church.
+You're not allowed to say that the object approach
+to modeling the world is deeply philosophically flawed.
+So this is a huge jump for most people within technology.
+And for that reason, I assumed that, you know,
+no one's going to be interested in this.
+No one's going to want to hear me talk about this.
+So when I went to this conference in Oslo,
+I thought, you know, they asked me to give a talk.
+I had this on the shelf.
+I said, I have this talk about philosophy.
+I'll do that.
+And I thought they're going to stick me in a tiny room.
+There'll be four people there and we'll have a nice chat.
+And I got to the conference and they put me in the big room
+and I thought, well, this is going to be really embarrassing
+because it's going to be this big, massive stage
+and four people, you know, but they put them 20 feet away from me.
+So you lose that personal touch.
+And then 400 people turn up in the room.
+There's people standing in the aisles
+and sitting on the floor in front of the stage.
+I'm like, oh, this is going to be really bad
+because I'm about to tell 400 plus developers
+that they need to turn to process philosophy
+and they're going to throw chairs at me.
+This is going to be really boring.
+And they absolutely loved it.
+And I was blown away that there was real interest.
+If you set these things up in the right way,
+if you just come in and talk about process philosophy
+and how everything would be better
+if we looked at things this way, they won't listen to you.
+But if you talk to them and say, here's a bit of code
+and here's why it's going to go wrong
+because you're thinking about the world in a particular way.
+And if you think about the world this way,
+the code is going to shift and change and go this way.
+And this solves a real problem for you.
+And people have really appreciated that.
+And I've been absolutely blown away
+by the response from the technology community
+and from the tech community on these kinds of things.
+That there is a real hunger out there
+because people know, people realize
+that the old ways of thinking about these things
+which have been around for a very long time.
+So the way I describe things,
+the last real paradigm shift in software engineering
+was 1968 and we call lots of in software engineering,
+there's a lot of marketing hype.
+So every six months we call things a paradigm shift.
+But the real shift in paradigm
+was the engineering paradigm
+which was born at that conference in 68.
+We haven't had a shift and people are hungry
+for something new and when they hear something new
+it catches their attention.
+And I think that the industry is ripe
+for a new philosophical way of looking at things.
+There's also this word crisis
+which I think is in 1968,
+it was called the software crisis, right?
+This wasn't that kind of the revolution
+that someone said it's a crisis.
+And I feel that word is really potent
+and present today too, isn't it?
+Yeah, so the software crisis basically says
+why do we never deliver anything on time?
+When we do deliver, it doesn't work.
+And why do we feel to deliver anything so often?
+And that was a big problem in 1968.
+There's a lot of people today,
+we have a lot of software running in the world.
+And so people assume that, well,
+we must have solved all those problems
+but there's an awful lot of software
+has to go through convulsions.
+It's released into the world,
+an awful lot of enterprise software dies
+and an awful lot of it costs way, way more than it should.
+And so there's this Silicon Valley narrative
+where we've mastered this, we can do this.
+Now, in fact, we can actually teach other machines
+to do it for us and we don't have to do it anymore.
+The truth is that software engineering is expensive,
+painful and risky for almost all organizations out there.
+And we still haven't really matured.
+We still don't really know what we're doing.
+I saw a post today saying that
+you wouldn't fly in a plane
+if the pilot didn't have a pilot's license.
+So why would you let someone build software
+when they don't have a license for building software?
+And my thinking around that is,
+really we have to get a few more planes in the air
+and stop crashing them before we start thinking.
+We have to sort that problem out first
+before we start thinking about pilot's licenses.
+We haven't really matured as an industry yet.
+There's still quite a way to go.
+So there's still a permanent kind of sense of crisis
+that most companies will have a number of projects
+who are in a state of crisis right now
+and they will be failing and they won't know why
+and they'll be bringing in industry best practices
+and throwing all kinds of tools at it.
+They'll be losing money.
+It eats up morale.
+It's not a solved problem.
+It feels like the crisis is even deeper though to me
+because there's so many kind of layers to this
+and I'll just throw this out here.
+It's a little messy and you can just,
+I would just like to know what you think
+because there's this,
+why is everyone responding so dramatically to you?
+It feels like it's personal in a way too
+in the sense of that people have been living
+in a bit of an imaginary world knowing it's not actually real
+because you are designing this in the real world.
+I mean, I think about when you talk about
+one of the examples you talk about like the car,
+the materials of the car aren't changing
+but in this world like what are actually the materials?
+Like what are you working with?
+It feels so ephemeral and matrix like
+and it seems like some way to solve that crisis
+is just hold to this linear mindset,
+do the coding, be told what to do
+and that seems to go towards what you call stillness
+or maybe stasis even
+and I feel like that's bigger than just,
+you know, in this software world.
+It's kind of everywhere now.
+I don't know if that even makes any sense to you
+but even in your own life,
+like, you know, why did you go study philosophy?
+You must have studied philosophy for years
+to be able to write
+and understand all this complexity theory,
+process philosophy.
+I mean, was the crisis bigger for you too
+or how do you think about that?
+Yeah, so for me personally,
+it came from a sense of frustration.
+It came from a sense of frustration
+with the state of the industry
+frustration with people constantly telling other people
+this is how you do it
+when it very obviously wasn't how we did it
+and a frustration with my own inability to understand
+what is it that I do?
+I'm doing something and I'm good at it.
+I have no clue what it is.
+It's an instinct that I built up just by luck
+by being in the right projects for a couple of years
+and seeing the right problems
+and I have an instinct
+and so Donald Shan talks about this
+in a book called The Reflective Practitioner
+which is written in like 81 or 83
+and he said that there are people
+who build up a professional aptitude for problems.
+They don't know where it comes from.
+They don't know how it got there.
+They get there by reflecting over things
+that have happened every day
+for a long period of time
+and then suddenly they can do something.
+They don't know why
+and I wanted to get, dig deeper into that.
+I wanted to understand why do I think like this?
+Why do other people in my industry
+struggle to think like this?
+How can I get them to understand me?
+And a lot of frustration
+because I would come into a project that was failing
+and I would see these linear thinking developers
+trying to dig their way out of the hole
+with more linear thinking
+so the hole was just getting deeper
+and so you need to do this
+and it would be almost impossible
+to convince them that they were doing something wrong
+even though everything was going very badly for them
+and I thought there has to be a better way to do this.
+There has to be.
+We need a new language.
+We need a new way to think about this
+and as I started to discover the ideas behind residuality
+I discovered that by blending Kaufman
+with standard software engineering ideas
+and then I would show it.
+Some people would get it.
+Some people got it.
+Started using it and said yes this works.
+This is good.
+Some people just refused it and said
+this doesn't make any sense
+and I started to dig around
+why does this not make any sense to you
+and I started trying to understand
+what way do these people think?
+Why do I think differently
+than a large number of the developers in the community
+and I noticed that they were thinking
+in very rigid terms
+and I started to read a little bit.
+Why do I think like this?
+Why do they think like this?
+Why do some people have a problem
+when I say that everything is moving
+everything is changing
+and that makes them nervous
+and they immediately revert to using tools
+and ideas and modeling stuff
+that is trying to keep the world still
+and I realized that a lot of these linear thinkers
+they need to keep the world still
+so that they can focus
+and they can start to process it
+and as soon as you try to keep the world still
+and stop the world from moving
+then you enter into this matrix like reality
+where you're dealing with something
+that isn't really there
+like Baudrillard and like Bordia's story
+and so what happens then
+is that you end up seeking this stillness in everything
+you're trying to hold things still
+and we do that in our modeling
+and we do that even with certain agile techniques
+we're trying to keep things still
+and what I started to do then was to say
+well what happens if we just let things move?
+How would our software look
+if we weren't trying to keep it still
+if we were building software
+for a world that's constantly in motion
+residuality was the sort of codified way
+to talk about that
+and that's how I end up getting
+deeper and deeper into philosophy
+why do they do this?
+Why do we look for an abstract form of customer
+instead of building a system
+for something that's constantly moving
+and constantly changing
+and is never going to be the same over time?
+Where did that idea come from?
+And so I dig backwards
+and I find these ideas in Plato, Aristotle
+why do we expect that
+there's always going to be
+a simplistic cause and effect model in every system
+and I find that well that came from Dekat and Newton
+and why do we think there's a structure
+in the language that people use in a business?
+Why do we think that that language
+represents some secretive hidden structure
+that if we just scrape back and analyze enough
+we'll find it
+you find that in Dassault-Serre
+and Levi-Strauss
+and these ideas around structuralism
+and so eventually I realized that
+we are a blend of a bunch of ideas
+from a bunch of philosophers
+no one's ever taught us about
+that we accidentally absorb from our industry
+and you can start with the fathers of computer science
+so Turing and von Neumann
+you work backwards
+and you realize that Turing and von Neumann
+both worked with Wittgenstein and Russell
+who was influenced by Frieden
+you take another few steps back
+it doesn't take long to get back to Plato
+and Parmen it is
+and you realize that
+God this is not something
+that's just turned up in the last 50 years
+this is a way of looking at the world
+that's been around for a very very long time
+starting with Parmenides and Plato
+and this needs to hold things still
+and that idea was triggered to that idea
+by reading Popper
+and Popper's criticism of Plato
+and Plato's need to hold things still
+which is apparently a very controversial opinion
+which upsets a lot of philosophers
+so that's how I ended up digging into these things
+and it has been quite a few years of reading
+and getting deeper and deeper into these things
+several times told by my professor to stop
+it's like you don't need to go this far
+this wasn't the assignment
+leave it alone
+but I got very very into it
+and had a lot of fun with it as well
+What was it giving you?
+I mean from my perspective reading it
+and by the way it's wonderful how you go from
+logical positives
+and understanding how that affected Turing
+and how that became sort of coding
+and this linear mindset
+and then you also even can talk about Hegel
+and the pragmatist and process philosophy
+it's kind of amazing actually that you
+can hold all of that
+but I'm wondering what that process did for you
+it's from my perspective
+it seems like it let you hold the paradox
+it let you hold both things
+because I don't hear you saying
+okay we're gonna get rid of the linear mindset
+we're not gonna have that coding anymore
+but I do hear you saying
+we're gonna embrace uncertainty
+and that I think is almost like a dissonant state to be in
+that we all are trying to come to terms with right now
+in different ways
+If we got rid of the linear thinking
+the crisis would be indescribable
+we need to be able to think linearly
+to make code work
+because code is linear
+it will only follow linear rules
+and if we give that up
+we'd be in real trouble
+the thing is that we need to be able to do both
+if you're a software architect
+and your task is to design software systems
+that have to help people do things
+in a complex process oriented world
+then you have to be able to make the linear thing work
+you have to be able to do both at once
+and you can't use one to cancel the other out
+you can't use one to get rid of the other
+and that's the paradox
+that we have to be able to hold both of these
+one of the things that's really hard for an architect
+when they're learning is
+when do I use which mind
+when do I use which set of thoughts
+when do I use which set of processes
+what am I dealing with right now in front of me
+do I need to think linearly and be rigid here
+or do I need to relax now and let this flow
+and we get this wrong a lot
+and it annoys people
+you know if you're real business people
+who do have real jobs
+they get annoyed at software engineers
+who turn up in a meeting and start being rigid
+and saying yes but what exactly does this mean
+and when we get that wrong
+everyone gets annoyed at us
+because we force people to a rigidity
+that they're not used to in their everyday working lives
+and it scares people and it irritates them
+and it's very very difficult for us to learn
+it takes a lot of time to master this
+and in our educations in computer science
+we're only taught the linear thing
+so to learn the other side of the paradox
+you have to pick it up
+you have to pick it up in real life projects
+and it's sink or swim for most architects
+as you either pick it up
+in which case you're good
+but you don't actually understand
+how you achieve your own work
+or you don't pick it up and you draw
+and you go back to programming
+say I can't do that it's horrible
+because there's no one to teach us
+until now no one's really articulated these things
+and said that even said this paradox exists
+and so we try to survive by rules of thumb
+and silver bullets and products
+and every new tools that are going to conquer
+this complexity get rid of complexity
+can actually achieve this goal
+which is never going to go away
+of actually holding things still
+so that we can bring them to software
+and control them
+and there's a big need for control in there as well
+which you'll find is everywhere in the community
+Well that's where that complexity
+and process philosophy comes in
+because you start as you show
+and as those philosophers show
+you can't get outside of all these systems
+which is why when you write some code
+inevitably in a year or five years or whatever
+it's going to have changed
+because we're all part of this
+that's that complex system mentality
+that I feel like probably takes some time
+but I can imagine this is going to be really really helpful
+for a lot of people in coding
+in software architecture in the world too
+but I just I want to ask you about this
+like I brought up that was kind of the Newtonian mindset
+and you're doing the complex systems or systems thinking
+and it's a very different worldview
+and I guess we don't have time to go into
+what the Kauffman network is and NKP and all of that
+but is it fair to say that you've sort of unstuck
+the model from the object or that it's not stuck anymore
+you're sort of making a model itself
+that can be a little more fluid
+it's more based on maybe I mean you mentioned bays
+that's why I was thinking of statistics
+but there's some there's some room now
+there's some wiggle room
+and you can notice patterns in a different way
+how would you explain that to someone
+who's not really like getting that
+because I think it's a very big shift that you're making
+Yeah I would say that software engineering
+up until I started writing about this
+had order uncertainty at its center
+and the goal was no matter where you were in the project
+no matter where you are in a problem
+you might be dealing with some uncertain stakeholders
+you might be dealing with a problem
+that's not properly defined
+but your goal was always to get rid of that uncertainty
+and get to the certainty
+and what I've done or I think I've done
+is I've taken uncertainty
+and I put it right in the middle
+and said that uncertainty is the defining feature
+of software design
+and once we embrace that
+once we accept that
+once we accept that
+we're not getting rid of it
+it's always going to be there
+and here's a set of tools
+that allows you to live comfortably
+with this uncertainty
+and not only that
+but to leverage the uncertainty
+to get to a result
+which while it's not certain
+is scientifically as good as we can get
+that shifts everything
+and it shifts the way we talk
+it shifts the way we look at problems
+the feedback I get from developers
+and people in the field
+is that it's a relief
+it's like we don't have to pretend anymore
+we don't have to pretend
+that there's this linear logical way
+of solving this problem
+I mean I say that actually nobody knows
+but here's the best way
+to get to an acceptable result
+and that's the shift
+and the other shift is
+that those senior architects
+I've spoken to a lot of them
+who have learned how to do this by instinct
+suddenly have a vocabulary
+suddenly have a way of saying
+this is what I do
+this is how I get to a result
+and that also brings a sense of relief
+to a lot of the community
+that's actually huge
+and you just don't feel like an imposter anymore
+and also I guess what I was trying to get at too
+the philosophy seems to have brought you back
+into the real world
+in a way that you can
+so you can feel connected again
+there's this sense of enthusiasm
+play, life
+which I think a lot of us are losing now
+by totally embracing the linear coding
+LLM tells us everything mindset
+is that fair?
+Did you wake up to life
+in a different way again
+by being able to almost like
+put the roots into all this
+and understand it better?
+I would say that
+given my education
+which was pure mathematics
+followed by software engineering
+that the education
+and this default philosophy
+that all people who follow that track
+that I talk about in the book pick up
+shuts you out from a huge
+chunk of the world
+a huge chunk of life
+and you have to find other ways
+to get back to that
+most of us have hobbies
+and things that do that
+and what the philosophy has done for me
+while staying very close to the code
+has brought me
+and pulled me into contact
+with all kinds of things
+and so I used to be an avid reader
+of literature
+before I got into software
+and then I didn't have time for that anymore
+the philosophy thing has pulled me back
+into that world
+and maybe sent me down
+in a whole bunch of different tries
+or legs
+I don't remember this thing
+and let's go back and read this
+and absolutely I would say
+that following this path
+at this age I would say now
+that I finally feel educated
+I've learned something
+and it's so, so much broader
+than the narrow kind of mathematical
+computer science
+software engineering way
+of looking at the world
+this is one of the things
+that I think that software engineering education
+needs to really think about
+we're not just producing
+clones who sit and write code
+that can be replaced by LLMs
+but we're producing human beings
+have to interact with human systems
+and we're sending them out there
+with knowledge of nothing more
+than the code
+to interact with these human systems
+and we're doing them a disservice
+we're making their jobs harder
+and to be able to build software
+requires that you can interface
+with both sides of this
+and certainly for me
+the study of philosophy
+has made that much easier
+to articulate and to understand
+but at the same time
+I can't expect the whole industry
+to do what I've done
+which has taken an enormous amount of time
+to do that kind of reading
+and thinking about these things
+but you condensed it very well
+into your book
+so it's quite a service I think
+and it reminds me too
+of I mean you also
+it's a way we can embrace entropy
+there's a way in which you're
+opening people to be more random
+and let in more entropy
+at the same time
+you're also showing a way to
+I don't know if control is the right word
+but get that in order
+you know this idea of residuality
+actually gives you a way
+to kind of get that in order
+I don't know if that makes sense
+I thought maybe we could give
+one example before we go
+I don't know
+I'm thinking of the one
+with the cars and the meat
+or something
+some kind of real-world example
+where you can see that
+you've unstuck things
+where you're not looking at specifics
+and yet because of that
+so much more seemingly random stuff
+gets covered by the model
+I don't know if you have a good example
+or idea to share with people
+Yeah so there is the example in the book
+which is the classic example
+I get sent examples of this
+by students all the time
+and so what we do
+is we randomly simulate an environment
+sometimes with nonsense
+so we mix stuff up
+and we say what would happen
+in this system
+if the entire city burned down
+or what would happen
+you know the classic one
+that initially got me a lot of attention
+was what would happen
+if giant fire-breathing lizards
+come up out of the Baltic Sea
+and destroy the city
+what do we do then
+what does our software do
+and people find this ridiculous
+you know and this is the bit
+where the linear thinker says
+but there are no giant
+fire-breathing lizards
+in the Baltic Sea
+and then you know
+sometimes I tease them and say
+are you sure about that
+like have you been in a submarine
+down there
+and but the point is
+that the giant fire-breathing lizards
+don't have to exist
+because what we're doing
+is we're discovering something
+in the attractor space of our business
+and maybe it's not
+a giant fire-breathing lizard
+but maybe the city is suffering
+a blackout
+maybe there's maybe there's
+a terror attack
+or a war
+or social unrest
+or a flood or something
+and it causes ripples
+through our software system
+and the only reason we're doing this
+is not to solve the problem
+with these lizards
+but we're doing it to see
+where does it ripple in our system
+what does it touch
+and which bits of our system
+fall over when that ripple comes
+and by generating lots and lots of noise
+by generating lots of
+sort of simulated stress on a system
+we force a system to
+to a configuration
+to a set of modules
+and links between those modules
+and this is the classic question
+what are the boundaries for my modules
+that we can't answer
+and that gets answered
+by stressing a system
+until it takes on a form
+and once it takes on that form
+then we start to test it
+and we start to see
+in every single case
+we start to see that the system
+when it's pushed to a configuration
+in this way
+will start to survive things
+that it hasn't been designed for
+and that's what we want to get to
+and there's the example in the book
+of the car charging network
+which is able to stand up
+after using lots and lots
+of different kinds of stress
+from different angles
+it's able to stand up against stress
+that we didn't see
+and one of those stresses was the
+politically motivated blocking
+of fast car chargers
+but it turned out
+that by allowing other forms of stress
+to push the system
+to a certain point
+that the system could survive those things
+and these things turn up a lot
+when you're doing this work
+it turns up very, very quickly as well
+which is a shock to people
+who are practicing this
+for the first time
+and the car charging one
+is the classic example
+most of the times
+when we discover these things
+we're not really allowed to talk about it
+because they're genuinely live customer cases
+and they don't want their vulnerabilities
+to be revealed
+The idea is this hyperliminality
+I think that you this word
+hyperliminality is quite beautiful
+but so there's a different approach
+than I don't know
+maybe you would describe it
+like a Delusian walk
+or how would you
+what about the hyperliminality
+now that I brought it up
+I guess you don't have to
+So hyperliminality is the state
+where we as software architects
+have to live in the rigid linear world of software
+we can never escape that
+our job is to design something
+that's rigid and linear
+and follows the rules
+does the same thing every single time
+but then we've got to jump out
+into this complex human world
+and we've got to ask the question
+is this rigid thing that I just built
+going to stand up in this world
+that keeps moving
+and then you've got to jump back
+into the rigid thing
+and tweak it a little bit
+so that it will still keep running
+and so and that's the difficult thing
+so sometimes we've got to be rigid linear
+and sometimes we've got to accept the fluidity
+and the flow of a business
+as it moves around its software
+and so I've called this idea hyperliminality
+because we're constantly in between
+we don't really know where we are
+and we're constantly moving
+between these two points
+and that means
+so hyperliminal is a word I use
+to describe a certain type of system
+which has an ordered structured core
+and a complex bubble around it
+and that's what we have to work with
+which is very different
+than a lot of sort of complexity theory
+which focuses on the complex bit
+or standard engineering
+which focuses on the rigid piece
+but we have to do both at once
+and that's where that's where that term
+I needed a way to describe that
+yeah that's great
+and I think it's good
+it feels like what happens when you
+people will just have to go
+watch your talk about residuality
+to really get the details
+but you put all these stressors on
+like for example the giant lizard
+these kind of things that seem crazy
+and they're kind of playful and random
+but then from the residues
+that come out of that
+you end up you know
+via these dynamical systems
+in this complex systems way approach
+that you've built
+then you do end up with this thing
+where for example you know
+someone can do something like
+drive their giant pickup truck
+and block the charging station
+or even someone put meat
+in the charging station
+and actually you know
+the way that this is designed
+actually will take care of that
+so the company is not losing money
+I'll have to let people just go
+you know look at that
+but that's kind of hyperliminal isn't it
+yeah it's very difficult to describe quickly
+because with that talk
+you need to build it up for 45 minutes
+so that everyone has all the concepts
+to understand what actually unfolds
+but the idea is that
+the way that a standard
+the way that traditional architecture succeeds
+is not the way that it's described
+so traditional architecture
+has a bunch of tools
+like you gather requirements
+your model risks
+you do all of these things
+and the truth is that
+none of them actually work
+none of them actually give a result
+that's verifiable
+or there's no way of verifying
+that these things are real
+and what the architect learns
+is that each one of these things
+triggers a walk around the problem
+and the particular tool in itself
+triggers you to walk around the problem
+from a different perspective
+and as you walk around the problem
+and so it's very much like
+Duluth's difference in repetition
+you're repeatedly contemplating the problem
+from a slightly different perspective
+you're sort of Nietzsche's eternal return
+you're constantly experiencing the system
+over and over and over again
+from slightly different perspectives
+as the system changes
+and as you change
+as you move around it as well
+and what this does is
+it leads to a real knowledge of the system
+which is much much deeper
+than the shallow linear modeling
+static modeling of the system
+which we think we're doing
+and so the outputs of these walks
+are static models
+but what's actually happening
+in the mind of the architect
+is real knowledge is being built
+in a very process philosophy
+sort of Duluth's Bergson kind of way
+and so what we've done
+is we've tricked ourselves into thinking
+that we're delivering
+these static rigid linear things
+but what the architect's actually doing
+is walking around the problem
+and every time they walk
+they discover these attractors
+and what residuality does is it says
+look here's our super fast way
+we're gonna stop walking
+we're gonna run now
+we're gonna discover these attractors
+really really quickly
+by being random
+rather than using tools
+and all this baggage
+and static modeling that comes with it
+and we're gonna do that in a way
+that produces code structures
+in a way that that code
+can cope with time and change
+and the uncertainty of those changes over time
+and what residuality does
+is it takes the learned practice of architects
+and boils that down
+into something that's much easier to understand
+and gets rid of the baggage
+and that of course creates a reaction
+from the people who are responsible
+for the baggage
+and who make money on the baggage
+so that creates some ripples in the industry
+but what it does
+is it gives us a very lightweight way
+to cope with these problems
+that just a few years ago
+seemed insurmountable
+and it gives us a way to validate and verify
+and we can come up with numbers
+that show that this is actually working
+we've actually done something here
+we've built a system
+that is more likely to survive off spec
+than the system that we started off with
+and it can be measured
+and shown that we've made progress
+and that's a huge jump forward for architecture
+which mostly runs on vibes
+and that feels like a big step
+It feels like a way to think differently
+or to be able to change your perspective
+as a way of thinking
+I think there's a lot of people
+trying to figure that out
+and this is very exciting
+that you're doing it in coding and development
+and so on
+and as you were talking
+I was thinking in the book you say
+you talk about knowing our limitations
+but you're also expanding the horizons
+so I think this paradox in holding it
+is really quite powerful
+if one can sit with it
+and start to practice it
+have you found that?
+Have you found that over time
+it becomes a bit of a practice almost
+in the way you think?
+It does, yes, absolutely
+and I get one of the cool things
+is when I'm teaching students how to do this
+is that they'll suddenly start analyzing
+completely different problems
+with the same set of tools
+and I get that I got this question today
+I get this question every time I teach these ideas
+it's like can we use this to do this?
+And people will ask
+have you spoken to any government agencies
+you know these government agencies
+who take care of disasters and things
+because this stuff could be really interesting
+and there's a million as I said
+there's a million things I could chase here
+a million ideas
+but there's too many
+you know and what I've said so far
+is that scientifically I've been able to verify
+that this works for software
+and it seems like it might work
+for a whole bunch of other stuff
+but I can't be sure that it's going to work
+I don't have the time to actually verify
+and validate it
+but people start to spin off
+look at different problems from this perspective
+they ask can we design an organization in this way
+and I'm like it feels like we could
+but let's not get carried away
+let's have some validation of that
+and I think there's some people in Antwerp
+actually doing some research on that
+to see if it's possible
+but it definitely
+it shifts how you look at things
+and I think for some people in software
+it's been a huge revelation for them
+there's this totally different way
+of looking at the world
+that it opens things up
+it makes things freer
+and for most software people
+it makes it easier for us
+to admit what's actually happening around us
+instead of having to hide behind this
+shield of technical rationality
+where we have to pretend
+that we're logical and rigid and structured
+and everything's going the way we planned it
+and we're in control all the time
+and this makes it a lot easier
+while still not giving up
+and just saying whatever happens
+it happens and we'll just code our way
+when it goes wrong
+we're saying there is a structured way
+to put uncertainty at the center
+and leverage that to produce better software
+and better architectures
+yeah and I think you also bring back play
+in a way that I think is important right now
+and it would be too much to go into
+but I do feel like we've gotten
+we're getting kind of routed into thinking
+that the technology we've built
+is the way to think
+which is very strange
+it's very much a kind of closed loop
+that ends up I think in stillness
+so it's wonderful that you put some uncertainty in there
+and inject this real life back into this world
+I really appreciate that
+that holding the being and the becoming
+the criticality instead of just the correctness
+I mean these things
+however one gets into it
+it really is a way of thinking
+that brings you back to life
+and I think we really need it right now
+yeah and that's one of the coolest things to see
+is when I'm teaching people
+and they start doing this for the first time
+and they're used to discovery
+in a problem domain
+when you're working with tech
+has been so it's drudgery
+everyone hates it
+you've got to torture business people
+and ask them explicitly
+what do you mean by this
+and you write it up in a contract
+so you can say gotcha later on
+that's not what you said
+and suddenly there's this sense of play to it
+and we're talking about lizards
+and we're talking about stupid things
+and someone then gets a bit silly and says
+but what would happen if aliens came
+and they destroyed the city
+and then we say
+but what would happen if aliens came
+and they became our customers
+how would that change things
+and that gets to be a lot of fun
+and then people realize that
+even though we've been messing around for the last hour
+we're starting to see where the ripples hit this system
+and we're starting to see real design changes
+that have to be made out of this
+and we're going to be able to validate and verify
+in a few hours from now
+that this architecture is actually more reliable
+more solid than it was before
+and that's shocking
+and people love the playfulness of it
+and it's great to see that
+because there's a lot of nerves around these things
+you know
+and say people are tense
+when they're working with requirements and risks
+and trying to get these linear tools to work
+in a world that just isn't built
+just isn't going to suffer them
+and to be set free from that
+I think is fantastic
+Me too
+and before we go I have to bring up the word love
+because it's love and philosophy
+and I know it's kind of an uncomfortable word
+but I do feel like this is kind of
+I don't know from your position
+if it feels like an act of love
+or if that connects at all
+but it does feel deeper than just what it could be
+which is you've created this great new cool thing
+for the world
+but how does that word strike you?
+Is it involved in this at all?
+I think a little bit
+I think that one of the things
+I'm encouraging architects to do
+when I'm teaching these ideas
+I spend a good bit of time talking to them about this
+is to look inward
+and to say like you know
+when you've made these decisions before in your career
+why did you make those decisions?
+And this makes everyone tense right
+because they don't know
+and I say look the first thing you've got to do
+is forgive yourself
+because it's totally okay to not know
+why you made these decisions
+everyone's in the same boat
+look around look in the room
+everyone is thinking the same thing
+I've learned how to make decisions
+but I don't exactly know how I'm getting there
+and appreciate the ability that you've built up
+and now we're going to look inward
+and understand why do I make decisions?
+How do I make decisions?
+Can I understand using these tools
+using these philosophers
+using these ideas
+can I understand how I arrived at these things?
+Can I understand how I work and think
+and look at the world internally?
+And we spent a lot of time
+talking about the kind of things
+that architects sit around and moan about
+and we sit around and moan about the fact that
+our stakeholders are mean
+they don't invite us to the right meetings
+they lie to us all the time
+they don't know what's going on
+they might be kind of stupid
+they're not as good as us at this linear thing
+and they don't express themselves properly
+they don't understand logic
+and there's a lot of bitterness that builds up
+in these things
+and organizations are designed to make sure
+that architects can't do their job properly
+and there's a lot of bitterness
+and frustration that builds up
+and so by looking inside
+and by understanding why these things happen
+it's much easier to forgive the people around you
+the stakeholders around you for their behavior
+because it's not intentional
+all of these things are brought about
+by the very same uncertainty
+that we are now leveraging to do something good with
+and what I'm actually doing is encouraging people
+to forgive the people around them
+and to stop seeking conflict
+which is something that software people
+really need to get better at
+and to get rid of all this bitterness
+and frustration that can build up
+and then you're much more open
+you're much easier to do these things
+and there's going to be a lot less stress in your life
+and that's one of the things that software people need
+to get rid of in large organizations
+so that we can approach these things
+and I guess that has its relation to the concept of love
+and ever getting rid of a lot of the negative emotion
+that makes it impossible to build relationships with people
+that makes people not like us software people
+and so absolutely I think that this opens things up
+which is a big part of the world right now
+we met I think because of this
+that's not philosophy
+this thing where I was
+yes
+where people you know
+there's I guess the point is
+there's a lot of people
+a lot of young people who are doing this now
+who are in this world
+I mean it's a huge world
+and it's wonderful to be able to hold these things
+in the same way that we've been talking about
+all this other stuff that you can look inside
+you can't you know
+I think people are hungry for this
+and we tend to pretend like it's too sentimental
+or it doesn't matter
+but as you just explained it's part of it
+and it doesn't mean you give away all the linear stuff
+and all the you know kind of hard hard edge stuff
+criticality
+but you know you can also have that in there
+and it's really uplifting for me to see someone like you
+who has so much success
+and who is you know could be just one of those
+people who block it all out
+actually looking at it in a way that's balanced and real
+is there anything that we didn't talk about
+that you want to say
+or anything you want to be sure everyone knows
+or any websites
+or I mean of course I'm going to link to all your stuff
+but if there's anything
+no I don't I think you probably have the
+I mean the books are the easiest way into this
+I think most people come into this through the YouTube videos
+of the conference talks that are out there
+I don't think there's anything to try it and see
+if it works for you then great
+there's a whole new world of how to think about your software
+and how you think about your decisions in there for you
+and you know the book
+the book The Architect's Paradox has two
+actually it has two personalities
+one personality is to shine a light on this paradox
+that we all suffer from
+but the other thing you'll get out of that
+is as an architect it's an introduction to philosophy
+in a way that's going to be relatable
+because we're talking about software
+and we're talking about
+we're not talking about Plato blah blah blah
+we're saying Plato had this effect on software
+and you'll see yourself in it
+and you'll remember these things way more than
+than if you read Russell's History of Western Philosophy
+or something
+which I think most developers got to like page 30
+and it's on a shelf in their house
+or sorry most software engineers have got to page 30
+and it's in a shelf in their house somewhere
+this is accessible
+and it opens up a whole world
+a whole world that's that we're excluded from
+because of our educations
+and we don't have time because of our careers
+and it's absolutely fantastic
+and there's just so much to be gained
+not just in your software
+but in your life in general
+from reading this stuff
+and understanding the world around you
+and like you said a few times
+it's a way back
+it's a way back from the code
+because at some point in your career
+you're going to look up from the screen
+and you're going to realize
+there's a bit more going on
+than what we've been focused on
+so yeah I think we all feel that too
+anyone who's ever coded
+you can get so lost
+and it gets hard to touch reality again
+so it's good to have some paths back
+I hope you're also taking care of yourself
+it must be overwhelming for you right now too
+with all this
+There's a lot happening
+and to be fair
+I've brought it all on myself
+but it's exciting at the same time
+and my saving grace is that I live in Sweden
+and we don't take work that seriously
+and I'm about to take several months off
+for the summer
+and go north and fish with my family
+so we have that
+but it's good
+there's a buzz happening right now
+it's exciting
+Well thanks also to your wife by the way
+for giving you those books
+because you talk about her a few times
+as kind of the portal into all this
+so that's cool too
+just you know that's connected to love too
+Yeah it's almost her fault
+All right Barry
+well thank you for all you're doing
+and good luck
+and I look forward to the next book
+which I know is coming soon
+Yeah great
+Thank you
+All right
+Cheers
+Bye

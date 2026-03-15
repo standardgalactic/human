@@ -1,0 +1,732 @@
+There's a way in which play can help us with that question of what is it to be well and for
+things to go well. You need to break your own habits, you need to challenge those habits and
+step outside of your comfort zone sometimes when you feel safe to do so. That's where you get to
+grow, to develop. It connects very much with the literature on active learning and play in learning
+where there's this idea that what children are doing when they play is seeking out this sweet spot
+where things are not too difficult or too complex so that the children don't understand what's
+going on but nor are they so simple that the children have nothing to learn. We kind of lose
+this curious openness over the course of our development that we start out with as children
+that gets lost as we become adults and we get this idea that well we need to be serious. There's
+this constant falling back on habitual ways of engaging with the world at the expense of more
+openness, curiosity, exploration. So I can say cliched things about love but I don't think
+that's very interesting for your listeners. If you really believe them it is. This is how
+I would answer your question. Love is an experience of transcendence towards others,
+towards the world, towards nature and so there's a kind of self-transcendence that comes along with
+a feeling of love and a movement beyond yourself towards the other. You're open to awe and wonder,
+you're open to a fresh appreciation of what would normally be just seen as familiar and mundane and
+everyday. Hello everyone. Welcome to Love and Philosophy. This is Andrea Hyatt. Today I'm
+talking to Julian Kiverstein. He is a senior researcher in the psychiatry department at
+Amsterdam University Medical Center. He writes a lot about phenomenology, embodied cognition,
+active inference, predictive processing. You might have heard of his book Extended Consciousness
+and Predictive Processing, A Third Wave. He co-authored that with Michael Kirchhoff and today
+we are going to talk about play which is a very important word for so many reasons. Surprise,
+uncertainty, certainty, meaning, flourishing. There's a lot of things in this conversation. I
+did it when I was traveling and I'm a bit discombobulated. If you watch the video you'll
+see I'm in sort of a makeshift kitchen environment and something about being off balance I think
+actually helped us go to some new places. It took a bit of time. The first part is going to make
+people happy who want to hear about Karl Friston and active inference and predictive processing.
+The second half we go into more personal things or creative ideas. We talk about a museum called
+El Eco, which I should name here. It's a museum in Mexico City. We'll talk about four papers towards
+understanding play, its relation to active inference, which I've already mentioned.
+This conversation with Julian I had a while ago. It's been maybe half a year or more and I had
+talked with Karl Friston not too long before Julian and I talked. So there's a lot of references in
+here to Karl. You don't need to listen to that conversation but I just want you to know if you
+hear Karl that's who we're talking about. Also these kind of big terms if you haven't heard them
+before, active inference, free energy principle, predictive processing. Just think of it as
+referring to a theory about living systems which it proposes that we sort of minimize
+uncertainty about our sensory inputs by exploring interacting with the environment. We have an
+internal model of the world so to speak and that can all be controversial. This whole internal
+model thing you've probably heard me talk about quite a lot here. But the point is just to think
+of it as this minimizing surprise because actually surprise has a lot to do with play as you'll hear
+in this conversation and how we deal with uncertainty, how it develops throughout our
+lives, how our lives develop through play to some extent. Julian has written quite some papers about
+active inference and he has a different take on it than Karl so you will hear us talk about that a
+little bit here. He's coming out of more the ecological psychology side of things. If you
+remember my conversation with Harry Heft we talked about ecological psychology and this term
+affordances which doesn't mean they're good or bad it's just opportunities for behavior in the
+environment. Again you don't need to listen to all those episodes before now but there are a lot of
+threads that come from many of the other discussions I've had and I also want to mention the active
+inference institute which I've worked with and there's a video there between Darius who did
+quite some interesting conversations relative to active inference with many different people
+and he did one with Julian. So if you want to go into the really detailed nerdy side of
+active inference and Julian's writing about it and phenomenology then I will suggest that
+conversation and I will link to it for you. This conversation is a little bit lighter what definitely
+gets lighter about halfway through and we start really talking about how these ideas relate to
+academia, to our everyday life, to where we are right now in a lot of different ways. One thing
+I want to mention here is that we talk about safety and this space of safety that is necessary
+for play. I think that's an interesting idea that we think about here when we talk about
+playfulness and that playfulness is actually a driving force of creation also of survival.
+It's important for us even when we're adults and what does that mean especially within the realms
+and the walls of work and academia. So how do we have both of those at once? How do we not get
+stuck in attractor states? I think it was Tom and I talked about attractors a bit and Julian and I
+talk about it here through more of a medical or psychiatric lens of these attractors that we sort
+of get stuck in. Think of it as sort of looping around and around in the same patterns or habits
+and sometimes play disruption which is a part of play can you know jolt us out of that zap us into
+another place. I wonder about this idea of play especially in the tech world what it really means
+these days and there's a lot of change going on obviously and in that context this conversation
+makes even more sense and fills even deeper today in this moment. What does it mean for
+us to work together? How do we find meaning in those spaces, those work spaces? How do we
+find sensual ways of being alive, helping one another, getting through? You'll also hear Julian
+talk about how he was really influenced by another guest that was on here Evan Thompson.
+So another thread we even get to a question about love and how it relates to all of this
+surprise surprise it comes at the end. So today wherever you are whatever space you're in I hope
+you find a little time to play hope you make some space hope someone helps you hold that space
+or you find a way to hold it for yourself or you find someone to help hold the space for and just
+do something that lifts your spirit feel a little free free in your body as your body
+in the world just dance around we can all do that find a song you like or you used to like
+and listen to it and dance around don't worry if you feel silly that's part of it and if you sit
+with the silliness where you let yourself go into it a little bit you might actually find something
+strange and delightful happens all right here we go okay Julian so just to start how did you
+get into studying mind and why play? Yeah so how did I get into doing all of these very different
+things about the mind from the Varela Thompson and Roche embodied mind this is what I discovered
+as an undergraduate in the 1990s and it came across this amazing book the embodied mind
+and and it was giving me a way of thinking about how to bring together
+mind body and human experience and and as an undergraduate that was that was something that
+was fascinatingly I was puzzled by and here was a book that managed to tie together cognitive
+science Buddhist philosophy phenomenology and show how to connect those very different traditions
+to address this question of how to bring together mind body and experience consciousness and how to
+fit that into the physical world and and I was interested in Buddhism as well I hadn't really
+encountered phenomenology yet and then I I read this book and and it was bringing together it was
+addressing the questions of how to fit human experience into a scientific understanding of
+the world but doing that in a way that also connected to Buddhism so I found that very
+inspiring and all of my work I should say is collaborative so I love to work with other people
+and I find that I can write at my best when I'm in dialogue with others and so a lot of my best
+papers the ones I'm most proud of are ones that I've co-authored with other people and somebody
+that I've found very inspiring to work with is Mark Miller who is based at the University of Toronto
+and with Mark we've been we've been exploring like the the dark side of mental life by looking at
+uh major depression addiction and and at obsessive compulsive disorder with my colleagues
+here in Amsterdam and I work in a psychiatry department so we've been thinking a lot about
+how to to make sense of mental illness the experience of mental illness and what's happening
+neurobiologically and uh yeah the predictive processing free energy ideas as as you were
+exploring with Carl as well actually in relation to schizophrenia are very helpful for for providing
+a framework that can integrate the biological processes the psychological processes and also
+the the phenomenological side to mental illness it provides us with the formal tools that
+that really allow us to bring together these otherwise difficult to integrate strands of
+what is a very complex phenomena so then we started to think well could you flip this around
+and start to think about how things can go well for a person so not only thinking about
+how predictive processing can lead to people having what we call a suboptimal grip on the world
+but what would it be for predictive processing to be able to model human flourishing or
+people who are are happy people who are you feel like they're satisfied with their lives
+so that's like the the the big question that we had because you use predictive processing both to
+understand mental illness but also to understand subjective well-being or when things go well for
+a person in their life and yeah that's what then led us to think well maybe there's there's a way
+in which play can help us with that question of what is it to be well and for things to go well
+and when you were looking in both those cases when you're looking at something that we've called
+mental illness what do you think you're doing with with the FEP or with the free energy principle
+or with active inference are you trying to notice patterns are you trying to find a way to externally
+communicate about what you're noticing in these like how would you describe that to someone who
+doesn't really understand basically what i'm asking you is what is the what is modeling
+what do you think of that as there's two ways i want to answer that question the first is to
+to go back to francisco varela again he had this idea of creating what he called a a circulation
+between different ways of knowing the mind between a third person way of knowing the mind which is
+what we arrive at through doing science and through mathematics and through in his case
+dynamical systems theory which is what he was using to understand to formally understand how
+the brain works and then this first person subjective experience that we have of being
+embodied creatures in the world we have this these different ways of knowing different perspectives
+and we need i think the challenge in cognitive science as i see it one that you've seen beautifully
+articulated in the embodied mind is to create this circulation between these different ways
+of knowing there's lots to say about that circulation but what the free energy principle
+does is give us some formal tools i think for for um creating generative passages as varela called
+them between our lived experience and our neurophysiological neurobiological processes
+so mathematics gives us this kind of neutral neutral vocabulary with which to
+create this circulation between these otherwise different ways of knowing
+that's wonderful and maybe here you should say how your version or i don't know how to say that but
+your take on free energy and and this is a little bit different or is illuminating something in a
+way that people have found very helpful there's this debate right of realism versus instrumentalism
+or something like that where we think we can either describe the world or we can predict it
+and somehow there's this way you can't be both a realist and just think that theories are tools
+and i feel like you've shown or in your collaborations that there's another way to
+think about this the literal fallacy i think you and your co-writers the literalist fallacy
+yeah so maybe you want to for people who are thinking of active inference in a certain way
+what's important about your take on it that that you want them to know yeah so this is this goes
+back to the the model and the mac model map territory fallacy how to think about the
+relationship between the free energy principle active inference as a set of modeling tools
+and the system the target system that we're trying to model which is the embodied creature in the
+world and so you know i think the first thing i want to say about that is that it's important
+to think that the model is an abstraction or an idealization and so this goes back to
+your conversation with evan tobson recently and the blind spot that we shouldn't make the mistake
+of taking what is an abstraction and idealization and mistaking that for reality and i think you can
+find places in my writings where perhaps i'm not suitably careful about that so yeah but i think
+that that that my meta perspective on this is is always to start from human experience as what is
+concretely real and then we need to somehow bring that into conversation and dialogue with
+what we know about our minds from studying them scientifically so there's different ways
+of knowing here and that we need to bring into into dialogue with each other so what we might
+do then is well give some kind of literal reality to the free energy principle as a model and think
+well if what's being modeled is real so there really are these processes that are where there's
+prediction error being computed and there's predictions that are being made top down
+and this is really going on in the brain then there there must be this literal computation
+taking place in the brain the brain must literally be a computer and part of what we try to do is
+we'll say well that's that's one way of being a realist but we don't think that realism requires
+that kind of literalism about predicting the prediction error minimization or approximation
+of Bayesian inference instead we can think that the model is is giving us formal tools
+and those formal tools are mapping out some reality for us scientifically and so that gives
+us a way of being a realist about what science is doing but we don't need to think that the
+algorithms that are being computed here are ones that the neurons or the wetware of the brain
+is literally implementing we can think instead that that the models are more like fictional
+realities that allow us to do counterfactual modeling for instance of the brain so they
+are giving us knowledge of something real but we don't then need to impute them with
+literal reality these kinds of models what we're trying to do in the in our philosophy of science
+work on the on the free energy principle that gives us like a middle way i think between
+a very literal understanding of the free energy principle and a purely instrumental one like
+Ines Hippolito and Maxwell Rammstedt sometimes offer and in your discussion with Carl as well
+he he tended to use this formulation of well it's as if the brain were doing Bayesian inference or
+were minimizing free energy and that as if qualifier there is often what encourages people
+to be instrumentalists but the philosophy of science literature i think allows for
+a more nuanced position which is neither literalists nor instrumentalists so that's
+what we've been exploring Michael Petroff has a new book on scientific modeling that
+is coming out soon with MIT where he develops this line of argument further and so he's done
+a lot more thinking on this since we did that work yeah my view is a little bit different from
+Michael's probably that i want to be a bit more pragmatist i think about
+about scientific models and scientific explanations so the kind of realism that
+i would go for would be more about well keeping the the whole context of the
+scientific techniques that we're using the phenomena that are created by the use of those
+scientific techniques and being a bit more careful about what realism is exactly which
+takes us back to the the realism idealism the and the phenomenological pragmatist ideas that
+that kind of the foundations for my philosophical worldview as it were what's play where did play
+come in for you and what comes if we end up with play that's an excellent question it kind of grew
+out of our work on predictive processing and active inference in that literature you find this
+idea of of epistemic actions so actions that are for seeking out new information for resolving
+uncertainty and there's an emotional or effective dimension to those sorts of actions as well
+i've always been interested in how there's an action component to emotions but normally we
+think of that in terms of the like goal directed practical actions where say you're angry at
+someone and then you're you're ready to strike out at them or if you're afraid then your your
+readiness is to to run away but epistemic actions also have an emotional dimension to them where
+it's about curiosity finding out something new that's an important dimension of of
+prediction error minimization or active inference so we started to explore
+curiosity and yeah this was happening through work that i've been doing with mark miller for
+a long time about emotions and cognition where we think of cognition as embodied because of
+its connection with emotion and mark and i started to work on valence and then mark anderson our
+colleague in rs university found our work on valence and thought this is interesting
+it connects very much with the literature on active learning and play in learning where
+there's this idea that what children are doing when they play is seeking out this sweet spot
+where things are not too difficult so that or too complex so that the children don't understand
+what's going on but nor are they so simple that the children have nothing to learn so the children
+are always trying to seek out this sweet spot in play and mark anderson started to think or maybe
+we can make sense of why play is fun using our ideas about valence where the basic idea that
+we have is that valence comes from aerodynamics or from how error changes over time maybe you can
+just say what you define valence as i think a lot of people already know that term but just in case
+yeah so that that is an important question and there's ways of defining valence like all concepts
+but the rough idea is the the negative or positive feeling that accompanies an emotion so
+it feels horrible to experience fear or sadness so that's a negatively valenced emotion whereas
+happiness or joy those are positively valence so they have a feeling quality that is positive
+mark anderson saw this connection between his work on play in in development and the work that
+he was doing around just how children actively learn through playful explorations he saw some
+links between that that work and our work on valence thought might enable us to answer this
+why is it fun to play why do we enjoy playing it's fascinating because you think when people
+hear active inference and free energy principle on these these bigger issues that you're working
+on it sounds so in the head that you wouldn't necessarily connect it to play but as it turns
+out it's almost a natural place to look at what is being described absolutely well one of the
+challenges for for the free energy principle and active inference is the dark room problem
+and so why is it that the agents don't simply resolve error by hiding away in a dark room
+where nothing ever happens nothing ever changes right if you're just trying to minimize surprise
+wouldn't you just put yourself in a place where you're least likely to lose your breath
+but of course human beings are very attracted to surprise where we seek it out in all kinds of ways
+we enjoy roller coaster rides we like to go to places that scare us we enjoy horror movies and
+we're thrill seekers so and thrills thrills often involve surprise a mystery a puzzle there for
+anyone that thinks that that the fundamental imperative for biological creatures is to
+to avoid surprise or to minimize surprise i know it's hard to define play but
+what are we talking about really when we're talking about play yeah well that that is
+it is something very difficult to define but we think that creating situations in which
+agents experience just the right amount of surprise is one of the key features of play
+and so at least offering a cognitive theory of what play is and how to define play cognitively
+we would define it in terms of a kind of niche construction a modification of the environment
+where we are creating the these this surprise that is just of the right complexity for us to
+to manage it to learn something from it yeah i think you use winnicott this therapist psychotherapist
+writer donna and i think there's it's interesting to think of it as with children because we all
+understand what it's like to play as a child and winnicott has this great idea of the child being
+able to play in the space of safety that the mother holds there's this idea of what what you
+just said there's a there's a sort of niche that's been constructed that's safe that's a word you
+talk about in the work too and relaxed in a sense that you use and yet at the same time
+the child can engage in what feels and is dangerous surprising edge work kind of kind of thing so you
+have these kind of layers there's a risk there's always a risk in play but so you only you are
+only going to engage in play in situations where it's safe to do so and that's one of the things
+that we see in the animal literature as well so it's not just humans that play but also many other
+creatures but they only do it when they are confident that there's no danger there's no
+predators around for instance yeah and that's part in part why i brought it up because there's
+there's a sort of thread that maybe we can explore a bit with the play now because
+for me it seems a bit reading your paper or thinking about it that this space of play which
+is a place where you know you talk about as a trusted place or an intimate place or we already
+talked about the safe area it's a kind of place that's being held such that people can explore
+their edges explore uncertainty learn from those that's an important part of your paper that it's
+not only that you're pushing yourself to certain edges and courting uncertainty in a way but you're
+also watching your own reactions to that that's sort of part of it and learning from those so we
+have this this space that we open for each other like in the case of the mother there or the father
+opening that space so the child has it we also do it for one another at different levels social
+levels and so on and the others have studied this many people have studied something about play is
+very fundamental to our survival i don't know if you know stewart brown and this institute of play
+in the united states but there's you know you know well he's he's a doctor yeah i think you
+would like it but it's another take on this he worked with jane goodall and different people
+studying animals too and then also humans and pretty much showing that we need this to survive
+i mean i'm i'm generalizing so this space that you're studying and that you're using the free
+energy principle to study is incredibly rich and important for for flourishing but also for survival
+so why is that important or what does that give us in one of the papers you talk about how people
+who play there's certain sort of ways or characteristics they create within themselves
+a certain kind of attention for example or attendance attending to the world in a certain
+way and of course behind all that is meaning what did you feel that was kind of different here about
+trying to understand those big issues meaning flourishing in relation to play it's one of the
+features of play is that it's it's intrinsically motivating so let's just unpack what that means
+it's a obviously a technical difficult concept intrinsic motivation so part of the what we need
+to do there is understand the intrinsicness of the the value of play so what we mean there is
+that it's uh it's rewarding to us it's something that we experience positively not because of the
+outcomes of play necessarily but as an activity that's valuable in its own right so then well
+one of the puzzles becomes well why would this kind of uh play activity where there's no obvious
+goal no instrumental goal that we're bringing about as the consequence of our behavior why would that
+be something that we find pleasurable or enjoy so that takes us back to curiosity again there's
+something that happens in play that is valuable to us because it resolves on certainty of a
+certain kind so the way we make sense of this is to think of the whole kind of process of playing
+over time and how under the right conditions of safety as we already emphasized and children or
+animals or other agents who are engaging in play will create a kind of situation for themselves
+where they increase their uncertainty temporarily and then through the playful activity they find a
+way of resolving that uncertainty and so there's a kind of error slope here that we can we put this
+in terms of how to model it that we can use to model this kind of behavior there there's this
+rise and fall of error there's a kind of dynamics to the error and that dynamics is associated with
+positive valence we argue because the agent in the end is able to turn something that is
+unpredictable initially into a predictable situation that they can then learn from that
+they can then control in some way so is that process of turning an unpredictable reality
+into a predictable one that is enjoyable to us that motivates us so curiosity is is i would say
+motivating experience for for many of us and where what we're motivated to do is to
+gather information that provides some resolution of ignorance or something that we don't know
+we resolve that we're motivated by curiosity to to seek out information that will resolve that
+gap in our knowledge is there something about going through this in a safe space
+we're almost going through patterns or exploring new possible connections and regularities
+trajectories i would say or paths you talk about that some too and then does that give us so if we
+do that in a playful way what if we were to encounter that in our in life in other ways
+those regularities would we then have reduced our uncertainty in some way or what's the going
+on there it's almost like courting uncertainty such that we reduce uncertainty that's exactly
+what's happening yeah so there is something paradoxical about it so you're you're you are
+creating uncertainty but at the same time the motivation for doing that is so that you you
+improve your knowledge you improve your skills so why is that something that we we do well it's
+first of all it's a way to learn but it's also a way to grow and no play we can think of as a kind
+of niche construction where the child is creating around itself situations that allow it to grow in
+its skills that allow it to further develop in terms of its understanding of the world and how
+the world works allison gopnik a developmental psychologist she uses active learning models to
+to understand how children develop causal models of the world but obviously that's a that's a very
+cognitivistic way of thinking of what the child is doing in cognitive development we could equally
+argue that that in play children are improving their embodied skills and so that the the
+developmental value of play activities comes from this growth in in abilities and skills for
+engaging with the world and with engaging with the affordances of the world and what we've been
+talking about so far is how curiosity is a is an epistemic emotion that motivates us to gather
+observations sample information that will resolve reduce uncertainty so for carl the way to think
+about what affordances are is that they're they're opportunities for reducing uncertainty but we in
+our work following ecological psychology work in a slightly different tradition so carl and you
+were talking a lot about helmholz operating in the background of the free energy principle
+and so carl developed these ideas through his conversations with hintin and in the background
+was this idea of unconscious inference but i come out of a slightly different tradition
+the tradition of ecological psychology where instead of thinking of perception as this
+outcome of unconscious inferences that the brain is performing we think of perception instead in
+terms of this direct coupling with the affordances of the environment so affordances for us are
+wouldn't be understood in this information theoretic way that that carl was suggesting but
+we would instead think of affordances as structures that are directly perceived
+in the environment and so we think of affordances in a more relational way
+mm-hmm meaning and flourishing those are important for one of the papers in the trilogy
+there's a connection between meaning and affordances in that er gipsum wants to to say that
+the environment for an animal is always a meaningful environment because of what you can
+do with it because of the affordances that it offers so er gipsum will describe how we should
+think of the relationship between the organism and the environment as one of mutuality or
+reciprocity so there's a kind of relationality already implied in the notion of environment in
+that there there would be no environment if there were not animals with a particular form of life
+that that environment surrounds so what happens when you transform an unpredictable situation
+into a predictable one is that you improve your grip on the available affordances of your
+environment we got on to thinking about meaning in life and well-being by wondering well what
+would it be to have a prediction error minimizing agent that was managing to do this optimally so as
+to to flourish in their life and there's always a kind of normativity intrinsic to or value
+intrinsic to any behavior of a living being in that living beings are autopoetic they're
+they're self-maintaining self-producing in terms of their organization and that autopoetic process
+is then their intrinsic source of meaning and value in that you can now look at some encounter
+with the world with the affordances of the world and ask is that encounter one that's good or bad
+for the the organism in terms of this value of being self-maintaining being self-producing
+so the classic example of this is the bacteria in the sucrose solution
+now that's positively valenced for the bacterium because it's a source of food so something that
+can contribute to the ongoing self-production of the organization of the bacteria whereas if the
+bacteria encounter some acid in its environment then that's something that's bad that's negatively
+valence because it impacts on the autopoiesis in a negative way we had the idea that the free
+energy principle gives you a way of of modeling formally autopoiesis this is something that has
+been criticized i should say by evan thompson ezekiel de paolo and randy beer in a recent paper
+so it's not something that we can simply take for granted but a lot of the work that's been done
+by people coming from 4e cognitive science to the free energy principle has been motivated by this
+idea that the free energy principle gives us a set of formal tools for pursuing this idea of the
+continuity between life as describing a auto or autopoiesis is describing living processes and
+cognition so that idea of a continuity between life and cognition has has been a central idea
+that's been explored by philosophers that are working in what's called 4e so embodied embedded
+extended inactive cognition so just going back a little bit the idea of norms and values is kind
+of baked into into life because of because life is autopoiesis and then we started to think well
+can we could we then think about a richer notion of value and normativity that might connect to
+to flourishing and well-being and and try to make sense of the norms and values that relate to
+meaning in life and and well-being using these formal tools of the free energy principle
+what would that look like if we were to to think about in this more subjective way
+so not just being an optimal rational deliberator who maximizes utility or
+succeeds in being a good approximator of Bayesian inference but think of optimality
+in terms of how well or badly is a life going for a person and we found that actually the
+free energy principle can be instructive for for thinking about that notion of optimality as well
+I can explore that further with you but maybe you want to pause there because I've been talking for
+a while I would like to know what you found how it helped you I would like to know on the level
+you were already about to explain but also just if it changed something about your view of of play
+in of these issues in your everyday life so theoretically first of all and what we found
+was that because of the work that we had done on addiction and depression and OCD we saw that
+one of the features of those disorders is that people are intolerant of uncertainty and so there's
+a kind of rigidity or inflexibility psychological inflexibility that characterizes these conditions
+so that's very clear in addiction and OCD which are these disorders that are characterized by
+these compulsive behaviors so there's some kind of habits that you see that the person
+enacts that they have a strong urge or needs to enact in their lives but you also see this
+similar kind of rigidity and inflexibility in depression where people will have this very
+fixed negative view about themselves and their future where there's this deep hopelessness
+and meaninglessness that and so their thinking is is very shaped by their negative emotions
+and and there's some fixity or rigidity to the relentlessly negative view perspective on the
+world so that's we can think of in terms of this getting stuck in a particular attractor state so
+that the way that people with these disorders tend to find to optimally minimize prediction error
+is by falling back on these habits of thinking and addiction and OCD but also in depression
+that kind of trapped them into a particular way of perceiving and acting in the world
+LESLIE And play disrupts this, right? There's this word disruptive.
+LESLIE Exactly. So there needs to be something disruptive to get people out of these dysfunctional
+suboptimal ways of engaging with the world.
+You know it's interesting I just mentioned Stuart Brown and I'm remembering now that as you talk
+about this that he has written about I think the reason he got into play was that he was as a
+psychotherapist brought into a case of someone who was very violent who did some violent crime
+and he realized that they hadn't played they hadn't had any chance to play in their life ever
+as a child. I think they were also abused and stuff and he started finding this pattern with
+a lot of people that they and they became very rigid in the way that you just described with
+certain kinds of mental illness but there was this connection. So yeah in all these you're
+talking about the rigidity and it's reminding me in the papers you talk a lot there's playful
+disruption and that the space the safe space should have disruptive possibilities. Yeah how
+does that come in? STUART Disruption is very important. The way it comes into it is because
+what happens in mental illness we think or one of the things that happens is that there's this
+constant falling back on habitual ways of engaging with the world at the expense of more
+openness curiosity exploration and so that's what I described in terms of an intolerance of uncertainty
+that the way that the depressed person for instance deals with the adversity
+and that they've encountered is to keep things as certain as possible
+in their engagement with the world and so uncertainty becomes something that's deeply
+aversive and similarly in OCD you can think of the ritualistic behaviors that people engage in
+as a way of of keeping things as certain as possible because within those ritualistic
+behaviors you can predict what's going to happen you can you have good control over what's going to
+happen so are these people able to motivation for that are they well are they able to play or
+are they motivated to play no um because play as we mentioned earlier on involves the tolerance
+of uncertainty involves taking risks it involves setting up situations of uncertainty where the
+uncertainty is manageable enough for you to be able to resolve it eventually over the course of
+the game that you're playing can we set up safe places for one another do you think of this as a
+practice as play as something that could actually be helpful at some level of helping us to avoid
+certain rigidities that could develop into these kinds of things or would you just completely keep
+those kinds of ideas separate uh i think what you're asking is will could play be used in
+the treatment of people with serious mental illness um well on one level but i'm also
+asking as a society if we take it more seriously that play is important for example as we develop
+that we should encourage we should you talk you write about city some and creating safe spaces or
+places where you can be intimate and and that's not necessarily something all of us experience
+in our development so i'm wondering if if that could be helpful towards something in terms of
+the way we develop our patterns of how we deal with it could be helpful then so the the paper
+on intimate places that you're uh you've been referring to sometimes is about how an artistic
+space like an art museum or just museums more generally in public places can be uh places that
+we go to to find some kind of way of regulating our difficult emotions and so they can give us a
+way of de-stressing give us a place of in which we can find calmness and a place to reflect and
+that can be a way of using our these places in the environment that are set up for us these public
+places to to regulate our emotions so it's an example of what's sometimes called scaffolded
+affectivity in that these public places are being used to for us to to to well they're shaping and
+sculpting our emotions for us in a positive way in the example of the art museum yeah you write
+about el echo in mexico city which is a wonderful paper because you sort of walk us through it
+literally with words and and then with images too but the images don't come until the end but
+so i i encourage people to to read that as a kind of example there's what one thing that i think is
+an important bridge that we we didn't cover yet is the this dilemma that agents face between
+exploration of the environment curious exploration and exploiting or falling back on what we already
+know and so in your discussion with carl he talked a lot about keeping your options open
+and why that's important for free energy minimization and that connects with this idea
+of the maximum entropy principle so just keeping your different ways of interpreting your different
+hypotheses as uncertain as possible so that an only increasing certainty about a particular
+hypothesis when you have knowledge that gives you reason for doing so right so that's the idea of
+the the maximum entropy principle that gives you a way of forming these prior beliefs or prior
+hypotheses and an important idea there behind that maximum entropy principle is tolerance of
+uncertainty and so the they're exploring different hypotheses and that's something that children are
+naturally and very open to doing so going back to allison gotnick's work again she she shows that
+children will explore a broad space of different hypotheses in play and in order to to basically
+improve their understanding of the world so by being open to different perspectives open to
+different hypotheses or ways of understanding the world that then allows them to develop to learn to
+grow whereas as adults we we become then because of our extensive experience much more prone to
+stick to our preconceptions our formed ways of understanding the world and we'll only explore
+when we think there's something new to be discovered but exploration isn't like our
+default mode so we kind of lose this curious openness over the course of our development that
+we start out with as children that gets lost as we become adults and we get this idea that well
+we need to be serious we have to be productive citizens and our economic institutions and
+our societal institutions kind of encourage that through making money being one of the
+main motivators for people being a productive member of society that's something that we're
+we've kind of enculturated into but at the cost of of playing of being open and curious
+and so i think you're absolutely right well in what you said earlier that for us as a society
+for the collective of human beings to be well we need to create situations that allow us to
+be exploratory and to play and that's one of the things that museums do for us that's one
+of the things that art does for us or fiction stories cinema these are all ways that humans
+have because of us being cultural beings for creating these situations in which we can explore
+imaginary realities which we can play yeah that's what i like about your work too is
+i think we want to understand we want to have models of this and we want to understand it
+scientifically and philosophically in the most rigorous ways but also even while doing that you
+do bring in the art and the museum and you work with a lot of collaboration you said that earlier
+and it was something i want to wanted to to bring up because to relate this to play i i was we've
+been talking about children playing and the safety of that and the importance of development
+but it as i've said a couple times it doesn't stop with our childhood we still need it as adults we
+still need those safe places and i hear you saying okay that's what books are in a way
+a good novel is a space to be safe and try out edge work uncertainty look at how you deal with
+what you're reading an art museum do you see it like that too yeah so one of the questions that
+arises in in thinking about stories and why we enjoy them is it's always well you you know that
+this is not real what you're engaging with but still you're motivated to engage with it and so
+where does that where does that kind of what is it that we what is it that makes it pleasurable
+for us to engage with fictive realities and yeah and back to that valence thing that you
+brought up at the front and also that i one reason i wanted you to talk about realism
+and taking it too literal is there is something real going on when we read something like a novel
+and identify with it because we're bringing our regularities to that space and it's a real space
+it's just not real in the sense of that what we're reading really happened necessarily but
+i do feel like it's part of how you're trying to describe affordances as abilities and skills and
+the way you're talking about it's relational we don't really have the language to actually
+talk about this but when you go to an art museum and you play in this way or you read a book it's
+very much real in your everyday reality isn't it i mean definitely yeah so well one of the things
+that's real is is your embodied reactions to the to the artwork or to the fictional
+reality that you're reading about in a novel and so we can learn from engaging with fictions and
+engaging with art and how we're affected by those realities so why do people like horror films well
+because and they provide this safe space in which we can encounter these most horrific
+scenarios which of course hopefully a very low probability of us ever encountering them in our
+real life but still we can learn from engaging with those sorts of scenarios how our bodies
+respond to them what our emotional responses are and but there's also something profoundly
+disruptive about art and about literature and theater and that you explore beautifully with
+alvin noe and his idea of art as a strange tool and that what art does just like philosophy it
+gives us this way of putting something on display so that we can then question it challenge it
+break it even and transform it and so exploration can be this disruptive process play can be this
+disruptive process and that's something that is essential to us as to our meaning in life
+why well because questioning making sense of who we are is is a fundamental motivation for us as
+human beings and and and art philosophy literature they provide us with places in which we can engage
+in that kind of exploration yes on that note it's i wanted to ask you about your collaborations
+and so i'm glad you brought it up because i wonder about do we have a space for play in academia
+or is that should should it only be the subject that we're studying or is there a kind of
+playfulness because to be honest and what i really love about your writing your collaborations is
+they're often very deep in terms of you know there's a lot of substance but they're easy to
+read and they're usually a little bit playful there's something playful right and i i get the
+feeling it's because the interaction that you're having together is a joyful one is that does that
+ring true on any level definitely personally you asked me how does how do these ideas come back
+into my life and and certainly the collaborations that i have been involved with have been always
+with wonderful people and they've always been joyful experiences for me so i'm glad that you
+you see that in in our in our work and i think that's uh can there be a place for more play in
+academia and i think there should be more room for play in the classroom and so it's crucial that
+we create environments with our students in which they can explore these ideas and not
+just be thinking about the outcomes and the learning outcomes and and what grade are they
+going to receive at the end of it and rather it's necessary for us to to set up a situation in which
+uh students can take risks and can because it's in that way that you just seen that you can be
+curious and that can lead to uh creativity to finding out something new that you didn't know
+before so that said the classroom situation then as researchers is there room for play well because
+so much of what academics do is pursue these perverse motivations and you're getting a high
+number of research publications that are in the best journals and winning grants and all of these
+kinds of incentives that we have in academia often i think that creates exactly the situation
+that i talked about earlier of uh there not being room for a playfulness anymore it's just being
+this serious endeavor where we have to have these successful outcomes we have to be these
+successful researchers and that could be very narrowing yeah that can exactly lead to this
+psychological inflexibility so if academia is to flourish uh which it isn't at the moment i would
+argue then we need to create more space to find and wonder or in what we do through
+exploration through plays through creativity we need to create these opportunities for disruption
+and not just and well i don't think that we we create the space in which that can happen
+very often and in art colleges maybe but in science no typically not in philosophy typically not
+that's a very profound i'm just thinking about because it relates to so many different things
+about trying to create a safe space where people feel like they can explore uncertainty i mean
+that's that's not easy to do but it kind of circles back to why we need studies about why
+this is important and what this does because it gets into you know the how it gets built in to
+what's expected or what's part of of what the regularity it circles back to meaning in life
+again and flourishing and so you you were pointing out before that there's a connection
+with attention and playfulness and yeah people can attend playful people can attend to the world
+in a way that's more open and expensive i think that's a key point in your paper that's right
+yeah so this open effortless attention allows for a kind of freshness of appreciation as
+Maslow the humanist psychologist described it and so this continuous freshness of appreciation
+in zen philosophy this is described in terms of beginner's mind so the idea that you
+you know that you don't know which is also fundamentals of socrates
+so as long as you have this this attitude that you're a beginner that everything is uncertain
+and that creates a space in which you can you can explore that can create this
+and this attitude towards the world where you're open to awe and wonder you're open to
+a fresh appreciation of what would normally be just seen as familiar and mundane and every day
+but within that you can start to see wonder again you can start to appreciate it again and
+and but that requires this openness this curiosity and this exploratory
+traits and disposition for engaging with the world
+yes i wanted to bring up that attention or mindfulness comes in sometimes or that seems
+a very important part of this and also you said you know you don't think academia is working
+right now and i i would like to hear a little bit about that if you feel like talking about it
+because i do feel like the the way you described it we don't really have time for the wonder and
+the awe of it which is kind of weird because it's such a portal into wonder education you know but
+but it becomes hard because we we are we do get into that rigidity of we're doing this to get to
+here to get to here to get to here and we have to rack up these certain sort of points and i wonder
+how it's been for you too and you started with buddhism a little bit yeah i wonder
+what does all that bring up for you all those themes yeah well you know i've been extremely
+fortunate in my academic trajectory to having encountered along my way many people that have
+helped me and and and i've had a privileged academic my experience of the university
+where i've been on a lot of research projects collaborating with other people
+we've been able to create this freedom for ourselves where we are able to play and explore
+but that i have to be honest is a very privileged situation and so many academics are
+in a highly precarious situation where there they are you know uncertain in an extremely
+stressful way are they going to be able to sustain their families are they going to be able to keep
+going and it's a huge struggle for people and there's in your paper it's about playful people
+can tolerate more uncertainty or surprise but so can people in war zones right because they have
+to so there's that that safe space that we keep talking about is very crucial right and that's not
+often there in academia these days no i think academia is not a safe space for many people
+first of all and and the incentives that i've been privileged enough to
+to be able to serve through the people that i've worked with many people don't have that
+experience and fair and the result of that is that while they love what they're doing
+and that's the connection with love we all are in academia because we love learning and we love
+teaching still the price that they pay for that can be very heavy and can take a lot from the
+person and i think there's a lot of exploitation of vulnerability in academia so the price of
+doing what you love is often that you can be taken advantage of and and and i see that amongst some
+of my younger colleagues who are doing philosophy because it's something that that is at the core
+of what's meaningful to them in their lives but and they won't do whatever to carry on doing that
+because it's so valuable and meaningful to them but at the same time yeah their position in academia
+is is very precarious and and that has all kinds of knock-on consequences for their everyday life
+and their family life so it can be incredibly hard and so we need to think about how to
+create an academic system that allows people to flourish and be well and i think a large part of
+that will be changing some of the motivations and incentives that the system is organized around at
+the moment so that people do have their freedom to explore to create situations for their students
+in which their students can experience the wonder and awe of learning because they're
+now part of curiosity is that we then through coming to engage with the with what we don't know
+we arrive at insights and those insights are are often sources of wonder for us
+i was going to ask you about how you did this or what do you think has been
+is it just luck or has there been a guiding motivation or did you learn early on something
+about yourself or the world that you sought out collaboration or that you wanted to create this
+safe space because in a way everything we've been talking about you've sort of done that in
+your academic life which is a very rare thing not only you this all there's a lot of people
+that you're connected with and you do have the space that i don't even know exactly how to
+describe it it's not a playground because it's very real it's a kind of playground yeah we call
+it a material playground so in the work that i do with with the architects and artists we see that
+the spaces that they create as as material playgrounds or playgrounds in which to to
+explore philosophy but also the possibilities of art and how have we done that well we've been
+fortunate to have a lot of support from and the dutch government here where i'm based and
+from the european union so research grants have kept us going they've given us the freedom to
+to develop and to to to grow our philosophical thinking did you also go out of your comfort zone
+i mean did you play in the sense of exploring the edges and noticing how you responded to things
+because a lot of the people you collaborate with and you yourself it's very hard to put you into a
+category or put you into a box which is also unusual a bit in academia so does that relate
+at all to the playground the material play yeah it relates to us being unorthodox heterodox
+and that's part of being an interdisciplinary researcher that you're always working at the edge
+of different disciplines where they meet up so inevitably that's that's unorthodox
+is what academics do is that they tend to specialize deeply in on particular questions
+and then go deeper and deeper into those questions but the work that that i've been
+doing with my collaborators has always been inspired by this vision of cognitive science
+as a space where so many different disciplines like linguistics neuroscience artificial
+intelligence anthropology philosophy can all meet up and that that vision that people had of
+cognitive science i think is still is still one that is hugely important and valuable and we
+we need to to try to realize that vision of a space where all of these different disciplines
+can come together and when i see myself as a philosopher at the end of the day but
+a philosopher that is interested in in working in all of these other fields as well
+and that's something that was the beautiful thing that happened in the 1950s when people
+invented this field of cognitive science that there could be a space where all of
+these different disciplines would be able to meet up i should say psychiatry and psychotherapy now
+because those are are also fields that recently i've started to move into so we have a center
+that we've just started up in amsterdam with my good friend and colleague damien denise called
+the lemon tree center for psychiatry psychotherapy and philosophy so our aim is to bring together
+those three seemingly distinct traditions and because we think it's necessary to have all three
+really to uh to make any progress in thinking about the mental health crisis and what it is
+to be mentally ill but also what it is to be mentally well we need all three of those
+perspectives have you found are you are you a buddhist i'm the buddhist no i'm certainly
+inspired by buddhism and fascinated by it do you have any mindful practices like i think i remember
+you saying you did tai chi or something does that do you have any spaces where you
+where you play yes yeah yeah so one of the things that is a problem in academia is we're so
+dissociated from our bodies and i certainly found that in my academic experience that we spend so
+long sitting and thinking and writing and those are all great things to do but they're pretty bad
+for the body because they don't involve much movement so i go to aikido actually as a place
+where i find a way to to be mindful but also to move and also things like tai chi and qigong
+i think are also incredibly valuable practices for me as an as an individual but i think for everybody
+really everyone can benefit from them so they are places practices traditions where you can find
+a way to be present in your body in the movements of your body
+before we go i want to i want to hear a little bit about how you think about the word love it
+doesn't have to be in relation to play you said a little bit of it but i mean it might be going
+too far to think about all these collaborations or even when you first read embodied mind this being
+a thread uh love of wisdom or how does it connect to this motivating what got you into all this and
+what i still fill in a lot of your papers which is quite playful and joyful but there's there's
+something like what i would think of as love in it on some level but i wonder how you think about
+that or if you thought about that yeah so i mean i can say cliche things about love but
+i don't think that's very interesting for your listeners if you really believe them it is this
+is how i would answer your question i think that that love is uh is an experience of transcendence
+towards others and towards the world towards nature and so there's a kind of self-transcendence
+that comes along with a feeling of love and a movement beyond yourself towards the other
+and and what comes out of that experience of of self-transcendence is a well many things but
+certainly the wonder and awe that we have talked about already as something that we become open to
+through remaining curious and so for me there's a deep connection between openness curiosity and
+love in the um i think of the uh this movement beyond yourself which is characteristic of
+openness as already an attitude towards life towards the world where that's characterized
+by love and going back to Maslow we had this what we talked about as this freshness of appreciation
+where you can start to experience wonder in what in the ordinary in the familiar
+and for me i think again that is that's bringing an attitude of love towards
+the world towards what you're perceiving towards your perceived reality
+but that's um so love i think is something that we can is an attitude actually it's a way of being
+and that one fosters through creating spaces in which one remains curious and open to exploration
+that openness is for me characterized by love because it's um it's it involves this
+transcendence of the self this movement towards otherness
+that's beautiful i love that movement beyond yourself
+in a way it's what we've been talking about with play it also reminds me of exactly what we've
+been talking about yeah yeah there's a space that we open up in which we can experience love and
+yeah oh that's that's a good way to say it so it becomes a space where we can move beyond ourselves
+so to speak yes yeah when playing with others we certainly um so love involves playfulness i think
+yeah even though in a cot of the mother or the father letting their child play i think that's
+kind of an act of love that space that's held so the child can explore the uncertainty too that's
+almost like a literal example of that love being the space but also it reminds me of other things
+you've written and we don't have time to go into it but about consciousness of the way that we're
+always kind of have that beyond ourselves potential and somehow with wonder and awe as you've been
+using those words we there's there's something with maybe closer to what i was talking about
+with flow with carl or something where there is some space there where we we feel ourselves
+moving beyond ourselves in a way yeah so they are they are experiences of flow in the
+experiences of flow happen when we achieve moments of insight john for vacay has written a lot about
+this in his in his cognitive psychology research about how people experience flow
+at moments in which they have this feeling of insight and so feeling of developing or growing
+in some way and what comes along with those insights is often an experience of awe and wonder
+and there's something that's much bigger than us that we're now engaging with so that's that
+self-transcended moment of opening to something that's larger than us
+do you feel like in your best academic work in these collaborations that you've experienced that
+i relish those moments of insight that you can find with in collaborations yeah and that's one
+of the things that i think it's it's much harder to reach on your own but when you're in dialogue
+collaboration with others and in working through difficult ideas then those insights become much
+easier to access and and i think doing that in a spirit of openness is essential and
+and so that brings us back to to the the need for love again that entering into these collaborations
+with love is what creates that atmosphere of openness in which we can reach insights together
+and just allowing that orientation to be okay in academia that to exist creating a space for it
+yeah yeah i mean i don't think it's allowing makes it sound like it it can just happen whereas i
+think it needs to be an active process that you know that you make happen isn't some agency that's
+required yeah i think that's a good point although i've i've been i guess what i was thinking of is
+there's sometimes situations where it could come but people block it off out of you know that it
+shouldn't be in that space or something or it's embarrassing or no one knows how to deal with it
+yet because for the reasons we've been talking about we haven't practiced it or rehearsed it
+so much yeah well that's the disciplinary norms that come along with academia there's
+there's these rigid hierarchies and and old rules about how to do things and and though those have
+a function and a purpose and but they are also rigid and interrupting the possibility to create
+interactions collaborations where we're free and able to explore and play
+well i think one thing just to get from your work and and reading you is that that is possible
+and it does lead to good philosophy and science so maybe just making that explicit is something
+positive to do for for students and people out there to know that it's
+that's that's something to focus on yeah yeah can hopefully point the way to possible
+possibilities for others as well yeah other affordances for others create affordances for
+others absolutely it's quite exciting if you imagine academia through that lens what it
+becomes you know there's a way that academia could open to the spirit of that and still be rigorous
+yeah and maybe these kind of collaborations we've been talking about as a good portal or
+way of looking at how that might happen absolutely yeah well one of the things that we got to in
+thinking about well-being from through the lens of these different ideas of ecological psychology
+active inference inaction well one of the ideas we got to was the the need to find the right balance
+between falling back on what you already know and and being held back by that in a way because
+it provides a framework for your perceiving and thinking about the world but it also limits us in
+certain ways and being open to be curious and explore and seek out novel experiences that
+disrupt so you don't want to go too far in one direction or the other because if we're
+and always exploring and not relying on what we already know then and we just end up being
+confused and not understanding or being able to make sense of anything you need some kind of past
+or some kind of model or framework to work from to make sense of things but nor do you want to get
+stuck in your rigid preconceptions habits and expectations for how things are because as long
+as you just settle for that then you're you're trapped in these preconceptions and unable to
+tolerate any uncertainty and that's what we see in serious mental illness often so we have to
+navigate this trade-off between exploring for a novelty and exploiting the familiar and what we
+already know it just reminded me there isn't when you talk about that in one of the papers don't you
+talk about foraging and farming yeah so we that's in the paper on play that we we make this distinction
+between foraging and actively sowing seeds that leads to new discoveries which is the the farming
+metaphor so we think that plays is not just this foraging which is what happens when we're curious
+we seek new information that resolves uncertainty but the farming is the creation of uncertainty to
+learn from and that's what we think happens in in play but there's something that is crucial there
+also for flourishing and being well in that we have to be open to that possibility to be surprised
+we have to create that in our lives and that that means often being willing to put ourselves into
+uncertain situations to take risks to to not just get trapped in our familiar ways of doing things
+our habits but to be willing to break them to step outside of them to challenge them
+so yeah that i think is one of the key messages that i take in my own life and from from these
+theoretical ideas that i think could potentially be helpful for your listeners as well if they're
+thinking well what can all of this philosophical theoretical stuff help how can it help me what
+can it tell me about how to live well how to live a good life and i think one of the things we can
+learn is that you you need to break your own habits you need to challenge those habits and
+step outside of your comfort zone sometimes when you feel safe to do so because that's where you
+get to to grow to develop and being well living well living meaningfully is is in the end about
+creating these situations in which you can grow and develop that's a very good point i'm glad you
+added that it also makes me think of that explore exploit isn't a dichotomy it's that relates a bit
+to the conversation we're having about academia it's not either or it's both and yes very good
+yeah well yeah that's very good i think you wrapped up some of the open threads there something that
+was in the back of my mind to come back to you then but i love where we went that was very
+beautiful and moving actually and i think a message people need to hear so thank you for that that's
+great yeah yeah and looking forward to all of your future explorations as well that's great yeah my
+pleasure yeah thanks for having me my pleasure too thanks for for doing it i hope you have a
+good day there all right yeah bye oh see you bye

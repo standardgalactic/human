@@ -1,0 +1,1073 @@
+Holding paradoxes, you know, understanding each other lives as a
+thing of its own between us, right?
+So I think via geometry, we're trying to formalize that, right?
+And seeing not just that there's a perfect sort of like coordinated pattern,
+but actually one that's mutating in real time, spatially and temporally in our
+brains, and more importantly, in the sort of third brain that emerges between us.
+I think what geometric hyperscanning can offer us is to name, you know, the
+moments of matter and human connection.
+And by doing so we can make them tractable for care.
+Hello everyone.
+Welcome to Love and Philosophy.
+This is Andrea Hyatt and this podcast is about trying to hold what feels
+irreconcilable, trying to explore knowing from the heart.
+And these are mostly unscripted conversations with thinkers and seekers
+from all sorts of scientific and philosophic paths.
+And I'm really glad that you are here and that you are hopefully going to help
+us try to move beyond either or, or even figure out what that means, because
+we're all doing this together as we try to imagine a new philosophy of mind, a
+new philosophy of cognitive science, of understanding that sees paradox as a
+portal and sees what we've till now thought of as oppositional as maybe
+contrast that we can also see as somehow in a constellation with much more than
+we ever thought was possible.
+And I'm not the only host, you'll hear others, if this is your first time, it's
+usually me, but other hosts also come on.
+We think of this as a community project.
+So anyone out there listening who has a wonderful idea for someone they should
+talk to about the themes of this podcast, or someone, some one of us should talk to
+about these ideas, then please do reach out, send us an email.
+We'd love to hear from you.
+Today, our guest is Nicolas Heinrichs.
+He is a Chilean German biologist and cognitive neuroscientist.
+He's investigating how minds coordinate in real time through something called
+hyperscanning, which is a wonderful word, hyperscanning.
+And I'm going to explain that in just a little bit, but he's at the Max Planck
+Institute for Human, Cognitive and Brain Sciences.
+And you've probably heard me mention that before, because I was a guest
+researcher there for a while.
+And I also did my master's thesis as part of the, one of the labs there on these
+topics related to the hippocampus.
+So Nicolas and I are going to also be taking part in an active inference
+symposium, which is coming up pretty soon.
+So if you're interested in that and you'd like to hear more talks about hyperscanning,
+which is what we're going to talk about here, or about the hippocampus, which is
+what I studied, relative to some of the other ideas like kaleidoscopic cognition,
+which you've heard me talk about and which I know sounds a bit crazy, but isn't.
+Then check out the active inference symposium.
+I'll put the links below.
+Should be just a couple of days after this podcast comes out that you can watch it.
+Carl Friston will be giving the keynote and there's lots of great speakers.
+So this conversation is just to get you ready for that in a way, but it also
+stands alone by itself and we are also doing a piece on Substack about
+synchrony, brain synchronization.
+So have a look for that too.
+But today we're talking with Nico about hyperscanning.
+So hyperscanning is this neuroscientific technique that records brain activity
+from two people, two individuals simultaneously while they're having
+some sort of interaction.
+We're going to delve into the mechanics of that here.
+We're going to talk about brain synchronization and how that might
+reflect shared attention, empathy, our effectiveness, communicating and
+coordinating, and we're going to touch on some broader issues about, you know,
+how we bond relationships, different kinds of disorders, how hyperscanning
+might advance our understanding of what social interactions are and how this
+relates to various insights relative to philosophy.
+And ideas of participatory sense-making, which you have heard of a lot in this
+podcast and Nico's also working with a lot of these 4E cognitive science ideas.
+So you'll hear a lot of those themes resonating here too.
+We also highlight the potential of hyperscanning to maybe help us
+understand mental health better through something like holding paradox when it
+comes to how we're doing our science and what we're really thinking of as what
+mental is.
+This is a conversation that's really neuroscience related as some of these
+are, but even for those of you who don't know anything about neuroscience, I
+think you'll still find a lot of interesting themes here, which resonate
+with other episodes that we've had.
+If you are a neuroscientist and you already know everything about hyperscanning,
+you can go ahead and skip the next four or five minutes and get right into the
+conversation.
+Although you might want to think about this term geometric hyperscanning because
+it's something that Nico has come up with and it's an empirical neuroscientific
+method and there's no way I can completely describe it here because it has
+to do with Foreman-Rishi curvature and all these sort of topological
+reconfigurations.
+There are also other authors on that paper like Mal Aberaassen, who you may
+remember from this podcast.
+She's also going to be joining Nico and I on the Substack post.
+So anyway, I will put the preprint of their paper in the show notes if you
+really into that kind of stuff and you want to look at it because it has a lot
+to do with interbrain networks and entropy serving as a proxy for phase
+transitions and has some really interesting points about rupture and
+re-attunement and co-regulation.
+And if none of this is making any sense to you, don't worry, it hardly makes any
+sense to me either, to be honest.
+Even so, I think there's something really important and interesting here regarding
+the themes of this podcast, even if we don't all understand it perfectly.
+What is being said and all of these ideas about active inference and geometric
+hyperscanning and whatever.
+But basically, you know, we're looking at two, the dyad, even still in this paper.
+But I try to push us towards thinking about constellation cognition or
+cognition as a constellation.
+And Nico actually says he's thought about that before, too, and even thought of
+that word before.
+So that's cool.
+So what does that mean?
+So right now when we're dealing with hyperscanning, which I'll tell you about
+in just a second, we're usually looking at two different brains, a dyad.
+We're also looking at the alignment of those.
+But of course, misalignment or ways of layered alignment.
+If you think of it instead of just this linear either or it's either aligned or
+not aligned, actually the brain is, you know, multidimensional, multilayered.
+And the ways that we measure it are often choosing a little part of it to measure.
+But what if we could understand ways and places where the brain is aligned and
+other places where it's not and start to think of this in a more kaleidoscopic,
+there's that word, or consolatory way so that we can understand how different
+alignments or misalignments might be telling us something when two people are
+in conversation.
+So Nico's new method is, at least as I understand it, is designed to capture
+these phase transitions and how two brains coordinate in social, emotional,
+effective interactions.
+So that's amazing because it's going beyond this normal temporal synchronization
+and it's looking for structural changes in the actual network topology of the
+interbrain connectivity.
+So even though we're still dealing with two, two brains, this is a way of maybe
+thinking about it not as two, because as you'll hear him say, he's starting to
+think about the brain activity more as like a choreography or something instead
+of these snapshots of, okay, here are brains aligned and here are brains that
+are not aligned.
+So it made me start to think about almost like a dance or, you know, like this third
+entity, if you've heard that podcast that I had with Shea and Beck about the third
+entity, this kind of entity that comes when two people are in a conversation.
+It's like the third thing, which is both of them.
+And what if we could better visualize that with our methods, because that's what
+this is really.
+It's these, this, what we're talking about with the geometrics are our method, a way
+of doing something with the data that we get.
+So what if it could be like a kind of dance that we're watching of these two
+brains aligning, but also where they're not aligning, you know, do you see what I
+mean?
+So yeah, that's a little far out, but I think it's worth mentioning because we do
+touch on it a bit in the conversation.
+And who knows, maybe somebody out there is listening to this and they'll know
+exactly how to kind of create something like that, that will help us all better
+visualize this third entity that is the conversation, maybe not the conversation
+we're having with words or language, but that the bodies are having, that we're
+all having all the time with one another, that we're sort of co-creating one another
+daily with these ongoing bodily alignments and misalignments.
+As I was reading the paper, I was of course seeing it through my own lens and
+I was thinking, okay, well, this is like a way for us to start to look at these
+many dimensions of alignment and misalignment, not being necessarily an
+either or thing, you know, holding the paradox and all of these themes, which
+this whole podcast is built around.
+That's the lens through which Nico and I discussed his work a bit because he is
+also interested in these ideas and his other work in different areas of social
+interaction is already, I think, trying to do this to hold these seeming
+contradictions that, you know, misalignment and alignment in the brain
+seem like you have to choose one or the other.
+But in actuality, when we're in a conversation, there's a lot of alignment
+and misalignment going on all at once.
+How do we explore whatever that is that's going to let us understand those
+and hold those as one?
+And that's this kind of holding paradox idea comes into play there.
+But, you know, of course that is itself a kind of care.
+That's what we talk about here.
+It's, you know, really caring.
+Like why, why, why do we need to do all this hyper scanning?
+I mean, the point is to try to help one another understand these difficult
+situations we're in when we have relations with each other and with ourselves, you
+know, and that can be everything from mental illness to social issues, or just
+to maybe something that happens with you and someone you care about.
+And, you know, what's this alignment misalignment going on?
+Okay.
+So I know that's already way too heavy for a lot of you.
+So for those of you who haven't heard of hyper scanning, let me just
+talk about that for a second.
+Nico and I will go into it even more, but I just want to talk about how it's done.
+So basically you have these different ways of monitoring brain activity through
+like fMRI or EEG or functional near-Ephrared spectroscopy.
+I can never say that word right.
+FNIRS.
+There's all these ways, but just in general, you can think about, you've
+probably seen these ways that people wear these little like hats with wires on them
+to, to monitor their brain activity.
+That's one way, or, or in an FMRI.
+And that's what you'll hear Nico call these white tubes.
+You've probably seen them in the movies or fMRI machines, these big long white
+tubes that you kind of go into.
+That's what we're talking about with the fMRI.
+In any case, you're monitoring the brain activity of two people at once, and
+they're engaging in some sort of interaction, playing a game or doing
+something on the screen at the same time, collaborative tasks.
+Sometimes these trials are pretty constrictive in terms of like how the
+body can move, but a lot of this new technology that some of which I already
+mentioned is helping us do it in ways where we can move around a lot more.
+So it's getting better and better.
+But the point is you're analyzing the patterns of activity in the brain,
+whether it's blood flow or whatever.
+And you're seeing how those patterns relate between the two people, how they
+synchronize or how they couple between the participants.
+So it's a really fascinating technology.
+And we do find, you know, that it does synchronize in social interactions that
+certain brain regions do become synchronized between two people when
+they're doing activities together.
+So they can sort of align or almost mirror each other, or they just sort of
+become, you know, part of the same pattern, which is really fascinating.
+So this is helping us understand how our brains, our nervous systems,
+which are our bodies actually, they're not just these things in our heads,
+even though that's basically what, what we're measuring the activity in.
+It's actually a whole bodily thing, but we are coordinated together and we
+change each other's movement and we change each other's pace when we are
+in conversation together.
+So hyperscanning is pretty new.
+It was, I think it started in the early 2000s and more and more people are
+starting to do it.
+And again, it's just the technology is getting a lot better, so it's becoming
+easier to be able to do this.
+I guess it's important to mention that we are talking about neural
+synchrony.
+So it's, you know, patterns of neurons, which are all through the body, but of
+course, these are mostly being measured in the brain, becoming aligned.
+That's a little bit different than, you know, Jung's synchronicity, which I know
+a lot of you probably are thinking of that idea of Carl Jung's idea of
+meaningful coincidences.
+But these are philosophically like pretty different terms here.
+So researchers have speculated a bit about whether there might be some
+interbrain synchrony going on with what Carl Jung calls synchronicity or these
+meaningful coincidences, like when you were thinking about someone and they
+suddenly write you.
+But I'll just like put that on the side.
+You can think about it and maybe later I could write about how there might be
+some resonances between these ideas.
+But this is about the brain and about neural synchrony, about brainwaves and
+activity levels falling and rising together and patterns of cells firing,
+basically our blood flow becoming temporarily aligned, firing in
+coordination, so to speak.
+And it tells us about attention, about, you know, how we have conversations, what
+happens in our bodies as we're kind of taking turns talking, tells us a lot
+about perhaps about emotional resonance, empathy, joint action.
+Maybe you remember Fred and I talking about joint action and joint language.
+You know, there's a lot of wonderful themes and layers from other podcasts
+that could be explored through this method of hyperscanning.
+And in fact, some of the philosophers and scientists that we've had on are
+working with Nico to think about how this might be done.
+So it all fits together in different ways.
+And it's also interesting to think of in terms of active inference and Carl
+Friston's framework where, you know, you're trying to minimize surprise or
+prediction error and how this relates to with this synchronicity experience or
+synchronous experiences of the brain generating predictions about what's going
+to happen next and how when you're matching with someone, you might be more
+easily able to, of course, predict what they're going to do next.
+But all that's just kind of speculation and just a little bit of titillation, I
+guess, to get you to go watch Nico's talk at the Active Inference Symposium.
+But for now, let's just go into the conversation and learn a little more
+about hyperscanning.
+I hope you're all doing well out there and having a good November, that things
+are going your way, that you're seeing some beautiful fall leaves somewhere.
+I was just driving through the country.
+I saw some really beautiful leaves and beautiful colors.
+And it's a wonderful time of year.
+So I hope you find a place to enjoy it and be away from your screen.
+And, yeah, I send you a lot of good thoughts wherever you are in the world.
+OK, then time for some hyperscanning.
+Trying to speak, it's always been so hard.
+Yeah, yeah, I know.
+It's it goes both ways, though, because I was raised here in Germany and Spanish
+wasn't so I wasn't like raised by culturally from the get-go, because I guess
+in the nineties, some paradigm reigned for some reason with like not confusing
+children, they didn't speak Spanish at home.
+So we had German and English, right?
+But then when we moved to Chile, I had to learn it.
+And then suddenly I realized that like eleven.
+Oh, that's a hard time.
+It's a tough, tough moment.
+Yeah, critical phase.
+And so, yeah, then just then I mean, in retrospect, of course, I realized like,
+oh, Spanish is, you know, a hurdle of its own.
+Usually people say German is trickier, but Spanish is like, you know, it has so many
+times and very subtle pronunciations.
+So, yeah, I can imagine even more coming from Germany to like, it's a whole
+different kind of dance, isn't it?
+Linguistically.
+Absolutely.
+Yeah, yeah, yeah, yeah.
+Okay.
+Hi, Nico.
+Welcome to Love and Philosophy.
+It's great to see you today.
+Hi, Andrea.
+Thanks for having me.
+Such a fan.
+So we're going to talk about something we haven't talked about ever on the show.
+And that is hyper scanning.
+I don't think many people will know what it is.
+So just from the start, maybe you could help us understand a
+little bit, if you don't mind.
+What is hyper scanning?
+Yeah, my favorite topic.
+So it just means that we record to the brains of two people at the same time.
+That's sort of like the umbrella term.
+Then you can get like more nuanced in saying it's also people that are interacting.
+And we want to overcome in my sort of broader project, a couple of the
+limitations that I've seen in that type of methodology that belongs to
+social neuroscience, mainly in that the metrics that have been used and that
+have sort of like made up the field and sort of like make it stand for what it
+is nowadays, they're a bit limited in trying to point towards synchrony.
+So the coordination between people, but in a very sort of, let's say,
+simplistic way, right?
+It's like, if you think of interaction, it's not just that you move in the
+same beat and then that constitutes your relevant marker, right?
+But there's more factors, I think of it like more as a choreography, right?
+And so there you also have other layers on top of the beat, right?
+And maybe sometimes that loosens or tightens and definitely shifts, right?
+So we want to acknowledge all of that in this very novel type of methodology
+that is brain imaging, just simultaneously.
+So, and people that are, yeah, interactive.
+So for people who've never, don't know what brain imaging even looks like, I
+mean, are you just taking pictures of people's brains or, I mean, yeah.
+So could you try to set it up a little bit?
+What do you, what do you do when you do an experiment, for example?
+Are you a neuroscientist?
+Is that how you would define yourself or a psychologist or both or?
+I usually like to think of myself as a biologist.
+Biologist.
+Okay.
+Yeah, yeah, with a philosophical bent, maybe.
+Okay.
+So when you're doing these experiments, what does it look like just in general?
+Like if no one's ever seen it before, just describe the room.
+I think the most typical scenario would be a somewhat clinically looking room.
+So maybe, you know, all white or all gray or something like that.
+So kind of like very hygienic.
+And then if you want to have two people interacting, then you'll have sort of an
+isolated room for that within that larger lab where they can, you know, be isolated
+from external noise.
+So in the case of EEG, it looks like a shower cap with electrodes, usually 64
+placed through that cap.
+And then that one is really great in doing literally snapshots, as you're pointing
+out, but at a very high temporal resolution, right?
+So you can kind of get a video in a way.
+And then the spatial resolution will be a bit limited.
+So you will get the outermost part of the brain with that one mainly and not dig
+deeper into the volume of the entire brain.
+Right.
+And then if you move into other methodologies, that inverts slowly where
+you get like really static pictures.
+But maybe not maybe, but you trade that off with volume so you can see structures
+in 3D.
+So, yeah, it depends on what paradigm you're testing, whether you want to go
+with one or the other, but it's usually in that clinically looking room and you
+will have people wearing or being maybe inserted into a tube, which would be the
+other extreme of the spectrum of methodologies, namely fMRI, where they
+barely can move, but we gain this insight that's volumetric into their brains.
+So, yeah, you pick your poison.
+And you're looking at the brain activity.
+We don't have to get into how all that happens with the blood flow and everything,
+but we're looking at the brain and its activity.
+But hyperscanning is different because it's not just one person, which is what we
+all assume and what, you know, that's pretty much all I ever did.
+And that's kind of the norm.
+You know, you just one person.
+So how are these two people, how are two people, we're looking at two brains at
+once with the same stimulus or how would you describe?
+Yeah, yeah, that's a great question.
+So I think it comes in all sort of flavors.
+For instance, right now, we want to replicate a study made with fMRI that
+came out last year by Sebastian Speer from Princeton that explored interacting
+diets, so pairs, in somewhat naturalistic conversation, right?
+So imagine the tube.
+So you're basically immobilized, but you're talking with one another.
+You can't really see each other, right?
+Cause you're both stuck in tubes.
+And so that, that detracts from the ecological validity, we call it, you
+know, the fancy term to say like how representative of daily life that is.
+So we want to replicate that with a method that's called fNURSE, which is
+mobile and it still offers sort of a midway between EEG and fMRI in terms
+of spatial temporal resolution.
+So I was just describing to enhance that ecological validity that's somewhat
+limited in the published article on that project.
+So you kind of, yeah, as I was saying, you have sort of a trade-off, right?
+And in that kind of paradigm, we're basically saying, you know, if you're
+talking with one another, at least you need to be able to see each other, right?
+And then if you want to be even more naturalistic, maybe you can go
+into proxemics or haptics, right?
+People sort of like touching or like getting, getting closer or distant,
+more distance from one another.
+And that will certainly exclude already fMRI because you can't really do any
+of that within the tube, but then maybe you want to even move past fNURSE into
+EEG to be able to interact even more.
+So yeah, it really will depend on the limitations of the technology, what kind
+of paradigm you can even think of to undergo without risking to have
+too much noise in your signal.
+You can think of the oscillations like in a lie detector for the audience, you
+know, going like all over the place.
+And then that basically means that your data, once you want to do some
+calculations to make sense of it from a mathematical point of view, you can't
+because they're so spread out, so sparse out everywhere that you can't have like,
+you can't pinpoint statistically meaningful markers from that data.
+So you kind of have to leverage that.
+And what are you trying to figure out here?
+I mean, what's like, maybe we should talk about IBS or something because.
+Yeah.
+Yeah, we can just assume we're trying to understand how two people are in
+relation together somehow and what the brain activity is doing at the same time.
+And the main idea is we're two people in relation and we're looking at how our
+brains, what, synchronize, I guess.
+Would you go into that word a little bit?
+Yeah, yeah, absolutely.
+So that's sort of the hallmark metric of these simultaneous and
+interacting studies, which in a nutshell just means co-occurrences, right?
+So maybe that part of your brain is activated while that part in my
+brain is also activated, whatever that part is that we will skip that,
+the neuroanatomy for now.
+So what has been cool for the past 15 years to realize is that IBS, as you
+named it, interbrain synchrony has been shown to, so the co-occurrence of
+activations in areas during these experiments has been shown to be, you
+know, meaningful for a bunch of cognitive and interactive phenomena, right?
+Like for instance, enhancing just mere comprehension between
+two interacting parties, right?
+So that tells you already that there is some kind of interplay at the
+neurobiological level that is accounting for or is in part a meaningful
+substrate to the phenomena, right?
+But we haven't moved past that and I want to overcome just that simple
+synchrony understood as co-occurrences towards a more sophisticated mapping of
+each function in time and in space.
+That's basically the whole gist of it, right?
+It's not just reproducing canonic work that asks, you know, are these two
+individuals in sync, but actually are there patterns that change as they
+talk and move, perhaps repair, you know, during a misunderstanding, you know,
+that's going back to the analogy of moving beyond the beat, you know, which
+is like perfect coordination.
+Let's get it deeper into the real choreography, right?
+So that's basically what we want to do by making use of geometry to detect
+deeper patterns in the activations that we record with these electrodes.
+A few of the conversations here, like with the neuroscientists, back
+Todd, for example, and others, we talked about this kind of third entity idea,
+which I think relates very well here, right, to this synchrony.
+And that comes from dance where the bodies are synchronized, so to speak.
+I mean, in a way we can think of it in a really obvious way that when you
+dance, you have the music and you're sort of synchronized to the music.
+And so the bodies are synchronized.
+I guess we could think of the brain as, you know, somehow sync, you
+know, in sync at the same time, but it's wonderful.
+This is a great paradox holding for me because we all understand that in a way.
+And it can be beautiful to think, oh, we're having a wonderful conversation
+and our brains are in sync.
+We can't get into how limited all of this imaging technology is, but we
+decide what we're going to look at and we can look at what parts are going to be
+in sync and there might be so much else that's changing all the time and not in
+sync.
+Yeah, yeah, exactly.
+I love how you phrase it because it is indeed holding a paradox.
+I was just yesterday talking about the same topic and it feels like to me, like
+the intuition that I have with this, because I don't consider myself a
+philosopher, but some of the ideas that I've had to incorporate, so based out of
+need to make sense of, to make a deeper sense of the topic at hand, right, with
+everything that it involves from a philosophy of science perspective, I had
+been thinking of, you know, the agential cut that one makes and it's inevitable.
+So why don't we empower ourselves and, you know, own up to it and say, okay,
+this is the agential cut, you know, I'm not gonna discourse this away in a sort
+of neatly packaged paragraph in my paper.
+No, I'm actually gonna improve on the methods that are the, for me, the
+constituent part or one of the, certainly one, but maybe the core of what
+scientific praxis is, right?
+So holding the paradox sort of like motivating it all and I want to not
+dissolve that in just words in my, in my research, right?
+I want to, I want to, that potential of the paradox to sort of like shine
+through the entire research and so, as you say, we have so many limitations
+with the tech, but we can certainly try to make sense deeper of what we have
+with those limitations and I think, I think it's fair to say that, you know,
+hyperscanning is learning how to walk, if anything, you know, it's very, very
+young as a sub-discipline, let's say.
+It's not even a coherent discipline as of yet, right?
+That might even be a bit generous on my behalf because I like it, but, but it's
+not, you know, there's not even agreement on what constitutes synchrony.
+For some it's like areas in the brain, as I was saying before, for some it's
+spikes in the oscillations, which is a completely different thing to consider.
+Certainly related in the same locus, sort of neurobiologically speaking, but
+completely different measure, methodologically seen.
+And so I'm even like motivated to, to try to write, call everyone on the
+hyperscanning front to write a consensus paper, which most certainly won't have
+a consensus, you know, but that's the point of it, to, to sort of make a
+snapshot, you know, of I guess it would be next year, 2026, what is synchrony
+now for us and then look what, and then maybe in the future, you know, we can
+look back and say, oh, wow, okay, all of these assumptions wrong.
+And some of them may be held true.
+I think that's a, that's an interesting exercise to do, but I like the idea
+that you play the limitations of tech to the maximum, you know, and, and, and
+see, see what's left, you know.
+It's not that those things have to be either or either, right?
+I mean, there's also a way in which there might be many different kinds of
+synchrony, depending on where, what the experiment is, there might be a
+definition of secret synchrony that's very general that could apply to all
+those, but each experiment is going to probably have its own definition and you
+probably have to take whatever the experiment is as part of the definition.
+That, that still feels like a little bit hard to hold or does it?
+Yeah, no, I think that's, that's, uh, true for me as well.
+Um, I think you need to, um, for so many other disciplines as well, you kind of
+like need to be contempt with certain narratives or certain stories that can
+be also just standalone and meaningful in being that, you know, um, that's
+certainly progress and on its own, right.
+Right.
+But, um, I think in, in trying to, um, tackle something like interaction, um,
+especially so, cause in the future, I would like to, um, apply this, um, to
+mental health intervention.
+I think there's so many intimate nuances and, um, responsibilities also, um, in
+treating those topics, um, that deserve a more refined take and not just, you
+know, your one, uh, research article, right.
+But like actually a body of, um, frameworks that coalesce together to make
+it context sensitive, you know, ethically grounded and ultimately useful.
+Yes.
+And also you did a paper with some people who've been by Elena Koufari.
+And I know you've, you're working with Hannah DeJager and I know you've
+brought up Prisma in your paper and this, which is a kind of a different
+way of thinking about experiments too.
+You know, the way you described the experiment at the beginning, we could
+have a very different setup where, you know, you don't just have the scientist
+sort of watching pictures of brains.
+Maybe there's some way to think about what's going on there because that's
+what we really care about, isn't it?
+Like where, you know, you brought up mental health, these have very real
+implications, which with all this kind of talk and all these big terms that we're
+using, we can forget that all of this is actually towards the fact that in everyday
+life, interaction is so important and our health is so tied to it.
+So yeah.
+How do you think about that notion of synchrony in that kind of bigger way?
+I think, I think the main driver within that complexity for me is, is what I
+just mentioned in passing, namely the, the responsibility, right?
+If you have someone who's willing to seek a change that's good or foreseen,
+hopefully good for them in their life and you're reaching out for someone to
+take on that sort of co-navigation, right?
+Then there's a huge sense of responsibility there, right?
+It's not just whether your method is ethically grounded, but it's a personal,
+very intimate journey that you take on.
+So I think it's like only fair to bring together all of these complex considerations
+because the journey by definition, by default is complex, right?
+So I think it's only, you know, living up to that complexity, really the, the
+fact that, that, that it's, you know, complex, maybe to the point of
+being a little messy too, right?
+But that's what drew me to neurophenomenology.
+And within that, talking to, to different researchers, I think a lot of these ideas
+have resonated very well with Elena and Hane, who were introduced to me, by the
+way, by Nara Figueiredo first.
+So she was the first point of contact, I would say, for me with Prisma.
+She's doing very interesting work too, yeah.
+Yeah, yeah, yeah.
+Absolutely.
+Elena actually introduced me to her because they did a paper, right?
+Rather recently.
+Yeah, in Senteza recently.
+Yes, yes.
+And which I've always pronounced Synthes, but someone corrected me recently.
+Yeah.
+So I didn't, to be honest, I didn't know about Prisma until Nara introduced me to it.
+I had, you know, of course, read Linguistic Bodies, but I didn't know the
+core of Prisma as a, you know, methodology of its own.
+It's pretty new though, anyway, so.
+Yeah, that's true.
+And maybe fast forward with the three of us, the four of us, sorry, I was
+excluding myself, are trying to extend Prisma.
+So, which is basically a method, I'm probably going to butcher it if I
+try to explain it in detail, but let's say that it's a phenomenological
+methodology, right, for interacting groups and where the participants are
+considered co-authors of your experiment, if you will, right?
+And there's feedback loops where that assure that they have that role.
+And so we want to extend Prisma.
+It's one way of saying it into hyperscanning, or we could also say we
+want to expand hyperscanning towards Prisma, it can go either way, but
+basically it's a way of grounding the search for a method that's
+neurophenomenologically framed via the neural substrate.
+And I think the broader implication or aim is also to build on a science
+of participatory sense-making, right?
+To leverage all of these tools that have been coming up, but by these
+great researchers and sort of like pointed at neuroscience.
+Yeah, and this, I mean, for people who don't know, this is not
+exactly an easy task to bring these things together, and we're trying to
+find ways to really look at what's happening, you know, that we're not
+just in the lab and then we're in real life, or there's not just philosophy
+where we think about what mind and consciousness are, and then the way
+we study it in the lab.
+So this interaction that you all are having, I find really beautiful in
+that way, because hyperscanning is a great place to try to work this stuff out.
+It's got to be messy.
+And I actually just took part in a Prisma with Hanna in Austria not too long ago.
+And I was really surprised by it because I hadn't thought a whole lot about it.
+I'd heard of it through her work.
+Just briefly, for those who haven't heard, you really are the experiment.
+So I was the experiment with three other people and it's hard to describe.
+It's a very different setup from what I'm used to in neuroscience where
+everything is like you described at the beginning.
+So I love that that's even getting brought into the idea of hyperscanning
+and that maybe the technology has to kind of somehow come into that space, but
+also the philosophy has to kind of opens up another way of thinking about what
+science, the rigor is still going to be there.
+Have you had to hold those things in your work?
+Absolutely.
+Yeah, yeah, yeah.
+Yeah.
+And again, I really like this concept that you brought up, the holding
+paradox, because I think that's for me the maybe the second order sort of
+reason why or motivation of why to do this or why to attempt to do it, right?
+The primary motivator, of course, is care, right?
+But a second order one is that I think if we do not steer ourselves in holding
+that paradox meaningfully, then we will tend to gravitate towards what I call
+unnamed centers of attractions or attractors in a landscape of discourses
+as researchers, as knowledge creators, what has been called social materially
+augmented research.
+I think Tom Fraser from Akinawa has called it like that, right?
+Because we have all these tools to sort of like pinpoint at concepts and then
+sort of augment them.
+And I think the risk is that those centers that we cannot name can fill your
+own discourse of considerations or the considerations of your own praxis if
+we leave that unchecked, right?
+So I think that's why I think the becoming cherishing the holding the
+paradox, right, is I think important to me as a secondary sort of motivator.
+And a sanity check in and of itself, because if left unchecked, as I was
+saying, I fear that something else will trickle into your discourse or the
+discourse of your praxis, right?
+And I think, as I was saying before, in topics like these that deserve a
+specific kind of very detailed and nuanced view, that's crucial then.
+Yeah.
+It's wonderful you brought up care alongside that, because that's basically
+this show in a way is, I mean, I actually think what you described as, you know,
+holding the paradox or holding these contradictions, seeming contradictions or
+seeming opposite sides without trying to decide one is better than the other and
+without trying to like ignore one, you know, in the way you were talking about
+is a kind of care.
+I mean, you have to sort of, that is a space of care, which is why it's so hard.
+That also reminds me of other parts of your work where I think you're also
+through care, through affect and emotion, even if we want to put it in the kind
+of more scientific language, but I feel like it's coming from that space of care.
+You're also trying to hold these.
+And just to go back to that idea of synchrony, where it's not so simple, we
+aren't just holding this space where we all line up perfectly and everything's
+aligned. And so we all fully understand each other and that can be an image of
+it. But in your work, you're also always bringing in the tension and the rupture
+and the fact that the point isn't just to match to each other.
+As you were saying before, we're sort of aligning and how are we, you know, kind
+of moving through this together in a way?
+Can you talk about that a little bit? Is that important for you?
+What does that bring up?
+Yeah, no, that's great.
+I think the crux that I see in trying to
+create this participatory hyperscanning, if you will, is precisely overcoming
+these linear views of like the perfect mirror image in interacting parties.
+Right. And I think but I think it's very intuitive to see the benefit of
+recognizing that, for instance, misunderstandings, you know, under a perfect
+mirror image, they would be noise.
+Right. But it turns out there are signals, there are meaningful signals instead.
+Right. And in everyday life.
+Right. So why don't we operationalize them within our experimental paradigms as such
+instead of, you know, regressing them out of our math?
+So I think that's sort of been the crux in the sense of that's where I want to go
+at. We're not there yet, but that's also what I see as the core of what will
+constitute an improvement in how we do social neuroscience as a whole.
+And then based on that, I would hope to, you know, start decomposing different
+pillars, I would say, of interaction.
+Right. To see how, you know, the same way that we're saying, you know, there's
+no, you know, perfect mirror instance of these phenomena within interaction.
+You know, there's there's rather, you know, phase transitions.
+You know, you flip states during a conversation.
+You and so you need to think less about an average harmony.
+Right. Or a mean harmony.
+And you need to think more of transformations and say, you know, this is the
+imperative voice.
+I apologize for that, but that's just me saying, you know, I think that we should
+do this part of this whole relationality.
+We've talked about there's two.
+And so there's the self-navigation, which you might think of like we're we're we
+are ourselves trying to navigate through whatever is happening.
+But we've been talking about this relational thing.
+So you brought up some terms there and made me think of like a manifold or that
+everything can kind of be seen different ways, you know, according to what we're
+trying to study or look for.
+So does that relate to what you were saying about it's not just about, you
+know, matching to each other?
+Because I'm trying to get towards your geometric way of thinking about hyper
+scanning, because for me, when I was reading about that, it opens up more like a
+manifold or like a constellation instead of this linear kind of way that we've
+thought about it before.
+So because it might not be just a diet.
+It could be a triad or whatever.
+I mean, this generative systems, you know, come in many forms.
+So is do I read that correctly?
+Are you trying to kind of constellate what is linear?
+Absolutely. I think I might have used that word in the past, actually.
+Now, it's sort of feels like I didn't even know if it was a word, but I use it all the
+time. Yeah, I think I think at some time, at some point, I wrote something about
+cognitive constellations.
+Oh, wow. You have to send it, but it feels like I will.
+But it felt like a nostalgic echo, you know, I will dig that up.
+But yeah, absolutely.
+I think, you know, this goes back to active inference in an action, I think.
+So you co-predict and co-regulate.
+I would say that those are the, you know, respective take home messages from those
+frameworks for this.
+So, you know, understanding each other.
+It lives as a thing of its own between us.
+Right. So I think via geometry, we're trying to formalize that.
+Right. And seeing not just that there's a perfect sort of a coordinated pattern, but
+actually one that's mutating in real time, spatially and temporally in our brains.
+And more importantly, in the sort of third brain that emerges between us and we can
+see is a certain moment in time that we can, you know, describe neuro-phenomenalogically.
+Neuro-phenomenalogically.
+That's a big word. Neuro-phenomenalogically.
+Yeah. At the discourse level, with the proxemics, with the haptics, et cetera, whatever
+you choose to have in your multimodal paradigm.
+Right. And mix and match that with your neural signals.
+Then it would be certainly meaningful whether your network is perhaps more local or
+globally spread between us.
+You know, are we in agreement?
+Are we in disagreement that time, you know, and then it suddenly changes?
+So I think to me, that's the only, you know, or the most natural way to move forward
+with the current tech we have for that in thinking that, you know, if we assume that
+this is true, that we co-predict each other and at the same time, we're co-regulating
+each other and interaction is its own thing, then we need to dig deeper and not just
+take these snapshots that have shown us important correlations, but are limited in
+showing us these more mechanistic implications of these modalities.
+That reminds me, you write about time and temporal things a lot, you know, related to
+emotions, because what you just said on this whole constellatory cognition, often when
+we're communicating together, you know, we might be in sync in some parts, but maybe
+I'm, maybe I'm reliving something based on the words that you said.
+And I know you talk about something like temporal aiming where, so my trajectory is I'm aimed
+towards my past and I'm kind of thinking about something in the past and maybe you're
+looking towards the future.
+And so maybe there's a part where we're synchronized, but we're really aiming temporally
+in different ways, which can cause trouble.
+And that seems incredibly complicated to try to actually model in science and visualize.
+But I feel like you're trying to move towards that with the geometric idea or with this
+constellatory idea, right?
+We first have to kind of imagine it before we can start to model it.
+Is that fair to say?
+Are you thinking about that?
+Yeah, yeah, yeah, yeah, yeah, I think I think that's a fair description for sure, because
+these spaces are oriented, right?
+And so it was Mao who we've interviewed before, who came up with temporal aiming while we
+were writing our paper that got accepted, by the way, at the International Workshop
+of Active Inference.
+So we'll be presenting that in a couple of weeks.
+Thanks. And so I think it's a work in progress for sure, but we've already established
+that, you know, for our model, it will make it can only make sense if we take into
+consideration these as you exemplified retrospective and prospective orientations that
+you will have in holding the spaces of, you know, knowledge about the other and yourself
+in relation to the other during communication or interaction.
+So that'll be that'll be a big one to to formalize further and put to the test empirically.
+That's wonderful. I'm really excited about that and about just trying to think of, you
+know, even if we just try to think of this as like a landscape that we can always take
+many different paths and how do we visualize that and how do we, you know, even put math
+on that just to model it so we can all kind of look at it, you know, and and see that
+maybe we're not always in the same place.
+And I find that really inspiring.
+I don't know if there's anything about the geometric evaluation method relative to this
+kind of interbrain network stuff that you want to say here.
+I can just point people to the paper, but it is kind of a new way of thinking about all
+of this. Right. About. Yeah.
+How would you I know you can't summarize it.
+It's very hard. Most people don't even understand active inference, including me,
+probably. So even though I've studied it forever.
+So but yeah, like for people who, you know, are just curious, like what's different about
+this? What would you is it is it this opening of space?
+Yeah, I think it's it's giving us a glimpse into
+how it might be, you know, more biologically realistic,
+a realistically depicted account of
+interaction. Right. So it's it might in and of itself be
+its own sub-subdiscipline, perhaps in the future.
+Or as we're playing a bit around with with Elena and Hannah and Nara,
+maybe framed within participatory sense making or maybe,
+you know, our club, our collaborator Guillaume Dumas just came, just brought out,
+you know, a generative account of neurophenomenology.
+So maybe we steer it also more towards the machine learning
+side of things. The future, of course, will will show
+what ends up being the space of, you know,
+probabilities that that that ends up coalescing best with with a method like that.
+But I think it's fair to to to describe it, as you say, and sort of
+already from the get go, from its inception,
+it is intended to
+to be responsive and attentive towards the co-regulate
+co-regulation and co-prediction of beings.
+So I think, yeah,
+even if I do say so myself, I think it's it's a it's a promising avenue
+in regards to making interaction be lived up to in the lab.
+Right. Instead of just, you know,
+being explained away by, you know, your consensus on neuroanatomy
+or sort of relinquished from the lab entirely via
+just being limited to discursive practices
+that don't get to mingle that intimately with neurophysiological studies.
+Right. So it's a we're trying to to merge them or to integrate these approaches.
+And an advance, a fuller account of of interaction.
+And as we were discussing before, because of the importance
+that it holds in therapy or parenting, you know,
+even broader in society. Right.
+So that's that's I think that's the the general direction.
+Yeah, we were talking about, you know, holding the paradox or holding
+these seeming opposites.
+And if you can kind of visualize or imagine some sort of shared
+generative manifold that might even be Mao's kind of terminology for it or yours.
+I don't know who says it, who says what and what papers are where.
+But you can, you know, if we start having ways to visualize this,
+maybe we can start to understand that, you know, we might be sharing
+the same space and sync synchronizing and also experiencing that same space
+completely differently at the very same time.
+It feels really important.
+And it also feels important to other parts of your work when you talk about
+asymmetry or when you talk about neuroprotective rituals, for example.
+Right. Because, you know, another weird thing here is that every brain is different.
+So even when you're setting up the hyper scan, you really actually need to kind
+of be able to configure it completely different for every brain.
+So there's all these levels of this holding of paradox.
+But do you think that's a good way to do it?
+Holding of paradox.
+But do you see that connected to, for example, how you might help someone with
+who's struggling, you know, with mental illness or something?
+Absolutely. That's that's the entire sort of intention behind that.
+Now that you pointed out, pointed to to the neuroprotective rituals,
+that's actually a term I came up with very recently
+in our conversations with Mark James from the Okinawa Institute.
+Science and technology podcast.
+Yeah. A lot of our work sort of seems motivated by by similar sort of intentions of care,
+although our works don't don't intersect formally yet.
+So it's really interesting.
+We're all trying to reach towards each other, you know.
+Yeah, I agree. I'm trying to find each other.
+Yeah. And neuro protection as a whole, as a thing exists, of course.
+It's sort of a medical, technical term.
+But the neuroprotective rituals is something that we came up with,
+Mark, during our conversations.
+And it's sort of hinting at possible solutions to issues such as, for instance,
+chronic inflammation of the brain, which usually happens as a response to
+some external agent or, for instance,
+stress, which can be, as Agustín Iváñez showed last year, I think, in Nature,
+can also be produced by social inequality.
+So if you point your research at something like that,
+you can certainly try to help people and overcome
+the situation where, you know, the brain is just under constant,
+you know, disadvantage to not say, you know, under constant sort of pathological
+even influence, right, by circumstances that we all share.
+Right. So I think that's where the notion of like having rituals,
+which perhaps can not just recreate, but even complement and enhance
+therapies that are metabolite-based.
+So something that you ingest, right, or something that is sort of done to you
+as a passive client or patient, which is sort of passive is in the definition
+of patient, right.
+So something that you can, you know, actively seek.
+And so that's, I think, how we want to close the loop there in using
+interpersonal synchrony, right, as a more global sort of account of
+synchrony within which inter-brain synchrony is one of possible synchronies
+to entrain, you know, autonomic, effective cortical systems
+to be more adaptive against these stressors, right.
+When you were talking, for example, I was thinking of how lonely people feel
+when they don't seem to be experiencing the world the way others are.
+Right.
+You know what I mean?
+You know, whatever kind of, if you want to call that an illness
+or a misalignment or whatever, even though they are sharing that space.
+So rituals tend to bring us into shared space, I guess, right.
+But if we could also understand that we're coming into shared space
+and we're all going to experience it differently, it's not either or,
+then it could be really helpful because you don't feel so lonely
+because you're sharing the ritual, which is what rituals help us do.
+And then at the same time, it's okay that you're not experiencing
+exactly the same way as someone else.
+Like that becomes almost like a portal.
+Yeah.
+You know, I find that really exciting, right, to think about what that could do or help.
+Yeah, I think that's great.
+It sort of made me think of Michael Levin, who you've also had on the podcast.
+Who's also trying to open this manifold.
+Exactly, exactly.
+And for me, it resonates with ideas of his where, you know,
+I don't know where he said it, but he was speaking about intelligence, right.
+And how it is shared by definition in the sense of it being something
+or was it consciousness, regardless.
+He was speaking about how we as agents sort of tap into it, right.
+Almost as something that feels like, phrase like that, as if it's something else,
+right, or something beyond ourselves that we access to.
+But it's really just a way of saying that it's, you know, biologically realistic
+as a reality, as an aspect, right.
+And so I feel that when we talk about rituals,
+maybe people tend to think of, or one could read this as sort of an exercise of sociology.
+But it's, and it can.
+But I think it's not just that.
+I think it's saying that, you know, the space between agents
+is socially distributed as a biologically realistic thing, right.
+So I think that's where we're tapping in with the neural side of things, right.
+We're trying to understand how the unfolding inside of a system
+is indeed capturable in a meaningful way, right, by interacting agents.
+In our case, we're limited to diets, duos right now.
+But at some point, we'll definitely have to scale this up to collectives.
+But yeah, I think it's both, right.
+It's sort of the social biological view that all of these matters are distributed,
+hence the possibility of modulating their intrinsic dynamics by different methods, right.
+Not just the metabolite route in the institution, right.
+But other ways are possible too.
+And even just seeing the diet differently, you're already doing something there.
+You're not just assuming the diet.
+You're doing what you brought up at the beginning of, you know,
+seeing that you're using the diet, but you could be, you know, a constellation.
+And also when you were talking, I was thinking of that cognition or consciousness
+or that understanding that we've kind of tapped into it, as you put it,
+is also just kind of the tip of the iceberg of actually what cognition is.
+I mean, you know, when we become aware of it and when we're thinking about it,
+that cognitive light cone to, you know, talk about Mike Levin or something,
+that too is nested, right.
+And the same model could kind of help us understand that too,
+because it's quite a hard thing to really take in without going crazy.
+I mean, that's that old Fitzgerald quote, right.
+How to hold two opposed ideas in mind at once and still saying.
+But I'm hearing a lot of I'm hearing a lot in everything that you're saying.
+And I'm wondering about you and your path and how you got here.
+Like, how did your relationality, you know, how did you get here?
+Yeah, yeah, sure. I can try.
+It feels like I should, you know, start like autobiographically.
+But yeah, I think but I think that might might perhaps ease the narrative,
+the autobiographic part in relation to that sort of curiosity, I guess,
+and the loving to learn type of, you know, epistemic stance, I guess,
+that that I do, you know, perform on a daily basis.
+That was definitely, you know, scaffolded on top of, you know, what my parents or
+our parents, because I have a bigger sister, older sister offered us, right.
+They were really doing cool stuff, right.
+My mom, a cello player, my dad, a theoretical physicist,
+very open disciplines, but very focused disciplines, too.
+Right. So holding paradoxes.
+So much discipline and yet.
+Yeah. Yeah.
+But I think throughout that all of that discipline and like, you know,
+the learning to love, sorry, the other way around, loving to learn,
+although that also kind of like you, you find, you know,
+throughout all that discipline, you also find your desire.
+Right. And what do you want to apply this to?
+And I think that's also something that I talked with Mark about a lot.
+It's like, there's certainly, you know, episodes in life where you thought,
+okay, this is, you know, unacceptably, you know,
+under determined from the perspective of science.
+Something like, for instance, mental health intervention,
+where even one of one of my collaborators, dear Leonard Chilbach,
+admitted that and this is a term, a technical term, you know,
+that a lot of work in that area and cognitive neuropsychiatry
+is based on what's called referred to as a clinician's intuition.
+Right. So I think it's just not enough.
+Right. We need to double down and drill down, you know,
+on what is underlying all of this because of what's at stake.
+Right. And so I think all of that sort of curiosity
+that comes from a really nice place, you know, from my life history
+and a bunch of influences, I felt sort of, you know,
+that I had to direct it to something that actually matters
+because if not, then I feel that, you know, the exercise of critique
+or the exercise of traversing data spaces
+are both in and of themselves, you know, just stale.
+Right. But I think combined and geared towards something
+that is of benefit for someone else, that is sort of like golden.
+Yeah. It's interesting that I was thinking
+about therapy. I mean, of course, most therapists are doing their best,
+I guess, you know, but what we were talking about before,
+we're all coming from a certain path.
+So it's that same what you're trying to do with your work.
+I can see how it could help with that because if the therapist
+and the person who's, you know, in the therapy, if there was some way
+to understand that you're not just making your best intuition
+or that you are, but, you know, you're pinpointing that,
+you're saying that, and maybe there's some kind of resource
+for how to, I don't know what, try out different ways or, I mean,
+I guess what I'm trying to get at is, you know, these things are also
+kind of powerful in their immediacy, these kind of relationships,
+like with the therapist or, you know, when your mom,
+she probably practiced so much and it's so disciplined,
+but then there's this immediacy and the people just fill it.
+And it's like, you know, we don't want to,
+we also don't want to over structure that.
+So have you had, do you see what I'm saying?
+Do you ever feel that kind of tension where
+you want to let the magic happen too, right?
+That's true, yeah.
+How do you, I find that a very hard thing to,
+in this, what we were talking about with this, for example,
+participatory sense-making meeting, hyperscanning,
+how do you not over-determine it or under-determine it
+to kind of think about Hannah's ways of talking about love, you know?
+Yeah, yeah, that's so interesting.
+I think I would even, you know, content that we're in an era
+where that is actively being done, right?
+So you reduce mind to brain,
+you reify signals from the brain that's being read
+and used as a proxy to describe the mind, right?
+And around that, there's certainly, you know, forces building
+what I guess, you know, Foucault would have called,
+you know, biopolitics and Chan,
+Bill Chung-Han calls it psychopolitics,
+and perhaps we could call it neuropolitics nowadays, right?
+Where our attention and emotions, et cetera,
+are, you know, being commodified.
+So I think what you're pointing out is not just, you know,
+a question mark to, you know, contemplate,
+but to actually act upon, you know, definitely.
+And, you know, I'm not talking about, you know, futuristic risks,
+but, you know, something that we can actually trace, right?
+So I think maybe that will have to be studied in groups
+that have to do, you know, with regulatory frameworks and policies.
+Thinking here of something that's instantiated
+in perhaps in a legal way, right?
+But I think that's my way of saying this whole sort of perspective
+on how these, Emilius, these different spaces of knowledge about ourselves.
+It's not a question of whether they are connected or not, right?
+It's they already being made use of in a connected way, right?
+So I think we need to pay more attention to them.
+I don't know if that answers the question, but I went to that place.
+No, it makes sense.
+And somehow I was also thinking that maybe you learned
+how to hold these differences growing up the way you did
+with having the hard science and the art
+and maybe seeing that both had parts of each other in them or something.
+Does that make sense?
+Yeah, absolutely.
+Do you think that's helped you bringing this in?
+Yeah, yeah, totally.
+Because there's like this sort of functionalist view, if you will,
+like how things can actually matter on a math point,
+from a math point of view.
+But there's also the participatory.
+I think there's some flexibility that you need
+to traverse those perspectives, right?
+And I don't think either is the full picture, right?
+So I think that's actually sort of where I sit most comfortably
+in trying to juggle both.
+Yeah, you probably learned it in your existence as a kid.
+Because I've always found those worlds,
+people seem to think they're so different,
+but they hold similar constellations.
+They do the things differently,
+but both have kind of the rigor, for example,
+and the expansive soul part too.
+Yeah, absolutely.
+But taking those both seriously at the same time, as we've said, is hard.
+But just to kind of come back to hyperscanning just to end,
+I'm going to ask you an impossible question.
+Okay.
+How does this relate to the way that we do care for each other?
+Can something come from hyperscanning
+that helps us widen the circle of care?
+What do you really feel about that?
+Does it help us?
+Could it help us?
+How do you see it?
+Yeah.
+Yeah, great question.
+Thank you.
+So if we're holding the paradox,
+I think what geometric hyperscanning can offer us
+is to name the moments of matter and human connection.
+And by doing so, we can make them tractable for care.
+Do you have any kind of connections to love
+or anything about that word that you might want to share at all?
+Yeah.
+I think I'm feeling like I want to tell you,
+but perhaps not the listeners.
+That's fine.
+Okay, I can go ahead and stop it then.
+So then you can feel safe.
+How about that?
+Thank you. Yeah, that's okay.
+Okay.
+Hey, everyone.
+We stopped recording there and didn't actually kind of say bye.
+So I just thought I would say bye.
+Thanks for listening.
+And if you want to support the project, this endeavor,
+it would be much appreciated.
+Just sign up for the sub stack or do the buy me a coffee,
+which is new, but no one's used it yet.
+Or send an email and tell me what you'd like to see more of on the show.
+Whatever.
+Anything you can do to support this, help us.
+Would be really appreciated.
+All right.
+Hope you're doing well.
+Bye.

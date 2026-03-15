@@ -1,0 +1,1284 @@
+I discovered that I was taught not to care.
+We got a specific sentence maybe to summarize the drama of maintenance.
+That is to make everything go on as if nothing had happened.
+As if nothing had happened to whom?
+No house, no building, no nothing can last without some kind of maintenance.
+This is really closely connected to the theories of care saying that
+we all need some people to take care of us at some point, some day.
+Hello everyone, welcome to Love and Philosophy.
+This is Andrea and here we explore philosophical, scientific, technological
+and even poetic spaces beyond either or bounds.
+Today we're diving into a conversation about maintenance,
+which might not sound very exciting, but believe me it is,
+and also care and our relationship with the world, with materials,
+but also with all other sorts of relationships
+because it's all connected.
+But first I want to introduce this idea of STS,
+and also a person named Bruno Latour.
+Those of you who already know everything about science and technology studies,
+you can skip ahead a little bit, but for those who don't,
+it's an interdisciplinary field and it examines how science and technology
+are tangled up with all these social, political, economic ideas
+that scientific facts, for example, or objective truths
+are not in isolation from all these relations.
+It actually explores a lot of themes that we've talked about
+through something like participatory sense-making, for example,
+but it's doing it more from a sort of tech side
+and how it connects to this relationality
+and how we might think of it a little bit differently.
+And one influential figure there is a person named Bruno Latour.
+He actually passed away a couple years ago, maybe three years ago,
+and he was a French philosopher, an anthropologist, a sociologist,
+kind of hard to characterize, but he wrote this groundbreaking book way back
+called Laboratory Life in the 70s.
+I think it was even maybe the end of the 70s.
+Then he wrote another book called Science in Action,
+and then he wrote books like We've Never Been More Modern
+or We've Never Been Modern, not sure exactly, one of those titles.
+And this was part of how SDS became a discipline
+because it was rethinking labs and science and what it all means
+and even what objects mean.
+And there's a whole actor network theory, which he proposed,
+which a lot of you might have heard of or come into contact with.
+And it's sort of tracing how the associations between people and things
+create these patterns, which are stable and which end up being
+what we think of as like something like society, for example.
+So in this conversation, you'll hear us talk a little bit about
+this missing masses idea, and that comes from a famous essay
+by Latour called Where Are the Missing Masses?
+And in that article or essay, he argued that when sociologists
+try to understand social bonds or all these relations,
+they're sort of coming up short because something's missing.
+And what is it that's missing? The objects.
+So these material artifacts that surround us and that are, you know,
+always part of us from seat belts to the doors that we close,
+to the desks that we sit at, to all the tools that we use,
+which gets into sort of technology.
+These are all kind of like agents that are shaping us
+or that we're shaping, that are co-shaping our behavior
+and a lot of our responsibilities and the way that we're held together
+become tied to these objects or to these relations of artifacts
+might be a better way to say it.
+So this might remind you of something like Extended Mind, for example,
+where we really start to think of the objects as extensions of
+or part of or participants in all these other things that we're creating.
+And this is just more connected to the social fabric.
+But as you'll hear today's two guests discuss,
+instead of really thinking about objects in the way that they're presenting here,
+as you'll hear, the sense of maintenance, let's just say, is what's different.
+And we're going to get into that here, but not just thinking about the objects,
+but actually objects aren't even what we think they are.
+And the two authors of this book, which is called The Care of Things,
+which I read and I highly recommend, is Jérôme Denis and David Pondelia.
+Those are the two guests today.
+And Jérôme is going to introduce David and David is going to introduce Jérôme.
+So I will let you wait for that.
+But both of them are really accomplished scholars in different ways.
+And they've been working at very important research centers
+and universities in France and thinking about these ideas.
+They're founding members of various journals and groups of people who are really
+influential in teaching kind of engineers and people in technical systems
+and thinking about what a technical system is.
+So they collaborated on this book, but they've actually been working together for a long time.
+I think they say well over a decade.
+So they also have a relationship, which is itself important here.
+And they were actually working on A Small Sociology of Signage, which they did together.
+I think that's the English version in 2010.
+And that was about the Paris Metro system.
+And their partnership was this sort of collaborative ethnographic research.
+And it was in that research that they came upon this idea of maintenance and what this
+really means and rethinking care, the care of things.
+So this book that they wrote, which was published in French in 2022 and in English
+just last year, is a meditation on what it means to make things.
+And I'm publishing this around Thanksgiving in the United States because I was thinking
+about this kind of gratitude that's part of reimagining how things are maintained every day
+by us, by those around us, by various people and workers, and how a lot of the work that's
+important, whether it's in the education system or actually with the objects all around us,
+is a kind of maintenance.
+And this book is really beautiful because it kind of flips our attention and reminds
+us of that ongoing care, actually, that's happening all the time.
+And there's something really helpful about that right now.
+Wonderfully, they came to this because as they were studying the signage system of the
+Paris Metro, which is very beautiful if you've ever seen it, and they were actually looking
+at the writing of it, but they were thinking about the power of writing.
+It's capacity to organize the ways we live together.
+And as they were doing that, someone just sort of at the end of their research said,
+well, have you talked to the maintenance workers yet?
+And they were kind of shocked because they hadn't even thought about that.
+And so they went to talk to the maintenance workers of all these signs.
+And that completely changed everything they thought they knew about the signs.
+In the book, they write that they knew those signs in every detail by them.
+But then when they were talking to the maintenance workers, the people who cared for
+them daily to see them through their eyes, everything changed.
+It was completely different.
+And I don't know if you've ever really worked closely behind the scenes, maybe even at a
+restaurant or something.
+But you do notice that these when you're doing these daily work to maintain what other people
+take, not kind of for granted, or they don't really notice, you see everything differently.
+And there's something really interesting about that.
+And it relates to this idea of the missing mass that I brought up about Latour, this
+ongoing thing that's so obvious in every day that we don't see it anymore.
+Two people I should mention.
+One is Ukalis, which is an artist, which we talk about a lot.
+I'll come back to her in just a minute.
+But the other is John Oliver from Last Week Tonight.
+Check out the link in the show notes to a little clip from Last Week Tonight called
+Infrastructure, which we mention in this episode because it's this kind of parody of
+some of the things we talk about how, you know, whatever.
+It's not sexy to think about maintenance, but actually maybe it is.
+Some of the key themes that we talk about here are fragility in that way.
+And rather than celebrating just robustness and autonomy and all these things, there's
+something actually about fragility and ongoing maintenance and relationships and care that
+is actually really strong and not at all what we might think of when we hear the word fragility,
+for example.
+It's actually this wonderful paradox or this beyond kind of either or idea of the fragility
+of life and the care for it being actually what is maybe our strongest embodiment and
+our strongest reason for even being here and wanting to be here.
+And then, of course, we also talk about attention a lot because that has a lot to do with this.
+And this meta-attentional engagement is a big influence for them.
+The idea that nothing happens, but then everything is happening in that nothing, so to speak.
+It's sort of the key element and noticing it makes all the difference.
+And then maintenance versus repair is a big theme that you'll hear us talk about.
+So something breaks, you know, on a big scale and we have this big emergency and then people
+come and repair it.
+And those people usually end up being heroes or something when things have to be repaired
+in a sort of contrast, but actually not even only in a contrast, but a deepening.
+Actually, there's this ongoing maintenance, which is like the daily pulsation, I think
+they call it, this rhythm, this pulsation of attention and ongoing care that sort of
+prevents breakdowns most of the time.
+So it's odd that we have the breakdown, or at least when things are running in a certain
+way, which we hope will continue.
+We also talk about this invisibility and this missing quality, which I think a lot
+of us feel in different ways right now.
+And maybe this is an interesting way to put a finger on what is that feeling of this missing
+something missing or invisibleness that we need to see clearly again.
+Also, just a celebration, or they talk about thinking with maintenance workers and people
+that are doing this and how it actually transforms the way you're in the world.
+And UKLIS, the person I mentioned is kind of, she's basically an American artist who
+wrote this whole manifesto for maintenance art.
+And I really would suggest you look at her work, U-K-E-L-E-S, UKLIS.
+And she has this whole wonderful manifesto coming on the side of maintenance, so to speak.
+She says something like, I'm an artist, I'm a woman, I'm a wife, I'm a mother.
+I do a hell of a lot of washing, cleaning, cooking, supporting.
+And those are just sort of everyday things, but I want to exhibit them as my art because
+they are art.
+And not only her, she talks about other people who are doing these so-called everyday things,
+but actually those things are holding life together and they're very artistic.
+If you just put your attention on them in a certain way.
+Her masterwork is this thing called touch sanitation.
+And that was from, I think it was around the same time Bruno Latour was writing his first
+book, like end of 70s or early 80s.
+And she goes around and shakes hands with every maintenance worker or every sanitation
+worker in New York City and telling them thank you and just putting her attention on them
+and seeing them because they literally hold that city together.
+I just mentioned her work because we talk about it here but we don't ever explain it
+and it is a kind of thread in their book.
+Also this sensibility.
+A lot of the conversations I've been having lately, I think most of them I haven't published
+yet but you'll be hearing them coming because I have these conversations months before they
+air.
+And some of them I have the conversations and they never actually go public.
+But a lot of them are talking about touch.
+Instead of thinking about sight and vision and eyes all the time, a lot of people seem
+to be turning towards this idea of touch and the senses in a deeper way.
+And the sensibleness and sensitivity and tact and tactile.
+So you hear those words a lot or at least they come up a lot in the book and I'm pretty
+sure in our conversation too.
+The way things feel and touching them, repairing them, sewing, washing the dishes, taking care
+of each other, holding each other as a kind of care that's also like just daily sort of
+the way we touch each other.
+All of that is part of these ideas here.
+We're going to engage with that on different levels in this conversation and it goes even
+deeper in the book.
+There's a lot of beautiful examples.
+What I hope you get out of it is just thinking about when we think about this moment now
+that we're in wherever we are and about our future, then maybe it's not about being
+autonomous individuals only, but also this power that humans are so good at caring for
+each other.
+We actually we have this wonderful superpower of care and of allowing our fragility to
+bring us into much more strength and innovation and that that takes patience and humility
+and of course love and that those are actually powerful things.
+Those are powerful things.
+Humility, attention, patience, love.
+These are actually superpowers.
+I really believe that.
+So on that note, let's go on into this conversation.
+I hope you enjoy it and happy Thanksgiving.
+I'm really thankful for you.
+I'm thankful for whatever you do today that gives anything of love, humility, patience,
+or care on any level.
+Just know that it's important.
+Even if nobody seems to see it, it matters.
+All right, here we go.
+Welcome to Love and Philosophy.
+Thank you so much for being here.
+I was going to let you both introduce one another or introduce yourself as you see fit today.
+One another is a good idea.
+Here is David Ponti, who is a researcher at the French National Research Center
+and also a member of the Center for Sociology of Innovation from an engineer school,
+École des Mines, mining school in Paris.
+And this is Jérôme Denis, who is actually the director of the CSI in Paris,
+in the Mines School of Mines.
+I was actually there not too long ago.
+So I actually have a good visualization of your university.
+I was walking and going into the museum with all the beautiful rocks.
+And it's yeah, I loved it.
+I love seeing all those rocks.
+Wow, it was really spectacular.
+Just so you know, so I'm actually envisioning you.
+Okay, you have an idea of the kind of book.
+Exactly.
+So we're going to talk about this book, which I want to show the cover
+because I just love the cover.
+I mean, I'm sure there's different covers, but the care of things.
+Ethics and politics and maintenance.
+So how did you come to the subject?
+How did you come to one another?
+And how did you come to this subject?
+You can start anywhere with that, but I'm very interested in it.
+So one another, it's a very long story.
+It began in the end of the 1990s, actually.
+We were doing our PhD, not together, but we were on the same team.
+So we were quite young.
+It's more than 25 years ago.
+And maybe David can explain.
+He was working on scientific signature, co-authorships and stuff like that.
+And so progressively we decided we would do that, sign and do research together.
+And that's one of the outcomes of this decision made in, I don't know, maybe
+88, 89, 98, 99, maybe, probably.
+That actually fits very well with the care and slowness and over time.
+So did you want to add anything to that?
+Yeah, we cannot dive into all the decisions we did all along this journey.
+But at some point, very early, because of the topic of our respective PhD,
+so I was working on scientific authorship and on other things related to writing
+in organization and work settings.
+And at some point, writing came up as really a topic to investigate.
+And we did different research separately, but always talked about what we did separately.
+And at some point we came with a collaborative investigation in the early, it was in 2005 or 6.
+And then we really go into this urban science in Paris.
+Inquiry and we were really into the design and the production of those signs
+and how they organize and shape all the subway settings, all the corridors and everything.
+So writing has a powerful means to organize and discipline people into this area.
+And at some point in this investigation, maintenance really apprised.
+It was not part of the topic.
+It was not a decision to investigate, study maintenance.
+But it really came up from the field almost at the end of our inquiry,
+because we were in this meeting with one of our, let's say, the main informants.
+We were discussing all we did and if something is missing, and we were almost saying goodbye.
+And she, this kind of flash, and said, oh, did you went to the maintenance department
+and follow the maintenance guy? And we were, no.
+So it was a new start for the investigation.
+And at the same time, Graham and Thrift published a paper in 2007.
+The title is Out of Order.
+And so we realized how for these two years in investigation,
+one to design and the other one to maintenance about these subway signs,
+was not only a monograph, but it really relates to a broader concern in academia
+and not only in academia, but to different people, organizations, practitioners.
+And so the decision come here.
+After the maintenance present ourselves have something interesting,
+we decided to dive into it.
+And so we organized different panels and conferences
+to meet with different people we didn't know before that
+and discover different topics and objects
+and the way these scholars deal with the way they are maintained.
+So at some point we became part of what we call two-branded maintenance and repair studies.
+I think it's becoming actually a real world, it looks like.
+I mean, the more I look, the more I found, which is always a good sign.
+But I like that you came across this in a way that was a surprise.
+As I was reading the book, which of course is about maintenance of things,
+and we'll get into that, I did find myself thinking a lot about writing
+and about research and about the other topics that I imagine had led you into it.
+There's definitely a lot of resonance there,
+which maybe we can come back to or you can say something about any time.
+But you were looking at the signage or the writing of the metro signs in Paris,
+which are very special.
+And then that was a big project.
+And it was sort of at the end that someone said,
+have you talked to the guys that are doing the maintenance?
+And you were like, oh, no.
+And you went to do that.
+And then in the book, you say it changed everything in a way,
+like everything, I'm not sure exactly how you say it,
+but somehow everything that you had thought was different
+after you talked to the maintenance people.
+This is very important because this is maybe a specificity of this book.
+We are not philosophers, we are sociologists or STS scholars.
+But there is this idea that we needed maintainers to do philosophy in a way,
+to understand their own philosophical problems, let's say it like that.
+So maybe to put it in a nutshell,
+at the end, at the first end, at the face end of our investigation,
+we consider that the power of science,
+their ability to organize the world of wayfinding systems,
+and especially the Paris one,
+was, I don't know, the source of this power was immutability
+and omnipresence or the fact that the boards were standardized,
+the signs were standardized, heavily standardized,
+and they were made in a specific material, a very sturdy material.
+That was how a lot of people told us.
+So we were like very first Bruno Latourian, we were Latourian in a way,
+saying that, okay, it's immobile, immutable,
+and this is how they are so important.
+The first rounds we did with the maintainers,
+so we separated each other and one went with two guys
+and the other with two other guys for the whole day,
+for the first investigation in the maintenance department.
+And everything we imagined and we knew about science
+seems to be, yeah, not exactly like it is in the real,
+in reality or in the corridors or in the station,
+on the platforms and stuff like that.
+All the places, because they seem to be,
+these signs seem to be fragile, they change,
+they were not all up to date, they weren't here,
+there were things that were absolutely not in our picture
+in the first part of our investigation.
+And what changed at first is that we thought that we were wrong,
+that we were completely, I don't know,
+it was a misinterpretation at first,
+and so we said we have to put everything we knew
+and we thought about science in the bin
+and just completely start over our investigation.
+But thinking about it and reading about maintenance
+and really, especially reading about care,
+and we will go about that further, I imagine,
+but reading a work of Ann Marimol and the idea of versions,
+and progressively we understood
+that it was not that one version was the right one
+and the first one was the wrong one,
+it was that the idea of immutable high mobiles
+were performed by the fragile signs
+that were taken care of by the maintainers.
+So the idea that maintenance produces,
+generates the solid, completely standardized version of the signs.
+So we reconciled the two sides of our investigation eventually,
+but it changed everything because especially we were,
+really we were completely in depth with the first Bruno Latour
+and Madeleine Akrisch sociology with objects and artifacts
+and the idea that matter is important,
+matter matters in social relationships
+and generally when you say that in social sciences,
+you think of matter as something that resists,
+and you know people doing this,
+to say that matter is important in social sciences
+and in social relationships.
+And so we just, we progressively understood that
+the point is obviously matter matters,
+but also in terms of fragility
+and of people taking care of matter and of objects and of artifacts,
+which is not exactly very present in the first actor network theory studies,
+even if in the first Madeleine Akrisch papers,
+repairers, maintainers are present,
+they are not completely erased.
+In Bruno Latour's works, it's less,
+it's really, they are less visible
+and actually Susanne Lister wrote a very important paper
+in which she wrote that there is no reason to put aside maintenance.
+So she didn't really dive into it,
+but she insisted about that,
+discussing Bruno Latour and the sociology of door closer,
+a famous Bruno Latour paper.
+Maybe just to add a few things,
+that change is the way,
+because at that time we were not in the Center for Sociology of Innovation.
+The thing is that being Latourian, Akrischian,
+we were, let's say, into innovation
+and following different kinds of innovation and in writing practices.
+And so the thing that changes is to step aside a bit from innovation
+and understand how maintenance is related to it or not.
+The second, the other, not the second,
+the other thing that changes is the way
+that we make room for maintenance.
+And making room for maintenance
+is to investigate some parts of the world
+that are no more designer and users, just to be quick.
+To try to make it a little bit general,
+one thing that comes to mind for me when I was reading this
+and when I hear this is,
+there's a similar pattern, I think,
+that I've experienced in different areas of life
+and one that I think is very general,
+that maybe everyone would understand if I express it as,
+when I started studying neuroscience or science,
+I had this idea of it,
+which is, I think, comparable
+to the way you might have thought of those signs.
+It's a solid object.
+I think it fits with the Latourian concepts.
+It's solid or in a sense.
+And then the closer I got to it,
+what I would say becoming part of the maintenance in a way,
+the more I couldn't really believe in that.
+And it became much more complicated.
+And yeah, there was a kind of a rupture,
+which was leading to a lot of further insights,
+but also you have to recognize this fragility
+that I had been putting a lot on it not being fragile in a way.
+I don't know if that makes much sense to either of you
+or if that opens anything for you,
+but I just want to put it there for people who don't.
+Maybe I've never read Bruno Latour
+or how this opened out of a clear,
+either or sort of situation into,
+in the book you talk a lot about fragility
+and multi-sensory and multi-dimensions.
+It just becomes intra-related.
+And that moment seems like an important one.
+Yes.
+So first thing is,
+there is important connections with science studies
+and the first laboratory studies,
+which mean that people really observing how science is made,
+is concretely made,
+is a very good way to grasp and to understand this fragility
+and this processural making of, for instance,
+or Michael Lynch did at the end of the 70s
+and the beginning of the 80s.
+So one of their main gesture was to acknowledge this fragility,
+this heterogeneity of the science practices.
+But then the science and technology studies
+went with technology, the T of STS.
+And the discussion somehow was displaced
+around mainly innovation, as David said,
+and more large settings of discussing
+not the fragility of innovation.
+It's a bit like that,
+but the heterogeneity of the trajectories of any innovation
+to just to criticize the idea of
+you have research and development
+and then market studies and then users
+who adopt or not a technology.
+So the technology studies,
+in science and technology studies,
+did that mainly.
+And when they insisted on a role of objects and artifacts,
+it's like in material culture studies
+and in the first laterian text about sociology
+with objects and with artifacts,
+they almost forgot the fragility part of it in a way
+to insist that we live and humans live among artifacts
+which participate in the organization of the society.
+And this is what Bruno Latour called the missing masses.
+And he used to criticize sociologists saying that
+you are speaking about social relations,
+but only with humans.
+And this is completely stupid
+because humans couldn't do society
+if they didn't have any objects,
+if they were naked.
+And this is why we are not exactly like monkeys.
+So that's the first aspect of it.
+And this is why fragility and heterogeneity
+and processes are important in science
+and technology studies,
+but intriguingly not as much
+when it comes to discuss the importance
+of artifacts or objects.
+So that's the first point.
+So what you say about the fragility
+and the material heterogeneity is really important
+because this is the first thing that struck us
+when we followed the maintenance
+in Paris subway or subway
+is that they were dealing with the science
+in a very special way
+that is as something that is some things
+that were constantly transforming,
+that were constantly changing.
+And actually, of course,
+signboards for them were very important,
+but it was not only signboards.
+It was rust.
+It was the wall and the materials
+with which the wall is made
+and the materials of the signs itself
+and how everything interacts.
+And so it's not only fragility.
+I think fragility was the first thing
+that really struck us.
+I said, oh, they are not as solid as we thought.
+But then we discovered that
+what was very important for maintenance
+is this material transformation.
+And this is very important to us
+because they taught us in a way
+and they helped us to understand
+what Deleuze, for instance,
+or Deleuze and Guattari said about the craftsmen
+and the idea that these are the kind of people
+who are able to plug themselves into the flux of matter,
+which is something more material,
+so the flux of materials.
+When you read this, this is quite abstract.
+You can understand, but it's quite abstract.
+And when you follow maintenance, it's very concrete.
+It's exactly what they are doing
+and it's exactly their problems.
+They want to understand how matter reacts,
+how materials interact between each other.
+And this is really crucial
+to get these lessons from maintenance
+and to understand how they deal very simply
+with very huge problematic issues
+and philosophical issues.
+And I remember during our first presentations
+and our first communications,
+we met with Karen Barad in a conference
+and we did one of our first presentations
+about the signs that were fragile,
+that were broken,
+and saying that they are not as immobile and immutable.
+And she was very nice, but she disappeared after that,
+so we never met again.
+But she really, she went after our presentation
+and said, okay, you are exactly explaining very simply
+what I tried to explain to people
+and they don't understand.
+But this is not us, this is maintenance.
+And so, and I think it's very important
+because it's the way maintainers live in the world
+and the way they are experiencing material world
+that can help us thinking
+very crucial and important issues
+or yeah, matters, philosophical issues,
+philosophical matters,
+and even, of course, political ones.
+That's great.
+That's exactly what I was hoping to kind of start to unpack
+is it seems like this is what a lot of that literature
+was calling attention to, but not about objects,
+which is very weird in a way.
+It's almost like we had, we're doing an excavation,
+we could only handle so much.
+And now we can, now we're looking a little deeper somehow.
+It seems a continuance of,
+even as it has to kind of criticize a bit,
+which is interesting and actually part of, you know,
+the rhythm of the book in a way.
+So did you have anything you wanted to add there, David,
+before I go on or?
+I don't know, depending because you mentioned
+multi-sensory or everything
+and to follow up on what you said,
+I can add a few on that
+because to consider things or objects,
+not as much as table and with very clear boundaries,
+but as flows actually involve those kind of people
+to engage bodily with those things
+made of flows and processes.
+And we discover and they really,
+we learn from them how, of course,
+this is about noticing, noticing.
+And so the eyes and the vision, clear.
+There's so much about that.
+Maybe I can, it's not, I can skip a bit because it's obvious.
+They see the world, they see the thing,
+they see Jerome already get into a bit of it.
+But vision is always articulate with other senses
+and depending on situation,
+depending on the kind of things they are dealing with,
+it can be smelling, it can be hearing,
+it can be touching.
+Touching is really also another one,
+but one more time is depending on the settings,
+the kind of maintenance work that is involved.
+And so the point is that depending on configuration,
+we can make a kind of a hierarchy
+between the different bodily engagement
+and senses that are involved.
+But the point is not to have this kind of cartography.
+I don't know.
+The point is that this is always multisensory.
+And this is always something that involves
+different kind of part of the body
+that is clearly related to rules and objective
+because those people come with,
+they are mandatory to the situation.
+They don't come when we are in professional
+and organizational setting, of course.
+They don't come just to see or to smell or no.
+This is mandatory.
+And in advance, they must know or imagine
+or anticipate what they gonna see, smell and do.
+But what is very important in this multisensory aspect
+is that it's on one part to confirm
+and to go into what the rules and the framework actually
+already organized and framed.
+But by multisensory involvement,
+they are also open to surprises.
+What our men, what the rules already anticipate,
+what come up.
+And this is part of very of their expertise on this part.
+Yeah, it's a bit cartoonish of me to say this,
+but in reading the book,
+you can kind of imagine that you go back into the body
+when you start to talk to the maintenance people again.
+I'm exaggerating, but it's almost like it's all in the head
+and it's this kind of thought experiment in a way.
+And then it becomes really bodily and the senses.
+And it's interesting the movement that comes there in the book,
+and you can correct me or whatever
+if this doesn't make sense to you.
+But to me, it's hard to talk about,
+which is why I wanna try to talk about it.
+But it becomes more mundane in the sense,
+every day kind of way.
+In the same way I was talking about science.
+It's this thing that seems wonderful and perfect.
+It's this object that's there.
+And then it becomes a process that's sensory and embodied,
+and it becomes so rich.
+And at the same time, nothing happens in a way
+because it becomes so consistent all the time.
+What does that bring up?
+I know that's a lot, but it's messy.
+I'm just trying to see how we can get into this
+because it's not a very clean cut.
+It's fractal.
+No, it's very important.
+And I think it's really crucial of the question of the maintenance.
+And maybe, but we can address this question maybe later,
+but it's maybe the differences
+between focusing on the repair and focusing on maintenance.
+So there is this idea that there is a very concrete bodily commitment
+and the senses are really important.
+The first aspect is that it's also the case in settings
+where maintenance, operation, interventions are equipped with tools
+because of course you have a lot of maintenance interventions
+that are equipped with things to look throughout something,
+for instance, or with sensors and stuff like that.
+But you cannot do without bodies, and this is super important.
+Actually, even the high-tech tools that are used nowadays
+are in tension with the importance of the body and the senses.
+And you have really interesting situations
+nowhere in which maintainers resist too high-tech tools or instruments
+to keep their expertise and their bodily expertise and their sensory expertise.
+So this is important.
+That's the first aspect.
+But then it's again and again,
+and this is what Miallola d'Armanioukeles,
+the artist, the conceptual artist, we discuss with all along the book.
+And she was on the cover of the French version of the book,
+one of her performance,
+say it's something that you do every day and you have to do again.
+And a lot of people actually participate in doing.
+So it's unnoticed, even if it's not completely invisible.
+It's mainly unnoticed.
+So it's something that is absolutely not in the foreground of our experience,
+most of people's experience.
+So the idea that it's a background activity, a repetitive one,
+and sometimes really not as fun as that to do,
+is super important to us because it's still an expertise
+and it's still something that not everyone can do.
+And it's not as easy, and this was also important to us
+because when we got into the subway stations with the maintainers,
+we discovered, for instance,
+how they are able to pay attention to things
+that we didn't notice at first at all.
+So we weren't able even to look at things correctly.
+And of course, we were not able to touch things
+and to understand what was happening here
+and what should be done, of course.
+But still they do that every day.
+Their pay grade is not great and it's kind of a dirty job,
+something that is made by people, mostly racialized people,
+men mostly in urban settings, women at home.
+And this is part of all this question of invisible work in general.
+So somehow, and we are really connected to UKLS work
+and all our performances.
+Our idea was, how can we make this expertise,
+but very mundane expertise, matter?
+How can we take maintenance into account?
+And in a very large sense, because into account in our stories,
+in the way, for instance, we explain the relationships
+between humans and technologies, for instance,
+but also take maintenance into account in accounting practices
+and in prices and in salaries and in all these important aspects,
+which is not detailed in the book, but is part of what we do
+and how we also talk to people and other kind of research we did.
+How can we have a fair price, for instance, for maintenance?
+Because of course, these activities are mainly the ones
+that are considered as costless or not.
+They are undervalued in most of situations, not all of them,
+but in most situations they are undervalued.
+So the idea of bringing to light these expertise
+and this bodily expertise, which is still mundane,
+is super important to us.
+One phrase that's coming to mind is the one about normalcy.
+They're taking care of normalcy.
+And I was even thinking about how much of the most important jobs
+from teachers to maintenance workers are doing that
+because it's so consistent and so important, overlooked,
+which is part of that weird paradox, too, that comes.
+But you raised this point about...
+Well, there's a couple of things hanging in the air,
+like ukulele or ukulele, because that's so rich
+and it's weaving through the book.
+But the idea of innovation and development
+and also the idea of there being a difference
+between repair and maintenance...
+Well, first, David, if you want to say anything about the other,
+did you have any comment?
+Yeah, we got a specific sentence
+and maybe to summarize the drama of maintenance,
+that is to make everything go on as if nothing had happened.
+And actually, as soon as you followed maintenance,
+actually a lot of things happened.
+So as if nothing had happened, to whom?
+And clearly, this is one of the clear distinctions
+we try to underline between maintenance and repair.
+And so to put up what you just said about ukuleles, maintenance.
+She really into maintenance and the mundane,
+repetitive, boring activities.
+And at some point, repair...
+Well, the distinction I'm going to dive into
+is not on the reality, it's more on the approach
+and more on what you put forward and backward.
+So the two words do not refer to different realities.
+They refer to the same, but depending on
+if you switch on the forefront maintenance or repair,
+you got a very different picture of what you are describing.
+So maintenance, this is really, okay, repetitive, boring.
+And actually, most of people are involved at some point in it,
+doing the washes, you know, knitting different clauses.
+So it's a very different situation
+and made on a very regular, mundane, and let's say boring rhythm.
+And a continuous one.
+Repair is, in this contrasting attempt,
+is more a clear-cut activity that come after something broke,
+after a kind of event.
+And this is another event that responds to the first one.
+You got repairer that come in front of the scene,
+in action films, you got all those kind of very famous actors,
+of course, men with muscles and everything that save the world.
+So I just underlined too much, but just to explain the thing,
+you got one event and repair is another kind of event that repair,
+so that bring back to the thing, the situation, the institution to order,
+to normalcy, as you just mentioned.
+And so this is really something that is binary,
+contrary to maintenance, that is continuity.
+And you got these kind of different kind of actors
+with, let's say, heroes or people that save the world or the situation.
+And in maintenance, it's a notice and ongoing activities made by regular people,
+just to contrast too much, but to make it...
+No, it's great. There's these layers.
+And I think it relates a lot to time and to attention,
+to noticing all of these things that you're layering and that we're trying to talk about.
+So there's this way in which things go on,
+and we focus on development or innovation,
+maybe because it's so every day and so overwhelming to be aware of all the time.
+There's a lot of reasons, maybe.
+But then there's a rupture and something happens,
+like we have an emergency and something has to be repaired.
+And then everyone focuses on it.
+And those people doing the repairing sort of become the focus.
+And that's often maybe confused with what we've been talking about here.
+And I think when it comes to the noticing and to the time and to the care,
+this matters a lot.
+And also to what Jerome was saying about this isn't just...
+This is in all kinds of areas of society.
+In a way, we're talking about approach to the way that we are living too.
+And what we prioritize as people living in different places at different times.
+So I just want to bring all that up, all those layers.
+And I think maybe we could...
+You can say whatever you want to say, both of you.
+But then maybe we can talk about an example or more than one example.
+The yesterday to...
+What is the news?
+Yeah, no, we have several stories.
+Maybe we can start with one of our hero, quote, unquote.
+He's John Oliver.
+Because we use a lot of performances from UKLS.
+But we also use one particular episode of Last Week Tonight.
+A late show from John Oliver who we love really because he's super interesting.
+And his team is really a great team.
+Between thorough investigation and sketches and jokes.
+And so he has, in 2015, he did this episode about infrastructure.
+And actually, it turned out to be an episode about maintenance.
+And he said, it's very hard to understand how much maintenance is invisible or unnoticed.
+And how much is important.
+And he said, if you want to understand that, you can just imagine a movie.
+And a movie about great catastrophes and great breakages.
+And where you have these very famous actors who are playing the role of the savior.
+And so he tried to...
+And you can find it on YouTube.
+He filmed a trailer for a movie that can be about maintenance.
+And it's very funny because, very concretely, what it means, for instance, to maintain a bridge.
+And he says, you look at people just adjusting...
+I don't know the term in English.
+Let's say a screw, for instance.
+Or watching for leaks.
+And then saying, is it a big leak?
+It is not a big leak.
+And so he used a very famous actor to do that.
+And a music that is very suspenseful music and stuff like that to make it understandable.
+So that's, for instance...
+And in front of that, he said that, of course, if the bridge would explode.
+And people bringing pieces all together to manage to have some kind of bridge.
+So the car could, I don't know, escape something.
+Or it would be a much more valuable movie than the movie about maintenance.
+And you have a lot of that for cars, for instance.
+Let's say for cars, for instance.
+And we worked with Cornelia Hummel, who owned Mustang herself.
+And also did a really nice book about classic Mustang owners.
+In France, right?
+Classic Mustang owners in Europe or in France?
+In Europe, yeah.
+Just for the American viewers, because it's a special thing, a different thing.
+Yes, this is a very strange thing.
+Because in Europe, classic Mustang are not really costly
+because they are not cars for museums at all.
+But they are cherished because I think they represent something like America.
+Yeah, the Mustang.
+That's important.
+And so a lot of people have one.
+They are not rich people.
+You know, they have to wait a lot to have a classic Mustang.
+And of course, you could insist on the, I don't know, accidents and breakages.
+But what she was interested in and what we worked on with her
+was the daily maintenance of this classic Mustang.
+And what is really interesting is that people are afraid,
+they are worried about the continuity of their car and of their car's authenticity.
+Will it really remain a classic Mustang if I have to change this or that
+because of norms and standards or just because, you know,
+some equipment is not available anymore, for instance,
+or you have to put different kinds of things,
+you have to change the brakes, for instance,
+because it's more secure to have brakes.
+And what is really interesting is first, we are talking about multi-sensory expertise.
+The owners of these cars fill with their body
+every thing that could go wrong with their car when they are driving it.
+And it's really, it's even touching in a way because
+you understand in the description she gave about these people and in the interviews
+that they really are plugged into with their feet, with their back, with their ears, of course,
+but with their end to the vibrations of the car, for instance, for the sounds of the car.
+And they know the sounds that are okay, for instance,
+but they are also able to pick the sounds that are quite strange
+and to be very careful of the next occurrence of this sound.
+And if it's too much, you have to go for service the car and just verify if everything is okay.
+So, for instance, these car owners are experts of their cars,
+a lot more, I think, than most of people with their regular cars.
+Of course, sometimes listen very intriguing sound, for instance,
+but not as they can do it.
+But what is important also is that they are worried about it, they really are.
+So, this is a disquieting attention.
+It's something that they are obsessed with and they can become obsessed with.
+And that gets to the care thing.
+Having been around a lot of people and a lot of different cars,
+I think what you're talking about there is sometimes people collect cars
+and it's a very different kind of thing than this way of being in relationship with the car
+and this continuity, which I think relates a lot to what you were both saying
+about the maintenance workers earlier too, just to kind of make that connection.
+It's a more bodily, everyday relationship.
+It's just, yeah, just to put that in.
+Yes, and they are listening to the car.
+So, in a way, they also pay attention to what the car has to say, in a way,
+or has to show in terms of fragility, for instance.
+So, this is a real relationship.
+When they need to intervene on the car, which is the other side of the thing,
+which is almost every month with these cars, they try not to intervene too much
+and they discuss with the whole community of classic Mustang owners to check if
+it's still a classic Mustang, if they do this or that or change this or that,
+which is very interesting.
+And one important aspect of it is these kind of cars, to really be a classic Mustang,
+they have to drive it.
+It cannot be collected and remain at least somewhere completely mobile.
+It reminds me too, I mean, in the book you also talk about Mona Lisa
+and there's something similar going on there, but just at a different level
+that nobody ever sees in terms of keeping it the Mona Lisa, but it's always changing too.
+This is a more personal, everyday level, but did you have something there that was coming?
+I don't know if you agree or if you want to touch on this, but this continuous relationship
+also shed light on the ambiguities and the, let's say, dark side of maintenance,
+because those car owners worried, but at some point the relationship is too much for them
+and they sell the car.
+So that really puts the attention on the way maintenance is not that beautiful
+or something very positive or whatever.
+And to be clear, we are not for maintenance.
+We really like it as a topic to be investigated and to learn from maintenance,
+not as something that to push for or to say maintenance of anything is good.
+And so on this very ambiguity of maintenance, the ambiguity is both for the thing
+and for the people that take care of it.
+You can destroy the thing.
+You can, Mona Lisa, not this one, but other paintings have been destroyed.
+So you really miss the thing you try to destroy.
+You try to care for it so much that you destroy it.
+Is that what you mean?
+Because I'm thinking about, in the book too, you talk about care as work,
+and that is a really important point.
+That this is, and I guess we need to kind of draw some lines.
+We've been talking about care, but we haven't used that word exactly.
+But also, yeah, in the book, it's very obvious that this is work and it's not easy.
+And I think that's what I was trying to get at too with the attention thing
+and how it can be very hard to pay attention to everything that's happening in this way
+that has to be done if you are the maintenance worker
+or the person taking care of the Mona Lisa or with the car.
+It's so sensory that it actually takes a lot of energy too, in a way.
+So I'll let you both, whatever might come up there.
+Yes, it takes energy and it's just to follow up on what I just said,
+to connect with this, but to follow up on what the ambiguity is.
+It's only harsh and it's harmful.
+You can not only destroy or miss the thing you try to maintain,
+but you can also hurt yourself with the tools, with the products, with everything.
+And so in some situations, maintenance is not that positive.
+Like working on the bridge, it's dangerous to take care of the bridge.
+Care is work on the expertise, knowledge, whatever things apart.
+But this is work also on the way the bodies are really put at the test and more than test.
+Yeah, that's an important aspect because every kind of maintenance is not work in a strict sense,
+but saying that maintenance and care is work is completely connected to feminist theories about care.
+And of course, why we call that the care of things is because we found very important
+crucial resonances between what we were looking at and the feminist theories of care.
+And which is very interesting is that Fernando Dominguez Rubio,
+who is a friend and a colleague who worked on Mona Lisa around 2015,
+and Steve Jackson, who did this beautiful paper in 2014, Rethinking Repair,
+we were all together paying attention to some kind of maintenance,
+phones with our computers for Steve, Mona Lisa, and then contemporary art with Fernando,
+and our subway signs at first.
+And we all did this connection without knowing each other with the ethic of care,
+which is very interesting because and then we very quickly became colleagues and friends
+because we wrote to each other.
+And the work of Lara Houston, for instance, also a lot of people actually,
+but we all have this vocabulary of care.
+And it's super important because there is tons of lines of thinking and reflection
+between care of people and care of things.
+It's not the same, obviously, but one of the lines is fragility, of course,
+taking fragility as a starting point.
+The theories, feminist theories are more likely to use the term vulnerability,
+which is not exactly the same, but it's quite, of course, close.
+But work is in another aspect, the idea that it's work.
+So it's not as easy as it seems.
+It's costly and sometimes it's even a matter of health for workers.
+And a way to put this is and it's another way to say that for us,
+it's important to make maintenance count is at what costs a thing can remain the same.
+At what costs, economic costs, but also human costs, a bridge, for instance,
+or a nuclear plant to say things that are less romantic that Mona Lisa, for instance,
+at what human costs this remains in place.
+And this is very important because and this is the third aspect of the discussion
+with the theories of care is that I'm missing the point.
+Yes, these objects are generally presented or casted as autonomous,
+as something that lasts for themselves.
+And they are not, actually, they need people to take care of them.
+Our computers, our infrastructure, tons of things needs people,
+needs maintainers to remain the same or to stay in place, to stay functional.
+And this is very clear, for instance, in architecture.
+When you saw a picture and you look at architecture journals, you don't see anyone.
+Sometimes you see an inhabitant, sometimes you see a user, but you never see a maintainer.
+And if no house, no building, no nothing can last without some kind of maintenance.
+So this idea of this need work, this is really closely connected to the theories of care,
+saying that no people is autonomous.
+We all need some people to take care of us at some point, some day.
+And so we are all interconnected.
+And so this is also this struggle against the myth of autonomy,
+autonomous people and autonomous thing.
+And this is an important, really important aspect,
+which comes with the idea that people can get hurt doing maintenance, of course,
+and they can die doing maintenance.
+And it's very, in some situations, it's very problematic.
+But it's also come with this idea, okay, so these things that seem to be only material,
+that seems to be only technological, actually take people, maintainers,
+who sometimes are getting hurt or getting sick doing this maintenance.
+We should put them in the same picture,
+that the picture that describes all that cell, this beautiful infrastructure, for instance.
+Yeah, it reminds me of that ecology of fragilities.
+Ecology of fragilities is something that comes up in the book.
+Do you each have about 10 more minutes, or do we need to wrap it up real quick?
+Yeah, this reminds me of the ecology of fragilities,
+but also that it could sound like that we're trying to say that maintenance
+is better than development or innovation or something.
+And I know that's not what's being said here.
+So also the deeply disquieting aspect of it, I think, relates to what both of you
+were just saying, that it can be harmful, but it's also uncomfortable.
+Or I want to get into that a little bit about how you see,
+maybe even how this has changed your perspective of everyday life or something,
+or what is this doing when we start to think about care of things?
+It is different from cares of people, but as you express in the book,
+these are changing the way we, our capacity almost for care is changing here
+in a way that reflects in all aspects of society.
+How can we talk about that part of the book a little bit?
+I was thinking it was a question about our own experience,
+but actually it became in the same sentence, the whole globe.
+Yeah, you can take it with your own experience, if you want.
+It's not that easy.
+You don't have to solve the global perspective.
+Okay, I can try only on my own experience.
+Actually, I was raised, let's say, in a middle range class,
+but my grandparents really care about thinking to last.
+To every, everything we had was really important for them to last.
+When you are a small kid and you're always on your knees and never on your feet
+or everything like this, and they go up, think of your parents.
+Just to mention, let's say that for a long time it was,
+okay, this is a generational thing.
+We don't care of it that much now.
+All those investigations we did with Jerome really make me think differently,
+of course, from their worried.
+Of course, they are no more there now.
+And in my own experience, it became very important,
+not only to make them important and actualize, in some sense,
+what they taught me when I was young.
+It's really connected also to climate change and everything today.
+But it's really connected and rearticulates things I learned
+when I was a small kid with my bike and everything
+and tried to have it to last,
+but at some point to replace every part because innovation.
+Just to explain, I did for a long time, I did freestyle BMX
+and in that sport the parts are breaking.
+But at some point I used to change a lot,
+not because they break, but because I want some new ones.
+And so all the things we did with Jerome,
+more than 15 years on maintenance really made me switch it
+and really think differently at home.
+And with my boys, I tried to explain them very differently
+because, of course, we are all the daddy that is very boring,
+but we try to have something more political in a very feminist sense,
+political in the kitchen, political in the room,
+not political at the ground level, so to speak.
+Yeah, in a way you sort of bridged, nested all those different worlds.
+And Jerome, I want to hear your experience,
+but I just want to say, I want to ask, did it deepen...
+I'm thinking about my grandparents and they had a farm
+and you had to take care of everything and there was a noticing
+and a kind of sensual connection to everything
+in similar ways to what we're talking about here.
+And not to romanticize that, but to have it sort of taken for granted
+and then to grow up in a pretty wealthy kind of family
+where you could just get new stuff when it broke.
+And that was kind of more my childhood after those early years.
+I guess what I'm trying to get at and ask you about is,
+for me, it was about realizing that when you care for things
+and when you can notice them and engage with them,
+they mean more and the experience becomes richer and deeper.
+It can also become more overwhelming and more disquieting
+in the way we've talked about,
+but there's something in there that feels important.
+Did you realize that too in this experience with Jerome
+and also just even in the way you started looking at the signs differently
+or this whole project that has now become a book,
+has it deepened something?
+Would you say it's added kind of or expanded
+your own perception or way of noticing in any way?
+Just one sentence and Jerome is going to go.
+It's really connected to what Jerome just said before about interdependencies.
+Now, every time I'm looking, touching, whatever I think,
+it's not only a thing.
+It's always a lot of connected people, rules, ideas, values.
+It's really a chain of interaction between very different things.
+Even if I cannot acknowledge and identify all the components of the network,
+to say it differently, this is really a flow.
+This is no more stable and autonomous things.
+That makes a lot of sense, especially with what Jerome said.
+Realizing the ecology of it.
+Okay, Jerome, so what about you and your personal world?
+Yeah, my personal world is also, I think,
+also connected to the neurogeneral aspect of the question,
+is that I realized, I knew that,
+that I really realized how much in 50 years,
+and even less, a whole kind of model of consumption
+had been installed by a certain kind of capitalism,
+which is hyperconsumption, basically,
+which has replaced everything that is break.
+The carelessness, the idea of, at first, we were obsessed that
+maintainers were experts in paying attention to things, to fragility.
+And then what I really understood eventually was that
+we were all experts on that a few years ago, a few decades ago.
+It was just the way things were supposed to be.
+Of course, because things are expensive,
+and maybe for effective reasons, but also for very mundane economic reasons,
+you would make them last.
+It's completely abuse, and it was completely abuse
+in very, very numeral situations, and a lot of situations.
+And then how come, so I reversed the aspect,
+how come we could not pay attention to these fragilities?
+How come we didn't care?
+We, and the we is very situated.
+How come I didn't care, for instance, for some things?
+And I discovered that I was taught not to care.
+And I remember a podcast we did a few years ago, a French one,
+and the podcaster, the woman who were interviewing us, just called her dad.
+And her dad said, and he said,
+you knew how to take care of things, but you didn't talk to me.
+How come I don't know how to do that?
+And he answered to her, yes, because we don't need to bother with that.
+We want you to enjoy life,
+which means that comfort and modern comfort was designed with carelessness,
+was designed with the idea of you don't have to pay attention
+to things and their transformation.
+But there is another important aspect,
+and it's important that even in your question, you connect the two.
+It's sometimes overwhelming.
+So there is a risk of ableism in this situation of,
+we should all pay attention to everything every time.
+Of course not, of course not.
+Of course, people cannot bear this idea,
+and they cannot stand to pay attention to anything or to worry for everything.
+And this is the question for Mustang owners, for instance, but for everything.
+Of course, when I take my bicycle and I go in the street in Paris,
+in Boulevard Saint-Michel, I have to pay attention to the fragility of the road,
+but not too much.
+And not that some things are supposed to last.
+And some people are specialized in taking care of them.
+And it's a good thing to know the distribution of this work.
+So the point is more paying attention to the ecologies and the return dependencies.
+And this is the last point you mentioned with David, is that the point.
+The point is less paying attention to every kind of fragility of things,
+but of people who could be involved in the becoming of the things with you.
+So it's also a matter of repopulating the picture.
+It's not only a relationship between you and the thing,
+it's also taking this interdependency into consideration.
+And then maybe asking, is it worth it or not, or is it?
+But that's maybe the, I think the most, the thing that really struck me eventually
+was this idea of carelessness and the configuration of carelessness as comfort,
+which is quite troubling and disturbing, at least.
+Yeah. And there would be a whole other podcast there about,
+you know, how that relates to technology and kind of our mindset today.
+But I think it's very rich to think about the care of things right now in that context,
+in the way that you're presenting.
+We talk a lot about beyond dichotomy or holding paradox here.
+And that doesn't mean, you know, choosing one or the other of these is somehow better,
+but just that realization that people are maintaining
+and it's a disquieting, difficult and enriching sensual process.
+Just that kind of noticing is almost like a meta layer
+to some of what you're discussing, you know, in these situations that give something,
+I think, about a way of being in the world right now
+and thinking of it through this lens, more as an ecology.
+But to kind of end, I wonder about, well, I was thinking about
+when you both go to the metro now, if it's different.
+If you're in that sense that you're holding things a little bit differently,
+not every day, maybe, that you're aware of all these people around you
+as you go through the city on your bike or through the metro or whatever.
+What has this brought to that relationship, you know, with the students?
+I'm just bringing up a few things.
+You can go wherever you want to go with it.
+But of course, once you have this in mind, you cannot navigate the world exactly the same
+because you pay attention to fragility of things and to people who take care of them.
+And actually, the very modest but also very ambitious aim of the book
+is for each reader to end it, close it, and don't look exactly to the world in the same way.
+And this is, in a Donatian way, this is a matter of percept.
+And the book is something like a percept, more than a conceptual book, you know.
+And this work is quite modest, but a lot of people are saying,
+oh wow, we don't go to the subway and we don't see the same thing,
+we don't live exactly in the same city.
+And this is very simple.
+And this is our political contribution, which is very mundane one, but perceptual one.
+This is very super, very, very important to us.
+It's something personal, but it's also something we want to do with maintenance.
+This idea of paying attention to the attention of others, the maintenance.
+And regarding teaching, of course, this is something that is important,
+because I teach, and David too, but a bit less, because he's more a researcher,
+something that is specialty in France.
+You can be only a researcher, but you teach a little bit.
+But I teach to engineers and to very elite engineers.
+It's like, it's not Ivy League, but it's something like the Grande Ecole in French.
+There will be very important people as soon as they leave the school.
+And trying to debunk some things, some aspects of,
+especially the idea of autonomy in technology, autonomous technology.
+And saying, no, no, there is no autonomy.
+There is never, and each time you say that a technology is autonomous,
+you are doing the kind of coup de force and you say,
+you are leaving a lot of people aside, and this is problematic.
+Because it's also a matter of value.
+If you put them aside, you say that this is the thing only with valuable people.
+Of course, for AI today, all the work of annotators and people who are
+trying to make this thing work as if they were autonomous are crucial, for instance.
+So this is an aspect of how this kind of research can enrich the teaching.
+Wonderful. That could almost be a whole other book about the autonomy.
+I mean, that's such an important point.
+I'm glad you put it in there at the end, but I also just want to highlight it a bit,
+because that opens up a whole other world right now in terms of technology.
+Okay, but what's coming up for you?
+Yeah, clearly I'm not a teacher, but I can talk about the professional setting
+and not the teaching, but the students that are doing PhD with me.
+That's really changed the way I envision their project and the way I manage to
+really take care of what they want to do.
+What they want to do not only with this kind of topic, but they want to do in their life.
+And they project themselves in the academic world or not.
+This is not a problem to me, but I really take more time to really,
+let's say, go deeper into it and not just trying to infuse or explain how to do a good PhD.
+Yeah, of course, I'm still on this, but this really tiny part now,
+I try to really understand who they are, what they try to do with this topic.
+How the topic, the object, the scientific object relate to their own experience
+and take really care of it and try to manage to drive all this
+close to having a good PhD.
+But this is not, yeah, it really sends the way and the time I take.
+I take very differently the time with those people.
+So this is not teaching, this is really to accompany.
+To accompany someone with his or her goal.
+And it takes a lot, but at some point, it's no more at some point, not on every
+or every PhD student, but at some point, it relates to two persons going in a...
+Yeah, not to be a care rock on the road, but to have a few steps on the same road for a time.
+And for some, they are no more PhD students because they defend the P&G, but
+we are close friends at some point because of this new time I try to investigate.
+Wow, that's actually really moving because I think that, in a way, is what the book,
+kind of what you're saying, Jerome, it gives people something that's deep,
+that it's hard for us to put into words.
+But I can just say, having talked to a lot of really successful, famous people, whatever,
+that almost all of them end up talking about a supervisor or a teacher or a PhD or somebody
+who did kind of what you just expressed that changed their trajectory in a way.
+And it relates to a lot of the things we've been talking about, about what you don't really notice
+or see in the everyday and all of that.
+But also, I think that it gets at something like meaning and care in a way that makes it
+worth all of this that we're going through and doing.
+So, on that note, I always ask if anyone has anything they wanted to say about love
+because we didn't bring that word up, have to at least say it.
+We've been talking about it, but I don't know if you think it relates.
+If not, you don't have to answer, but I want to at least ask if you have any
+relation to that word that comes up before we go.
+But I also want to say thank you for the book and for taking that moment and meeting with
+the maintenance workers and following that energy because I think it's doing something
+important right now.
+But that's it.
+So anything you want to say to close or anything we didn't talk about you want to be sure
+you say, then this is your time.
+And thank you.
+Yeah, thank you for having us.
+Love is quite important, actually.
+And Steve Jackson has a few words on this idea of if you could love our artifacts and
+the things we are living with, maybe a lot of things will change in the world.
+So it's a bit romantic, but I think it's important.
+And for instance, we didn't mention that other kind of very special maintainers we
+followed is graffiti removers in the street of Paris.
+And there is no doubt that they really love Paris and they even love graffiti, actually.
+But they love Paris and the way they take care of the stones, the facades and the way
+they try to remove the graffiti is something like an act of love, which is important to
+understand if we want not to be too much critical about the big picture of graffiti removing,
+of course, which can be problematic in a political way.
+But discovering that the guys that are on the streets and that remove graffiti actually
+do love Paris and try to do the best to take care of the city in a very material way.
+It's fantastic.
+It's really super interesting.
+It adds something to being a part of the city, too.
+When you know that that feeling is part of how you're experiencing it every day.
+It reminds me of something someone just said about love is sometimes what's holding you
+that you don't even feel like when you can't feel it, it's still holding you.
+And it's interesting to think of the city like that in terms of those people caring for it
+from that spirit.
+But David?
+Maybe just to say that they so graffiti removal love Paris in a very different way.
+But in how to speak in as much emotional sense that writers themselves love Paris.
+And I don't know.
+I'm a bit shy about emotional and love.
+I'm not sure how to articulate it.
+And maybe I can have a very short sentence.
+But I really love this interview.
+And I really love the way you put our ideas into question and really pick very differently.
+Because, of course, this is not the first interview,
+not about the English version, but about the book.
+And I really love the way you articulate the topic.
+Thank you.
+That actually brings us back to that idea of writing that I brought up at the beginning, too.
+And because it's such a big part of that city, too.
+And I do think all these are connected, you know, the writing of the book that you did,
+the writing of the city, the reading, the way I read it.
+Maybe that's its own kind of ecology that we can't fully see,
+but maybe the listeners can can grasp it.
+So thank you.
+This book did something for me and I'm already sharing it with lots of people.
+And we hardly got into it.
+So for everyone listening, pick it up in French or English.
+Or is it in other languages, too, yet?
+No, not yet.
+All right.
+Well, thank you both so much.
+I hope you have a beautiful afternoon there and stay warm.
+Thanks so much.
+Yes.
+Bye.
+Thank you.
+Bye.
+Bye.

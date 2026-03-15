@@ -1,0 +1,1401 @@
+I was like, I'm not interested in this at all.
+I know what computers are.
+I read science fiction.
+I think if there was more transparency
+in scientific literature,
+if people were required to cite
+the science fiction influence on there
+when they were doing research,
+we would discover the incredible role
+that science fiction has played
+in directing people's own research.
+And travel actually helped part of that.
+I understood that time was more valuable than money.
+And so there was this sort of shift
+in understanding that time wealth
+was much more valuable than money wealth.
+It's, there's a lot of nuance.
+I would say out of control was fairly nuanced
+because it was not binary.
+I think there's very, very few things in the world
+that are binary.
+Most are continuums.
+And that's part of the whole message
+that there's a continuum between
+the most biological thing and the most mechanical thing
+that they're actually just one long,
+tenuous thing that have different faces.
+And it doesn't make any sense,
+but that's what it is.
+It's kind of like super positions.
+God's a super position, right?
+God, not God at the same time.
+I write in order to find out what I think.
+A lot of people's creativity and tremendous work
+and innovation and discovery and good stuff
+comes from the fact that they noticed something
+and decided that rather than it being unimportant,
+that it was very, very important.
+I mean, that is one of Stuart's great, great strengths.
+He hit a good nose for a frontier that was potent.
+He was always there at the front.
+But we both did.
+Like we were very early Burning Man attendees.
+I was among the first.
+My kids were the first kids at Burning Man.
+When the internet came along,
+I decided that I wanted to report on it
+as if it was a new country,
+as if I was a travel writer and this was a new country.
+So I talked my way into the editors at Horth
+to give me access to the new experimental online systems
+that they were meeting on.
+And that also just elevated
+because it wasn't just a bulletin board.
+It was the bulletin board with threads
+and you could be on this all at the same time.
+And I was like, oh, wow.
+And so this was a new country.
+So I was writing the stuff about this as a new continent.
+And again, the informational aspect of it
+was finding, and this was the whole Horth catalog agenda
+that I was on of like trying to provide information
+that was hard to find,
+that you couldn't find anywhere else being available
+in that kind of a way of having access to it.
+That's also very human because you have someone
+who's looking how to do something and you help them do it.
+That's a very human emotion,
+a human quality of helping people accomplish things.
+There's a conceptual idea of landscapes
+that is really popular in computer science and biology,
+which is this landscape is a way of mapping the path,
+the process of an organization or organism
+or an individual and the idea that the higher it goes,
+the more perfected, more optimized it is.
+And if you're designing something,
+you want to kind of optimize it and there are algorithms
+and methods to kind of make sure
+you're always climbing the hill
+where you are actually going up the gradients all the time,
+trying to optimize something.
+And the issue is that when you get to the peak,
+the peak may not be, the peak may be a local optima.
+There may be higher peaks,
+more optimization on a different peak,
+but to get there, you have to kind of go back down.
+And that's really hard if you have an organization
+built for excellence and optimization
+to go back down to where it's less optimal.
+But the important thing is that
+to have the greatest effect in the world,
+you don't want to be hill climbing,
+you want to be hill making.
+You want to make a new, new territory.
+You want to create the new continent.
+You want to make the new mountain that can be hill climbed.
+And so this idea of hill making versus hill climbing
+is where I think the greatest rewards are.
+Rather than trying to optimize what we already have,
+you want to be on the frontier and making a new territory.
+Hello, everyone.
+Welcome to Love and Philosophy.
+I'm so glad you're here.
+Today, I'm talking with Kevin Kelly.
+You probably know him as the founding executive editor
+of Wired Magazine.
+Or if you're a fan of the Whole Earth Review and Stewart Brand,
+you know him from that because he was
+one early editor and publisher.
+Tim Ferriss also called him the most interesting man
+in the world.
+And he just might be.
+He's been doing a blog since before there were really
+even blogs, at least 20 years.
+He's the author of this sort of cult favorite essay,
+1,000 True Fans.
+He co-founded the Hacker Conference,
+which is still going on.
+He's ridden his bike across America at least twice.
+He helped with the movie Minority Report.
+I could go on and on.
+Oh, he was among the first to find Lonely Planet.
+And I think he was even the first to import it.
+And he was part of the co-Evolution Quarterly
+with people like Gwendolyn Berry and Gregory Bateson, John Todd,
+Danello Meadows.
+I think he wrote the second, if not the first,
+book about complexity, which is from 1992.
+It's called Out of Control.
+He is already talking about cryptocurrency,
+if you can believe it, because he attended one of the first
+ever complexity conferences at Los Alamos,
+put on by guess who, the Santa Fe Institute.
+I mean, really, this man, he seems
+to have been at the beginnings of just about everything,
+along with Stuart Bram.
+Both of them are just fascinating people to me.
+And just before I had this conversation,
+two things happened.
+I was with a friend at a museum in Amsterdam,
+and I happened to see the whole Earth catalog there,
+which is just beautiful.
+It's a huge book with the Earth on the cover.
+It's very loving of the Earth.
+It's kind of like Wikipedia in print form,
+way back in the day of catalogs.
+But the point is, there's a love of life
+that you feel immediately.
+The second thing that happened was,
+I started putting seeds in the ground,
+and they actually came up.
+And I realized, this is incredible.
+And no, I am not on drugs, and I do not do drugs,
+but honestly, being alive is just such a trip
+that you can actually put something,
+a little seed in the ground,
+and within a few days, you have this green,
+beautiful creature growing in your garden
+that will then feed you.
+I say this just because Kevin Kelly, Stuart Bram,
+they have a lot to do with technology,
+with the trajectory of technology,
+with words like futurism and all of this,
+but at the heart of their work,
+and there's so much rich work involved with them,
+there's such a love of life, and of community,
+and of helping people.
+And I feel like a lot of the people currently leading us,
+so to speak, in the technological world,
+once had that same spirit,
+and I wonder if they still do.
+I wonder if Gen Alpha, Gen Beta can fill that spirit,
+and if the young Kevin Kelly's and Stuart Brans
+of the world right now are out there in love with life
+in the way these guys were and still are.
+I'll just leave that as a question,
+because it feels like it's very related
+to ideas of other conversations,
+like do we love the world enough
+to take responsibility for it?
+Are we blind to the beauty and incredible,
+I don't know, existence that we're part of?
+I hope not, I know we're not.
+I know we can find this again.
+It's in us, it is us.
+And yeah, I'm just gonna put that out there today,
+off the top of my head.
+Kevin Kelly is amazing, his work is amazing.
+It's always been about the humanity, the life,
+the connection, the growth, the opportunity,
+the positive, the optimism.
+I really appreciate that a lot,
+and I hope you'll go listen to some of his talks
+about optimism, and think about Kevin,
+and think about Stuart, and think about these days
+when all of this was just beginning.
+The internet was a new country,
+and think about where we are now,
+and what new country is before us,
+and where we wanna orient, what we wanna explore,
+and of course, where the love is and all that,
+because it does matter.
+Oh, okay, well let's get started.
+Okay, hi Kevin, it's so wonderful to have you here,
+it's a real honor that you're on Love and Philosophy,
+thank you.
+You're really, really welcome,
+and I am really looking forward to this conversation.
+Well, we're gonna talk about your book,
+was excellent advice for living,
+but before we get into that,
+I wonder if we could talk about your living a little bit,
+your life itself,
+to what I think might have been the first time
+you saw a computer,
+I think it was with your dad when you were a teenager,
+and yeah, so where were you,
+and what was that experience like?
+Yeah, yeah, it was in the 60s,
+I was estimating that might have been around 65.
+My dad was involved with computers
+at the very, very beginning of the beginning of computers,
+because he was using them,
+originally his degree was in meteorology,
+weather forecasting,
+and the weather forecastors
+were some of the first civilian use of computers,
+and that's where he had the experience in the army,
+and he was not a programmer,
+but he was what we would call today more like an IT person,
+and he was very enthusiastic about them,
+and he showed me all kinds of books about it,
+and it never registered,
+I had no real interest in them,
+but he did want to take me to a computer show
+in Atlantic City,
+he thought it would be kind of cool,
+and so I went along,
+and I was totally, totally bored,
+it was just,
+there were just big, big cabinets,
+it was like furniture,
+there was no screens,
+there was no keyboards,
+you couldn't talk to them,
+you had to have the punch carts,
+you had trays of punch carts that you gave in,
+and then they would have tape machines,
+and then they would have a typewriter,
+and that was the output,
+it was just a typewriter,
+you couldn't even make pictures,
+not really,
+and so it was like,
+I'm not interested in this,
+at all,
+I know what computers are,
+I read science fiction,
+I know what computers are.
+So you were reading science fiction,
+I was gonna ask you. Oh I was totally into science fiction,
+it's like I know what computers are,
+these are not computers.
+That's wonderful,
+that's great,
+I loved it that you said you were bored,
+but that's even a better statement,
+that you had something else in your imagination.
+Not because,
+it was just like,
+they're not computers you interact with,
+they're AIs,
+they're,
+you can do stuff,
+I can't do anything here.
+So you were already thinking about all that,
+at a young age.
+It was a total science fiction buff,
+at that time,
+because this was before there was any science fiction
+on movies,
+so there was no science fiction movies,
+until 2001,
+and this was the future.
+The movie 2001,
+not the year.
+I meant the movie.
+Yeah I know,
+just in case someone didn't know.
+And so,
+like a lot of kids,
+we didn't really have TV,
+in the beginning,
+and so,
+reading science fiction,
+was my entertainment,
+and I was really into it,
+and so I had a sense of the future,
+from the science fiction.
+I had a sense of where we were gonna go,
+and what was really the cool stuff,
+and it was not,
+it was not these cabinets.
+It was not a room full of weird cabinets,
+with no visuals.
+That's so interesting,
+because a lot of people I've talked to,
+who end up sort of having,
+a good vision of the future,
+or a vision of the future that ends up playing out,
+as you definitely have,
+did read science fiction,
+when they were young.
+Do you think it influenced your imagination,
+in the way?
+Absolutely, 100%.
+And I think if there was more,
+what's the word I want,
+more transparency in scientific literature,
+if people were required to cite
+the science fiction influence on there,
+when they were doing research,
+we would discover the incredible role,
+that science fiction has played,
+in directing people's own research.
+I mean, the route from the Star Trek communicator,
+to the iPhone, is pretty direct.
+Everybody had that vision,
+of what it was,
+that they were trying to make,
+because of Star Trek,
+and that bit of optimism.
+It was very, very influential.
+And even things like,
+I was involved in the Minority Report,
+stuff of gesture computing,
+and all these things,
+they form an image in our mind,
+that becomes a guy star.
+It's fascinating.
+It also makes me think that,
+you've said that maybe the real computers,
+or the real internet,
+started when you,
+it might've been when you were at University of Georgia,
+I'm not sure,
+because we were just talking about that.
+But when telephones and computers met,
+and was that when you started to get that sense,
+of what you'd imagined as a kid could be possible?
+Yeah.
+So even personal computers,
+when they came along,
+still were not that interesting to me.
+I mean, they kind of made typing easier.
+I wasn't into spreadsheets in the beginning.
+So there's a little bit of typing, maybe,
+but it really wasn't until computers married the telephone,
+and you were connecting them together.
+That for me, that was the aha.
+That was like, oh, I see what this is.
+This is a technology that I can use.
+This is technology that seems very human.
+This is a technology that seems more Amish,
+than big steam shovels,
+or even big skyscrapers,
+and the kind of thing we had in mind about technology,
+what that meant before computers came along.
+So I had very little interest in technology until then,
+but once this communication version came along,
+the internet, it was like, this is powerful.
+This is humanizing.
+This is our destiny, our direction.
+And so I switched into thinking more about
+what that might do for us.
+What was it that was humanizing?
+It's hard for me to imagine
+how that suddenly felt humanizing.
+Was it the complexity of it, the connection?
+Well, because you're connecting other humans.
+It's like, because instead of being isolated,
+it was bringing humans together.
+It was communities.
+I mean, that was the thing, all these bulletin boards
+set up in kids' basements and bedrooms,
+and you would go in and you would be leaving messages
+and someone else would come in,
+and it was like you were connecting to people.
+It was weirdly exhilarating
+because these are people that,
+they were conceptual neighbors.
+They weren't your actual neighbors,
+but they were neighbors in what you were interested in.
+And that was, you were in a town
+where nobody was interested in what you're interested in,
+and suddenly you're connected to someone
+who's interested in what you're interested in.
+That's human.
+That's amazing. That's most of it exciting, too.
+And then you're producing information
+that you were looking for that didn't exist
+or you couldn't find, and they're helping you find it.
+It's like, yeah, so, and there was,
+again, the informational aspect of it was finding,
+and this was the whole Holworth catalog agenda
+that I was on, of trying to provide information
+that was hard to find, that you couldn't find anywhere else,
+and being available in that kind of a way,
+that having access to it, that's also very human
+because you have someone who's looking how to do something
+and you help them do it.
+That's a very human emotion, a human quality
+of helping people accomplish things.
+So that's why I said it felt sort of Amish.
+And that speaks to the, enthusiasm comes up a lot
+in the advice for living and curiosity and connection,
+and so that speaks to that a lot.
+But you mentioned the whole earth catalog, Stuart Brand.
+When did you meet Stuart Brandon?
+When did you, was that your first job?
+Or how does that relate to those two moments,
+the 13-year-old and then the person who became obsessed
+with computers?
+So I countered the Holworth catalog
+at the end of high school.
+Oh, so early, wow.
+And it blew my mind.
+It was, it kind of, it was again,
+the perfect convergence for me
+because the things that Stuart was interested in,
+I was interested in the same kinds of things.
+But I was doing it like completely a life study alone.
+I had this, I was imagining like trying to build a house
+where you never threw anything away
+that was completely like recyclable.
+This is like, you know, again, in the 60s, way before,
+nobody else was talking about that.
+I was trying to make these designs and stuff.
+You were thinking of that when you were in high school?
+Before high school, yeah.
+Well, okay.
+Yeah, in middle school.
+And I was sending away for catalogs.
+I had, I discovered that you could,
+you could send away to get these catalogs.
+It was the only way to kind of find out stuff.
+And so I had this thing of trying to discover
+as many catalogs as I could.
+So here suddenly comes along the Holworth catalog,
+which is like doing that magnified by a million times.
+They were interested in art and systems
+and stuff that I was.
+And it was like, this is my, this was written for me.
+And I wanted to contribute to it
+because the model of the Holworth catalog
+was a reader written, reader supported ad free mechanism.
+It was like sub stack.
+It was, it was user generated content
+and a user supported subscription base.
+And the idea was like, people would discover something.
+They would send it in.
+They would send their blog in, the review.
+The editors would evaluate it and then publish it.
+And it was like the internet before the internet opened.
+And so that would immediately appeal to me.
+And I decided that the only place I ever wanted to work
+was at Holworth, but I had no, nothing to offer them.
+But I started to try and submit things,
+reviews of stuff that I kind of discovered
+and Stuart kept rejecting them.
+He would send a nice thing, whatever.
+So I never made much headway,
+but eventually after my travels,
+for years and years of traveling,
+I would still read what they were writing.
+I was subscribed to the catalog and I read cover to cover.
+After traveling for years,
+I discovered that I knew something about budget travel
+that nobody else knew.
+And so I started reviewing these little known
+self published books that Americans didn't know about
+or nobody knew about.
+There was this book called Southeast Asia on a Shoe String
+by Tony and Maureen Wheeler.
+And they were called Lonely Planet.
+Okay, so they had a little self published thing
+and I started reviewing their stuff.
+And then there was another guy named Europe
+through the back door and his name was Rick Steves.
+And I was reviewing his stuff and saying,
+this is really cool stuff.
+And later on, I started a business
+where I was importing those books into America
+and distributing them.
+There was another guy named Bill Doughton
+who had the Moon publications.
+And so I started to have something to offer
+and I started to do the travel part for Whole Earth
+as a freelance writer.
+And so when the internet came along,
+I decided that I wanted to report on it
+as if it was a new country,
+as if I was a travel writer and this was a new country.
+So I talked my way into the editors at Whole Earth
+to give me access to the new experimental online systems
+that they were meeting on.
+And that also just elevated
+because it wasn't just a bulletin board,
+it was the bulletin board with threads
+and you could be on this all at the same time.
+And that was like, oh wow.
+And so this was a new country.
+So I was writing the stuff about this was a new continent
+and I was learning how to type.
+I just didn't know how to type.
+And my writing style is very telegraphic
+and it turned out to be perfect for the online text systems
+because I'm very short telegraphic.
+And so they offered me a job
+based on what I was writing online.
+And I claimed to be the first person hired online
+in 83, 84.
+So I went out to meet Stuart.
+So I met him kind of online primarily
+and he met me online primarily.
+Fascinating that you two came together
+because you both feel like people
+who've been at the sort of growing tip of everything,
+both of you, even in what you just described
+with finding a lonely planet and these sorts of things.
+Is that ever frustrating or is that?
+Or is that always being so kind of ahead?
+No, it's sort of a job.
+And it's, I mean, that is one of Stuart's
+great, great strengths.
+We hit a good nose for a frontier that was potent,
+for a frontier that he was always there at the front.
+But we both did.
+Like we were very early Burning Man attendees.
+I was among the first.
+My kids were the first kids at Burning Man.
+Yeah, my two girls, I took them, it was totally crazy.
+Oh my gosh.
+Do they remember it?
+Were they old enough that they?
+Oh yeah, yeah.
+Oh wow.
+And they were there for a while.
+They were the only kids there.
+But, so yes, so I think it's a practice.
+I think it's a noticing of emerging, something emerging.
+And I think the qualities that I would look for
+are like, are new words being invented?
+Is this a area where there's new language being invented?
+You know, the early crypto was like,
+I actually had a book chapter on crypto
+in my first book, 94.
+I know, out of control, I was gonna ask you.
+Is that the one?
+The e-money chapter was about crypto,
+but it wasn't blockchain.
+And so, and that became, I assigned Stephen Levy
+to the very second issue of Wired,
+and he went on to write a whole book.
+But, because when I went to visit these guys
+who were doing it, there was like, there was new language,
+there were new concepts,
+there was people using their free time to do it.
+Like Mark Andresa and other people say,
+they often like to invest in what founders do for fun.
+How do they spend your time when you're not working?
+That's another kind of thing you're looking at.
+It's like, where's your passion time being invested into?
+That's often where a frontier might be happening.
+And so Stuart had a really good nose,
+and I learned to have a pretty good nose as well,
+in kind of, and then giving yourself permission
+to hang out there and see, you know,
+maybe even report on what's happening.
+And that continues today, and to me, I see it as my job.
+It also connects to a lot of the advice, I think,
+because there's a sense of cultivating awareness in a way.
+I don't know, you never say it like that,
+but, and I was wondering, as you were just saying that,
+if, did you have to learn how to be patient a bit too,
+and persist or?
+No, I think I'm naturally patient.
+Okay.
+Doing photography, the kind of photography I was doing
+was incredibly patient.
+It's funny, because I don't have patience for other things,
+like fishing never appealed to me.
+It's like, that just seems like an incredible waste
+of patience, but I have patience in photography
+where I will spend hours waiting for something to happen.
+I would say this situation is pregnant
+with an interesting picture,
+and I'm going to spend my time here waiting for it to align.
+And so I have patience, I have a natural patience
+for the right things, or the things that I'm interested in.
+That's actually very beautiful.
+That sounds, to me, if one were to look at your career,
+probably not from your perspective,
+but from my perspective,
+it seems like you were doing that a bit.
+For example, all of the stuff you were doing online
+was at a time when people didn't really think
+the internet was going to be anything.
+And to me, that seems like almost patience
+that you stayed with it, and then, you know,
+and a lot of things that I've heard you say,
+when you say them, when I look back,
+I think people probably thought, no way.
+And then over time, it does align.
+You could see that there was something
+there worth waiting for.
+Yeah, yeah, yeah, and there is an act of imagination
+where you kind of, you can imagine it getting better
+or better than it is.
+Other times, you're wrong about it.
+I mean, I've been plenty wrong.
+Like when eBay came along, I was like, I don't think so.
+I don't think this is like,
+I don't think this is going to work.
+But you know, I was totally wrong about it.
+And so there, I just didn't have the imagination to,
+to see what it could, what it could do.
+And so I think having an active imagination
+is also very helpful.
+Yeah, you also have some good advice for how to be wrong
+and why being wrong is important,
+which is something I think we all need to hear right now
+in this world, admitting your mistakes
+and that that's actually a healthy thing
+and a way to grow.
+That's part of your book.
+But you mentioned travel and I wonder what,
+that seems like a very important thread in your life.
+And what was that initial travel about?
+And has that helped you to see landscapes differently
+and these other themes we've been talking about already?
+Yeah, yeah, I mean, I grew up with a father
+who was a little bit of a workaholic,
+but he never, he didn't believe in vacations.
+So we took very few family vacations,
+very, very few.
+And I'd never, I didn't have any money.
+I'd never really been out of New Jersey very much.
+I didn't have a car.
+And so when I did start to travel, it was mind blowing
+and it was a very severe jump from suburban parochial
+New Jersey to Taiwan, Hong Kong, Japan.
+And I'd never eaten Chinese food in my life.
+I'd never hold chopsticks in my life.
+There weren't any Chinese orientals in my life.
+It was, it was, it was so parochial
+and then just being kind of thrust into this other world.
+And at a time when it was still
+a lot of the old world happening,
+was the best university, the best wake up call ever.
+And it became, it became my college
+where every day I'm learning new things
+and changing my mind and having these aha moments
+as well as trying to capture stuff with my camera.
+And so I came, I kept traveling seriously
+after that forever, even, I took a slight break for a while
+when I started to have my family.
+And I was trying to start a kind of a real career
+when I was 35 and so there was a small break
+but then I tried to take my family
+on interesting family vacations.
+Yeah, we went to Bali when it was still pretty early
+with my family and went into the hinterlands of Bali.
+Went into the hinterlands of Bali.
+But I came to view the benefits of travel
+as so, so important, particularly for young people
+that I am totally in favor of subsidizing
+young people to travel.
+I think as a nation we should do that.
+I mean, I would go so far as I think we should have
+mandatory, I'm told that it's American,
+mandatory service, national service for two years
+no matter who you are, you're handicapped
+or whatever it is, you have national service
+and you can do things like go to Peace Corps
+or whatever, you wanna go to the military,
+you can do public service at home
+but there's, but travel would be one of the options.
+Travel meaning like you're going abroad
+and you're being funded.
+And I think that would transform America
+of having more and more people go outside
+of their culture and come back
+and look at themselves from outside.
+And among the many, many other values
+that you get from traveling,
+I think that would be transformative.
+And so the Mormons do a great job
+with their two year abroad.
+And that I think is this hugely benefit
+their communities and Mormons and what they do.
+There was only men for a while.
+I think they've changed it recently
+to have women go two years out as well.
+But that is so important when you're young
+to get that orientation of stepping outside
+of what everybody assumes.
+All these assumptions, you can kind of see the assumptions
+that your own culture is sitting on.
+They become a little bit more visible
+and you get to think about it in question
+and see alternatives and change your mind about things
+because of travel.
+Yeah, absolutely.
+And another word that comes up a lot in your book is habits.
+And some of the book feels like you've been cultivating
+ways to catch yourself or ways to do what travel does
+to turn your perspective a little.
+I think that relates to your complexity book a bit too.
+And I did the Peace Corps and I traveled early.
+Yeah, and so I know very well what you're saying there.
+It really does.
+The world becomes a kaleidoscope in a way
+or the way that you're, you talk about thinking a lot
+in terms of all of these themes
+and you learn how to switch your thinking a bit, don't you?
+Yeah, yeah, exactly.
+I'm just curious where you were stationed for the Peace Corps.
+I went to Mongolia.
+Oh!
+Yeah, my dog is from there.
+She's here, you can't see her, but she just barked.
+Sorry about that.
+Mongolia, where in Mongolia were you stationed?
+I was in different places because I did sort of,
+I had to do a travel through,
+but I was mostly in Chobolstan, so,
+and Ulaanbaatar for a bit, but yeah.
+And then over near Kazakhstan, but mostly Chobolstan.
+Yeah, no, I had a fabulous time in Mongolia.
+It was just, it was, well, anyway,
+we won't talk about Mongolia right now, but yeah.
+Yeah, we could talk about that for hours, so.
+But yeah, the point was, I guess, that it changes,
+it helps you understand, I think,
+similar to the way reading does when you're a kid.
+Reading science fiction, you can switch
+into different mindsets, and for me,
+and I kind of heard you saying it a bit,
+when you're traveling, you start to realize you can,
+yeah, there's different ways of perceiving, so.
+Yeah, yeah, I mean, that's just a fundamental one,
+but there's, I mean, I think we can make a long list
+of all the other habits, all the insights that you get
+from traveling, from learning a language if you need to,
+and how that changes your mind,
+to just learning social skills.
+Yeah, there's just so many things.
+So anyway, I would be totally in favor of having programs
+where youth are subsidized to travel in some capacity.
+Yeah, me too, I totally support that.
+It is one of those hard things that you can't explain.
+I mean, you only know it once you do it, too,
+and that's why it can be hard to just, yeah.
+But you said something about when you were in your 30s,
+you were gonna start a real job, or something like this,
+and that reminded me of one of your pieces of advice,
+I'm probably not gonna get it exactly right,
+but don't try to be the best, be the only,
+and did you live into that advice?
+Well, you know, the subtitle of my book
+is Advice I Wish I Had Known Earlier,
+so no, I didn't know that at the time.
+I wish I had.
+That came much later, even in writing the book,
+when I kind of, part of writing the book,
+I write in order to find out what I think.
+And so what the book did was help me clarify
+some of my own ideas that I had,
+but I didn't be able to say.
+But I wasn't on the program to try and find my only,
+I only understood that fairly late in life,
+that of that power.
+But I was absolutely on the road to the only,
+I just didn't know it.
+You know, I mean, I was like,
+I've always had a lot of confidence
+about kind of doing things my own way
+and not really caring about other people,
+because I also was expecting to be poor all my life,
+and I was making a trade for having control of my time.
+Even as a young person,
+that's what I was signing up for,
+is like, I know that I won't have a career
+and I won't have money,
+but I'm gonna have time to do these cool things
+that I wanna do, and I'm happy with that thing,
+because I understood for some reason,
+and travel actually helped part of that,
+I understood that time was more valuable than money.
+And I had an encounter in Nepal where I was trekking,
+I spent months trekking by myself
+without a porter, just with my backpack,
+through the, you know, on the treks.
+And I met, there was some organized,
+this was in the 70s,
+when there was some organized treks
+with many porters carrying their tents,
+it's the rich people who were doing these tours.
+And there was a guy, an older man,
+who was obviously very wealthy,
+just because these were very expensive things.
+And we were mingling at some place or other
+where they were camped out,
+where I was sleeping in a tea house on the floor.
+And he was commiserating with me,
+hearing where I was going, what I was doing,
+he was saying, I'm so envious of you.
+Because you have all this time to see all these things.
+And I don't.
+And it was like, aha, here's the rich guy,
+saying that I was wealthier than he was.
+And I realized I was.
+And so there was this sort of shift
+in understanding that time wealth
+was much more valuable than money wealth.
+And so I was constantly leaning into this idea
+of seeing my time as my wealth.
+And not.
+I couldn't really understand that.
+I had a similar feeling.
+And yeah, but I said live into,
+I probably didn't say it clearly,
+but that living into not trying to be the best,
+but be the only, I feel like,
+because to go back to that,
+you said you were starting a real job at 35.
+I mean, maybe we can say what you meant about that,
+but by kind of whatever traditional standards,
+at least there's a sort of pressure to do certain things
+within a certain time.
+And that mindset you were cultivating is not,
+it's very different from that.
+So yeah.
+When I was 35, I got married
+and I decided to have a family.
+And so then you kind of have to think about
+a regular income.
+So I got a, I worked at Whole Earth.
+I was getting $10 an hour at the nonprofit.
+And that was my job.
+It was like a $10 an hour at a nonprofit.
+Okay.
+It's, you know.
+But it worked.
+It was, you know.
+And my wife, to her credit, married me.
+She was way over educating.
+She was making a lot more money than I was.
+But it's kind of a mystery why,
+because I had no college degree.
+Well, this is love and philosophy.
+So love is powerful.
+Yeah.
+So, but again, I was signed up for,
+you know, a different route where, again,
+I wanted to maintain control.
+And so I had a lot of control of my time at Whole Earth.
+I mean, I was kind of running the stuff
+and I was the publisher and editor.
+And so I had a fair amount of control
+over where I worked and when I worked.
+And I worked a lot,
+but I could take time off if I needed to.
+And you were cultivating all these skills
+that actually were gonna come in handy.
+Yeah, but I didn't know that.
+Yeah, but you didn't know that.
+But how did that switch?
+Like maybe, I'm thinking about your first book
+out of control.
+How did we get there?
+Also, I think you were writing,
+that was the first one, right?
+That was the first one.
+That was in the 90s, I guess.
+This was in the 90s.
+So there was already, I was already online.
+And I around 1998, there was this embryonic.
+So I was involved in starting The Well,
+which was the first public access.
+So I was on the internet.
+That was with Stuart too?
+Yeah, it was with Stuart too.
+So there was a thing that came over the internet,
+which was this announcement
+that this guy was gonna start,
+have a conference called Artificial Life.
+And he just basically said,
+if you're doing Artificial Life,
+come, it was in Los Alamos.
+Oh wow.
+And it was like,
+I'd never been to a scientific conference before.
+I thought Artificial Life, man, that is so cool.
+I don't have anything, but I wanna go and attend.
+And I'd never been to a conference.
+I didn't have any money, but I remember it.
+So it was a very small fee, like $100 or something.
+And I was camping in a state park
+because they didn't have enough money for the hotel
+in Los Alamos, which was pretty high up in cold.
+And so I was attending this conference
+and I decided to do a summary of every talk
+and post it onto the internet, onto the well.
+And so it was like the first real-time conference reporting.
+And so I did a summary of every talk.
+There were, I don't know, maybe 60 talks over the conference.
+And each one was kind of blowing my mind.
+And I was trying to report and understand it
+and did this little summary that I would post every night.
+And that, for the tiny little internet at the time,
+it went kind of viral into the internet.
+Wow, that sounds wonderful.
+Does that still exist by any chance?
+I would love to read that.
+Oh, it's on the well.
+It must be somewhere on the well.
+Later.
+I never thought about that.
+It must be out there.
+I didn't take it down.
+I don't, yeah.
+So that, based on their reaction to that,
+I thought there's something here.
+I'd like to do kind of a book on artificial life
+and all these connections.
+And because what it was was there were economists,
+there were computer scientists, there were biologists,
+there were all these people talking about
+the same kind of thing that later on
+would come to be like the Santa Fe Institute
+and Complexity stuff.
+I was just about to say, Complexity,
+that's what the book is.
+Yeah, and Santa Fe, that's,
+so that was the beginning, huh?
+That was the beginning.
+And there was one other journalist there
+and that was James Glick.
+Oh, wow.
+There you go.
+Chaos.
+He and I were attending.
+He was just a little ahead of me
+in terms of writing ability and all these other things.
+So yeah, so there was something happening.
+And I came back and I said,
+I think I should write a,
+I'd like to write a book about this.
+So I had this agent at Whole Earth
+that I was doing books with and I pitched him a book
+and it got accepted.
+And then I was in a problem because I'm running a magazine.
+So I took a sabbatical from Whole Earth to write the book,
+which was a big step because it was not very much money.
+So I'm kind of taking a risk there.
+I just got a job and now I'm taking a sabbatical
+from the job, unpaid sabbatical.
+And while I was finishing the book,
+which took longer than I thought,
+that's when Wired came along.
+So that's a very complicated story that,
+but yeah, what happened though,
+was that I agreed to start editing Wired,
+but I said, I'm gonna have to take a sabbatical
+after the first couple of issues to finish my book.
+So I was taking a sabbatical within the sabbatical.
+When I started Wired, I let Whole Earth know that.
+Nested sabbaticals, that's very complex system-y.
+The whole idea was that this was a book
+that kept being delayed.
+And so the book finally came out
+and the book also, while I was writing the book,
+the chapters that I was writing
+became the early issues of Wired.
+One of the chapters of the book was on e-money,
+so I assigned Stephen to write a whole bunch on e-money.
+And the first issue of Wired was Bruce Sterling,
+and I had written a chapter on God games and simulations,
+and I had Bruce go take my contacts
+and write the story for Wired.
+So I was using the early, my book,
+the research that I had done
+and the frontiers that I was exploring,
+I used that to shape the first issues of Wired.
+So it was useful in terms of what I was doing.
+That's so interesting too,
+because just even if you look at the table of contents
+of that book, it's like the next 50 years
+of topics that will be discussed.
+So it's kind of wonderful, isn't it,
+that all that came together in that moment.
+I guess it's no coincidence, but.
+Yeah, yeah.
+There was actually a chapter on economies
+that I never got to write.
+It was too big as it was,
+but yes, it was all there,
+and it worked out in the end with Wired.
+So I only missed a couple issues and then went back.
+And so I learned a lot about writing a book,
+which is that the first,
+the last 90% takes longer than the first 90%.
+And so they're just never ending.
+You have to abandon books.
+At least that's my experience.
+You don't actually finish them, you just abandon them.
+Yeah, or that sometimes I just think of it as like many,
+all one sort of book and you just have,
+you let one book go,
+but then you continue the subjects elsewhere.
+Exactly.
+But that kind of relates to the way that book begins
+and the orientation of that book about what's between,
+what's born and what's made.
+How do you say it?
+The marriage between-
+The world, yeah, the world is born,
+the world is made, yeah, the marriage, yeah.
+Yeah.
+That is, that is still,
+what's the word again?
+I'm still writing about that, yes.
+Yeah, and the technological, the biological.
+That actually, I hadn't thought of it till you said it,
+but you could almost blurb Wired magazine's edge
+or what was different about it with that, couldn't you?
+Part of it, it was, and also part of it was optimism.
+Yeah, the optimism too.
+That was another part of the secret sauce.
+And then the other genius that was not my idea,
+and that was entirely due to Louis,
+who Louis Rosetta, the founder, the co-founder of Wired,
+I was at Holworth, I was running the magazine
+with what I call conceptual news,
+which was new concepts, new stuff.
+And Louis said, that's interesting,
+but that's not mainstream.
+What we wanna do is we wanna wrap around the people.
+We wanna make the geeks the heroes.
+We want to talk about the people who are making this stuff
+and what their dreams are.
+And so we don't gonna have to be the people
+on the cover.
+And so we don't gonna have technology on the cover,
+we're gonna have people, faces on the cover.
+And that was the brilliance of Louis
+and the reason why Wired worked
+and the difference between,
+I was doing the same thing at Holworth
+and it had an audience of 40,000 people at the peak
+with no ads and Louis doing the same thing,
+the same kind of concepts, but at Wired,
+now we suddenly had the audience of millions
+and we're at the center of the whole conversation.
+And so that was because of Louis's instinct
+that you wanted to be talking about the people
+who were doing it.
+Yeah, but I can also see how it fits very well
+with even what we've been talking about,
+the trajectories of the science fiction
+or that marriage of technological and biological
+and seeing the world in different perspectives.
+And so it seems like it was a good meeting of minds,
+so to speak.
+Oh, yeah, absolutely, for sure, for sure.
+I wanna move towards the book a bit before we leave
+and to me, these two books actually feel very close though.
+I don't know if, Out of Control,
+the one we're talking about and the last one,
+Excellent Advice for Living.
+Oh, that's interesting, you have to explain that.
+Well, I think it has to do with,
+it would take me too long, but the complexity
+and also that idea of marriage
+between what is born and made
+and this, I feel like you've, from the beginning,
+had a lot of different, this multiplicity
+or this kaleidoscopic vision that I'm just trying to describe
+can be very hard to communicate, right?
+Or to kind of make into something sustainable and real.
+And if you look at advice, Excellent Advice for Living,
+to me, it seems like the way you've been able
+to find habits to do that better,
+to clarify and communicate better,
+to be a better person without losing the complexity.
+I don't know if that makes sense to you.
+Yeah, I think that's fair.
+There's a lot of nuance in the book
+and I would say Out of Control was fairly nuanced
+because it was not binary.
+I think there's very, very few things in the world
+that are binary, most are continuums,
+and that's part of the whole message of Out of Control,
+which was that there was a continuum
+between the most biological thing
+and the most mechanical thing,
+but they're actually just one long,
+one long continuous thing that have different faces.
+And so I think there is a lot of that kind of
+non-binariness in the book.
+Exactly, that's exactly what I was moving towards
+because a lot of this is about trying to hold
+dichotomies or binaries,
+which doesn't mean you collapse them.
+It means you explore the space around them.
+You let them be what they are
+and when you explore the space around them,
+suddenly you see the multiplicities,
+they're not actually binaries.
+And you talk about that in the book in a way, right?
+And this paradoxical nature of life,
+of how do you say it, you know,
+that we're shaping what shapes us
+or we create what creates us or something like this.
+What is that paradox that you bring out?
+Yeah, yeah, and my own personal theology right now
+is that the origin of the universe
+rests on necessary paradoxes,
+inescapable paradoxes to what we would,
+to our minds called paradoxes,
+which is like, you know, the origin of the universe
+in any story you want to tell
+is just unacceptably illogical, right?
+I mean, it's like, well, there's God.
+Well, where did God come from?
+Always was, whatever, self-created.
+It's not going to parse.
+And the same thing with free will and determinism.
+Yeah, they're both there.
+They're both operating at the same time.
+And it doesn't make any sense, but that's what it is.
+It's kind of like super positions.
+God's a super position, right?
+It's God, not God at the same time.
+So there's fundamental paradoxes
+which I've become much more comfortable with.
+And I like little,
+I like even quotes and statements
+that contain a little bit of that kind of paradoxical quality.
+And so I'm pretty, so, you know,
+so some of the fundamental mysteries are paradoxical
+and I am much more comfortable with those than ever before.
+I think it's a skill we really, really need right now,
+being able to hold paradox.
+I'm actually very serious.
+And for the reason that I also think
+everyone needs to read your book right now,
+because, you know, like everything,
+nothing makes sense right now.
+You can't reconcile everything together.
+And part of being able to make sense of it
+in this paradoxical way that you describe in that book,
+I think, is learning that, that you have to hold the space,
+not try to reconcile everything.
+And I feel like some of the advice you're giving
+is ways of doing that.
+And also I brought up awareness earlier, right?
+And just taking a minute to notice the space.
+Right, right, right, right.
+Noticing, yeah, there was noticing is someone was,
+oh, I think I subscribed to this Rob Walker's
+little newsletter on noticing.
+So he's big on noticing.
+I'll write that down.
+And different ways of noticing.
+And one of the things I think he was saying
+was this idea that a lot of people's creativity
+and tremendous work and innovation and discovery
+and good stuff comes from the fact that they noticed
+something and decided that rather than being unimportant,
+that it was very, very important.
+And there's a sense in which through childhood and beyond
+we're often taught to dismiss the things
+we notice as unimportant.
+And he said that the people who kind of retain
+the seriousness of the stuff that they noticed
+with this tiniest little thing is saying
+that's really important and making something
+out of that tiny noticing.
+You notice it, you give it attention.
+As you give it attention, you find it more interesting.
+And so it's kind of like what you've learned
+or at least I've learned is that you can start
+with the tiniest, tiniest little thing.
+And if you take it seriously, it can become something big
+and huge and interesting to other people.
+So you don't wanna lose that ability
+to not just notice things, but to take it seriously as well.
+Yeah, that's another thing in the book.
+You talk about small steps or this thinking small
+but not thinking in a small way,
+but noticing the small things.
+And I've also noticed that even some of the things
+from your book where you,
+cause sometimes things that seem obvious to you,
+if you notice them, you realize they're not obvious
+to everyone else.
+Some of your life, maybe it has been like that.
+Things that maybe you just noticed
+that you knew that other people didn't know.
+Exactly, right.
+And not to dismiss them as being well,
+that's not really important.
+Yeah, or because no one else notices it must be wrong
+or something, that's not true.
+But you say, no, I think there's something there.
+I think, and isn't it gonna make something there?
+And so, like Jerry Seinfeld's entire humor
+isn't noticing little tiny things
+and making a big thing about taking them seriously.
+And so writers can do the same thing
+where they notice something
+and they turn it into the world.
+And that's a beautiful thing
+that I think we do as children a bit
+and are kind of educated out of it.
+So I like the idea of trying to return
+to your childlike fascination with things
+and then kind of using that as a guide.
+And that's where the enthusiasm is too.
+Enthusiasm is also a big word in your book.
+And it reminded me of that quote,
+enthusiasm is the supernatural serenity
+which I've always loved by Thoreau.
+And the way you describe kids,
+that's kind of what you have as a kid.
+You can look at a little flower or whatever it is
+and there's a whole world that opens up.
+And I think we don't realize
+that's actually the case all the time still
+in the way that you said.
+If you look at something
+with a certain awareness long enough, it opens up.
+And the book you wrote,
+a lot of these little things are like that, aren't they?
+There's sort of these distilled little cones or tweets.
+Tweet is gone now, but you know what I mean.
+These things where they look small,
+but you could kind of unpack them for a long time.
+Yeah, yeah, yeah.
+No, it's, oh, well, yeah, that's exactly right.
+In fact, I did a version, a prototype,
+because I'm big into doing prototypes of things.
+Yeah, I saw that when you make all the things
+that you did the little prototype book.
+Yeah, that's cool.
+Oh, wow.
+It's called Seeds for Contemplation.
+Oh, wow.
+That's beautiful, actually.
+And it has my little doodles
+in which the publishers say was two homes spun.
+Oh, no.
+Wow, that looks very special.
+It should be a re-release.
+But the idea was that these things were little seeds
+that you would unpack.
+Okay.
+Right there.
+It's wonderful.
+Yeah, so prototyping is the way to go.
+You want to try things out in small steps.
+Like the fairy door.
+It reminded me of the fairy door that you made.
+Yeah, exactly.
+Yeah, or you did it on cardboard first.
+All the time, yeah.
+But another important thing in the book, I think,
+and one thing that's cultivating this thinking paradoxically
+or being able to hold the space does is,
+I have to bring up love,
+but I think it's in the book a lot.
+It helps you be able to
+be responsible, to say when something is wrong,
+to not take yourself so seriously,
+to not get caught up in all the optics
+that seem so flashy and wonderful,
+but actually kind of make you miserable,
+no matter how much money you have.
+And all of this feels very important to me today.
+I don't know about to you, but.
+The one thing, for example, that you say,
+if you're not becoming more responsible,
+you're not growing or something like that.
+Yeah, right.
+I feel you have more responsibility
+than you're probably not growing.
+I'm a big believer in process and growth.
+Protopia.
+If you have growth, you have process,
+you have growth.
+And even my own personal theology is that
+God itself is also in a process.
+And we're part of it having its own understanding
+about what it's doing.
+And so, process and moving,
+that's one of the constant things
+in the stuff I talk about,
+is this idea of progress, of movement,
+of growth over time.
+And so I have a very process view of the world,
+of our own nature, of the nature of everything,
+this sort of evolutionary movement of betterment,
+ideally, and so, yeah, so that's just kind of my bias.
+Well, it reminded me when you talked about
+the internet as a landscape or something.
+Yeah.
+To me, I feel that movement,
+it's part of the philosophy I do,
+is thinking of, even thinking itself
+as an exploration of a landscape.
+Absolutely.
+Yeah, and I feel that a lot in your work,
+that you were already working from that place,
+maybe even very young.
+There's a conceptual idea of landscapes
+that is really popular in computer science and biology,
+which is this landscape is a way of mapping
+the path, the process of an organization,
+or organism, or an individual,
+and the idea that the higher it goes,
+the more perfected, more optimized it is,
+and that you're kind of always climbing the hills,
+so they call it hill climbing.
+So you want to be always climbing up the hill
+towards optimization, and if you're designing something,
+you want to kind of optimize it,
+and there are algorithms and methods
+to kind of make sure you're always climbing the hill.
+So they call it gradient descent,
+where you're actually going up the gradients all the time,
+trying to optimize something,
+and the issue is that when you get to the peak,
+if it's, the peak may not be the,
+the peak may be a local optima,
+there may be higher peaks,
+more optimization on a different peak,
+but to get there, you have to kind of go back down,
+and that's really hard if you have an organization
+built for excellence and optimization,
+to go back down to where it's less optimal
+is very, very difficult,
+but the thing I wanted to talk about was this other peak,
+like you could be optimizing,
+Elevati optimized typewriters,
+and they got stuck there because in word processors,
+there was a bigger mountain,
+and they couldn't get off of that.
+You have to kind of go down,
+and that's why the startups have an advantage
+because they have nothing to lose,
+they're not pursuing excellence,
+it's all very, very low margins there,
+but the important thing is that
+to have the greatest effect in the world,
+you don't want to be hill climbing,
+you want to be hill making,
+you want to make a new, new territory,
+you want to create the new continent,
+you want to make the new mountain
+that can be hill climbed,
+and so this idea of hill making versus hill climbing
+is where I think the greatest rewards are,
+and if you personally are trying to do something,
+rather than trying to optimize what we already have,
+you want to kind of be on the frontier
+in making a new territory.
+Andrea, it's been great.
+That's beautiful, I know you need to go.
+You don't have anything to say about love
+by any chance at the very end.
+Oh, I love love.
+Okay, that's all we need.
+Okay.
+Thank you, Kevin, this is wonderful.
+We'll continue the conversation someday.
+Yes, please.
+Okay.
+I'll talk to you soon.
+Thank you so much for your time.
+I enjoyed it, I love your spirit.
+I have so much I love about you.
+All right, till another time then, bye.
+Bye-bye.
+I wish I could talk to you every day
+to at least tell you,
+my love,
+I never liked to control you so much before.
+Is it really that serious?

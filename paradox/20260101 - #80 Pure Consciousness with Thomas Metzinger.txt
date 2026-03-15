@@ -1,0 +1,1699 @@
+I could never understand when all the other kids end of high school thought about what
+they wanted to do, how one could start a life without having looked at the really fundamental
+issues first.
+How can you be seriously interested in philosophy of mind and consciousness and not meditate?
+I thought it was so shocking that you have great minds and super sharp analytical minds,
+much more intelligent than I could ever been.
+And they are so impoverished in their personal lives.
+I think a very good term, I don't know who coined it, is an epistemic crisis.
+I mean, we're in danger if we don't only have these language models, but if we get high
+resolution avatars very soon populating our environment, that large parts of the population
+will be completely confused and believe a lot of stuff.
+I think we could still kill ourselves with non-biological intelligence.
+Life is not something to be glorified.
+And there's a turning point in my intellectual life was when I was 16 and I read the first
+noble truth of Buddhism, all life is suffering.
+What is suffering?
+And people have shocked me.
+I said, if you get at that, if you research that, then you will get suffering AI because
+people will make formal implementable models of what conscious suffering is to get a really
+precise theory.
+And then you are there, you're contributing to the process.
+And so there are, I think in some traditions, it's even called the remedy.
+I mean, it's the remedy of just being with it in choiceless awareness.
+That you have a very, very deep sense of validation and insight doesn't mean you've had an insight.
+How can anybody hold the suffering of the world and just look there without going insane
+or without becoming bitter or starting to do philosophy or something weird?
+For me, there is a capacity to see that other human beings are horrible and wonderful at
+the same time.
+Don't touch, don't correct, don't suppress, but suspend it in empty, open awareness.
+Suspend it and let it flower.
+And Krishnamurti always said something very similar.
+I said, don't look at me, test that out.
+What happens if you just feel it directly and are with it without trying to correct
+it?
+What happens?
+I'm not going to tell you what happens.
+Now, of course, the intuition of the human being, the intuition of the human being, the
+intuition of the human being, the intuition of the human being, the intuition of the human
+being, the intuition.
+I don't talk about this in the public because it's too wild for many people.
+But if we don't understand this and we don't somehow learn this, we're going to get blown
+away by the AI revolution and then the planetary crisis and climate and everything.
+In principle, we would have to learn that to deal with all the majority of human beings
+who actively make it worse or just live in full denial or whatever.
+The question is, if there can be a stance, very hard, where you can do more even of that
+and not get burned by the negativity, not get burned.
+And I can only say, I think I've understood that early on, but I'm very bad at it.
+I can only do it sometimes when I'm good or when I'm very alert or open and I go off
+into judging and being appalled very fast.
+I don't know how it is for you.
+Can you hold that a lot?
+Hello, everyone.
+Welcome to Love and Philosophy, where we try to move past the usual either or tensions
+with care.
+I'm Andrea Hyatt and tonight we're going to do something a little bit different, something
+that just kind of feels right for crossing into the new year.
+In a few minutes, we'll be in 2026, maybe you're already there when you listen to this,
+but this is going to post right between years, at least in the Eastern time zone.
+And so I wanted to spend these final moments with a topic that is so expansive and also
+so detailed, and that is pure awareness, but it's also personal narrative.
+We're going to do it with Thomas Metzinger, and he's someone whose work I have been reading
+since, gosh, I don't know, for a long time.
+And it's shaped how I think about a lot of different philosophical ideas, but especially
+consciousness, awareness, and AI, because he's been talking about those a long time,
+since the beginning of his work.
+For that reason, he's also shaped the philosophical and scientific landscape, which we see all
+around us right now.
+This conversation, I hope, is sort of an act of care.
+I want to thank Thomas for going into his personal narrative, even though he says at
+the beginning he doesn't want to, but somehow he did anyway.
+And I think that's the care that is this tension that is holding us, which I've talked about
+in previous episodes and posts, that care is a kind of tension.
+It's not easy, right, to let ourselves care.
+And I had the feeling towards the end of this conversation, a very hopeful feeling, even
+though we talk about some difficult stuff, and there's a lot that's going on in this
+year, my goodness.
+But I had this feeling that, oh, we might be at the edge of a sensual shift that we
+haven't really seen coming.
+Maybe AI is actually going to show us something we didn't expect about humanity and life
+and care in a positive way.
+Maybe we don't want this algorithmic numbing that's also possible.
+Maybe we don't want social media in the way we've had it.
+Maybe we will realize these sorts of things.
+I don't know why I got to that feeling in this conversation, but I hope somehow you
+get to some feeling like that too, because it was kind of a nice feeling that I had.
+And I'd like to give something like that to you all as we go into this new year.
+Let me tell you about Thomas a little bit.
+He's been at the forefront of consciousness studies for a long time, I would say 25 years
+or more.
+He co-founded, actually, I think 25 years ago, or longer, the Association of the Study
+of Consciousness, and he's been exploring all sorts of questions about consciousness
+in philosophy and then moving into cognitive science.
+And you have to realize he was doing this, as we talk about a bit here, way before that
+was normal as it is now.
+And he was also talking about AI in relation to these topics way before everyone started
+talking about it in this way.
+He was also talking about bodily and meditative understandings of cognition and ways of doing
+science even when a lot of philosophers were still talking about computation, for example,
+or just not combining these worlds because it's hard to do.
+He was also one of the first, actually he was the first, to call for this moratorium
+on AI development until we understood it better.
+You can probably already tell that his work spans analytic philosophy, neuroscience, meditation
+research, even a little of what we might call continental philosophy, though he probably
+wouldn't agree with me.
+But obviously he's dealing with phenomenology and he's worked with people like the Churchlands.
+I think he gives a little talk about Daniel Dennett here, meeting him in the pool.
+He's also working with Evan Thompson on the Minimal Phenomenal Experience Project.
+And I guess you guys remember Evan's name, he was on the show and he comes up a lot here,
+his work in this whole embodied cognition movement or the E-cognition movement.
+But this Minimal Phenomenal Experience, which is often just called the M-P-E, is coming
+from Thomas and his work.
+And he has this project now where a lot of people are just trying to figure out what
+this might be.
+What does it mean?
+Minimal Phenomenal Experience.
+And yeah, what is it?
+As I understand it, it's sort of this idea that we have consciousness without the experiencing
+self.
+And I think that sounds really radical for most people, coming from the way we've been
+taught to think about consciousness or cognition, or just the way we assume it, because it sounds
+like you suddenly have consciousness without a body.
+And to be honest, Metzinger might be meaning it that way in a certain sense.
+But as I see it, it's actually more about how we tend to assume that self means the
+whole body, but actually it's the tip edge of us, our body, our ecology, all we're encountering.
+Our body and our cognition are so much more than our thinking self.
+That's how I think of the self, not as all of that we've experienced and all the way
+making we've been through and all the ways we make decisions, but actually just the way
+we think about that, the way we think of ourselves, the stuff we remember, the narrative.
+That's how I think of self, and if you think of it that way, then there is this notion
+that we could have a whole lot of consciousness without that self, and that maybe we're learning
+that in meditation.
+So I've discussed that a lot on this channel, and that isn't necessarily the way Thomas
+thinks of it.
+I do think that he's raising this question, what if we can enter some way of experiencing
+where we're beyond self?
+If we think of self as the tip edge of who we really are, of our whole bodily cognition
+and consciousness, then that makes some sense, and it makes sense even if you don't think
+of it like that in different ways.
+You can read his papers and see all the many ways that they're trying to understand this,
+but I think it makes sense to think of self as just one small part of consciousness.
+Of consciousness becoming aware of consciousness too.
+That is what the self is doing, it's almost like this mediator or translator between parts
+of us, our body, our tacit knowledge, to link it to the subsidiary focal conversation
+that I had with Esther Meek, but it's almost as if we're bringing some of that subsidiary
+or tacit knowing of the body, our being, our ongoing, constant living into our awareness,
+and all that stuff that has come into our awareness we call self.
+But consciousness is way beyond that.
+So that's my little take on it, but he describes MPE basically just as the simplest, what it
+would be, the most minimal form of consciousness, and that's all you really need to know about
+it.
+He does go into all kinds of semantic constraints about that, and I'll link to some papers if
+you want to look at it.
+He talks about wakefulness and low complexity and all sorts of terms like that.
+I just published a piece actually called Beyond Nondual, and now I'm starting to realize what
+Thomas calls zero consciousness.
+Is that the term he uses?
+Yeah, I think it's like zero consciousness, zero point consciousness.
+But in any case, I encourage you to read his papers and even read that piece I wrote
+about Beyond Nondual if you want to go past this or down this rabbit hole.
+One of the definitions I like most about MPE is one I remember from him having a discussion
+with Olaf Blanca.
+I don't think it's in any paper, maybe it's published in their discussion, but he talks
+about it as multi-dimensional space and all these possible consciousness states containing
+all sorts of different trajectories, I think he even says, which relates a lot to this
+whole idea of orientation, sequence and trajectory that I talk about with navigational mind.
+But let's talk about this conversation.
+It's not going to be one of those highly intellectual academic interviews.
+I'm not going to talk about all these high big ideas.
+It was like a crisp sunny day and there was light flowing through the window, which you
+can see in the video, and that's just kind of how it felt.
+I don't know.
+We just let it go that way and it stayed more personal than either of us had probably expected.
+But we do orient it through one of his books, his latest book, The Elephant and the Blind,
+which by the way is freely available to all of you.
+You can download the PDF and that book is based on reports from over 500 meditators
+and I was actually one of them, by the way.
+But it investigates what he's calling minimal phenomenal experience, which is what I was
+just talking about before, the simplest, most fundamental form of consciousness, consciousness
+stripped of everything that's not essential if you want to think of it like that.
+That's where this word pure comes from, which is a hard word and that's where this zero
+person perspective I just remembered.
+So he calls it zero person perspective and that's probably close to that beyond non-dual
+idea.
+What he talks about as pure consciousness or pure awareness in different ways and that
+That can sound really abstract, of course, you know, removed from the messiness of life
+and maybe it is actually, but there's a tension in it.
+It's a really interesting tension.
+There would be a lot of ways to talk about it as paradoxical and since this is about
+holding paradox and beyond dichotomy, I will try to do that just for a minute.
+But probably the best way to think of it is through narrative and through this paradox
+of this word purity.
+So that relates to a lot of oneness and so on and so forth, which I have critiqued a
+bit.
+Not because I disagree with the meaning when we say something like all is one, but because
+I think sometimes we have assumptions in there that actually lead us back to trying to resolve
+contradictions and thus into disagreements and dualities that aren't necessary.
+But what if this pure awareness is a multiplicity?
+What if nothing is pure in the sense of being separate from stories, bodies, and histories?
+If all of that is the same movement and it has no beginning or end, then what we really
+mean by pure is actually all this multiplicity of experience that we represent for one another.
+So in some weird way, what is pure is the most impure because it's all differentiation.
+It's exactly what we mean by all is one or non-dual or pure is this absolutely unending
+and beginningless differentiation.
+So that's one paradox to hold.
+That's kind of the not one and not two of Varela's paper that I talk about a lot and
+could be one way to come into this through the themes of this podcast.
+This ongoingness that has no beginning or end and yet is expressed as multiplicity and
+differentiation for all of us from our different positions, precisely because we are part of
+it and we are constantly co-creating it as we are, as we live.
+So this is really interesting when you think about these meditation reports that Thomas
+analyzes and because they are narratives.
+I mean, I took part in the study and I sort of told my meditation story in a way.
+It's very, it was very scientific, by the way.
+It's not like people just telling their stories, but you're thinking back to your memories
+of being without yourself in a way in meditation.
+You know, someone writes, let me see, I put it here.
+Oh my God, the tension I've called Jeff was gone.
+That was one of the meditators experiences that this idea of who you are, this Andrea
+or whoever, whatever your name is, you know, suddenly that whole narration is gone, that
+perspectival trajectory, as I call it.
+You kind of realize it's just a trajectory.
+It's all the stuff that you've been thinking and about yourself and about the world and
+all the images and words you've learned all together in this trajectory.
+And it's not all of you, you know, maybe that's what people mean when they say you
+realize you are not your thoughts.
+And it's not like your life disappears in that moment.
+And all of that doesn't become meaningless.
+It's even more meaningful in a way because you realize, wow, there's this deep reservoir
+to all of that that I haven't felt into yet.
+It can also be dangerous and scary, by the way, which is why meditation is not something
+that's always just easier to be taken lightly.
+I won't go into all of that, but one of these meta themes of this conversation is this idea
+of what I think of as the paradox in the book, too, of people telling their narratives,
+of how they noticed their narrative and so therefore sort of became something other than
+their narrative.
+So that's really interesting, too.
+And also, there's just the research of it that's done.
+I don't think anyone's done such a big study before Thomas did this.
+So it's really wonderful.
+And I would recommend Philosophy Babel and his conversations about it if you want to
+go into more academic notions of it.
+He also, I think, talks with Christoph Koch there.
+So I'll try to link to that, too.
+But in these meditation descriptions, they're very interesting and people think talk about
+things like existential ease or nonsensational awe, luminous emptiness, natural simplicity.
+There's these just beautiful ways that people describe your body being as it is without
+the story of you.
+So these are descriptions and we start to glimpse consciousness not as inherently subjective
+when we're reading them, but as something that's not tied to the first person perspective,
+even if the first person perspective is the only way we can come into awareness of it,
+if that makes sense.
+Another paradox, self-awareness without a self or something like that.
+And there's this beautiful metaphor, which is what the book is named after, which is
+that, you know, this story about the blind people touching the elephant and they all
+have different ideas of what it is.
+So we're sort of like that.
+We know consciousness through the modifications of it, through our thoughts, our sensations,
+our emotions.
+Modification, I just mean that it's ongoing and bodily, but we come into understanding
+it through communicative ways, representations, which means language.
+So this pure awareness is touching the elephant itself in a way.
+It is the elephant.
+It's us touching the elephant.
+It's all of it.
+And the different meditation traditions describe that in different ways, not only meditation,
+different sciences, different worldviews, but maybe all that multiplicity is actually
+this ongoing thing that we call non-dual or pure or whatever word you want to use for it.
+It is actually all of that multiplicity and we can together begin to explore more of it.
+And there's this kind of narrative discontinuity and narrative continuity that's definitely
+part of that.
+What Esther and I talked about in the last conversation is like the conversational path,
+this discursiveness that helps you to come into awareness of what is not discursive,
+the silence that you can never speak and that you don't need to speak of the body, the life.
+It's not all just this image and word-based stuff, which again gets to this conversation
+I had with Tim and with others, actually.
+A lot of people, I talk about this about how we might be finally through LLMs,
+our large language models, what most people think of as AI, understanding language to be
+not actually what we are, but just a small part of what we are.
+And pure awareness would contain all that we are.
+And maybe we, through something like meditation or even something like exercise,
+all kinds of different ways, get into that flow.
+That's another word that we use for it.
+We fill it beyond the voice in our head.
+Of course, this raises all kinds of questions about all kinds of things in philosophy.
+That's part of what Thomas has been exploring in all his many papers and books.
+And a lot of people end up getting stuck on the idea of the ego tunnel
+because that's the popular book he wrote.
+But I encourage you to really look into his work because
+he's not just saying that we're in an ego tunnel.
+He's really looking at micro stuff here.
+He's investigating what happens in full absorption episodes
+and where self-reference and thought and all this temporal structure, it sort of drops away.
+People report experiencing that in these studies.
+And that's this minimal model where that's what he's getting at here.
+So it's definitely not an ego tunnel only.
+And I'm interested in that micro phenomenology too, but also a more macro phenomenology
+and also the dimensionality and multiplicity of phenomenology.
+And I think all of that comes in here maybe through just the way we talk about it.
+Definitely you can get a lot more about this from reading the work of Thomas.
+And maybe at some point we'll talk about it more.
+But this is part of why he thinks many approaches are needed
+and why he's been part of this interdisciplinary foundation
+that's appearing in philosophy and neuroscience that's statistical,
+but also qualitative and probabilistic, but not definitional always only.
+So I would say these are all different paths pointing towards some sort of
+terrain that we're all exploring that is endless and beginningless.
+Maybe that brings me to why I'm publishing this conversation as we enter the new year.
+And the next one will be about birth or at least birth and
+the nestedness of life will be part of it.
+So that's kind of the theme for these next couple episodes
+because Thomas also talks about the suffering of possibilities inherent in AI
+and how when we're developing technologies, we could increase suffering in the world.
+What would it be to have bevussein kultur as he calls it,
+or what I think of as wisdom and care as recognized as what's meaningful actually
+for us in all this.
+And he's got a new book about that, which we'll talk about another time.
+But that is sort of where we end up getting to here.
+And this idea of how can we balance this moment towards care and sensuality and love.
+Yes, love and not lose ourselves in the numbness of algorithms.
+We don't really want that.
+But how do we kind of realize that it might have something to do with this
+coming into awareness that I was just talking about
+and doing it together and helping each other do it.
+So in this conversation, we will talk about a lot of themes
+that have come through before in all many of these conversations.
+The difference between compassion and suffering with, for example,
+and why philosophers can't often sort of resist
+or traditionally have sort of thought of meditation as not a scientific subject,
+although people like Evan and so many others like Varela have changed that and Metzinger.
+But we also talk about this tension between analytical rigor
+and something like contemplative practice
+and how that relates to what we think of as
+ecognition and embodiment and ecological approaches,
+why some philosophers resist that.
+We talk about possibility of the AI crisis
+and the responsibility for critical thinking that might be part of that
+or even might be part of causing that depending on how we do it.
+We talk about biological naturalism and computational functionalism,
+intelligence, suffering, mislead, all these kinds of ideas.
+We also talk about academic careerism,
+which comes up in some of quite some of these conversations
+or what it means to be in academia or why we think we have to choose sides.
+And there are some darker concerns about the ocean of suffering that's possible
+and this kind of critical threshold that we might be at right now.
+So we hold all that, but we also have hope, we have love,
+we have this personal journey, which I think says a lot of what Thomas has done.
+He's really held a lot.
+He's gone to India and meditated, but he's also been in, you know,
+really the most kind of tech environments.
+In fact, as he tells us here and is really interesting,
+a lot of the younger students now criticize him for being too much about the brain,
+which is just so interesting considering where he started,
+where no one was talking about the brain and it was very weird.
+And as he tells you here, a lot of people told him, don't go there.
+It has nothing to do with the philosophy.
+So I think that's just interesting to think of that narrative,
+to think of these ways that we're learning from each other
+and coming back to where we started and knowing it for the first time.
+And just trying to get a big picture of how we're all doing that for each other
+and how noticing that is a kind of care that we might need right now
+as we begin this new year.
+That's why this is a personal conversation.
+It's showing all these themes more in practice than in academic terminology.
+And that my hope is that we understand that anything pure
+actually includes all multiplicities.
+And being able to handle that might be what we're trying to learn in meditation
+and in philosophy and science for that matter in very different ways.
+To notice our orientation, to notice our sequences,
+to notice our perspectival trajectories,
+and to realize all that's representational
+and none of it cannot be absolutely represented.
+None of this ongoingness can be.
+So when I read Metzinger's work, which I have been doing for a long time,
+I do feel like he's trying to express the reality of this care
+and this beginning less and less ongoingness in all sorts of ways.
+And exploring what we might think of as mystical,
+but with the most rigor possible.
+And he's just really honest and clear about that,
+or he at least tries to be.
+I think you get that sense in just the way he talks to people
+and questions them and asks for their opinion.
+Yeah, this idea of the non-dual or the zero person perspective
+is probably something interesting to think of here together
+as we sort of hang in this moment of time and space between years,
+which are just ways we've come to organize how we are in the world.
+And thinking about meaning, thinking about the darkness and the hope
+and the suffering and the care,
+all is the multiplicity that is all of this being.
+So here's my conversation with philosopher and cognitive scientist Thomas Metzinger.
+Crossing thresholds, I wish you a happy new year.
+I'm really so glad you're here and that you let me ramble on like this.
+And I just really appreciate you.
+I want you to have a good year.
+I really do.
+All right, bye.
+All right.
+Hi, Thomas.
+Thank you so much for being on Love and Philosophy.
+It's really wonderful to have you here.
+Yeah, thanks for having me.
+So I kind of wanted to walk through your biography a little bit as we go
+and tell me how you became interested in these subjects,
+which you've been working on your whole life.
+Well, that's of course a long story.
+And I don't want to put too much of my personal life into the public.
+Because basically, I think it's irrelevant.
+Somebody's arguments or ideas should be judged completely independent.
+That would be what is called a psychologistic fallacy in philosophy.
+But I don't know.
+I could never understand when all the other kids end of high school
+thought about what they wanted to do,
+how one could start a life without having looked at the really fundamental issues first.
+I didn't get it.
+Like they wanted to study medicine or law to make a lot of money or this or that.
+But for me, it was always obvious that you just cannot at the beginning of your life
+just do something, learn something, and then go and earn money with that.
+But I always thought you have to look at the fundamental issues in a professional way.
+Then I was quite soon deeply disappointed in the Frankfurt philosophy department,
+which was all Frankfurt school at the time, all very fluffy political stuff.
+Not radical enough for me at the time.
+I was on a lot of demonstrations and things in the 70s.
+Actually, I mean, as for wasting time with anecdotes, I went to my first demonstration at 12.
+I was in the Goethe Gymnasium in Frankfurt, and the streets were full.
+And we were all marching, all high school pupils with the big guys.
+And the students we admired.
+And I was shouting with a large crowd,
+Franco ist ein Mörder und Faschist.
+And I didn't know who Franco was, and I didn't know what a fascist was.
+But I knew this was right.
+That kind of atmosphere, it's all very different now.
+But at the time, when I later studied, it was a very political thing.
+And there were demonstrations in a certain period, also violent demonstrations,
+practically every Saturday.
+And that was kind of the background, what it meant to study philosophy in Frankfurt.
+I even had a, how do you say, an overprotective father
+who tried to find out what the best philosophy department was.
+And they told him tubing is good.
+But then there was Tina, so I had to stay in Frankfurt.
+And I was completely disappointed.
+After five semesters, I wanted to stop.
+I found basically nothing that resonated in any way with me.
+It seriously caught my interest.
+And I just did my MA because I had so many credits already.
+I thought it was at the earliest possible time, in eight semesters.
+And I didn't study properly.
+By my own standards today, I didn't really study.
+I had to go to India or be on the Startbahn West and do serious stuff.
+Well, it's interesting because even just your philosophical biography,
+for someone like me, I studied German philosophy from United States.
+But I feel like you've sort of set a kind of new orientation
+that a lot of people now coming into philosophy take for granted
+in terms of taking neuroscience seriously, for example,
+or the interdisciplinary nature of what can be a philosophy degree.
+So I'm really interested about that moment.
+When you were in Germany and that was a kind of continental world
+that probably seemed like it couldn't change, right?
+I guess that's what you were annoyed with,
+but I imagine it wasn't an easy step to start going to where you are now.
+I could have had a much better career if I hadn't done this.
+If I had learned my Kant by heart and then just produced
+endless German idealism around 27 or something,
+I could have had a much better thing.
+So there were like in systematic turning points,
+there's a philosopher, a Swiss philosopher, Peter Biuri,
+who was in Heidelberg, but who you probably have never heard of.
+And he was very important because he published in 1981
+a German book, Analytische Philosophie des Geistes.
+And he, in a way, poisoned a whole generation of young philosophers,
+me included, because we suddenly saw,
+oh my God, I got really drawn into Anglo-Saxon analytical philosophy of mind
+because we saw, my God, in other areas on this planet, in Australia,
+in the US and the UK, philosophy hasn't stopped.
+It hasn't stopped.
+And in Germany, all teacher-disciple Jewish intelligence had been murdered
+and driven out of the country.
+All teacher-disciple relationships had been cut.
+And mostly for us, also the 1968 thing that was maybe in the US
+was more hippies and Woodstock was this
+And what was it that our tribe committed the greatest atrocities in the history of mankind?
+That were the things we were thinking about.
+And that was the lens through which we were also looking at traditional philosophy.
+And then I suddenly saw this.
+I mean, I have a different view about American philosophers maybe now,
+but at the time, I was just so impressed when I met all these guys as a PhD student.
+I met Dennett in the swimming pool, in the Tif, and all these people,
+John Hoglund, Jack Won Kim, and how they can walk up there in short pants and sneakers
+and jogging gear and give these crystal clear lectures.
+And this rigor and intellectual honesty as opposed to that.
+One of my British PhD students coined that fantastic term for me, continental jazz.
+So the continental jazz in which I had grown up.
+So I got into this, got really interested in my PhD thesis.
+But then as you indicated, my project over the last 35 years has been opening
+analytical philosophy of mind to interdisciplinary cooperation.
+So that's what I did with people like Wolf Singer, for instance,
+from the Frankfurt Max Planck Institute.
+So I always organized exchanges with the AI community, neuroscience.
+And the funny thing about what you just said is I just come back.
+I had to give the Münsteraner Universitätsvorlesungen last week.
+And there were students, advanced students,
+who had done nothing but study my work for two semesters and all trashed me.
+For one and a half days, I got completely trashed.
+And one of the presentations by three students was called In the Neurotunnel.
+And they completely criticized my completely naïve relationship to neuroscience.
+And why only the neurosciences?
+You know, why only that discipline?
+And all the things neuroscientists don't understand about their own research.
+It was really refreshing.
+Yeah, I was going to bring that up too,
+because I feel like we're at a weird turning point now,
+almost like coming back to where we started and knowing it differently.
+You know, because it's so taken for granted that the neuroscience,
+it's almost like the neuroscience has become the philosophy.
+And now you see this kind of pushback against that.
+But when you started, you said you could have had a much better career if you hadn't done that.
+So that's a huge arc, right?
+To come to where you're being criticized.
+Oh, yeah, yeah, yeah.
+So just to give you an illustration,
+when I entered the Frankfurt Philosophy Department at the age of 20, it was normal.
+They told young people like us,
+if anybody thinks empirical sciences like the neuroscientists
+could have any relevance at all for philosophy,
+they haven't understood what philosophy is.
+You know, that was a very serious announcement.
+It's all transcendental conditions of possibility for knowledge.
+Whoever thinks any empirical fact could play a role is deluded.
+It hasn't got it.
+And yeah, that has changed it.
+I mean, now we have about five places in Germany where if you want to,
+you can study philosophy and cognitive science really well.
+And what did the neuro phenomenology come in?
+I mean, I know you wrote your book.
+I think you wrote your book being no one with the Churchlands.
+Do I remember that correctly?
+I wrote a habillitation thesis, which had a much more serious title.
+And the theory is in there, but it's embarrassing now.
+Don't look at it.
+I'm really embarrassed by it.
+But that's a good sign.
+Actually, we should all be embarrassed by our early stuff.
+Are you too?
+I think everyone is.
+I mean, I think if you're not changing, then you still believe the stuff you did then.
+Thanks so much for this.
+I will quote you for the rest of my life.
+I think this is true.
+The German book was called Subjekt und Selbstmodell.
+So the actual philosophical idea was what is the relationship
+between the epistemic subject and its phenomenal self-model?
+What is that relationship?
+Nobody ever gets it today.
+They're just, these guys are selfish and elusive.
+It's the only thing that got through ever in the public.
+And then I had a long subtitle.
+And I said, and I still think that the problem of consciousness is many problems.
+And I thought at the time, the central, the most important problem is
+that it is apparently tied to individual first-person perspectives.
+And in that sense, irreducibly subjective.
+So the perspectivalness of phenomenal consciousness
+seemed to be the core of the issue.
+And so the subtitle was Die Perspektivität, Phenomenalen Brustseins.
+Vor dem Hintergrund einer naturalistischen Theorie mentaler Repräsentation.
+Against the background of a naturalist theory of mental representation.
+That was the project.
+Could perspectivalness be dissolved like this?
+Then I organized, we founded the SSC in 1994.
+I organized SSSC too.
+You have the talks from 1998 ruined a whole year of my life in Bremen.
+And the Churchlands got me over to UCSD for a year.
+I had two good years.
+I'm now in looking back mode in 40 years in academia.
+That was one of the two really good years where I flourished,
+had a fantastic environment, super working conditions.
+That was good.
+And so I sat in the eighth floor of the Humanities and Social Sciences
+and wrote Being No One.
+And I thought, sorry.
+I should just show people.
+It's a very big book, the English version.
+So you were doing a lot of writing.
+Yeah, I did a lot of writing.
+And I thought Americans need something more crude and something more loud.
+And that's why I called it Being No One.
+Thanks a lot.
+And I have to pay the price for this for the rest of my life now.
+You figured out the recipe.
+So now you're trapped.
+That's what happens.
+Yeah, it's all marketing and I have to try some radical marketing there.
+And the interesting thing is, because you ask about neurophenomenology,
+you have to be very careful about what you say.
+You have to be very careful about what you say.
+So I have only really met Francisco Varela twice in my life
+and liked each other very much.
+I never forget he invited me and Thomas to Paris.
+And he listened to my talk about the self-model.
+And he said, Thomas, everything you say is completely right.
+You have no chance as long as you stay a representationalist.
+It's all false because it's representation.
+That was so funny.
+And then, as you know, there is this neurophenomenology tribe,
+also my friend Evan Thompson in philosophy,
+who try to tie it to certain phenomenological traditions in Buddhism.
+And that's just what I wanted to say.
+The way I use neurophenomenology in Being No One isn't actually that usage.
+I thought this is the project.
+That's what I want to do.
+Neurophenomenology.
+But for most people today, the term means something else.
+So it was more like Patricia Churchland's use of it?
+No.
+Because that's what a lot of people will think of too.
+Kids who said, I'm living in the neuro tunnel.
+I told them how it really was.
+I told them I took Patricia Churchland's 1986 book, Neurophilosophy,
+and brought it to my neuroscience friends in Frankfurt and said,
+here is something from philosophy.
+Don't you like this?
+Neurophilosophy, you would like it.
+And they said, we can write a third-class textbook ourselves.
+We want you to tell us something about Merleau-Ponty and Leib phenomenology
+and the neuroscientists.
+We want philosophical work on embodiment.
+And not that.
+We can do that ourselves.
+And I said, yeah, there's all these, Paul Churchand and John Bigler.
+And they looked at it and they said, yeah, yeah, we do that ourselves.
+That's not what we need philosophers for.
+Very interesting reaction.
+Do you think any of the critical thinking aspect of it
+or the analytic part is getting lost in this kind of new shift?
+Yes, absolutely.
+So if you look at this new book, Culture of Consciousness,
+I have been advocating for a number of years
+that we should in the educational system have two things.
+One is what I call attentional auto-regulation.
+That is meditation practice for children and youth.
+And what in philosophy is called doxastic auto-regulation also,
+which is basically rational, critical thinking,
+optimizing the relationship between what you believe and what you know.
+There are theories.
+There's a technical discussion about this.
+And those are the two kinds of mental self-regulation.
+I think we really need.
+And I don't know in German, it's called Argumentationstheorie.
+I don't know if they teach it in Heidelberg,
+but I think that's actually some of the best things philosophy has to offer to society.
+Because it doesn't work.
+And of course, were you asking about neuroscientists and critical thinking?
+No, I think just in general, I guess what I'm trying to get at is
+one thing I've liked about your work is that it's trying to hold this paradox
+without trying to solve it.
+The sense of the analytic philosophy and that critical thinking
+and that crispness that you described.
+But also, I mean, a lot of people would associate you with pure awareness
+and even psychedelics and meditation and these kind of subjects,
+which can seem opposing to that, but haven't been in your work, clearly.
+And I guess with this kind of rise of everyone wanting to talk about embodiment
+and four-year cognition and phenomenology again,
+which is really just happening right now.
+Five years ago, everyone wouldn't talk about that in philosophy departments.
+I guess what I'm saying is we don't want to just keep flipping
+from where you started in this kind of continental morass or whatever.
+It's very interesting.
+To move the neuroscience back to that.
+I mean, it's not even two.
+You said multiplicities earlier and I think that applies here too.
+There's something else that I'm hoping we don't lose, I guess.
+I just wonder if that makes sense to you.
+And that's very interesting, Andrea.
+So now you have, you don't even say jazz, you say morass.
+Well, I think I'm taking that from you from a feeling that I had
+about the way you described those early years, which were very inspiring.
+Of course, a lot of German philosophy is the basis for so much.
+It's not that we got rid of it, but I felt in your writing over the years
+there was a stuckness there.
+You were pushing against it.
+And even meditation and all of this stuff wasn't, you couldn't talk
+about that then either.
+I mean, things have changed so much that I just feel like we don't want
+to lose sight of all of those things.
+And that's the hard thing that I actually have felt in your work
+for 30 years, but that I would hope people don't lose.
+Right?
+Because it's so easy to see one side or the other and stick to it.
+Yeah, so how to start?
+So of course, for me, it has always, so I started to practice regularly
+before I started to practice philosophy at the age of 18.
+And it has always been clear to me that there's this wonderful German
+idiom, and I never know how to, so a serious interest.
+And I think the best English translation is in epistemic gain, but I never know
+what the good translation would be or epistemic progress.
+And I've always had the suspicion.
+I mean, many people would think this is crazy, but how can you be seriously
+interested in philosophy of mind and consciousness and not meditate
+or experiment with psychedelics a little more seriously?
+You know, I really, it's totally okay if somebody says I'm simply afraid
+of psychedelics from what I've heard.
+That's okay if you don't want to do that.
+But meditation is benign and subtle and slow and is for almost everybody.
+It's doable.
+And the interesting effect is you have many neuroscientists that actually
+have a practice and you have cognitive scientists and psychologists
+and almost no philosophers.
+You know, there's Michael Hampe in Zurich and Evan Thompson maybe,
+and then you have no practitioners.
+And also with my PhD students, I went on retreats, short intros in Switzerland
+twice, and then we had a little conference where we gave mock lectures
+to each other and I said, oh, this is so great.
+We felt so much more like a group afterwards.
+And we've listened to each other more than we have ever listened.
+Really good listening.
+Nobody started to practice.
+They all liked it.
+They all thought this is good.
+Nobody picked up a practice.
+And I wonder what this is about philosophers and intellectuals
+that they have this resistance against, I don't know how you would call it,
+like multi-track epistemic exploration or so.
+Well, it sounds like, Thomas, you had a kind of confidence
+that a lot of people don't have.
+I don't know if it came from meditation or what it came from.
+This kind of, you know, your signature of knowing or whatever was a bit different
+because I think a lot of people in my experience are criticized, right?
+And you have to be able, like you were gonna do the neuroscience and everything
+and the meditation and somehow you were able to hold the multiplicity.
+Who knows how?
+Some people can.
+Maybe it's meditation.
+I think that helps.
+But I think when you're trying to choose a track or you're even just talking
+with your peers often, and hopefully this is changing,
+you feel like you have to choose between something like
+believing in whatever meditation and all of that is doing
+because it gets associated with a kind of mysticism
+or a kind of not serious kind of track versus the analytic
+where you're doing the logic.
+Who are really right, who are really not serious.
+Oh, that are not really serious, right, to pull off this.
+I mean, what is your target?
+You want to do tenure?
+But you want to get tenure by outsmarting?
+That's an interesting word I learned in America, outsmarting other people.
+I didn't know before, you know, this is all...
+I thought it was so shocking that you have great minds
+and super sharp analytical minds, much more intelligent than I could ever been.
+And they are so impoverished in their personal lives,
+especially guys, because it's mostly guys.
+I mean, the only thing they can do is to get close to each other,
+is get drunk together one evening,
+and then they call each other by first names next morning.
+So I always thought what is happening, what I see in academia,
+this crippling way of doing philosophy,
+of becoming mere intellectuals, disembodied,
+all that, that cannot be it.
+But on the other hand, you know,
+I've kept my meditation practice basically secret
+until three years ago or so.
+But of course, people think, okay, now he's getting,
+I don't know how we would say that, wacky, pre-signal dementia,
+now he's retired, now he's coming out with this shit.
+And nobody will, of course, say,
+okay, like you said, this is not serious, this is crazy or so,
+but they will all inwardly turn away
+if they see somebody does something like that.
+So I think what shouldn't be underestimated is how strategic people are,
+how competitive they are,
+how they will use opportunities
+to make somebody else look bad or stupid.
+You can really ruin your reputation very easily in academia
+without anybody saying anything.
+People just know, okay, now it's meditation.
+Okay, bye-bye.
+And in a sense, they are right.
+Wasn't it Hegel who said very arrogantly,
+Indians don't have philosophy,
+but they have wisdom traditions.
+Well, it's not actually true
+if you look at the history of Buddhist philosophy,
+but there's something to it.
+You know, and most of the representatives
+of something like meditation, which you see in the public,
+this is appalling to philosophers, right?
+I just think that we can go the other way too,
+you know, in the way that you're getting criticized now, right?
+Where we say, oh, everything's in the brain
+and you cannot take that seriously.
+So, I mean, for me, it's about that flipping back and forth thing
+is what I'm hoping changes from a lot of the stuff
+that you've been doing because, yeah,
+that sort of shocks me that you only started talking about,
+you mean your actual personal meditation practice
+you only started talking about three years ago
+because you've definitely been talking about subjects
+relative to meditation for a long time.
+I mean, you know, and the elephant book is all about it
+and I guess you just mean you didn't talk about it personally.
+Is that?
+The thing is, I mean, there's of course a deeper issue behind it.
+It's the epistemic authority, say somebody takes psilocybin
+and has a deep, deep, deep insight
+about the nature of consciousness
+and somebody else meditates and has a deep, deep, deep insight.
+And then you have, say, philosophers
+cooperating with neuroscientists
+and they have an idea about the neuro-correlate
+or whatever computational model of consciousness.
+I mean, who, in cases of conflict, who decides,
+and I'm very old-fashioned, I think,
+the theory that has the better predictive success,
+that theory wins.
+So what I've called in the elephant,
+the ephala fallacy and the sea fallacy.
+I don't know if you remember that.
+I mean, just the fact that you have a very, very deep sense
+of validation and insight doesn't mean you've had an insight.
+We find that, for instance, in ecstatic epileptic seizures, too,
+that people just before the attack
+have a very, very deep phenomenology
+of knowing that they know.
+So that's not an indicator for knowledge.
+And of course, many people from the meditation traditions
+and a lot of, let's start with the meditators,
+they make wild epistemic claims,
+which are completely bizarre from a theory of science
+or academic epistemology perspective.
+So that disqualifies them for many.
+And then I don't know if you've heard that
+in psychedelic research, they have this new term ontological shock
+that many people develop weird metaphysics after a certain time.
+The latest example being Christoph Koch.
+You know, I don't know if you've seen it.
+He was, for all the time, we've known each other for ages.
+He was at Caltech.
+I was in San Diego.
+The ultra ideological reductionist.
+And now, very late in his life,
+he does this and he becomes a panpsychist and an idealist.
+So that's a way of flipping back and forth.
+But I wanted to ask something about you.
+Were you indicating that this fashionable,
+I mean, embodiment is not that young, actually.
+And I just, as I told the kids in Münster,
+it started not really in philosophy,
+but in AI, the whole branch of robotics,
+the whole idea of roboticists was to start with embodiment
+because you don't get to robust intelligence.
+And then there were maybe 30 years of embodiment
+in philosophy debate.
+And now it starts this EE thing.
+Are you saying this is the morass again?
+No, there's something to all of it, but it's very hard to say that.
+I mean, even in academia, this is not an easy position.
+I love computationalism, functionalism, all of that.
+I love analytic philosophy.
+I also really got a lot from 4E, so-called, from Varela, from all this.
+And trying to talk about those together,
+you pretty much got shut down really quickly because,
+for whatever reason, and I think that's changing,
+but I worry it will go all the way the other way
+so that everyone in 4E thinks you can't be analytic.
+And for me, the actual kind of transformation
+to look at your terminology or something
+would be holding those in a different way,
+which might be something I've seen in your work over time
+because you're doing all of it, right?
+Even if you don't use the terminology,
+you find whatever words are going to speak to whatever audience
+in the way that you're saying.
+I see it all there.
+You've been talking about the body since the beginning,
+but you've also been trying to understand
+what is this first-person perspective?
+Does it require a body?
+Does consciousness require a certain kind of body?
+But you're not talking about it in the language of 4E.
+But like you said, a lot of it's coming out of robotics, AI studies.
+I want to open up with this whole thing is that
+we don't have to choose a side with all these things,
+which it feels like we have to.
+Very good idea.
+Not choose.
+That's actually one of the deepest spiritual principles,
+choiceless awareness.
+You find this in people like Jay Krishnamurti
+and many other of these teachers.
+Can one see the value in all of it?
+But in reality, I think it's hard to understand
+the careerism in academia.
+And the problem is it's all smart people
+who are very strategic.
+So they try to form movements or clubs or little cults.
+And they hope that some influential people there
+will get funding and money.
+So there is a pure analytic philosophy called.
+And there is this what I perceive in this EEEE
+neurophenomenology crowd that has now emerged.
+Please note at the beginning,
+these were very hard-headed guys.
+Andy Clark, for instance.
+And so for authors like microcognition
+and the whole thing with the extended mind,
+these were people who are very close to mathematics
+as philosopher and computational modeling.
+And now it really looks like a kind of wokeism to me.
+It's like being feel good.
+Are you a warm-hearted human being that is open?
+And the academic quality generally is pretty low.
+So you also find these cults or subcultures
+where people who don't really make it in the academic mainstream
+gather and then open their own little thing,
+their own little movement,
+with the hope of getting funding there
+or portraying themselves as victims.
+You know what I'm getting at?
+An evil system.
+And I think as you point out this,
+how do you say in English,
+it erases our view at the real important problems
+that are there and the really important issues.
+And that we need the critical thinking part of it.
+There's a work involved in philosophy that is important
+no matter which of these kind of groups you're in, right?
+It's not easy to learn how to think critically
+about all of these things.
+Give me some standard examples of philosophers or movements
+where you think this is really lacking.
+It's not that I think it's lacking
+and I don't want to signal anyone out
+because I actually think there's good stuff
+even in all those groups, right?
+So you said, how can you not explore everything in a way
+if you really want to understand what is going on here?
+I mean, we're conscious and this is amazing.
+What is this, right?
+Maybe a lot of us when we're young feel that
+and we want to explore it
+and that's why we go into philosophy or neuroscience.
+And I feel that in your writing.
+I feel that in your beginnings
+and what you're talking about here.
+But also we can get carried away with that too
+that we want to always feel that kind of excitement.
+Sometimes perhaps that's what's motivating us.
+We hide it with all this language
+and then maybe at the end of our life,
+then we kind of let ourselves kind of release back into that.
+I don't know if there's anything wrong with that.
+Oh, that's an interesting.
+I see there's all these controls that academia give you
+so that you don't do that.
+But lately things have gotten a bit crazy.
+All the norms are changing.
+What do you perceive as crazy?
+What do you perceive as really crazy?
+I feel like with AI changes, with large language models,
+with a lot of things what we've taken as maybe standard
+and just assumed will continue into the future regarding education,
+regarding how we write papers,
+regarding everything is up for grabs in a way
+or we don't know what's going to happen.
+And there's a foundational looseness to our relationality.
+It's shifting.
+And I think some people just think,
+well, I'm just going to go for it, so to speak.
+This is what I think and maybe it's crazy,
+but maybe that's what I have to be, right?
+Because in other areas of life,
+we see that too, the craziness in terms of being extreme,
+letting yourself unleash
+seems to be getting a certain kind of attention.
+I think in the long run, we see what happens, right?
+But in this very moment,
+I don't know if you feel that at all,
+that there's a change in constraints.
+I don't know if I could say it like that.
+For philosophy or for everybody?
+Yeah, for philosophy, but related to everything else
+that's going on in the world
+in terms of what we might have thought could never happen.
+Oh, yes.
+Well, I think it can happen.
+Yes, of course.
+Okay, I'll tell you another anecdote.
+Maybe you've heard me telling this.
+When I took my PhD in 1985, I didn't know what to do.
+And then I was allowed, which was a bigger procedure at the time
+in 1987 to teach my first seminar ever.
+And I taught a seminar on artificial intelligence and philosophy.
+That was the first thing I ever did.
+And I still remember I came in and the room,
+the largest room was black with people.
+I couldn't go get to the blackboard because everybody thought,
+why does this young guy have to push through?
+You know, he can't be.
+And it took me a few weeks just, I mean, basically,
+I think the mood was, we don't know what that is,
+artificial intelligence, but we are very sure
+it's something that has to be prevented.
+It's probably, as I often said, a very cool word
+in these times among students was proto-fascist.
+It's probably proto-fascist, you know?
+And then I had to tell them that there was a whole philosophical discussion there
+that I didn't know, Aaron Sloman, the space of possible minds,
+and let's read these papers together.
+And everybody said, it's never going to happen, AI,
+and it's bizarre, and science fiction, and nonsense,
+and now look at the situation.
+I think a very good term, I don't know who coined it,
+is an epistemic crisis.
+I mean, we're in danger if we don't only have these language models,
+but if we get high resolution avatars very soon populating our environment,
+that large part of the population will be completely confused
+and believe a lot of stuff.
+As you mentioned, critical thinking,
+it's going to be very hard to get a foot on the ground with a flood of,
+you know, the flooded zone with fake news,
+but now presented through photorealistic avatars,
+we may get into a situation that is really, really weird.
+And actually, philosophers would have a high responsibility
+in a situation like this.
+Philosophers should be like a source, how do you say, of non-fake,
+like really good journalism, you trust.
+That's what philosophy should do in these situations.
+That's that critical thinking.
+But it doesn't have to give up on the embodiment
+and this understanding that comes through something like meditation
+or even what you're describing as psychedelics, right?
+Where did I read this?
+I'm concerned about one thing, Andrea.
+So of course, a language model learns critical thinking just like that
+and informal fallacies.
+It's much better at arguing now than human beings.
+There were these guys who tested a reasoning model
+on some Reddit thing in the internet where people,
+there's this Reddit thing I think called Prove Me Wrong,
+where people debate outrageous claims.
+I don't know what the English term is,
+the convincing power or something of an undercover language model
+is six times higher than that of human discussants.
+Because it knows critical thinking so well.
+Yeah, but it knows that because it's trained on every argument
+that's ever existed, which we can't hold as our kind of biological body.
+So if we stop doing it, eventually, so will the AI.
+It's not that, I mean, it's just going to be trained
+on everything we've done up to this point.
+And then I've even noticed it,
+I don't know if you use large language models,
+but lately they become less intelligent, so to speak.
+I mean, they're starting to lose the thread a bit.
+I don't know what's going on, but I think it might have something
+to do with so much input that's not so easily categorizable.
+But you started with AI, a long time ago too.
+So this is kind of what I'm saying, right?
+You started with meditation, you started with AI,
+you started with, I don't know about when the psychedelics kind of came on,
+but I know you are interested in trying to really understand
+from that organic place that we're talking about.
+I have been very, very lucky in retrospect, very, very lucky
+that I only got hold, I was very interested,
+but only got hold of LSD at the age of 25.
+In retrospect, that was very, very good for my life.
+I would not have continued to study probably anything.
+So I'm very much concerned.
+I always tell people, you've got a lot of time.
+You don't have to do this when you're very young.
+It could be that you get so fascinated that you don't do anything else
+for the next 10 years, basically, you know, basically.
+So that's risky.
+So it's in a period of five years, just to answer your question there.
+Thanks for saying that because I think it's really important.
+I would say wait as long as possible in a way and understand what you're doing.
+But you brought up Varela.
+We've been talking about the body.
+We're talking about AI.
+So if AI becomes conscious, would they need to meditate?
+Would they require a body?
+Well, about the body, you will see a massive target paper by Anno Seth.
+It's actually on the web already about biological naturalism.
+And with 15 replies, I've written one to it very soon.
+And there is this issue.
+I mean, the majority, I have always been a computational functionalist,
+but there are some very good arguments that some of the low-level functions
+in our embodiment cannot be algorithmically described.
+That there are things in, especially in the brain,
+that neurons have a primary metabolic function and stuff like that.
+And that there are maybe on the molecular level things
+that are just not tractable in the framework of computational functionalism.
+And then in the end, there's a wide open debate.
+The intuition that many non-academics have,
+it has to be alive, is actually true in the end.
+That there's something we cannot do without this naturally evolved hardware.
+Many very smart people are debating this.
+Of course, if you say, no, no, it has to be alive,
+you get a lot of applause from non-academics.
+And everybody says that sounds right, living body, yeah.
+And it's lived experiences and all.
+This has the right ring to it.
+I think we could still kill ourselves with non-biological intelligence.
+We could drive AI that it gets something else.
+And I also think we will have post-biotic systems, as I call them,
+systems which are neither artificial nor biological.
+They will develop organoids and these organoids, my speculation,
+you will get large organoids and then train them with AI.
+And you will have something that is not,
+we haven't seen on in the history of this planet before,
+forms of cognition or in intelligence.
+In any case, I think that the verdict is still out if it needs life.
+And what it is about the process of autopoiesis,
+this very unlikely process of becoming anti-entropic systems
+in an entropic universe, that that is needed
+to generate what we call intelligence right now.
+And I'm, of course, very interested in
+if there's an essential connection to suffering there.
+So that is why all these MPE states and the pure awareness stuff.
+And so, of course, is interesting because we want, I'm a very,
+I have a lot of dark views.
+Many people don't like to hear and that I hold back.
+I think I said it once in the ego tunnel,
+I think biological evolution has created an ocean of suffering
+and confusion in a place of the physical universe,
+in the region of the physical universe,
+where nothing like this existed before.
+And I'm not so sure if life is a good thing
+because it has created so much suffering on this planet,
+especially after the evolution of predators,
+animals who could only live by eating other animals.
+There was a time in evolution where it wasn't like that.
+So I think this is, life is not something to be glorified.
+And there's a turning point in my intellectual life
+was when I was 16 and I read the first noble truth of Buddhism,
+all life is suffering.
+That was a real turning point because that was something
+I could not have conceived of before as a possibility
+that that might be true.
+And now, if you look at the top-notch theories,
+free energy minimization, Karl Friston and all that today,
+then you see from the lowest level of our embodiment
+upwards to cognition, it's a permanent uphill battle.
+It's a constant battle against prediction error,
+against entropy-free energy spreading in the system,
+trying to, for a certain time, maintain your boundaries,
+the Markov blanket around yourself, and not to dissolve.
+And that is kind of the highest norm
+in our kind of embodiment and life is,
+do not die and propagate your genes.
+Those are the two main norms.
+And in that sense, we are not free.
+I don't know if that goes your direction,
+but I think a root cause of suffering
+is what the Buddhists have called the craving for existence,
+Bhavatana.
+And you find it in the best modern computational theories
+of life and mind.
+You find the same thing if you look at this Kate Knave book,
+A Drive to Survive.
+For instance, that is pretty much it.
+And a completely rational AI could not have that.
+It could not have a drive to survive.
+It could be ready to shut itself off
+if it sees no further reason for its own existence.
+So as we are on this historical threshold inflection point,
+I think one of the most important targets
+is to prevent a further explosion of suffering
+in us, in biological sentient systems via AI,
+but also in AI itself.
+That is really of highest relevance.
+And what we don't have is we don't have a convincing theory
+of what suffering is in the first place.
+I've made some very, very first steps,
+but I think that would be high priority.
+What is suffering?
+And people have shocked me.
+I said, if you get at that, if you research that,
+then you will get suffering AI,
+because people will make formal implementable models
+of what conscious suffering is to get a really precise theory.
+And then you are there.
+You're contributing to the process.
+So that's part, I think, of this very difficult situation
+we are in right now.
+If we have any ethical sensitivity at all,
+how to minimize suffering.
+And that's also, I mean, it's not only,
+that will be one criterion.
+You have mentioned this multi-track epistemic thing,
+do philosophy, do interdisciplinary philosophy,
+do meditation, do psychedelics, something like that,
+that you thought that was interesting.
+But a general, how do you say, norm or goal
+under which you could do this
+is how can suffering be minimized most effectively?
+And the question is, I read a thing
+called intelligence and pain recently,
+where somebody says, well, all we know shows
+you cannot have intelligence without suffering.
+It's part of, I have no opinion of that,
+but if that is true, that mindedness
+and increased intelligence brings suffering into the world
+and more suffering and refined suffering,
+that will be really bad news.
+I don't know if you have any views on this.
+Well, I think since we don't have that much time,
+I mean, there would be so much
+I would want to talk about in there.
+Well, make another date.
+But I do want to say this, that just in the spirit of,
+with the embodiment and the AI
+and all these things we've been talking about
+as if they're opposites,
+and me trying to say they're not opposites,
+because I really think that question,
+Varela telling you, oh, it'll never work
+because of representations.
+I think what we mean by representation is changing.
+We don't have to think of it as like a hieroglyph in the brain.
+I mean, this is what I've been writing about.
+And then you find that all of these things
+start communicating in a different way,
+that all the stuff we've been doing as if we're separate.
+And I really see that as a very promising way to go
+in all these directions,
+including the one you just brought up
+about being able to see the suffering.
+I mean, for me, we have to come to love here at the end.
+And I actually think suffering is a kind of,
+I don't mean that to suffer is to love,
+but I don't see these as like, you can't separate them.
+I don't think care is a kind of tension for me.
+And that's why I think meditation and the Buddhist,
+all the stuff you've brought up is very helpful
+because it lets us be in that space,
+marinate, so to speak, right?
+To talk about marinating instead of meditating
+and try to handle that,
+which is maybe what I wanna bring up here at the end.
+Love, I know it's a hard word to bring up
+in these conversations,
+but what do you think about that word
+and your elephant book, for example?
+A lot of people could be describing something
+like an experience of love in those descriptions
+that they give the meditators,
+if one wanted to think of it in a certain way,
+from my perspective.
+But I just wanna put that word there.
+Like, what does that bring up for you?
+Does it bring up anything?
+Do you wanna push back?
+I'm not gonna talk about anything personal here
+because this will be too personal.
+But let me start with one thing I had
+in an interesting moment years ago
+where Buddhists were trying to explain Karuna
+and metta meditation.
+And you know, there are these two German words,
+Mitgefühl for compassion and Mitleid,
+which is pity or whatever it is, pity, yeah.
+Suffering with.
+And then they tried to explain this to the Buddhist.
+And what Mitleid means, suffering
+with another sentient creature.
+And the Buddhist just said, no, no, no, no, no.
+That's wrong.
+I mean, the right mindful proper form of compassion
+is something that doesn't create suffering,
+not in you and not in somebody else.
+So you don't want to suffer with them.
+That's a complete, the German word Mitleid said
+that that's a complete.
+Now, that is something that is so much I can say
+very difficult for me in my own life
+to feel at least a little compassion sometimes
+to the ocean of suffering in this world
+without getting burned.
+That seems to be the challenge to me
+because as soon as you see how much suffering this is
+and what a kind of a world it must be
+that enables so much suffering,
+also in the animal kingdom permanently,
+it's very hard not to immediately get bitterness,
+despair or a reaction.
+I must close myself off to this
+because I just cannot handle it.
+It will burn to me.
+And I think people have claimed this.
+I don't know if it's true,
+but maybe there is a kind of being compassionate.
+Maybe there is a kind of non-dual awareness
+that can, I say in English, embrace all of this maybe,
+embrace of this with love, with compassion,
+without getting completely blown away.
+And I think that is just, I mean, that is the thing.
+You have often spoken about holding things,
+but how can anybody hold the suffering of the world
+and just look there without going insane,
+without becoming bitter or starting to do philosophy
+or something weird?
+No, I think you're touching at actually the main point
+and just about everything we've been talking about
+in terms of why people go to extremes
+or why we cling to academic groups or whatever.
+I feel that a lot since a kid.
+It's very hard to just love actually
+because you have to recognize how much suffering there is
+and also to recognize that the way the world works
+is not a fluffy idealistic way.
+There's a reality there that you can't get away from,
+but makes me think that suffering with
+is also what we don't get away from.
+I mean, we didn't have time to go into it,
+but there's one thing I thought of earlier in your book.
+I'm not sure which one, probably the elephant book,
+but you talk about you're like rushing.
+I think it's you.
+It might be a meditator, but somebody is rushing around
+and they're like trying to catch a train
+and there's a lot of stress.
+Yeah, maybe washing dishes.
+Yeah, and you didn't meditate
+and you think you have to meditate.
+For a moment, the room is meditating
+and you don't have to or something.
+I love that feeling and also the outer body stuff.
+Do you have that sometimes?
+Do you know that feeling?
+I do.
+It's those moments you described too
+where you're not thinking about your own thinking,
+but you're present like that comes up a lot.
+I have this very, very rarely
+and I was so shocked about this
+that I immediately ruined it,
+but I now think there was a very important thing.
+There was a prior,
+as this neurocomputation was said in my brain,
+there was a prior thing.
+You cannot possibly meditate right now.
+And then this came up.
+This is the time of day.
+I mean, if you look at the Tibetan Buddhists
+and so in the more advanced teachings,
+the instructions, do not meditate.
+There's this whole teaching of do not control,
+don't fabricate, don't go anywhere.
+And then they have this weird thing of just
+be undistracted, but don't meditate.
+And it's very hard.
+The thing is to get the controlling element out,
+the little phenomenology of agency
+that is always with, I am meditating right now.
+And that was a very rare moment
+where there was a strong assumption
+it is impossible to meditate right now.
+And then it happened.
+And with a stupid control freak like me,
+he probably ruins the rest of his life all the time
+by doing deluded activities,
+like sitting down on a cushion and meditating.
+It's a form of delusion.
+Well, I mean, it's towards, well, gosh,
+trying to maybe recognize that thing
+that you recognize in that moment.
+I mean, there's so much here
+because we could sound too mystical or whatever,
+but I think what you just said,
+that experience exists.
+And it doesn't mean that I feel like maybe
+whatever's going on with the way
+that we're changing right now,
+we could change to be able to explore that space
+a little bit in a way that we let each other explore,
+holding the suffering and the love, so to speak.
+And also not, that's what I was trying to get
+at the beginning, not immediately judging each other
+because we have to fit each other into
+that's not analytic enough or that's too spiritual.
+All those categories to me are keeping us
+from maybe being able to notice the suffering,
+which I think actually is a kind of way
+of learning how we can love more.
+I don't know if that makes sense.
+You see, that is one of the things
+that always fascinates me.
+I live far away in a countryside here
+and I talk to people who never really,
+I like it more than talking to philosophy professors,
+some crazy hunters or farmers.
+And the thing is they have
+the most horrible political views often
+and they do horrible things all the time to animals.
+And at the same time, they are the nicest people
+in a certain way, in another way,
+and much nicer than any intellectual city folk
+or something like this.
+And in a certain way, they have compassion for nature,
+although they destroy it all the time.
+And I think this speaks to what you're saying,
+this ambiguity you can find in other human beings
+once you are open, they are horrible.
+They say and do horrible things.
+And at the same time, they are nice people,
+are part of them.
+I mean, there are some for whom everything is ruined,
+all capacity for compassion, awareness,
+but they have this corner.
+And if you find this corner,
+I recently had it with somebody who says,
+how are you today?
+And you say, actually quite volatile.
+It's up and down all the time.
+Then for the first time, they can talk about
+that they're actually sad a lot of the time.
+And I would never open up to anybody
+but if you can show that you are suffering too,
+sometimes in the right way,
+there was certainly things will open up
+and things will become possible.
+So for me, there is a capacity to see
+that other human beings are horrible
+and wonderful at the same time.
+I really think that's a hard thing to do,
+but might be what we're all trying to do in a way,
+in a very rigorous way.
+But that's what I mean by that moment,
+which really struck me from that book of...
+Because you're in such an extreme state of stress
+and that happens too when we're all in emergencies, right?
+Then we do realize what you just said, actually,
+because we get into that state
+where we realize there's something shared
+that we can't escape, right?
+And it doesn't mean we leave our bodies necessarily to be it,
+but it's there, right?
+And I don't know, I mean,
+it's getting hard to kind of put words on that,
+but there's something there that feels important
+and actually that I can see in all of these things
+we've talked about
+if we stop judging each other through the old categories,
+if that makes sense.
+Because I know exactly what you mean.
+I grew up in a farm culture
+and there's some of the best people in the world,
+even though if you try to put them into
+the kind of university or newspaper categories,
+you might completely disagree.
+But anyway, we're getting low on time.
+So is there anything this brings up
+that you want to talk about
+or anything else about love that you want to share?
+That's very interesting
+because it hasn't become quite clear
+what you are getting at.
+So let's do five more minutes.
+The thing is, one difficulty in all of this is
+that one also has not only tried
+to hold them in all their horribleness,
+but one also has actually wants to stop,
+make many stop doing what they do
+because they also do horrible things.
+And just being compassionate
+and understanding doesn't help.
+So the challenge is even higher,
+like trying to change people's minds
+in a way that they not automatically shut down
+or start to fight or something like that.
+This speaks to the Bewusstsein Kultur
+and the sort of planetary, I think,
+direction at the end of the elephant book,
+which I guess is like the new book.
+I did send you a code.
+You sent it to me, but like two days ago,
+so I haven't read it.
+It's like the epilogue,
+but with a little more substance and detail.
+Yeah, I noticed that, which is great
+because I think that maybe we can talk
+about that book another time.
+But the thing here is what happens
+if we don't push against that stuff?
+It's not that we're going to say
+it's okay to be terrible to animals,
+but instead of creating our stance against that,
+which is what kind of happens now,
+what happens if we take that as part of
+whatever it is that's shared?
+Is that a different way of coming at this
+where instead of, we didn't talk about it,
+but this whole dualistic structure
+that I think you from the beginning
+were trying to open up,
+that this multiplicity is a word that comes up.
+I do feel like it's connected to that way
+that we assume opposition,
+and I think this connects a lot
+to what happens when you meditate and stuff
+where it opens into more of a constellation
+or something.
+Yeah, so that, I don't know
+if that makes any sense to you,
+but to me, there's something about
+a different way of understanding
+that stance philosophically.
+This stance, how would you label it?
+I think this is what I'm trying to say
+with this holding paradox or something
+where it's not that you try to solve.
+Right now, I feel like we don't hold it.
+We don't hold the opposition
+and then see it as an opening.
+We instead say, okay, you can be what you are,
+but I'll try to change you,
+or I'm here, and there's always this...
+Yeah, I think, I know,
+this is actually deeply spiritual practice.
+Yesterday, I read an ancient text
+for the Third Times called
+Clarifying the Natural State
+from the 16th century,
+and the guy always says,
+Dakotashi Namya, don't touch,
+don't correct, don't suppress,
+but suspend it in empty, open awareness.
+Suspend it and let it flower.
+And Krishnamurti always said
+something very similar.
+I said, don't look at me.
+Ask that out.
+What happens if you just feel it directly
+and are with it without trying to correct it?
+What happens?
+I'm not going to tell you what happens.
+And so there are, I think,
+in some traditions, it's even called the remedy.
+I mean, it's the remedy of just being with it
+in choiceless awareness and letting it flower.
+Of course, the intuition,
+I don't talk about this in the public
+because it's too wild for many peoples,
+but if we don't understand this
+and we don't somehow learn this,
+we're going to A, get blown away by the AI revolution.
+I mean, somehow machines have to be better
+at this than we are, the stupid apes.
+And then the planetary crisis and climate and everything.
+In principle, we would have to learn that
+to deal with all the majority of human beings
+who actively make it worse
+or just live in full denial or whatever.
+The question is, if there can be a stance,
+very hard, where you can do more even of that
+and not get burned by the negativity, not get burned.
+And I can only say, I think I've understood that early on,
+but I'm very bad at it.
+I can only do it sometimes when I'm good
+or when I'm very alert or open,
+and I go off into judging and being appalled very fast.
+I don't know how it is for you.
+Can you hold that a lot?
+I think maybe we started in different parts
+of this kind of solar system,
+because for me, it's been the opposite.
+From a very early age, I was really overwhelmed
+by understanding love was a kind of suffering
+and having no way to filter it.
+It sounds to me like you've been...
+I had to learn to be judgmental a little bit
+to be able to take that in, if that makes sense.
+Do you know what I mean?
+That's why I studied critical thinking and philosophy
+and science, because it was so hard for me
+to structure and judge, if that makes sense.
+So I don't know if that...
+Yeah, different people need different things.
+It feels like the same thing, that it's so overwhelming, right?
+You can't just be there with it because there's so much...
+I think it's love and suffering.
+There's so much.
+For me, I thought of it as love.
+I love my parents.
+I love my dog.
+I love my brother so much as a kid that I can't handle it
+because they could die.
+I can't make things good for them.
+It was too much, if that makes sense.
+So I kind of learned judgment as a scaffolding on that.
+But I feel like that's kind of the same feeling.
+Did it work?
+Well, I mean, did it work for you?
+I think we're all finding our best way to survive and deal with it.
+And I think that what you said about AI
+is actually really, really important.
+Even thinking of AI not as opposite to us as the machine versus life,
+because we could actually...
+This whole thing we're in now, which we can't see clearly,
+could be the way that we can discuss this better
+or find other ways to handle all of this.
+Because I think it is urgent in the way you said.
+The urgency was never higher
+because the problem has been globalized now.
+And I do feel like we'll have to talk again,
+but the way that you...
+I know it became a cliche of that
+there's no such thing as a self and egotonal and all this.
+But actually, we're at a different point now.
+But for people, if you go back to before you wrote all that,
+it was a way to introduce into philosophy
+how to do some of this holding I'm talking about.
+Of course, there are some subversive elements there.
+Of course, one has to do that,
+but an academic environment basically is something very hostile.
+And at least I've experienced it as such,
+and it's almost impossible.
+But then there are people like you who can read between the lines.
+And there's some people who see and understand.
+There's also, I find it, just to mention this in closing,
+in closing, there are some of the people,
+most from my MPE group,
+they have actually written a big paper,
+which I find completely unrealistic on super alignment.
+I don't know if you've heard that.
+Google super alignment.
+So they think there are a lot of these Buddhists and practitioners who say,
+either this goes into the alignment debate right now,
+this knowledge about all that,
+holding and choices, awareness and da, da, da, da, da.
+Or there will be never aligned machines.
+And I think it's incredibly naive to talk about something like this.
+But the best of Buddhists at Rangyong Yeshe University in Kathmandu,
+and everybody people are thinking about,
+they have the feeling this AI moment is the moment where we either get that right,
+either we get that right very fast,
+or we're going to just be blown away by the whole development.
+Yeah, I don't think it's either or,
+but I think what you said earlier about we could destroy ourselves with the AI,
+I think we're worried that the AI will destroy us,
+but it's more if we don't do what you just said,
+if we don't do whatever we're trying to suggest here,
+that language doesn't really fit on so well,
+then it's very much more likely that we're going to hurt more people and ourselves
+and increase the suffering in the way that you described.
+But there does feel like there's a portal or opening or something right now
+where we could actually go a very different way
+that we glimpsed but we haven't imagined or even put language on yet,
+which is what I feel opening in a lot of your work.
+And I don't know if that makes sense to you,
+that it's not that you can put it into words exactly,
+but I think there's another whole other set of multiplicities that are possible
+that if we do what you just said,
+we could shift towards clarifying or just sensing better.
+Yeah, they have to be made respectable.
+It won't work.
+Which is where that critical thinking comes in.
+And also where I just want to say thank you to you
+because reading your books and stuff,
+it was rigorous analytic philosophy for me.
+At the same time, I could sense the other stuff in it.
+And I think you might not realize what a big difference that makes.
+Maybe you do realize,
+but that you keep trying to deal with it,
+I think has made a really big mark in terms of showing some other paths are possible
+in that sense.
+So thank you that you see that.
+But I mean, after all, we're philosophers, aren't we?
+Yeah, and that's what we continue to be and will continue to be.
+So thanks for talking to me today.
+Is there anything else that...
+No, I have to run now, but let's stay in touch.
+Okay, sounds good.
+Yeah, have a really great day.
+I'm going to send you something small and strange right now.
+Great. Awesome. I can't wait.
+Thank you so much, Thomas. Bye.
+Okay, everyone.
+That was a bit of an intense conversation, I realized.
+So I thought it's good to leave with a poem for the new year.
+And I found one of my favorite poetry books, which is called The Pupil by W.S. Merwin.
+Maybe some of you know it.
+And I thought about a poem that starts about something about the end of December,
+but I can't find it.
+But the very first poem is called Prophecy,
+and it starts, at the end of the year, the stars go out.
+But that sounds kind of sad, so I don't want to read that one.
+So I found this one, which is on page 62.
+And it's called Just Now, or maybe Just Now, or Now, Just Now.
+There's a lot of ways to think about that title right now, after that conversation.
+So here we go. Just Now.
+In the morning, as the storm begins to blow away, the clear sky appears for a moment.
+And it seems to me that there has been something simpler than I could ever believe.
+Simpler than I could have begun to find words for.
+Not patient, not even waiting, no more hidden than the air itself that became part of me for a while.
+With every breath, and remained with me unnoticed.
+Something that was here, unnamed, unknown, in the days and the nights, not separate from them.
+Not separate from them, as they came and were gone.
+It must have been here, neither early nor late then.
+By what name can I address it now, holding out my thanks?
+Happy New Year.
+All the best wishes for 2026.

@@ -1,0 +1,1217 @@
+Good afternoon, everyone.
+Today, I want to share a paper with you,
+Radical Embodied Relation at Any Scale,
+from Remembering to Navigating.
+My name is Andrea Hyatt, and this
+is for the Active Inference Institute Symposium for 2025.
+So this is a bit of a radical embodied understanding of mine,
+and it works at any scale, as the paper says.
+So it's supposed to expand some of our fundamental assumptions
+about brains, memories, minds, and bodily movement,
+and how all those relate.
+So the title of this talk is Clidoscopic Cognition,
+How the Brain Can Be Modeled and Use Modeling
+Without Having a Model.
+I know that sounds paradoxical.
+And if you know me, you know I like paradoxes.
+Holding paradoxes is sort of the point of a lot of this work.
+But that title might seem impossible, actually.
+So how can the brain model without having models?
+And how can we use representations
+without them being stored somewhere?
+These questions have been really important in neuroscience
+and philosophy.
+Some might even say they've been plaguing neuroscience
+and philosophy of mind lately.
+We just can't move past them.
+But there's recent research on the hippocampus,
+which is the part of the brain that I studied,
+little C-horse-shaped structure on both sides of your head
+in both lobes.
+And it's forcing us to rethink some basic assumptions
+about a lot of these words that I've already mentioned.
+So what we're discovering is that the brain,
+or I would rather actually talk about the central nervous
+system and the bodily sensory movement of it all,
+but let's just say the brain, doesn't work like a computer
+with shared stored files.
+Instead, it operates more like a kaleidoscope.
+And I know that might sound crazy.
+But actually, it's a very helpful, strange new vision
+that we kind of need right now.
+And that it feels strange is probably a good thing.
+So it's this idea of creating shifting patterns
+through different but direct refraction of experience.
+So if you think of the encounter and then the body
+and then whatever that encounter is becoming
+as part of the body and sort of going back into the encounter
+as, then you can think of it more
+as something prismatic or kaleidoscopic.
+So this framework is coming from neuroscience,
+at least as I read certain studies
+and as I've been part of certain areas of that field.
+And especially grid cells, place cells,
+these kinds of things, which are in the hippocampus.
+And I think it has profound implications
+for how we understand these words
+that we've been taking for granted, like memory, thinking,
+but also navigation and everything
+that we've ever thought about as cognition,
+not only in humans, but when we try to understand
+this activity that unites us across different life forms.
+I'm gonna be talking about the hippocampus
+as a kaleidoscopic function,
+a way of trying to visualize some of this new research,
+which is moving us beyond either or patterns that we assume.
+I think we're all sort of stuck in at the moment
+in brain research, even though we say we're not.
+But I wanna push us a little bit
+towards this kaleidoscopic or prismatic idea of cognition.
+And hopefully that'll help us move
+beyond these representation wars
+and these of talking that have sort of paralyzed us
+in cognitive science.
+The idea is to synthesize insights from four key papers
+that when read together will reveal something
+pretty extraordinary about cognition.
+And so these are the four papers.
+And the first one is my paper,
+the one that's kind of framing this
+and I guess the sort of foundational text for it.
+And in there, I argue that recent hippocampal research
+forces us or allows us to reconceive
+what a neural representation is
+and to think of it as a communication,
+communicative assessment,
+rather than something stored or findable
+or some sort of hieroglyph in the brain.
+And I introduced the concept of waymaking,
+which is just a way of talking about
+this process that we call cognition
+or this process that we call locomotion,
+but on the same track.
+There's also a brand new nature neuroscience paper
+by Penn and colleagues,
+which came out around the same time,
+which talks about, well, it's called path integration
+in the hippocampus by shifting reference frames.
+And I really see this as just crucial empirical work
+and just great timing that it comes out now
+because it has a lot to do
+with what I'm trying to discuss here.
+And it's showing us that grid cells
+don't maintain stable patterns,
+but are constantly shifting between reference frames,
+even though there is a stability.
+So there's a paradox built into this,
+but it gives us a good way to understand
+this notion of kaleidoscopic modeling
+that I'm trying to introduce here.
+And then we have the Lenz and Clark,
+Ewan Friston paper from 2017.
+Sorry if I said somebody's name wrong there.
+The active inference approach to ecological perception,
+because I think there's a lot of ideas in there
+that fit very well with this.
+And also just the mathematical and theoretical framework
+needs to be built up for how we might do this.
+And I think active inferences probably,
+and especially also Bayesian ideas in machine learning
+and so on, have already started figuring out ways
+to maybe think about layered mathematics
+in the way that I'm talking about here.
+But also just the ecological side of it is very fitting
+that organisms engage in modeling behaviors
+without storing models.
+And of course, sometimes we slip up
+and say models are in the brain,
+but if you really look at what is actually being said,
+it's not that the models are in the brain,
+stored somewhere, it's that the whole body is modeling.
+This last paper too, which inspired my first paper,
+and it's from Jacob Belmond and the Doller Lab,
+which is where I worked at the Max Planck Institute.
+It's called Navigating Cognition Spatial Codes
+for Human Thinking.
+And it shows us that the mechanics we use
+for physical navigation are the same ones we use
+for abstract thought, even though thinking
+and geographical navigating can't be resolved
+as the same thing.
+We can use the same metrics to understand them,
+but those metrics cannot be based on these either
+assumptions that we've been using,
+whether it's global and local or even mental and physical,
+like conceptual space, physical space, memory, navigation.
+Those ways of talking and our use of the word representation
+as we're talking about them in cognitive neuroscience
+has to shift.
+All these papers together point towards
+a unified understanding of cognition as kaleidoscopic,
+or at least as constellatory is another word I use,
+demanding we find ways to model it kaleidoscopically
+rather than binary, and these binary assumptions
+that frame so much of the way we talk about
+all of these topics, the way we even use the words,
+and the way we model them,
+even if we don't realize that's happening.
+By introducing this kaleidoscopic cognition,
+trying to push us a bit into a dynamic, immediate,
+irreducible understanding of what we mean by representation,
+which is actually a communication.
+We also understand that we're gonna do this
+through communicating about the patterns of regularity,
+and that this communication isn't findable,
+but it is representational.
+So that's a little tricky.
+This holding paradox idea is really good,
+and also this kaleidoscope,
+where you have similar patterns,
+but based on the input of the light,
+you can even think of it as prismatic, I guess,
+you're gonna get different results,
+but those will all be tied to similar patterns.
+So again, I've mentioned paradox quite a few times,
+and the main paradox that motivates this framework
+is representations without representations.
+Models without models, or modeling without models,
+or representing without representations
+maybe is a better way to say it,
+but traditional neuroscience always assumes
+that cognition requires stored models,
+internal representations that the brain builds
+and maintains, so when you remember something
+from your childhood, your childhood home,
+you know, there must be some neural structure
+that is appearing in your brain
+that represents that home, right?
+So when you navigate through a city,
+you have some kind of map in your head.
+This is just the way we talk about it.
+Most people, of course, don't actually think
+that you can pull a little map out of your brain
+or actually find some kind of structure in the brain
+that's gonna represent home in some kind of one-to-one way.
+However, we still talk about it that way in our papers,
+and we still assume this language,
+so the reality is that organisms are navigating
+these complex environments without anything
+that looks like explicit stored representations,
+and in fact, you know, there's so much going on
+all the time that any of our actual experiments
+is just looking at a tiny bit of it,
+so if we find some brain activity
+that corresponds with a particular memory that we have,
+that's actually just one little snapshot in a way
+of something that we were directly looking for,
+and this is still on this flatland kind of way
+of thinking about what we're doing in these experiments
+and also what the body is doing
+in relation to the brain, the environment,
+and all these ongoing movements that we are,
+so animals find their way home, they recognize patterns,
+they make predictions, including humans, of course,
+and yet when we observe them
+and we watch the activity of rats
+who've been so helpful for us, for example, in neuroscience,
+then the only way we can really communicate
+about what's happening there
+is through creating these representations, images,
+or that we record the cell activity
+and then we see pictures of it,
+and all of that is representational,
+but it's not inside the rat,
+it's us creating things to understand this ongoing movement,
+and that gives us a visual, a video, a screen image,
+whatever, and those are the representations,
+and those are the communications,
+and that is a communication.
+I mean, the screenshot or the recording is meaningless
+except as communication, and it's important.
+We're doing that, obviously,
+in order to better understand this whole process
+and ourselves, and it's a very real thing,
+but it's not findable somewhere,
+so the hippocampus is really central
+to making more scientific, rigorous sense
+of what I just said and getting over this assumption
+and use of language that's binary
+and that does talk about representations
+as if they're inside brains rather than
+as if there are communications towards understanding brains.
+So for a long time, we actually literally looked
+for engrams in the brain, stored memories,
+and the hippocampus was like the sort of heart
+of where all that came in the 50s,
+looking for engrams and memories because of HM and so on,
+and then in the 70s, we started thinking
+of the same area of the brain as the brain's GPS
+because John Uke found cells there
+that fired in relation to what the animal was moving through,
+so you got place cells and grid cells and things like this,
+but this recent research is even showing us
+that actually these cells don't maintain stable patterns.
+They're always shifting, remapping, re-anchoring.
+We don't have a representation in the brain
+that corresponds to something outside.
+Instead, we have this ongoing communication,
+this process, this something like light coming
+into a prism and being refracted.
+That's where this kaleidoscopic comes from
+that shifts as the encounter takes place.
+So all of these cells are shifting, remapping,
+re-anchoring as the encounter is changing,
+just as if light comes into a prism,
+it's going to change in different ways
+without any kind of stopping and starting there,
+even though when we study it,
+we have to look at it that way.
+So this is where this idea of kaleidoscopic cognition
+comes in, and it does sound fantastical,
+maybe psychedelic, but it's actually a really accurate way
+to begin to envision this and that it feels strange
+and even hard is actually part of that
+because what's more like the vision,
+and again, we're talking a bit in metaphors here,
+but it's more like something is refracting between
+and as the encounter and the organism,
+which includes this whole nervous system.
+And that is the guiding action.
+That is the perception and action.
+And obviously this is really hard to talk about,
+but that's what we're trying to do here.
+I think we have to find ways to sound strange, be strange,
+and move towards finding other ways
+to really understand what's happening here.
+So we create recordings and photos and videos
+and representations to understand this.
+Those are real and communicative,
+but how could we create more kaleidoscopic ones?
+How can we begin to use our technology
+in ways that are more like this process
+so that we get used to thinking like this
+instead of creating things that are still stuck
+in this binary sense of as if we've taken a picture
+of some kind of whole thing that is mental,
+that is a memory.
+So before we get to that,
+let me just talk about this one question
+about representation, which I've brought up,
+but how can the brain have representations
+and not have them at the same time?
+How do we hold this paradox
+without falling into something like computationalism
+or just total relativism,
+which is always the trap here?
+So that's where this hippocampus paper comes in,
+which you can find easily and read.
+And it's arguing that representations are communicative acts,
+that they're ways we assess and communicate
+about these unbroken intimacies,
+not things we like find stored in brains.
+And I think that's something that's pretty obvious
+in neuroscience, but we don't talk about it as if it is.
+And that is a very big obstacle actually.
+And of course, there's been tons of representation debates.
+I mean, we've really wasted, or maybe not wasted,
+but so much energy and time has gone into getting stuck
+and going round and round in loops over this idea.
+Even with active inference, I think we all know
+this idea of talking about models in the head
+becomes a trap and it's time to get out of it.
+So that's why I'm not in this paper,
+but in this presentation,
+presenting this idea of kaleidoscopic
+or constellatory cognition to kind of just try
+to pop us out of that way of positioning ourselves
+in cognitive neuroscience and in the way
+that we do our models.
+So we can understand these immediacies
+are refracting differently according to the position
+from which they're measured.
+And they're not in the thing that's being measured.
+So weather maps are a really simple, good example.
+We create a weather map.
+It represents weather patterns,
+but the map doesn't contain the weather,
+even though it's tricky how we confuse those things
+with what weather is.
+But there is no stop and start to a storm
+in the sense of you can just pluck it out
+of all the rest of the ongoing atmosphere
+or something like that.
+And we need and create these representations
+of things like that so that we can communicate about them
+so that we know, okay, a big hurricane is coming
+and we need to evacuate or whatever.
+These are really important representations that we create.
+But the map is a communicative tool
+that we use to understand and predict
+those atmospheric dynamics.
+The dynamics, of course, they're dynamic.
+They're ongoing.
+They're unlocatable.
+You don't find partly cloudy somewhere.
+You don't find 70 degrees somewhere.
+Those are representations.
+And that's the same thing that we're talking about
+when we're looking at brains.
+It's something like 70 degrees
+when we're talking about a representation in the brain
+of memory or anything else.
+So that process that we call weather refracts differently
+from every position on the planet too.
+We could think about that and how,
+depending on where you are,
+you're gonna see that refraction differently.
+It's gonna be assessed differently.
+Even though, of course, it's real what is being assessed
+and it's also ongoing.
+And also your assessment of it on one particular day
+from one particular position
+is gonna be different than someone else
+from another and another day.
+And that doesn't mean any of it's less real.
+And in fact, it'll still probably mean
+there's a whole lot of regularities that are shared.
+What you're calling a storm
+and what they're calling a storm
+will have a lot of overlap,
+but it won't be the same thing.
+And it won't be something that we have found
+and then move on from.
+So neural representations work that way too.
+When we look at an fMRI image or we record neurons,
+we're not seeing stored memories
+or cognitive maps inside the brain.
+We're creating representations, measurements, assessments
+that help us communicate about this ongoing
+central nervous system bodily environmental dynamic,
+which is pretty wonderful actually,
+and which we really do wanna understand.
+And that's why what we're doing
+is so important in all these fields.
+But the hippocampal literature
+shows us that cognition and navigation, for example,
+which have kind of been fit into these different sides
+of a binary of mental and physical, for example,
+just to kind of caricature it a little bit.
+We've assumed for a long time
+that those needed to be reconciled somehow,
+that they were somehow different things
+and how could the same part of the brain be doing them.
+But recently we've started to understand,
+okay, they're just like refractions of the same process.
+At least that's how I'm putting it here.
+There are different assessments of this embodied waymaking
+that is happening all the time.
+And depending what we're looking for
+or where we're standing or what day it is,
+it's gonna be a little bit different,
+but also there are gonna be regularities that we can,
+that remain, that help us understand it better
+if we communicate about it through representations.
+So when you remember a past event,
+you're kind of moving through
+or navigating conceptual space.
+You could think of it like that.
+You're using the same mechanisms, right?
+To move through that sort of space
+that happens when you're moving through geographical space,
+but those aren't the same thing.
+It's just that there's similar regularities there
+in terms of what is happening.
+So I use this word waymaking,
+which comes from Dallas philosophy
+to capture how that cognition and locomotion
+can be continuous, can be the same process,
+even though when we're talking about something
+like remembering our childhood
+and when we're talking about something
+like walking to the park,
+we're talking about different things.
+And there's no need to try to resolve those
+the same way we wouldn't try to resolve wavelengths
+that have been refracted from the same light source
+or the same, yeah, we could think of it somehow
+as multi-sensory prisms if we can.
+But we can't measure and find that in some absolute sense
+that there is a memory or there is a little diagram
+in the head that's gonna be found
+every time we go to the grocery store.
+So anyway, the hippocampus doesn't store maps.
+It's operating kaleidoscopically.
+It's refracting sensory encounter into bodily action.
+At least that's the kind of wild idea
+I'm throwing in on this presentation.
+I haven't tried to put it in a paper, of course,
+but at least not yet.
+But I do think we make these maps, these representations
+to try to understand what is multi-layered,
+multi-dimensional refracted in our measurements of it,
+even if in itself it's not.
+So just thinking of it like that
+can help us kind of avoid some of these traps
+of arguing about pure computationalism
+versus pure relativism or telling all the young people
+that everything's a hallucination
+or all these extremes that have sort of taken over
+and become very exciting in a lot of our fields
+but aren't doing justice to the actuality
+and the complication of this paradoxical happening
+that is cognition and that is not only in humans.
+And of course we wanna avoid relativism too
+because these are real accessible regularities
+and we do need to communicate about them
+and that is a very important thing to be doing.
+It's science at its best, really.
+So what the heck is kaleidoscopic cognition?
+So I guess in all this making way that we're doing,
+we do make representations of that.
+Until now we've made them in these very strict
+kind of stimulus response,
+either or mental, physical categories.
+Even if we think those categories
+aren't somehow actually the process
+that some people think everything's mental
+or everything's physical, all is one.
+This is pretty normal now for people to say that
+but in all the literature, we still talk this way.
+And so when I talk about kaleidoscopic cognition,
+I'm really thinking about modeling all this waymaking,
+all these ways that the body makes through its encounter,
+whether you wanna think of that
+through traditionally mental terms or physical terms,
+whether you wanna think of it
+as making way through conceptual space,
+virtual space, geographical space, all those,
+they can't be collapsed into one another
+but they're all waymaking.
+And when we're modeling that, we can think of it that way.
+We can understand it that way.
+That's the kaleidoscopic cognition.
+That means imagining that cognitive processes
+emerge through and as dynamic shifting patterns.
+Rather than this is happening
+and we look for this fixed representation in the brain.
+That's the old way, right?
+And that's the way our language
+and our papers are structured right now.
+We could try to understand this through another metaphor
+and I'm bringing in this
+consolatory or kaleidoscopic metaphor,
+which are just like tubes of mirrors
+and colored glass and prisms.
+But if you really think of the ongoing encounter
+and the sensory body, it is sort of taking in that encounter
+as if it's light and it's refracting it into itself
+in order to continue itself.
+I know that sounds a bit mystical and wild
+but I think we need some of that right now
+just as visualization.
+We still need all the rigor and all the science
+and all the tests and all the experiments
+but we can visualize about how better to do those.
+We don't have to stay stuck in mental, physical,
+stimulus response parameters.
+We can think of the experiment differently.
+So when light enters a kaleidoscope,
+it's immediately refracted
+through like all these prisms and mirrors.
+The patterns you see aren't stored anywhere in that device.
+They just emerge in this interaction
+as you turn whatever the heck you call that thing
+on a kaleidoscope.
+You turn the kaleidoscope, I guess,
+and the patterns change
+and that's not stored anywhere.
+It's just happening and you need the light coming in
+and the whatever, the viewer.
+I mean, at some point this kind of starts to break down
+but I think you get what I'm saying here.
+Twist the tube, you get entirely new patterns
+but all those patterns, if we did the math,
+could be linked to one another
+and we could better understand how they turn into each other
+and what sort of condition, what sort of light, so to speak,
+creates what sort of pattern.
+So the hippocampus and I would say
+even the central nervous system,
+the brain more broadly works like this.
+It receives the encounter.
+I mean, even to say it receives it is kind of wrong
+because this is just happening.
+It's all happening.
+It's not that the body is sitting there waiting
+and something comes in and it does something.
+To be alive, you're in the encounter, you're encountering.
+The body is doing this prismatic,
+prisming this kaleidoscopic cognition
+and we're trying to understand it
+by creating representations of it.
+So those patterns that come in, so to speak,
+come in to the body aren't processed and stored
+but they are shaping the way the body
+is going to respond in the future.
+I think this relates a lot
+to a lot of these active inference themes
+that you might be seeing elsewhere in this symposium.
+So these patterns aren't processed or stored.
+They're direct transformations,
+just like the light is directly transformed
+when it passes through a prism or the kaleidoscope
+or whatever that we're gonna visualize here.
+So these sensory irregularities of the encounter,
+the light, so to speak, coming into the body
+can come from the body too.
+So it's also not multi-directional.
+I mean, it is multi-directional.
+It's not just like there's an outside
+and it's coming into the body.
+You also have the body itself,
+which we could look at as many kinds of bodies
+and all of this is happening at all those levels too,
+the levels of your cells, for example,
+or the way that the body and the nervous system
+are communicating with other parts of the body.
+So all of those are kaleidoscopes of kaleidoscopes in a way
+and it's all happening
+in this more ecological direct sense,
+which is very hard for us to envision and talk about
+but I think we're getting to a point where we have to try
+and we have technology that allows us to do so.
+And what happens if we think of it like this?
+I think first we understand that
+multiplicities aren't fixed attributions.
+There are multiple simultaneous patterns
+that are operating at once as we measure them.
+I mean, all of this is just happening
+but we are going to be assessing it
+and able to handle it in that kind of way.
+So it's true for how we observe and represent the process.
+The second idea there, I guess,
+is that these processes aren't structures that we find
+and what we call mental content,
+it's arising from where it is this ongoing refraction.
+It's not sort of retrieved data that's been stored somewhere.
+It's more like water that's being directed
+in different ways at different levels.
+Sorry, I've been traveling and have a cold.
+That's why I'm also not on the video, but I hope this is okay.
+What else was I going to talk about?
+I think also the relationality,
+that meaning is this relationality
+that's emerging through these shifts of the kaleidoscope,
+these different prismatics and refraction matters though,
+because as part of it, we're part of it.
+The way that we notice it, observe it, assess it
+actually has some major consequence on those very patterns
+and those ways that we shift the light, so to speak.
+So I realize all this sounds a bit abstract,
+but let's look at some more empirical neuroscience.
+Maybe that's helpful, some grid cell data.
+Oh yeah, first I should just mention
+these different frameworks, which are part of that paper,
+which I think when we put them all together,
+we can start thinking about cognition constellations
+or kaleidoscopic cognition from a lot of different angles.
+And we could even start to try to
+mathematize it or model it a bit.
+I didn't really do a big research,
+but I'm sure there's probably ways
+that we can model multiple layers of generative models
+that might be helpful in this way.
+But anyway, I won't go down that tangent.
+Active inference, I mean, I think you all probably know
+this mathematical framework by Karl Friston
+and many collaborators and colleagues
+and this core idea that organisms are minimizing
+free energy through their action.
+They're not building these internal models
+and consulting them, but they are the models,
+I think is one way you could think of that.
+And they're emerging dynamically with or through
+or as this perception action cycle.
+So the body, the organism is constantly engaged
+in prediction and error correction.
+And that's kind of what I was trying to say before,
+that even though this is all happening
+in the way that you would turn a kaleidoscope
+or the way light comes through the prism,
+it's happening at so many different points and places
+and all of those in their communication,
+in the way they communicate with one another,
+change what's possible for that.
+That's why this can get really hard to talk about
+because we're part of it, even as we're studying it.
+We're always engaged in prediction and error correction.
+And this happens through our movement and engagement
+or not even through, it happens as it.
+It's not that things are being stored
+and then we're looking for those things that are stored.
+That's only useful when we're trying to communicate about it
+to talk about it in that way.
+So I think active inference obviously helps us
+with visualizing this, but even puts math on it
+and helps us kind of take some steps
+towards leaping into this different paradigm.
+And then the radical embodied relation,
+that's a big part of the paper that I,
+that's in nature in the article, which you can read,
+but a lot of inspiration there from Tony Chimero
+and everyone who's part of that field.
+They've been working really hard
+to try to make that understandable
+and to show what it's doing in cognitive science for us
+if we let it.
+And of course they've been dealing with this.
+There's no such thing as a representation idea for a while,
+which isn't what I'm saying.
+And actually isn't really what is being said by Chimero,
+but they've been questioning it
+in the way that has gotten us to a point
+where we can start to understand it differently
+and where some people even say, oh yeah, it's obvious, right?
+Of course there's no representation in the brain,
+but that was not something that a lot of neuroscientists
+would have said not too long ago.
+So I guess the key insight there is
+that cognition is continuous with navigation
+in an ecological sense,
+that these aren't different processes that we're bridging.
+They do have to be measured differently
+just because we measure them
+towards understanding different things.
+We're assessing them
+towards understanding different things.
+So there's no need to solve them into one another
+or say that when we remember our childhood friend,
+it's the same thing as walking to the park.
+I mean, there's no need to say that.
+Instead we can understand this embodied engagement
+with the environment,
+this internal, external ongoing action
+that's co-creating the parameters for each part of that.
+And I think a lot of you know
+J.J. Gibson's ecological psychology
+and that idea of the brain as the ongoing translator.
+I always want to say that word,
+but it's not even quite that
+because that makes me think of like Chinese room experiments.
+But it's not that it's too immediate.
+It's more like the prism, the light coming in
+and immediately it's refracted.
+And it only looks different from the position
+depending on where your position is.
+I think that's what a lot of ecological psychology
+was trying to get at in a way.
+So this kaleidoscopic notion of cognition
+just to combine all this stuff.
+Well, I'm just going to leave it there,
+but I would really hope that someone
+could think about this mathematically.
+Maybe one of you listening think about,
+I mean, this was what I was thinking about.
+I was thinking about Carl's 2012 paper
+where he tries to do something like this,
+or not tries, I mean, he does do something like this,
+where he's talking about generative models
+and as like ensembles of other models.
+And I don't know, maybe someone listening already knows
+about something that's already been done like this,
+but how could we, is it even possible actually
+to have context-sensitive model selection
+with it still being free energy driven?
+I mean, with the math, I have no idea
+because I'm not so good with this math and all this stuff.
+But anyway, I was just thinking about it.
+I guess a big part of this whole,
+the paper that I'm presenting and what I see
+is very important in the active inference framework
+and why I'm bringing up this wonderful wild idea
+of kaleidoscopic cognition is,
+as I've already said a few times,
+just that we're so routed by these ways
+of making decisions of one versus another
+that I think we don't see that they're part
+of constellations of many more possibilities.
+And there's a reason we had to go through contrast
+to get here to where we are now.
+I don't think those are bad things.
+I don't think we should stop having distinctions,
+but I think we should start realizing
+they're not binary distinctions.
+We don't only have mental versus physical.
+We have emotional, we have virtual, we have geographical.
+I mean, these are just different ways
+that the light refracts.
+And it would be great if we just got used
+to thinking that way.
+That's what this kaleidoscopic cognition is.
+It's thinking through multiplicities instead of binaries.
+And I think the hippocampus
+and all the research we've been doing there
+where we tried to fit everything
+into these binary categories for so long,
+and we're now realizing we just can't,
+is a very helpful way to rigorously understand this.
+I think it's very important in philosophy of mind too
+that we try to do this rather than building our careers,
+fighting one side or the other of a binary.
+That's maybe not the most helpful thing to do anymore,
+which doesn't mean all that stuff was not important.
+It's actually really important, all of our debates about it.
+But now we can still have those.
+We can hold those and we can explore the space
+and look at other ways of reframing all of that together.
+Let's just think about mental and physical for a second.
+So in neuroscience and philosophy,
+we talk about as if we moved past those sometimes,
+like everything is physical,
+everything is mental or whatever.
+We still treat like thoughts are here
+and movements are there.
+And I think what I'm trying to introduce here
+with this kaleidoscopic cognition idea
+is that this continuous action perception cycle
+that we represent as either mental or physical
+and can continue to do so, by the way,
+it's kind of helpful,
+is itself an ongoing process
+that's refracting in those different ways.
+So we hold those together,
+however we wanna define them and explore them
+as telling us distinct things about a similar process.
+In a way, it's what we're already trying to do
+because if you're on one side, you say everything is one
+and if you're on the other, you say everything is one.
+But then instead of fighting each other about who is right,
+let's say, okay, what is your path?
+Tell us about this one
+and what is my path?
+Tell us about this one.
+So like thinking can be accessed as a form of movement.
+If we go back to the FEMBA campus,
+through conceptual space, that's helpful.
+And moving can be assessed as a sort of form of thinking
+through physical space.
+But thinking about going to the gym
+is not moving through physical space.
+And moving through conceptual space
+is not the same thing as going to the grocery store.
+And we never need to try to resolve those.
+That's what we've been trying to do
+by resolving certain schools of thought
+or even just this debate about representations.
+But we also need to understand that
+the traditional debate of like,
+do we perceive the world directly
+or through internal representations?
+Doesn't even, you know, that either or,
+that whole setup changes when you start to think of
+kaleidoscopic cognition because it opens a space
+and we can look around a bit
+and we can engage more directly with reality
+and we can see our representations as assessments
+of that ongoing non-mediated engagement of encountering
+whatever we're encountering that we might be looking at.
+You know, memory versus navigation
+is a big one for the hippocampus,
+but I have a whole book coming out about that.
+So I'll just let you read that.
+This view that I'm presenting here
+is just that we're engaging with reality
+and we build, we communicate about that with each other
+and that is where the representations come in.
+So dissolving these dichotomies
+or not even dissolving them actually,
+letting them be what they are
+and exploring how we can design experiments
+that don't try to solve one into the other,
+but rather look at what each tells us
+about whatever the spaces that's holding them.
+And we might also begin to see other points
+in this constellations that have been either or
+and maybe those can also tell us something
+about this process.
+That's a different way of doing an experiment
+and of modeling and of thinking
+and that's what I'm trying to get at here.
+And I actually think it's going to mean
+we have to metricize the experiment itself
+and really start looking at this
+in a multi-dimensional way where, you know,
+what we've thought of as the stimulus is itself metricized
+and what we've thought of as the response is
+and we have many different possibilities
+for both of those at the same time in one project.
+So just to get really wild for a minute,
+just imagine the hippocampus like this.
+I mean, shifting, refracting at multiple scales at once.
+So instead of thinking at it,
+I mean, you could do this
+with different parts of the brain,
+but instead of thinking of it as a processor,
+it's actually not a processor.
+It's more, you know, refracting light
+or refracting the ongoing encounter
+into different possibilities.
+There's no internal assessment, right?
+Computation, but we use assessment and computation
+to understand it when we're communicating
+with one another about it
+and with ourselves about it, by the way.
+That's an important thing too,
+because the body communicates with itself in this same way.
+So it's not that the hippocampus is storing memories
+as files and maintaining little spatial maps
+and databases, but it's working more
+like a prism directing light.
+So when light hits a prism, it immediately refracts.
+I mean, it splits in different component wavelengths
+and it's redirected.
+I think that's more like what we are actually seeing
+in these cellular activities that we're studying
+as a whole, if we think about it.
+And, you know, the hippocampus is representing that
+in this way that I'm talking about it right now,
+this sort of metaphorical way.
+It's not that, you know, the prism doesn't store light.
+It's just constantly ongoing and refracting it.
+And there's a wavelength relative to the position
+from which it's being observed or experienced
+that's gonna be the right wavelength at that moment,
+I guess, if you're trying to name it.
+So the HEF or the hippocampus entorhinal formation
+could be understood through something analogous to this.
+We can imagine it or model it
+as receiving multiple streams of sensory information.
+Although even that, I mean, that's the way we model it.
+It's just encountering the body,
+it's encountering the central nervous system.
+All this is coming in,
+but we can look at it as seeing and hearing and feeling
+and tasting and whatever,
+all these different sensory things that are happening.
+And we can visualize these as different rays of light
+sort of hitting this multifaceted prism simultaneously
+and being refracted.
+And there's not only one prism,
+it's, you know, this is happening all over and in many ways.
+And again, you know, yes, it's a bit strange
+and a bit metaphorical, but I think you get the point.
+It's much different than thinking of it as a processor
+or something being stored like it is on a computer.
+We need a new metaphor.
+Anyway, it also, we can think about,
+we could think about theta oscillations through this too,
+because that's even more immediate.
+The point is just that it's a direct transformation.
+I think it's helpful now for me to finally talk about
+actually some neuroscience.
+And there's a recent neuroscience, this one,
+especially the Ping et al from 2025 in nature neuroscience
+that shows us that actually grid cells are shifting
+through multiple reference frames.
+They're not maintaining a stable pattern or just like,
+they're not just this GPS coordinate system
+that we've kind of come to think of it as,
+though I think still seeing it like that can be helpful.
+And I don't think it's actually saying that's not happening,
+even though they sort of say that in the paper,
+but these ongoing refractions are responding
+to the current organism environment coupling.
+So you have this shifting of frame.
+So the hippocampus is literally,
+if you look at this paper, operating kaleidoscopically.
+Okay, maybe not literally,
+but I mean, that's like a really good metaphor for it,
+because we can see that it's the source
+of multiple simultaneous refractions,
+that this system of grid cells is doing this like
+constant kind of shifting of whatever's coming in.
+It's remapping and re-aligning with it
+on many different levels at once.
+So that means shifting based on action
+and the regularities of whatever's being encountered
+in real time, and the hippocampus helps us understand this.
+So instead of just thinking, there's thinking,
+like when we have this awareness of our mind
+or we hear these words in our head,
+and that's one kind of cognition,
+or maybe the only kind of cognition,
+and then moving through a city is not a cognition,
+it's just moving through the city.
+Actually, no, I mean, that's where this waymaking comes,
+like everything that the body is encountering,
+it's refracting through itself in this way,
+as cognition, that is cognition.
+It's making way, it's making way with the encounter.
+And so we have to start thinking of cognition
+as a more consolatory thing.
+It's not that there's physical against mental,
+it's that all of those words are different ways
+we're understanding how this bodily organism
+is making its way.
+That doesn't mean everything is cognition,
+but it does mean that the body is cognitive
+at any time that it's trying to make its way
+through anything.
+It's a pretty simple way of thinking about cognition,
+and yet you can't collapse different kinds
+of different kinds of movement into one another.
+So that's where it matters very much what you're studying.
+You have to really metricize the landscape, actually.
+If you're going to be studying how the body's making its way
+through an emotional landscape,
+you need to know what that means.
+What is an emotional landscape?
+How do you metricize that?
+Because we have to represent that externally,
+not assume that we're looking for it in the brain.
+This is a different way of thinking about it.
+Same with virtual landscapes,
+same with geographical landscapes,
+whatever you want to call them.
+The point is that if you're going to call it something,
+you have to be able to say what the regularities are
+that you're studying,
+and then look at how that relates to whatever the data is
+that you're getting from the experiment.
+So the body, through the central nervous system
+or as the central nervous system,
+is this encountering into bodily action.
+And it's not like a two-step process.
+We perceive, then we act,
+and there's a transformation going on at some point too.
+This is all happening all the time at once.
+When we study it, we break it down.
+But right now we're studying it and breaking it down
+and looking for it in the body somehow.
+And instead we need to realize,
+actually it's all, we're representing it.
+That's what we're doing.
+We're communicating about it.
+And we need to be able to represent it
+and compare it at different levels,
+more like a kaleidoscope.
+We need that kind of ability to change things
+just a little bit and see very different patterns
+with the same input, the same light, so to speak.
+I really think we can model this.
+We can create neural recordings or computational models
+or linguistic descriptions even
+that really help us understand
+and communicate about these processes
+in ways that aren't stuck and routed
+in these binary terms and these either or frameworks
+that we all still assume we can break out of now,
+but it will take being a little bit crazy
+and thinking a little bit differently
+about how to do experiments,
+which doesn't mean giving up any of the rigor of it.
+It just means realizing that those representations,
+those assessments, those communications
+are even more important than we thought.
+And all the data we've already collected
+is probably able to tell us even more than we thought
+if we can position it to itself in a different way.
+So we can think of cognitions as constellations
+when we're modeling them, interconnected patterns
+that emerge through this refraction.
+So the way we move to the grocery store
+and the way we move through a conceptual space
+on a computer program or a virtual space
+will definitely have some patterns shared
+the same way that each turn of the kaleidoscope does.
+How do we look at that relation
+without trying to solve them into each other?
+That's really the point.
+So this is looking more deeply into this empirical paper.
+Just wanna give you a little more information about it.
+So they actually recorded grid cells
+in the entorhinal cortex.
+The hippocampal entorhinal formation
+is really what I'm talking about here
+when I say hippocampus.
+So they recorded grid cells in this area,
+actually in the entorhinal cortex, I think,
+when the animals were performing a path integration task.
+And that just means like dead reckoning or moving,
+like keeping track of your position
+by monitoring your own movement.
+So when they did that,
+they found that there was no stable grid patterns
+during this path integration,
+that the grid cells were functioning,
+they were not functioning actually
+as like some kind of stored coordinate system.
+There's not like this internal metric
+that is just being pulled out for every place.
+However, the pattern, there is a pattern,
+but it's shifting continuously throughout the task.
+So again, I really think
+the way you can understand this is the kaleidoscope,
+there are patterns there, right?
+But it's never the same pattern with each turn.
+And whatever light is coming in
+is also gonna mean that the pattern is different.
+And there's a constant kind of remapping
+and realigning that's going on.
+So the patterns shift continuously
+of the grid cells throughout the task.
+And that doesn't mean that like
+from our position of assessment,
+we wouldn't find metrics.
+But what it does mean is that those metrics
+will look different depending on the refraction
+from that position of assessment,
+because this whole cellular network
+is framing based on what is encountering.
+So although this paper sort of presents it
+as contrasting with the navigational research
+and this GPS metaphor,
+I think it's actually widening the landscape.
+Like it's including that metaphor.
+And it's also including a lot of the memory research
+so that we can sort of explore the space
+that's holding them.
+But that's my opinion.
+But they did notice what they call
+re-anchoring through translation.
+And that's an important term,
+re-anchoring through translation.
+So they even use that word translation.
+That's pretty interesting.
+So the grid cells like shift between reference frames
+within single trials.
+So one moment they're coding the position
+relative to the room frame, let's say.
+And then they're shifting to a coding position
+relative to like some sort of salient object
+that we need to use,
+like a hammer or like a doorknob or whatever.
+And then they're shifting to another room frame.
+So this is this refraction that I'm talking about.
+And we have to remember that as scientists,
+we're choosing what to look at and study.
+So that's part of this representing that we're doing
+to try this communicating about what's happening.
+But the cells themselves seem to be
+working more at an ecological level,
+but also able to shift and realign.
+So despite these pattern changes,
+this internal structure is preserved
+like this manifold that we use
+to describe grid cells organization.
+It's intact, but it's not like random noise.
+It's structured shifting.
+So that's a big, big point,
+which I don't even understand fully yet,
+but I'm trying to explain it here
+through this idea of the kaleidoscope that there's,
+or this idea of holding paradox.
+There is something there that is structured
+and there is a constant changing of that structure,
+like in a kaleidoscope.
+That's the kaleidoscopic function that I'm thinking of here.
+This multiple simultaneous reference frames,
+constantly shifting, maintaining a relational structure
+with the patterns that continually change.
+That's hard to hold that.
+That's the holding the paradox right there.
+And the hippocampus is doing it
+and probably the whole body is doing it.
+And how can we begin to create representations?
+And by that, I mean our communicative measurements
+and our experiments and so forth that start from there,
+that think that way, holding the paradox like that.
+That's what I'm trying to get at here, really, in all of this.
+And I think that's helpful.
+And I think the hippocampal entorhinal system
+is a really wonderful, beautiful, scientifically
+validating way to understand this.
+So we can engage in modeling without having models
+or that we are representing without having representations.
+That's the holding paradox of all of this, I guess.
+This dynamic process replacing the static conception
+of what we're doing.
+And the brain's evaluating organism-environment relations,
+but this evaluation isn't separate from the action.
+Even if we have to represent it that way
+to communicate about it.
+So creating representations,
+whether computational models or math or whatever,
+to help us communicate about these.
+And I don't know the math well enough
+to say how one might pop this idea
+into something like a constellation.
+But I do think of this geometric hyperscanning idea
+that some people in the active inference community
+have started to talk about,
+this topological way of considering this.
+I think this might be one possibility
+for how we might think about callioscopic cognition
+through active inference.
+And yeah, I think I've already talked long enough
+and I don't have much of a voice left,
+but I was thinking a lot about generative models
+and how we can think of the model as the ongoing coupling.
+So how can this become understood as constellatory?
+Free energy minimization is like driving
+the perception and action.
+When you encounter something, when light patterns,
+there's an immediate refraction
+through your organism-environment history.
+And this isn't processing or computation.
+It's more like the shifting of light through the prism
+or this kaleidoscopic turn.
+How can we create kaleidoscopic generative models?
+How can we create kaleidoscopic generative models?
+I think that's really the only question
+that needs to be said from this slide.
+How do we begin to let the models communicate
+in the way a kaleidoscope turns?
+I mean, that's kind of a crazy question,
+but something like that.
+That's kind of what I wanna ask
+and what I wanna see if it's possible,
+the wild, crazy question.
+So some implications for neuroscience,
+if we really take all this seriously,
+or if we don't take it seriously even better,
+it would mean rethinking what neural function is,
+fundamentally, that cognitions are the ways we,
+or the ways the body makes through whatever it encounters.
+So when we're recording from neurons,
+we're not, or when we're looking for patterns
+as cognitions, they're not to be found,
+but they are to be better communicated about
+as multiplicities, as possibilities,
+not even in a spectrum, in a constellation of spectrums.
+And memories are patterns of refraction,
+perhaps we could think about it like that,
+that sort of reconstitute when refracted.
+This is happening again in many different directions
+and dimensions, not just in some kind of linear way
+that's coming in from the outside,
+but you communicate with yourself in this way too,
+and you refract and re-shine the light through the prism.
+Yeah, there's all kinds of things we could think about
+with theta oscillations, but why go there now?
+Also, just understanding that bodily is
+the sensory cohesion that can be understood
+as the refraction patterns,
+that we don't separate all these things together,
+except to study them and communicate about them,
+which is a very important exception.
+So long as we understand that's what we're doing,
+and this gives us an understanding
+of what body we're assessing with our measurements
+and where the boundaries of the agent might be,
+because we have to set them.
+Because we start to understand all this
+is just part of the experiment
+of the way we're representing so as to communicate,
+and you can never actually represent the way making
+because we're part of it.

@@ -1,0 +1,1034 @@
+There's no world out there, right?
+I mean, it's all constructed in our head, basically.
+You ask, if you ask a five or a six year old, which I've done this with my grand
+kid and, you know, you ask them, you know, where their thoughts come from, the way,
+they, you know, it's in, they point in here.
+How can this physical body or this brain give rise to that sense that even your
+five year old grandchild has of self, right?
+It's, it feels very mysterious.
+It is very wonderful, right?
+Words are really good.
+They're better than grunts and, but, you know, they still don't quite capture
+the nature of what it is of thought.
+So thought goes beyond language, I guess, is the, is, seems clear.
+Just like the little movie playing in our heads, obviously, right?
+You know, we have a picture on the retina and we have this, right.
+And it's this movie playing basically.
+And, and that's how we represent the world.
+And of course that's complete nonsense because who's watching the movie?
+I mean, who's, who or what is doing the decoding?
+I mean, there are some people would argue that, you know, there isn't a decoder.
+It's all just a continuous loop between the environment and the, and
+the brain, basically again, it comes to the issue of where's the decoder for
+that, for that, for that population.
+And what, how do we connect up the population story, which is what everyone
+talks about now to, to this issue of this higher level issue of representation.
+Yet, but the pre-wiring in the system at this porous kind of, you know, reflects
+the manifold of, of the cells that are available and it's already there by date.
+So what that tells me, and I think what it tells the Moses as well, is that some
+aspects of the way we represent the world are the whole brain is a relational device.
+Everything the brain does is relational.
+Hi, everyone, this is Andrea Hyatt.
+You're listening to Love and Philosophy Beyond Dichotomy.
+This is a special hippocampus love episode with Lynn Nadelle.
+If you've been following the research channel on YouTube or elsewhere, you've
+probably heard a few talks between Lynn and I, there've been, I guess,
+three public ones now, fourth one, I'm going to publish soon.
+This was the, gosh, I don't know if this was the second or the third talk, but
+gosh, I don't know if this was the second or the third talk.
+This one is about representations.
+I haven't posted it as an audio podcast, so I wanted to go
+ahead and do that as a bonus.
+I also wanted to do it because I had a paper come out recently,
+which is about radical relation.
+It's about representations and the hippocampus and a lot of these ideas.
+And Lynn and I just did another talk together about a paper that's related to that.
+And I'm also going to be posting a piece where I try to explain that paper and
+also this idea of cognition being a form of navigation, navigation being a form
+of cognition, and by the way, I'm not saying either of those things, although
+it does get confused as if I'm saying one or the other of those.
+I'm not, however, I am saying that they are the same process and I'm saying
+something actually much more radical than you imagine if you try to dismiss
+it as, oh yeah, mind is like moving through a landscape, but you'll just have to
+watch the other video to really understand that because it's hard to explain.
+It's all about holding paradox, exploring beyond dichotomy and everything else
+that you've ever heard on any podcast here, because this is one huge document
+that I'm putting together that goes along with the book that's coming out next year,
+but also my thesis and quite a few other things that are in the works.
+So it will all become clear at some point.
+If you actually care about all of this, you can put the puzzle together.
+It's actually a big jigsaw puzzle, which you can put together if you really want to.
+If you want to look at every video and listen to every podcast and look at it
+through this document, you'll see that it kind of unfurls in a fractal way.
+But in any case, a big part of this is Lynn Nadel, John O'Keefe, the Hippocampus
+as a Cognitive Map, and Edvard Tolman, all these people that have to do with
+hippocampus research, which is just so important to me, and I'm just so
+grateful for them, and I love being able to talk to Lynn whose story I tell in
+part in the book that's coming out next year, but also just all his research
+and his thinking and his collaborations.
+And he was in Trondheim, I think it's a year ago we had this conversation.
+He was giving some lectures in the Moser lab.
+They were also having the big neuroscience awards there at the time,
+which I think he talks about.
+So this is about representations in the brain.
+There's this problem if you don't follow neuroscience, but this idea of what a
+representation is, just to put it in really general terms, when you have a thought,
+where is that thought?
+Is it a little form in your head?
+How do you find it?
+So we talk about that and it's of course, much more complicated than that.
+But in a way, it's also just that we just want to know what a thought is and how to
+find it and what a memory is and where it is, and if that is even a question that
+makes sense, frankly, when we think about this whole process that we're studying.
+Lynn and I talk about that.
+We kind of break apart this idea of representation in the brain.
+We look back at this really old class he taught on representation.
+And if you want to see the slides for that, there is a link in the show notes and
+you can download them, but just remember they're like 10 years old, but still
+they, they're about a lot of topics that people still talk about.
+We talk about cognitive maps and different brain parts and their functions
+and how all this kind of can work and this coding and decoding and these
+words all mean special things, but it'll just make sense on a general level too.
+If you listen to it, we do talk about population coding and topographic maps
+and other sorts of brain activities.
+But if you don't know what all that means, you can ask Claude or someone, or
+you can just skip over it because it's really just a conversation trying to
+figure out some basic ideas about what's going on.
+How can we remember?
+How can we think?
+Why is it that even a five-year-old understands this process and somehow
+has come to imagine that it's happening in the brain?
+I think it's happening in the whole body and that half the reason kids think
+that is because we tell them it's happening in their head.
+But anyway, that's a whole other conversation.
+You'll hear Len and I talk about that a bit.
+Mostly we're just talking about the mysteries of what it is to have memory
+and be alive and wow, isn't that exciting?
+I think it's just endlessly fascinating and wonderful that we're here.
+Although of course it's also hard and challenging, but let's leave
+it on a positive note today.
+And here's Len Nadel.
+I highly suggest you check out his papers if you're interested in
+learning more about the hippocampus.
+I'm sorry, my voice is almost gone, but I leave you with a
+big hug today and a hippocampus.
+You know, I'm going to give a talk next week, probably on, you know, sort of
+the early history of work on the hippocampus, kind of the background to
+the emergence of the cognitive math theory, kind of what the field was
+like in the fifties and sixties and seventies and, you know, how it all
+came about, you know, how, from my perspective, you know, all the pieces
+came together, so to speak, historically.
+You know, Edvard said, you know, the students here, they don't know
+anything that happened before, more than like 10 years ago, you said.
+A long time ago when you were 20.
+Yeah, so last year, I gave three research talks here of one sort or another.
+But this year I don't have it.
+Three in one year.
+You were there that much last year?
+I were not in it one month.
+I gave three over the course.
+No, no, I think I gave two.
+It doesn't matter.
+I gave a couple of, I gave my research talks this year.
+I don't have anything here to say about research specifically
+that I wanted to talk about.
+So this is, this is going to be my, my presentation while I'm here.
+It's a, a history talk, which I'm working on a fun, putting the piece together
+and trying to, trying to reconstruct the causal, the causal chain, you know.
+Gosh, I'd like to at least read that if you don't publish it somewhere.
+Cause that's, that's probably very interesting to see how you put that together.
+Yeah.
+Well, so much of it floats through Montreal and, you know, we talked about it.
+Yeah.
+Yeah.
+Right.
+Exactly.
+This is the history that I've been talking to you about anyway.
+So speaking of history today, we're going to try to talk about this
+really difficult word representation.
+Dare I even say it in terms of cognitive neuroscience though.
+So for all the people who might be thinking we mean it in other ways,
+cause you can talk about representation in so many different ways, whether
+you're in art or philosophy or whatever, but we're going to talk about a little
+bit philosophically, I think, but mostly through sort of cognitive science, right?
+So I guess I was, I was thinking today, I just kind of play like the student
+instead of trying to pretend like I really understand all this, because I
+was looking at your, your class, which I was just trying to find, but yeah, in
+any case, there's a class you taught like a long time ago, right?
+Yeah, it's like 10 years ago.
+I gave that most of the stuff that's in there, you know, hasn't changed.
+Before we get into all that, let's start with just cognitive neuroscience
+like you do, because it's really interesting, right?
+And I think for people who are trying to follow this, like, why do we
+focus so much on the brain?
+And I think in those notes, you kind of start with it's, it's
+been that way forever, right?
+What are we, why are we trying to provide a brain based account of, of cognition?
+Is it really just like simple?
+We just feel like we're in our heads because all our sensory organs
+are so located there, you know?
+Yeah.
+I mean, if you, I mean, if you took, you were to take a kind of a, a
+Barkley stance and John actually did this at the dinner, he was being somewhat
+obstreperous and he said, you know, there's no world out there, right?
+I mean, it's all constructed in our head, basically.
+And so, I mean, if you take that kind of a position, I mean, it's all inside our
+head where we're creating this whole external world, you know, which may or may
+not match up to what's actually out there.
+He never knows, uh, it better match reasonably well.
+Otherwise evolution would have, you know, squashed us, but yeah.
+So, I mean, I, it's inevitable that, you know, you think about, you know, how, how
+is it that we understand and comprehend the world so that we can behave so that,
+you know, our, so that our behavior, which whenever one thinks about the notion of
+representation, it's hard to, it's hard to say that the brain has nothing to do
+with behavior, right?
+I mean, it's got, it's what makes us move.
+You go back to move, right?
+So, I mean, when we move because our brain, you know, tells us to
+move and we move the ways.
+But we also have a body and we, I mean, it's not disconnected from the body.
+So I guess it's just like you move into the mind body problem.
+It's just this feeling we have, right?
+Of our experience of the world feels like in our head, doesn't it?
+We can't get away from that.
+It seems to me, no matter how, no matter what philosophical position we take.
+So, so with that, you know, as a, as a starting point, you have, you have to
+think about, well, how, how does it come to be that the brain models, let's use
+that term, you know, represents, you know, the outside world in a useful way, you
+know, so that it can guide, you know, guide our behavior going forward.
+There's really no, it doesn't seem like there's any alternative to that position.
+So it's not, you know, people think about, well, so what, what is, how does
+the brain represent the world?
+How does it, how does it do that?
+You know, there's no other way to, there's no other way to think about, you
+know, strikingly as a scientist, there's no other way to think about behavior.
+So if we just think of people coming to a kind of awareness of themselves, then
+you have this feeling like you're sort of in your head and the representation there
+in that really early sense is just that we can sort of have these images of
+ourselves or we can sort of hear our thoughts, right?
+And so that feels like it's some kind of, we're representing the world in
+our heads, right, in a very simplistic way.
+You ask, if you ask a five or a six year old, which I've done this with my grand
+kid and, you know, you ask them, you know, where their thoughts come from,
+the way they, you know, they point in here, I mean, they, they understand,
+you know, it feels that way exactly as you say.
+So we, I mean, but there's, okay, I mean, I can leave it at that except to say
+that there's, you know, there's a couple of different facets of this representation
+problem. I mean, one of them is how does it do it, you know, and how does it, you
+know, how, how do we represent the world and how are those representations used?
+All the kind of mechanistic questions about it.
+But then there's the more complex question, which I don't think I certainly
+haven't made any progress on, which is, you know, why does that particular kind
+of brain activity represent a particular thing?
+Why is it that, you know, activity in visual, in neurons in the visual system
+actually represent visual phenomena?
+I mean, it's that, it's the kind of the heart, it's the consciousness heart
+problem, but it isn't just about consciousness.
+It's simply, how come certain forms of activity represents certain things?
+Kind of, that's the deep question, you know, for me.
+Yeah.
+Well, I just, I think it's, it's like, we all have this, with becoming
+aware that, of our own thoughts in a way, they don't feel physical.
+Absolutely.
+They don't feel physical.
+That's a very, we're physical and we're experiencing them physically, but from
+that vantage point, it feels like something not as physical as, for example,
+just to touch the table, you know, so your little five-year-old grandchild,
+you know, it's kind of.
+Just feeling about it.
+But so there's just mind-body problem of how can this happen, right?
+How can this physical body or this brain give rise to that sense that even
+your five-year-old grandchild has of self, right?
+It's, it feels very mysterious.
+Mind, is it consciousness?
+All these words we use in so many weird ways, but when it comes to trying to
+study the brain, actually thinking about what is reality, so to speak, if, if we
+just, I think, I don't know how you feel about this, but I think it's a very
+bodily experience of cognition and representing the world.
+Of course, the brain is paramount, but let's just say we're going to focus
+on the brain and how this mental experience arises, what the brain's role
+is in it, and then we bring in this world represents.
+So what we're trying to understand is different kinds of reality.
+Isn't that how you say it in your talk?
+Like there's a kind of current reality right now where I'm having thoughts.
+And then there's this thing with memory, which is the fact that I know
+there was a reality yesterday or that the States recently, now you're in
+Norway and all of this, and then there's the future, which you talk about.
+The brain can do all of that, you know, and, and, but, but of course, mostly we
+get to describe what we're thinking about in words, but we know for, from a
+variety of perspectives that the words we end up using separate from words or a
+form of behavior, of course, but very specific form of behavior, they never
+quite capture what it is we're thinking about.
+I mean, you know, we get as close as we can, but you know, anyone who's kind
+of thought introspectively or tried to think deeply introspectively knows that
+they have some thoughts and they're never quite successful, they're never a
+hundred percent successful in getting exactly what it was they were thinking
+into words, words are really good.
+They're better than grunts and, and, but, you know, they still don't quite capture
+the nature of what it is of thought.
+So thought goes beyond language, I guess, is the, is, seems clear.
+There's good evidence for this.
+I've actually Nancy Kanwisher and Dara Sauer talked about this in their, in
+their Kavli talks, it is pretty clear evidence that, you know, that you can,
+this, you can separate out language from thought.
+I mean, many thought, a lot of thought is language, but not all of it.
+So, so, you know, that means there's some deeper, so the representations that
+we have in the brain are not just words.
+It is no kind of lingua franca.
+There's no fedorian.
+What's the language of thought then?
+It's not words.
+So the language of thought has something to do with this issue of representations.
+Anyway, I mean, I think the data certainly from suggests that the two
+are not totally full reliant and that again, just points to the, you know,
+there's some, somehow the brain is representing information in a way that
+is useful that you can use to generate language that you can, that you use to
+generate behavior and it must match the world, you know, close enough so that,
+you know, you survive in the world and the species survives.
+So, and, and, uh, so how does it do that?
+That's, that's kind of the core question.
+You know, what's, you know, and the, so the earliest default was, well, let's
+look at vision, you know, and you say, okay, we know that an image of what's
+out there in the world, you know, is kind of reflected upside down in the retina.
+Well, okay.
+That's it.
+Problem solved.
+Just like the little movie playing in our heads.
+You know, we have a picture on the retina and we have this, right.
+And it's this movie playing basically, and, and that's how we represent the
+world and of course that's complete nonsense because, you know, who's
+watching the movie, right.
+You have this infinite regress of a little person in your head watching
+multiple screens.
+Yeah.
+Of course, people thought that for a long time.
+They actually thought, you know, that that was a plausible story.
+And, and that's one of the reasons why for decades, maybe a century, people
+were all twisted up about the, about the fact that the image is inverted on the
+retina.
+It was like, wow, this is a serious problem.
+How does it, you know, how do we deal with the fact that-
+How are we watching everything upside down all the time?
+Like, you know, and you know, you can find hundreds of papers probably, you
+know, written trying to, you know, address this, you know, the really hard problem
+of the, of the inverted retinal image and how the hell does the, you know, does
+the brain solve it?
+It's completely meaningless, of course, because there's nobody inside looking at
+the, at the image on the retina.
+It's got nothing to do-
+Yeah, but we just take that for granted in a weird way for so long.
+So that picture in the head kind of story that, you know, that I think it was called
+an idola or simulacrum, I mean, there were words that people put, you know, that
+you just, the brain just creates a replica of what's out in the world inside your
+head, but, but it completely in the end becomes pointless because this default,
+you know, to the homunculus, you can't get away from it.
+That problem doesn't go away by the way, no matter what theory you have, there's
+always a problem of a decoder.
+I mean, who is, who or what is doing the decoding?
+If any, if any, I mean, there are some people would argue that, you know, there
+isn't a decoder, it's all just a continuous loop between the environment
+and the, and the brain basically, you know, and, and there isn't a single decoder.
+It's all just connected to, it's this kind of, that's the embodied culture
+essentially, everything you do is immediate sort of coupling to the band
+is immediate coupling and you don't have to think about a decoder because it's
+all part of a, and you know, by the way, that may not, that may turn out to be
+a pretty good story in the end.
+I think it's part of trying to figure it out, but it's also, that's kind of the
+question of representation in a weird way too is because as you say, I think in
+those slides or you've said in other work, you know, we often do that same,
+make that same mistake that people were making for so long of thinking there's
+someone in that, but we forget that we're the scientists looking at the data that
+we've just gotten from the brain.
+We forget that we're decoding it.
+That step gets like taken out.
+It must be in the brain in the same way.
+It's in this little image of a, of a screenshot or something that we've taken
+the MRI or the, or whatever we're looking at, isn't actually in the head like that.
+Exactly right.
+I mean, so we, as experimenters looking at, you know, unit recordings or FMRI or,
+you know, multi-unit recordings or these calcium or whatever we're looking at, you
+know, and we, and we connect up certain patterns of activity in the brain to
+certain behaviors, right?
+We just assume that those patterns, we see those patterns and we see the
+fact that they're connected to these things inside the head.
+How is that happening?
+Basically, I mean, the inside part of the head is not looking at the
+data the same way we are, we're seeing all the data, right?
+Any given part of the brain is seeing only a fraction of the data, so to
+speak, that we can look at as experimenters.
+And we jump to conclusions as experimenters.
+Oh, well, you see this pattern of clay cells firing.
+It means, you know, such and such.
+Well, you know, is there any part of the brain that actually conceived that
+pattern of clay cell firing in the same way we can see it and use it in the way
+that we think is being used or not?
+Uh, probably.
+I mean, even using language to talk about it is weird because of course they can't
+like observe it in the way that we do with our senses or something.
+Um, maybe there's some kind of pattern sensitivity or something.
+I don't know.
+That could be said.
+What's happening.
+I mean, what's happening now, it seems.
+I mean, all the, that lecture kind of brought ended at the point where people
+were saying, well, the brain obviously represents information in some sort of a
+distributed code, a population code.
+That's that is generally accepted.
+There may be rather unique exceptions where a particular cluster of cells, you
+know, has a very unique function.
+And you can say a small number of cells, you know, do the whole job, but mostly
+it's vast arrays of neurons in some population.
+What do we do with that at this point?
+I mean, again, it comes to the issue of where's the decoder for that, for that,
+for that population and what, how do we connect up the population story, which
+is what everyone talks about now to this issue of this higher level issue of
+representation and that's what's happened in the last 10 years.
+So all the stuff that I didn't, you know, that I now think I'm just not expert
+enough about, but which I hear a lot about here.
+And which I heard about in the Kavli talks, especially Dara Sal, you know,
+it's about this, it's about the kind of structure of those, of that population
+of the end, you know, people talking about the geometry of the, of the
+structure of that population and the possible, yeah, et cetera, et cetera.
+And say, and that's kind of where the field is headed now.
+And that's outside my zone or come.
+That's why I said, I don't know that I have more to add now because I'm, I'm
+efficiently, I'm not, I was ever saying not sufficiently sophisticated, but I
+could say I'm not at all sophisticated mathematically to understand, you know,
+the kind of stuff that is being done now that points out the kind of consistent
+geometric, and these are not, this is not clustering or topography in the way
+that one sees in the visual system.
+This is simply the kind of possible states that this multi-vectorial kind
+of collection of cells can take, you know, that, that somehow serve as the
+way it represents, say an object or something.
+And Kenneth Harris was here just the other day.
+He gave a talk on rep, what you, what I would say was like representations
+in the visual cortex, and it was all about, you know, the, the population
+code and the bottom line of what you were saying was that, that the, the
+excitatory neurons, the population code in the excitatory neurons is very high
+dimensional and captures the specific features of the sensory input or the
+visual input, the population code of the inhibitory cells is low dimensional and
+reflects kind of the context, you know, or the modulation of, of, and those two
+things kind of playing off each other.
+Basically, you know, you might want to check out Kenneth Harris's work on this
+stuff, he's a UCL, so, you know, the folks here in Trondheim are on, all are
+kind of very much on the issue of this, the Taurus that, you know, the, the
+manifolds, right?
+So the, as I understand it, a manifold is a kind of, is all of the possible
+states that a representation can take.
+Let's say in the grid cell population, you know, there's a, there's, there are
+constraints on the, on where in the state space that population can be, right?
+It can't be everywhere.
+It can only be on this Taurus because of the nature of the, of the, and the
+Taurus, you know, which kind of constrains the possible states for population
+code can take, i.e., you know, how it can represent whatever is representing.
+That shows up, what they're showing here now is that, that shows up by day
+nine or 10 in the rat pod, before they're moving around in the world, before
+they see anything, their eyes are still-
+You mean they haven't explored?
+There's been no-
+There's been no, they've had no experience yet, but the pre-wiring in the system
+at this Taurus kind of reflects the manifold of the cells that are available
+and it's already there by day 10.
+So, so what that tells me, and I think what it tells the Moses as well, is that
+some aspects of the way we represent the world are, are given, so to speak, prior
+to specific experience.
+Although specific experiences can subsequently influence the way this thing
+works, the kind of really pure Kant, you might say, the Kantian, the built-in
+structure, you know, constrains the representation and, you know, where the
+grid, that's where the grid cell kind of property comes from.
+It comes from whatever that constraint is that, you know, kind of determines
+the possible state that the population can take, you know, as a collection.
+I don't understand any of that stuff.
+I mean, I hear it, intuitions about what that tells us about how the brain
+represents, I mean, that's going to be a part of the answer to the story
+of how the brain represents.
+So it goes one step beyond this notion of a distributed code.
+I mean, so, you know, to step back into that lecture, I mean, I went from
+talking about, you know, the retina to talking about these, the topographic
+maps, they're what finds in the visual cortex.
+Again, it doesn't matter that, you know, the, the input to the, to be one is
+arrayed topographically from a, from a representational perspective, from a
+cognitive representational perspective.
+Again, nobody's looking at it, right?
+But the fact that it's done topographically has obvious, uh, computational
+advantages.
+I mean, you know, things that are near each other may be part of the same
+object, for example, you know, pixels, voxels in space, I mean, so to speak.
+I mean, there's, there's some real advantages to having a topographic code
+represent, especially the spatial aspect of things.
+You don't get this in, you know, in the auditory cortex.
+You only get this in the visual cortex.
+You get this in somatosensory cortex and so on.
+You don't get it with olfaction.
+You don't get a rotation.
+You don't get it with audition.
+Because they are the, they, they're, it wouldn't serve the same purpose there.
+You're not talking about things that are nearby in space.
+Let's, let's define this a little bit because this is a really interesting
+part of the history of trying to understand cognitive neuroscience in the
+way we just brought up and getting to what you were just describing of this
+population coding now and thinking more in terms of even maybe that embodied
+idea of something ongoing that we're representing.
+And so the brain is not necessarily representing, but before we get there,
+the topographic map, I think is a great place to kind of like sit in this for a
+minute because, so we started with, we have this feeling of mental, physical,
+internal, out, out, turn on the external.
+And I think you talk about Plato and Aristotle and this kind of debate.
+Is it internal?
+Is it external?
+And then we get to dualism and Descartes.
+And, but really what we're trying to figure out is what's happening here.
+Is it where something was just all in our head from the beginning?
+And that in terms of the way you described the rats that are born, right?
+Is everything like that given to by God?
+This, this is the, this is the argument that Busaki is basically has joined.
+I mean, this is the inside out versus outside in approach.
+I'm against the either or.
+That is right.
+That that's clearly right.
+So I think I may have already told you that I'm that Mary Peterson and myself
+and Drew Maurer and Sarah Burke in University of Florida, they were former
+students of, of Bruce McNaughton and Carol Barnes.
+We've been working for several years now, just slowly working, working our
+way into trying to spell out a hybrid, a hybrid between the inside out and outside
+in approach to thinking about how the brain represents meaning, you know, this
+is actually that the question we're talking about today, we have made very
+little progress so far.
+I actually don't think we've talked about that yet.
+And that is really interesting.
+That that's going to have to, I need to like read up on that.
+Cause I really feel like holding the paradox.
+That's how I say it philosophically is I think the hippocampus is like trying
+to help us do that, right?
+Because you can't go in either direction all the way you need both.
+So how do we do it?
+And it's, it's hard to think about, you know, that can't be one or the other.
+It can't be an either or somehow or it's both.
+It's a, it's a new way to have to process this.
+I think that's it's that I think all this research that you're involved in, at
+least from my perspective is showing us a way to do that, but it's very hard
+because you have everyone in their own camps, trying to kind of prove.
+And that's part of the process itself.
+I don't want to get too distracted away from the topographic maps yet, because
+this word map is really important.
+I think it can kind of like lead us because, and there's this very cool thing
+in case people don't know the, um, is it Penfield who came up with a sensory or
+the sensory homunculus was it Penfield?
+We kind of mapped it.
+Yeah.
+That's the matter sense.
+But basically what that's showing is that in the brain, um, most people's brains,
+there are certain areas that are associated with certain parts of the body.
+Right.
+You can sort of, it's not like map is a tricky word.
+We could get into that, but more or less within the brain, as it's developed with
+the body, there's a certain part that's got a lot of attention towards, for
+example, the hands or the lips or, or so.
+Well, I mean, what we're, what we're finding out, and that was what the
+Colby prize was about was the face systems.
+It's, it's usually more than one.
+I mean, the sensory homunculus that Penfield pointed out, you know, would
+make you think that, you know, there's this one place in the brain where the
+face is represented well, no act is about seven or eight face patches.
+It turns out, you know, of, of increasing degrees of complexity, you
+might say of energy and increasing degrees of invariance when you get to
+the sort of top of that hierarchy, you, you have a system that is representing
+a face, no matter which angle you're seeing it in and so on.
+I mean, so, but basically, yes, the brain has these three and motor.
+I mean, the motor system is the same.
+And that's so important.
+What you just said, because I think even in a lot of ongoing neuroscientific
+study is still taught in the old way, not in the way you just said that there can
+be many different places where this is happening, but it doesn't change.
+That's the either or too.
+It doesn't change that actually there is an associated regularity, right?
+That's the localization kind of argument.
+Basically, you know, what is the face system localized to one part of the brain?
+The answer is no, we now know it's distributed and, you know, it does
+several, but within, but each of the patches may have quite a very specific function.
+There may be specialization with any of the face patches.
+It's not as if all these patches are equivalent, you know, and they're
+all doing the same and collect.
+Yeah.
+It's not like they're changing all the time.
+So I think to try to connect it to what we were talking about before, you know,
+we come into, we're trying to understand how the things that we are aware of our
+experience are related to life and how the brain is doing it.
+So for example, with this map, you can kind of understand that certain sensory
+input with certain parts of the body course, like if you hurt the brain, for
+example, in that individual, then it's going to affect that part of their bodily
+experience of the world and movement and whatever.
+Exactly right.
+And all this.
+That's the connection, right?
+Yeah, yeah, that's the connection.
+The things I want are all, you know, relevant to this and Ramachandran has done
+some really lovely work along the, about this kind of stuff, right?
+So what do we make of that though?
+I mean, again, that's a, you know, that, that sensory monoculus that Penfield,
+by the way, he's part of the history lecture that I'm putting together.
+Because Penfield even goes back to McGill too.
+Exactly right.
+He was a critical link between the neurosurgeon who did the surgery on HM and
+Brenda Milner, who ended up studying HM and Sue Corpin.
+Penfield was the critical link.
+He brought in Milner, right?
+He brought, well, he, he brought in Hebb, who brought in Hebb, who
+brought in Milner, right?
+The Milner, who brought in Corp, who sent Corpin to work with Milner.
+I mean, tangled.
+Penfield is part of the story, which is kind of cool.
+Yeah, right.
+So that, I mean, that, you know, that was a little bit like the, you know,
+image on the Repna.
+I mean, we don't, you know, yes, the brain is organized in that way that
+there are these topographic maps, so to speak, they are distorted visual system.
+There's even distortion within the visual system is, you know, asymmetries
+and kinds of eccentricities and so on.
+It's not a kind of a flat map, you know, that accurately represents the 3D
+structure of what we seem to perceive as Euclidean world.
+That's not the way exactly, but it's roughly topographical because that
+there's real computational advantages to that.
+And the same must be true in the somatosensory maps.
+There must be, there has got to be computational advantages to having,
+you know, those things represented in neurons near each other.
+I mean, for start, then you're, then this becomes a wiring issue.
+And I think I mentioned it, and I don't know that I mentioned it in the lectures,
+but I probably in the chapter that I could never, that I didn't manage to get
+the 1980 chapter, you know, the, the, the computational advantages are of,
+of having things close to each other involves this sort of minimum,
+minimum wiring constraint, you know, which evolution presumably prefers.
+You want to have things that need to talk to each other as
+close to each other as possible.
+You also need to have long range communications because, you know,
+et cetera, to the extent to which you can have nearby things that, you know,
+that are functionally near each other, that, you know, that's, that saves
+extra wires, which saves metabolism, which.
+And by wire, you're, you're talking kind of like Hebbian.
+Well, what do you mean by wiring?
+That's like a separate issue.
+You know, this, this is just an issue of, of development.
+I mean, when you do, when the brain is developing, I mean, it, it takes, it
+takes a lot of energy to, to, to make connections between neurons and the,
+and the greater the distance between two neurons that are meant to talk to each
+other, you know, because they have some similar, some similar function, the
+more energy it takes, I'm really talking about the nearness in space.
+Yeah.
+The near the nearness in space, you know, is a, is a big advantage from our,
+you know, all other things being equal.
+It's a big advantage to have things near each other.
+If they're doing, if they're doing something similar, that's why the
+absence of any topography in the hippocampus initially struck people as
+this is so crazy, basically have the neurons that represent two places in
+the world that are really close to each other in the world, they may not be
+anywhere near each other in the hippocampus.
+They could be, you know, it's random.
+You know, it seems like, you know, there's been some argument about that,
+but so the hippocampus was this non-topographical map.
+That's what made it so kind of cool initially in the context of what
+we knew about visual maps.
+It was something that, you know, it's not only visual.
+We, it was known early on that it was more than just visual, but, you know,
+most of the experiments, you know, default to vision, you know, I mean,
+the rats moving around the world that sees what's out there, blah, blah, blah.
+And yet the way this, the way the brain mapped it wasn't topographical.
+So, and that...
+I think that's part of that either or holding the paradox coolness of the
+hippocampus too, that we, that everyone's having to deal with that.
+But this is very interesting because let's like, okay, so this, this idea of
+top topography is quite amazing, right?
+Like this was an amazing thing to figure out that within this organ and our
+body, probably different for everyone, but as you develop, probably you come
+with certain regularities that everyone shares, but as you develop certain parts
+of your brain are going to correspond to certain parts of your movement
+and your sensation and the body parts, right?
+And that's fascinating and so cool.
+We thought of that as a map, right?
+That you can map this onto the brain.
+And this is where the representation gets confusing because topography doesn't
+solve the problem of representation.
+It doesn't solve any of that stuff we were talking about, but it starts to seem
+like now we have a representation, but actually we've drawn a diagram, which
+is the representation of kind of being able to create another third thing, which
+is a kind of map of this part of the brain corresponds to this part of the
+body, but then like we were saying, people start thinking there's a map in
+the brain and this gets kind of confusing.
+Yeah.
+I mean, it solves no problem at all.
+I mean, it solves the mechanistic computational problem, clearly.
+But not the meaning problem.
+That's how you put it in here.
+But not the meaning and representational problem.
+So, I mean, a lot of the work that is being done is really
+focused on the mechanistic problem.
+I mean, how is the system doing, you know, creating these maps and how
+are these things being, and how are these things used and so on?
+And how do we know it?
+Like, how is this experience that we found that wonderful correspondence
+and that tells us something, but to then think, oh, well, that's what's happening.
+That's how we have this little movie in our brain.
+No, it's too, it's too confusing, but we don't have this little.
+We don't have that.
+And I don't think quite honestly, I mean, I certainly don't have any
+really clever ideas about it yet.
+You know, I don't know.
+This week, there's going to be a visitor here who's a, who is a, from Israel,
+a guy, Yoram Burah, who collaborates with, with Edvard Moser and probably
+Margaret as well, and, and he's a former student of, of Sampolinsky.
+I can't remember Sampolinsky's first name.
+He was really one of the grandfathers of computational neuroscience.
+Trying to sort of figure out how attract your networks and how all
+these things end up representing.
+I mean, that's really what they're trying to get at, but when they're
+really working on the mechanistic issues, I mean, how does it do the job that it
+does and they don't really, unless until maybe until you liquor them up a bit,
+they don't, they don't want it.
+They don't necessarily want to talk about the meaning question.
+I mean, how does this set of activities come to represent something in
+the way of meaning that thing?
+It's interesting that you bring that up because right, you know, we're kind of
+jumping around, but we, we got to this idea of it not being a map in the brain,
+but for a while we sort of thought, okay, there's like a little picture in the
+brain and then there's a topographic map and there's an image and so on through
+the, now we still confuse all of these words, even thinking about computational
+representation in the brain is a similar, I think a similar mistake to thinking of
+maps in the brain, but it doesn't mean the word map or the word computation is like
+wrong.
+It's just that we get confused about the problem at all.
+So you get, so you get somebody like Tim Barron, you know, is arguing that some
+kind of a geometric sixfold representation is the common code for the way the brain
+represents information is going beyond the, you know, building off the grid cell
+notion, you know, that you hear and how well the grid cell population tiles the
+whole environment.
+He's jumped, he's taken that idea and sort of said, well, you can find this
+kind of six fold representational structure to the, to the population code
+again, all over the brain he's arguing.
+And I think I, and I talked to John about this as well.
+And John, we also think that he's probably not too far here, but even if that were
+the case, and you think about the grid cells, I mean, what is it about that
+particular computational structure that causes it to mean what it means, you know,
+or that we think it means?
+So to speak that, that it, what it means is something about the structure of the
+space that the, that the or animal is moving around it.
+This is great because I think too that he's gone too far, so to speak, and trying
+to be so specific about the sixfold, so on and so forth.
+Um, but what I like about his work in that Tolman Eichenbaum machine is exactly
+that he puts Tolman and Eichenbaum together because, I mean, we kind of skipped
+over like, so thinking about maps.
+And then I think in your lecture, you go into sort of feature detection and, um,
+contrast and Hubbard and Wiesel and all this, and it's kind of moving more towards
+where we are now, population coding, right?
+Where you're, you're looking at regularities and so on and so forth.
+And I bring that up, but then also the Tolman Eichenbaum, like, I would like to
+hear your perspective about, like, do those not fit together, you know,
+Eichenbaum's idea and.
+Well, what's the idea?
+What do you see as the core idea in the, in the, in the Tolman Eichenbaum machine?
+What, what is it doing?
+Well, I mean, I think I would need to think about that a little bit more, but
+I'll tell you what I'm trying to get at here in terms of this conversation.
+So Tolman is associated with the cognitive map, for example, or the idea
+that Winnarat is moving through its spatial location, that's also a kind of
+knowledge, so to speak, and that we could map it, I'm now giving him words
+he doesn't necessarily use, but in the same way we draw these little homunculi
+kind of things, we could probably do that with certain individuals or certain
+rats in terms of how they're moving through space and how certain parts of
+whatever is happening in the hippocampus is happening, right?
+And it gets way too confusing.
+I'm not saying it's a six-fold this and that and that.
+Tolman didn't care about that.
+No, he doesn't care.
+He went not into the brand, Tolman was just talking about the cognitive structure.
+But that moving through a space is a kind of knowledge, right?
+I just think that's an obvious kind of thing that we can say is...
+The knowledge that Tolman claimed was the knowledge, the kind of,
+what leads to what knowledge?
+I mean, what Tolman claimed was that the animals form a kind of a mental map,
+a map of the world, something like a map of the world in their head.
+Something like parts of the brain being associated with regularities in the
+way we described with the topographic map, but not so hard and fixed as that,
+but something like that going on.
+Of course Deme might have said that, but he really didn't ever talk about the brain.
+Yeah.
+But that same kind of idea, right?
+That as you develop, of course, you kind of associate certain regularities
+with certain whatever functions.
+Yeah.
+That would be the modern way of talking about it.
+So that's the Tolman part.
+Tolman talked about the representations that our brains must be forming and the
+fact that they can be used in predictive mode.
+Good way to say it, yeah.
+Basically they tell the animal, if I do this, then the following is going to
+happen, you know, he connected all of those dots cognitively.
+Which is great because that's kind of like a map, right?
+Because you use it in order to sort of infer where you're going to go.
+That's why O.P. and I built on that.
+Exactly.
+And that goes into the beautiful book, which we've discussed, Hippocampus
+as a cognitive map.
+So now tell me about the...
+The Eichenbaum.
+The Eichenbaum part of it.
+Okay.
+Well, this is what I don't think.
+I think I'm missing something because I feel like there's a lot of controversy
+or fighting about something.
+I don't know that I really understand Eichenbaum totally with this idea of association.
+I guess what I think is kind of clear and what I like about the Tolman
+Eichenbaum is that we can understand, we could probably find some way.
+I don't think anyone's found it, but to understand that the same way that we
+study how, for example, we move through physical spaces and that all of this
+that we've been talking about, there are regularities and we could probably
+find maps, and I mean that external maps that we draw or computational models
+that we make is what I mean by representation, that we could also do that
+with other spaces because we're studying what a space is, you set the little
+room for the rat, but you could also set a little knowledge space, so to speak.
+And for me, it's still all regularities that we've learned and you're still
+moving through a space in a similar way.
+I don't mean that the way we move through a room and the way we move
+through a book are going to look the same, but there's probably some kind
+of pattern or regularity towards how we could understand those processes that
+is the same, that's how I see that connection being made in a nice way.
+But I could be wrong.
+I mean, I don't understand what Eichenbaum is so controversial about.
+Well, I think the controversy comes from the fact that this idea is built on
+the Eichenbaum and Cohen really notion of relational memory, and the brain
+is coding these relations, and the hippocampus in particular is a
+relational memory device.
+So that would be this either or thing, right?
+So that then precludes all the other stuff we're talking about?
+Well, not really, because they may think it does that.
+I don't think it does, but it seems like people take it that way.
+And then I can understand the controversy, I guess.
+I don't think the idea is so much controversial as vacuous.
+Okay.
+Well, what is the idea?
+Because I think I'm missing what that is.
+The vacuous part is that Eichenbaum talked about this as one piece of the
+kind of brain's function, this relational device, right?
+You know, the hippocampus is specialized to kind of create these relations, you
+know, and it does it for space and for all these other things as well, right?
+That's the point you're making.
+The problem is everything the brain does, not just the hippocampus, everything
+the brain does is relation.
+There is no non-relational part of the brain.
+It does not exist.
+It's a nonsense idea.
+Every neuron gets inputs and is relating inputs from multiple sources.
+There is nothing that is non-relational.
+It simply is not a, it's not a useful explanatory idea.
+So to the, in my view, and also John and I are very strongly in agreement on this.
+There's just no, it doesn't help you.
+Everything is related.
+So that he's saying that, so is he saying the hippocampus' main purpose is to relate?
+Yeah, his, yes, uniquely so.
+And there are other, other parts of the brain don't have this kind of special, you
+know, ability to relate things to each other is the, is the, is the core of the
+Eichenbaum cone relational idea.
+And that it built into this Tolman Eichenbaum approach, you know, that, that
+you have this unique relational device, but that's crazy.
+The whole brain is a relational device.
+Everything the brain does is relation.
+Okay.
+That I didn't get at all, that it had to be a device that's relational.
+To me, it was much more of a theoretical, very much grounded in kind of the things
+you start with in your book with space and how we, how we understand space.
+And as you said yourself, they're talking about it as an association machine.
+The Tolman Eichenbaum machine is a machine that makes associations, but, but that's
+an association is just another word for a relation.
+It's the, and the brain is in the business of, of everything is associative.
+There used to be in psychology, this kind of big distinction between
+associative and non-associative learning.
+As if there could be such a thing as non-associative learning.
+Right.
+I think they're still talked about as if, as if associative, I mean, people
+don't talk the way I agree with what you're saying, but this is confusing
+because when in all brain research, we don't talk about the brain as being like that.
+Yeah, no, that's the reason why there's this controversy that some people are
+kind of taken up by this idea.
+Oh, that's a really cool idea.
+You know, you've got this special relational associated device, the
+Tolman Eichenbaum machine, blah, blah, blah.
+Without actually kind of digging deeper and, you know, trying to say, well,
+okay, what's the rest of the brain doing?
+Is it doing non-associative things?
+What does that mean?
+Every part of the brain is doing associative things.
+There's no, there was no distinction.
+Otherwise, you know, otherwise the brain would just be a bunch of isolated
+wires, you know, going from input to output, there'd be nothing else going on.
+I agree.
+But we don't, we talk about associative memory as if it's one kind of memory.
+We don't talk about all memory as a whole.
+What I'm trying to tell you is that so-called non-associative memory, which
+were things like habituation, sensitization, they're not non-associative.
+I agree 100%, but it's not the way you're taught that, you know?
+So I can just imagine a lot of people aren't even understanding that that's
+what he's saying, you know, because...
+You're absolutely right.
+That the objection I'm making is not one that is widely kind of mooted in the,
+you know, in the, in the literature at this point, but sooner or later, people
+are going to realize that it's a vacuous, that this idea, I think they're going
+to realize that this is a vacuous idea.
+It doesn't get you anywhere.
+I don't think it's a vacuous, but I think it's not like an answer.
+It's a, for me, it's like a tool to rethink some of these things.
+Even, you know, Tolving, I love Tolving and these different kinds of memories,
+but we do need to do some rethinking about how we categorize all
+of these memories and things.
+And I guess like being a little bit kind of, you know, not really under, I
+haven't studied, I have studied Eichenbaum and all this from an angle
+that I, from which I want to see things, right?
+Not, and everyone's doing that.
+So I can see how this gets incredibly confusing.
+But to just not try to stick it to, to like a theory, I think what's
+interesting is like, for me, and you might really disagree with this, is
+like, that doesn't seem so far from a cognitive map in the Tolman sense of
+like, I wouldn't say, for example, that, okay, we're just, just because we can
+understand that cognition is, that when we are moving through a space, that is
+also a kind of knowledge, then we just say, oh, okay, everything is movement
+and everything is knowledge.
+I mean, we could also kind of do that too, right?
+And that would be vacuous.
+Um, but instead, if you really look at, at what's being said there and you
+start to understand, um, there's actually very big, huge differences in
+terms of these parts of the brain.
+Or even if not, right, even if some other part of the brain could become
+something like the hippocampus, it would still be interesting that the brain
+itself, some, in some way is developing some kind of regularity that can then
+be used in many different situations.
+Yeah, I believe however, that every part of the brain is doing what you're just
+saying, that that is not unique to any particular system, that's just the way
+the brain works in every part of the brain is extracting, is engaged in
+extracting the regularities from the input patterns that it receives.
+Basically, and, and those input patterns necessarily include relational
+information, they have, they always do.
+They're not about like one point in space.
+They're always about things that, that involve relations.
+So my problem with that approach is that it doesn't seem to me to add any useful
+explanatory power to the, to any other story that one, you know, that one it's,
+you know, it's basically gets back to everything is associated, you know,
+everything is associative and you know, that again, the philosophers were okay
+with that idea, you know, that the brain works on the basis of associations.
+That's, that's what it does.
+And it is not this part of the brain that works on the basis of associations and
+extraction of statistical regularities and so on, it's every part of the brain
+is doing exactly that.
+That's kind of incredible.
+I mean, I think if you take, we don't have time to go into all of your work,
+but the things we've talked about in other discussions together and the reason
+that I believe this whole kind of Tohan through you, through the Mosers, all the
+stuff that you're now celebrating there, I think at the, in Trondheim, I think
+this is incredibly important because it does show us something that does tell us
+something about what we were trying to talk about, about how we can be in the
+world and experiencing the world.
+And that's like a continuous thing.
+Does absolutely it does, but we're back to the Gunny inside out versus
+outside in and why does it have to be either or, I mean,
+and, and what is the, what is the magic sauce that is going to help us understand,
+you know, how both of them, both the internal structure, like the, that shows
+up at day 10, you know, independent of experience and the actual experience
+that the organism has, which actually then refines the shape of the Taurus
+and refines, and then the grid cells emerge after the Taurus.
+Maybe it is something like the association though.
+And I don't mean that in a vacuous way, but I mean, connected to all the
+research you guys are doing, if you start to think of the brain in that way,
+and you think of it in that immediate sense, you brought up at the beginning,
+actually we get somewhere really new and beautiful.
+I hope you're right.
+But the problem is to go back to representations is we can't get rid of
+that, trying to find it in the brain or find it in the world, right?
+Instead of understanding association as a process that can't be, isn't
+represented in the brain or the world, but we can represent with the books we
+write and the computational models we make and the, it was just a draw.
+And I mean, the notion of a representation in the brain may just be a slice through
+a, through a moment in time and that the representation is really something
+is really some combination of the structure of the brain and the structure
+of the, of the world and the inputs from the world to the brain and the, and the
+tight coupling between those two and the kind of compromise between those either
+or positions is figuring out how that coupling works basically.
+And then when you say, you know, the, this activity, the brain represents X
+and X about the world, then something about the world is, you know, part of
+that story that has helped create that, you know, that's that set of brain
+activities, either phylogenetically or ontogenetically.
+And, you know, the answer is going to be found somehow in the interactive kind
+of reentrant, you know, recursive sort of language that the brain uses, you
+know, to sort of interact with the world.
+And that's kind of what we're working on and trying to figure this out is the,
+the middle, the middle ground has to be, you know, somewhere between those two.
+And, and how does it, and how does, how does a particular network come to have
+the meaning that it has, we're no longer talking about patches or maps, but, you
+know, an entire network or population of cells, how did they come to mean what
+they mean and how, and how did they come to have the power they have to, to
+generate behavior, so to speak.
+And it's got to be some interaction between what's out there in the world and
+the experience the organism has and the, and the kind of the pre-wired structure
+of the system, which was pre-wired because of millions of years of, of
+evolution, you know, that built it that way because it actually worked in the
+world.
+And so it's got to be connected to the world in that way.
+Another free device, basically.
+The point I was trying to make about told the night come out was that no matter
+how you think about this, it's going to be an associative device of some kind.
+Right.
+And so, yeah, so that might be the contribution that I'm thinking he's
+bringing because I don't think we talk about it like that.
+And I don't think it's actually vacuous to talk about it like that.
+If you, if you bracket it in the way we're talking about, if you just say,
+okay, the hippocampus is little device in the brain that does this.
+Okay.
+That's, and it does it through this and this and this.
+Okay.
+Then we're getting like, that's not going to help us.
+I'm open to that possibility.
+Yeah.
+But I see, I do see a way that those things aren't, there could be help
+helping each other, this tradition that it's, you know, so important to me that
+you guys are all there are doing.
+And what he was trying to say sometimes in probably almost a cartoonish sense
+about, about there being a way in which, um, this is happening in all these
+different contexts, you know,
+that's the, how does that, and how does that work?
+What, you know, what, you're going to know that we've, we've run out of time.
+I know, I know.
+We have to go, I have to quit now.
+So we can, yeah.
+So we can pick this up again, you know, next month, you know, we can
+set up another call to song.
+Yeah.
+Will you, um, can I read your, your talk that you're going to give there?
+Maybe, uh, I will, or some part of it is history thing.
+Yeah.
+Or, or, or send me some of the stuff you were just talking about.
+Hybrid stuff too.
+Uh, that, that's not ready.
+That's not ready.
+Well, then maybe your talk with you or something, which is really a different
+thing is just interesting history.
+Uh, I can check that there, once I have the PowerPoint finished, then I can send
+you this, then I can, you know, and I think a lot of it on the slides, I mean,
+some of it, some of it won't be, but most of the, most of the story will be on the
+slides.
+Okay.
+That would be great.
+Yeah.
+Okay.
+Let's do that.
+Done with it.
+I won't be done with it for another week or so, but I'll, when I'm done with it,
+I can send it to you.
+And we just, I'm in, I'm in research mode, so I'm going to be, I'm finally
+staying still.
+So when you get back and settle, just let me know we can.
+I'm back second of October so we can set something up for the middle of October.
+Yeah.
+And we're out in October.
+Okay.
+That would be perfect.
+Yep.
+Sounds good.
+Have fun there.
+Yeah.
+Always fun.
+Send me the paper.
