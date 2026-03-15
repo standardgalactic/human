@@ -1,0 +1,42 @@
+Analyze the rhetorical and argumentative structure of the text.
+
+Return JSON with this schema:
+{
+  "category": "rhetorical_voice",
+  "claims": [
+    {
+      "id": "",
+      "text": "",
+      "type": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "tone_shifts": [
+    {
+      "from_tone": "",
+      "to_tone": "",
+      "trigger": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "emphasis_points": [],
+  "contrasts": [
+    {
+      "a": "",
+      "b": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "argument_structure": [
+    {
+      "step": "",
+      "role": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "polemical_stance": "",
+  "notes": []
+}
+
+Claim types: assertion, definition, analogy, objection, concession, speculation
+Return JSON only.

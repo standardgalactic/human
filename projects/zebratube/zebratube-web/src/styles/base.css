@@ -1,0 +1,221 @@
+/* base.css — ZebraTube design system */
+
+:root {
+  --bg:       #0a0a14;
+  --surface:  #11111e;
+  --border:   #22223a;
+  --text:     #d8d8ee;
+  --muted:    #6060a0;
+  --accent:   #6688ff;
+  --accent2:  #ffdd44;
+  --green:    #44ff88;
+  --red:      #ff5555;
+  --orange:   #ff9944;
+  --font:     'Georgia', serif;
+  --mono:     'Courier New', monospace;
+  --sans:     system-ui, -apple-system, sans-serif;
+  --radius:   4px;
+  --shadow:   0 2px 12px rgba(0,0,40,.5);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 16px; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.65;
+  min-height: 100vh;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code, .mono { font-family: var(--mono); font-size: .85em; }
+
+/* ── Layout ───────────────────────────────────────────────────────────────── */
+
+.wrapper { max-width: 1160px; margin: 0 auto; padding: 0 1.5rem; }
+
+.flex { display: flex; }
+.gap-1 { gap: .5rem; }
+.gap-2 { gap: 1rem; }
+.gap-3 { gap: 1.5rem; }
+
+.content { padding-top: 1rem; }
+
+/* ── Topnav ───────────────────────────────────────────────────────────────── */
+
+.topnav {
+  border-bottom: 1px solid var(--border);
+  padding: .65rem 0;
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(10,10,20,.96);
+  backdrop-filter: blur(8px);
+}
+
+/* ── Cards ────────────────────────────────────────────────────────────────── */
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  transition: border-color .15s;
+}
+.card:hover { border-color: var(--accent); }
+
+/* ── Badges ───────────────────────────────────────────────────────────────── */
+
+.badge {
+  font-size: .7rem;
+  font-family: var(--mono);
+  padding: .1rem .45rem;
+  border-radius: 2px;
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+.badge-simple   { border-color: var(--green);  color: var(--green); }
+.badge-standard { border-color: var(--accent); color: var(--accent); }
+.badge-complex  { border-color: var(--orange); color: var(--orange); }
+
+/* ── Bounty ───────────────────────────────────────────────────────────────── */
+
+.bounty {
+  font-family: var(--mono);
+  font-size: .8rem;
+  color: var(--accent2);
+  font-weight: 700;
+}
+
+/* ── Tabs ─────────────────────────────────────────────────────────────────── */
+
+.tabs {
+  display: flex;
+  gap: .25rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1.5rem;
+}
+.tab {
+  padding: .45rem 1rem;
+  font-size: .85rem;
+  color: var(--muted);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  font-family: var(--sans);
+  background: none; border-top: none; border-left: none; border-right: none;
+  transition: color .12s, border-color .12s;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--accent2); border-bottom-color: var(--accent2); }
+
+/* ── Buttons ──────────────────────────────────────────────────────────────── */
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  padding: .45rem 1.1rem;
+  border-radius: var(--radius);
+  font-size: .85rem;
+  font-family: var(--sans);
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  transition: border-color .12s, background .12s;
+}
+.btn:hover { border-color: var(--accent); background: #1a1a30; }
+.btn-primary  { background: var(--accent); border-color: var(--accent); color: #000; }
+.btn-primary:hover { background: #88aaff; border-color: #88aaff; }
+.btn-danger   { border-color: var(--red); color: var(--red); }
+.btn-sm { padding: .25rem .65rem; font-size: .78rem; }
+
+/* ── Inputs ───────────────────────────────────────────────────────────────── */
+
+input[type="text"], input[type="email"], input[type="password"],
+input[type="search"], textarea, select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: .9rem;
+  padding: .45rem .75rem;
+  width: 100%;
+  font-family: var(--sans);
+  outline: none;
+  transition: border-color .12s;
+}
+input:focus, textarea:focus { border-color: var(--accent); }
+
+/* ── Stats bar ────────────────────────────────────────────────────────────── */
+
+.stats-bar {
+  display: flex; flex-wrap: wrap; gap: 1.5rem;
+  padding: .75rem 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1.5rem;
+}
+.stat-item { font-size: .8rem; color: var(--muted); }
+.stat-item span { color: var(--accent2); font-weight: 700; font-family: var(--mono); }
+
+/* ── Empty state ──────────────────────────────────────────────────────────── */
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 3rem 1rem;
+  font-family: var(--sans);
+  font-size: .9rem;
+}
+
+/* ── Scarcity bar ─────────────────────────────────────────────────────────── */
+
+.scarcity-bar {
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-top: .5rem;
+}
+.scarcity-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--green), var(--accent2), var(--red));
+  border-radius: 2px;
+  transition: width .3s;
+}
+
+/* ── Media grid ───────────────────────────────────────────────────────────── */
+
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: .75rem;
+}
+
+/* ── Assembly timeline ────────────────────────────────────────────────────── */
+
+.timeline-track {
+  display: flex;
+  gap: 2px;
+  overflow-x: auto;
+  padding: .5rem 0;
+  min-height: 80px;
+  align-items: stretch;
+}
+.timeline-slot {
+  min-width: 100px;
+  flex-shrink: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: .5rem;
+  font-size: .75rem;
+  font-family: var(--mono);
+  position: relative;
+}
+.timeline-slot.filled { border-color: var(--green); }
+.timeline-slot.gap    { border-color: var(--red); border-style: dashed; }
+.timeline-slot.branch { border-color: var(--orange); }

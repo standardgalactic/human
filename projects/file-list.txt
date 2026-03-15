@@ -1,0 +1,742 @@
+.
+├── file-list.txt
+├── spherepop.sh
+├── textbot
+│   ├── README.md
+│   ├── bin
+│   │   ├── render_all.sh
+│   │   ├── run_all.sh
+│   │   ├── run_canonical.sh
+│   │   └── run_projection.sh
+│   ├── projections
+│   │   ├── build_ambiguity_diffusion.py
+│   │   ├── build_character_state.py
+│   │   ├── build_concept_map.py
+│   │   ├── build_diagrammatic_structure.py
+│   │   ├── build_narrative_film.py
+│   │   ├── build_procedural_transform.py
+│   │   ├── build_rhetorical_voice.py
+│   │   ├── build_sonic_mapping.py
+│   │   ├── build_structural_summary.py
+│   │   └── build_timeline_causality.py
+│   ├── prompts
+│   │   └── canonical_extract.txt
+│   ├── render
+│   │   ├── render_ambiguity_diffusion.py
+│   │   ├── render_character_state.py
+│   │   ├── render_concept_diffusion.py
+│   │   ├── render_constraint_dynamics.py
+│   │   ├── render_diagrammatic_structure.py
+│   │   ├── render_narrative_film.py
+│   │   ├── render_sonic_mapping.py
+│   │   ├── render_structural_summary.py
+│   │   └── render_timeline_causality.py
+│   ├── src
+│   │   ├── build_canonical_graph.py
+│   │   ├── call_ollama.py
+│   │   ├── chunk_text.py
+│   │   ├── constraint_simulator.py
+│   │   └── validate_json.py
+│   └── {bin,src,projections,render,prompts,data
+│       └── {input,chunks,analyses,canonical,projections,videos,frames}}
+├── textbot-1
+│   ├── README.md
+│   ├── bin
+│   │   ├── render_all.sh
+│   │   ├── run_all.sh
+│   │   ├── run_canonical.sh
+│   │   ├── run_one.sh
+│   │   └── run_projection.sh
+│   ├── index.html
+│   ├── projections
+│   │   ├── build_ambiguity_diffusion.py
+│   │   ├── build_character_state.py
+│   │   ├── build_concept_map.py
+│   │   ├── build_diagrammatic_structure.py
+│   │   ├── build_narrative_film.py
+│   │   ├── build_procedural_transform.py
+│   │   ├── build_rhetorical_voice.py
+│   │   ├── build_sonic_mapping.py
+│   │   ├── build_structural_summary.py
+│   │   └── build_timeline_causality.py
+│   ├── prompts
+│   │   ├── ambiguity_diffusion.txt
+│   │   ├── canonical_extract.txt
+│   │   ├── character_state.txt
+│   │   ├── concept_map.txt
+│   │   ├── diagrammatic_structure.txt
+│   │   ├── narrative_film.txt
+│   │   ├── procedural_transform.txt
+│   │   ├── rhetorical_voice.txt
+│   │   ├── sonic_mapping.txt
+│   │   ├── structural_summary.txt
+│   │   └── timeline_causality.txt
+│   ├── render
+│   │   ├── render_ambiguity_diffusion.py
+│   │   ├── render_character_state.py
+│   │   ├── render_concept_diffusion_field.py
+│   │   ├── render_concept_map.py
+│   │   ├── render_constraint_dynamics.py
+│   │   ├── render_diagrammatic_structure.py
+│   │   ├── render_narrative_film.py
+│   │   ├── render_procedural_transform.py
+│   │   ├── render_rhetorical_voice.py
+│   │   ├── render_sonic_mapping.py
+│   │   ├── render_structural_summary.py
+│   │   └── render_timeline_causality.py
+│   ├── src
+│   │   ├── build_canonical_graph.py
+│   │   ├── call_ollama.py
+│   │   ├── chunk_text.py
+│   │   ├── constraint_simulator.py
+│   │   ├── merge_chunks.py
+│   │   └── validate_json.py
+│   └── {bin,src,prompts,projections,render,data
+│       └── {input,chunks,analyses,canonical,projections,videos}}
+├── textbot.aux
+├── textbot.log
+├── textbot.out
+├── textbot.pdf
+├── textbot.tex
+├── textbot.toc
+├── zebra-architecture.aux
+├── zebra-architecture.log
+├── zebra-architecture.out
+├── zebra-architecture.pdf
+├── zebra-architecture.tex
+├── zebra-architecture.toc
+├── zebra_agent_package
+│   ├── README.txt
+│   ├── scripts
+│   │   ├── zebra-agent-daemon.sh
+│   │   ├── zebra-agent-once.sh
+│   │   ├── zebra-agent-start.sh
+│   │   └── zebra-agent-stop.sh
+│   └── zebra-agent
+│       ├── agent.py
+│       ├── api_client.py
+│       ├── config.json
+│       ├── hardware.py
+│       ├── interests.py
+│       └── scheduler.py
+├── zebra_full_system
+│   ├── README.md
+│   ├── scripts
+│   │   └── start_all.sh
+│   ├── zebra-agent
+│   │   ├── agent.py
+│   │   └── config.json
+│   ├── zebra-core
+│   │   ├── scripts
+│   │   │   └── run_pipeline.sh
+│   │   └── src
+│   │       └── generate_scripts.py
+│   ├── zebratube-api
+│   │   ├── app
+│   │   │   └── main.py
+│   │   └── scripts
+│   │       └── run_api.sh
+│   └── zebratube-web
+│       └── src
+│           ├── api
+│           │   └── client.ts
+│           └── pages
+│               └── HomePage.tsx
+├── zebra_studio_complete
+│   ├── Makefile
+│   ├── README.md
+│   ├── ops
+│   │   └── dev_notes.txt
+│   ├── scripts
+│   │   ├── run_demo.sh
+│   │   └── start_all.sh
+│   ├── zebra-agent
+│   │   ├── README.md
+│   │   ├── config.json
+│   │   ├── pyproject.toml
+│   │   └── src
+│   │       ├── __init__.py
+│   │       ├── agent.py
+│   │       ├── api_client.py
+│   │       ├── hardware.py
+│   │       ├── interests.py
+│   │       └── scheduler.py
+│   ├── zebra-core
+│   │   ├── README.md
+│   │   ├── examples
+│   │   │   └── sample.txt
+│   │   ├── prompts
+│   │   │   └── canonical_extract.txt
+│   │   ├── pyproject.toml
+│   │   ├── scripts
+│   │   │   └── run_pipeline.sh
+│   │   └── src
+│   │       ├── __init__.py
+│   │       ├── build_canonical_graph.py
+│   │       ├── build_projections.py
+│   │       ├── call_ollama.py
+│   │       ├── chunk_text.py
+│   │       ├── crawl_repo.py
+│   │       ├── diff_graphs.py
+│   │       ├── generate_scripts.py
+│   │       ├── person_graph.py
+│   │       └── search_graphs.py
+│   ├── zebratube-api
+│   │   ├── README.md
+│   │   ├── app
+│   │   │   ├── __init__.py
+│   │   │   ├── db.py
+│   │   │   ├── deps.py
+│   │   │   ├── main.py
+│   │   │   ├── models
+│   │   │   │   ├── __init__.py
+│   │   │   │   └── schema.py
+│   │   │   ├── routers
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── assemblies.py
+│   │   │   │   ├── claims.py
+│   │   │   │   ├── projects.py
+│   │   │   │   ├── reviews.py
+│   │   │   │   ├── search.py
+│   │   │   │   ├── submissions.py
+│   │   │   │   ├── tasks.py
+│   │   │   │   └── users.py
+│   │   │   ├── schemas
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── assemblies.py
+│   │   │   │   ├── projects.py
+│   │   │   │   ├── reviews.py
+│   │   │   │   ├── submissions.py
+│   │   │   │   └── tasks.py
+│   │   │   ├── services
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── bounty.py
+│   │   │   │   └── import_tasks.py
+│   │   │   └── workers
+│   │   │       ├── render_assembly.py
+│   │   │       └── transcode_worker.py
+│   │   ├── pyproject.toml
+│   │   └── scripts
+│   │       ├── import_project.py
+│   │       ├── run_api.sh
+│   │       └── seed_demo.py
+│   └── zebratube-web
+│       ├── index.html
+│       ├── package.json
+│       ├── public
+│       │   └── robots.txt
+│       ├── src
+│       │   ├── App.tsx
+│       │   ├── api
+│       │   │   └── client.ts
+│       │   ├── components
+│       │   │   ├── AssemblyTimeline.tsx
+│       │   │   ├── GraphView.tsx
+│       │   │   ├── ProjectMap.tsx
+│       │   │   ├── SubmissionCompare.tsx
+│       │   │   ├── TabBar.tsx
+│       │   │   └── TaskCard.tsx
+│       │   ├── main.tsx
+│       │   ├── pages
+│       │   │   ├── AssemblyPage.tsx
+│       │   │   ├── HomePage.tsx
+│       │   │   ├── ProfilePage.tsx
+│       │   │   ├── ProjectPage.tsx
+│       │   │   └── TaskPage.tsx
+│       │   └── styles
+│       │       └── base.css
+│       └── vite.config.ts
+├── zebragraph
+│   ├── ABOUT.md
+│   ├── README.md
+│   ├── bin
+│   │   ├── render_all.sh
+│   │   ├── run_all.sh
+│   │   ├── run_canonical.sh
+│   │   └── run_projection.sh
+│   ├── projections
+│   │   ├── build_ambiguity_diffusion.py
+│   │   ├── build_character_state.py
+│   │   ├── build_concept_map.py
+│   │   ├── build_diagrammatic_structure.py
+│   │   ├── build_narrative_film.py
+│   │   ├── build_procedural_transform.py
+│   │   ├── build_rhetorical_voice.py
+│   │   ├── build_sonic_mapping.py
+│   │   ├── build_structural_summary.py
+│   │   └── build_timeline_causality.py
+│   ├── prompts
+│   │   └── canonical_extract.txt
+│   ├── render
+│   │   ├── render_ambiguity_diffusion.py
+│   │   ├── render_character_state.py
+│   │   ├── render_concept_diffusion.py
+│   │   ├── render_constraint_dynamics.py
+│   │   ├── render_diagrammatic_structure.py
+│   │   ├── render_narrative_film.py
+│   │   ├── render_sonic_mapping.py
+│   │   ├── render_structural_summary.py
+│   │   └── render_timeline_causality.py
+│   ├── src
+│   │   ├── build_canonical_graph.py
+│   │   ├── call_ollama.py
+│   │   ├── chunk_text.py
+│   │   ├── constraint_simulator.py
+│   │   └── validate_json.py
+│   ├── zebra
+│   └── {bin,src,projections,render,prompts,data
+│       └── {input,chunks,analyses,canonical,projections,videos,frames}}
+├── zebragraph-1
+│   ├── ABOUT.md
+│   ├── README.md
+│   ├── bin
+│   │   ├── render_all.sh
+│   │   ├── run_all.sh
+│   │   ├── run_canonical.sh
+│   │   └── run_projection.sh
+│   ├── projections
+│   │   ├── build_ambiguity_diffusion.py
+│   │   ├── build_character_state.py
+│   │   ├── build_concept_map.py
+│   │   ├── build_diagrammatic_structure.py
+│   │   ├── build_narrative_film.py
+│   │   ├── build_procedural_transform.py
+│   │   ├── build_rhetorical_voice.py
+│   │   ├── build_sonic_mapping.py
+│   │   ├── build_structural_summary.py
+│   │   └── build_timeline_causality.py
+│   ├── prompts
+│   │   ├── canonical_extract.txt
+│   │   ├── wiki_article_artistic.txt
+│   │   ├── wiki_article_construction.txt
+│   │   ├── wiki_article_mathematical.txt
+│   │   └── wiki_article_science.txt
+│   ├── render
+│   │   ├── render_ambiguity_diffusion.py
+│   │   ├── render_character_state.py
+│   │   ├── render_concept_diffusion.py
+│   │   ├── render_constraint_dynamics.py
+│   │   ├── render_diagrammatic_structure.py
+│   │   ├── render_narrative_film.py
+│   │   ├── render_sonic_mapping.py
+│   │   ├── render_structural_summary.py
+│   │   └── render_timeline_causality.py
+│   ├── src
+│   │   ├── build_canonical_graph.py
+│   │   ├── build_corpus_graph.py
+│   │   ├── build_person_graph.py
+│   │   ├── call_ollama.py
+│   │   ├── chunk_text.py
+│   │   ├── constraint_simulator.py
+│   │   ├── crawl_repo.py
+│   │   ├── diff_graphs.py
+│   │   ├── search_corpus.py
+│   │   └── validate_json.py
+│   ├── wiki
+│   │   ├── assemble_site.py
+│   │   ├── generate_articles.py
+│   │   └── serve.py
+│   └── zebra
+├── zebragraph_clean
+│   ├── ABOUT.md
+│   ├── README.md
+│   ├── bin
+│   │   ├── render_all.sh
+│   │   ├── run_all.sh
+│   │   ├── run_canonical.sh
+│   │   └── run_projection.sh
+│   ├── data
+│   │   └── input
+│   ├── projections
+│   │   ├── build_ambiguity_diffusion.py
+│   │   ├── build_character_state.py
+│   │   ├── build_concept_map.py
+│   │   ├── build_diagrammatic_structure.py
+│   │   ├── build_narrative_film.py
+│   │   ├── build_procedural_transform.py
+│   │   ├── build_rhetorical_voice.py
+│   │   ├── build_sonic_mapping.py
+│   │   ├── build_structural_summary.py
+│   │   └── build_timeline_causality.py
+│   ├── prompts
+│   │   └── canonical_extract.txt
+│   ├── render
+│   │   ├── render_ambiguity_diffusion.py
+│   │   ├── render_character_state.py
+│   │   ├── render_concept_diffusion.py
+│   │   ├── render_constraint_dynamics.py
+│   │   ├── render_diagrammatic_structure.py
+│   │   ├── render_narrative_film.py
+│   │   ├── render_sonic_mapping.py
+│   │   ├── render_structural_summary.py
+│   │   └── render_timeline_causality.py
+│   ├── src
+│   │   ├── build_canonical_graph.py
+│   │   ├── call_ollama.py
+│   │   ├── chunk_text.py
+│   │   ├── constraint_simulator.py
+│   │   └── validate_json.py
+│   └── zebra
+├── zebratube
+│   ├── README.md
+│   ├── docker-compose.yml
+│   ├── zebra-core
+│   │   ├── ABOUT.md
+│   │   ├── README.md
+│   │   ├── bin
+│   │   │   ├── render_all.sh
+│   │   │   ├── run_all.sh
+│   │   │   ├── run_canonical.sh
+│   │   │   └── run_projection.sh
+│   │   ├── projections
+│   │   │   ├── build_ambiguity_diffusion.py
+│   │   │   ├── build_character_state.py
+│   │   │   ├── build_concept_map.py
+│   │   │   ├── build_diagrammatic_structure.py
+│   │   │   ├── build_narrative_film.py
+│   │   │   ├── build_procedural_transform.py
+│   │   │   ├── build_rhetorical_voice.py
+│   │   │   ├── build_sonic_mapping.py
+│   │   │   ├── build_structural_summary.py
+│   │   │   └── build_timeline_causality.py
+│   │   ├── prompts
+│   │   │   ├── canonical_extract.txt
+│   │   │   ├── wiki_article_artistic.txt
+│   │   │   ├── wiki_article_construction.txt
+│   │   │   ├── wiki_article_mathematical.txt
+│   │   │   └── wiki_article_science.txt
+│   │   ├── pyproject.toml
+│   │   ├── render
+│   │   │   ├── render_ambiguity_diffusion.py
+│   │   │   ├── render_character_state.py
+│   │   │   ├── render_concept_diffusion.py
+│   │   │   ├── render_constraint_dynamics.py
+│   │   │   ├── render_diagrammatic_structure.py
+│   │   │   ├── render_narrative_film.py
+│   │   │   ├── render_sonic_mapping.py
+│   │   │   ├── render_structural_summary.py
+│   │   │   └── render_timeline_causality.py
+│   │   ├── src
+│   │   │   ├── agent
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── agent.py
+│   │   │   │   ├── config.py
+│   │   │   │   ├── corpus_inspector.py
+│   │   │   │   ├── hardware.py
+│   │   │   │   └── scorer.py
+│   │   │   ├── build_canonical_graph.py
+│   │   │   ├── build_corpus_graph.py
+│   │   │   ├── build_person_graph.py
+│   │   │   ├── call_ollama.py
+│   │   │   ├── chunk_text.py
+│   │   │   ├── constraint_simulator.py
+│   │   │   ├── crawl_repo.py
+│   │   │   ├── diff_graphs.py
+│   │   │   ├── generate_scripts.py
+│   │   │   ├── recycle.py
+│   │   │   ├── search_corpus.py
+│   │   │   └── validate_json.py
+│   │   ├── wiki
+│   │   │   ├── assemble_site.py
+│   │   │   ├── generate_articles.py
+│   │   │   └── serve.py
+│   │   └── zebra
+│   │       ├── __init__.py
+│   │       ├── core
+│   │       │   └── __init__.py
+│   │       ├── projections
+│   │       │   └── __init__.py
+│   │       ├── scripts
+│   │       │   └── __init__.py
+│   │       ├── search
+│   │       │   └── __init__.py
+│   │       ├── wiki
+│   │       │   └── __init__.py
+│   │       └── zebra
+│   ├── zebratube-api
+│   │   ├── Dockerfile
+│   │   ├── alembic.ini
+│   │   ├── app
+│   │   │   ├── __init__.py
+│   │   │   ├── db.py
+│   │   │   ├── main.py
+│   │   │   ├── models
+│   │   │   │   ├── __init__.py
+│   │   │   │   └── schema.py
+│   │   │   ├── routers
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── agent.py
+│   │   │   │   ├── assemblies.py
+│   │   │   │   ├── claims.py
+│   │   │   │   ├── projects.py
+│   │   │   │   ├── reviews.py
+│   │   │   │   ├── search.py
+│   │   │   │   ├── submissions.py
+│   │   │   │   ├── tasks.py
+│   │   │   │   └── users.py
+│   │   │   ├── services
+│   │   │   │   ├── __init__.py
+│   │   │   │   └── bounty.py
+│   │   │   └── workers
+│   │   │       ├── __init__.py
+│   │   │       ├── ingest.py
+│   │   │       ├── ingest_project.py
+│   │   │       └── transcode_worker.py
+│   │   ├── migrations
+│   │   │   ├── __init__.py
+│   │   │   ├── env.py
+│   │   │   ├── script.py.mako
+│   │   │   └── versions
+│   │   │       ├── 0001_initial.py
+│   │   │       └── __init__.py
+│   │   ├── pyproject.toml
+│   │   └── tests
+│   │       └── __init__.py
+│   └── zebratube-web
+│       ├── Dockerfile
+│       ├── index.html
+│       ├── nginx.conf
+│       ├── package.json
+│       ├── src
+│       │   ├── App.tsx
+│       │   ├── api
+│       │   ├── components
+│       │   │   ├── assembly
+│       │   │   ├── graph
+│       │   │   │   └── GraphPanel.tsx
+│       │   │   ├── selector
+│       │   │   ├── task
+│       │   │   └── ui
+│       │   ├── hooks
+│       │   ├── index.css
+│       │   ├── lib
+│       │   │   └── api.ts
+│       │   ├── main.tsx
+│       │   ├── pages
+│       │   │   ├── AssemblyPage.tsx
+│       │   │   ├── HomePage.tsx
+│       │   │   ├── LoginPage.tsx
+│       │   │   ├── ProfilePage.tsx
+│       │   │   ├── ProjectPage.tsx
+│       │   │   ├── SearchPage.tsx
+│       │   │   ├── SelectorPage.tsx
+│       │   │   └── TaskPage.tsx
+│       │   ├── stores
+│       │   │   └── index.ts
+│       │   └── styles
+│       │       └── base.css
+│       └── vite.config.ts
+├── zebratube_full_scaffold
+│   ├── README.md
+│   ├── zebra-agent
+│   │   ├── README.md
+│   │   ├── pyproject.toml
+│   │   └── src
+│   │       ├── __init__.py
+│   │       ├── agent.py
+│   │       ├── hardware_scan.py
+│   │       ├── interest_scan.py
+│   │       └── task_ranker.py
+│   ├── zebra-core
+│   │   ├── README.md
+│   │   ├── prompts
+│   │   │   └── canonical_extract.txt
+│   │   ├── pyproject.toml
+│   │   ├── scripts
+│   │   │   └── run_pipeline.sh
+│   │   └── src
+│   │       ├── __init__.py
+│   │       ├── build_canonical_graph.py
+│   │       ├── build_projections.py
+│   │       ├── call_ollama.py
+│   │       ├── chunk_text.py
+│   │       ├── crawl_repo.py
+│   │       ├── diff_graphs.py
+│   │       ├── generate_scripts.py
+│   │       ├── person_graph.py
+│   │       └── search_graphs.py
+│   ├── zebratube-api
+│   │   ├── README.md
+│   │   ├── alembic
+│   │   │   └── versions
+│   │   │       └── 0001_init.py
+│   │   ├── app
+│   │   │   ├── __init__.py
+│   │   │   ├── db.py
+│   │   │   ├── deps.py
+│   │   │   ├── main.py
+│   │   │   ├── models
+│   │   │   │   ├── __init__.py
+│   │   │   │   └── schema.py
+│   │   │   ├── routers
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── assemblies.py
+│   │   │   │   ├── claims.py
+│   │   │   │   ├── projects.py
+│   │   │   │   ├── reviews.py
+│   │   │   │   ├── search.py
+│   │   │   │   ├── submissions.py
+│   │   │   │   ├── tasks.py
+│   │   │   │   └── users.py
+│   │   │   ├── schemas
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── assemblies.py
+│   │   │   │   ├── projects.py
+│   │   │   │   ├── reviews.py
+│   │   │   │   ├── submissions.py
+│   │   │   │   └── tasks.py
+│   │   │   ├── services
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── bounty.py
+│   │   │   │   └── import_tasks.py
+│   │   │   └── workers
+│   │   │       ├── render_assembly.py
+│   │   │       └── transcode_worker.py
+│   │   └── pyproject.toml
+│   └── zebratube-web
+│       ├── index.html
+│       ├── package.json
+│       ├── public
+│       │   └── robots.txt
+│       ├── src
+│       │   ├── App.tsx
+│       │   ├── api
+│       │   │   └── client.ts
+│       │   ├── components
+│       │   │   ├── AssemblyTimeline.tsx
+│       │   │   ├── GraphView.tsx
+│       │   │   ├── ProjectMap.tsx
+│       │   │   ├── SubmissionCompare.tsx
+│       │   │   ├── TabBar.tsx
+│       │   │   └── TaskCard.tsx
+│       │   ├── main.tsx
+│       │   ├── pages
+│       │   │   ├── AssemblyPage.tsx
+│       │   │   ├── HomePage.tsx
+│       │   │   ├── ProfilePage.tsx
+│       │   │   ├── ProjectPage.tsx
+│       │   │   └── TaskPage.tsx
+│       │   └── styles
+│       │       └── base.css
+│       └── vite.config.ts
+├── zebratube_scaffold
+│   ├── zebra-core
+│   │   └── src
+│   │       └── generate_scripts.py
+│   ├── zebratube-api
+│   │   ├── app
+│   │   │   ├── main.py
+│   │   │   ├── models
+│   │   │   │   └── schema.py
+│   │   │   └── services
+│   │   │       └── bounty.py
+│   │   └── workers
+│   │       └── ingest_project.py
+│   └── zebratube-web
+│       └── src
+│           ├── App.tsx
+│           ├── api
+│           │   └── client.ts
+│           ├── pages
+│           │   └── HomePage.tsx
+│           └── styles
+│               └── base.css
+└── zebratube_try_build
+    ├── README.md
+    ├── README_RUN.md
+    ├── zebra-agent
+    │   ├── README.md
+    │   ├── pyproject.toml
+    │   └── src
+    │       ├── __init__.py
+    │       ├── agent.py
+    │       ├── hardware_scan.py
+    │       ├── interest_scan.py
+    │       └── task_ranker.py
+    ├── zebra-core
+    │   ├── README.md
+    │   ├── prompts
+    │   │   └── canonical_extract.txt
+    │   ├── pyproject.toml
+    │   ├── scripts
+    │   │   └── run_pipeline.sh
+    │   └── src
+    │       ├── __init__.py
+    │       ├── build_canonical_graph.py
+    │       ├── build_projections.py
+    │       ├── call_ollama.py
+    │       ├── chunk_text.py
+    │       ├── crawl_repo.py
+    │       ├── diff_graphs.py
+    │       ├── generate_scripts.py
+    │       ├── person_graph.py
+    │       └── search_graphs.py
+    ├── zebratube-api
+    │   ├── README.md
+    │   ├── alembic
+    │   │   └── versions
+    │   │       └── 0001_init.py
+    │   ├── app
+    │   │   ├── __init__.py
+    │   │   ├── db.py
+    │   │   ├── deps.py
+    │   │   ├── main.py
+    │   │   ├── models
+    │   │   │   ├── __init__.py
+    │   │   │   └── schema.py
+    │   │   ├── routers
+    │   │   │   ├── __init__.py
+    │   │   │   ├── assemblies.py
+    │   │   │   ├── claims.py
+    │   │   │   ├── projects.py
+    │   │   │   ├── reviews.py
+    │   │   │   ├── search.py
+    │   │   │   ├── submissions.py
+    │   │   │   ├── tasks.py
+    │   │   │   └── users.py
+    │   │   ├── schemas
+    │   │   │   ├── __init__.py
+    │   │   │   ├── assemblies.py
+    │   │   │   ├── projects.py
+    │   │   │   ├── reviews.py
+    │   │   │   ├── submissions.py
+    │   │   │   └── tasks.py
+    │   │   ├── services
+    │   │   │   ├── __init__.py
+    │   │   │   ├── bounty.py
+    │   │   │   └── import_tasks.py
+    │   │   └── workers
+    │   │       ├── render_assembly.py
+    │   │       └── transcode_worker.py
+    │   ├── pyproject.toml
+    │   └── scripts
+    │       ├── import_project.py
+    │       └── seed_demo.py
+    └── zebratube-web
+        ├── index.html
+        ├── package.json
+        ├── public
+        │   └── robots.txt
+        ├── src
+        │   ├── App.tsx
+        │   ├── api
+        │   │   └── client.ts
+        │   ├── components
+        │   │   ├── AssemblyTimeline.tsx
+        │   │   ├── GraphView.tsx
+        │   │   ├── ProjectMap.tsx
+        │   │   ├── SubmissionCompare.tsx
+        │   │   ├── TabBar.tsx
+        │   │   └── TaskCard.tsx
+        │   ├── main.tsx
+        │   ├── pages
+        │   │   ├── AssemblyPage.tsx
+        │   │   ├── HomePage.tsx
+        │   │   ├── ProfilePage.tsx
+        │   │   ├── ProjectPage.tsx
+        │   │   └── TaskPage.tsx
+        │   └── styles
+        │       └── base.css
+        └── vite.config.ts
+
+179 directories, 561 files

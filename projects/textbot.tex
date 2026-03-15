@@ -1,0 +1,933 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+
+\usepackage{microtype}
+\setlength{\emergencystretch}{2em}
+\usepackage{geometry}
+\geometry{a4paper, top=3cm, bottom=3cm, left=3.2cm, right=3.2cm}
+
+\usepackage{setspace}
+\setstretch{1.25}
+
+\usepackage{parskip}
+\setlength{\parskip}{0.6em}
+\setlength{\parindent}{1.5em}
+
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.8em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.6em}{}
+\titlespacing{\section}{0pt}{2em}{0.8em}
+\titlespacing{\subsection}{0pt}{1.4em}{0.5em}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black,
+  citecolor=black,
+  pdfauthor={Flyxion},
+  pdftitle={Constraint Before Image: A Text Physics Engine for Semantic Analysis and Multi-Modal Projection}
+}
+
+\usepackage{csquotes}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\title{\textbf{Constraint Before Image}\\[0.5em]
+\large A Text Physics Engine for Semantic Analysis\\and Multi-Modal Projection}
+\author{Flyxion}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+\noindent
+This essay documents the design, theoretical motivation, and implementation of \textit{textbot}, a pipeline for transforming written texts into structured semantic graphs and projecting those graphs into multiple distinct representational modalities. The project rests on a theory of reading as progressive constraint satisfaction rather than passive image reception. A text does not encode a film to be screened internally; it encodes a partially specified relational structure whose parameters are resolved incrementally as new information narrows the interpretive field. Formalising this observation, the system produces a single canonical semantic graph from any input text and derives from it ten orthogonal projections — narrative, diagrammatic, diffusive, rhetorical, conceptual, procedural, causal, characterological, sonic, and logical — each of which is then rendered as a visual or audiovisual artefact. The essay argues that this architecture is not merely a convenient engineering choice but an expression of a deeper claim about cognition, language, and the ontology of texts.
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction: The Phenomenology of Reading}
+
+Human beings habitually describe their inner life in sensory metaphors. They say they \enquote{see} an argument, \enquote{hear} the voice of a narrator, \enquote{picture} a scene. These metaphors are not arbitrary; they reflect the fact that cognition is often accompanied by imagery or inner speech. But the phenomenological diversity of actual cognitive experience is far wider than these idioms suggest. A substantial proportion of individuals report little or no stable visual imagery during reading or reasoning, and many report no persistent inner voice either. Such individuals do not thereby fail to comprehend; they comprehend differently, and frequently no less well. The ubiquity of the sensory metaphors thus conceals rather than reveals the structure of the underlying process.
+
+When the surface accompaniments of cognition are set aside, what remains is something better described as the manipulation of relations under constraint. To understand a sentence is not to generate a film frame but to situate a set of entities and events within a network of dependencies that must remain coherent. Certain combinations of relations are permissible; others are not. Comprehension proceeds by constructing a configuration in which all active constraints are satisfied, and it fails — or temporarily stalls — when new information renders the current configuration inconsistent and forces revision. This is not a fringe account of reading. It is consistent with the central findings of psycholinguistics, from the classic work on garden-path sentences, which demonstrate incremental parse-and-revise cycles, to more recent work on referential ambiguity and anaphora resolution.
+
+The present project takes this picture seriously and asks what follows if we treat it not merely as a psychological hypothesis but as an engineering specification. If a text is a constraint system, then reading is constraint propagation. If meaning is a stable configuration under those constraints, then the completion of a text — its denouement — is a fixed point of that propagation process. And if this is so, then there is no single privileged projection of a text into sensory space. Film is one projection. Diagram is another. Sound is a third. The system described here attempts to make all of those projections explicit, derivable, and comparable.
+
+\section{Texts as Partially Specified Structures}
+
+The analogy that best captures the present theory of textual meaning is not the film but the mathematical formula. A variable such as $x$ in an algebraic expression does not refer to any particular object. It refers to a placeholder whose admissible values are progressively constrained by the equations in which it appears. At the outset of a derivation, the variable may range freely across a large domain; as constraints accumulate, the domain narrows; at the end, under ideal circumstances, a unique value is determined.
+
+Written narrative operates by the same logic. When a text introduces, in the classic formulation, \enquote{a traveller entering a room}, almost nothing about that traveller is specified. Age, appearance, name, purpose, emotional state, social position — all remain undetermined. The entity functions as a variable. As the narrative proceeds, further propositions introduce constraints that progressively narrow the set of admissible instantiations. A late sentence — \enquote{the elderly traveller sat down slowly} — collapses one dimension of the ambiguity field. Another sentence may collapse another. The denouement is the moment at which the system has accumulated enough constraints to yield a stable and coherent configuration, or — in the case of deliberately irresolutive narratives — to make the irreducibility of the remaining ambiguity itself manifest as a structural feature.
+
+This account differs sharply from the view according to which a reader constructs a mental model isomorphic to a scene. The mental-model view, associated with the tradition of Johnson-Laird and extended in various directions since, is not false but is incomplete. Mental models, where they occur, are downstream products of constraint resolution rather than its vehicle. The constraint resolution process must precede and ground any particular sensory instantiation, because the same text produces different sensory instantiations in different readers — different faces for the traveller, different colour palettes for the room — while yielding the same semantic content. What is invariant across readers is not the imagery but the relational structure: the configuration of entities, events, claims, ambiguities, and transformations that the text constrains into coherence.
+
+The comparison with film is instructive precisely because film eliminates this invariance. A film cannot leave the traveller's face unspecified. The moment a character appears on screen, an enormous quantity of parameters are fixed by the camera's unblinking commitment to the particular. The freedom that written language preserves — what might be called its productive indeterminacy — collapses into a single, fully specified instantiation. This is not a deficiency of film; it is a different mode of signification. But it means that film is not the archetype to which all narrative representation aspires. It is one projection of a structure that is, in its textual form, richer precisely because it is less determined.
+
+\section{Constraint Satisfaction as a Cognitive Architecture}
+
+The framework of constraint satisfaction has a long history in cognitive science and artificial intelligence. In its most general form, a constraint satisfaction problem consists of a set of variables, a domain of admissible values for each variable, and a set of constraints specifying which combinations of values across variables are permissible. A solution is an assignment of values to all variables such that no constraint is violated. Reading, on the view developed here, is a continuous, incremental, underdetermined variant of this process — continuous because new constraints arrive with each incoming word or phrase; incremental because the reader does not wait for the full text before beginning to interpret; underdetermined because, for any finite text, the constraints will typically underdetermine the space of coherent interpretations.
+
+The psycholinguistic evidence for an incremental, constraint-sensitive parsing process is substantial. Garden-path phenomena, in which readers temporarily adopt a syntactic parse that later proves incorrect, demonstrate that the comprehension system commits to locally plausible configurations before all relevant information has arrived. When the later information reveals the current parse to be inconsistent with the emerging constraint set, the system revises. The subjective experience of reading a garden-path sentence — the momentary sense of confusion, the mental lurch of revision — is the phenomenal correlate of a constraint-satisfaction failure followed by a search for an alternative consistent configuration. Narrative comprehension is the large-scale analogue of this sentence-level process.
+
+The analogy with diffusion models in machine learning, while not perfect, is illuminating. A diffusion system begins with a high-entropy initial state — a distribution over many possible configurations — and iteratively applies learned transformations that progressively concentrate the distribution around coherent, low-entropy outputs. Early iterations of the process are consistent with a wide range of final images; later iterations narrow toward a specific configuration. The process is not a retrieval of a pre-existing image but a progressive resolution of ambiguity under accumulated constraint. Reading proceeds similarly in semantic space: the initial state of a text's interpretive field is diffuse; successive sentences apply constraints that concentrate the field; the final state, if the text is well-formed, is a configuration stable enough to support coherent recall and inference.
+
+This analogy also illuminates the pleasures and frustrations of narrative. A text that resolves its ambiguities too quickly offers no diffusion dynamics — no sustained field of possibility — and feels thin. A text that never resolves them, or that introduces new ambiguities faster than it resolves existing ones, offers no stable configuration to anchor experience, and can feel arbitrary or exhausting. The best constructed narratives manage the diffusion dynamics deliberately, sustaining the field of interpretive possibility for as long as the work's meaning requires, then collapsing it at the moment of greatest structural necessity.
+
+\section{The Canonical Semantic Graph}
+
+The central data structure of the \textit{textbot} system is the canonical semantic graph. This graph is the formal encoding of the constraint structure of a text. It is not a summary, a paraphrase, or a simplified version of the text; it is an attempt to represent the relational skeleton that the text constructs and progressively instantiates.
+
+The graph consists of typed nodes and typed edges. Node types include entities — named or implied agents, objects, institutions, and systems — events that represent state changes with participants and temporal markers, claims that encode explicit propositional content with associated stances, ambiguities that represent underdetermined parameters together with their possibility fields, transformations that describe operations mapping one state of affairs to another, and themes that collect related nodes into conceptual clusters. Edge types are correspondingly typed: an entity may participate in an event, an event may cause another event, an event may resolve an ambiguity, a claim may support or oppose another claim, a transformation may be triggered by an event.
+
+The importance of preserving ambiguity nodes as first-class citizens of the graph cannot be overstated. A naive approach to semantic representation would eliminate ambiguity by selecting the most plausible instantiation of each underdetermined parameter and recording only that instantiation. This would produce a graph that encodes one particular reading rather than the structure of the text. The approach taken here instead records ambiguity explicitly, representing it as a node with a possibility field — the set of admissible instantiations — together with a status indicator distinguishing open ambiguities from those the text subsequently resolves, and a list of the constraints responsible for the resolution. The graph thereby preserves the text's productive indeterminacy rather than prematurely collapsing it.
+
+Each node and edge carries a field called \texttt{explicit\_textual\_basis}, which records the phrase or sentence fragment from the source text that grounds the node or edge in question. This field serves two functions. First, it prevents the extraction process from hallucinating structure that is not actually present in the text — a significant practical risk when the extraction is performed by a large language model operating under instructions to identify relations and entities. Second, it maintains a transparent link between the abstract graph structure and the textual surface, enabling downstream components to retrieve the original evidence for any structural claim the graph makes.
+
+\section{Pipeline Architecture}
+
+The pipeline that produces canonical graphs from texts and projections from graphs is designed around a strict separation between two kinds of operation. The first kind involves genuine uncertainty and requires model inference: extracting the semantic structure of a text from its surface form. The second kind is deterministic and should not require model inference at all: transforming an already-extracted semantic graph into the data structures required by a specific output modality. This separation is architecturally important because it concentrates the system's epistemic risk in a single, auditable stage.
+
+In practice, the pipeline operates as follows. An input text file is first segmented into chunks that respect paragraph boundaries. Paragraph boundaries matter because the semantic units of a text are not fixed-length token windows; they are the natural units of discourse structure, and splitting across them introduces artificial discontinuities that can mislead the extraction process. Each chunk is then submitted to a large language model — concretely, a Granite~4 model served locally via Ollama — with a structured prompt requesting a canonical semantic graph conforming to the schema described in the preceding section. The model is instructed to operate at temperature zero, which suppresses sampling variance and produces maximally deterministic outputs for a given input. The resulting per-chunk graphs are then merged by a deterministic Python procedure that deduplicates nodes and edges across chunks, preserving the full content of each while eliminating redundant representations of entities and events that appear in multiple chunks.
+
+The merged canonical graph is then passed to a set of projection builders, each of which is a deterministic Python script that extracts or derives from the graph the data structures required by one output modality. The projection for narrative film derives from the event nodes sorted by temporal order, supplementing each scene record with the ambiguity nodes that apply to its participants. The projection for diagrammatic structure extracts all node and edge types directly. The projection for ambiguity diffusion extracts ambiguity nodes together with their possibility fields and resolution statuses. The sonic mapping projection computes tension and tempo parameters from the ratio of ambiguity density to event density, which serves as a proxy for the information-theoretic complexity of the interpretive field at each point in the narrative. None of these operations require model inference; they are straightforward transformations of a structured data object.
+
+Finally, a set of renderers converts each projection into an output artefact: a sequence of storyboard frames assembled into a video by \texttt{ffmpeg}, a network diagram rendered by \texttt{matplotlib} and \texttt{networkx}, an animated ambiguity diffusion video showing possibility fields contracting over time, a waveform visualisation of semantic tension across the narrative arc, and so on. A further renderer implements a constraint propagation simulator that reads the canonical graph directly and animates the spread of activation through the node network as successive events in the timeline trigger relation-mediated updates to adjacent nodes. This simulation is the most direct visualisation of the reading-as-constraint-propagation model: one can watch the graph come alive as the text's events unfold.
+
+\section{The Ten Projections}
+
+The choice of ten projection categories is not arbitrary, though neither is it exhaustive. The categories are intended to cover the primary dimensions along which a text's structure can be externally represented: narrative, relational, epistemic, rhetorical, conceptual, procedural, temporal, characterological, sensory-affective, and logical. Together they constitute something like a basis for a representational vector space, though the analogy should not be pressed too hard.
+
+The narrative film projection is the most conventional and the least theoretically interesting. It converts event nodes into cinematic scenes, assigns participants as characters, and marks all underdetermined parameters in a field called \texttt{uncertain\_details}. The explicit marking of uncertainty is what distinguishes this projection from a naïve adaptation strategy: it preserves the record of what the text has not specified, rather than silently filling the gaps with invention.
+
+The diagrammatic structure projection is in some respects the most faithful to the canonical graph itself, since it renders the graph as a graph. Its value lies in making the relational structure of the text visually legible: one can see at a glance which entities are heavily connected, which events anchor the causal spine of the narrative, which claims are mutually supporting and which are in tension.
+
+The ambiguity diffusion projection is the one most directly motivated by the theory of reading developed in this essay. It renders each ambiguity node as a frame in an animation, showing the possibility field open — multiple candidate instantiations scattered across a two-dimensional space — and then, if the ambiguity is resolved, contracting toward a single point. Watching the animation for a well-constructed text makes the deferred denouement structure viscerally apparent: early frames are saturated with branching possibilities; late frames show convergence; the final frame shows the stable configuration that the text's accumulated constraints have produced.
+
+The concept diffusion field projection extends this idea into the full semantic embedding space. Concept labels extracted from the graph are mapped to vector representations by a sentence embedding model, reduced to two dimensions by principal component analysis, and animated progressively as the narrative unfolds. The result is a visualisation of semantic topology: one can see which concepts are close to one another in the text's meaning space, how the conceptual landscape evolves as new elements are introduced, and where the principal areas of semantic density lie. Because the embedding step requires an external model and is therefore the most computationally expensive part of the rendering pipeline, a random-layout fallback is provided for contexts where the embedding model is unavailable.
+
+The rhetorical voice projection addresses the argumentative dimension of texts, particularly essays, lectures, and theoretical writings — the genres in which the present project has most often been applied. It extracts claim nodes and classifies them by stance: assertion, definition, analogy, objection, concession, speculation. The resulting visualisation is a vertical argument map that makes the logical anatomy of the text legible as a diagram, showing where the text commits, where it hedges, where it anticipates objections, and where it relies on analogy rather than direct demonstration.
+
+The sonic mapping projection translates semantic dynamics into acoustic parameters. Tension is computed from the ratio of unresolved ambiguity density to event density; tempo is mapped from a normalised tension value; texture, pitch register, and dynamics follow from tension thresholds. The resulting data is not a composition but a specification that could drive a compositional system: it describes the emotional and kinetic arc of the text in terms that a sound designer or composer could use as a starting point. The theoretical interest of this projection lies in its demonstration that the structural properties of a text — properties that are entirely abstract, having nothing to do with the text's surface sound — nonetheless support a coherent mapping into sensory-affective parameters.
+
+\section{Mathematical Structure}
+
+Let $G$ denote the canonical semantic graph of a text $T$. $G$ is a typed directed multigraph whose vertex set $V(G)$ is partitioned into the types
+\[
+\bigl\{\,\text{Entity},\ \text{Event},\ \text{Claim},\ \text{Ambiguity},\ \text{Transformation},\ \text{Theme}\,\bigr\},
+\]
+and whose edge set $E(G)$ carries a type function
+\begin{align*}
+\tau : E(G) \;\longrightarrow\; \bigl\{\,&\text{participates\_in},\ \text{causes},\ \text{resolves},\ \text{supports},\\
+&\text{opposes},\ \text{transforms},\ \text{belongs\_to}\,\bigr\}.
+\end{align*}
+
+Each ambiguity node $a \in V_{\text{Amb}}(G)$ carries a possibility field $\Pi(a)$, which is a finite set of admissible instantiations together with a partial order of plausibility. The status function $\sigma : V_{\text{Amb}}(G) \to \{\text{open}, \text{resolved}\}$ records which ambiguities the text has collapsed. A resolution event is a pair $(e, a)$ where $e \in V_{\text{Event}}(G)$, $a \in V_{\text{Amb}}(G)$, and there exists an edge $e \xrightarrow{\text{resolves}} a$ in $G$, together with a constraint $c$ that removes all but one element from $\Pi(a)$.
+
+Each projection $\mathcal{P}_i$ is then a graph morphism (in a loose sense) from $G$ to a medium-specific structure $M_i$:
+\[
+\mathcal{P}_i : G \longrightarrow M_i
+\]
+where $M_{\text{film}}$ is an ordered list of scene records, $M_{\text{diagram}}$ is a layout-annotated directed graph, $M_{\text{diffusion}}$ is a time-indexed sequence of possibility fields, $M_{\text{sonic}}$ is a time-indexed sequence of acoustic parameter vectors, and so on. The morphism is not required to be injective or surjective; information loss is expected in every projection, since each projection foregrounds different structural features while suppressing others.
+
+The constraint propagation simulation defines a dynamical system on $G$. Let $\alpha : V(G) \to [0, 1]$ be an activation function initialised to zero for all nodes. At each step $t$, an event $e_t$ is selected from the timeline of $G$. The activation of all nodes $v$ such that there exists a directed edge $e_t \to v$ in $G$ is updated according to:
+\[
+\alpha_{t+1}(v) = \min\!\left(1,\; \alpha_t(v) + \delta\right)
+\]
+for a fixed increment $\delta \in (0, 1)$. Simultaneously, if $v$ is an ambiguity node and the edge type is $\text{resolves}$, the status function is updated to $\sigma(v) = \text{resolved}$ and the possibility field is contracted to its most constrained element. The sequence $(\alpha_t)_{t \geq 0}$ constitutes the constraint dynamics of $G$ with respect to the text's timeline. In the ideal case — a text that fully resolves all its ambiguities and activates all its entity and claim nodes — this sequence converges to a configuration in which $\alpha(v) > 0$ for all $v$ and $\sigma(a) = \text{resolved}$ for all $a$. This fixed point is the formal correlate of the denouement.
+
+\section{Relation to Generative Language Models}
+
+The comparison between the constraint-resolution model of reading and the operation of large language models is instructive but must be handled carefully. Large language models operate in a space that is superficially similar to the semantic space described here: they process sequences of tokens that encode entities, events, relations, and claims, and they generate continuations that are statistically coherent with the preceding context. In this sense they perform something like constraint satisfaction in the distributional sense — each generated token must be consistent with the distributional patterns established by the preceding context.
+
+But the analogy breaks down at the level of structure. A language model does not maintain an explicit graph of entities and relations over which it propagates constraints. It maintains a dense continuous representation of contextual history that supports next-token prediction. The constraint structure of the text, insofar as it is tracked at all, is implicit in the geometry of that representation rather than explicitly encoded. This has practical consequences: language models are well known to make errors that a genuine constraint-propagation system would avoid, including coreference failures, causal inconsistencies, and violations of explicitly stated constraints that were introduced many tokens earlier in the context.
+
+The present system uses a language model — Granite~4 — for exactly the task that language models perform well: translating surface textual form into a candidate structural representation. This is a task that requires pattern recognition across a large training distribution of texts and their associated structures, which is precisely what language models are trained to do. The model is not asked to perform constraint propagation, causal inference, or logical deduction; it is asked to produce a structured JSON representation of the entities, events, relations, claims, ambiguities, transformations, and themes present in a passage of text. The downstream constraint propagation and projection operations are then handled by deterministic code that does not involve the model at all.
+
+This division of labour — model for surface-to-structure translation, deterministic code for structure-to-output transformation — is not merely an engineering convenience. It reflects a principled view about what language models are good for and what they are not. Using a model to perform the logical operations of constraint propagation would introduce unnecessary stochasticity and opacity into a process that is in principle transparent and deterministic. Using deterministic code for the surface-to-structure translation would require hand-crafted rules of enormous complexity. The architecture matches the tool to the task.
+
+\section{The Project Generator}
+
+Included with the pipeline is a standalone HTML page implementing what might be called a combinatorial research oracle. The page derives a deterministic set of project suggestions from a locally-stored seed value, using a hash function to select elements from vocabulary arrays covering verbs, objects, techniques, domains, and theoretical frameworks. The frameworks array is drawn from the theoretical vocabulary of the author's broader research programme, including RSVP field theory, Spherepop event-history architectures, TARTAN recursive tiling, category-theoretic structures, information geometry, sheaf theory, and entropy-bounded constraint systems.
+
+The page's behaviour formalises an interesting property of productive research agendas: the space of meaningful projects is combinatorially large but not arbitrary. It is generated by a small vocabulary of primitive elements — operations, objects, methods, domains — whose systematic combination produces a vast but internally coherent possibility space. The hash-based seed mechanism ensures that each user of the page receives a stable and repeatable assignment, reflecting the view that serious work requires sustained engagement with a particular configuration of problems rather than perpetual novelty. Clicking the reset button selects a new configuration, but the new configuration is no less stable than the old one.
+
+\section{Implications for the Theory of the Text}
+
+The project as a whole has implications that extend beyond its immediate practical utility as a text-analysis tool. Most directly, it constitutes an existence proof for the claim that a text's semantic content can be represented in a form that is both more abstract than any particular sensory instantiation and more structured than a flat statistical distribution over tokens. The canonical semantic graph occupies a theoretical position between these two extremes: it is concrete enough to support deterministic projection into multiple output modalities, and abstract enough to be invariant across the sensory instantiations that different readers produce.
+
+This position has a direct bearing on debates about the nature of textual meaning. The view that meaning is located in the mental images or inner speech of individual readers — a view that has some purchase in folk psychology and in certain strands of cognitive poetics — is inconsistent with the fact that different readers of the same text produce different images and different inner speech while converging on the same semantic content. The invariant must be something more abstract than either. The canonical semantic graph is a candidate for that invariant: it represents the relational structure that the text constrains into coherence, prior to any particular sensory projection.
+
+The view that meaning is located entirely in the surface form of the text — a view associated with certain formalist and structuralist positions — is also incomplete, since the surface form radically underdetermines the relational structure. The same surface can be consistent with multiple graphs, and the task of reading involves selecting among them on the basis of background knowledge, contextual priors, and accumulated constraints from the text itself. The graph is a product of reading as well as a product of the text; it is the output of a constraint-resolution process applied to the surface form, not a direct transcription of that form.
+
+The system described here does not resolve these debates, but it instantiates a position with respect to them. By building a pipeline that extracts graphs from texts and projects them into multiple modalities, it commits to the view that texts have a structural content that is neither identified with any particular sensory instantiation nor reducible to statistical surface form. This structural content is what the canonical graph encodes. The multiple projections demonstrate that the same structural content can be rendered in many different ways, none of which is more fundamental than the others. Film is not the archetype. Diagram is not the archetype. The graph itself, with its unresolved ambiguities and its incomplete possibility fields, is the closest available representation of what the text actually is.
+
+\section{Conclusion}
+
+The \textit{textbot} project is, at its core, an application of a theory. The theory is that human reading is a process of constraint satisfaction operating over a partially specified relational structure, that the denouement of a narrative is a fixed point of that process, and that the sensory accompaniments of reading — imagery, inner speech, affect — are projections of the relational structure rather than its substrate. The project implements this theory as a software pipeline: it extracts canonical semantic graphs from texts, simulates the constraint propagation dynamics of reading, and projects the resulting structures into ten distinct representational modalities.
+
+The practical output is a collection of artefacts — storyboards, network diagrams, diffusion animations, rhetorical maps, sonic specifications, logic diagrams — each of which makes visible a different dimension of the same underlying structure. The theoretical output is a demonstration that the structure exists, that it can be extracted with reasonable fidelity, and that it supports multiple coherent projections. Neither output is more important than the other. The artefacts would be trivial without the theory that motivates them; the theory would remain abstract without the implementation that tests and concretises it.
+
+The metaphors of sight and sound that dominate everyday talk about reading are not false, but they are partial. They capture the phenomenal surface of a process whose deep structure is something more like the propagation of constraint through a network of relations. Making that deep structure visible — in graphs, animations, waveforms, and logic diagrams — is the aim of the present work, and its justification.
+
+\newpage
+\section*{Appendices}
+
+\appendix
+
+\section{Canonical Semantic Graph Schema}
+
+The canonical semantic graph described in the main text is represented internally as a typed directed multigraph encoded in JSON. Each node and edge contains both structural information and textual provenance information that links the abstract representation back to the source corpus.
+
+Nodes are typed objects belonging to one of six principal classes: entities, events, claims, ambiguities, transformations, and themes. Each node carries a globally unique identifier, a label, and a record of the textual span from which it was derived.
+
+A minimal node schema can be expressed as follows:
+
+\begin{verbatim}
+{
+  "id": "evt_003",
+  "type": "event",
+  "label": "traveler enters room",
+  "participants": ["ent_001"],
+  "time_index": 3,
+  "explicit_textual_basis": "A traveler entered the room."
+}
+\end{verbatim}
+
+Ambiguity nodes contain an additional field representing the set of admissible instantiations that remain consistent with the current constraint set.
+
+\begin{verbatim}
+{
+  "id": "amb_004",
+  "type": "ambiguity",
+  "label": "traveler appearance",
+  "possibility_field": [
+      "young traveler",
+      "middle-aged traveler",
+      "elderly traveler"
+  ],
+  "status": "open"
+}
+\end{verbatim}
+
+Edges are typed relations connecting nodes. Each edge records its source node, target node, and relation type.
+
+\begin{verbatim}
+{
+  "source": "evt_003",
+  "target": "ent_001",
+  "relation": "participates_in"
+}
+\end{verbatim}
+
+This schema ensures that the semantic structure of the text remains explicitly inspectable and that every structural claim can be traced to its textual origin.
+
+\section{Constraint Propagation Algorithm}
+
+The simulation of reading described in the main text can be implemented as a simple iterative process over the canonical graph. The algorithm operates by activating nodes associated with events and propagating activation through typed edges.
+
+Let $G = (V,E)$ denote the canonical semantic graph and let $\alpha(v)$ denote the activation level of node $v$.
+
+The simulation proceeds in discrete steps indexed by narrative time.
+
+At step $t$ an event node $e_t$ is activated. Activation then propagates to adjacent nodes through the relation edges of the graph.
+
+In simplified pseudocode the procedure can be written as follows:
+
+\begin{verbatim}
+for event in timeline:
+    activate(event)
+
+    for neighbor in outgoing_edges(event):
+        alpha[neighbor] = min(1.0, alpha[neighbor] + delta)
+
+        if neighbor.type == "ambiguity" and edge == "resolves":
+            neighbor.status = "resolved"
+            neighbor.possibility_field = collapse(neighbor.possibility_field)
+\end{verbatim}
+
+The function \texttt{collapse} removes all but the instantiation consistent with the resolving constraint.
+
+The algorithm is deliberately simple. The purpose of the simulation is not to model the full complexity of human inference but to make visible the dynamics of constraint resolution that the theory of reading proposes.
+
+\section{Implementation Environment}
+
+The reference implementation of the \textit{textbot} pipeline is written in Python and organized into modular stages that correspond to the conceptual architecture described in the main text.
+
+The principal components are:
+
+\begin{verbatim}
+textbot/
+  chunk_text.py
+  call_ollama.py
+  merge_graphs.py
+  projections/
+      narrative_film.py
+      diagrammatic_structure.py
+      ambiguity_diffusion.py
+      sonic_mapping.py
+      logic_structure.py
+  render/
+      storyboard_renderer.py
+      graph_renderer.py
+      diffusion_renderer.py
+      sonic_renderer.py
+\end{verbatim}
+
+The extraction stage invokes a locally hosted Granite model through the Ollama interface. Each paragraph chunk is submitted to the model with a structured prompt requesting semantic graph output in JSON format.
+
+The projection stage is deterministic. Each module reads the canonical graph and produces a projection-specific data structure.
+
+Rendering is performed through standard scientific Python libraries. Graph diagrams are generated using NetworkX and Matplotlib. Video outputs are assembled using FFmpeg. Animated outputs are constructed by generating sequential frames and encoding them as video streams.
+
+Because the projection stage is deterministic, the same canonical graph will always produce the same projections. This property ensures that the semantic analysis of the text remains auditable and reproducible.
+
+\section{Example Projection Record}
+
+To illustrate how projections derive from the canonical graph, consider the following simplified narrative event.
+
+\begin{verbatim}
+Event: traveler enters room
+Participants: traveler
+Ambiguity: traveler appearance (open)
+\end{verbatim}
+
+The narrative projection produces a scene description:
+
+\begin{verbatim}
+Scene 1
+Location: unspecified interior
+Action: A traveler enters a room.
+Uncertain details: traveler age, traveler appearance
+\end{verbatim}
+
+The diagrammatic projection produces a graph fragment:
+
+\begin{verbatim}
+(ent_001: traveler) --> participates_in --> (evt_001: enter_room)
+(evt_001) --> triggers --> (amb_002: traveler_identity)
+\end{verbatim}
+
+The ambiguity diffusion projection produces an animation frame in which the possibility field of the ambiguity node contains multiple candidate instantiations.
+
+These projections differ in form but share the same structural origin in the canonical semantic graph.
+
+\section{Reproducibility and Determinism}
+
+The pipeline is designed so that the only stochastic component is the initial semantic extraction performed by the language model. All subsequent stages are deterministic transformations of the canonical graph.
+
+To reduce variance in the extraction stage, the language model is invoked with temperature set to zero. This configuration ensures that identical inputs produce identical outputs whenever the model itself remains unchanged.
+
+Reproducibility therefore depends on three factors: the version of the language model used for extraction, the version of the extraction prompt, and the input text itself. When these three elements remain constant, the resulting canonical graph and all derived projections remain stable.
+
+This design allows the pipeline to function not merely as a creative tool but as a research instrument capable of producing repeatable analyses of textual structure.
+
+\section{Formal Projection Operators}
+
+The projection architecture described in the main body of the essay can be given a more formal description using the language of category theory.
+
+Let $\mathcal{G}$ denote the category whose objects are canonical semantic graphs and whose morphisms are structure-preserving graph transformations. A morphism in $\mathcal{G}$ must preserve node identity, edge types, and ambiguity status fields. Informally, such a morphism corresponds to any transformation that reorganises the graph without altering the relational information encoded within it.
+
+Each representational modality described in the system corresponds to a target category $\mathcal{M}_i$ whose objects represent structures in a particular medium. For example:
+
+\[
+\mathcal{M}_{film} = \text{category of ordered scene sequences}
+\]
+
+\[
+\mathcal{M}_{diagram} = \text{category of labelled directed graphs with layout}
+\]
+
+\[
+\mathcal{M}_{sonic} = \text{category of time-indexed acoustic parameter sequences}
+\]
+
+A projection from semantic space into a medium can therefore be expressed as a functor
+
+\[
+\mathcal{P}_i : \mathcal{G} \rightarrow \mathcal{M}_i
+\]
+
+which maps graphs to representational structures and graph morphisms to transformations of those structures.
+
+For example, the narrative projection functor $\mathcal{P}_{film}$ maps a graph $G$ to an ordered sequence of scenes derived from the event nodes of $G$:
+
+\[
+\mathcal{P}_{film}(G) = (s_1, s_2, \dots, s_n)
+\]
+
+where each scene $s_k$ is derived from an event node $e_k$ together with its participating entities and associated ambiguity nodes.
+
+Similarly, the diagrammatic projection functor $\mathcal{P}_{diagram}$ acts as a near identity transformation:
+
+\[
+\mathcal{P}_{diagram}(G) = G
+\]
+
+with the addition of layout coordinates computed by a graph embedding algorithm.
+
+This formulation highlights an important property of the architecture. The canonical semantic graph functions as a universal intermediate representation. Every projection is derived from the same source object, and transformations within semantic space commute with projections into representational media.
+
+In categorical terms, the semantic graph plays a role analogous to an initial object within a diagram of representational functors. Each projection preserves a subset of the structure while discarding others, which explains why no single projection can fully capture the meaning of the text.
+
+\section{Example Graph Extracted From a Passage}
+
+To illustrate the operation of the extraction pipeline, consider the following minimal narrative fragment:
+
+\begin{quote}
+A traveler entered the room.  
+The old man looked up.  
+The traveler hesitated.
+\end{quote}
+
+The extraction stage produces a canonical semantic graph containing entity nodes, event nodes, and ambiguity nodes.
+
+A simplified representation of the resulting structure is:
+
+\begin{verbatim}
+Nodes:
+
+ent_001 : traveler
+ent_002 : old_man
+
+evt_001 : traveler_enters_room
+evt_002 : old_man_looks_up
+evt_003 : traveler_hesitates
+
+amb_001 : traveler_identity
+amb_002 : traveler_intention
+\end{verbatim}
+
+The edge set records participation and causal relations:
+
+\begin{verbatim}
+ent_001 participates_in evt_001
+ent_002 participates_in evt_002
+ent_001 participates_in evt_003
+
+evt_001 causes evt_002
+evt_002 precedes evt_003
+\end{verbatim}
+
+Ambiguity nodes remain unresolved because the passage does not specify the traveler’s identity or intentions.
+
+\begin{verbatim}
+amb_001 : traveler_identity
+possibility_field = {visitor, messenger, intruder}
+
+amb_002 : traveler_intention
+possibility_field = {deliver_message, seek_help, conceal_identity}
+\end{verbatim}
+
+From this graph the projection modules derive multiple representations.
+
+The narrative projection produces a three-scene storyboard.
+
+The diagrammatic projection renders the node–edge structure as a relational graph.
+
+The ambiguity diffusion projection produces an animation showing two ambiguity nodes with open possibility fields.
+
+The sonic mapping projection produces a short acoustic segment with elevated tension, reflecting the unresolved ambiguity at the end of the passage.
+
+This example illustrates the key principle of the system: the same canonical graph can generate multiple distinct external representations while preserving the structural invariants of the text.
+
+\section{Limitations and Open Problems}
+
+The architecture described in this essay is a first implementation of a broader theoretical framework and therefore inherits several limitations.
+
+The extraction stage depends on the performance of a large language model, and although temperature-zero decoding reduces variance, errors in entity identification or relation extraction can still occur. Future work may integrate symbolic validation procedures that detect structural inconsistencies within the extracted graph.
+
+Another limitation concerns long-range dependencies in very large texts. When a narrative spans hundreds of pages, relations between early and late events may not be fully captured by paragraph-level extraction. Hierarchical graph construction techniques may help address this problem by introducing intermediate narrative units such as chapters or thematic arcs.
+
+A further open question concerns the ontology of ambiguity fields. The present implementation represents possibility fields as discrete sets of candidate instantiations. A more expressive representation might model ambiguity as a probability distribution or a continuous conceptual region within a semantic embedding space.
+
+Finally, the projection framework itself invites theoretical expansion. The ten projections implemented here are intended as a minimal basis rather than a complete catalogue. Additional modalities—interactive simulation, architectural space, or tactile representation—could be added without altering the underlying graph representation.
+
+These limitations do not undermine the central claim of the project. They simply indicate that the architecture should be understood as an initial platform for exploring the structure of textual meaning rather than a final solution.
+
+\section{Prompt Template for Semantic Graph Extraction}
+
+The canonical semantic graph used throughout the \textit{textbot} pipeline is produced by a structured prompt submitted to a locally hosted language model. The prompt instructs the model to extract entities, events, claims, ambiguities, transformations, and themes from a passage of text and return the result as a JSON object conforming to the schema described in Appendix~A.
+
+The extraction prompt is designed to enforce three constraints. First, the model must only extract relations that have explicit textual support in the input passage. Second, ambiguities must be represented explicitly rather than resolved prematurely. Third, the output must remain syntactically valid JSON so that it can be parsed deterministically by the downstream pipeline.
+
+A simplified version of the prompt template is shown below.
+
+\begin{verbatim}
+You are a semantic extraction engine.
+
+Your task is to convert the following passage of text into a
+canonical semantic graph.
+
+Extract the following node types:
+
+- entities
+- events
+- claims
+- ambiguities
+- transformations
+- themes
+
+Each node must include:
+  id
+  type
+  label
+  explicit_textual_basis
+
+Ambiguity nodes must also include:
+  possibility_field
+  status (open or resolved)
+
+Extract the following edge types:
+
+- participates_in
+- causes
+- resolves
+- supports
+- opposes
+- transforms
+- belongs_to
+
+Edges must include:
+  source
+  target
+  relation
+
+Important rules:
+
+1. Do not invent entities or events that are not supported
+   by the text.
+
+2. When the text leaves parameters unspecified, represent
+   the uncertainty as an ambiguity node.
+
+3. The output must be valid JSON.
+
+Return only the JSON object.
+
+TEXT:
+{input_text}
+\end{verbatim}
+
+During execution the placeholder \texttt{\{input\_text\}} is replaced with a paragraph-sized chunk of the source document.
+
+The model is invoked with deterministic decoding parameters, specifically temperature set to zero. This configuration ensures that identical passages produce identical graph fragments whenever the model version remains constant.
+
+The resulting JSON objects are then merged by the deterministic graph construction stage described in the main text.
+
+\section{Example Extraction Output}
+
+To illustrate the expected format of the model output, the following example shows a minimal semantic graph fragment derived from a short narrative sentence.
+
+\begin{quote}
+``A traveler entered the room.''
+\end{quote}
+
+The extraction module produces a JSON structure similar to the following.
+
+\begin{verbatim}
+{
+  "nodes": [
+    {
+      "id": "ent_001",
+      "type": "entity",
+      "label": "traveler",
+      "explicit_textual_basis": "traveler"
+    },
+    {
+      "id": "evt_001",
+      "type": "event",
+      "label": "enter_room",
+      "participants": ["ent_001"],
+      "explicit_textual_basis": "entered the room"
+    },
+    {
+      "id": "amb_001",
+      "type": "ambiguity",
+      "label": "traveler_identity",
+      "possibility_field": [
+        "visitor",
+        "messenger",
+        "unknown traveler"
+      ],
+      "status": "open",
+      "explicit_textual_basis": "traveler"
+    }
+  ],
+  "edges": [
+    {
+      "source": "ent_001",
+      "target": "evt_001",
+      "relation": "participates_in"
+    }
+  ]
+}
+\end{verbatim}
+
+This fragment illustrates how even a very short textual passage generates a relational structure that includes entities, events, and unresolved ambiguities. Larger passages naturally produce much richer graphs with multiple interacting constraint fields.
+
+\section{Reproducibility Notes}
+
+The semantic extraction stage depends on three parameters that must remain stable for reproducible results:
+
+\begin{enumerate}
+\item the model architecture and weights,
+\item the extraction prompt template,
+\item the text segmentation procedure.
+\end{enumerate}
+
+In the reference implementation described in this paper, the model used is a Granite~4 language model served locally through the Ollama runtime. The prompt template shown above is stored as a version-controlled file within the pipeline repository. Text segmentation is performed at paragraph boundaries to preserve the natural discourse units of the source text.
+
+When these parameters remain constant, the extraction stage becomes effectively deterministic. The canonical semantic graph produced from a given text remains stable, and all projection modules therefore generate identical outputs across runs.
+
+This design ensures that the \textit{textbot} system can function not only as a creative tool but also as a reproducible instrument for computational text analysis.
+
+\section{Complexity Analysis of the Extraction and Projection Pipeline}
+
+The computational behaviour of the \textit{textbot} system can be analysed by decomposing the pipeline into its principal stages: text segmentation, semantic extraction, graph merging, projection construction, and rendering.
+
+Let $T$ denote the length of the input text measured in tokens and let $p$ denote the number of paragraph segments produced during the segmentation stage.
+
+\subsection{Text Segmentation}
+
+The segmentation stage scans the input text and partitions it at paragraph boundaries. This procedure requires a single linear pass through the text and therefore has time complexity
+
+\[
+O(T).
+\]
+
+The number of resulting segments is bounded above by the number of paragraph delimiters in the document.
+
+\subsection{Semantic Extraction}
+
+Each paragraph segment is submitted independently to the extraction model. Let $E(n)$ denote the computational cost of running the language model on a segment of length $n$ tokens. For transformer-based models the dominant cost arises from attention operations and typically scales approximately quadratically with sequence length:
+
+\[
+E(n) = O(n^2).
+\]
+
+Because paragraph segments are relatively small and bounded in length, the practical cost of this stage is dominated by the number of segments $p$. The total extraction cost can therefore be approximated as
+
+\[
+O\!\left(\sum_{i=1}^{p} E(n_i)\right).
+\]
+
+In practice this stage is the computational bottleneck of the entire pipeline.
+
+\subsection{Graph Merging}
+
+The merging stage combines the semantic graphs produced for each paragraph into a single canonical graph.
+
+Let $V$ denote the total number of nodes extracted across all segments and $E$ the total number of edges. Deduplication of nodes is implemented using hash-based lookup tables keyed by node labels and types. Under standard assumptions about hash-table performance, the merging stage has expected complexity
+
+\[
+O(V + E).
+\]
+
+This stage therefore scales linearly with the size of the extracted graph.
+
+\subsection{Projection Construction}
+
+Each projection module reads the canonical graph and constructs a medium-specific representation.
+
+Let $k$ denote the number of projection modules. For most projections the procedure consists of iterating through the node and edge sets and constructing derived structures such as scene sequences or diagram layouts. The complexity of a typical projection module is therefore
+
+\[
+O(V + E).
+\]
+
+The total cost across all projections is
+
+\[
+O(k(V + E)).
+\]
+
+Because the number of projections is fixed and relatively small, this stage also scales linearly with graph size.
+
+\subsection{Rendering}
+
+The rendering stage converts projection data structures into visual or audiovisual artefacts. The cost of this stage depends on the rendering medium.
+
+For graph diagrams generated with a force-directed layout algorithm, the typical complexity is approximately
+
+\[
+O(V^2)
+\]
+
+due to pairwise force calculations. For large graphs more efficient approximations may be used to reduce this cost.
+
+Storyboard and animation rendering proceeds frame by frame. If $f$ frames are generated and each frame requires constant-time drawing operations relative to the number of nodes rendered, the complexity is
+
+\[
+O(f).
+\]
+
+Video encoding using FFmpeg is typically linear in the number of frames and the frame resolution.
+
+\subsection{Overall Complexity}
+
+Combining the stages above, the asymptotic complexity of the pipeline can be approximated as
+
+\[
+O(T) + O\!\left(\sum_{i=1}^{p} E(n_i)\right) + O(V + E) + O(k(V + E)) + O(f).
+\]
+
+In practice the semantic extraction stage dominates runtime, while the remaining stages are comparatively inexpensive.
+
+This asymmetry reflects the architectural principle underlying the system. The transformation from surface text to semantic structure requires probabilistic inference and is therefore computationally intensive. Once the canonical graph has been constructed, however, all subsequent operations are deterministic graph transformations whose cost scales linearly with the size of the representation.
+
+
+\newpage
+\begin{thebibliography}{99}
+
+\bibitem{Allen1995}
+J.~Allen.
+\newblock \textit{Natural Language Understanding}.
+\newblock Benjamin/Cummings, Redwood City, CA, 1995.
+
+\bibitem{Awodey2010}
+S.~Awodey.
+\newblock \textit{Category Theory}.
+\newblock Oxford University Press, Oxford, 2010.
+
+\bibitem{Barabasi2016}
+A.-L.~Barab\'asi.
+\newblock \textit{Network Science}.
+\newblock Cambridge University Press, Cambridge, 2016.
+
+\bibitem{BarwisePerry1983}
+J.~Barwise and J.~Perry.
+\newblock \textit{Situations and Attitudes}.
+\newblock MIT Press, Cambridge, MA, 1983.
+
+\bibitem{Battaglia2018}
+P.~Battaglia, J.~B.~Hamrick, V.~Bapst, et al.
+\newblock Relational inductive biases, deep learning, and graph networks.
+\newblock \textit{arXiv:1806.01261}, 2018.
+
+\bibitem{Bordwell1985}
+D.~Bordwell.
+\newblock \textit{Narration in the Fiction Film}.
+\newblock University of Wisconsin Press, Madison, 1985.
+
+\bibitem{Borgatti2009}
+S.~P.~Borgatti, A.~Mehra, D.~J.~Brass, and G.~Labianca.
+\newblock Network analysis in the social sciences.
+\newblock \textit{Science}, 323(5916):892--895, 2009.
+
+\bibitem{Bronstein2021}
+M.~M.~Bronstein, J.~Bruna, T.~Cohen, and P.~Veličković.
+\newblock Geometric deep learning: Grids, groups, graphs, geodesics, and gauges.
+\newblock \textit{arXiv:2104.13478}, 2021.
+
+\bibitem{Bruner1990}
+J.~Bruner.
+\newblock \textit{Acts of Meaning}.
+\newblock Harvard University Press, Cambridge, MA, 1990.
+
+\bibitem{Dechter2003}
+R.~Dechter.
+\newblock \textit{Constraint Processing}.
+\newblock Morgan Kaufmann, San Francisco, 2003.
+
+\bibitem{Dennett1987}
+D.~C.~Dennett.
+\newblock \textit{The Intentional Stance}.
+\newblock MIT Press, Cambridge, MA, 1987.
+
+\bibitem{Dennett1991}
+D.~C.~Dennett.
+\newblock \textit{Consciousness Explained}.
+\newblock Little, Brown and Company, Boston, 1991.
+
+\bibitem{Devlin2019}
+J.~Devlin, M.-W.~Chang, K.~Lee, and K.~Toutanova.
+\newblock BERT: Pre-training of deep bidirectional transformers for language understanding.
+\newblock In \textit{Proceedings of NAACL-HLT}, 2019.
+
+\bibitem{Dreyfus1992}
+H.~L.~Dreyfus.
+\newblock \textit{What Computers Still Can't Do}.
+\newblock MIT Press, Cambridge, MA, 1992.
+
+\bibitem{Eco1979}
+U.~Eco.
+\newblock \textit{The Role of the Reader: Explorations in the Semiotics of Texts}.
+\newblock Indiana University Press, Bloomington, 1979.
+
+\bibitem{Eco1990}
+U.~Eco.
+\newblock \textit{The Limits of Interpretation}.
+\newblock Indiana University Press, Bloomington, 1990.
+
+\bibitem{Frege1892}
+G.~Frege.
+\newblock On sense and reference.
+\newblock \textit{Zeitschrift für Philosophie und philosophische Kritik}, 100, 1892.
+
+\bibitem{Gadamer1960}
+H.-G.~Gadamer.
+\newblock \textit{Truth and Method}.
+\newblock Mohr Siebeck, Tübingen, 1960.
+
+\bibitem{Gärdenfors2004}
+P.~Gärdenfors.
+\newblock \textit{Conceptual Spaces: The Geometry of Thought}.
+\newblock MIT Press, Cambridge, MA, 2004.
+
+\bibitem{GroszSidner1986}
+B.~J.~Grosz and C.~L.~Sidner.
+\newblock Attention, intentions, and the structure of discourse.
+\newblock \textit{Computational Linguistics}, 12(3):175--204, 1986.
+
+\bibitem{Gruber1993}
+T.~R.~Gruber.
+\newblock A translation approach to portable ontology specifications.
+\newblock \textit{Knowledge Acquisition}, 5(2):199--220, 1993.
+
+\bibitem{Heidegger1927}
+M.~Heidegger.
+\newblock \textit{Being and Time}.
+\newblock Niemeyer, Tübingen, 1927.
+
+\bibitem{Ho2020}
+J.~Ho, A.~Jain, and P.~Abbeel.
+\newblock Denoising diffusion probabilistic models.
+\newblock In \textit{Advances in Neural Information Processing Systems}, 2020.
+
+\bibitem{Hobbs1990}
+J.~R.~Hobbs.
+\newblock \textit{Literature and Cognition}.
+\newblock CSLI Publications, Stanford, 1990.
+
+\bibitem{Hogan2021}
+A.~Hogan, E.~Blomqvist, M.~Cochez, et al.
+\newblock Knowledge graphs.
+\newblock \textit{ACM Computing Surveys}, 54(4), 2021.
+
+\bibitem{HollandHolyoak1986}
+J.~H.~Holland, K.~J.~Holyoak, R.~E.~Nisbett, and P.~R.~Thagard.
+\newblock \textit{Induction: Processes of Inference, Learning, and Discovery}.
+\newblock MIT Press, Cambridge, MA, 1986.
+
+\bibitem{Husserl1913}
+E.~Husserl.
+\newblock \textit{Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy}.
+\newblock Martinus Nijhoff, The Hague, 1913.
+
+\bibitem{Iser1978}
+W.~Iser.
+\newblock \textit{The Act of Reading: A Theory of Aesthetic Response}.
+\newblock Johns Hopkins University Press, Baltimore, 1978.
+
+\bibitem{JohnsonLaird1983}
+P.~N.~Johnson-Laird.
+\newblock \textit{Mental Models: Towards a Cognitive Science of Language, Inference, and Consciousness}.
+\newblock Harvard University Press, Cambridge, MA, 1983.
+
+\bibitem{Kintsch1988}
+W.~Kintsch.
+\newblock The role of knowledge in discourse comprehension: A construction-integration model.
+\newblock \textit{Psychological Review}, 95(2):163--182, 1988.
+
+\bibitem{KollerFriedman2009}
+D.~Koller and N.~Friedman.
+\newblock \textit{Probabilistic Graphical Models: Principles and Techniques}.
+\newblock MIT Press, Cambridge, MA, 2009.
+
+\bibitem{LakoffJohnson1980}
+G.~Lakoff and M.~Johnson.
+\newblock \textit{Metaphors We Live By}.
+\newblock University of Chicago Press, Chicago, 1980.
+
+\bibitem{LeCun2022}
+Y.~LeCun, Y.~Bengio, and G.~Hinton.
+\newblock Deep learning.
+\newblock \textit{Nature}, 521:436--444, 2015.
+
+\bibitem{MacLane1971}
+S.~Mac~Lane.
+\newblock \textit{Categories for the Working Mathematician}.
+\newblock Springer, New York, 1971.
+
+\bibitem{McNamara2007}
+D.~S.~McNamara and J.~Magliano.
+\newblock Toward a comprehensive model of comprehension.
+\newblock \textit{Psychology of Learning and Motivation}, 51:297--384, 2009.
+
+\bibitem{MerleauPonty1945}
+M.~Merleau-Ponty.
+\newblock \textit{Phenomenology of Perception}.
+\newblock Routledge, London, 1945.
+
+\bibitem{NewellSimon1972}
+A.~Newell and H.~A.~Simon.
+\newblock \textit{Human Problem Solving}.
+\newblock Prentice-Hall, Englewood Cliffs, NJ, 1972.
+
+\bibitem{Newman2010}
+M.~Newman.
+\newblock \textit{Networks: An Introduction}.
+\newblock Oxford University Press, Oxford, 2010.
+
+\bibitem{Pearl1988}
+J.~Pearl.
+\newblock \textit{Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference}.
+\newblock Morgan Kaufmann, San Mateo, CA, 1988.
+
+\bibitem{Pearl2009}
+J.~Pearl.
+\newblock \textit{Causality: Models, Reasoning, and Inference}.
+\newblock Cambridge University Press, Cambridge, 2009.
+
+\bibitem{Ricoeur1976}
+P.~Ricoeur.
+\newblock \textit{Interpretation Theory: Discourse and the Surplus of Meaning}.
+\newblock Texas Christian University Press, Fort Worth, 1976.
+
+\bibitem{RumelhartMcClelland1986}
+D.~E.~Rumelhart and J.~L.~McClelland.
+\newblock \textit{Parallel Distributed Processing: Explorations in the Microstructure of Cognition}.
+\newblock MIT Press, Cambridge, MA, 1986.
+
+\bibitem{RussellNorvig2021}
+S.~Russell and P.~Norvig.
+\newblock \textit{Artificial Intelligence: A Modern Approach}.
+\newblock 4th edition, Pearson, 2021.
+
+\bibitem{Ryan2004}
+M.-L.~Ryan.
+\newblock \textit{Narrative Across Media: The Languages of Storytelling}.
+\newblock University of Nebraska Press, Lincoln, 2004.
+
+\bibitem{Smolensky1986}
+P.~Smolensky.
+\newblock Information processing in dynamical systems: Foundations of harmony theory.
+\newblock In \textit{Parallel Distributed Processing}, MIT Press, 1986.
+
+\bibitem{Spivak2014}
+D.~I.~Spivak.
+\newblock \textit{Category Theory for the Sciences}.
+\newblock MIT Press, Cambridge, MA, 2014.
+
+\bibitem{Winograd1972}
+T.~Winograd.
+\newblock \textit{Understanding Natural Language}.
+\newblock Academic Press, New York, 1972.
+
+\bibitem{Wittgenstein1953}
+L.~Wittgenstein.
+\newblock \textit{Philosophical Investigations}.
+\newblock Blackwell, Oxford, 1953.
+
+\end{thebibliography}
+
+\end{document}

@@ -1,0 +1,33 @@
+Extract temporal events and causal relationships from the text.
+
+Return JSON with this schema:
+{
+  "category": "timeline_causality",
+  "timeline": [
+    {
+      "index": null,
+      "event_id": "",
+      "label": "",
+      "temporal_marker": "",
+      "cause": "",
+      "effect": "",
+      "participants": [],
+      "explicit_textual_basis": []
+    }
+  ],
+  "causal_chains": [
+    {
+      "chain_id": "",
+      "steps": []
+    }
+  ],
+  "reversals": [],
+  "delayed_revelations": [],
+  "notes": []
+}
+
+Rules:
+- Assign index values based on narrative order, not necessarily chronological order.
+- Record reversals where later information reorders earlier events.
+- Record delayed_revelations where causes are revealed after effects.
+- Return JSON only.

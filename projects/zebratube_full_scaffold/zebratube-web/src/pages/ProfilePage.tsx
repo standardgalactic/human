@@ -1,0 +1,12 @@
+export default function ProfilePage(){
+  return (
+    <div className="page">
+      <h1>User profile</h1>
+      <div className="three-col">
+        <div className="card">Identity</div>
+        <div className="card">Contribution history</div>
+        <div className="card">Optional person graph</div>
+      </div>
+    </div>
+  )
+}

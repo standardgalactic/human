@@ -1,0 +1,90 @@
+Analyze the text and extract its canonical semantic graph.
+
+Return valid JSON only with this exact schema:
+
+{
+  "entities": [
+    {
+      "id": "",
+      "name": "",
+      "type": "",
+      "attributes": {
+        "explicit": [],
+        "uncertain": []
+      },
+      "textual_basis": []
+    }
+  ],
+  "events": [
+    {
+      "id": "",
+      "label": "",
+      "participants": [],
+      "time_order": null,
+      "causes": [],
+      "effects": [],
+      "textual_basis": []
+    }
+  ],
+  "relations": [
+    {
+      "source": "",
+      "relation": "",
+      "target": "",
+      "textual_basis": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "",
+      "text": "",
+      "stance": "",
+      "supports": [],
+      "opposes": [],
+      "textual_basis": []
+    }
+  ],
+  "ambiguities": [
+    {
+      "id": "",
+      "label": "",
+      "applies_to": [],
+      "possibilities": [],
+      "resolved_by": [],
+      "status": "",
+      "textual_basis": []
+    }
+  ],
+  "transformations": [
+    {
+      "id": "",
+      "input": "",
+      "operation": "",
+      "output": "",
+      "triggered_by": [],
+      "textual_basis": []
+    }
+  ],
+  "timeline": [
+    {
+      "index": null,
+      "event_id": ""
+    }
+  ],
+  "themes": [
+    {
+      "id": "",
+      "label": "",
+      "members": [],
+      "textual_basis": []
+    }
+  ]
+}
+
+Rules:
+- Do not invent sensory detail unless explicit in the text.
+- Preserve underspecification. Treat underspecified things as ambiguities.
+- Use stable IDs prefixed by type: ent_, evt_, clm_, amb_, trn_, thm_
+- Use exact short phrases from the text in textual_basis fields.
+- If something is uncertain, record it as uncertain rather than resolving it.
+- Return JSON only. No markdown. No explanation.

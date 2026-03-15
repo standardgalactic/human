@@ -1,0 +1,4 @@
+Analyze the text and extract a canonical semantic graph.
+Return valid JSON only with fields:
+entities, events, relations, claims, ambiguities, transformations, timeline, themes.
+Preserve underspecification. Include textual_basis arrays when possible.

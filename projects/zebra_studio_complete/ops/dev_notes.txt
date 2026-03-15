@@ -1,0 +1,7 @@
+Suggested order:
+1. run zebra-core demo pipeline
+2. seed API demo user
+3. import project/tasks
+4. run API
+5. run web
+6. run zebra-agent

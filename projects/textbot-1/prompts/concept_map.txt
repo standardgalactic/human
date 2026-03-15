@@ -1,0 +1,43 @@
+Extract the conceptual structure of the text as an evolving concept map.
+
+Return JSON with this schema:
+{
+  "category": "concept_map",
+  "concepts": [
+    {
+      "id": "",
+      "label": "",
+      "first_appearance": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "clusters": [
+    {
+      "id": "",
+      "label": "",
+      "members": []
+    }
+  ],
+  "connections": [
+    {
+      "source": "",
+      "relation": "",
+      "target": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "evolution": [
+    {
+      "concept": "",
+      "change": "",
+      "triggered_by": ""
+    }
+  ],
+  "notes": []
+}
+
+Rules:
+- Extract concepts that are explicitly named or developed in the text.
+- Track how concepts relate and evolve across the text.
+- Do not invent concepts not present.
+- Return JSON only.

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "zebra-core"
+version = "0.1.0"
+description = "Predation-resistant text analysis engine"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31",
+    "matplotlib>=3.8",
+    "networkx>=3.2",
+]
+
+[project.optional-dependencies]
+embeddings = ["sentence-transformers>=2.2", "scikit-learn>=1.3"]
+midi       = ["pretty_midi>=0.2"]
+api        = ["fastapi>=0.110", "uvicorn>=0.29"]
+
+[project.scripts]
+zebra = "zebra.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["zebra*"]

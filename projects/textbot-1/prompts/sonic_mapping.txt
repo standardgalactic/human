@@ -1,0 +1,34 @@
+Map the semantic and rhetorical dynamics of the text to sonic parameters.
+
+Return JSON with this schema:
+{
+  "category": "sonic_mapping",
+  "segments": [
+    {
+      "segment_id": "",
+      "span_summary": "",
+      "emotion": "",
+      "tension": 0.0,
+      "tempo": "",
+      "texture": "",
+      "pitch_register": "",
+      "dynamics": "",
+      "suggested_instrumentation": [],
+      "explicit_textual_basis": []
+    }
+  ],
+  "overall_arc": "",
+  "key_transitions": [],
+  "notes": []
+}
+
+Tension is a float between 0.0 (minimal) and 1.0 (maximal).
+Tempo: slow, moderate, fast, accelerating, decelerating
+Texture: sparse, dense, layered, monophonic, contrapuntal
+Pitch register: low, mid, high, descending, ascending
+Dynamics: soft, moderate, loud, swelling, fading
+
+Rules:
+- Base mappings on the semantic content and rhetorical tone, not invented imagery.
+- Do not invent narrative content.
+- Return JSON only.

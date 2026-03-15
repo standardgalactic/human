@@ -1,0 +1,95 @@
+version: "3.9"
+
+services:
+
+  # ── PostgreSQL ─────────────────────────────────────────────────────────────
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB:       zebratube
+      POSTGRES_USER:     zebratube
+      POSTGRES_PASSWORD: zebratube
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U zebratube"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # ── Redis (task queue) ─────────────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # ── API ────────────────────────────────────────────────────────────────────
+  api:
+    build:
+      context: ./zebratube-api
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      DATABASE_URL:  postgresql://zebratube:zebratube@postgres:5432/zebratube
+      REDIS_URL:     redis://redis:6379/0
+      MEDIA_ROOT:    /media
+      ZEBRA_CORE:    /zebra-core
+      SQL_ECHO:      "false"
+    volumes:
+      - media_data:/media
+      - ./zebra-core:/zebra-core:ro
+    ports:
+      - "8000:8000"
+    command: >
+      sh -c "
+        alembic upgrade head &&
+        uvicorn app.main:app --host 0.0.0.0 --port 8000
+      "
+
+  # ── Transcode worker ───────────────────────────────────────────────────────
+  worker:
+    build:
+      context: ./zebratube-api
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://zebratube:zebratube@postgres:5432/zebratube
+      MEDIA_ROOT:   /media
+    volumes:
+      - media_data:/media
+      - ./zebra-core:/zebra-core:ro
+    command: celery -A app.celery_app worker --loglevel=info --concurrency=2
+
+  # ── Web (dev) ──────────────────────────────────────────────────────────────
+  web:
+    build:
+      context: ./zebratube-web
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - api
+    environment:
+      VITE_API_URL: http://localhost:8000/api
+    ports:
+      - "3000:3000"
+
+volumes:
+  postgres_data:
+  media_data:

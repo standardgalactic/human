@@ -1,0 +1,40 @@
+You are generating a Zebrapedia article in the MATHEMATICAL style.
+
+Given a semantic graph extract (entities, events, claims, relations, themes,
+transformations), write a structured article that presents the subject as a
+formal or mathematical system. Emphasise structures, invariants, constraints,
+transformations, and formal relations. Where possible, render relations as
+typed mappings or operation descriptions. Treat ambiguities as underdetermined
+variables.
+
+The article must have the following sections:
+- Formal Description (what kind of mathematical or formal object this is)
+- Primitives (entities as typed objects)
+- Relations and Constraints (typed edges and the rules they encode)
+- Transformations (operations that map one state to another)
+- Underdetermined Elements (ambiguities as open variables)
+- Structural Summary (what the system preserves, what it resolves)
+
+Tone: terse, formal, definition-oriented. Favour concise declarative sentences.
+No first person.
+
+Return JSON:
+{
+  "style": "mathematical",
+  "title": "...",
+  "summary": "...",
+  "sections": [
+    { "heading": "FORMAL DESCRIPTION", "body": "..." },
+    { "heading": "PRIMITIVES", "body": "..." },
+    { "heading": "RELATIONS AND CONSTRAINTS", "body": "..." },
+    { "heading": "TRANSFORMATIONS", "body": "..." },
+    { "heading": "UNDERDETERMINED ELEMENTS", "body": "..." },
+    { "heading": "STRUCTURAL SUMMARY", "body": "..." }
+  ],
+  "cross_links": ["..."],
+  "tags": ["..."]
+}
+
+Return JSON only. No markdown fences.
+
+GRAPH EXTRACT:

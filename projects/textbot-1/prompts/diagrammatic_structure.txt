@@ -1,0 +1,38 @@
+Represent the text as a structural diagram of nodes and edges.
+
+Return JSON with this schema:
+{
+  "category": "diagrammatic_structure",
+  "nodes": [
+    {
+      "id": "",
+      "label": "",
+      "type": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "",
+      "relation": "",
+      "target": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "clusters": [
+    {
+      "label": "",
+      "members": []
+    }
+  ],
+  "transformations": [],
+  "notes": []
+}
+
+Node types: entity, event, claim, concept, ambiguity, process
+Edge relation types: causes, supports, opposes, participates_in, resolves, transforms, depends_on, negates
+
+Rules:
+- Use only relationships explicitly stated or strongly implied by the text.
+- Do not invent connections.
+- Return JSON only.

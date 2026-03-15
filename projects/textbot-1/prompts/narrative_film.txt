@@ -1,0 +1,27 @@
+Analyze the text as material for a cinematic adaptation.
+
+Return JSON with this schema:
+{
+  "category": "narrative_film",
+  "scenes": [
+    {
+      "scene_id": "",
+      "summary": "",
+      "characters": [],
+      "location": "",
+      "actions": [],
+      "dialogue_candidates": [],
+      "visual_requirements": [],
+      "uncertain_details": [],
+      "explicit_textual_basis": []
+    }
+  ],
+  "global_style_notes": [],
+  "notes": []
+}
+
+Rules:
+- Separate explicit textual facts from adaptation guesses.
+- Put guesses and inventions only under uncertain_details.
+- Do not invent dialogue unless the text contains direct speech.
+- Return JSON only.

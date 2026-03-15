@@ -1,0 +1,27 @@
+Interpret the text as a sequence of procedural operations or transformations.
+
+Return JSON with this schema:
+{
+  "category": "procedural_transform",
+  "steps": [
+    {
+      "step_id": "",
+      "operation": "",
+      "input_state": "",
+      "output_state": "",
+      "constraints": [],
+      "preconditions": [],
+      "effects": [],
+      "explicit_textual_basis": []
+    }
+  ],
+  "overall_procedure": "",
+  "initial_state": "",
+  "final_state": "",
+  "notes": []
+}
+
+Rules:
+- Model the text as a state machine or workflow where each passage enacts a transformation.
+- Identify what changes as a result of each step.
+- Return JSON only.

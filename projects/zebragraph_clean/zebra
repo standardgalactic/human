@@ -1,0 +1,392 @@
+#!/usr/bin/env python3
+"""
+zebra — text physics engine CLI
+
+Usage:
+    zebra extract <file>                     canonical extraction + graph build
+    zebra project <name> [--stem STEM]       build one projection from graph
+    zebra project all    [--stem STEM]       build all ten projections
+    zebra render  <name> [--stem STEM]       render one output
+    zebra render  all    [--stem STEM]       render all outputs
+    zebra simulate constraints [--stem STEM] run constraint propagation simulator
+
+Options:
+    --stem STEM     override the stem derived from the input filename
+    --model MODEL   Ollama model name (default: granite4)
+    --help          show this message
+
+Examples:
+    zebra extract essay.txt
+    zebra project ambiguity
+    zebra project ambiguity --stem essay
+    zebra render diffusion
+    zebra render all --stem essay
+    zebra simulate constraints
+    zebra simulate constraints --stem essay
+
+Projection names (short aliases accepted):
+    narrative     → narrative_film
+    diagram       → diagrammatic_structure
+    ambiguity     → ambiguity_diffusion
+    rhetoric      → rhetorical_voice
+    concepts      → concept_map
+    procedural    → procedural_transform
+    timeline      → timeline_causality
+    characters    → character_state
+    sonic         → sonic_mapping
+    summary       → structural_summary
+
+Render names (short aliases accepted):
+    diagram       → diagrammatic_structure
+    diffusion     → ambiguity_diffusion
+    concept       → concept_diffusion
+    constraints   → constraint_dynamics
+    timeline      → timeline_causality
+    characters    → character_state
+    sonic         → sonic_mapping
+    film          → narrative_film
+    summary       → structural_summary
+"""
+
+import argparse
+import json
+import os
+import subprocess
+import sys
+from pathlib import Path
+
+# ── locate repo root (directory containing this script) ──────────────────────
+ROOT = Path(__file__).resolve().parent
+
+# ── name resolution tables ───────────────────────────────────────────────────
+PROJECTION_ALIASES = {
+    "narrative":   "narrative_film",
+    "film":        "narrative_film",
+    "diagram":     "diagrammatic_structure",
+    "diagrammatic":"diagrammatic_structure",
+    "ambiguity":   "ambiguity_diffusion",
+    "diffusion":   "ambiguity_diffusion",
+    "rhetoric":    "rhetorical_voice",
+    "rhetorical":  "rhetorical_voice",
+    "voice":       "rhetorical_voice",
+    "concepts":    "concept_map",
+    "concept":     "concept_map",
+    "procedural":  "procedural_transform",
+    "transform":   "procedural_transform",
+    "timeline":    "timeline_causality",
+    "causality":   "timeline_causality",
+    "characters":  "character_state",
+    "character":   "character_state",
+    "sonic":       "sonic_mapping",
+    "sound":       "sonic_mapping",
+    "summary":     "structural_summary",
+    "structural":  "structural_summary",
+}
+
+RENDER_ALIASES = {
+    "diagram":      "diagrammatic_structure",
+    "diagrammatic": "diagrammatic_structure",
+    "diffusion":    "ambiguity_diffusion",
+    "ambiguity":    "ambiguity_diffusion",
+    "concept":      "concept_diffusion",
+    "concepts":     "concept_diffusion",
+    "constraints":  "constraint_dynamics",
+    "constraint":   "constraint_dynamics",
+    "dynamics":     "constraint_dynamics",
+    "timeline":     "timeline_causality",
+    "causality":    "timeline_causality",
+    "characters":   "character_state",
+    "character":    "character_state",
+    "sonic":        "sonic_mapping",
+    "sound":        "sonic_mapping",
+    "film":         "narrative_film",
+    "narrative":    "narrative_film",
+    "summary":      "structural_summary",
+    "structural":   "structural_summary",
+}
+
+ALL_PROJECTIONS = [
+    "narrative_film",
+    "diagrammatic_structure",
+    "ambiguity_diffusion",
+    "rhetorical_voice",
+    "concept_map",
+    "procedural_transform",
+    "timeline_causality",
+    "character_state",
+    "sonic_mapping",
+    "structural_summary",
+]
+
+ALL_RENDERS = [
+    "diagrammatic_structure",
+    "ambiguity_diffusion",
+    "concept_diffusion",
+    "constraint_dynamics",
+    "timeline_causality",
+    "character_state",
+    "sonic_mapping",
+    "narrative_film",
+    "structural_summary",
+]
+
+# ── helpers ───────────────────────────────────────────────────────────────────
+
+def resolve(name: str, table: dict, kind: str) -> str:
+    """Resolve an alias or full name; exit with helpful message on failure."""
+    if name in table:
+        return table[name]
+    full_names = set(table.values())
+    if name in full_names:
+        return name
+    print(f"zebra: unknown {kind} '{name}'")
+    print(f"  known names: {', '.join(sorted(set(table.keys())))}")
+    sys.exit(1)
+
+
+def stem_from_file(path: str) -> str:
+    return Path(path).stem
+
+
+def latest_stem() -> str:
+    """Return the most recently modified stem under data/canonical/."""
+    canon_dir = ROOT / "data" / "canonical"
+    if not canon_dir.exists():
+        print("zebra: no canonical data found — run 'zebra extract <file>' first")
+        sys.exit(1)
+    stems = sorted(canon_dir.iterdir(), key=lambda p: p.stat().st_mtime, reverse=True)
+    stems = [s for s in stems if s.is_dir() and (s / "graph.json").exists()]
+    if not stems:
+        print("zebra: no graph.json found — run 'zebra extract <file>' first")
+        sys.exit(1)
+    return stems[0].name
+
+
+def graph_path(stem: str) -> Path:
+    p = ROOT / "data" / "canonical" / stem / "graph.json"
+    if not p.exists():
+        print(f"zebra: graph not found at {p}")
+        print(f"  run: zebra extract <file>")
+        sys.exit(1)
+    return p
+
+
+def projection_path(stem: str, proj: str) -> Path:
+    return ROOT / "data" / "projections" / stem / f"{proj}.json"
+
+
+def run(cmd: list, **kwargs):
+    """Run a subprocess, streaming output, exit on failure."""
+    result = subprocess.run(cmd, **kwargs)
+    if result.returncode != 0:
+        sys.exit(result.returncode)
+
+
+def python(script: Path, *args):
+    run([sys.executable, str(script)] + list(args))
+
+
+# ── verb implementations ──────────────────────────────────────────────────────
+
+def cmd_extract(args):
+    """zebra extract <file>"""
+    if not args.target:
+        print("zebra extract: file argument required")
+        sys.exit(1)
+
+    input_file = Path(args.target)
+    if not input_file.exists():
+        print(f"zebra: file not found: {input_file}")
+        sys.exit(1)
+
+    stem = stem_from_file(str(input_file))
+    model = args.model or os.environ.get("MODEL", "granite4")
+
+    print(f"zebra extract  →  {input_file}  (model={model}, stem={stem})")
+
+    # 1. chunk
+    chunk_dir = ROOT / "data" / "chunks" / stem
+    chunk_dir.mkdir(parents=True, exist_ok=True)
+    python(ROOT / "src" / "chunk_text.py", str(input_file), str(chunk_dir))
+
+    # 2. per-chunk LLM analysis
+    analysis_dir = ROOT / "data" / "analyses" / stem
+    analysis_dir.mkdir(parents=True, exist_ok=True)
+    prompt_file = ROOT / "prompts" / "canonical_extract.txt"
+
+    chunk_files = sorted(chunk_dir.glob("chunk_*.txt"))
+    if not chunk_files:
+        print("zebra: no chunks produced — is the file empty?")
+        sys.exit(1)
+
+    for chunk_file in chunk_files:
+        name = chunk_file.stem
+        out_file = analysis_dir / f"canonical_extract_{name}.json"
+        if out_file.exists():
+            print(f"  skip (cached): {out_file.name}")
+            continue
+        print(f"  analyzing: {chunk_file.name}")
+        python(
+            ROOT / "src" / "call_ollama.py",
+            "--model", model,
+            "--prompt-file", str(prompt_file),
+            "--input-file", str(chunk_file),
+            "--output-file", str(out_file),
+        )
+
+    # 3. merge
+    canonical_dir = ROOT / "data" / "canonical" / stem
+    canonical_dir.mkdir(parents=True, exist_ok=True)
+    graph_out = canonical_dir / "graph.json"
+    python(
+        ROOT / "src" / "build_canonical_graph.py",
+        "--input-dir", str(analysis_dir),
+        "--output-file", str(graph_out),
+    )
+    python(ROOT / "src" / "validate_json.py", str(graph_out))
+    print(f"\nzebra: graph written → {graph_out}")
+
+
+def cmd_project(args):
+    """zebra project <name|all> [--stem STEM]"""
+    if not args.target:
+        print("zebra project: projection name required")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+    gpath = graph_path(stem)
+    proj_dir = ROOT / "data" / "projections" / stem
+    proj_dir.mkdir(parents=True, exist_ok=True)
+
+    names = ALL_PROJECTIONS if args.target == "all" else [
+        resolve(args.target, PROJECTION_ALIASES, "projection")
+    ]
+
+    for name in names:
+        script = ROOT / "projections" / f"build_{name}.py"
+        if not script.exists():
+            print(f"zebra: projection script not found: {script}")
+            continue
+        out = proj_dir / f"{name}.json"
+        print(f"zebra project  {name}  →  {out}")
+        with open(out, "w") as f:
+            run([sys.executable, str(script), str(gpath)], stdout=f)
+        python(ROOT / "src" / "validate_json.py", str(out))
+
+
+def cmd_render(args):
+    """zebra render <name|all> [--stem STEM]"""
+    if not args.target:
+        print("zebra render: renderer name required")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+    gpath = graph_path(stem)
+    proj_dir = ROOT / "data" / "projections" / stem
+
+    (ROOT / "data" / "videos").mkdir(parents=True, exist_ok=True)
+    (ROOT / "data" / "frames").mkdir(parents=True, exist_ok=True)
+
+    names = ALL_RENDERS if args.target == "all" else [
+        resolve(args.target, RENDER_ALIASES, "renderer")
+    ]
+
+    for name in names:
+        script = ROOT / "render" / f"render_{name}.py"
+        if not script.exists():
+            print(f"zebra: render script not found: {script}")
+            continue
+
+        # constraint_dynamics takes the canonical graph directly
+        if name == "constraint_dynamics":
+            input_arg = str(gpath)
+        else:
+            input_arg = str(proj_dir / f"{name}.json")
+            if not Path(input_arg).exists():
+                # attempt to auto-build the matching projection first
+                proj_name = name  # render name matches projection name for most
+                proj_script = ROOT / "projections" / f"build_{proj_name}.py"
+                if proj_script.exists():
+                    print(f"  auto-building projection: {proj_name}")
+                    out = proj_dir / f"{proj_name}.json"
+                    proj_dir.mkdir(parents=True, exist_ok=True)
+                    with open(out, "w") as f:
+                        run([sys.executable, str(proj_script), str(gpath)], stdout=f)
+                else:
+                    print(f"  skip (no projection JSON): {input_arg}")
+                    continue
+
+        print(f"zebra render   {name}  →  data/videos/")
+        python(script, input_arg)
+
+
+def cmd_simulate(args):
+    """zebra simulate constraints [--stem STEM]"""
+    if not args.target or args.target not in ("constraints", "constraint"):
+        print("zebra simulate: mode required — currently only 'constraints' is supported")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+    gpath = graph_path(stem)
+    out = ROOT / "data" / "projections" / stem / "constraint_dynamics.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+
+    print(f"zebra simulate constraints  →  {out}")
+    with open(out, "w") as f:
+        run([sys.executable, str(ROOT / "src" / "constraint_simulator.py"), str(gpath)],
+            stdout=f)
+    python(ROOT / "src" / "validate_json.py", str(out))
+
+    # Offer to render immediately
+    render_script = ROOT / "render" / "render_constraint_dynamics.py"
+    if render_script.exists():
+        print("  rendering constraint dynamics…")
+        (ROOT / "data" / "videos").mkdir(parents=True, exist_ok=True)
+        (ROOT / "data" / "frames").mkdir(parents=True, exist_ok=True)
+        python(render_script, str(gpath))
+
+
+# ── argument parsing ──────────────────────────────────────────────────────────
+
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        prog="zebra",
+        description="zebragraph — predation-resistant text analysis engine",
+        add_help=True,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=__doc__,
+    )
+    p.add_argument("verb", choices=["extract", "project", "render", "simulate"],
+                   help="command verb")
+    p.add_argument("target", nargs="?", default=None,
+                   help="file path (extract) or name/all (project/render/simulate)")
+    p.add_argument("--stem", default=None,
+                   help="override stem (default: derived from last extracted file)")
+    p.add_argument("--model", default=None,
+                   help="Ollama model name (default: granite4 or $MODEL env var)")
+    return p
+
+
+VERBS = {
+    "extract":  cmd_extract,
+    "project":  cmd_project,
+    "render":   cmd_render,
+    "simulate": cmd_simulate,
+}
+
+
+def main():
+    # Change to repo root so relative data/ paths always resolve correctly
+    os.chdir(ROOT)
+
+    parser = build_parser()
+    if len(sys.argv) < 2:
+        parser.print_help()
+        sys.exit(0)
+
+    args = parser.parse_args()
+    VERBS[args.verb](args)
+
+
+if __name__ == "__main__":
+    main()

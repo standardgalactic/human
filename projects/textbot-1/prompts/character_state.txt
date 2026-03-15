@@ -1,0 +1,36 @@
+Track each named or implied entity as a state vector that evolves across the text.
+
+Return JSON with this schema:
+{
+  "category": "character_state",
+  "characters": [
+    {
+      "id": "",
+      "name": "",
+      "initial_state": {
+        "explicit_attributes": [],
+        "uncertain_attributes": []
+      },
+      "state_changes": [
+        {
+          "trigger": "",
+          "attribute": "",
+          "before": "",
+          "after": "",
+          "explicit_textual_basis": []
+        }
+      ],
+      "final_state": {
+        "explicit_attributes": [],
+        "uncertain_attributes": []
+      }
+    }
+  ],
+  "notes": []
+}
+
+Rules:
+- Only record state changes that are explicitly supported by the text.
+- Mark all speculative attributes as uncertain.
+- Entities include persons, organizations, abstract agents, and systems if they have states.
+- Return JSON only.

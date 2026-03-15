@@ -1,0 +1,666 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+
+\usepackage{microtype}
+\setlength{\emergencystretch}{2em}
+\usepackage{geometry}
+\geometry{a4paper, top=3cm, bottom=3cm, left=3.2cm, right=3.2cm}
+
+\usepackage{setspace}
+\setstretch{1.25}
+
+\usepackage{parskip}
+\setlength{\parskip}{0.6em}
+\setlength{\parindent}{1.5em}
+
+\usepackage{amsmath,amssymb,amsthm}
+
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.8em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.6em}{}
+\titlespacing{\section}{0pt}{2em}{0.8em}
+\titlespacing{\subsection}{0pt}{1.4em}{0.5em}
+
+\usepackage{csquotes}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black,
+  citecolor=black,
+  pdfauthor={Flyxion},
+  pdftitle={Zebra: Distributed Semantic Infrastructure and the Functorial Realization of Text as Collaborative Media}
+}
+
+\title{\textbf{Zebra: Distributed Semantic Infrastructure\\and the Functorial Realization of Text\\as Collaborative Media}}
+\author{Flyxion}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+\noindent
+This essay presents the conceptual architecture, mathematical foundations, and categorical interpretation of the Zebra system, a distributed infrastructure for transforming textual corpora into collaborative multimedia productions. The system treats written language not as a static artifact awaiting a single rendering but as a partially specified constraint structure whose internal semantics can be represented as a typed graph. From this graph a family of projection operators derives multiple interpretive representations, each foregrounding a different structural dimension of the source text. A task network decomposes these projections into units of media production that are distributed across a decentralized network of contributors and computational agents. The assembly process that integrates produced segments into a coherent production is interpreted as a colimit construction over a diagram of task realizations. The fibered structure of the system across corpora supports a sheaf-theoretic account of assembly, in which local sections contributed by distributed participants are glued into a global media artifact. An adjoint relationship between semantic decomposition and reconstruction unifies the stages of extraction, projection, and realization within a single categorical framework. The resulting architecture proposes a new paradigm for cultural production in which texts function as generative programs whose execution unfolds through distributed collaborative activity.
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction}
+
+The relationship between written language and audiovisual media has historically been asymmetric in a specific and consequential way. Written texts preserve ambiguity, indeterminacy, and gradual constraint formation. Audiovisual media typically collapse those structures into singular concrete realizations. When a narrative description such as \enquote{a traveller enters a room} is translated directly into film, a large number of properties that the text intentionally leaves unresolved must be fixed immediately. Age, appearance, spatial configuration, lighting, vocal register, and temporal pace are all chosen implicitly by the filmmaker, thereby eliminating the interpretive openness that constitutes a central feature of the written form.
+
+This asymmetry has been treated as an unavoidable consequence of the difference in medium. Film shows; text implies. The gap between them is usually managed by human adapters who exercise interpretive judgment in converting one form into the other. What has rarely been asked is whether the asymmetry is necessary, or whether it reflects a poverty of representational architecture rather than an inherent incompatibility between linguistic and audiovisual structure.
+
+The Zebra project proceeds from the hypothesis that the asymmetry is not necessary. It proposes an architecture in which a text is treated as a partially specified constraint system and in which the work of media realization is distributed across a network of contributors who realize different segments of the text's structure according to their capacities and interests. The result is not a single film but a structured collection of media artifacts that together constitute a collaborative realization of the text's latent semantic architecture.
+
+This essay presents the theoretical foundations of this architecture in three registers. The first is conceptual: what does it mean to treat a text as a constraint system, and how does this perspective transform the relationship between reading, interpretation, and production? The second is architectural: how is the system organized, what are its principal components, and how do they interact? The third is mathematical: what categorical structures underlie the system's operations, and how do they illuminate the relationship between semantic extraction, projection, and collaborative realization?
+
+\section{Related Work}
+
+The Zebra architecture sits at the intersection of several intellectual traditions that have developed largely independently: formal discourse semantics, knowledge graph representation, semantic web infrastructure, applied category theory, and distributed collaborative production. The system draws structural inspiration from each of these domains while combining them into a unified framework that treats textual interpretation and media production as stages of a single computational process.
+
+The representation of texts as evolving constraint structures is closely related to formal approaches to discourse semantics. Discourse Representation Theory models the interpretation of a text as the incremental construction of a structured representation in which discourse referents accumulate properties as the text unfolds \cite{kamp1993}. Similarly, situation semantics treats linguistic meaning as a relational structure embedded in partially specified contexts \cite{barwise1983}. These traditions provide a conceptual foundation for the Zebra canonical semantic graph, which encodes entities, events, and claims together with the evolving constraints that bind them.
+
+Knowledge graph research provides the technical background for representing large relational structures extracted from text. Knowledge graphs have become central to contemporary information systems because they allow heterogeneous semantic relationships to be represented in a unified graph structure \cite{bizer2009}. The semantic web initiative extends this idea by proposing standardized infrastructures for linking distributed semantic resources across the internet \cite{bernerslee2001}. Zebra adopts the graph representation of knowledge systems but diverges from conventional knowledge graphs in its explicit treatment of ambiguity and resolution dynamics.
+
+The categorical interpretation of the system draws on developments in applied category theory. Category theory has increasingly been used as a language for describing compositional systems in science and engineering. Mac Lane’s foundational work provides the basic formalism of categories, functors, and natural transformations \cite{maclane1998}. More recent work has emphasized the use of category theory to model complex compositional systems across scientific domains \cite{spivak2014,fong2019}. The Zebra pipeline follows this tradition by representing semantic extraction, projection, and realization as functorial transformations between categories.
+
+Sheaf theory has recently been applied to problems of distributed data integration and information consistency. In such contexts, local data sources provide partial views of a global structure, and the problem becomes one of determining whether these local views can be glued together into a consistent global representation \cite{curry2012}. The Zebra assembly process is naturally interpreted in these terms: each contributor produces a local realization of a portion of the semantic structure, and the assembler determines whether these realizations can be integrated into a coherent whole.
+
+The distributed nature of the production network also connects the project to theories of collective intelligence and distributed cognition. Lévy’s work on collective intelligence describes how knowledge production can emerge from the coordinated activity of many individuals operating within shared informational environments \cite{levy2007}. Actor-network theory similarly emphasizes the relational structure of knowledge production networks \cite{latour2005}. Zebra operationalizes these ideas by allowing the semantic structure of a text itself to organize the distribution of production tasks across contributors.
+
+Finally, the system’s emphasis on preserving interpretive multiplicity connects it to broader critiques of media centralization. Debord’s analysis of the spectacle highlights the way in which modern media systems concentrate the production of representation within centralized institutions \cite{debord1967}. By contrast, the Zebra architecture distributes the realization of a text across many contributors while preserving the structural record of the underlying semantic graph.
+
+Taken together, these intellectual traditions suggest that the Zebra architecture can be understood as an instance of a broader shift toward semantic infrastructures in which texts, data, and media artifacts are treated as structured computational objects. In such infrastructures the boundary between reading, analysis, and production becomes porous. The same semantic structures that guide interpretation also organize the collaborative realization of new media artifacts derived from the text.
+
+\section{Texts as Constraint Systems}
+
+The theoretical point of departure for the Zebra system is the claim that written language encodes a relational structure rather than a determinate representation. When a text introduces an entity, it does not specify that entity completely. It specifies a subset of the entity's attributes—those required for the text's semantic work—and leaves the remainder implicit or genuinely open. As the text proceeds, additional propositions introduce further constraints that progressively narrow the space of admissible interpretations without necessarily closing it entirely.
+
+This picture of textual meaning is not speculative. It is consistent with the central findings of psycholinguistic research on incremental comprehension, with the philosophy of language's treatment of underdetermination, and with the formal semantics of discourse representation theory, in which the meaning of a text is modeled as an evolving set of discourse referents whose properties accumulate over the course of reading. What the Zebra project adds to this picture is a computational architecture that makes the constraint structure explicit and machine-readable, and a production infrastructure that distributes the work of realization across a network of contributors.
+
+The analogy with mathematical formalism is instructive. A variable in an algebraic expression does not denote a specific object; it denotes a placeholder constrained by the equations in which it appears. The solution of a system of equations is the assignment of values to variables that satisfies all constraints simultaneously. Reading, on the present account, is a process of incremental constraint accumulation whose product is a configuration of semantic structures that satisfies the text's accumulated conditions. The denouement of a narrative is the moment at which this configuration stabilizes into a fixed point.
+
+This analogy also reveals why the translation of text into film is epistemically lossy in a specific sense. The filmmaker does not merely realize the text; the filmmaker resolves its ambiguities in a particular direction, choosing one element from each possibility field and eliminating the others. The choice may be felicitous or infelicitous, canonical or eccentric, but it is always a reduction. The Zebra architecture responds to this situation not by avoiding realization—texts must eventually be realized in some form if they are to function as cultural objects—but by multiplying realizations and preserving the record of the structure from which they derive.
+
+\section{The Canonical Semantic Graph}
+
+The canonical semantic graph is the central data structure of the Zebra system. It is the formal encoding of a text's constraint structure, constructed by an extraction process that divides the input corpus into paragraph-preserving segments, submits each segment to a language model operating under constraints that prohibit speculative inference, and merges the resulting per-segment graphs by deduplication and compatibility checking.
+
+Let a text corpus be denoted by $T$. The extraction process constructs a graph
+\[
+G = (V, E)
+\]
+where $V$ is a set of typed nodes and $E$ is a set of typed directed edges. The node set is partitioned according to semantic category:
+\[
+V = V_e \cup V_v \cup V_r \cup V_c \cup V_a \cup V_t \cup V_\tau \cup V_\theta
+\]
+where $V_e$ contains entity nodes, $V_v$ contains event nodes, $V_r$ contains relation nodes, $V_c$ contains claim nodes, $V_a$ contains ambiguity nodes, $V_t$ contains transformation nodes, $V_\tau$ contains timeline entries, and $V_\theta$ contains thematic cluster nodes.
+
+Each node carries an attribute triple $x_i = (a_i, u_i, b_i)$ where $a_i$ represents the known attributes extracted directly from the text, $u_i$ represents uncertain attributes explicitly marked as unresolved, and $b_i$ records the textual evidence supporting the node's presence in the graph. The evidence field is crucial: it anchors every structural element of the graph to a specific phrase or sentence in the source, preventing the extraction process from hallucinating structure that the text does not actually contain.
+
+Edges are typed relations:
+\[
+E \subseteq V \times \mathcal{R} \times V
+\]
+where $\mathcal{R}$ denotes the set of edge types, including causal, participatory, supportive, oppositional, and transformational relations. The typed edge structure allows downstream operations to select subgraphs relevant to a given projection without losing information about the full relational context.
+
+Ambiguity nodes occupy a special position in this representation. Each ambiguity node $a \in V_a$ is defined as a tuple $(S, I, R)$ where $S$ is the set of nodes to which the ambiguity applies, $I$ is the possibility field—the set of admissible interpretations consistent with the text's current constraints—and $R$ is the set of events or claims that the text uses to resolve the ambiguity. An ambiguity node whose resolution set is empty represents a structural openness that the text preserves to its end; an ambiguity node whose resolution set is populated records the mechanism by which the text narrows its own possibility space.
+
+This treatment of ambiguity as a first-class structural element is the feature that most sharply distinguishes the Zebra representation from conventional information extraction. Standard extraction pipelines aim to eliminate ambiguity as quickly as possible, selecting the most probable interpretation at each decision point and discarding alternatives. The Zebra graph instead treats the dynamics of ambiguity and resolution as a central component of the text's meaning. The fact that a particular attribute was open at one point and resolved at another is semantically significant: it encodes the temporal structure of the reader's epistemic relationship to the text.
+
+\section{Projection Operators}
+
+The canonical graph supports a family of projection operators, each of which derives a new representation from the same underlying structure. Projections are deterministic transformations: given the same canonical graph, any projection will always produce the same output. The interpretive diversity of the system therefore arises not from repeated model invocations but from the algebraic structure of the projection operations themselves.
+
+Formally, let $\mathcal{S}$ denote the category whose objects are canonical semantic graphs and whose morphisms are graph homomorphisms that preserve node type and edge type. A projection operator is a functor
+\[
+F_i : \mathcal{S} \rightarrow \mathcal{M}_i
+\]
+where $\mathcal{M}_i$ is a medium-specific category. The narrative projection functor $F_\mathrm{narr}$ maps event nodes to scene records, ordered by the temporal constraints encoded in $V_\tau$, and attaches to each scene the ambiguity nodes associated with its participants:
+\[
+F_\mathrm{narr}(G) = (e_1, e_2, \ldots, e_n)
+\]
+where the ordering respects the partial order defined by the timeline entries and causal edges. The diagrammatic projection functor $F_\mathrm{diag}$ maps the full node and edge structure into a graph layout representation, preserving type information as visual encoding parameters. The rhetorical projection functor $F_\mathrm{rhet}$ extracts the claim subgraph and constructs an argument graph
+\[
+G_r = (C, S)
+\]
+where $C$ is the set of claims and $S$ is the set of support and opposition relations between them. Additional projection functors address conceptual clustering, procedural transformation sequences, character state evolution, causal timelines, and sonic parameter mapping.
+
+The existence of multiple such functors from a single source category reflects the interpretive multiplicity inherent in textual analysis. Different projections are not competing interpretations of the text; they are orthogonal views of the same relational structure, each revealing features that the others suppress. The concept map projection and the argument structure projection derive from the same canonical graph, but neither contains the other: the former foregrounds associative clustering, the latter foregrounds logical dependency. Both are correct, and both are partial.
+
+This point has theoretical consequences for the ontology of textual meaning. If meaning were located in any single projection—in the mental imagery one reader constructs, or in the argument structure another extracts—then different projections would be competing claims about the same object. On the present account, meaning is located in the canonical graph, and the projections are measurement operators applied to it, each returning a different observable. This is the sense in which the canonical graph functions as what one might call the text's latent semantic state.
+
+\section{The Semantic Category and its Categorical Structure}
+
+The canonical graph can be given a richer categorical interpretation that clarifies the structure of the Zebra system as a whole. Rather than treating the graph merely as a data structure, we interpret it as defining a small category $\mathcal{S}_T$ in which objects correspond to semantic units and morphisms correspond to relations between them.
+
+Composition of morphisms corresponds to the chaining of relations. If an entity participates in an event and the event causes a subsequent event, then the entity is connected to the subsequent event through the composition of the participation and causation morphisms. The associativity and identity conditions required for categorical structure are satisfied by the nature of relational composition.
+
+Ambiguity resolution within this category can be modeled as a natural transformation. An unresolved ambiguity corresponds to a functor from a discrete category of possible interpretations into $\mathcal{S}_T$. Resolution corresponds to the selection of a particular object from this functor's image, which can be formalized as a natural transformation from the multi-valued functor to a functor that factors through the terminal category.
+
+The assignment of a semantic category to each corpus defines a functor from the corpus category $\mathcal{C}$ to the category of small categories $\mathbf{Cat}$:
+\[
+E : \mathcal{C} \rightarrow \mathbf{Cat}, \qquad T \mapsto \mathcal{S}_T.
+\]
+This functor constitutes the extraction stage of the Zebra pipeline. It is not in general injective—different corpora may produce isomorphic semantic categories—nor surjective over all small categories. Its image is the subcategory of $\mathbf{Cat}$ consisting of categories whose objects have the types and attribute structure prescribed by the Zebra schema.
+
+\section{Fibered Structure and Projection Sections}
+
+The assignment $T \mapsto \mathcal{S}_T$ defines a fibered category
+\[
+\pi : \mathcal{S} \rightarrow \mathcal{C}
+\]
+where $\mathcal{S}$ is the total category of semantic structures and $\pi$ maps each semantic object to the corpus from which it was extracted. The fiber over a corpus $T$ is precisely the semantic category $\mathcal{S}_T$.
+
+Within this fibered perspective, semantic interpretation becomes a process of navigating between fibers and constructing compatible structures across related corpora. If corpus $T'$ is a revision or extension of corpus $T$, there is a morphism $T \to T'$ in $\mathcal{C}$, and the reindexing functor along this morphism maps the semantic category of $T$ into that of $T'$ in a way that preserves the structural relationships established by the original extraction.
+
+The projection operators now admit a global formulation as sections of the fibration. A projection section is a functor
+\[
+\sigma_i : \mathcal{C} \rightarrow \mathcal{M}_i
+\]
+satisfying the compatibility condition
+\[
+F_i = \sigma_i \circ \pi
+\]
+where $F_i : \mathcal{S}_T \to \mathcal{M}_i$ is the fiber-wise projection. This equation expresses the coherence requirement that the media representation assigned to a semantic object should be determined by the object's position in the fiber over its corpus, not by any incidental feature of its representation.
+
+\section{Task Graph Construction}
+
+The projection layer generates production tasks by decomposing each projection output into units of media production. The task graph
+\[
+H = (\mathcal{T}, D)
+\]
+has tasks as objects and dependency relations as morphisms. Each task $t_i$ corresponds to a subgraph of the canonical representation:
+\[
+t_i \subseteq V.
+\]
+The dependency relation is defined so that $(t_i, t_j) \in D$ whenever the nodes associated with $t_j$ depend on structural elements provided by $t_i$ — for instance, when a narrative scene involves an event whose participants are introduced in an earlier scene, or when a rhetorical claim depends on a definition established by an earlier claim.
+
+The structural importance of a task within the dependency graph is estimated by betweenness centrality:
+\[
+C_B(t) = \sum_{s \neq t \neq u} \frac{\sigma_{su}(t)}{\sigma_{su}}
+\]
+where $\sigma_{su}$ denotes the number of shortest paths between tasks $s$ and $u$ in the dependency graph, and $\sigma_{su}(t)$ denotes the number of those paths that pass through task $t$. Tasks with high betweenness centrality are structurally critical: their completion unblocks a large number of dependent tasks, and their absence creates bottlenecks in the production network. The reward structure of the system is calibrated to reflect this, assigning higher base rewards to tasks whose centrality scores exceed a threshold.
+
+The task graph also represents the canonical semantic structure's local covering in a topological sense. Each task covers a portion of the semantic graph, and the union of all task coverages must span the full graph for the production to be complete. This covering interpretation connects the task construction to the sheaf-theoretic account of assembly developed in the following section.
+
+\section{The Bounty Function and Distributed Incentive Structure}
+
+The Zebra platform associates each task with a reward determined by a bounty function that balances multiple considerations: the structural importance of the task, the scarcity of existing submissions, and the base value assigned to the project. The function takes the form
+\[
+B(t) = B_0 \cdot \log(1 + S(t)) \cdot W(t)
+\]
+where $B_0$ is the project base reward, $S(t)$ is the scarcity coefficient
+\[
+S(t) = \frac{1}{1 + n_t}
+\]
+with $n_t$ denoting the number of existing submissions for task $t$, and $W(t)$ is a normalized weight derived from the betweenness centrality of $t$ in the dependency graph.
+
+The logarithmic structure of the bounty function prevents runaway reward escalation as scarcity decreases. A task with zero submissions receives a higher reward than one with several, but the marginal benefit of additional submissions decreases at a rate governed by the logarithm. The centrality weight $W(t)$ ensures that structurally critical tasks attract disproportionate attention even when submissions already exist, because the quality of a critical task affects the coherence of the entire production rather than merely that of a peripheral segment.
+
+This reward architecture reflects a specific theory of distributed incentives in creative production. The problem it addresses is not merely that of attracting contributions but of attracting them to the right parts of the production at the right time. A system that rewards contributions uniformly will produce an uneven distribution of effort concentrated in the most accessible segments, leaving structurally critical but technically demanding tasks unrealized. The Zebra bounty function attempts to correct this tendency by aligning financial incentives with structural necessity.
+
+\section{Local Agents and Capability Discovery}
+
+The distributed architecture requires each participant node to determine which tasks it is best positioned to realize. The local agent component performs this matching by analyzing three data sources: the hardware characteristics of the participant's machine, the topical interests inferred from local file content, and the current state of the task registry maintained by the central coordination service.
+
+Formally, a participant node is represented as a pair $A = (h, i)$ where $h$ is a hardware capability vector encoding processor availability, memory capacity, storage resources, and graphics acceleration capabilities, and $i$ is a semantic interest vector inferred from the textual content and file structure of the local environment. For a task $t$, a compatibility score is computed:
+\[
+\Phi(A, t) = \alpha \, H(h, t) + \beta \, I(i, t)
+\]
+where $H(h, t)$ measures the hardware suitability of the node for the task's computational requirements, $I(i, t)$ measures the semantic alignment between the node's inferred interests and the task's subject matter, and $\alpha$, $\beta$ are parameters controlling the relative influence of these two dimensions.
+
+The agent ranks available tasks according to $\Phi$ and presents the highest-scoring options to the participant. Tasks requiring diagram generation may be prioritized on systems with strong central processing resources; tasks involving animation or rendering may be recommended to systems with dedicated graphics processors; tasks addressing particular subjects may be matched to nodes whose local file content suggests relevant expertise or interest.
+
+Through this mechanism the Zebra network becomes a distributed computational ecology rather than a centralized assignment system. Each participant node acts as an autonomous agent whose task selection is guided by its own capabilities and interests, and the aggregate distribution of effort across the network emerges from the interaction of these individual selections rather than from top-down coordination.
+
+\section{Assembly as Sheaf Gluing}
+
+The assembly stage integrates submitted media segments into a coherent final production. This process has a natural interpretation in sheaf-theoretic terms.
+
+Each submitted segment provides a local section over a portion of the semantic structure. If task $t_i$ covers a subgraph $U_i \subseteq G$ and task $t_j$ covers a subgraph $U_j \subseteq G$ with non-empty intersection $U_i \cap U_j$, then the segments produced for $t_i$ and $t_j$ must be compatible on the overlapping region if they are to be assembled into a globally coherent production.
+
+Let $\mathcal{F}$ denote a presheaf on the semantic graph $G$ that assigns to each subgraph $U$ the set of media realizations produced for $U$. The sheaf condition requires that for any two overlapping subgraphs $U_i$ and $U_j$, the restrictions of their realizations to the intersection $U_i \cap U_j$ agree:
+\[
+\mathcal{F}(U_i)\big|_{U_i \cap U_j} = \mathcal{F}(U_j)\big|_{U_i \cap U_j}.
+\]
+When this compatibility condition holds for all pairs of overlapping tasks, the local sections can be glued together to produce a global section of $\mathcal{F}$, which represents the assembled production.
+
+In practice the compatibility condition may not hold automatically. An assembler reviewing submitted segments may find that two adjacent scenes use incompatible visual styles, that overlapping rhetorical segments attribute different stances to the same claim, or that parallel realizations of the same event are irreconcilable. The assembler's task in such cases is either to select one realization over the other—thereby resolving the branch—or to restructure the task boundaries so that the overlap is eliminated. Both operations correspond to modifications of the presheaf structure that restore the sheaf condition.
+
+The assembled production therefore corresponds to a global section of a sheaf on the semantic graph. This perspective reveals that the assembly process is not merely editorial but mathematical: it is the problem of finding a consistent global object from a collection of locally defined partial realizations.
+
+\section{The Pipeline as an Adjoint Chain}
+
+The complete Zebra pipeline can be summarized as a chain of categorical constructions:
+\[
+\mathcal{C}
+\;\xrightarrow{E}\;
+\mathcal{S}
+\;\xrightarrow{D}\;
+\mathcal{T}
+\;\xrightarrow{L}\;
+\mathcal{A}
+\]
+where $E$ is the extraction functor mapping corpora to semantic categories, $D$ is the task decomposition functor mapping semantic categories to task categories, and $L$ is the realization functor mapping tasks to media artifacts.
+
+The task decomposition functor $D$ admits an adjoint relationship with a reconstruction functor $R : \mathcal{T} \rightarrow \mathcal{S}$ that maps each task back to the semantic structures it was derived from:
+\[
+D \dashv R.
+\]
+This adjunction captures the dual nature of interpretation and production. The left adjoint $D$ decomposes semantic meaning into realizable components; the right adjoint $R$ reconstructs semantic meaning from the record of what was realized. The unit of the adjunction maps each semantic object to the semantic reconstruction of its decomposition: it measures the information preserved through the decompose-then-reconstruct cycle. The counit maps each task to the decomposition of its semantic reconstruction: it measures the structural faithfulness of the task representation to the semantic structure that generated it.
+
+The existence of this adjunction is not merely a formal observation. It has a practical implication: the reconstruction functor $R$ provides a mechanism for evaluating the semantic fidelity of a task graph. If the reconstruction of the task graph yields a semantic category that is isomorphic to the original semantic category, then the task decomposition has preserved the full structural content of the extraction. If the reconstruction yields a strictly smaller or differently structured category, then information has been lost or distorted in the decomposition stage.
+
+The assembly stage introduces a final categorical construction. The diagram of media realizations
+\[
+F : J \rightarrow \mathcal{A}
+\]
+indexed by the task dependency structure has a colimit that represents the assembled production:
+\[
+\mathrm{colim}\, F.
+\]
+The colimit is the universal object that integrates all compatible segments while respecting the dependency structure encoded in $J$. Its universal property ensures that any other integration of the same segments that respects the same dependencies factors through the colimit, which is the precise categorical sense in which the assembled production is the canonical integration of the distributed contributions.
+
+\section{Toward a Unified Semantic Production Framework}
+
+The foregoing analysis suggests that the Zebra system belongs to a broader class of infrastructures in which knowledge artifacts are treated as structured computational objects whose internal relations can be computed, transformed, and realized across multiple domains. Within such a framework documents, datasets, corpora, and repositories function not merely as containers of content but as semantic programs whose execution generates collaborative cultural production.
+
+The separation between semantic extraction, projection, task construction, and assembly allows each stage to evolve independently while remaining connected through well-defined functorial relationships. New projection types can be added without modifying the extraction stage; new assembly mechanisms can be introduced without altering the task graph structure; new contributor interfaces can be built on top of the task registry without changing the canonical graph schema. This modularity is not accidental but follows from the categorical structure of the pipeline, which enforces the separation of concerns through the discipline of functor composition.
+
+Several extensions of the framework are mathematically natural and practically significant. The fibered structure across corpora supports cross-document semantic inference: if two corpora share entities or events, their semantic categories can be related through base-change functors that transfer structural information between fibers. The sheaf-theoretic account of assembly supports consistency checking: the compatibility conditions that must hold for segments to be glued can be formalized as cocycle conditions on the presheaf, and violations can be detected and localized algorithmically. The adjoint structure of decomposition and reconstruction supports quality evaluation: the unit and counit of the adjunction provide functorial measures of semantic fidelity that can be computed at each stage of the pipeline.
+
+Beyond these technical extensions, the framework has implications for the theory of cultural production. The Zebra architecture dissolves the distinction between reader, analyst, and producer that organizes traditional media industries. Every participant in the system is simultaneously a reader—in the sense that their contribution is guided by the semantic structure extracted from the text—an analyst—in the sense that their task selection reflects an interpretation of what the text's structure requires—and a producer—in the sense that their submission realizes a portion of that structure in a specific medium. The coordination of these roles across a distributed network, guided by the bounty function and the task graph, constitutes a new form of collective interpretation in which the structural analysis of a text directly organizes the labor of its realization.
+
+\section{Future Directions}
+
+The Zebra architecture described in this essay should be understood as the first stage of a broader research program aimed at constructing a general semantic infrastructure for collaborative knowledge realization. Several directions of development follow naturally from the conceptual and mathematical framework presented here.
+
+One line of work concerns the extension of the canonical semantic graph beyond textual corpora. While the present implementation extracts semantic structures from written language, the same framework could be applied to multimodal corpora that include diagrams, code repositories, datasets, or audiovisual recordings. Each of these media forms already contains structured relational information that could be incorporated into the semantic graph through specialized extraction modules. A unified graph representing multiple media modalities would support projection operators that generate integrated explanations combining narrative, visual, and computational representations.
+
+A second direction concerns the refinement of the projection layer. At present, projections are defined as deterministic transformations that interpret the canonical graph within different representational domains. Future work could explore families of projection operators parameterized by stylistic or epistemic constraints. For example, a narrative projection might vary along axes such as historical realism, speculative interpretation, or pedagogical clarity. A diagrammatic projection might optimize for cognitive efficiency, aesthetic minimalism, or structural completeness. Formalizing these variations as parameterized functors would allow contributors to explore controlled families of interpretations while preserving the structural consistency of the underlying graph.
+
+Another promising direction involves the integration of simulation and generative modeling within the projection layer. Many texts implicitly describe dynamic systems, whether social, historical, or physical. When the canonical semantic graph encodes the relevant transformations and causal relations, it becomes possible to construct executable simulations that evolve the system forward in time. Such simulations would constitute a new class of projection in which the semantic graph functions not merely as a representation but as a program specifying the behavior of a modeled system.
+
+The distributed production architecture itself also invites further development. The current agent-based task selection mechanism matches tasks to contributors based on computational resources and inferred topical interests. Future research could extend this mechanism by incorporating richer models of contributor expertise, collaboration patterns, and stylistic compatibility. Such models could help coordinate large networks of contributors working on complex productions without requiring centralized editorial control.
+
+Another important direction concerns the interoperability of semantic infrastructures across repositories. If multiple corpora are represented as fibers of a single semantic infrastructure, then cross-corpus reasoning becomes possible. Entities, events, and claims appearing in different texts could be linked through shared semantic identifiers, allowing projection operators to generate comparative analyses or integrative narratives that draw on multiple sources simultaneously. In this setting the fibered category structure described earlier would support the transfer of semantic information between corpora through functorial mappings.
+
+Finally, the theoretical framework underlying Zebra suggests a broader reconsideration of the relationship between interpretation and production. In conventional media systems the analysis of a text and the production of its adaptations are separate activities carried out by different institutions. The architecture proposed here collapses this separation by allowing the semantic analysis of a corpus to directly generate the structure of a collaborative production network. Future work may explore how such architectures could support new forms of scholarly communication, educational production, and collective authorship in which interpretation and realization become phases of the same distributed process.
+
+These directions do not represent incremental extensions of the current system but rather stages in the development of a more general infrastructure for the collaborative realization of structured knowledge. The Zebra architecture provides an initial demonstration that such an infrastructure is technically feasible and conceptually coherent. Further research will determine how far this paradigm can be extended across domains of cultural and scientific production.
+
+\section{Conclusion}
+
+The Zebra framework reframes the relationship between written language and media production by treating texts as structured constraint systems whose latent semantic content can be extracted, projected into multiple representational domains, decomposed into collaborative production tasks, and assembled into coherent global artifacts through a sheaf-like gluing process. The categorical structure underlying the system—extraction as a functor from corpora to semantic categories, projections as functors from semantic categories to media categories, task decomposition and reconstruction as an adjoint pair, assembly as a colimit construction—provides a rigorous foundation for each stage of the pipeline and for the relationships between stages.
+
+The preservation of ambiguity as a first-class structural element, rather than an obstacle to be eliminated, reflects the theoretical commitment that the dynamics of constraint resolution constitute a central feature of textual meaning. The deferred denouement of a text is not merely a literary technique but a structural property of the constraint propagation process: the system reaches a stable configuration only when accumulated constraints are sufficient to determine a coherent global section of the presheaf of realizations.
+
+In the broadest sense the Zebra architecture proposes that texts are executable programs. The canonical semantic graph is the program's compiled representation; the projection functors are its type-checking and compilation stages; the task network is its execution plan; and the assembled production is the output of its distributed execution across a network of contributors. This perspective does not diminish the humanistic significance of texts—it does not reduce reading to computation—but it suggests that the computational structure of textual interpretation, made explicit and machine-readable, can support a new form of collaborative cultural production whose scale and structural fidelity exceed what any single interpreter or production team could achieve.
+
+\newpage
+\section*{Appendices}
+
+\appendix
+
+\section{Adjoint Structure of the Zebra Pipeline}
+
+This appendix collects the categorical constructions described in the body of the essay and presents them in a unified notation.
+
+The starting point is the corpus category $\mathcal{C}$ whose objects are textual corpora and whose morphisms represent transformations including inclusion, revision, and aggregation. The extraction functor
+\[
+E : \mathcal{C} \rightarrow \mathbf{Cat}
+\]
+assigns to each corpus $T$ its semantic category $\mathcal{S}_T$. The total category of semantic structures is the Grothendieck construction of $E$, which defines the fibered category $\pi : \mathcal{S} \rightarrow \mathcal{C}$.
+
+Projection functors for each medium $\mathcal{M}_i$ are defined fiber-wise as
+\[
+F_i : \mathcal{S}_T \rightarrow \mathcal{M}_i
+\]
+and globally as sections $\sigma_i : \mathcal{C} \rightarrow \mathcal{M}_i$ satisfying $F_i = \sigma_i \circ \pi$.
+
+The task decomposition functor
+\[
+D : \mathcal{S}_T \rightarrow \mathcal{T}
+\]
+has a right adjoint $R : \mathcal{T} \rightarrow \mathcal{S}_T$ satisfying $D \dashv R$. The unit $\eta : \mathrm{Id}_{\mathcal{S}_T} \Rightarrow R \circ D$ measures semantic preservation under decomposition, and the counit $\varepsilon : D \circ R \Rightarrow \mathrm{Id}_\mathcal{T}$ measures task faithfulness to the semantic structure from which tasks were derived.
+
+The realization functor
+\[
+L : \mathcal{T} \rightarrow \mathcal{A}
+\]
+maps tasks to media artifacts, and the assembled production is the colimit
+\[
+\mathrm{colim}\bigl(L \circ D\bigr)
+\]
+taken over the indexing category $J$ induced by the task dependency structure.
+
+The presheaf of realizations $\mathcal{F} : \mathcal{O}(G)^\mathrm{op} \rightarrow \mathbf{Set}$ assigns to each open subgraph of the canonical graph the set of media segments produced for that subgraph. The assembly condition requires $\mathcal{F}$ to satisfy the sheaf gluing axioms over the covering of $G$ by task subgraphs. The assembled production is the global section $\Gamma(G, \mathcal{F})$ when the sheaf condition is met.
+
+The complete pipeline is summarized by the diagram:
+\[
+\mathcal{C}
+\;\xrightarrow{E}\;
+\mathcal{S}
+\;\xrightarrow{D}\;
+\mathcal{T}
+\;\xrightarrow{L}\;
+\mathcal{A}
+\]
+with projection sections $\sigma_i : \mathcal{C} \rightarrow \mathcal{M}_i$ branching from the $\mathcal{S}$ stage.
+
+\newpage
+\begin{thebibliography}{99}
+
+\bibitem{abiteboul2011}
+Serge Abiteboul, Ioana Manolescu, and Philippe Rigaux.
+\textit{Web Data Management}.
+Cambridge University Press, 2011.
+
+\bibitem{akman2004}
+Varol Akman.
+Situations, context, and reasoning.
+\textit{Artificial Intelligence Review}, 2004.
+
+\bibitem{allen1983}
+James Allen.
+Maintaining knowledge about temporal intervals.
+\textit{Communications of the ACM}, 1983.
+
+\bibitem{awodey2010}
+Steve Awodey.
+\textit{Category Theory}.
+Oxford University Press, 2010.
+
+\bibitem{barwise1983}
+Jon Barwise and John Perry.
+\textit{Situations and Attitudes}.
+MIT Press, 1983.
+
+\bibitem{barthelemy2011}
+Marc Barthélemy.
+Spatial networks.
+\textit{Physics Reports}, 2011.
+
+\bibitem{benabou1967}
+Jean Bénabou.
+Introduction to bicategories.
+\textit{Reports of the Midwest Category Seminar}, 1967.
+
+\bibitem{benedikt1991}
+Michael Benedikt.
+\textit{Cyberspace: First Steps}.
+MIT Press, 1991.
+
+\bibitem{bernerslee2001}
+Tim Berners-Lee, James Hendler, and Ora Lassila.
+The Semantic Web.
+\textit{Scientific American}, 2001.
+
+\bibitem{bizer2009}
+Christian Bizer, Tom Heath, and Tim Berners-Lee.
+Linked Data: The story so far.
+\textit{International Journal on Semantic Web and Information Systems}, 2009.
+
+\bibitem{blackburn2001}
+Patrick Blackburn and Johan Bos.
+\textit{Representation and Inference for Natural Language}.
+CSLI Publications, 2001.
+
+\bibitem{borgatti2009}
+Stephen Borgatti et al.
+Network analysis in the social sciences.
+\textit{Science}, 2009.
+
+\bibitem{campbell2019}
+Joseph Campbell.
+\textit{The Hero with a Thousand Faces}.
+New World Library, 2019.
+
+\bibitem{curry2012}
+Justin Curry.
+Sheaves, cosheaves, and applications.
+\textit{arXiv preprint}, 2012.
+
+\bibitem{deboer2023}
+Victor de Boer et al.
+Knowledge graphs for cultural heritage.
+\textit{Semantic Web Journal}, 2023.
+
+\bibitem{debord1967}
+Guy Debord.
+\textit{The Society of the Spectacle}.
+Buchet-Chastel, 1967.
+
+\bibitem{fagin2003}
+Ronald Fagin, Joseph Halpern, Yoram Moses, and Moshe Vardi.
+\textit{Reasoning About Knowledge}.
+MIT Press, 2003.
+
+\bibitem{floridi2014}
+Luciano Floridi.
+\textit{The Fourth Revolution: How the Infosphere is Reshaping Human Reality}.
+Oxford University Press, 2014.
+
+\bibitem{fong2019}
+Brendan Fong and David Spivak.
+\textit{Seven Sketches in Compositionality: An Invitation to Applied Category Theory}.
+MIT Press, 2019.
+
+\bibitem{garlan2000}
+David Garlan and Mary Shaw.
+Software architecture: Perspectives on an emerging discipline.
+Prentice Hall, 2000.
+
+\bibitem{gelfand1994}
+Sergei Gelfand and Yuri Manin.
+\textit{Methods of Homological Algebra}.
+Springer, 1994.
+
+\bibitem{ghani2018}
+Neil Ghani, Jules Hedges, Viktor Winschel.
+Compositional game theory.
+\textit{Proceedings of LICS}, 2018.
+
+\bibitem{grothendieck1972}
+Alexander Grothendieck.
+\textit{Revêtements Étales et Groupe Fondamental}.
+Springer Lecture Notes in Mathematics, 1972.
+
+\bibitem{gurevich1995}
+Yuri Gurevich.
+Evolving algebras 1993: Lipari guide.
+\textit{Specification and Validation Methods}, Oxford University Press, 1995.
+
+\bibitem{hendler2010}
+James Hendler and Deborah McGuinness.
+The DARPA Agent Markup Language.
+\textit{IEEE Intelligent Systems}, 2010.
+
+\bibitem{jacobs1999}
+Bart Jacobs.
+\textit{Categorical Logic and Type Theory}.
+Elsevier, 1999.
+
+\bibitem{jurafsky2023}
+Daniel Jurafsky and James H. Martin.
+\textit{Speech and Language Processing}.
+Draft edition, Stanford University, 2023.
+
+\bibitem{kahneman2011}
+Daniel Kahneman.
+\textit{Thinking, Fast and Slow}.
+Farrar, Straus and Giroux, 2011.
+
+\bibitem{kamp1993}
+Hans Kamp and Uwe Reyle.
+\textit{From Discourse to Logic}.
+Kluwer Academic Publishers, 1993.
+
+\bibitem{kitchin2014}
+Rob Kitchin.
+\textit{The Data Revolution}.
+Sage Publications, 2014.
+
+\bibitem{kleinberg1999}
+Jon Kleinberg.
+Authoritative sources in a hyperlinked environment.
+\textit{Journal of the ACM}, 1999.
+
+\bibitem{kripke1980}
+Saul Kripke.
+\textit{Naming and Necessity}.
+Harvard University Press, 1980.
+
+\bibitem{lakoff1987}
+George Lakoff.
+\textit{Women, Fire, and Dangerous Things}.
+University of Chicago Press, 1987.
+
+\bibitem{latour2005}
+Bruno Latour.
+\textit{Reassembling the Social: An Introduction to Actor-Network-Theory}.
+Oxford University Press, 2005.
+
+\bibitem{lawvere2003}
+F. William Lawvere and Stephen Schanuel.
+\textit{Conceptual Mathematics: A First Introduction to Categories}.
+Cambridge University Press, 2003.
+
+\bibitem{levy2007}
+Pierre Lévy.
+\textit{Collective Intelligence}.
+Plenum Press, 2007.
+
+\bibitem{lynch2008}
+Clifford Lynch.
+Big data and digital libraries.
+\textit{Nature}, 2008.
+
+\bibitem{maclane1998}
+Saunders Mac Lane.
+\textit{Categories for the Working Mathematician}.
+Springer, 2nd edition, 1998.
+
+\bibitem{mccarthy1990}
+John McCarthy.
+Formalizing common sense.
+\textit{Artificial Intelligence}, 1990.
+
+\bibitem{mikolov2013}
+Tomas Mikolov et al.
+Efficient estimation of word representations in vector space.
+\textit{arXiv preprint}, 2013.
+
+\bibitem{miller1995}
+George Miller.
+WordNet: A lexical database for English.
+\textit{Communications of the ACM}, 1995.
+
+\bibitem{milner1999}
+Robin Milner.
+\textit{Communicating and Mobile Systems: The Pi-Calculus}.
+Cambridge University Press, 1999.
+
+\bibitem{newman2010}
+Mark Newman.
+\textit{Networks: An Introduction}.
+Oxford University Press, 2010.
+
+\bibitem{ng2012}
+Andrew Ng.
+Machine learning and AI infrastructure.
+\textit{Stanford AI Reports}, 2012.
+
+\bibitem{pearl2009}
+Judea Pearl.
+\textit{Causality: Models, Reasoning, and Inference}.
+Cambridge University Press, 2nd edition, 2009.
+
+\bibitem{shannon1948}
+Claude Shannon.
+A mathematical theory of communication.
+\textit{Bell System Technical Journal}, 1948.
+
+\bibitem{shieber1986}
+Stuart Shieber.
+\textit{An Introduction to Unification-Based Approaches to Grammar}.
+CSLI Publications, 1986.
+
+\bibitem{sporns2011}
+Olaf Sporns.
+\textit{Networks of the Brain}.
+MIT Press, 2011.
+
+\bibitem{spivak2014}
+David I. Spivak.
+\textit{Category Theory for the Sciences}.
+MIT Press, 2014.
+
+\bibitem{tenenbaum2011}
+Joshua Tenenbaum et al.
+How to grow a mind.
+\textit{Science}, 2011.
+
+\bibitem{vanbenthem2008}
+Johan van Benthem.
+\textit{Logical Dynamics of Information and Interaction}.
+Cambridge University Press, 2008.
+
+\bibitem{vardi2012}
+Moshe Vardi.
+The semantic web revisited.
+\textit{Communications of the ACM}, 2012.
+
+\bibitem{vigna2017}
+Sebastiano Vigna.
+HyperLogLog in practice.
+\textit{Proceedings of the 16th International Conference on World Wide Web}, 2017.
+
+\bibitem{vygotsky1978}
+Lev Vygotsky.
+\textit{Mind in Society}.
+Harvard University Press, 1978.
+
+\bibitem{weaver1949}
+Warren Weaver.
+Recent contributions to the mathematical theory of communication.
+University of Illinois Press, 1949.
+
+\bibitem{whitehead1929}
+Alfred North Whitehead.
+\textit{Process and Reality}.
+Macmillan, 1929.
+
+\bibitem{wickham2016}
+Hadley Wickham.
+\textit{ggplot2: Elegant Graphics for Data Analysis}.
+Springer, 2016.
+
+\bibitem{wilensky1983}
+Robert Wilensky.
+Planning and understanding.
+\textit{Artificial Intelligence}, 1983.
+
+\bibitem{wilson2002}
+Robert Wilson and Frank Keil.
+\textit{The MIT Encyclopedia of the Cognitive Sciences}.
+MIT Press, 2002.
+
+\bibitem{zadeh1965}
+Lotfi Zadeh.
+Fuzzy sets.
+\textit{Information and Control}, 1965.
+
+\end{thebibliography}
+
+\end{document}

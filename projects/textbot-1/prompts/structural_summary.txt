@@ -1,0 +1,50 @@
+Produce a minimal logical and structural summary of the text.
+
+Return JSON with this schema:
+{
+  "category": "structural_summary",
+  "premises": [
+    {
+      "id": "",
+      "text": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "definitions": [
+    {
+      "term": "",
+      "definition": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "contradictions": [
+    {
+      "a": "",
+      "b": "",
+      "nature": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "resolutions": [
+    {
+      "contradiction_id": "",
+      "resolution": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "open_variables": [
+    {
+      "label": "",
+      "description": "",
+      "explicit_textual_basis": []
+    }
+  ],
+  "central_argument": "",
+  "notes": []
+}
+
+Rules:
+- Be maximally sparse. Prefer fewer, more precise entries over many vague ones.
+- Only record contradictions that are genuinely present or acknowledged in the text.
+- Open variables are things the text explicitly leaves unresolved.
+- Return JSON only.

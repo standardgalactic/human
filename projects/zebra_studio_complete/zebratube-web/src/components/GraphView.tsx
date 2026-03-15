@@ -1,0 +1,1 @@
+export default function GraphView(){ return <div className="card">Graph view placeholder.</div> }

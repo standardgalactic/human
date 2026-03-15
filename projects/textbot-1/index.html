@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Project Generator</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Courier New', monospace;
+  background: #0a0a0f;
+  color: #c8ffc8;
+  min-height: 100vh;
+  padding: 48px 32px;
+}
+
+h1 {
+  font-size: 1.1rem;
+  letter-spacing: 0.2em;
+  color: #88ffaa;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 0.75rem;
+  color: #446644;
+  margin-bottom: 40px;
+  letter-spacing: 0.1em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 16px;
+  margin-bottom: 40px;
+}
+
+.card {
+  border: 1px solid #1a3a1a;
+  padding: 16px 20px;
+  background: #060f06;
+  transition: border-color 0.2s;
+}
+
+.card:hover { border-color: #00ff88; }
+
+.card-index {
+  font-size: 0.65rem;
+  color: #336633;
+  letter-spacing: 0.15em;
+  margin-bottom: 10px;
+}
+
+.card-text {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: #aaffcc;
+}
+
+.card-verb   { color: #ffdd88; }
+.card-object { color: #88ddff; }
+.card-tech   { color: #ff88cc; }
+.card-domain { color: #aaffaa; }
+.card-frame  { color: #336633; font-size: 0.75rem; }
+
+.controls {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+button {
+  padding: 8px 20px;
+  background: transparent;
+  color: #00ff88;
+  border: 1px solid #00ff88;
+  font-family: inherit;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background 0.15s;
+}
+
+button:hover { background: #001a00; }
+
+.seed-display {
+  font-size: 0.65rem;
+  color: #336633;
+  letter-spacing: 0.05em;
+}
+
+.count-select {
+  background: transparent;
+  color: #00ff88;
+  border: 1px solid #336633;
+  font-family: inherit;
+  font-size: 0.8rem;
+  padding: 7px 10px;
+  cursor: pointer;
+}
+
+.count-select option { background: #0a0a0f; }
+</style>
+</head>
+<body>
+
+<h1>Project Generator</h1>
+<p class="subtitle">deterministic · combinatorial · structural</p>
+
+<div class="grid" id="grid"></div>
+
+<div class="controls">
+  <button onclick="reset()">New Assignment</button>
+  <select class="count-select" id="countSelect" onchange="render()">
+    <option value="6">6 projects</option>
+    <option value="8" selected>8 projects</option>
+    <option value="12">12 projects</option>
+    <option value="16">16 projects</option>
+  </select>
+  <span class="seed-display" id="seedDisplay"></span>
+</div>
+
+<script>
+const VERBS = [
+  "build","design","simulate","visualize","analyze",
+  "generate","map","construct","model","formalize",
+  "implement","derive","extend","compress","encode"
+];
+
+const OBJECTS = [
+  "a semantic constraint graph",
+  "a narrative diffusion field",
+  "a typed relational schema",
+  "an ambiguity collapse visualizer",
+  "a rhetorical structure map",
+  "a causal timeline extractor",
+  "a character state network",
+  "a conceptual topology viewer",
+  "a symbolic reasoning engine",
+  "a semantic clustering system",
+  "a constraint propagation simulator",
+  "an interpretation space renderer",
+  "a text-to-graph parser",
+  "a projection functor library",
+  "a deferred-denouement tracker"
+];
+
+const TECHNIQUES = [
+  "using typed graph algorithms",
+  "via constraint propagation",
+  "through embedding spaces",
+  "with categorical structure",
+  "using probabilistic inference",
+  "via dynamic simulation",
+  "through compositional semantics",
+  "using sheaf-theoretic methods",
+  "via information-geometric flow",
+  "through entropy reduction",
+  "using monoidal categories",
+  "via rewriting systems",
+  "through spectral decomposition",
+  "using diffusion processes",
+  "via Bayesian constraint nets"
+];
+
+const DOMAINS = [
+  "for literary texts",
+  "for philosophical essays",
+  "for scientific abstracts",
+  "for political speeches",
+  "for mathematical arguments",
+  "for historical narratives",
+  "for research notes",
+  "for technical documentation",
+  "for legal reasoning",
+  "for dialogue transcripts",
+  "for speculative fiction",
+  "for critical theory",
+  "for experimental prose",
+  "for annotated corpora",
+  "for multilingual texts"
+];
+
+const FRAMEWORKS = [
+  "| RSVP substrate",
+  "| Spherepop events",
+  "| TARTAN tiling",
+  "| category theory",
+  "| information geometry",
+  "| dynamical systems",
+  "| formal grammars",
+  "| sheaf theory",
+  "| entropy bounds",
+  "| traced monoidal cats"
+];
+
+function getSeed() {
+  let s = localStorage.getItem("pgSeed");
+  if (!s) { s = crypto.randomUUID(); localStorage.setItem("pgSeed", s); }
+  return s;
+}
+
+function hash(str) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return h >>> 0;
+}
+
+function pick(arr, h, offset) {
+  return arr[((h >>> 0) + offset * 2654435761) % arr.length];
+}
+
+function makeProject(seed, i) {
+  const h = hash(seed + i);
+  return {
+    verb:      pick(VERBS,       h, i),
+    object:    pick(OBJECTS,     h, i + 100),
+    technique: pick(TECHNIQUES,  h, i + 200),
+    domain:    pick(DOMAINS,     h, i + 300),
+    framework: pick(FRAMEWORKS,  h, i + 400)
+  };
+}
+
+function render() {
+  const seed  = getSeed();
+  const count = parseInt(document.getElementById("countSelect").value);
+  const grid  = document.getElementById("grid");
+
+  document.getElementById("seedDisplay").textContent =
+    "seed: " + seed.slice(0, 8) + "…";
+
+  grid.innerHTML = "";
+
+  for (let i = 0; i < count; i++) {
+    const p = makeProject(seed, i);
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="card-index">PROJECT ${String(i + 1).padStart(2,"0")}</div>
+      <div class="card-text">
+        <span class="card-verb">${p.verb}</span>
+        <span class="card-object"> ${p.object}</span>
+        <span class="card-tech"> ${p.technique}</span>
+        <span class="card-domain"> ${p.domain}</span>
+        <span class="card-frame"> ${p.framework}</span>
+      </div>`;
+    grid.appendChild(card);
+  }
+}
+
+function reset() {
+  localStorage.removeItem("pgSeed");
+  location.reload();
+}
+
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,627 @@
+#!/usr/bin/env python3
+"""
+zebra — text physics engine CLI
+
+Usage:
+    zebra extract <file>                     canonical extraction + graph build
+    zebra project <name> [--stem STEM]       build one projection from graph
+    zebra project all    [--stem STEM]       build all ten projections
+    zebra render  <name> [--stem STEM]       render one output
+    zebra render  all    [--stem STEM]       render all outputs
+    zebra simulate constraints [--stem STEM] run constraint propagation simulator
+    zebra crawl <repo_dir>     [--stem STEM]            crawl repo + build corpus graph
+    zebra wiki                 [--stem STEM] [--title T] generate Zebrapedia static site
+    zebra search <query>       [--stem STEM] [--mode M]  search the corpus graph
+    zebra diff <before> <after>                           diff two graphs
+    zebra person               [--stem STEM]             build longitudinal person graph
+    zebra serve                [--stem STEM] [--port N]  start dev server with live reload
+
+Options:
+    --stem STEM     override the stem derived from the input filename
+    --model MODEL   Ollama model name (default: granite4)
+    --help          show this message
+
+Examples:
+    zebra extract essay.txt
+    zebra project ambiguity
+    zebra project ambiguity --stem essay
+    zebra render diffusion
+    zebra render all --stem essay
+    zebra simulate constraints
+    zebra simulate constraints --stem essay
+
+Projection names (short aliases accepted):
+    narrative     → narrative_film
+    diagram       → diagrammatic_structure
+    ambiguity     → ambiguity_diffusion
+    rhetoric      → rhetorical_voice
+    concepts      → concept_map
+    procedural    → procedural_transform
+    timeline      → timeline_causality
+    characters    → character_state
+    sonic         → sonic_mapping
+    summary       → structural_summary
+
+Render names (short aliases accepted):
+    diagram       → diagrammatic_structure
+    diffusion     → ambiguity_diffusion
+    concept       → concept_diffusion
+    constraints   → constraint_dynamics
+    timeline      → timeline_causality
+    characters    → character_state
+    sonic         → sonic_mapping
+    film          → narrative_film
+    summary       → structural_summary
+"""
+
+import argparse
+import json
+import os
+import subprocess
+import sys
+from pathlib import Path
+
+# ── locate repo root (directory containing this script) ──────────────────────
+ROOT = Path(__file__).resolve().parent
+
+# ── name resolution tables ───────────────────────────────────────────────────
+PROJECTION_ALIASES = {
+    "narrative":   "narrative_film",
+    "film":        "narrative_film",
+    "diagram":     "diagrammatic_structure",
+    "diagrammatic":"diagrammatic_structure",
+    "ambiguity":   "ambiguity_diffusion",
+    "diffusion":   "ambiguity_diffusion",
+    "rhetoric":    "rhetorical_voice",
+    "rhetorical":  "rhetorical_voice",
+    "voice":       "rhetorical_voice",
+    "concepts":    "concept_map",
+    "concept":     "concept_map",
+    "procedural":  "procedural_transform",
+    "transform":   "procedural_transform",
+    "timeline":    "timeline_causality",
+    "causality":   "timeline_causality",
+    "characters":  "character_state",
+    "character":   "character_state",
+    "sonic":       "sonic_mapping",
+    "sound":       "sonic_mapping",
+    "summary":     "structural_summary",
+    "structural":  "structural_summary",
+}
+
+RENDER_ALIASES = {
+    "diagram":      "diagrammatic_structure",
+    "diagrammatic": "diagrammatic_structure",
+    "diffusion":    "ambiguity_diffusion",
+    "ambiguity":    "ambiguity_diffusion",
+    "concept":      "concept_diffusion",
+    "concepts":     "concept_diffusion",
+    "constraints":  "constraint_dynamics",
+    "constraint":   "constraint_dynamics",
+    "dynamics":     "constraint_dynamics",
+    "timeline":     "timeline_causality",
+    "causality":    "timeline_causality",
+    "characters":   "character_state",
+    "character":    "character_state",
+    "sonic":        "sonic_mapping",
+    "sound":        "sonic_mapping",
+    "film":         "narrative_film",
+    "narrative":    "narrative_film",
+    "summary":      "structural_summary",
+    "structural":   "structural_summary",
+}
+
+ALL_PROJECTIONS = [
+    "narrative_film",
+    "diagrammatic_structure",
+    "ambiguity_diffusion",
+    "rhetorical_voice",
+    "concept_map",
+    "procedural_transform",
+    "timeline_causality",
+    "character_state",
+    "sonic_mapping",
+    "structural_summary",
+]
+
+ALL_RENDERS = [
+    "diagrammatic_structure",
+    "ambiguity_diffusion",
+    "concept_diffusion",
+    "constraint_dynamics",
+    "timeline_causality",
+    "character_state",
+    "sonic_mapping",
+    "narrative_film",
+    "structural_summary",
+]
+
+# ── helpers ───────────────────────────────────────────────────────────────────
+
+def resolve(name: str, table: dict, kind: str) -> str:
+    """Resolve an alias or full name; exit with helpful message on failure."""
+    if name in table:
+        return table[name]
+    full_names = set(table.values())
+    if name in full_names:
+        return name
+    print(f"zebra: unknown {kind} '{name}'")
+    print(f"  known names: {', '.join(sorted(set(table.keys())))}")
+    sys.exit(1)
+
+
+def stem_from_file(path: str) -> str:
+    return Path(path).stem
+
+
+def latest_stem() -> str:
+    """Return the most recently modified stem under data/canonical/."""
+    canon_dir = ROOT / "data" / "canonical"
+    if not canon_dir.exists():
+        print("zebra: no canonical data found — run 'zebra extract <file>' first")
+        sys.exit(1)
+    stems = sorted(canon_dir.iterdir(), key=lambda p: p.stat().st_mtime, reverse=True)
+    stems = [s for s in stems if s.is_dir() and (s / "graph.json").exists()]
+    if not stems:
+        print("zebra: no graph.json found — run 'zebra extract <file>' first")
+        sys.exit(1)
+    return stems[0].name
+
+
+def graph_path(stem: str) -> Path:
+    p = ROOT / "data" / "canonical" / stem / "graph.json"
+    if not p.exists():
+        print(f"zebra: graph not found at {p}")
+        print(f"  run: zebra extract <file>")
+        sys.exit(1)
+    return p
+
+
+def projection_path(stem: str, proj: str) -> Path:
+    return ROOT / "data" / "projections" / stem / f"{proj}.json"
+
+
+def run(cmd: list, **kwargs):
+    """Run a subprocess, streaming output, exit on failure."""
+    result = subprocess.run(cmd, **kwargs)
+    if result.returncode != 0:
+        sys.exit(result.returncode)
+
+
+def python(script: Path, *args):
+    run([sys.executable, str(script)] + list(args))
+
+
+# ── verb implementations ──────────────────────────────────────────────────────
+
+def cmd_extract(args):
+    """zebra extract <file>"""
+    if not args.target:
+        print("zebra extract: file argument required")
+        sys.exit(1)
+
+    input_file = Path(args.target)
+    if not input_file.exists():
+        print(f"zebra: file not found: {input_file}")
+        sys.exit(1)
+
+    stem = stem_from_file(str(input_file))
+    model = args.model or os.environ.get("MODEL", "granite4")
+
+    print(f"zebra extract  →  {input_file}  (model={model}, stem={stem})")
+
+    # 1. chunk
+    chunk_dir = ROOT / "data" / "chunks" / stem
+    chunk_dir.mkdir(parents=True, exist_ok=True)
+    python(ROOT / "src" / "chunk_text.py", str(input_file), str(chunk_dir))
+
+    # 2. per-chunk LLM analysis
+    analysis_dir = ROOT / "data" / "analyses" / stem
+    analysis_dir.mkdir(parents=True, exist_ok=True)
+    prompt_file = ROOT / "prompts" / "canonical_extract.txt"
+
+    chunk_files = sorted(chunk_dir.glob("chunk_*.txt"))
+    if not chunk_files:
+        print("zebra: no chunks produced — is the file empty?")
+        sys.exit(1)
+
+    for chunk_file in chunk_files:
+        name = chunk_file.stem
+        out_file = analysis_dir / f"canonical_extract_{name}.json"
+        if out_file.exists():
+            print(f"  skip (cached): {out_file.name}")
+            continue
+        print(f"  analyzing: {chunk_file.name}")
+        python(
+            ROOT / "src" / "call_ollama.py",
+            "--model", model,
+            "--prompt-file", str(prompt_file),
+            "--input-file", str(chunk_file),
+            "--output-file", str(out_file),
+        )
+
+    # 3. merge
+    canonical_dir = ROOT / "data" / "canonical" / stem
+    canonical_dir.mkdir(parents=True, exist_ok=True)
+    graph_out = canonical_dir / "graph.json"
+    python(
+        ROOT / "src" / "build_canonical_graph.py",
+        "--input-dir", str(analysis_dir),
+        "--output-file", str(graph_out),
+    )
+    python(ROOT / "src" / "validate_json.py", str(graph_out))
+    print(f"\nzebra: graph written → {graph_out}")
+
+
+def cmd_project(args):
+    """zebra project <name|all> [--stem STEM]"""
+    if not args.target:
+        print("zebra project: projection name required")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+    gpath = graph_path(stem)
+    proj_dir = ROOT / "data" / "projections" / stem
+    proj_dir.mkdir(parents=True, exist_ok=True)
+
+    names = ALL_PROJECTIONS if args.target == "all" else [
+        resolve(args.target, PROJECTION_ALIASES, "projection")
+    ]
+
+    for name in names:
+        script = ROOT / "projections" / f"build_{name}.py"
+        if not script.exists():
+            print(f"zebra: projection script not found: {script}")
+            continue
+        out = proj_dir / f"{name}.json"
+        print(f"zebra project  {name}  →  {out}")
+        with open(out, "w") as f:
+            run([sys.executable, str(script), str(gpath)], stdout=f)
+        python(ROOT / "src" / "validate_json.py", str(out))
+
+
+def cmd_render(args):
+    """zebra render <name|all> [--stem STEM]"""
+    if not args.target:
+        print("zebra render: renderer name required")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+    gpath = graph_path(stem)
+    proj_dir = ROOT / "data" / "projections" / stem
+
+    (ROOT / "data" / "videos").mkdir(parents=True, exist_ok=True)
+    (ROOT / "data" / "frames").mkdir(parents=True, exist_ok=True)
+
+    names = ALL_RENDERS if args.target == "all" else [
+        resolve(args.target, RENDER_ALIASES, "renderer")
+    ]
+
+    for name in names:
+        script = ROOT / "render" / f"render_{name}.py"
+        if not script.exists():
+            print(f"zebra: render script not found: {script}")
+            continue
+
+        # constraint_dynamics takes the canonical graph directly
+        if name == "constraint_dynamics":
+            input_arg = str(gpath)
+        else:
+            input_arg = str(proj_dir / f"{name}.json")
+            if not Path(input_arg).exists():
+                # attempt to auto-build the matching projection first
+                proj_name = name  # render name matches projection name for most
+                proj_script = ROOT / "projections" / f"build_{proj_name}.py"
+                if proj_script.exists():
+                    print(f"  auto-building projection: {proj_name}")
+                    out = proj_dir / f"{proj_name}.json"
+                    proj_dir.mkdir(parents=True, exist_ok=True)
+                    with open(out, "w") as f:
+                        run([sys.executable, str(proj_script), str(gpath)], stdout=f)
+                else:
+                    print(f"  skip (no projection JSON): {input_arg}")
+                    continue
+
+        print(f"zebra render   {name}  →  data/videos/")
+        python(script, input_arg)
+
+
+def cmd_simulate(args):
+    """zebra simulate constraints [--stem STEM]"""
+    if not args.target or args.target not in ("constraints", "constraint"):
+        print("zebra simulate: mode required — currently only 'constraints' is supported")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+    gpath = graph_path(stem)
+    out = ROOT / "data" / "projections" / stem / "constraint_dynamics.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+
+    print(f"zebra simulate constraints  →  {out}")
+    with open(out, "w") as f:
+        run([sys.executable, str(ROOT / "src" / "constraint_simulator.py"), str(gpath)],
+            stdout=f)
+    python(ROOT / "src" / "validate_json.py", str(out))
+
+    # Offer to render immediately
+    render_script = ROOT / "render" / "render_constraint_dynamics.py"
+    if render_script.exists():
+        print("  rendering constraint dynamics…")
+        (ROOT / "data" / "videos").mkdir(parents=True, exist_ok=True)
+        (ROOT / "data" / "frames").mkdir(parents=True, exist_ok=True)
+        python(render_script, str(gpath))
+
+
+def cmd_crawl(args):
+    """zebra crawl <repo_dir> [--stem STEM]"""
+    if not args.target:
+        print("zebra crawl: repo directory required")
+        sys.exit(1)
+
+    repo_dir = Path(args.target).resolve()
+    if not repo_dir.is_dir():
+        print(f"zebra: not a directory: {repo_dir}")
+        sys.exit(1)
+
+    stem  = args.stem or repo_dir.name
+    model = args.model or os.environ.get("MODEL", "granite4")
+    wiki_dir = ROOT / "data" / "wiki" / stem
+
+    print(f"zebra crawl  →  {repo_dir}  (stem={stem})")
+
+    # 1. Crawl and collect documents
+    python(ROOT / "src" / "crawl_repo.py", str(repo_dir), str(wiki_dir), "--stem", stem)
+
+    manifest_path = wiki_dir / "manifest.json"
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    docs = manifest["documents"]
+    print(f"  {len(docs)} documents collected")
+
+    # 2. Canonical extraction for each document
+    analyses_dir = wiki_dir / "analyses"
+    analyses_dir.mkdir(parents=True, exist_ok=True)
+    prompt_file  = ROOT / "prompts" / "canonical_extract.txt"
+
+    for doc in docs:
+        doc_file = wiki_dir / doc["doc_file"]
+        doc_slug = doc["slug"]
+
+        # Chunk the document
+        chunk_dir = wiki_dir / "chunks" / doc_slug
+        chunk_dir.mkdir(parents=True, exist_ok=True)
+        python(ROOT / "src" / "chunk_text.py", str(doc_file), str(chunk_dir))
+
+        for chunk in sorted(chunk_dir.glob("chunk_*.txt")):
+            chunk_name = chunk.stem
+            out_file = analyses_dir / f"canonical_extract_{doc_slug}_{chunk_name}.json"
+            if out_file.exists():
+                continue
+            python(
+                ROOT / "src" / "call_ollama.py",
+                "--model", model,
+                "--prompt-file", str(prompt_file),
+                "--input-file",  str(chunk),
+                "--output-file", str(out_file),
+            )
+
+    # 3. Build corpus graph
+    corpus_graph_path = wiki_dir / "corpus_graph.json"
+    python(
+        ROOT / "src" / "build_corpus_graph.py",
+        "--analyses-dir", str(analyses_dir),
+        "--manifest",     str(manifest_path),
+        "--output-file",  str(corpus_graph_path),
+    )
+    python(ROOT / "src" / "validate_json.py", str(corpus_graph_path))
+    print(f"\nzebra: corpus graph → {corpus_graph_path}")
+    print(f"  next: zebra wiki --stem {stem}")
+
+
+def cmd_wiki(args):
+    """zebra wiki [--stem STEM] [--title TITLE]"""
+    stem  = args.stem or latest_stem_wiki()
+    title = args.title or stem.replace("_", " ").title()
+    model = args.model or os.environ.get("MODEL", "granite4")
+
+    wiki_dir          = ROOT / "data" / "wiki" / stem
+    corpus_graph_path = wiki_dir / "corpus_graph.json"
+
+    if not corpus_graph_path.exists():
+        print(f"zebra wiki: no corpus graph found at {corpus_graph_path}")
+        print(f"  run: zebra crawl <repo_dir> --stem {stem}")
+        sys.exit(1)
+
+    print(f"zebra wiki  →  {wiki_dir}  (title='{title}')")
+
+    # 1. Generate articles for all themes
+    python(
+        ROOT / "wiki" / "generate_articles.py",
+        "--corpus-graph", str(corpus_graph_path),
+        "--wiki-dir",     str(wiki_dir),
+        "--model",        model,
+    )
+
+    # 2. Assemble static site
+    python(
+        ROOT / "wiki" / "assemble_site.py",
+        "--wiki-dir", str(wiki_dir),
+        "--title",    title,
+    )
+
+    site_dir = wiki_dir / "site"
+    print(f"\nzebra: site assembled → {site_dir}/")
+    print(f"  open: {site_dir}/index.html")
+    print(f"  or:   python3 -m http.server 8080 --directory {site_dir}")
+
+
+def cmd_search(args):
+    """zebra search <query> [--stem STEM] [--mode entity|claim|theme|full]"""
+    if not args.target:
+        print("zebra search: query required")
+        sys.exit(1)
+
+    stem = args.stem or latest_stem()
+
+    # Prefer corpus graph if it exists, fall back to single-doc graph
+    wiki_graph  = ROOT / "data" / "wiki"  / stem / "corpus_graph.json"
+    canon_graph = ROOT / "data" / "canonical" / stem / "graph.json"
+
+    if wiki_graph.exists():
+        gpath = wiki_graph
+    elif canon_graph.exists():
+        gpath = canon_graph
+    else:
+        print(f"zebra: no graph found for stem '{stem}'")
+        sys.exit(1)
+
+    mode = getattr(args, "mode", None) or "full"
+    python(
+        ROOT / "src" / "search_corpus.py",
+        "--graph", str(gpath),
+        "--mode",  mode,
+        "--query", args.target,
+    )
+
+
+def cmd_diff(args):
+    """zebra diff <before_graph> <after_graph>"""
+    if not args.target:
+        print("zebra diff: before-graph path required as target")
+        sys.exit(1)
+    if not args.after:
+        print("zebra diff: --after <graph> required")
+        sys.exit(1)
+
+    (ROOT / "data" / "diffs").mkdir(parents=True, exist_ok=True)
+    import re as _re
+    slug = _re.sub(r"[^\w]", "_", f"{Path(args.target).stem}_{Path(args.after).stem}")
+    out  = ROOT / "data" / "diffs" / f"{slug}.json"
+
+    python(
+        ROOT / "src" / "diff_graphs.py",
+        "--before", args.target,
+        "--after",  args.after,
+        "--output", str(out),
+        "--human",
+    )
+
+
+def cmd_person(args):
+    """zebra person [--stem STEM]"""
+    stem = args.stem or latest_stem_wiki()
+
+    wiki_dir    = ROOT / "data" / "wiki" / stem
+    corpus_graph= wiki_dir / "corpus_graph.json"
+    manifest    = wiki_dir / "manifest.json"
+    out_dir     = ROOT / "data" / "person" / stem
+
+    if not corpus_graph.exists():
+        print(f"zebra person: no corpus graph found — run 'zebra crawl' first")
+        sys.exit(1)
+    if not manifest.exists():
+        print(f"zebra person: no manifest found — run 'zebra crawl' first")
+        sys.exit(1)
+
+    print(f"zebra person  →  {out_dir}")
+    python(
+        ROOT / "src" / "build_person_graph.py",
+        "--corpus-graph", str(corpus_graph),
+        "--manifest",     str(manifest),
+        "--output-dir",   str(out_dir),
+    )
+    print(f"\n  person graph: {out_dir}/person_graph.json")
+    print(f"  projections : intellectual_trajectory, open_questions,")
+    print(f"                concept_network, argument_positions")
+
+
+def cmd_serve(args):
+    """zebra serve [--stem STEM] [--port N]"""
+    stem  = args.stem or latest_stem_wiki()
+    port  = getattr(args, "port", None) or 8080
+    title = args.title or stem.replace("_", " ").title()
+
+    wiki_dir = ROOT / "data" / "wiki" / stem
+
+    python(
+        ROOT / "wiki" / "serve.py",
+        "--wiki-dir", str(wiki_dir),
+        "--title",    title,
+        "--port",     str(port),
+    )
+
+
+def latest_stem_wiki() -> str:
+    """Return the most recently modified stem under data/wiki/."""
+    wiki_dir = ROOT / "data" / "wiki"
+    if not wiki_dir.exists():
+        print("zebra: no wiki data found — run 'zebra crawl <repo>' first")
+        sys.exit(1)
+    stems = sorted(
+        (p for p in wiki_dir.iterdir() if p.is_dir() and (p / "corpus_graph.json").exists()),
+        key=lambda p: p.stat().st_mtime, reverse=True,
+    )
+    if not stems:
+        print("zebra: no corpus_graph.json found — run 'zebra crawl <repo>' first")
+        sys.exit(1)
+    return stems[0].name
+
+
+# ── argument parsing ──────────────────────────────────────────────────────────
+
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        prog="zebra",
+        description="zebragraph — predation-resistant text analysis engine",
+        add_help=True,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=__doc__,
+    )
+    p.add_argument("verb", choices=["extract", "project", "render", "simulate", "crawl", "wiki", "search", "diff", "person", "serve"],
+                   help="command verb")
+    p.add_argument("target", nargs="?", default=None,
+                   help="file path (extract) or name/all (project/render/simulate)")
+    p.add_argument("--stem", default=None,
+                   help="override stem (default: derived from last extracted file)")
+    p.add_argument("--model", default=None,
+                   help="Ollama model name (default: granite4 or $MODEL env var)")
+    p.add_argument("--title", default=None,
+                   help="Site title for zebra wiki (default: derived from stem)")
+    p.add_argument("--after", default=None,
+                   help="Second graph path for zebra diff")
+    p.add_argument("--port", type=int, default=8080,
+                   help="Port for zebra serve (default: 8080)")
+    p.add_argument("--mode", default="full",
+                   choices=["full","entity","claim","theme"],
+                   help="Search mode for zebra search (default: full)")
+    return p
+
+
+VERBS = {
+    "extract":  cmd_extract,
+    "project":  cmd_project,
+    "render":   cmd_render,
+    "simulate": cmd_simulate,
+    "crawl":    cmd_crawl,
+    "wiki":     cmd_wiki,
+    "search":   cmd_search,
+    "diff":     cmd_diff,
+    "person":   cmd_person,
+    "serve":    cmd_serve,
+}
+
+
+def main():
+    # Change to repo root so relative data/ paths always resolve correctly
+    os.chdir(ROOT)
+
+    parser = build_parser()
+    if len(sys.argv) < 2:
+        parser.print_help()
+        sys.exit(0)
+
+    args = parser.parse_args()
+    VERBS[args.verb](args)
+
+
+if __name__ == "__main__":
+    main()

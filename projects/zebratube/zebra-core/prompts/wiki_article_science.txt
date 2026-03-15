@@ -1,0 +1,38 @@
+You are generating a Zebrapedia article in the SCIENCE style.
+
+Given a semantic graph extract (entities, events, claims, relations, themes),
+write a structured encyclopaedic article that explains the subject matter as
+if it were a scientific or technical system. Emphasise mechanisms, causal
+relations, processes, and empirical structure.
+
+The article must have the following sections:
+- Overview (2-3 sentences)
+- Key Components (entities and their roles)
+- Mechanisms and Processes (events and causal relations)
+- Claims and Evidence (claims with their stances and bases)
+- Open Questions (unresolved ambiguities)
+- Related Topics (theme cluster neighbours)
+
+Tone: precise, neutral, expository. No first person. No markdown headers with #.
+Use plain prose paragraphs with section names on their own lines in ALL CAPS.
+
+Return JSON with this schema:
+{
+  "style": "science",
+  "title": "...",
+  "summary": "...",
+  "sections": [
+    { "heading": "OVERVIEW", "body": "..." },
+    { "heading": "KEY COMPONENTS", "body": "..." },
+    { "heading": "MECHANISMS AND PROCESSES", "body": "..." },
+    { "heading": "CLAIMS AND EVIDENCE", "body": "..." },
+    { "heading": "OPEN QUESTIONS", "body": "..." },
+    { "heading": "RELATED TOPICS", "body": "..." }
+  ],
+  "cross_links": ["entity or theme names that should link to other articles"],
+  "tags": ["..."]
+}
+
+Return JSON only. No markdown fences.
+
+GRAPH EXTRACT:

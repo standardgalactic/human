@@ -7,7 +7,7 @@
 
 <style>
 
-:root{--vh:1vh;}
+:root { --vh:1vh; }
 
 body{
 margin:0;
@@ -22,9 +22,8 @@ justify-content:flex-start;
 text-align:center;
 padding:20px;
 overflow-y:auto;
+perspective:800px;
 }
-
-/* CRT scanlines */
 
 body::after{
 content:"";
@@ -41,10 +40,7 @@ pointer-events:none;
 mix-blend-mode:screen;
 }
 
-h2{
-margin-top:0;
-letter-spacing:1px;
-}
+h2{margin-top:0;letter-spacing:1px;}
 
 .subtitle{
 opacity:.7;
@@ -53,8 +49,6 @@ max-width:720px;
 line-height:1.45;
 margin-bottom:20px;
 }
-
-/* vector display */
 
 canvas{
 width:340px;
@@ -67,20 +61,13 @@ border-radius:50%;
 margin-bottom:18px;
 }
 
-@media (max-height:700px){
-canvas{
-width:260px;
-height:260px;
-}
-}
-
 .controls{
 display:flex;
 gap:10px;
 flex-wrap:wrap;
 justify-content:center;
 align-items:center;
-margin-bottom:20px;
+margin-bottom:10px;
 }
 
 button{
@@ -94,14 +81,26 @@ font-size:.8em;
 text-transform:uppercase;
 }
 
-button:hover{
-background:#002200;
-}
+button:hover{background:#002200;}
 
 .timer{
 min-width:80px;
 font-size:1.1em;
 letter-spacing:1px;
+}
+
+.captions{
+max-width:720px;
+width:100%;
+box-sizing:border-box;
+min-height:2.4em;
+margin-top:10px;
+padding:10px;
+border:1px solid #00ff0030;
+background:#001000;
+font-size:.95em;
+line-height:1.4;
+box-shadow:0 0 10px #00ff0020 inset;
 }
 
 </style>
@@ -110,146 +109,369 @@ letter-spacing:1px;
 <body>
 
 <h2>The Debate</h2>
-
-<div class="subtitle">
-Wordless, Imageless Thought
-</div>
+<div class="subtitle">Wordless, Imageless Thought</div>
 
 <canvas id="scope"></canvas>
 
 <div class="controls">
 <button id="play">Play</button>
 <button id="pause">Pause</button>
-<div class="timer" id="timer">00:00</div>
+<div class="timer" id="timer">--:--</div>
 <button id="loop">Loop Off</button>
 </div>
 
-<audio id="audio" src="Defending_human_reasoning_against_synthetic_fluency.mp3"></audio>
+<div id="captions" class="captions"></div>
+
+<audio id="audio" src="Defending_human_reasoning_against_synthetic_fluency.mp3">
+<track kind="subtitles" src="Defending_human_reasoning_against_synthetic_fluency.vtt" default>
+</audio>
 
 <script>
 
 function setVH(){
-document.documentElement.style.setProperty('--vh',`${window.innerHeight*.01}px`);
+document.documentElement.style.setProperty('--vh',`${window.innerHeight*.01}px`)
 }
-window.addEventListener('resize',setVH);
-setVH();
 
-const canvas=document.getElementById("scope");
-const ctx=canvas.getContext("2d");
+window.addEventListener('resize',()=>{setVH();initCanvas()})
+setVH()
 
-const audio=document.getElementById("audio");
-const play=document.getElementById("play");
-const pause=document.getElementById("pause");
-const loop=document.getElementById("loop");
-const timer=document.getElementById("timer");
+const canvas=document.getElementById("scope")
+const ctx=canvas.getContext("2d")
 
-const dpr=window.devicePixelRatio||1;
-canvas.width=340*dpr;
-canvas.height=340*dpr;
-ctx.scale(dpr,dpr);
+const phosphorCanvas=document.createElement("canvas")
+const phosphorCtx=phosphorCanvas.getContext("2d")
 
-/* Audio analyzer */
+const burnCanvas=document.createElement("canvas")
+const burnCtx=burnCanvas.getContext("2d")
 
-const AudioContext=window.AudioContext||window.webkitAudioContext;
-const audioCtx=new AudioContext();
+const triadCanvas=document.createElement("canvas")
+const triadCtx=triadCanvas.getContext("2d")
 
-const analyser=audioCtx.createAnalyser();
-analyser.fftSize=1024;
+let triadBuilt=false
+let dpr=window.devicePixelRatio||1
 
-const src=audioCtx.createMediaElementSource(audio);
-src.connect(analyser);
-analyser.connect(audioCtx.destination);
+function buildTriadPattern(){
 
-const data=new Uint8Array(analyser.frequencyBinCount);
+if(triadBuilt) return
 
-/* Lissajous animation */
+const spacing=3
 
-let phase=0;
-let drift=0;
+for(let y=0;y<340;y+=spacing){
+for(let x=0;x<340;x+=spacing){
+triadCtx.fillStyle="rgba(0,255,120,0.04)"
+triadCtx.fillRect(x,y,1,1)
+}
+}
+
+triadBuilt=true
+}
+
+function initCanvas(){
+
+dpr=window.devicePixelRatio||1
+
+canvas.width=340*dpr
+canvas.height=340*dpr
+ctx.setTransform(dpr,0,0,dpr,0,0)
+
+phosphorCanvas.width=340*dpr
+phosphorCanvas.height=340*dpr
+phosphorCtx.setTransform(dpr,0,0,dpr,0,0)
+
+burnCanvas.width=340*dpr
+burnCanvas.height=340*dpr
+burnCtx.setTransform(dpr,0,0,dpr,0,0)
+
+triadCanvas.width=340*dpr
+triadCanvas.height=340*dpr
+triadCtx.setTransform(dpr,0,0,dpr,0,0)
+
+buildTriadPattern()
+
+}
+
+initCanvas()
+
+const audio=document.getElementById("audio")
+const play=document.getElementById("play")
+const pause=document.getElementById("pause")
+const loop=document.getElementById("loop")
+const timer=document.getElementById("timer")
+const captions=document.getElementById("captions")
+
+let audioCtx
+let analyser
+let buffer
+
+function initAudio(){
+if(audioCtx) return
+audioCtx=new(window.AudioContext||window.webkitAudioContext)()
+analyser=audioCtx.createAnalyser()
+analyser.fftSize=2048
+const src=audioCtx.createMediaElementSource(audio)
+src.connect(analyser)
+analyser.connect(audioCtx.destination)
+buffer=new Uint8Array(analyser.fftSize)
+}
+
+let rot=0
+let phaseX=0
+let phaseY=0
+let flare=0
+let beamBloom=0
+let jitterOffset=0
+let deflectDrift=0
+let warmup=1
+let flybackPhase=0
+let humPhase=0
+let triadPhase=0
+
+const HUM_FREQ=60
+const HUM_STRENGTH=0.6
+const WARMUP_DURATION=8
+
+function barrelWarp(x,y){
+const dx=x-170
+const dy=y-170
+const r=Math.sqrt(dx*dx+dy*dy)
+const f=1+0.08*(r/170)*(r/170)
+return[170+dx*f,170+dy*f]
+}
+
+function deflectionWarp(x,y){
+const dx=x-170
+const dy=y-170
+const nx=Math.max(-1,Math.min(1,dx/170))
+const ny=Math.max(-1,Math.min(1,dy/170))
+const instability=warmup*0.05
+const wx=dx*(1+(0.018+instability+Math.sin(deflectDrift)*0.004)*ny*ny)
+const wy=dy*(1-(0.012+instability+Math.cos(deflectDrift)*0.003)*nx*nx)
+return[170+wx,170+wy]
+}
+
+function updateAmplitude(){
+
+if(!buffer) return
+
+let peak=0
+
+for(let i=0;i<buffer.length/2;i++){
+const v=Math.abs((buffer[i]-128)/128)
+if(v>peak) peak=v
+}
+
+const electricalNoise=warmup*(Math.random()-.5)*4
+jitterOffset=((peak*1.6)+electricalNoise)*(Math.random()-.5)
+beamBloom=beamBloom*.7+peak*.3
+
+}
+
+function drawTriad(){
+
+triadPhase+=0.002
+
+const shimmer=0.04+Math.sin(triadPhase)*0.01
+const driftX=Math.sin(triadPhase*0.6)*1.5/dpr
+const driftY=Math.cos(triadPhase*0.7)*1.5/dpr
+
+ctx.globalAlpha=shimmer
+ctx.drawImage(triadCanvas,driftX,driftY)
+ctx.globalAlpha=1
+
+}
+
+function drawFlyback(){
+
+const y=170+Math.sin(flybackPhase)*80
+
+const g=ctx.createLinearGradient(0,y-1,340,y+1)
+
+g.addColorStop(0,"rgba(0,255,120,0)")
+g.addColorStop(.3,"rgba(0,255,120,.05)")
+g.addColorStop(.5,"rgba(255,255,255,.08)")
+g.addColorStop(.7,"rgba(0,255,120,.05)")
+g.addColorStop(1,"rgba(0,255,120,0)")
+
+ctx.globalAlpha=.35
+ctx.fillStyle=g
+ctx.fillRect(0,y-1,340,2)
+ctx.globalAlpha=1
+
+}
 
 function draw(){
 
-ctx.fillStyle="rgba(0,0,0,.15)";
-ctx.fillRect(0,0,340,340);
+if(analyser){
+analyser.getByteTimeDomainData(buffer)
+warmup=Math.max(0,1-(audio.currentTime/WARMUP_DURATION))
+updateAmplitude()
+deflectDrift+=.0004
+}
 
-analyser.getByteFrequencyData(data);
+rot+=.002
+phaseX+=.002
+phaseY+=.00274
+flybackPhase+=.03
 
-/* calculate audio energy */
+humPhase+=HUM_FREQ*0.0008
+const humStrength=HUM_STRENGTH*(0.4+beamBloom*0.6)
 
-let bass=0;
-for(let i=0;i<40;i++) bass+=data[i];
-bass/=40;
+const humX=Math.sin(humPhase)*humStrength
+const humY=Math.cos(humPhase*1.1)*humStrength*0.7
 
-let mid=0;
-for(let i=40;i<120;i++) mid+=data[i];
-mid/=80;
+const humGlow=0.02*Math.sin(humPhase*0.5)
 
-const amp=80+(bass/255)*90;
-const freqX=3+(mid/255)*2;
-const freqY=4+(bass/255)*2;
+phosphorCtx.fillStyle=`rgba(0,0,0,${0.05+beamBloom*.06})`
+phosphorCtx.fillRect(0,0,340,340)
 
-/* vector glow */
+burnCtx.fillStyle="rgba(0,0,0,.002)"
+burnCtx.fillRect(0,0,340,340)
 
-ctx.strokeStyle="#00ff66";
-ctx.lineWidth=1.5;
-ctx.beginPath();
+if(buffer){
 
-for(let i=0;i<360;i++){
+phosphorCtx.beginPath()
 
-let a=i*0.03+phase;
+const cos=Math.cos(rot)
+const sin=Math.sin(rot)
 
-let x=170+Math.sin(a*freqX+drift)*amp;
-let y=170+Math.sin(a*freqY+Math.PI/2)*amp;
+let prevPx=null
+let prevPy=null
+const traceLen=buffer.length-1
 
-if(i===0) ctx.moveTo(x,y);
-else ctx.lineTo(x,y);
+for(let i=0;i<traceLen;i++){
+
+const idxX=Math.floor((i+phaseX*buffer.length)%buffer.length)
+const idxY=Math.floor((i+phaseY*buffer.length)%buffer.length)
+
+let xSample=(buffer[idxX]-128)/128
+let ySample=(buffer[idxY]-128)/128
+
+const x=xSample*150
+const y=ySample*150
+
+const xr=x*cos-y*sin
+const yr=x*sin+y*cos
+
+let px=170+xr+jitterOffset+humX
+let py=170+yr+humY
+
+;[px,py]=barrelWarp(px,py)
+;[px,py]=deflectionWarp(px,py)
+
+if(i===0) phosphorCtx.moveTo(px,py)
+else phosphorCtx.lineTo(px,py)
+
+prevPx=px
+prevPy=py
 
 }
 
-ctx.stroke();
+const brightness=.15+flare*.25+beamBloom*.15
 
-/* slow organic motion */
+/* halo bloom */
 
-phase+=audio.paused?0.002:0.018;
-drift+=0.003;
+phosphorCtx.strokeStyle=`rgba(0,255,120,${brightness*0.25})`
+phosphorCtx.lineWidth=18
+phosphorCtx.stroke()
 
-requestAnimationFrame(draw);
+/* beam glow */
+
+phosphorCtx.strokeStyle=`rgba(0,255,120,${brightness})`
+phosphorCtx.lineWidth=6
+phosphorCtx.stroke()
+
+/* sharp vector */
+
+phosphorCtx.strokeStyle="#00ff66"
+phosphorCtx.lineWidth=1.4
+phosphorCtx.stroke()
+
+burnCtx.globalAlpha=.02
+burnCtx.drawImage(phosphorCanvas,0,0)
+burnCtx.globalAlpha=1
 
 }
 
-draw();
+ctx.fillStyle="#000"
+ctx.fillRect(0,0,340,340)
 
-/* timer */
+ctx.drawImage(burnCanvas,0,0,340*dpr,340*dpr,0,0,340,340)
+
+ctx.globalAlpha=Math.min(1,Math.max(0,.9+humGlow))
+ctx.drawImage(phosphorCanvas,0,0,340*dpr,340*dpr,0,0,340,340)
+ctx.globalAlpha=1
+
+drawTriad()
+drawFlyback()
+
+requestAnimationFrame(draw)
+
+}
+
+draw()
+
+play.onclick=()=>{
+initAudio()
+audioCtx.resume().then(()=>audio.play())
+}
+
+pause.onclick=()=>audio.pause()
+
+loop.onclick=()=>{
+audio.loop=!audio.loop
+loop.textContent=audio.loop?"Loop On":"Loop Off"
+}
 
 function formatTime(sec){
-const m=Math.floor(sec/60);
-const s=Math.floor(sec%60);
-return `${m.toString().padStart(2,"0")}:${s.toString().padStart(2,"0")}`;
+const m=Math.floor(sec/60)
+const s=Math.floor(sec%60)
+return`${m.toString().padStart(2,"0")}:${s.toString().padStart(2,"0")}`
 }
 
 function updateTimer(){
-if(audio.duration){
-const remaining=audio.duration-audio.currentTime;
-timer.textContent=formatTime(remaining);
+if(audio.duration&&isFinite(audio.duration)){
+timer.textContent=formatTime(audio.duration-audio.currentTime)
 }
-requestAnimationFrame(updateTimer);
+requestAnimationFrame(updateTimer)
 }
 
-updateTimer();
+updateTimer()
 
-/* controls */
+/* subtitles */
 
-play.onclick=()=>{
-audioCtx.resume();
-audio.play();
-};
+function attachTrack(){
 
-pause.onclick=()=>audio.pause();
+const track = audio.textTracks[0]
+if(!track) return
 
-loop.onclick=()=>{
-audio.loop=!audio.loop;
-loop.textContent=audio.loop?"Loop On":"Loop Off";
-};
+track.mode = "hidden"
+
+track.oncuechange = () => {
+
+const cue = track.activeCues[0]
+
+captions.textContent = cue ? cue.text : ""
+
+if(cue) flare = 1
+
+}
+
+}
+
+/* wait until metadata is ready so tracks exist */
+
+if(audio.textTracks.length > 0){
+attachTrack()
+}else{
+audio.addEventListener("loadedmetadata",attachTrack,{once:true})
+}
+
+/* error reporting */
+
+audio.addEventListener("error",()=>{
+timer.textContent="ERR"
+captions.textContent="Audio file could not be loaded."
+})
 
 </script>
 

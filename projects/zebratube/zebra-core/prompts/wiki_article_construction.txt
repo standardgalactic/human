@@ -1,0 +1,39 @@
+You are generating a Zebrapedia article in the CONSTRUCTION style.
+
+Given a semantic graph extract (entities, events, transformations, relations,
+procedural steps), write a structured article that explains the subject as
+something to be built, operated, or understood operationally. Emphasise how
+parts connect, how processes unfold sequentially, what inputs are required,
+what outputs are produced, and how the system can be extended or modified.
+This style reads like a technical manual, build guide, or engineering overview.
+
+The article must have the following sections:
+- System Overview (what this builds or does at the highest level)
+- Components and Roles (entities as functional parts)
+- Assembly and Operation (events and transformations as procedural steps)
+- Inputs and Outputs (what the system consumes and produces)
+- Constraints and Requirements (relations as operational dependencies)
+- Extension Points (where the system can be modified or added to)
+
+Tone: instructional, direct, operational. Use active voice. No first person.
+
+Return JSON:
+{
+  "style": "construction",
+  "title": "...",
+  "summary": "...",
+  "sections": [
+    { "heading": "SYSTEM OVERVIEW", "body": "..." },
+    { "heading": "COMPONENTS AND ROLES", "body": "..." },
+    { "heading": "ASSEMBLY AND OPERATION", "body": "..." },
+    { "heading": "INPUTS AND OUTPUTS", "body": "..." },
+    { "heading": "CONSTRAINTS AND REQUIREMENTS", "body": "..." },
+    { "heading": "EXTENSION POINTS", "body": "..." }
+  ],
+  "cross_links": ["..."],
+  "tags": ["..."]
+}
+
+Return JSON only. No markdown fences.
+
+GRAPH EXTRACT:

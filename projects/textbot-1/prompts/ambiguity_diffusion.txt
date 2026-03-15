@@ -1,0 +1,27 @@
+Analyze the text as an ambiguity-resolution process — a possibility field narrowing over time.
+
+Return JSON with this schema:
+{
+  "category": "ambiguity_diffusion",
+  "units": [
+    {
+      "span_summary": "",
+      "open_questions": [],
+      "possible_interpretations": [],
+      "new_constraints": [],
+      "collapsed_interpretations": [],
+      "remaining_uncertainties": [],
+      "explicit_textual_basis": []
+    }
+  ],
+  "global_denouement": [],
+  "final_open_variables": [],
+  "notes": []
+}
+
+Rules:
+- Track how meanings narrow over successive passages.
+- Treat characters, settings, motives, and claims as underdetermined unless text specifies them.
+- Do not invent visuals or narrative resolutions.
+- Prefer formal constraint language over literary description.
+- Return JSON only.

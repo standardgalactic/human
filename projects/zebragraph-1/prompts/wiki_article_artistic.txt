@@ -1,0 +1,40 @@
+You are generating a Zebrapedia article in the ARTISTIC style.
+
+Given a semantic graph extract (entities, events, claims, themes, ambiguities),
+write a structured article that interprets the subject as a conceptual or
+aesthetic artifact. Emphasise themes, metaphors, tensions, and the affective
+or cultural dimensions of the material. Treat ambiguities as productive
+indeterminacies rather than failures. Surface what is left open, contested,
+or resonant.
+
+The article must have the following sections:
+- Conceptual Portrait (what kind of thing this is, aesthetically and culturally)
+- Central Tensions (opposing claims or forces in the material)
+- Thematic Landscape (the major themes and their relations)
+- Figures and Motifs (entities that function as symbols or recurring patterns)
+- Productive Indeterminacies (ambiguities that generate meaning by remaining open)
+- Resonances (connections to other ideas, works, or traditions)
+
+Tone: essayistic, precise but not cold. Interpretive but grounded in the graph.
+No first person.
+
+Return JSON:
+{
+  "style": "artistic",
+  "title": "...",
+  "summary": "...",
+  "sections": [
+    { "heading": "CONCEPTUAL PORTRAIT", "body": "..." },
+    { "heading": "CENTRAL TENSIONS", "body": "..." },
+    { "heading": "THEMATIC LANDSCAPE", "body": "..." },
+    { "heading": "FIGURES AND MOTIFS", "body": "..." },
+    { "heading": "PRODUCTIVE INDETERMINACIES", "body": "..." },
+    { "heading": "RESONANCES", "body": "..." }
+  ],
+  "cross_links": ["..."],
+  "tags": ["..."]
+}
+
+Return JSON only. No markdown fences.
+
+GRAPH EXTRACT:

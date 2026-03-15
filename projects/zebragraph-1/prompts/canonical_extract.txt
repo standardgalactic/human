@@ -1,0 +1,104 @@
+Analyze the following text and extract its canonical semantic graph.
+
+This is the only LLM analysis step in the pipeline. Every downstream projection
+and renderer derives from your output deterministically. Accuracy and
+faithfulness to the text are therefore critical.
+
+Return VALID JSON ONLY with exactly this schema:
+
+{
+  "entities": [
+    {
+      "id": "ent_001",
+      "name": "exact name or noun phrase from text",
+      "type": "person | place | concept | object | institution | other",
+      "attributes": {
+        "explicit":   ["attributes stated directly in the text"],
+        "uncertain":  ["attributes implied but not stated; things left underdetermined"]
+      },
+      "textual_basis": ["exact short phrase from text that introduces this entity"]
+    }
+  ],
+
+  "events": [
+    {
+      "id": "evt_001",
+      "label": "short verb phrase describing the state change",
+      "participants": ["entity ids involved"],
+      "time_order": 1,
+      "causes": ["event ids that caused this event"],
+      "effects": ["event ids that follow from this event"],
+      "textual_basis": ["exact short phrase from text"]
+    }
+  ],
+
+  "relations": [
+    {
+      "source": "id of source node",
+      "relation": "participates_in | causes | resolves | supports | opposes | belongs_to | transforms | other",
+      "target": "id of target node",
+      "textual_basis": ["exact short phrase from text"]
+    }
+  ],
+
+  "claims": [
+    {
+      "id": "clm_001",
+      "text": "the claim as stated or closely paraphrased",
+      "stance": "asserted | questioned | contested | hypothetical | definition",
+      "supports": ["ids of claims this claim supports"],
+      "opposes":  ["ids of claims this claim opposes"],
+      "textual_basis": ["exact short phrase"]
+    }
+  ],
+
+  "ambiguities": [
+    {
+      "id": "amb_001",
+      "label": "short label for the underdetermined element",
+      "applies_to": ["entity or event ids that are underdetermined"],
+      "possibilities": ["list of possible interpretations or values"],
+      "resolved_by": ["event ids that narrow or collapse this ambiguity"],
+      "status": "open | resolved",
+      "textual_basis": ["exact short phrase that introduces the ambiguity"]
+    }
+  ],
+
+  "transformations": [
+    {
+      "id": "trn_001",
+      "input":     "state or entity before the transformation",
+      "operation": "verb phrase describing the transformation",
+      "output":    "state or entity after the transformation",
+      "triggered_by": ["event ids that trigger this transformation"],
+      "textual_basis": ["exact short phrase"]
+    }
+  ],
+
+  "timeline": [
+    {
+      "index": 1,
+      "event_id": "evt_001"
+    }
+  ],
+
+  "themes": [
+    {
+      "id": "thm_001",
+      "label": "theme label",
+      "members": ["ids of entities, events, or claims that belong to this theme"],
+      "textual_basis": ["exact short phrase"]
+    }
+  ]
+}
+
+STRICT RULES:
+1. Do not invent sensory detail, visual descriptions, or narrative colour unless
+   the text states it explicitly.
+2. Preserve underspecification. If the text does not specify an attribute, record
+   it as uncertain rather than guessing.
+3. Use stable, unique IDs within this chunk (ent_001, evt_001, etc.).
+4. Every item must have at least one entry in textual_basis drawn verbatim from
+   the input text (short phrase, not a full sentence).
+5. If you are uncertain, use empty arrays rather than inventing content.
+6. Return JSON only. No markdown fences, no commentary.
